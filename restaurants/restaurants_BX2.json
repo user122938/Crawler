@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Jay's Spanish Restaurant",
+        "address": "898 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJCX96OgD1wokRr1Kw5utCbQw",
+        "rating": 4.6,
+        "user_ratings_total": 14,
+        "phone_number": "(718) 219-5019"
+    },
+    {
+        "name": "Cafe Italia",
+        "address": "500 Tiffany St, Bronx, NY 10474, USA",
+        "place_id": "ChIJMTT3YyL1wokRpV0g1n_AH9g",
+        "rating": 4.9,
+        "user_ratings_total": 36,
+        "phone_number": "(718) 930-0053"
+    },
+    {
+        "name": "Milly's Corner",
+        "address": "1129 Longwood Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJPfGVE6n1wokRsC69eNfH0Ac",
+        "rating": 4.2,
+        "user_ratings_total": 140,
+        "phone_number": "(718) 893-4900"
+    },
+    {
+        "name": "Sugar Restaurant",
+        "address": "1010 Southern Blvd, Bronx, NY 10459, USA",
+        "place_id": "ChIJEQ7GGTj1wokRPTSSOZSVons",
+        "rating": 4.7,
+        "user_ratings_total": 1452,
+        "phone_number": "(718) 600-7330"
+    },
+    {
+        "name": "Boogie Down Grind",
+        "address": "868 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJ_Y25fgD1wokRWMtstKibsA0",
+        "rating": 4.7,
+        "user_ratings_total": 452,
+        "phone_number": "(347) 270-0141"
+    },
+    {
+        "name": "Natural Squeeze",
+        "address": "1023 Longwood Ave Apt 1, Bronx, NY 10459, USA",
+        "place_id": "ChIJ3cSsaYf1wokRh2tt2mmtHTk",
+        "rating": 4.8,
+        "user_ratings_total": 153,
+        "phone_number": "(718) 290-2655"
+    },
+    {
+        "name": "Market Place Restaurant Cocktail",
+        "address": "355 Food Center Dr, Bronx, NY 10474, USA",
+        "place_id": "ChIJQfOPpxD1wokRwYCHk1YIbaY",
+        "rating": 4.3,
+        "user_ratings_total": 31,
+        "phone_number": "(718) 542-2900"
+    },
+    {
+        "name": "JOHNNY'S CAFE",
+        "address": "1232 Randall Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJw7dG4tv1wokRpJ4jxfc0kOM",
+        "rating": 4.7,
+        "user_ratings_total": 61,
+        "phone_number": "(718) 860-2330"
+    },
+    {
+        "name": "Randall Restaurant",
+        "address": "1328 Randall Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJMeQ3Zwb1wokRAXVVeEED8KM",
+        "rating": 4.3,
+        "user_ratings_total": 627,
+        "phone_number": "(718) 328-0343"
+    },
+    {
+        "name": "Deluncheon Kingdom Kitchen",
+        "address": "601 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJESJS6nf1wokRJWTCXWIXgvk",
+        "rating": null,
+        "user_ratings_total": null,
+        "phone_number": null
+    },
+    {
+        "name": "Xin Rong",
+        "address": "741 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJMavNNAf1wokRBcBB1YKdDL0",
+        "rating": 4.2,
+        "user_ratings_total": 91,
+        "phone_number": "(718) 991-2890"
+    },
+    {
+        "name": "Morenita Restaurant Corp",
+        "address": "962 Longwood Ave, Bronx, NY 10459, USA",
+        "place_id": "ChIJRXN8wj71wokRh274mKxOlhY",
+        "rating": 4.8,
+        "user_ratings_total": 5,
+        "phone_number": "(347) 270-0850"
+    },
+    {
+        "name": "Fratilli's Pizza",
+        "address": "404 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJ7xJUhgX1wokRzz0vicS9T_o",
+        "rating": 4.3,
+        "user_ratings_total": 743,
+        "phone_number": "(718) 542-7340"
+    },
+    {
+        "name": "The Point CAFE & GRILL",
+        "address": "402 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJa-aUfA_1wokRMXZGiz3bU-E",
+        "rating": 2.8,
+        "user_ratings_total": 6,
+        "phone_number": "(718) 589-7777"
+    },
+    {
+        "name": "Papi’s Cheese steaks And More",
+        "address": "983 Leggett Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJT33eIwD1wokRzaJksUq3in0",
+        "rating": 4.7,
+        "user_ratings_total": 164,
+        "phone_number": "(929) 462-3519"
+    },
+    {
+        "name": "LA POSADA MEXICANA",
+        "address": "1176 Garrison Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJxToA4v_0wokR7euFDRR2n2k",
+        "rating": 5,
+        "user_ratings_total": 1,
+        "phone_number": null
+    },
+    {
+        "name": "Hunts Point Chinese Restaurant",
+        "address": "901 Southern Blvd, Bronx, NY 10459, USA",
+        "place_id": "ChIJFX52Eqv1wokRe7o7gpQgwiY",
+        "rating": 4.2,
+        "user_ratings_total": 209,
+        "phone_number": "(718) 378-2055"
+    },
+    {
+        "name": "RUTA 55 RESTAURANT",
+        "address": "1316 Lafayette Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJM8yeSKL1wokR6rqqXlx4FIs",
+        "rating": 4.5,
+        "user_ratings_total": 148,
+        "phone_number": "(718) 709-3935"
+    },
+    {
+        "name": "Hunts Point Deli Corp.",
+        "address": "1331 Seneca Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJIW1zNgD1wokRjvkf_-iHm3E",
+        "rating": 5,
+        "user_ratings_total": 3,
+        "phone_number": null
+    },
+    {
+        "name": "Florinda Restaurant",
+        "address": "656 Prospect Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJe-lfSgz1wokRw0DfAH_9dqs",
+        "rating": 4.8,
+        "user_ratings_total": 13,
+        "phone_number": "(347) 833-2150"
+    },
+    {
+        "name": "Georgina",
+        "address": "1003 E 163rd St, Bronx, NY 10459, USA",
+        "place_id": "ChIJS9olNKv1wokRi1KO9XvGiJY",
+        "rating": 4.3,
+        "user_ratings_total": 219,
+        "phone_number": "(718) 328-6257"
+    },
+    {
+        "name": "Seis Vecinos",
+        "address": "640 Prospect Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJb4LjG7r1wokRyAd4TrnrVeQ",
+        "rating": 4.1,
+        "user_ratings_total": 2270,
+        "phone_number": "(718) 684-8604"
+    },
+    {
+        "name": "Hunts Point Market",
+        "address": "1119 Leggett Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJ1wFvV6_1wokRHgZa08N7_pY",
+        "rating": 4.4,
+        "user_ratings_total": 14,
+        "phone_number": null
+    },
+    {
+        "name": "Minato Izakaya & Garden by Porto Salvo",
+        "address": "407 E 161st St, Bronx, NY 10451, USA",
+        "place_id": "ChIJn2Kr0cn1wokRV26IuUgbVTk",
+        "rating": 4.5,
+        "user_ratings_total": 113,
+        "phone_number": "(929) 376-9651"
+    },
+    {
+        "name": "Italian pizzeria",
+        "address": "889 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJ0U9meAD1wokRJ-fGw1Bl1sw",
+        "rating": 4.2,
+        "user_ratings_total": 5,
+        "phone_number": "(929) 263-1446"
+    },
+    {
+        "name": "Mottley Kitchen",
+        "address": "402 E 140th St, Bronx, NY 10454, USA",
+        "place_id": "ChIJqWuyfsP1wokRVGQNznSLGU8",
+        "rating": 4.7,
+        "user_ratings_total": 661,
+        "phone_number": "(929) 308-2099"
+    },
+    {
+        "name": "McDonald's",
+        "address": "925 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJvydCxar1wokRF3XLU1V5BKU",
+        "rating": 3.6,
+        "user_ratings_total": 1287,
+        "phone_number": "(718) 215-8275"
+    },
+    {
+        "name": "Oasis Coffee Shop",
+        "address": "390 Tiffany St, Bronx, NY 10474, USA",
+        "place_id": "ChIJ2b9se6f1wokRUN8kWpFfzN0",
+        "rating": 4.7,
+        "user_ratings_total": 113,
+        "phone_number": "(718) 328-4400"
+    },
+    {
+        "name": "El Valle",
+        "address": "794 Southern Blvd, Bronx, NY 10455, USA",
+        "place_id": "ChIJg47Gl671wokRR_Obc9bP5o0",
+        "rating": 3.8,
+        "user_ratings_total": 1204,
+        "phone_number": "(718) 378-1600"
+    },
+    {
+        "name": "McDonald's",
+        "address": "875 Garrison Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJCyBT2qv1wokR1WT61gXkuvE",
+        "rating": 3.5,
+        "user_ratings_total": 1828,
+        "phone_number": "(718) 617-0329"
+    },
+    {
+        "name": "Pine Restaurant",
+        "address": "1913 Bronxdale Ave, Bronx, NY 10462, USA",
+        "place_id": "ChIJIcUqAKP0wokRJzfqJIeeYkA",
+        "rating": 4.5,
+        "user_ratings_total": 4660,
+        "phone_number": "(718) 792-5956"
+    },
+    {
+        "name": "La Cueva Fonda",
+        "address": "961 Leggett Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJ0zK5_bD1wokRWzE8uQrJUZU",
+        "rating": 4.5,
+        "user_ratings_total": 332,
+        "phone_number": "(347) 406-5584"
+    },
+    {
+        "name": "Lechonera La Piraña",
+        "address": "766 E 152nd St, Bronx, NY 10455, USA",
+        "place_id": "ChIJEe_u1LD1wokROGwc-ZKWQhE",
+        "rating": 4.5,
+        "user_ratings_total": 607,
+        "phone_number": null
+    },
+    {
+        "name": "Chinese Fried Chicken",
+        "address": "1236 Spofford Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJX2N52qn1wokRZC4ncHApKlc",
+        "rating": 4,
+        "user_ratings_total": 67,
+        "phone_number": "(718) 617-1818"
+    },
+    {
+        "name": "Nanny's Room",
+        "address": "849 Bruckner Blvd, Bronx, NY 10459, USA",
+        "place_id": "ChIJszs1-av1wokRFDC5CP6RYTg",
+        "rating": 5,
+        "user_ratings_total": 1,
+        "phone_number": null
+    },
+    {
+        "name": "Jimbo's Hamburger Palace",
+        "address": "1025 E 163rd St, Bronx, NY 10459, USA",
+        "place_id": "ChIJ9Y_ZiJb1wokRt-DFGMEeNdk",
+        "rating": 3.9,
+        "user_ratings_total": 340,
+        "phone_number": "(347) 590-0750"
+    },
+    {
+        "name": "Daisy's Pizza",
+        "address": "980 Longwood Ave, Bronx, NY 10459, USA",
+        "place_id": "ChIJZYgvK6z1wokRB5ldDdJtAus",
+        "rating": 4,
+        "user_ratings_total": 140,
+        "phone_number": "(718) 328-0705"
+    },
+    {
+        "name": "Allen's Restaurant",
+        "address": "1201 Randall Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJy8hfEqj1wokRSqG6pcZOdiM",
+        "rating": 3.3,
+        "user_ratings_total": 84,
+        "phone_number": "(718) 861-7564"
+    },
+    {
+        "name": "May May",
+        "address": "741 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJf9GrzAD1wokRSxaH1Klssnk",
+        "rating": 4.2,
+        "user_ratings_total": 9,
+        "phone_number": "(718) 542-5307"
+    },
+    {
+        "name": "Point Terminal Foods Inc",
+        "address": "300 Hunts Point Terminal Market, Bronx, NY 10474, USA",
+        "place_id": "ChIJxdWrwNT1wokRrpwRH0Gs2Vk",
+        "rating": 4.2,
+        "user_ratings_total": 10,
+        "phone_number": "(718) 378-4045"
+    },
+    {
+        "name": "La Patrona Restaurant",
+        "address": "558 Southern Blvd, Bronx, NY 10455, USA",
+        "place_id": "ChIJV8naGrr1wokRlmBGgvH5HQU",
+        "rating": 4.4,
+        "user_ratings_total": 360,
+        "phone_number": "(347) 270-5545"
+    },
+    {
+        "name": "First healthy fresh gourmet",
+        "address": "795 Southern Blvd, Bronx, NY 10455, USA",
+        "place_id": "ChIJSRLwG8P1wokR94JVEgjsyK8",
+        "rating": 4.8,
+        "user_ratings_total": 10,
+        "phone_number": "(917) 259-7107"
+    },
+    {
+        "name": "Margarita's Restaurant",
+        "address": "915 Avenue St John, Bronx, NY 10455, USA",
+        "place_id": "ChIJU2cEurH1wokRkVyfsPQR-6E",
+        "rating": 4.6,
+        "user_ratings_total": 677,
+        "phone_number": "(347) 270-5541"
+    },
+    {
+        "name": "Tacos Los Tigres Del Bronx",
+        "address": "962 Longwood Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJG426Wc71wokRInAoqbYmh40",
+        "rating": 3.7,
+        "user_ratings_total": 107,
+        "phone_number": "(347) 533-7221"
+    },
+    {
+        "name": "New Chinese Fried Chicken",
+        "address": "1312 Lafayette Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJIz6V5gD1wokRG4h_eQnQlNk",
+        "rating": 4.4,
+        "user_ratings_total": 147,
+        "phone_number": "(718) 842-2854"
+    },
+    {
+        "name": "Mexican Deli",
+        "address": "1302 Lafayette Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJDZq1zrj1wokRiuRzuHwaZ0E",
+        "rating": 5,
+        "user_ratings_total": 1,
+        "phone_number": null
+    },
+    {
+        "name": "Restuarant Hunuts Point Cafe",
+        "address": "842 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJhckkhQD1wokRQ3P_oQW0ebs",
+        "rating": null,
+        "user_ratings_total": null,
+        "phone_number": null
+    },
+    {
+        "name": "Little Chopsticks Kitchen",
+        "address": "959 Leggett Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJ-x-NLq71wokRJz_q9eZvO4s",
+        "rating": 4.4,
+        "user_ratings_total": 191,
+        "phone_number": "(718) 860-3288"
+    },
+    {
+        "name": "Royal Deli & Grill",
+        "address": "980 Intervale Ave, Bronx, NY 10459, USA",
+        "place_id": "ChIJKXBJodf1wokRaWARXfxdX1s",
+        "rating": 5,
+        "user_ratings_total": 6,
+        "phone_number": "(347) 590-5730"
+    },
+    {
+        "name": "Morena Restaurant",
+        "address": "1010 Longwood Ave, Bronx, NY 10459, USA",
+        "place_id": "ChIJj0tfm671wokR-Fu_gYL7FhA",
+        "rating": null,
+        "user_ratings_total": null,
+        "phone_number": null
+    }
+]

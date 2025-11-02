@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Jiang Nan NYC",
+        "address": "103 Bowery, New York, NY 10002, USA",
+        "place_id": "ChIJg0ZHaSRZwokRHymWtw9gKJk",
+        "rating": 4.8,
+        "user_ratings_total": 1400,
+        "phone_number": "(212) 775-8998"
+    },
+    {
+        "name": "Uncle Lou 快樂人",
+        "address": "73 Mulberry St, New York, NY 10013, USA",
+        "place_id": "ChIJSRT5b9ZbwokRYilWRG4jYaY",
+        "rating": 4.5,
+        "user_ratings_total": 2305,
+        "phone_number": "(212) 966-5538"
+    },
+    {
+        "name": "Shanghai 21",
+        "address": "21 Mott St, New York, NY 10013, USA",
+        "place_id": "ChIJTVG07iZawokRq9rPs7ib8bY",
+        "rating": 4.4,
+        "user_ratings_total": 3354,
+        "phone_number": "(212) 766-6311"
+    },
+    {
+        "name": "Chow House",
+        "address": "181 Bleecker St, New York, NY 10012, USA",
+        "place_id": "ChIJ8z3tH5JZwokRU1hSLFhRFQA",
+        "rating": 4.6,
+        "user_ratings_total": 1034,
+        "phone_number": "(212) 837-1021"
+    },
+    {
+        "name": "Noodle Village",
+        "address": "70 Mott St, New York, NY 10013, USA",
+        "place_id": "ChIJk31a6yZawokRCP9vIx0Us18",
+        "rating": 4.2,
+        "user_ratings_total": 1866,
+        "phone_number": "(212) 233-0788"
+    },
+    {
+        "name": "Wo Hop",
+        "address": "17 Mott St, New York, NY 10013, USA",
+        "place_id": "ChIJBfjMbPJbwokRrcQD5YX1LEI",
+        "rating": 4.4,
+        "user_ratings_total": 4220,
+        "phone_number": "(212) 962-8617"
+    },
+    {
+        "name": "OLIO E PIÙ",
+        "address": "3 Greenwich Ave, New York, NY 10014, USA",
+        "place_id": "ChIJ_RUJvZZZwokRNUEv3K4nSik",
+        "rating": 4.7,
+        "user_ratings_total": 9172,
+        "phone_number": "(212) 243-6546"
+    },
+    {
+        "name": "Joe's Shanghai",
+        "address": "46 Bowery, New York, NY 10013, USA",
+        "place_id": "ChIJ2XIY-CZawokRokUjxBSl5hw",
+        "rating": 4.2,
+        "user_ratings_total": 6003,
+        "phone_number": "(212) 233-8888"
+    },
+    {
+        "name": "Steam",
+        "address": "470 6th Ave, New York, NY 10011, USA",
+        "place_id": "ChIJJYRLYrtZwokRuRmuvnMPaYE",
+        "rating": 4.6,
+        "user_ratings_total": 460,
+        "phone_number": "(917) 262-0565"
+    },
+    {
+        "name": "Wo Hop Next Door",
+        "address": "15 Mott St, New York, NY 10013, USA",
+        "place_id": "ChIJ_2GkXcdbwokR07cBLmAz1ok",
+        "rating": 4.4,
+        "user_ratings_total": 1047,
+        "phone_number": "(212) 566-3841"
+    },
+    {
+        "name": "Yum Cha Chinese Kitchen & Bar 姑苏里",
+        "address": "228 Thompson St, New York, NY 10012, USA",
+        "place_id": "ChIJp3m9hEdZwokReSCOD-X9YNs",
+        "rating": 4.7,
+        "user_ratings_total": 709,
+        "phone_number": "(212) 763-0877"
+    },
+    {
+        "name": "Gai Kitchen",
+        "address": "51 Mott St, New York, NY 10013, USA",
+        "place_id": "ChIJT_0oqlpbwokR6wjYsXzMWL8",
+        "rating": 4.6,
+        "user_ratings_total": 559,
+        "phone_number": "(646) 861-3798"
+    },
+    {
+        "name": "Lan Larb Chiang Mai, Soho",
+        "address": "227 Centre St, New York, NY 10013, USA",
+        "place_id": "ChIJzdVRpolZwokRD0zM5dURxsQ",
+        "rating": 4.7,
+        "user_ratings_total": 1263,
+        "phone_number": "(646) 895-9264"
+    },
+    {
+        "name": "Lindens",
+        "address": "2 Renwick St, New York, NY 10013, USA",
+        "place_id": "ChIJh-oPySxZwokRBTfrxwTdRo4",
+        "rating": 4.8,
+        "user_ratings_total": 815,
+        "phone_number": "(929) 595-7706"
+    },
+    {
+        "name": "Banter NYC",
+        "address": "169 Sullivan St, New York, NY 10012, USA",
+        "place_id": "ChIJE2lK_41ZwokRd26avZGNTsc",
+        "rating": 4.5,
+        "user_ratings_total": 1084,
+        "phone_number": null
+    },
+    {
+        "name": "Kyuramen - Chinatown",
+        "address": "132 Bowery, New York, NY 10013, USA",
+        "place_id": "ChIJ86M4bHZZwokRdo33ALzbSCE",
+        "rating": 4.6,
+        "user_ratings_total": 1817,
+        "phone_number": "(917) 688-3166"
+    },
+    {
+        "name": "Au Cheval",
+        "address": "33 Cortlandt Alley, New York, NY 10013, USA",
+        "place_id": "ChIJt_HATrRbwokREfGhs1PnzwQ",
+        "rating": 4.7,
+        "user_ratings_total": 4998,
+        "phone_number": "(646) 350-2429"
+    },
+    {
+        "name": "Buvette",
+        "address": "42 Grove St, New York, NY 10014, USA",
+        "place_id": "ChIJEwHZcZNZwokR810IgyQhoZM",
+        "rating": 4.4,
+        "user_ratings_total": 4116,
+        "phone_number": null
+    },
+    {
+        "name": "Boucherie West Village",
+        "address": "99 7th Ave S, New York, NY 10014, USA",
+        "place_id": "ChIJq58thpNZwokRcsvqjnNzYcc",
+        "rating": 4.7,
+        "user_ratings_total": 7395,
+        "phone_number": "(212) 837-1616"
+    },
+    {
+        "name": "Wah Fung No.1 Fast Food",
+        "address": "79 Chrystie St, New York, NY 10002, USA",
+        "place_id": "ChIJCZ6p_4dZwokRitXAVOk-zvs",
+        "rating": 4.6,
+        "user_ratings_total": 3321,
+        "phone_number": "(212) 925-5175"
+    },
+    {
+        "name": "Carbone New York",
+        "address": "181 Thompson St, New York, NY 10012, USA",
+        "place_id": "ChIJmSvG_ZFZwokRTOFeiLXzkmA",
+        "rating": 4.3,
+        "user_ratings_total": 2452,
+        "phone_number": null
+    },
+    {
+        "name": "Minetta Tavern",
+        "address": "113 MacDougal St, New York, NY 10012, USA",
+        "place_id": "ChIJeQcZlpFZwokRjoemq-_w9QA",
+        "rating": 4.5,
+        "user_ratings_total": 2614,
+        "phone_number": "(212) 475-3850"
+    },
+    {
+        "name": "Pranakhon",
+        "address": "88 University Pl, New York, NY 10003, USA",
+        "place_id": "ChIJeWk_ncJZwokR1QHfApa0dQo",
+        "rating": 4.7,
+        "user_ratings_total": 2647,
+        "phone_number": "(212) 786-6789"
+    },
+    {
+        "name": "Rosemary's",
+        "address": "18 Greenwich Ave, New York, NY 10011, USA",
+        "place_id": "ChIJCW5gj5ZZwokRtfK4UZxkcr4",
+        "rating": 4.3,
+        "user_ratings_total": 2608,
+        "phone_number": "(212) 647-1818"
+    },
+    {
+        "name": "Petite Boucherie",
+        "address": "First Floor, 14 Christopher St, New York, NY 10014, USA",
+        "place_id": "ChIJye1nGZRZwokRpt8fmbCxNLE",
+        "rating": 4.7,
+        "user_ratings_total": 1938,
+        "phone_number": "(646) 756-4145"
+    },
+    {
+        "name": "Dante NYC",
+        "address": "79-81 MacDougal St, New York, NY 10012, USA",
+        "place_id": "ChIJUw68EZJZwokRJ15RD_T4OTw",
+        "rating": 4.5,
+        "user_ratings_total": 2632,
+        "phone_number": "(212) 982-5275"
+    },
+    {
+        "name": "Loring Place",
+        "address": "21 W 8th St, New York, NY 10011, USA",
+        "place_id": "ChIJ69NaKJdZwokR3CamunXyYig",
+        "rating": 4.6,
+        "user_ratings_total": 1118,
+        "phone_number": "(212) 388-1831"
+    },
+    {
+        "name": "Dim Sum Palace",
+        "address": "27 Division St, New York, NY 10002, USA",
+        "place_id": "ChIJm6U7h4VbwokRGhi7qBdh2Yg",
+        "rating": 4.3,
+        "user_ratings_total": 765,
+        "phone_number": "(212) 587-4277"
+    },
+    {
+        "name": "Saigon Shack",
+        "address": "114 MacDougal St, New York, NY 10012, USA",
+        "place_id": "ChIJp7CcJ5JZwokRCZHeOFZwxkc",
+        "rating": 4.4,
+        "user_ratings_total": 2889,
+        "phone_number": "(212) 228-0588"
+    },
+    {
+        "name": "Bubby's",
+        "address": "120 Hudson St, New York, NY 10013, USA",
+        "place_id": "ChIJETquaPVZwokRVYYGSKrg4E0",
+        "rating": 4.4,
+        "user_ratings_total": 7996,
+        "phone_number": "(212) 219-0666"
+    },
+    {
+        "name": "Palma",
+        "address": "28 Cornelia St, New York, NY 10014, USA",
+        "place_id": "ChIJw_xat5NZwokRpW-BtDpdsPs",
+        "rating": 4.6,
+        "user_ratings_total": 1102,
+        "phone_number": "(212) 691-2223"
+    },
+    {
+        "name": "Cipriani Downtown",
+        "address": "376 W Broadway, New York, NY 10012, USA",
+        "place_id": "ChIJ71HLcIxZwokRXymDgawloWI",
+        "rating": 4.1,
+        "user_ratings_total": 1394,
+        "phone_number": "(212) 343-0999"
+    },
+    {
+        "name": "Nami Nori West Village",
+        "address": "33 Carmine St, New York, NY 10014, USA",
+        "place_id": "ChIJcfbyqFNZwokRUoBP92II4c0",
+        "rating": 4.4,
+        "user_ratings_total": 1703,
+        "phone_number": "(646) 998-4588"
+    },
+    {
+        "name": "Nom Wah Tea Parlor",
+        "address": "13 Doyers St, New York, NY 10013, USA",
+        "place_id": "ChIJqwvF8CZawokRwi6ijQhRGD0",
+        "rating": 4.2,
+        "user_ratings_total": 5114,
+        "phone_number": "(212) 962-6047"
+    },
+    {
+        "name": "Chang Lai",
+        "address": "55 Bayard St Store B, New York, NY 10013, USA",
+        "place_id": "ChIJOy-j4IdZwokRNqJruSGwcwI",
+        "rating": 4.9,
+        "user_ratings_total": 1038,
+        "phone_number": "(917) 378-3991"
+    },
+    {
+        "name": "ME CHICKEN RICE",
+        "address": "120 W 3rd St, New York, NY 10012, USA",
+        "place_id": "ChIJyRj0zttZwokRGWcACq04O6A",
+        "rating": 4.8,
+        "user_ratings_total": 506,
+        "phone_number": "(646) 455-0877"
+    },
+    {
+        "name": "Jack & Charlie’s No. 118",
+        "address": "118 Greenwich Ave, New York, NY 10011, USA",
+        "place_id": "ChIJt4VcYsZZwokRYEw3XwUJP_I",
+        "rating": 4.4,
+        "user_ratings_total": 247,
+        "phone_number": "(212) 680-4265"
+    },
+    {
+        "name": "Russ & Daughters",
+        "address": "179 E Houston St, New York, NY 10002, USA",
+        "place_id": "ChIJ7VEEjYNZwokRS0bdsXA3uyg",
+        "rating": 4.6,
+        "user_ratings_total": 4446,
+        "phone_number": "(212) 475-4880"
+    },
+    {
+        "name": "Green Garden Village",
+        "address": "216 Grand St, New York, NY 10013, USA",
+        "place_id": "ChIJ5wAS6t9ZwokRb4aVROoGlX4",
+        "rating": 4,
+        "user_ratings_total": 196,
+        "phone_number": "(646) 912-9136"
+    },
+    {
+        "name": "Tofu Tofu",
+        "address": "96 Bowery, New York, NY 10013, USA",
+        "place_id": "ChIJhypZG4hZwokRDkOkLtRpBRM",
+        "rating": 4.7,
+        "user_ratings_total": 963,
+        "phone_number": "(917) 442-5001"
+    },
+    {
+        "name": "Super Taste",
+        "address": "26 Eldridge St, New York, NY 10002, USA",
+        "place_id": "ChIJoR3RZyhawokRwR91d6hJvvY",
+        "rating": 4.6,
+        "user_ratings_total": 1443,
+        "phone_number": "(646) 283-0999"
+    },
+    {
+        "name": "Shu Jiao Fu Zhou",
+        "address": "295 Grand St, New York, NY 10002, USA",
+        "place_id": "ChIJ3au6oIdZwokRRpuRY9nbgik",
+        "rating": 4.6,
+        "user_ratings_total": 2717,
+        "phone_number": "(212) 625-2532"
+    },
+    {
+        "name": "Deluxe Green Bo",
+        "address": "66 Bayard St, New York, NY 10013, USA",
+        "place_id": "ChIJB9obBCdawokR_I47fRFPBhc",
+        "rating": 4.3,
+        "user_ratings_total": 1557,
+        "phone_number": "(212) 625-2359"
+    },
+    {
+        "name": "Supreme Restaurant",
+        "address": "100 Mott St, New York, NY 10013, USA",
+        "place_id": "ChIJHT2IhidawokR29hLR-IQb8k",
+        "rating": 4.2,
+        "user_ratings_total": 1952,
+        "phone_number": "(212) 966-3988"
+    },
+    {
+        "name": "Ajisen Ramen ( Chinatown )",
+        "address": "14 Mott St, New York, NY 10013, USA",
+        "place_id": "ChIJ8Vp47SZawokRcgG7mrbDnPQ",
+        "rating": 4.6,
+        "user_ratings_total": 2495,
+        "phone_number": "(212) 267-9680"
+    },
+    {
+        "name": "Hop Kee Restaurant",
+        "address": "21 Mott St, New York, NY 10013, USA",
+        "place_id": "ChIJTVG07iZawokR6lRX9rV0puI",
+        "rating": 4.2,
+        "user_ratings_total": 1435,
+        "phone_number": "(212) 964-8365"
+    },
+    {
+        "name": "August Gatherings富瑤",
+        "address": "102 Bowery, New York, NY 10013, USA",
+        "place_id": "ChIJw-APBYpZwokR-HVAJYOK8iY",
+        "rating": 4.1,
+        "user_ratings_total": 989,
+        "phone_number": "(212) 274-1535"
+    },
+    {
+        "name": "Sanmiwago",
+        "address": "98 Mott St, New York, NY 10013, USA",
+        "place_id": "ChIJPQzGrSlbwokRlYllmOT6BY4",
+        "rating": 4.2,
+        "user_ratings_total": 152,
+        "phone_number": "(646) 775-7884"
+    },
+    {
+        "name": "Jing Fong",
+        "address": "202 Centre St, New York, NY 10013, USA",
+        "place_id": "ChIJf31dgkxZwokR3nfEwC0M3e0",
+        "rating": 3.7,
+        "user_ratings_total": 999,
+        "phone_number": "(212) 964-5256"
+    },
+    {
+        "name": "East Season Restaurant",
+        "address": "244 Canal St, New York, NY 10013, USA",
+        "place_id": "ChIJCa2f-CdbwokRStbtb0yExpk",
+        "rating": 4.2,
+        "user_ratings_total": 149,
+        "phone_number": "(917) 261-6266"
+    }
+]

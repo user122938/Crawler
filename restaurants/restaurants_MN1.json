@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Trinity Place",
+        "address": "115 Broadway, New York, NY 10006, USA",
+        "place_id": "ChIJ4_AAQhdawokRzbYlVLyzKlk",
+        "rating": 4.4,
+        "user_ratings_total": 1517,
+        "phone_number": "(929) 581-8961"
+    },
+    {
+        "name": "Artesano",
+        "address": "90 Chambers St Unit A, New York, NY 10007, USA",
+        "place_id": "ChIJv3vgwFZbwokRwP07bRgRYdM",
+        "rating": 4.6,
+        "user_ratings_total": 897,
+        "phone_number": "(212) 372-0297"
+    },
+    {
+        "name": "Nobu Downtown",
+        "address": "195 Broadway, New York, NY 10007, USA",
+        "place_id": "ChIJZc-EthlawokRIRUvwpkpltI",
+        "rating": 4.4,
+        "user_ratings_total": 1890,
+        "phone_number": "(212) 219-0500"
+    },
+    {
+        "name": "Serafina Tribeca",
+        "address": "95 W Broadway, New York, NY 10007, USA",
+        "place_id": "ChIJ-0VhGB9awokRksxfZJBvigE",
+        "rating": 4.3,
+        "user_ratings_total": 1385,
+        "phone_number": "(212) 766-2700"
+    },
+    {
+        "name": "Chambers",
+        "address": "94 Chambers St #1, New York, NY 10007, USA",
+        "place_id": "ChIJ43KaxzxbwokRVjbWT05nZ_M",
+        "rating": 4.7,
+        "user_ratings_total": 306,
+        "phone_number": "(212) 580-3572"
+    },
+    {
+        "name": "1803 NYC",
+        "address": "82 Reade St, New York, NY 10007, USA",
+        "place_id": "ChIJ0yKXaB9awokR6WFqdEE9aBY",
+        "rating": 4.5,
+        "user_ratings_total": 1984,
+        "phone_number": "(212) 267-3000"
+    },
+    {
+        "name": "Añejo Tribeca",
+        "address": "301 Church St, New York, NY 10013, USA",
+        "place_id": "ChIJf4XPj4pZwokRjFYw3YKWv7Q",
+        "rating": 4.4,
+        "user_ratings_total": 1507,
+        "phone_number": "(212) 920-6270"
+    },
+    {
+        "name": "Pepolino",
+        "address": "281 W Broadway, New York, NY 10013, USA",
+        "place_id": "ChIJf6tT54pZwokRI5EU-NKF7sE",
+        "rating": 4.5,
+        "user_ratings_total": 895,
+        "phone_number": "(212) 966-9983"
+    },
+    {
+        "name": "Brickyard Craft Kitchen & Bar",
+        "address": "23 Park Pl, New York, NY 10007, USA",
+        "place_id": "ChIJme4A6d5bwokR7QwUdTNRp5E",
+        "rating": 4.7,
+        "user_ratings_total": 620,
+        "phone_number": "(646) 449-0826"
+    },
+    {
+        "name": "O'Hara's Restaurant and Pub",
+        "address": "120 Cedar St, New York, NY 10006, USA",
+        "place_id": "ChIJueUCrBBawokRiw9LMJFm0_o",
+        "rating": 4.6,
+        "user_ratings_total": 5483,
+        "phone_number": "(212) 267-3032"
+    },
+    {
+        "name": "Stage Door Delicatessen",
+        "address": "26 Vesey St 1st Floor, New York, NY 10007, USA",
+        "place_id": "ChIJTThKBxlawokRnZKRB_Vl4-M",
+        "rating": 4.5,
+        "user_ratings_total": 1777,
+        "phone_number": "(212) 791-5252"
+    },
+    {
+        "name": "Serafina Financial District",
+        "address": "30 Broad St, New York, NY 10004, USA",
+        "place_id": "ChIJU4Y5bNNbwokRu8Y53Q4_PdY",
+        "rating": 4.6,
+        "user_ratings_total": 857,
+        "phone_number": "(347) 647-9030"
+    },
+    {
+        "name": "The Malt House",
+        "address": "9 Maiden Ln, New York, NY 10038, USA",
+        "place_id": "ChIJT4JpKxhawokRJsGwYfLpp60",
+        "rating": 4.3,
+        "user_ratings_total": 2091,
+        "phone_number": "(646) 682-7577"
+    },
+    {
+        "name": "Burger Village",
+        "address": "120 Church St, New York, NY 10007, USA",
+        "place_id": "ChIJRbp8aGhbwokRdld3no39YYo",
+        "rating": 4.6,
+        "user_ratings_total": 1444,
+        "phone_number": "(646) 476-7570"
+    },
+    {
+        "name": "Smyth Tavern",
+        "address": "85 W Broadway, New York, NY 10007, USA",
+        "place_id": "ChIJBfstmZVbwokR46K9zOToCeM",
+        "rating": 4.3,
+        "user_ratings_total": 201,
+        "phone_number": "(646) 813-9090"
+    },
+    {
+        "name": "ZAZA",
+        "address": "104 Greenwich St, New York, NY 10006, USA",
+        "place_id": "ChIJRVYm7f1ZwokR2DcmGOSHUFc",
+        "rating": 4.5,
+        "user_ratings_total": 1564,
+        "phone_number": "(646) 864-0040"
+    },
+    {
+        "name": "The Odeon",
+        "address": "145 W Broadway, New York, NY 10013, USA",
+        "place_id": "ChIJS-u0mB9awokRZ7H0sa9Oy-U",
+        "rating": 4.5,
+        "user_ratings_total": 1990,
+        "phone_number": "(212) 233-0507"
+    },
+    {
+        "name": "Gran Morsi",
+        "address": "22 Warren St, New York, NY 10007, USA",
+        "place_id": "ChIJSYuuSx9awokRyrrOFTGg0GY",
+        "rating": 4.3,
+        "user_ratings_total": 617,
+        "phone_number": "(212) 577-2725"
+    },
+    {
+        "name": "Le Gratin",
+        "address": "5 Beekman St, New York, NY 10038, USA",
+        "place_id": "ChIJj4fN7HBbwokRCB5xca3KF1E",
+        "rating": 4.5,
+        "user_ratings_total": 563,
+        "phone_number": "(212) 597-9020"
+    },
+    {
+        "name": "Felice 15 Gold",
+        "address": "15 Gold St, New York, NY 10038, USA",
+        "place_id": "ChIJtb0E3RdawokRqLP-FNIxvf8",
+        "rating": 4.5,
+        "user_ratings_total": 1059,
+        "phone_number": "(212) 785-5950"
+    },
+    {
+        "name": "The Dead Rabbit",
+        "address": "30 Water St, New York, NY 10004, USA",
+        "place_id": "ChIJIRiJaRRawokR2KyQ984qa-o",
+        "rating": 4.7,
+        "user_ratings_total": 8005,
+        "phone_number": "(917) 540-5228"
+    },
+    {
+        "name": "Ol'Days Farm to Table Tribeca",
+        "address": "73 Warren St, New York, NY 10007, USA",
+        "place_id": "ChIJx29iYSBbwokRZVlUmks4WNA",
+        "rating": 4.2,
+        "user_ratings_total": 303,
+        "phone_number": "(646) 370-1074"
+    },
+    {
+        "name": "One White Street",
+        "address": "1 White St, New York, NY 10013, USA",
+        "place_id": "ChIJISXTwWJZwokRIok4xyMeb6g",
+        "rating": 4.4,
+        "user_ratings_total": 366,
+        "phone_number": "(646) 398-7679"
+    },
+    {
+        "name": "LOS TACOS No.1",
+        "address": "136 Church St, New York, NY 10007, USA",
+        "place_id": "ChIJsdNONuFbwokRLM-yuifjb8k",
+        "rating": 4.8,
+        "user_ratings_total": 2921,
+        "phone_number": null
+    },
+    {
+        "name": "Industry Kitchen",
+        "address": "70 South St, New York, NY 10005, USA",
+        "place_id": "ChIJcaQCwD1awokRuJEpTiEWOtw",
+        "rating": 4.3,
+        "user_ratings_total": 3478,
+        "phone_number": "(212) 487-9600"
+    },
+    {
+        "name": "TAQ | Taqueria Restaurant & Bar",
+        "address": "81 Warren St, New York, NY 10007, USA",
+        "place_id": "ChIJ-4o-IdJbwokRR3eqKv1987k",
+        "rating": 4.7,
+        "user_ratings_total": 150,
+        "phone_number": "(212) 301-7624"
+    },
+    {
+        "name": "Casa Carmen Tribeca",
+        "address": "114 Franklin St, New York, NY 10013, USA",
+        "place_id": "ChIJ4Wld4_xbwokRMUC8T8wNnLw",
+        "rating": 4.5,
+        "user_ratings_total": 331,
+        "phone_number": "(917) 540-5500"
+    },
+    {
+        "name": "Fonda",
+        "address": "139 Duane St, New York, NY 10013, USA",
+        "place_id": "ChIJ33jKIg1bwokRxQnVW6HnuHs",
+        "rating": 4.4,
+        "user_ratings_total": 227,
+        "phone_number": "(917) 261-6950"
+    },
+    {
+        "name": "Frenchette",
+        "address": "241 W Broadway, New York, NY 10013, USA",
+        "place_id": "ChIJu7pIuopZwokRvIsndYhPg4U",
+        "rating": 4.3,
+        "user_ratings_total": 1221,
+        "phone_number": "(212) 334-3883"
+    },
+    {
+        "name": "Temple Court",
+        "address": "5 Beekman St, New York, NY 10038, USA",
+        "place_id": "ChIJPQzEeBhawokR79Mo5NOT5Vw",
+        "rating": 4.5,
+        "user_ratings_total": 1322,
+        "phone_number": "(917) 728-4685"
+    },
+    {
+        "name": "Tamarind Tribeca",
+        "address": "99 Hudson St, New York, NY 10013, USA",
+        "place_id": "ChIJ6Vva1h9awokRXw_JSQ_x6y4",
+        "rating": 4.2,
+        "user_ratings_total": 2869,
+        "phone_number": "(212) 775-9000"
+    },
+    {
+        "name": "Eataly",
+        "address": "101 Liberty St, New York, NY 10007, USA",
+        "place_id": "ChIJvx7i_BlawokRidb5WfdvqRM",
+        "rating": 4.2,
+        "user_ratings_total": 6108,
+        "phone_number": "(212) 897-2895"
+    },
+    {
+        "name": "Pisillo Italian Panini",
+        "address": "97 Nassau St, New York, NY 10038, USA",
+        "place_id": "ChIJ1-vKbRhawokRuh_krlCFDsQ",
+        "rating": 4.8,
+        "user_ratings_total": 1720,
+        "phone_number": "(212) 227-3104"
+    },
+    {
+        "name": "CUT by Wolfgang Puck",
+        "address": "99 Church St, New York, NY 10007, USA",
+        "place_id": "ChIJ87qt5hhawokRfDHmVxCxPJY",
+        "rating": 4.4,
+        "user_ratings_total": 740,
+        "phone_number": "(646) 880-1995"
+    },
+    {
+        "name": "P.J. Clarke's On The Hudson",
+        "address": "250 Vesey St, New York, NY 10281, USA",
+        "place_id": "ChIJy8jTDBtawokRuFkJI_8AmuI",
+        "rating": 4.2,
+        "user_ratings_total": 3210,
+        "phone_number": "(212) 285-1500"
+    },
+    {
+        "name": "Da Claudio NYC Ristorante",
+        "address": "21 Ann St, New York, NY 10038, USA",
+        "place_id": "ChIJ94xVbhhawokRaDRb_Y6O1sA",
+        "rating": 4.5,
+        "user_ratings_total": 843,
+        "phone_number": "(212) 285-2668"
+    },
+    {
+        "name": "La Parisienne",
+        "address": "9 Maiden Ln, New York, NY 10038, USA",
+        "place_id": "ChIJt1KQKxhawokRujL-AUeoW-Y",
+        "rating": 4.6,
+        "user_ratings_total": 2047,
+        "phone_number": "(646) 756-4911"
+    },
+    {
+        "name": "Kuu",
+        "address": "20 John St, New York, NY 10038, USA",
+        "place_id": "ChIJv-EALxhawokRWFsBI5ZKjV4",
+        "rating": 4.5,
+        "user_ratings_total": 2433,
+        "phone_number": "(212) 571-7177"
+    },
+    {
+        "name": "Imm Thai NYC",
+        "address": "80 Nassau St, New York, NY 10038, USA",
+        "place_id": "ChIJL7zatxFbwokRhlbOeava3gI",
+        "rating": 4.8,
+        "user_ratings_total": 1219,
+        "phone_number": "(646) 476-5084"
+    },
+    {
+        "name": "Gunbae",
+        "address": "67 Murray St, New York, NY 10007, USA",
+        "place_id": "ChIJMUOOzR5awokRijM90_-9kUA",
+        "rating": 4.6,
+        "user_ratings_total": 1522,
+        "phone_number": "(212) 321-2500"
+    },
+    {
+        "name": "Mudville",
+        "address": "126 Chambers St, New York, NY 10007, USA",
+        "place_id": "ChIJV1VdJB9awokRsucxnGK_eTE",
+        "rating": 4.2,
+        "user_ratings_total": 909,
+        "phone_number": "(212) 964-9464"
+    },
+    {
+        "name": "Adrienne's Pizzabar",
+        "address": "54 Stone St, New York, NY 10004, USA",
+        "place_id": "ChIJYaLtJRRawokRjw4GeC7pTdk",
+        "rating": 4.4,
+        "user_ratings_total": 2476,
+        "phone_number": "(212) 248-3838"
+    },
+    {
+        "name": "Benares Tribeca Indian Restaurant",
+        "address": "45 Murray St, New York, NY 10007, USA",
+        "place_id": "ChIJ6e4q1BhawokRWWDyNSiQ4yo",
+        "rating": 4.2,
+        "user_ratings_total": 2250,
+        "phone_number": "(212) 766-4900"
+    },
+    {
+        "name": "Cowgirl SeaHorse",
+        "address": "259 Front St, New York, NY 10038, USA",
+        "place_id": "ChIJ24YpVTtawokRsFPSkHjTWoA",
+        "rating": 4.3,
+        "user_ratings_total": 1376,
+        "phone_number": "(212) 608-7873"
+    },
+    {
+        "name": "Square Diner",
+        "address": "33 Leonard St, New York, NY 10013, USA",
+        "place_id": "ChIJ8XAz5R9awokR_HB5DaCuxIs",
+        "rating": 4.5,
+        "user_ratings_total": 1226,
+        "phone_number": "(212) 925-7188"
+    },
+    {
+        "name": "ITO",
+        "address": "75 Barclay St, New York, NY 10007, USA",
+        "place_id": "ChIJiW_7kM9bwokR9qMrG4XITL8",
+        "rating": 4.5,
+        "user_ratings_total": 78,
+        "phone_number": null
+    },
+    {
+        "name": "Wolfgang's Steakhouse",
+        "address": "409 Greenwich St, New York, NY 10013, USA",
+        "place_id": "ChIJ7cmhqPVZwokRcWzLzM5e-5A",
+        "rating": 4.4,
+        "user_ratings_total": 1598,
+        "phone_number": "(212) 925-0350"
+    },
+    {
+        "name": "Warren Street Bar & Restaurant",
+        "address": "86 Warren St, New York, NY 10007, USA",
+        "place_id": "ChIJAzfSMwBbwokRnopDi7dW-Iw",
+        "rating": 4.4,
+        "user_ratings_total": 75,
+        "phone_number": "(646) 929-6286"
+    },
+    {
+        "name": "Zutto Japanese American Pub",
+        "address": "77 Hudson St, New York, NY 10013, USA",
+        "place_id": "ChIJ7-SBzh9awokRKB5djQIBiC0",
+        "rating": 4.4,
+        "user_ratings_total": 964,
+        "phone_number": "(212) 233-3287"
+    },
+    {
+        "name": "Le Pain Quotidien",
+        "address": "81 W Broadway, New York, NY 10007, USA",
+        "place_id": "ChIJU0lt1x5awokRcd1w1u4Ju9Q",
+        "rating": 4.1,
+        "user_ratings_total": 812,
+        "phone_number": "(646) 652-8186"
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Elephant Ear",
+        "address": "690 9th Ave, New York, NY 10036, USA",
+        "place_id": "ChIJi2XB7ddZwokRgL_EV4MuQeI",
+        "rating": 4.8,
+        "user_ratings_total": 3230,
+        "phone_number": "(646) 478-8661"
+    },
+    {
+        "name": "OBAO",
+        "address": "647 9th Ave, New York, NY 10036, USA",
+        "place_id": "ChIJQZko0FNYwokRjhh4z0ilUMw",
+        "rating": 4.7,
+        "user_ratings_total": 7699,
+        "phone_number": "(212) 245-8880"
+    },
+    {
+        "name": "Chalong Southern Thai",
+        "address": "749 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJhwCMNh5ZwokROomRErlMEpk",
+        "rating": 4.9,
+        "user_ratings_total": 3293,
+        "phone_number": "(212) 466-6456"
+    },
+    {
+        "name": "Barking Dog Hell’s Kitchen",
+        "address": "329 W 49th St, New York, NY 10019, USA",
+        "place_id": "ChIJbdoPbEZZwokREBWq_EVLfOI",
+        "rating": 4.6,
+        "user_ratings_total": 1934,
+        "phone_number": "(646) 755-8009"
+    },
+    {
+        "name": "UT47 Kitchen & Bar",
+        "address": "683 9th Ave, New York, NY 10036, USA",
+        "place_id": "ChIJYWlTWVFYwokRVffxIe_Erc4",
+        "rating": 4.7,
+        "user_ratings_total": 1655,
+        "phone_number": "(646) 843-0856"
+    },
+    {
+        "name": "Valla Table",
+        "address": "641 10th Ave, New York, NY 10036, USA",
+        "place_id": "ChIJpTLU3yBZwokRaFM3CwYVzoE",
+        "rating": 4.9,
+        "user_ratings_total": 4512,
+        "phone_number": "(212) 245-4601"
+    },
+    {
+        "name": "Cheeseboat",
+        "address": "747 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJr3AB_oJZwokRod2Io-keXUk",
+        "rating": 4.7,
+        "user_ratings_total": 653,
+        "phone_number": "(646) 684-4214"
+    },
+    {
+        "name": "Mom's Kitchen and Bar",
+        "address": "701 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJH8bnPlFYwokRLEtp039TVUU",
+        "rating": 4.5,
+        "user_ratings_total": 3967,
+        "phone_number": "(646) 657-0080"
+    },
+    {
+        "name": "Norma Hell's Kitchen",
+        "address": "801 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJuewgle5ZwokRmsEEEQE0xPI",
+        "rating": 4.6,
+        "user_ratings_total": 1109,
+        "phone_number": "(212) 246-6000"
+    },
+    {
+        "name": "SESAMO - Italian Restaurant Hell's Kitchen",
+        "address": "764 10th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJzY70m1BYwokRPl3Q3N_6-Io",
+        "rating": 4.6,
+        "user_ratings_total": 1366,
+        "phone_number": "(212) 265-2755"
+    },
+    {
+        "name": "Kashkaval Garden",
+        "address": "852 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJ0xEQtFlYwokRTi07N6-ojBU",
+        "rating": 4.5,
+        "user_ratings_total": 1401,
+        "phone_number": "(212) 245-1758"
+    },
+    {
+        "name": "IL Punto",
+        "address": "507 9th Ave, New York, NY 10018, USA",
+        "place_id": "ChIJw1QgWK1ZwokRnOR94NZ1i8w",
+        "rating": 4.6,
+        "user_ratings_total": 1078,
+        "phone_number": "(212) 244-0088"
+    },
+    {
+        "name": "Bocca di Bacco Theater District",
+        "address": "635 9th Ave, New York, NY 10036, USA",
+        "place_id": "ChIJAbHSp8NZwokRV56pK23WC_Y",
+        "rating": 4.5,
+        "user_ratings_total": 518,
+        "phone_number": "(212) 262-2525"
+    },
+    {
+        "name": "44 & X Hell's Kitchen",
+        "address": "622 10th Ave, New York, NY 10036, USA",
+        "place_id": "ChIJ1QtpBVJYwokRUPSabwKYsyA",
+        "rating": 4.4,
+        "user_ratings_total": 1313,
+        "phone_number": "(212) 977-1170"
+    },
+    {
+        "name": "The Dickens",
+        "address": "783 8th Ave, New York, NY 10036, USA",
+        "place_id": "ChIJXz1QXE5ZwokRLwJIVmQhyEc",
+        "rating": 4.8,
+        "user_ratings_total": 1919,
+        "phone_number": "(917) 472-7927"
+    },
+    {
+        "name": "LumLum",
+        "address": "404 W 49th St, New York, NY 10019, USA",
+        "place_id": "ChIJeQxW7xZZwokRh32rrkOgatw",
+        "rating": 4.8,
+        "user_ratings_total": 3983,
+        "phone_number": "(646) 684-4618"
+    },
+    {
+        "name": "Bocca di Bacco",
+        "address": "836 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJd2UWxVlYwokRwL_sWzE0rVg",
+        "rating": 4.4,
+        "user_ratings_total": 1812,
+        "phone_number": "(212) 265-8828"
+    },
+    {
+        "name": "Zou Zou’s",
+        "address": "385 9th Ave Suite 85, New York, NY 10001, USA",
+        "place_id": "ChIJKVbn75VZwokRLdlBWe5rbtU",
+        "rating": 4.3,
+        "user_ratings_total": 1270,
+        "phone_number": "(212) 380-8585"
+    },
+    {
+        "name": "Lovely's Old Fashioned",
+        "address": "642 9th Ave, New York, NY 10036, USA",
+        "place_id": "ChIJd4_SnFJZwokRBeuZ-YwGaUw",
+        "rating": 4.7,
+        "user_ratings_total": 681,
+        "phone_number": "(646) 918-6019"
+    },
+    {
+        "name": "Empanada Mama Hell’s Kitchen",
+        "address": "765 9th Ave, Manhattan, NY 10019, USA",
+        "place_id": "ChIJsZiFN1dYwokRtB35FstjkA4",
+        "rating": 4.4,
+        "user_ratings_total": 5456,
+        "phone_number": "(212) 698-9008"
+    },
+    {
+        "name": "EZ Paella & Tapas",
+        "address": "744 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJvZ0A4FBZwokR3__wBQO-f_E",
+        "rating": 4.8,
+        "user_ratings_total": 2842,
+        "phone_number": "(631) 779-6916"
+    },
+    {
+        "name": "Pasta Eater Hell’s Kitchen",
+        "address": "744 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJX4HvRT1ZwokRHHWCPNfTE40",
+        "rating": 4.9,
+        "user_ratings_total": 802,
+        "phone_number": "(212) 837-1169"
+    },
+    {
+        "name": "The Blue Dog Cookhouse & Bar",
+        "address": "308 W 50th St, New York, NY 10019, USA",
+        "place_id": "ChIJC6xz-lZYwokRd5Gv26A3RMA",
+        "rating": 4.4,
+        "user_ratings_total": 2766,
+        "phone_number": "(212) 459-0700"
+    },
+    {
+        "name": "Mamasita Bar & Grill",
+        "address": "818 10th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJiyYJI1pYwokRHGXTSWM7Efc",
+        "rating": 4.7,
+        "user_ratings_total": 4573,
+        "phone_number": "(212) 315-9444"
+    },
+    {
+        "name": "Becco",
+        "address": "355 W 46th St, New York, NY 10036, USA",
+        "place_id": "ChIJndGJ5FNYwokRricJvhT0t1s",
+        "rating": 4.3,
+        "user_ratings_total": 4433,
+        "phone_number": "(212) 397-7597"
+    },
+    {
+        "name": "El Coco",
+        "address": "202 8th Ave, New York, NY 10011, USA",
+        "place_id": "ChIJG6lhiZhZwokRAcLOOYxXGws",
+        "rating": 4.6,
+        "user_ratings_total": 2037,
+        "phone_number": "(646) 692-4123"
+    },
+    {
+        "name": "Ci Siamo",
+        "address": "440 W 33rd St Suite #100, New York, NY 10001, USA",
+        "place_id": "ChIJ_ci7bvdZwokRsL4rlCOqsMk",
+        "rating": 4.6,
+        "user_ratings_total": 1876,
+        "phone_number": "(212) 219-6559"
+    },
+    {
+        "name": "Citizens Of Chelsea",
+        "address": "401 W 25th St, New York, NY 10001, USA",
+        "place_id": "ChIJK2fErLBZwokRk6aRBp_yqGI",
+        "rating": 4.7,
+        "user_ratings_total": 3847,
+        "phone_number": "(347) 554-7496"
+    },
+    {
+        "name": "Il Melograno",
+        "address": "501 W 51st St, New York, NY 10019, USA",
+        "place_id": "ChIJ2WjAjlBYwokR-EJZW5EpOfg",
+        "rating": 4.6,
+        "user_ratings_total": 667,
+        "phone_number": "(212) 757-9290"
+    },
+    {
+        "name": "HYDERABADI ZAIQA",
+        "address": "366 W 52nd St, New York, NY 10019, USA",
+        "place_id": "ChIJ5xVUhjlZwokRpdMrPHkLsHs",
+        "rating": 4.6,
+        "user_ratings_total": 724,
+        "phone_number": "(646) 952-0066"
+    },
+    {
+        "name": "Cookshop",
+        "address": "156 10th Ave, New York, NY 10011, USA",
+        "place_id": "ChIJZ-_BPZRZwokRBp_dcoCezqQ",
+        "rating": 4.5,
+        "user_ratings_total": 3042,
+        "phone_number": "(212) 924-4440"
+    },
+    {
+        "name": "Tavola Hells Kitchen",
+        "address": "488 9th Ave, New York, NY 10018, USA",
+        "place_id": "ChIJQdQ5mwdZwokRQXDOTRzWhU4",
+        "rating": 4.3,
+        "user_ratings_total": 595,
+        "phone_number": "(212) 273-1181"
+    },
+    {
+        "name": "Pure Thai Cookhouse",
+        "address": "766 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJ2XJIN1dYwokRAfIRdv9Vu6c",
+        "rating": 4.6,
+        "user_ratings_total": 3042,
+        "phone_number": "(212) 581-0999"
+    },
+    {
+        "name": "ThongLor New York",
+        "address": "789 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJJ4oaEpBZwokRzGB9iYakJ4k",
+        "rating": 4.8,
+        "user_ratings_total": 900,
+        "phone_number": "(212) 561-5692"
+    },
+    {
+        "name": "The Marshal",
+        "address": "628 10th Ave, New York, NY 10036, USA",
+        "place_id": "ChIJs9RGG1JYwokRi3KuI3Lzr88",
+        "rating": 4.5,
+        "user_ratings_total": 852,
+        "phone_number": "(212) 582-6300"
+    },
+    {
+        "name": "Miss Nellie's",
+        "address": "321 W 44th St, New York, NY 10036, USA",
+        "place_id": "ChIJnxEXkVNYwokRITzoANd2S14",
+        "rating": 4.7,
+        "user_ratings_total": 463,
+        "phone_number": "(646) 360-3012"
+    },
+    {
+        "name": "Añejo",
+        "address": "668 10th Ave, New York, NY 10036, USA",
+        "place_id": "ChIJUWd2llFYwokR7LA8HroSFMk",
+        "rating": 4.4,
+        "user_ratings_total": 1756,
+        "phone_number": "(212) 920-4770"
+    },
+    {
+        "name": "Aqua Boil",
+        "address": "750 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJyR90JKxZwokRZc9iRIEIs3w",
+        "rating": 4.7,
+        "user_ratings_total": 2843,
+        "phone_number": "(212) 464-7428"
+    },
+    {
+        "name": "Westway Diner",
+        "address": "614 9th Ave, New York, NY 10036, USA",
+        "place_id": "ChIJa9pfrVNYwokRVCG3VV9vkiM",
+        "rating": 4.4,
+        "user_ratings_total": 7424,
+        "phone_number": "(212) 582-7661"
+    },
+    {
+        "name": "El Coco",
+        "address": "828 9th Ave 4th floor, New York, NY 10019, USA",
+        "place_id": "ChIJQ5Tzk8hZwokRy-byQ3lsEZk",
+        "rating": 4.5,
+        "user_ratings_total": 745,
+        "phone_number": "(646) 864-1412"
+    },
+    {
+        "name": "V{IV}",
+        "address": "717 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJJ4ARMFFYwokRRyJCDyI-fyM",
+        "rating": 4.7,
+        "user_ratings_total": 4538,
+        "phone_number": "(212) 581-5999"
+    },
+    {
+        "name": "Rudy's Bar & Grill",
+        "address": "627 9th Ave, New York, NY 10036, USA",
+        "place_id": "ChIJOxerSlJYwokRPmpdLA4CpWI",
+        "rating": 4.6,
+        "user_ratings_total": 5835,
+        "phone_number": "(646) 707-0890"
+    },
+    {
+        "name": "The Meatball Shop - Hell's Kitchen",
+        "address": "798 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJQwJ0Z1dYwokRSnJUdNRJz1w",
+        "rating": 4.5,
+        "user_ratings_total": 1707,
+        "phone_number": "(212) 230-5860"
+    },
+    {
+        "name": "Raku",
+        "address": "776 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJcd-UAwBZwokR2dPBrKACTm8",
+        "rating": 4.4,
+        "user_ratings_total": 212,
+        "phone_number": null
+    },
+    {
+        "name": "Tacuba",
+        "address": "802 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJRbKnYVdYwokREjd_9BBOSis",
+        "rating": 4.3,
+        "user_ratings_total": 1818,
+        "phone_number": "(212) 245-4500"
+    },
+    {
+        "name": "Aria Hell's Kitchen",
+        "address": "369 W 51st St, New York, NY 10019, USA",
+        "place_id": "ChIJIWLdOldYwokROdK1xyMhYBo",
+        "rating": 4.4,
+        "user_ratings_total": 1062,
+        "phone_number": "(212) 541-9241"
+    },
+    {
+        "name": "Shaking Crab (Hell's Kitchen)",
+        "address": "737 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJnRT9lPxZwokR-4BI2C3ywaI",
+        "rating": 4.5,
+        "user_ratings_total": 494,
+        "phone_number": "(646) 755-8793"
+    },
+    {
+        "name": "Dutch Fred's",
+        "address": "307 W 47th St #1, New York, NY 10036, USA",
+        "place_id": "ChIJJzU5p1ZYwokRnjwqzlLub0E",
+        "rating": 4.5,
+        "user_ratings_total": 2010,
+        "phone_number": "(646) 918-6923"
+    },
+    {
+        "name": "Koji Chicken",
+        "address": "764 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJ5aa60bdZwokRMAJHizpx_O4",
+        "rating": 4.9,
+        "user_ratings_total": 619,
+        "phone_number": "(646) 590-1170"
+    },
+    {
+        "name": "HK Cantina",
+        "address": "705 9th Ave, New York, NY 10019, USA",
+        "place_id": "ChIJy_YXMeFZwokRKV6NRfKvrEw",
+        "rating": 4.5,
+        "user_ratings_total": 380,
+        "phone_number": "(917) 261-5747"
+    }
+]

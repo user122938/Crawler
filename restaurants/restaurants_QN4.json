@@ -1,0 +1,482 @@
+[
+    {
+        "name": "Park Side Restaurant",
+        "address": "107-01 Corona Ave., Corona, NY 11368, USA",
+        "place_id": "ChIJi92ZUM5fwokRekBGVkRa6jw",
+        "rating": 4.6,
+        "user_ratings_total": 3193,
+        "phone_number": "(718) 271-9871"
+    },
+    {
+        "name": "Saranrom Thai",
+        "address": "81-10 Broadway, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJUU0Hd95fwokR3tAJqfPpDvs",
+        "rating": 4.7,
+        "user_ratings_total": 956,
+        "phone_number": "(347) 808-0545"
+    },
+    {
+        "name": "La Fusta",
+        "address": "80-32 Baxter Ave, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJFx8HV6lfwokRZBepb4QEmX8",
+        "rating": 4.4,
+        "user_ratings_total": 945,
+        "phone_number": "(718) 429-8222"
+    },
+    {
+        "name": "Florence Prime Diner",
+        "address": "40-13 82nd St, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJd3MRj5ZfwokRNWWbShPE6do",
+        "rating": 4.8,
+        "user_ratings_total": 386,
+        "phone_number": "(718) 779-0033"
+    },
+    {
+        "name": "LongHorn Steakhouse",
+        "address": "92-30 59th Ave, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJF85h00tewokRLI9zs5Ml1Xs",
+        "rating": 4.2,
+        "user_ratings_total": 3759,
+        "phone_number": "(718) 335-1371"
+    },
+    {
+        "name": "Taste Good",
+        "address": "82-18 45th Ave, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJvbqGvKxfwokRWCm0QHlt99A",
+        "rating": 4.3,
+        "user_ratings_total": 860,
+        "phone_number": "(718) 898-8001"
+    },
+    {
+        "name": "Louie's",
+        "address": "81-34 Baxter Ave #1, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJxUnkValfwokRiMyos0C4j1M",
+        "rating": 4.8,
+        "user_ratings_total": 1880,
+        "phone_number": "(718) 440-9346"
+    },
+    {
+        "name": "Cafe Rubio",
+        "address": "98-05 Northern Blvd, Corona, NY 11368, USA",
+        "place_id": "ChIJFVlua75fwokR58_T3grQ2AA",
+        "rating": 4.4,
+        "user_ratings_total": 1533,
+        "phone_number": "(718) 505-1020"
+    },
+    {
+        "name": "Carmine's Corona Eats",
+        "address": "45-05B 104th St, Corona, NY 11368, USA",
+        "place_id": "ChIJY9PryXpfwokRqZ4DA331NII",
+        "rating": 4.5,
+        "user_ratings_total": 51,
+        "phone_number": "(718) 760-5702"
+    },
+    {
+        "name": "Nangma Restaurant & Bar",
+        "address": "83-17 Broadway, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJs4eWfnlfwokRtrchD1lEkBw",
+        "rating": 4.5,
+        "user_ratings_total": 211,
+        "phone_number": "(347) 730-6117"
+    },
+    {
+        "name": "La Casa Grande",
+        "address": "90-38 Corona Ave., Elmhurst, NY 11373, USA",
+        "place_id": "ChIJe_dvgN1fwokRl8Q7I4331ho",
+        "rating": 4.5,
+        "user_ratings_total": 22,
+        "phone_number": "(347) 808-8719"
+    },
+    {
+        "name": "Fogo de Chão Brazilian Steakhouse",
+        "address": "92-50 59th Ave, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJrdwHMBVfwokR2vrJsy8aTOo",
+        "rating": 4.8,
+        "user_ratings_total": 7279,
+        "phone_number": "(929) 379-4333"
+    },
+    {
+        "name": "La Esquina Criolla",
+        "address": "94-67 Corona Ave., Elmhurst, NY 11373, USA",
+        "place_id": "ChIJ_UYmuLVfwokR9vzB2aVvFCk",
+        "rating": 4.5,
+        "user_ratings_total": 989,
+        "phone_number": "(718) 699-5579"
+    },
+    {
+        "name": "El Gauchito 1",
+        "address": "94-60 Corona Ave., Elmhurst, NY 11373, USA",
+        "place_id": "ChIJqwQssrVfwokR9FuqCI2Tud4",
+        "rating": 4.4,
+        "user_ratings_total": 829,
+        "phone_number": "(718) 271-1917"
+    },
+    {
+        "name": "Soneros",
+        "address": "92-02 Corona Ave., Elmhurst, NY 11373, USA",
+        "place_id": "ChIJ3UWfplNfwokRVTy6-tAbFIY",
+        "rating": 3.9,
+        "user_ratings_total": 77,
+        "phone_number": "(347) 935-3003"
+    },
+    {
+        "name": "New Taste",
+        "address": "94-62 Corona Ave., Elmhurst, NY 11373, USA",
+        "place_id": "ChIJ1T9csbVfwokRaCIpn048lqk",
+        "rating": 2.9,
+        "user_ratings_total": 74,
+        "phone_number": "(718) 592-8728"
+    },
+    {
+        "name": "Halal Eats",
+        "address": "89-25 Queens Blvd, Queens, NY 11373, USA",
+        "place_id": "ChIJr1p4PXVfwokR2rFvXNSDRRA",
+        "rating": 4.8,
+        "user_ratings_total": 1864,
+        "phone_number": "(718) 309-5170"
+    },
+    {
+        "name": "Olive Garden Italian Restaurant",
+        "address": "92-10 59th Ave, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJj2g00UtewokRXsamx9jw04g",
+        "rating": 4.1,
+        "user_ratings_total": 4734,
+        "phone_number": "(718) 458-0549"
+    },
+    {
+        "name": "Asian Halal Kitchen",
+        "address": "90-02 Corona Ave., Elmhurst, NY 11373, USA",
+        "place_id": "ChIJRcFVOQBfwokRTIeVbF2zuuw",
+        "rating": 4.5,
+        "user_ratings_total": 62,
+        "phone_number": "(718) 708-2030"
+    },
+    {
+        "name": "Eim Khao Mun Kai",
+        "address": "81-32 Broadway, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJC6L8fatfwokR0sSqnU_UNlM",
+        "rating": 4.4,
+        "user_ratings_total": 641,
+        "phone_number": "(718) 424-7156"
+    },
+    {
+        "name": "Five Dreams Pizzeria y Antojitos",
+        "address": "94-66B Corona Ave., Elmhurst, NY 11373, USA",
+        "place_id": "ChIJA12PVwBfwokRrKy0f0EyO7o",
+        "rating": 4.7,
+        "user_ratings_total": 48,
+        "phone_number": "(347) 448-6809"
+    },
+    {
+        "name": "Eaton Cafe",
+        "address": "89-08 Queens Blvd, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJ3Si9bhZfwokRB31qARWnua8",
+        "rating": 4.9,
+        "user_ratings_total": 253,
+        "phone_number": "(347) 507-0276"
+    },
+    {
+        "name": "Caesar Bakery Café",
+        "address": "90-18 Corona Ave., Elmhurst, NY 11373, USA",
+        "place_id": "ChIJG83Hre1fwokRgt84lfGXSuQ",
+        "rating": 4.9,
+        "user_ratings_total": 130,
+        "phone_number": "(718) 701-6469"
+    },
+    {
+        "name": "Paraiso Colombiano",
+        "address": "106-20 Corona Ave., Corona, NY 11368, USA",
+        "place_id": "ChIJG_LOWM5fwokRZgW4VZe3ask",
+        "rating": 4.6,
+        "user_ratings_total": 1904,
+        "phone_number": "(718) 699-5054"
+    },
+    {
+        "name": "Mr.Q’s BBQ",
+        "address": "90-58 Corona Ave., Elmhurst, NY 11373, USA",
+        "place_id": "ChIJ-3U9la1fwokRh4ooEFqO0DM",
+        "rating": 4.6,
+        "user_ratings_total": 38,
+        "phone_number": "(917) 589-0784"
+    },
+    {
+        "name": "Costa Verde",
+        "address": "94-59 Corona Ave., Elmhurst, NY 11373, USA",
+        "place_id": "ChIJhcQ7trVfwokRU4U9A6OXYCc",
+        "rating": 4,
+        "user_ratings_total": 209,
+        "phone_number": "(718) 271-0900"
+    },
+    {
+        "name": "Corona Diner",
+        "address": "91-28 Corona Ave., Elmhurst, NY 11373, USA",
+        "place_id": "ChIJwX59l7NfwokR1OCh3lCyuo8",
+        "rating": 4.3,
+        "user_ratings_total": 427,
+        "phone_number": null
+    },
+    {
+        "name": "El Artesano Bakery",
+        "address": "90-16 Corona Ave., Elmhurst, NY 11373, USA",
+        "place_id": "ChIJb-A3HTRfwokRTlmpDZYCzFM",
+        "rating": 4.5,
+        "user_ratings_total": 37,
+        "phone_number": "(718) 440-9227"
+    },
+    {
+        "name": "Awang Kitchen",
+        "address": "84-05 Queens Blvd #1C, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJSy7wWlJewokRI5deNKFavzM",
+        "rating": 4.6,
+        "user_ratings_total": 598,
+        "phone_number": "(347) 492-9264"
+    },
+    {
+        "name": "El Guayaquileno",
+        "address": "94-54 Corona Ave., Elmhurst, NY 11373, USA",
+        "place_id": "ChIJVQxYlbNfwokR-GlMbJGRsgk",
+        "rating": 3.8,
+        "user_ratings_total": 606,
+        "phone_number": "(718) 760-4982"
+    },
+    {
+        "name": "Burmese Bites",
+        "address": "Queens Center Mall Food Court, 90-15 Queens Blvd, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJcUH6w1JfwokRvTfUfgVU2rs",
+        "rating": 4.8,
+        "user_ratings_total": 303,
+        "phone_number": "(917) 560-2480"
+    },
+    {
+        "name": "Jardin De China",
+        "address": "37-37 Junction Blvd, Corona, NY 11368, USA",
+        "place_id": "ChIJ43rlGLlfwokRkwb5mrdsl00",
+        "rating": 4.5,
+        "user_ratings_total": 1342,
+        "phone_number": "(718) 476-3755"
+    },
+    {
+        "name": "JFK Bar and Grill",
+        "address": "35-21 Junction Blvd, Corona, NY 11368, USA",
+        "place_id": "ChIJS_MugcFfwokRYnltp_u-Btk",
+        "rating": 4.8,
+        "user_ratings_total": 27,
+        "phone_number": "(917) 396-1412"
+    },
+    {
+        "name": "Quesadillas Neza",
+        "address": "Corona Ave., Corona, NY 11368, USA",
+        "place_id": "ChIJ4Vv3rlNfwokRR3EprJ9J2rY",
+        "rating": 4.9,
+        "user_ratings_total": 12,
+        "phone_number": "(646) 657-4603"
+    },
+    {
+        "name": "Tiro de Esquina Restaurant & Sport Bar",
+        "address": "45-18 104th St, Corona, NY 11368, USA",
+        "place_id": "ChIJBSgJ5xpfwokRdjXp34Jrhjw",
+        "rating": 4.9,
+        "user_ratings_total": 254,
+        "phone_number": "(347) 848-0002"
+    },
+    {
+        "name": "Morena's Kitchen Bar & Restaurant",
+        "address": "111-20 Roosevelt Ave, Flushing, NY 11368, USA",
+        "place_id": "ChIJt_G1aDNfwokRwr6E98C0dNw",
+        "rating": 4.7,
+        "user_ratings_total": 93,
+        "phone_number": "(718) 803-2015"
+    },
+    {
+        "name": "Leticias Restaurant",
+        "address": "40-32 National St, Corona, NY 11368, USA",
+        "place_id": "ChIJ_8FjscdfwokRBV83NT0U9UM",
+        "rating": 4.7,
+        "user_ratings_total": 1180,
+        "phone_number": "(718) 577-8180"
+    },
+    {
+        "name": "Sabor Peruano",
+        "address": "98-53 Corona Ave., Corona, NY 11368, USA",
+        "place_id": "ChIJt44XsclfwokRBbdN5QlaqCM",
+        "rating": 4.2,
+        "user_ratings_total": 630,
+        "phone_number": "(718) 255-1825"
+    },
+    {
+        "name": "Mi Taqueria Tolte",
+        "address": "92-10 Corona Ave., Elmhurst, NY 11373, USA",
+        "place_id": "ChIJ6_NahbNfwokRfEyeLVQYROE",
+        "rating": 4.1,
+        "user_ratings_total": 258,
+        "phone_number": "(718) 760-3778"
+    },
+    {
+        "name": "JoJu",
+        "address": "83-25 Broadway, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJrc8DMa1fwokRpH5iHAVyEsk",
+        "rating": 4.5,
+        "user_ratings_total": 1099,
+        "phone_number": "(347) 808-0887"
+    },
+    {
+        "name": "Sabor Latino",
+        "address": "95-35 40th Rd, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJL1DmXbdfwokRdKqH4mCJQco",
+        "rating": 4,
+        "user_ratings_total": 2129,
+        "phone_number": "(718) 457-3966"
+    },
+    {
+        "name": "Boca Juniors",
+        "address": "81-08 Queens Blvd, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJd8XFk1NewokRQFKYhhd_Yg0",
+        "rating": 4.3,
+        "user_ratings_total": 1738,
+        "phone_number": "(718) 429-2077"
+    },
+    {
+        "name": "Georgia Diner",
+        "address": "80-26 Queens Blvd, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJaTTCv01ewokRAIKpIGZVPEE",
+        "rating": 4.1,
+        "user_ratings_total": 4179,
+        "phone_number": "(718) 651-9000"
+    },
+    {
+        "name": "Empanadas Cafe",
+        "address": "56-27 Van Doren St, Corona, NY 11368, USA",
+        "place_id": "ChIJJyc8c9JfwokRv5fvVApxk0M",
+        "rating": 4.6,
+        "user_ratings_total": 2091,
+        "phone_number": "(718) 592-7288"
+    },
+    {
+        "name": "Ayada",
+        "address": "77-08 Woodside Ave, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJpROekqpfwokRxzDFY0gQKP8",
+        "rating": 4.4,
+        "user_ratings_total": 1622,
+        "phone_number": "(718) 424-0844"
+    },
+    {
+        "name": "Silver Spoon Diner",
+        "address": "58-21 Junction Blvd, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJM-wDgDVewokRSRKx_OGIPnA",
+        "rating": 4.2,
+        "user_ratings_total": 1051,
+        "phone_number": "(718) 393-3000"
+    },
+    {
+        "name": "Brisa Del Cibao",
+        "address": "37-79 103rd St, Flushing, NY 11368, USA",
+        "place_id": "ChIJPws5GsdfwokRxs6Sd9gE-eo",
+        "rating": 4.3,
+        "user_ratings_total": 700,
+        "phone_number": "(718) 205-4941"
+    },
+    {
+        "name": "Charo Bros",
+        "address": "40-42 Junction Blvd, Corona, NY 11368, USA",
+        "place_id": "ChIJ_WL47GtfwokRShrbLMMuVZk",
+        "rating": 4.3,
+        "user_ratings_total": 74,
+        "phone_number": "(347) 832-0335"
+    },
+    {
+        "name": "White Castle",
+        "address": "89-03 57th Ave, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJ4wMNnVpewokRkjSNm49bc3g",
+        "rating": 4.1,
+        "user_ratings_total": 2218,
+        "phone_number": "(718) 426-0618"
+    },
+    {
+        "name": "Yummy Kitchen",
+        "address": "95-17 57th Ave, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJg_TXY6hfwokRhiKmI992S2U",
+        "rating": 4.2,
+        "user_ratings_total": 48,
+        "phone_number": "(718) 699-0887"
+    },
+    {
+        "name": "Taiwanese Gourmet",
+        "address": "84-02 Broadway, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJw_Q_yFJewokRxYROzhYEorI",
+        "rating": 4.2,
+        "user_ratings_total": 1054,
+        "phone_number": "(718) 429-4818"
+    },
+    {
+        "name": "ZAAB ZAAB",
+        "address": "76-04 Woodside Ave, Queens, NY 11373, USA",
+        "place_id": "ChIJSR84V9NfwokRqv7h7RV5z9k",
+        "rating": 4.3,
+        "user_ratings_total": 307,
+        "phone_number": "(631) 526-1664"
+    },
+    {
+        "name": "Leo's Latticini",
+        "address": "46-02 104th St, Corona, NY 11368, USA",
+        "place_id": "ChIJr5sStshfwokRL4D3OQsxU3A",
+        "rating": 4.7,
+        "user_ratings_total": 352,
+        "phone_number": "(718) 898-6069"
+    },
+    {
+        "name": "Kumo Cafe",
+        "address": "40-07 82nd St, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJEWfat-dfwokR8Uvd0UcSd9A",
+        "rating": 4.7,
+        "user_ratings_total": 116,
+        "phone_number": "(929) 767-3936"
+    },
+    {
+        "name": "Double",
+        "address": "53-16 108th St, Corona, NY 11368, USA",
+        "place_id": "ChIJRSf_Ds5fwokRZqTrUKpGcDI",
+        "rating": 4.4,
+        "user_ratings_total": 247,
+        "phone_number": "(718) 760-1021"
+    },
+    {
+        "name": "El Encuentro",
+        "address": "39-01 104th St, Corona, NY 11368, USA",
+        "place_id": "ChIJ0UuQ-8ZfwokRrkC5TQ6S5ZA",
+        "rating": 4.5,
+        "user_ratings_total": 22,
+        "phone_number": "(718) 396-0269"
+    },
+    {
+        "name": "Applebee's Grill + Bar",
+        "address": "90-15 Queens Blvd, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJBY0CqU5ewokRLASm9exvCwU",
+        "rating": 4.2,
+        "user_ratings_total": 1724,
+        "phone_number": "(718) 271-7999"
+    },
+    {
+        "name": "Sumatera Restaurant NYC",
+        "address": "86-20 Whitney Ave, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJ21T-e6xfwokRy_clAmiiMDg",
+        "rating": 4.8,
+        "user_ratings_total": 966,
+        "phone_number": "(347) 448-6297"
+    },
+    {
+        "name": "Tacos El Lobo",
+        "address": "97-77 Corona Ave., Corona, NY 11368, USA",
+        "place_id": "ChIJmYhBOwJfwokROgNSbhAlgSg",
+        "rating": 4.5,
+        "user_ratings_total": 153,
+        "phone_number": "(718) 536-1343"
+    },
+    {
+        "name": "Lao Bei Fang Dumpling House",
+        "address": "83-05 Broadway, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJ_yd-Jq1fwokRfBaaRGQbTz8",
+        "rating": 4.4,
+        "user_ratings_total": 862,
+        "phone_number": "(718) 639-3996"
+    }
+]

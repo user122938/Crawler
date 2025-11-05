@@ -1,0 +1,593 @@
+{
+    "name": "Sala Astoria",
+    "place_id": "ChIJAbsLZZVfwokRaPB3n0fqHuI",
+    "grid": "QN1",
+    "address": "34-39 31st St, Astoria, NY 11106, USA",
+    "rating": 4.7,
+    "user_ratings_total": 336,
+    "phone_number": "(929) 556-3038",
+    "reviews": [
+        {
+            "date": "1시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxT1FXbzFiMDlYVGpkNE9URXRaMU5TT0hWalNIYxAB",
+            "text": "I’ve been here twice and will come again. It’s a nice restaurant."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkeFZEQXlTWEo0YjJVeWRUaFdZVmRGUXkxSmNGRRAB",
+            "text": "A pleasant evening of tapas at Sala. Everything was fine but nothing stands out"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsRmRHNTVhelIwYldrd1dDMTRaM0ZtVVZsemNVRRAB",
+            "text": "We had the absolute joy of having Sala cater our wedding and I can confidently say it was one of the highlights of the entire celebration.\nThe paella was the star of the night, everyone had seconds and even thirds! The Spanish tortilla and the chistorra—wow—were crowd pleasers, they were the perfect pre -and post- diner bite. And I can’t go without mentioning the pan con tomate: a humble dish, yes, but in Sala’s hands it was out of this world—crunchy, fresh, and really addictive.\nBut beyond the incredible food, what truly set Sala apart was the personalized service. Planning for 120 guests can be daunting, but Shahla listened to our every request, adjusted quantities with precision, and made us feel like our wedding was their top priority. Every interaction was thoughtful and professional.\nI wholeheartedly recommend Sala for any celebration—big or small. They made our day not only delicious, but memorable in every possible way.\nGracias, Sala, for feeding our hearts and our guests so beautifully. ❤️"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GNFQwTlNOVnBKWlhSRVMxRmtSREJLUlRVelJsRRAB",
+            "text": "For a long time, I've felt guilty for not leaving a review for Sala, one of my absolute favorite restaurants in Astoria. My wife and I have been regulars for years, enjoying countless drinks and dinners with friends in their wonderful space. When it came time to plan our baby shower, the choice was obvious.\n\nWe worked directly with the owner, Shahla, to organize the celebration, and the entire experience was flawless. Her team's genuine kindness and professionalism shone throughout the evening, complementing the incredible food and expertly chosen wines. All of our family and friends had a fantastic time and were full of praise for the restaurant. It was the perfect place to celebrate this special milestone, and it confirmed once again why Sala is a destination I enthusiastically recommend."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWWFFrbDRkRlpLUmxCV1lrSnNNazVmWm5wdmNYYxAB",
+            "text": "First time here, came for HH the sangria was really really good especially at that price! I had the sopa de lentejas which was amazing. The bartender was so nice and attentive, I will definitely be coming back here!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWGRtMDBORFkyVjE5M05IWktVMmxvY3pOSVNrRRAB",
+            "text": "Ohh my God ...the foodvwas so good...thank you guys .."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGNlJVSXplRXhrTFZwNkxXbGZNbGd6UVd4dmRYYxAB",
+            "text": "Excellent Spanish food, large and pleasant space, great for large groups or small parties."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkM05FVkhkR2c0T0U1WE0xZFZkbmxhUlRsamJYYxAB",
+            "text": "Friendly, attentive and quick service. Paella was flavorful and bottom of pan crunch was nice.\n\nCroqueta de jamon had a welcome bechamel  inside.\n\nTortilla española was generously sized.\n\nWill come back to try other menu items."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORE9HcFhOVU5ZZDA4MVZFWlNPVXRNWW1WWWRHYxAB",
+            "text": "Good food, nice ambience, excellent customer service. We enjoyed our meal and recommended you try it"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201alRsSlJaVk5xTmxadVMyWktURFJaWTNCV1pHYxAB",
+            "text": "Excellent food at Sala! My friend and I had the seafood paella, croquets sampler, pulpo plancha and a couple of sangrias to wash it all down. Great vibes and clean restaurant overall with fantastic service!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poWVJFSktZMUUyWTBWVllYZExSSE4yWW5oQ2RHYxAB",
+            "text": "Delicious food!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GRlltSkpTMjQzVjFkcFpVeEhaREV3WldvM1FXYxAB",
+            "text": "This place is great! We ordered tapas, paella and the entraña to share and the food was delicious. The service was fantastic! You always had water, and the food came out very quickly. Everyone there was very nice! The told us about the tapas and which were the best for sharing with a large party. Definitely check Sala Astoria out."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kV1YyRTRaa3hYV2taVWFscFJhR1U1ZWxsTVFWRRAB",
+            "text": "Ambiente estupendo y nunca hemos tenido quejas Llevo yendo desde que abrieron pero recientemente han cambiado de cocinero y la calidad de comida ha bajado bastante espero que vuelvan a ofrecer la calidad de antes."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210UlVsbEpRakZDY2pscGFWSlFaVEoxVFhaUFZtYxAB",
+            "text": "Outstanding place!  The Sala Bikini.... very, very good"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxaFVVeHRRalpUWnpKSGJVcERkVU0yZDNOeFdFRRAB",
+            "text": "Definitely the best Tapas place in Astoria! Food, service and ambient are magnificent! We made a ‘tour’ through the tapas menu and we weren’t disappointed. It’s a Must in Astoria!\n\nHard to decide what was the best, but, gazpacho, goat cheese with honey and as dessert the crispy apple it’s my highlight recommendation"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiZ1lpWkx3EAE",
+            "text": "7/20 update - I feel like I’ve been sleeping on the quality of the food here. The branzino here is probably one of the best I’ve had in the area, including the Greek places. Garlic shrimp is amazing.\n\nRecommended.\n\n——\n\nCame here for dinner on a Tuesday night. Turns out they have flamenco dancers performing every Tuesday during the summer!\n\nSat at the bar and ordered a few plates to share. Definitely the standouts were the gazpacho and pork terrine, with crispy skin! The other dishes, cauliflower, shrimp, and calamari were tasty.\n\nService was nice and attentive. A few wines on the list along with cocktails. I personally didn’t enjoy the red wines as they were too tannic - I tried two. The white, Albariño, was the way to go!\n\nThis experience was much better than the last time I visited last year!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SVFozTlFOMkpyVm01RlV6RTJZVFZGYlRCbFJGRRAB",
+            "text": "Absolutely amazing! First rate staff (thank you Maria!) and flawless food. We had the grilled asparagus and the paella special of the day, which was skirt steak."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4b2NWWnZVVXQ1TFdWSVltVnJha00zZFhkck9WRRAB",
+            "text": "El restaurante es hermoso, excelente atencion, comida deliciosa y buena musica. El lugar es muy armonioso."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pScmVsWk5jM0ZvT0VrdFpqQnlYekkwUlZaT1MxRRAB",
+            "text": "Tiene una alta variedad de comida española muy buenos platos el servicio muy bueno"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkdWNGaHBObGRWZWpoT2JsZHRaMGhQVURrNU9XYxAB",
+            "text": "Just one word: paella. For me, for you, for anyone who loves good food. Everything we tried was delicious, but the paella really stole the show. The tapas were fantastic too, honestly, my stomach was so happy! If you’re looking for authentic Spanish food, this place should be at the top of your list.\n\nThanks for watch my review and please don’t forget to follow my page for more!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VLQ3B4UGU5d0tpZkhBEAE",
+            "text": "I met some friends for dinner at Sala. True to its name, the place feels more like a living room, with tables and chairs arranged in a cozy, homey manner. The food was decent—nothing exceptional—and the mixed drinks were also satisfactory but nothing memorable. The relaxed atmosphere was nice, but I’d probably choose to go somewhere else next time. Parking was a real hassle; I spent about 20 minutes driving around before finally finding a spot three blocks away."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VPRFNzcHUwMktLQnB3RRAB",
+            "text": "The staff was friendly and attentive, food are flavorful and satisfying."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOTGY0ZFR3NzVhU0dnEAE",
+            "text": "Came here on our anniversary and had a wonderful waitress who had great recommendations."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VONzUxNnFBdk1IU093EAE",
+            "text": "Great little gem in Astoria. Good food and wonderful service."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLdXZrOTM5cDhmS3VRRRAB",
+            "text": "Sala is like a second home - I highly recommend anything in the menu and their drinks. All of the employees are incredible David rocks!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZMmQ3SEdBEAE",
+            "text": "The Churros! Almost addictive. We came in hungry and my son craved the famous spanish churros. Although the place was fully reserved they accommodated us and we felt like home. Food and tapas were amazing, its like you stepped into a small piece of Spain. Amazing."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvM1l2V2NnEAE",
+            "text": "Lovely place. Definitely a birthday type of spot. Staff was great! Ralph knew everything on the menu. Tapas were on the money"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvaE5xOFd3EAE",
+            "text": "Very good restaurant. Spanish food is very well prepared and flavorful.\nGreat atmosphere and unbeatable service.\n\nSmall portions."
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvNF9Id3ZBRRAB",
+            "text": "Me encantó el ambiente es muy acogedor y a su vez tiene varios espacios 😊 la comida y música agradable. La chica que nos atendió muy amable 🥰🥰"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJNklPMmVnEAE",
+            "text": "El cordero es delicioso.  Los dátiles rellenos de almendras y envueltos en tocino una delicia.  La  paella marina cumple. La tarta de Santiago buena pero no excelente. El queso frito de cabra con cebollas caramelizadas  con un poquito más de caramelo estaría mejor. El pulpo bueno."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJOFBXQTd3RRAB",
+            "text": "What a lovely experience we had for my husband and mother in law’s birthday ! The staff was kind and attentive and the service was excellent. The food was delicious. Everything we ordered was absolutely fantastic. They sang happy birthday to my husband and mother in law and it was a nice touch.  We were so impressed by this restaurant and will recommend to all our friends!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJNzZTQ3ZBRRAB",
+            "text": "Menu variado y delicioso. Muy espacioso ideal para grupos"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3bEpmRGpnRRAB",
+            "text": "Sala in Astoria is a total win. We grabbed seats at the bar and had a great time—fantastic bartender, super welcoming and on point. The food was delicious across the board: tender octopus, elegant white asparagus, and flavorful mejillones conservas. The standout? The seafood paella—rich, perfectly cooked, and packed with depth.\n\nGreat vibe, lively clientele, and a space that feels both relaxed and buzzing. A low-key gem that knows exactly what it’s doing."
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3ejZ5b1JREAE",
+            "text": "Muy rico, la atención es muy buena"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3bExQMkpREAE",
+            "text": "The food is a vibe!!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRNTYtVk13EAE",
+            "text": "Sangria is perfec! Get the Pulpo a la plancha"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRMDdMajhRRRAB",
+            "text": "Sala Astoria is a beautiful place to have a delicious dinner. My partner and I had ordered six raciones. The Brussel sprouts, patatas bravas, jamon croquetas, fried goat cheese, and the garlic shrimp. Everything was prepared perfectly although I do wish my brussel sprouts were charred a bit more.  That's being said the guy next to me got the hanger steak with fries and a salad and it also looked awesome. I definitely had a bit of food envy. That being said I don't regret anything I ordered. I'll be coming back for sure."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRNXJpcGl3RRAB",
+            "text": "Great ambiance and the paella was nice. Good for girls night. Will definitely be back."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRblBYWWtBRRAB",
+            "text": "They are great I am Spanish I recommend this place"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnOUtuZ0xnEAE",
+            "text": "Good food  nice people, I will go back"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNneG9ULS1RRRAB",
+            "text": "Great service really friendly staff. Definitely a 10 out of 10"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnc29mV2lBRRAB",
+            "text": "Absolutely fantastic place to go. Food is good, drinks are good, the vibe is fantastically chill. Get tapas with Spanish themed cocktails or wines, they also do a great tapas themed brunch on the weekends. I go often and and loved it every time"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBaE9LVlRBEAE",
+            "text": "The food was so good.\n\nThey know how to cook octopus perfectly!  It was tender and not at all chewy with a little bit of char on the outside. Perfect!\n\nBeef cheeks are a must!\nYou have to get it!\n\nSteak cooked just right and not at all chewy.\n\nSeafood paella was a bit salty but overall good.\n\nWine, beer and cocktails always have a great selection.\n\nThe staff is lovely and accommodating."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfODV1MWJ3EAE",
+            "text": "Great seafood paella!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfb1pHd25BRRAB",
+            "text": "Birthday and entertainment thats my Flamenco dance teacher and my Flamenco family Spanish food and bar is a mood light everyone is classy and unique a grsat place to visit on a tuesday night enjoy the flamenco ensemble and food and the service well 10 out of 10 must go and see fpr yourselves"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfd09iWUZnEAE",
+            "text": "I finally made my way here and I'm so delighted!  Came here for happy hour and the food was great and I loved my wine.\n\nI don't understand why it's so giant - but it's completely worth my business and  yours.\n\nGO - it's so so good!\n\nAlso, the bathroom was very clean and nicely decorated."
+        },
+        {
+            "date": "9달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmOWViQXdBRRAB",
+            "text": "Exelente lugar"
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmanZIX2xBRRAB",
+            "text": "De este lugar debo decir cosas maravillosas la atención impecable, el lugar exquisito confortable muy cálido, la decoración con hermosos detalles , la comida deliciosa, exquisita, me sorprendió el delicioso cheese cake perfectamente suave y cremoso , volveré a visitarlo y además cantaron cumpleaños a nuestro amigo. Me impactó el detalle de la visita a nuestra mesa de David nos habló de las próximas fechas del flamenco al cual asistiré , es una persona muy amigable y la atención de la linda Alexny muy calurosa\nRecomiendo este lugar por todo!!!💃"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmeXVpQ193RRAB",
+            "text": "great spot for a weekday date night"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2eTZfaWNREAE",
+            "text": "Very large restaurant with delicious tapas. My company had our holiday dinner and everything was delicious here including their Sangrias"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2MHZyUFFBEAE",
+            "text": "Delicious and just the right amount of heat in this Spanish restaurant. The cuisine is traditional but seems they add their style to each dish. Always check the daily specials - they are too tempting to pass up. A must try is the sangria!! The staff is friendly and helpful if you have trouble choosing.  The atmosphere is comfortable and modern."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyNXJmbnVnRRAB",
+            "text": "❤️ Overview:\nMy husband and I went on a double date here on 4th of July. We had a wonderful experience. All the food was good and our waitress was great. She really knew the menu well and was able to recommend things she liked. My friend and I shared two bottles of wine so we were definitely have a good time! 🤣\n\nThe only thing that was not ideal was that the table next to us who came in way after we were already eating, got their paella before we did. But other than that, everything was great!\n\n❤️What was ordered:\nFOOD: vegetable croquettes, hanger la plancha pinchos, pan tumaca con jamon pinchos, pulpo a la plancha, vegetable paella for 2\n\nDRINKS: 2 bottles of the Cabernet blend\n\n❤️Stand outs:\nThe pinchos\n\n❤️Would I come back/recommend:\nYes - I would come back\nYes - I would recommend"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3dE11bG13RRAB",
+            "text": "Everything was good.\n\nWe had a small catch-up dinner with my sister, and Sala was our destination.\n\nWe’ve walked past Sala many times and always said, \"We should try it…\" A year has passed, and finally, here we are.\n\nThe Hanger A La Plancha was an okay dish for a meat lover like me. It’s light and tasty. If I had to find something to criticize, it would be that there were only two pieces per order.\n\nNext was Pulpo A La Plancha, grilled octopus with mojo verde. It’s tender, juicy, and delicious. I would say this was the best of the night. If I had to find a negative point, it would be that the portion was too small for $22.\n\nGambas Al Ajillo was shrimps with olive oil, garlic, and parsley. Very fresh and delightful. Again, if I had to find a spot to deduct points, it would be because the portion was so small for $18.\n\nThe last dish was Paella De Mariscos at $24 per person. It was good, full of seafood, and not fishy. I’m not a seafood type person but could still say this was good, so you should try it.\n\nLuckily, this Paella wasn’t that small, and it filled up the three of us very well. Along with wine, spirits, and cocktails, I would say Sala was a good place to try.\n\nNot definitely, but worth a try."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYdTVlLWZBEAE",
+            "text": "The missing star is due to the slightly slow serving speed, but the food was delicious! We ordered gambas al ajillo, croquetas de jamón, pollo al horno, and black paella. The portions of the paella were generous, and the taste was excellent! The skin of the pollo al horno was crispy, and the gravy underneath was rich in flavor."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPdkluRHJnRRAB",
+            "text": "Great energy, great service most specially GREAT food! Congrats to their Chef and crews! Everything were delicious! They just opened and they already set the bar high! Welcome to the neighborhood! I’ll def be back! And hope they can serve…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4NDRhRXh3RRAB",
+            "text": "Really great spot to grab some tapas or catch a happy hour. We came on a Thursday night and they had a live band as well as a special for the paella. Couldn’t have asked for better service and delicious food/drinks. Looking forward to…"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1LXJTSHdBRRAB",
+            "text": "The experience was stellar! Gabriela was our server and she was so friendly and helpful in guiding us to our dining choices.\n\nDrinks were great! For cocktails, definitely recommend the marganzilla (apple-like flavor) and Flamenconi (like a Negroni but with a floral hit). I want to try the Albariño next time especially during the warm summer months.\n\nPatatas Bravas were delicious (a little spicy, so beware), the croquetas were also a star. Also had the beets (delicious earthiness), fried goat cheese (wow!), green beans (blanched to perfection), and the empanadillas (yes to braised pork). No disappointment in our choices at all!\n\nDo the prices add up? Yes. But the plates are shareable and the quality is great, so it’s worth a splurge.\n\nDefinitely coming back for more!\n\n(Btw we drank a few cocktails each, so the price per person is a bit higher than a normal human would pay, haha!)"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQNHQ3MXdnRRAB",
+            "text": "The place is beautiful, the food looks beautiful and the staff are really nice. However the food is a bit under seasoned at times. The best dishes were the proteins like meatballs, calamar, pulpo. The garlic was a bit undercooked for the gambas and it didn't have much flavor so it tasted mostly of straight olive oil. I took my grilled cheese and dipped it in the gambas oil, now there was a dish! The papa's bravas were okay. The apple dessert was really lovely. It's a nice place to hang with friends and eat but your socks will probably remain on."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxX2RiUFNnEAE",
+            "text": "Wonderful experience on New Year’s Eve!\nGreat food selection and the atmosphere is so inviting. The Rosé Sangria is a must and paired well with tapas.\nChorizo and shrimp were served hot and with bread to scoop all the garlic sauce.\nI enjoyed myself and would’ve aimed for 5 stars except it can be noticeable overpriced.\nI recommend a happy hour visit."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCaTdUMnFBRRAB",
+            "text": "(5/5 rating) Everything was great. We went on a friday night. I could’ve taken better pics but i was so excited to eat. The service was excellent from bar to sitting down at the table. The food was delicious. We had seafood, veggies and meat - everything was delicious. The desserts were yummy. We each had 2 drinks and the bill came out to less than 100 for each of us and we were 4. The ambience is good for friends, family, dates."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2aXZPRjd3RRAB",
+            "text": "Beautiful place, wonderful service and great food!\nThis tapas, and not only restaurant is a hidden gem in Astoria.\nWe got different tapas, and highly recommend the bacon wrapped dates, the octopus, the garlic shrimps, the paella, and the chocolate cake! We really enjoyed our dinner, and the staff was super attentive and lovely! Extra points for the great playlist throughout the evening!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSNm8tYVJBEAE",
+            "text": "Amazing tapas! Get at 4-5 plates if there are two of you. The waitress was super friendly.\n\nThe popular things are the croquettes, meatballs, empemadas, skewers steak and the sangria! They give you bread\n\nWe ordered all of the above and it was amazing! Will come again"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPd1phWlJ3EAE",
+            "text": "This was a long awaited reopening. They used to be in Flatiron and became a victim of covid. They have reopened in Astoria after 2 and half year absence. They were in the City for nearly 20 years. Consistently great Spanish food amd  the wine is awesome. The staff arE like family.  This  was my Cheers and go to bar with friends or alone. I missed their food as I was hard pressed to find any other Spanish spot that consistently put out great Spanish food.  If you like Spanish wines you will love their selection. They are in soft opening mode and most likely a full opening in a week or two. I have ready been 3 times to eat. They are a block and half from the 36th Ave subway.\n\nSome of he dishes I had were:\n\n-The pulpo a la plancha is a must have. It's just perfectly made and the potato confit is a great with it.\n-The queso de cabra is a great dosh to eat with wine.\n-The empanadas were wow..better than they were in their previous location. The  shell is soft and the filling is deeelish!\n-The croquettes are among the best your Will have and are not greasy. You can't just have one!\n\nThe Branzino was wow..I ate the whole thing. It was fresh and flaky the skin light and crisp.. the salad was a nice touch..easily shared w 3 people."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2N2RxVU1REAE",
+            "text": "Rosé sangria is delicious, get the pitcher. Goat cheese, steak toast, and croquettes are among my favorite tapas. Paella was delicious, very generous portion for two. Love coming here, look forward to it every time."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPXzV6VDBBRRAB",
+            "text": "I visited yesterday  (Wednesday). I was immediately wowed... this place is humongous and beautifully decorated..so airy and spacious. And although I truly appreciate beautiful surroundings ultimately I'm there for the food. I had the datiles and the tortilla .Both were excellent. Also had a couple of glasses of Rioja.....all I can say is suberb...immediately  brought me back to my trip to Spain 3 years ago. And because I have a sweet tooth I had to have the flan. Also excellent., not too sweet, lighter than most other flan, and made with real vanilla beans.\nBesides the great food and drinks the staff there are incredible. Extremely friendly. The bartender/server that served me was very kind. I wish I could remember his name (he had a man bun) Mona , hostess/ manger was an absolute doll....She was amazing. I was dining by myself and she would come by in between guests to check up on me...we had such great conversation.\nOf course I will be returning within  the  week. This is such a welcome addition to Astoria. It's the perfect place for a romantic date or for individuals  like myself that's just looking for a nice place to have a drink and a few bites, a large party could be easily accommodated here as well and everything in between. Welcome to the neighborhood  Sala !!!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNldk4zYkFnEAE",
+            "text": "A fantastic addition to the Astoria restaurant scene! Sala is a beautiful and welcoming Spanish restaurant that offers a high-end ambiance and dishes with a neighborhood feel.\n\nFirst of all, Sala has TWO bars in either side, and dining tables in the center. A perfect layout. My friends and I had drinks at the bar before sitting down for a fantastic meal. I highly recommend ordering a bunch of tapas the go from there.\n\nDavid, whom I think is the manager, was very accommodating and super friendly.\n\nI can't wait to return!\n\nPRO-TIP:  Start off with a refreshing Spanish beer on tap - Mahou!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxOGJHQUJBEAE",
+            "text": "I absolutely loved stopping by here at such a random moment. My friends and I were around the block trying out an Italian spot that was eh ok. This spot was right next door and we decided to sit at the bar for some drinks. First of all the atmosphere was great with the music and decor. The service was perfect we were instantly seated at the bar and everyone was cheerful and smiling. Our bartender Alex recommended us some drinks and was always checking up on how we were doing. We ordered some friend calamari that was perfection. We also ordered some desserts and coffee afterwards. Will definitely be coming back here for brunch or dinner! Cannot wait!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaenJEY3RRRRAB",
+            "text": "🍽️ pan tumaca\n🍽️Plato de quesos\n🍽️patatas bravas\n🍽️croquetas de vegetales\n🍽️ queso de cabra con miel\n🍽️ champinon Al ajillo\n🍽️ empanadillas\n\nThe whole spread was delicious and filling. Every dish was high quality and the portion size was ideal! Service was incredible and the ambiance is lively but intimate."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSaE9iWVB3EAE",
+            "text": "Service kind of is hit or miss. They are really nice and accommodating, the food comes out at a decent pace, but the service itself is rather slow when it comes to other points. I spent 5 minutes trying to find someone to flag so I could get the check. The food itself is good but I don't think I'd pay full price for the paella, even if it's a good deal on Thursdays at $15/pp. The octopus is really good. The bread with tomato is not, the bread came out burned and kind of soggy from over pouring the olive oil. I would probably come here for tapas or drinks if I was in the area."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOOC1MTlBnEAE",
+            "text": "Sala Astoria is a true gem in the heart of the city. From the moment you step inside, you are greeted with a warm and inviting ambiance that sets the stage for an unforgettable dining experience.\n\nThe selection of tapas and appetizers at Sala Astoria is nothing short of spectacular. Each dish is carefully crafted with the finest ingredients, bursting with flavor and presented with an artistic touch. Whether you're in the mood for classic favorites or crave something adventurous, there is something for every palate. The menu truly transports you to the streets of Spain, with an array of small plates that are perfect for sharing and savoring.\n\nThe vibe at Sala Astoria is simply unbeatable. The energy of the restaurant is infectious, creating an atmosphere that is both lively and relaxed. Whether you're enjoying a meal with friends or planning a romantic evening, the ambiance at Sala Astoria is sure to elevate your dining experience.\n\nAnd let's not forget about the exceptional customer service. The staff at Sala Astoria goes above and beyond to ensure that every guest feels welcomed and taken care of. Their warm and friendly demeanor truly adds to the overall charm of the restaurant, making you feel like part of the family from the moment you arrive.\n\nBut the magic of Sala Astoria doesn't stop at the food and atmosphere. The entertainment offerings are the cherry on top of an already fantastic experience. From live music to captivating performances, there is always something to keep you entertained while you dine. The entertainment adds an extra layer of excitement to your evening, making every visit to Sala Astoria a memorable one.\n\nIn conclusion, Sala Astoria is a must-visit destination for anyone looking for a top-notch dining experience. With its stellar selection of tapas and appetizers, inviting ambiance, outstanding customer service, and captivating entertainment, it's no wonder that Sala Astoria has become a beloved favorite among locals and visitors alike. Make a reservation, bring your appetite, and prepare to be swept away by the magic of Sala Astoria."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6ODdPU1RnEAE",
+            "text": "Can’t believe I’ve lived around the corner from this gem for two years and only just now got around to trying it. Everything was delicious and perfectly cooked. Some of the many, many highlights included the croquetas, the fried goat cheese, the grilled squid special, and the almond cake. Plus the cochinillo and paella (pictured). Service was lovely and very friendly. A much warmer, cozier atmosphere than I would’ve expected from the outside, from the decor to the service to the seating. Also really, really liked their playlist — but it wasn’t too loud, still easy to have a conversation with older family members. Wonderful all around. Will be back again, but in the meantime will be dreaming about the fried goat cheese."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROOWJlSHNRRRAB",
+            "text": "Went out to dinner with my cousin last night. Service overall was just fine.. which was a bit disappointing since the atmosphere was great. The host was very attentive and was more talkative than our server. We got a couple apps and mains to share with the mains taking over an hour with no update from server, until we asked and the response kept being “yeah”. When check was dropped, another server came up and chatted with us which made us realize that our overall experience would have been way better if we had a different server.\nOverall, not sure if we’ll be back because food was good but service was not what we expected."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURleHJxQ1JREAE",
+            "text": "This a very nice place to enjoy great Spanish food. The attention is great, the place is modern and yet comfortable. The service was fast if you consider that everything is prepared as you order.\n\nThe food, desert, wine and everything was very very delicious, I will definitely come back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6d1lUQ1hREAE",
+            "text": "Nice atmosphere and good service!\nDifferent style Paella. Recommend!\nWill try other dishes next time"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSa3FLcmZREAE",
+            "text": "Sala is a Spanish Restaurant and bar that serves delicious Spanish food and International drinks.  Is a modern and welcoming set up where one can enjoy a great meal and either excellent Sangrias or your favorite drinks.  The menu is Spanish Mediterranean fare.  Friendly and professional service.  I have visited three times and never disappoints.  There is live music on weekends."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlay0tbFZBEAE",
+            "text": "Beautiful inside design (and enormous inside) and attentive, helpful wait staff. Sure the tapas can get expensive, but you're there for the options, not the pricing. Loved the stuffed porcini mushroom topped with quail egg on special. Patatas bravas were not that spicy and were tasty. Meatball dish is very hearty. Goat cheese dish is tasty but a bit much if the person you come with won't split it with you :) Lava cake dessert was tasty but absolutely tiny, would pass on that next time as the value isn't there. Appreciated that the cheaper wines by the glass were actually good and not throwaway menu items."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1cDdLYzJRRRAB",
+            "text": "This is a great Spanish restaurant. Good selection of tapas, paella and Spanish drinks. Great service and ambiance.\nAs spaniard, i was glad to find good quality gazpacho and pantumaca. They also prepare great desserts (the \"manzana asada\" is a must!)."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2MkxIa2tnRRAB",
+            "text": "Being a Spanish immigrant, can say the food here is great. Would recommend the shrimp (gambas al ajillo) and please soak all the bread you can in the sauce.\nAlso, paella is always a good option.\nAt night the ambience is very romantic."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCc283R1hREAE",
+            "text": "I had a great experience here. We ordered a pitcher of sangria to start and it was very tasty, not too sweet which is how I prefer it. To eat we ordered a bunch of tapas to share and everything was excellent. Lastly the service throughout our meal was on point. This place is on the pricier side but everything was so good that it’s worth it. Will definitely be returning"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2MjVPc1Z3EAE",
+            "text": "This place was so good if I could give it a billion stars I would haha no but seriously the food here was so fresh not ONE plate disappointed. It was hit after hit very impressed with how fresh and good everything was. It was so good I forgot to take pictures"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMta3Fqc3FRRRAB",
+            "text": "Apparently the Kitchen can’t handle a medium to busy Sunday evening . We waited for our food for 45 minutes without anyone explaining that there’s some pressure on the kitchen or offering us anything else while we wait. I ordered the steak which was just ok (i had to ask for aioli sauce to add some flavor to it). My mom had the branzino which was good."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqdklYZjV3RRAB",
+            "text": "Alexny, our server, was outstanding in every way. She made great recommendations, especially as we decided on a second bottle of wine. We had the meat and cheese platters to start, and a house special of ibérico jamón. The special croquetas de cerdo were simply delightful and we had the special paella de cerdo which was a first. Everything was outstanding. We can’t wait to come back."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0cy16T0VREAE",
+            "text": "Gracias pase con mi novia a disfrutar de un almuerzo casual y todo fue mágico la sopa de lentejas estaba en su punto , el emparedado de jamón estaba tan delicioso 😋, de main course pedíamos paella puedo decir sin duda alguna la mejor en Astoria"
+        }
+    ],
+    "reviews_count": 83
+}

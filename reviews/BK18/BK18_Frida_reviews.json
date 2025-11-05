@@ -1,0 +1,593 @@
+{
+    "name": "Frida",
+    "place_id": "ChIJnY49AQBDwokRjsT7xdgi7FU",
+    "grid": "BK18",
+    "address": "5611 Avenue L, Brooklyn, NY 11234, USA",
+    "rating": 4.7,
+    "user_ratings_total": 388,
+    "phone_number": "(718) 750-8801",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWGQwdFdVa000YlRoaVRGVnlSM0YxZERWWVRtYxAB",
+            "text": "The place is so great and cozy! The service is nice and the owner shows you he has a passion for what he does. The family puts his heart into this business."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oNFYwcHBURFZCUWpCT2VYRnZYek5XWVZwdmIwRRAB",
+            "text": "I absolutely loved this place! I’m also very picky and particular of the places I chose to eat out. I took my best friend out to celebrate her 21st 3 days after her birthday. I was referred to this spot by a co worker and her reviews encouraged me to give it a try. From the walk in the place is very small, but very mighty the hospitality makes up for it. The vibes from the music playing had me dancing all night. Taylor was our waitress she had so much patience, understanding, polite to us. Not a long wait time for our food at all. The drinks were amazing. This place is a bit pricey but it is worth it. Lastly the food came out hot right sized portions. I got the steak taco and birria taco and the appetizer was fry cheese, fry plantains and salami. My friend got shrimp tacos and birria empanadas. This place has exceed my expectations I will be visiting again."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRNFlWZG5SMUpQY3psVlVIaHVVM0V0YkdkcVdVRRAB",
+            "text": "Love, love, love this place! The food and drinks are so good! The staff is very accommodating as well."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trNE1IRXpTWFZhZGxoSmQxZHRUVTVNWmxZdE1uYxAB",
+            "text": "Great place, great food, great service, great atmosphere. You guys rock 💪🏾💪🏾✊🏾🙌🏾\n\nThe Pica Pollo was excellent!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kR2VqSjRaR1JOUWtwTE9XMVRkbkJFUW1zMFJIYxAB",
+            "text": "Delicious food the  portions are good and drinks strong. Nice place parking may be difficult at night but cool vibe in a quiet neighborhood"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aMU5qQm1iVmRJVEc5WkxUQkVaMDVIVkVGWlVFRRAB",
+            "text": "I came by this restaurant from a discarded receipt in my front yard. Read the items someone had ordered for delivery and thought \"I want to try this place!\" So glad I did. My husband and I had the beef, chicken, fish and ground beef tacos. Each was topped differently and delicious! We had their delicious loaded fries with ground beef, cheese, onions, cilantro and just the right amount of a tasty sauce (sorry, not the correct name), but the flavor was 100! We will be coming back to try some of there other dishes and beautiful-looking drinks! Oh, and service was a 10!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WZk16QkVabmxaWkhCcFVrUlpSbmMwYldwb2NXYxAB",
+            "text": "Absolutely loved this place , food atmosphere and the SERVICE  was top notch our server DAVID was excellent and made sure we had all we needed  and checked on us constantly he was very attentive , as well as the other staff at loc very happy and welcoming , I love Frida 🌸 and our A1 server DAVID HES AMAZING 🙏"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prMWJGUjZOblJJVm5CbFpWRmFNR0V6V1RGTVpuYxAB",
+            "text": "The food taste good, but they need to add a little more fish option."
+        },
+        {
+            "date": "수정일: 4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1dlpGbzBURWxhVFZRMmNVbFNVbFpGTUZWbU4zYxAB",
+            "text": "Small Dominican/Mexican restaurant with a great atmosphere. Food  was very good especially the guacamole/chips, chicken tacos, birria tacos and the flavorful rice & beans ."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OSGRVTjZWMWxDV2psQ1VFRjZPV0pYZFRCT2RtYxAB",
+            "text": "I would said the best experience/service/and food amazing. Great job bringing two different culture. Into one Amazing atmosphere.10/10"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sT2NGZHZjbm95ZVVGclVIRkpORE5uTTA5SVNYYxAB",
+            "text": "Good food"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5YVZsOXVlVWg1U0RWelIyZDFZVXRDUlRCMk9FRRAB",
+            "text": "Food and service was excellent!! Great place for a celebration. The vibe is upbeat and lively."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zd1QwMXpSMDh3UW5wM1NqaEJlVU50UnpabmFYYxAB",
+            "text": "Servicio estava muy bien"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1UmVIcFZiVXcxT0c5ek5YTk1TVzlLV1dwdWMzYxAB",
+            "text": "The food, the music is amazing.  This is a place to come and have fun with the family!!  You will not regret !!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rdE0wTmhOaTFrYUhoSUxXNTFMVE5JWTNoeGVVRRAB",
+            "text": "Absolutely awesome service!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aRU5XZ3hSV1YwZDNWTGR6RllhRmszUkVGT2RuYxAB",
+            "text": "Everything was perfect. I only have one request. Please include some Caribbean music. The food and staff was wonderful. The house music was lovely just that one thing missing."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CM1NEUmFTekE1VWpSamVVdzNTVzk1UjBaWWFHYxAB",
+            "text": "Went to Frida Dominican Restaurant to celebrate a birthday and everything was perfect. I had the tacos al pastor, chicken, and the birria fries — all super flavorful and fresh. The drinks were on point too, had a couple cocktails and they really hit the spot. The staff made us feel comfortable the whole time and even helped make the birthday feel special. The atmosphere was fun and welcoming, the kind of place you actually want to stay and enjoy. Definitely coming back again soon!"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WdU1ra3dhWGhoVEZORmFUQmFjMTkxU1cxcWVsRRAB",
+            "text": "Besides the atmosphere, the overall rate should be 0 stars. What’s the purpose of making reservations if we’re not being served? The server took our order for drinks — which we waited for over 20 minutes. I started to notice the restaurant’s foot traffic since I was literally seated by the front door. Those customer’s were seated right away and were able to place their orders. Eventually our server came back and memorized our order for appetizers and entree, which was confusing because I noticed every other server had a tablet. I gave this place the benefit of the doubt since this was my second time here, but unfortunately it will be the last. Two parties that came in after me received their order’s although I placed mine way before they even entered the establishment. Once I notice that I lost my appetite and decided to leave. Our server did not apologize for the delay whatsoever until we requested the bill. She had the audacity to say that the kitchen was backed up, yet other tables received their order’s including the one from the right of me  who was seated after us. Moral of this review our server Vonzell needs training."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTGQyWkliVTEwWWpVNWIwcFdjME52YVVKaGIwRRAB",
+            "text": "The food was amazing and the atmosphere had such a great vibe with a nice variety of music. Everything about the experience was enjoyable, and I’ll definitely be coming back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SZlFqVktRVzlhUWpoNVpYY3lRa3BGTVUxa1kwRRAB",
+            "text": "This delicious restaurant has a great vibe and delicious drinks, I really enjoyed the Matchatini. The music and artwork match the creative menu. Next time I will try the Bad Bunny inspired drink. One cocktail was strong enough for this visit. The espresso was prefect! I highly recommend this restaurant."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxNVYxVk9kVTlHVFhjeVNUbFlRVjlJUldRdFNFRRAB",
+            "text": "I have been to Fridas twice already. The drinks are AMAZING! 5 stars. However the food is not the best. First time going there I got the tostones platter with salami and fried cheese. I was disappointed because it was exactly that.Nothing fancy, for the price I was expecting much more in terms of presentation and taste. More recently I tried the chicken nachos , which looked amazing but didn’t taste like much. Chicken wasn’t seasoned and the sauces didn’t have much flavor. Would definitely return but just for drinks."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xV2RYcEdWREpQWHpWb1VGa3hibHBQYmxSc1gwRRAB",
+            "text": "My first visit to Frida was a pleasant experience. From the customer service to the drinks and food. We went on a Thursday during Happy Hour which ends at 7pm which is great for Brooklyn. We had frozen margaritas in mango and passion fruit and they were strong and delicious 😋.  I had birria mofongo and it was well seasoned and first consume that wasn't super oily and flavorful. My friends had the 3 tacos and the Mexican street corn was also the best I had because it was juicy, salty, tangy from the lime and they didn't skip on the cheese. I will definitely be back and happy to see such a nice fusion restaurant in our neighborhood."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oeU5ESjVkV2Q0ZGxWVVMzVllkbkZuVjBOZlJXYxAB",
+            "text": "Wow wow wow! This place has it all from the environment, music, drinks ( alcoholic & non alcoholic ), and cultural variety of choices patrons can choose from. This is a great place to eat authentic Dominic food.\n\nAs a southeast Asian, I was immediately embraced by the staff members and was offered assistance with food and non alcoholic options. The food delivery, both appetizers and entrees, were cooked fresh and delivered in a very timely manner.\n\nThe food was delicious and kept true to the way they make it back home. While eating, I could not help but notice the attention to detail this store packed into such a small place; Even the bathroom was decorated accordingly!\n\nI’m glad I came to Frida, and look forward to coming back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSWVFXWkNhMjExYzFGbE9GSmpOVzR0WW1Ga1UyYxAB",
+            "text": "Nice friendly owner & staff very inviting and great drink choices"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5dmRYWXllR05VZVdKbGFEbHdaMU13UnpoVVRVRRAB",
+            "text": "The team made it so easy for me. Really nice and helpful staff."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JeFIwOW5VME5aU1ZKWVFrcHVWRUp6WHkwelpYYxAB",
+            "text": "Very good local bar/resteraunt for authentic Mexican/Dominican food.\nMy favorite order is the passion fruit margaritas (reg or frozen) and the fish tacos! The birria empanada is a fav as well.\nService is always friendly, if not that attentive, but they are helpful."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aaVVrYzRhR2RzWTFrNFNYbDNXVXhwUm5aUFozYxAB",
+            "text": "Food & Drinks were great ! 10/10! Music was on point !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOUVRFcDJjVjkyVEdab1dYUnhUblpVZVhSTVRYYxAB",
+            "text": "I was looking forward to having food from here, I ordered take out and I was shocked to see my chicken was burnt. I ordered the chicken and waffle. I mean who in their right mind thinks it's okay to pack someone burnt fired chicken ? On top of that they didn't bother giving any syrup to go or any utensils.  I am highly disappointed in their service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WU2RHMTJSRVF6UzJoNGJsWjJNemRCYW05WmFVRRAB",
+            "text": "Stumbled upon Frida and what an amazing experience. From ambience to service,  to food. Five stars!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGbFZGcENiMlZuZDI5UWVGSTBNbEJZUTBaTFJHYxAB",
+            "text": "Great food, great atmosphere, great staff, great story... what else is there to say? I was lucky enough to be the first person to try one of their new menu additions, the steak taco. It was succulent, juicy, well seasoned with just the right amount of zing. Typically, I order the fish tacos... now I'll be hard pressed every time I'm there on what to order. I highly recommend the restaurant. Keep up the great work!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205TlYyeGZURkZOT0RkUWJ5MDBORnBGTlVwSWJIYxAB",
+            "text": "Kris is the best"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxc1VXbzNPVWhaZUhaaFdUUTBVWEYyTTFoTFFuYxAB",
+            "text": "My second / last time trying this place was a disaster. (My first time did have some hiccups even having a reservation, but I understand it’s small and they tried their best to allocate for the situation)\nHad a set reservation for 4:30, & I personally feel like the waiter did not input my food order. (I watched 3 parties get their food within 15-20 mins of arriving.)\nI waited for over an hour of ordering an app / entree, and did not receive either, or. It was unfortunate because this restaurant does have good food. But after today I will no-longer support this business."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oQ1NXcFpUVk5hUjJ0SVgzSjViR3RHTUd4SlpFRRAB",
+            "text": "My first visit to the restaurant, thought it was great.  Now I have to thank my friend who recommended it.  Suggestion; check the bill because they include the tip in the total and you might otherwise double tip"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wV1RtOVdUV3h0TW5JdExYcFlWbGszWTJOalltYxAB",
+            "text": "Stopped by for brunch with my guy. 😍\n\nI had the fish tacos, he had the chicken and waffles.\n\nHe had a mami something drink and I had the mami chula.\n\nThe food and drinks were amazing."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213MGNETXpPVzVEU210U05XTkVXbGxqVDNoVGFWRRAB",
+            "text": "Tasted like a smart trade — low risk, high reward"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVGRVVkRNMkZTTnpsWmFHZ3hPREpwWkc5aWEwRRAB",
+            "text": "Nice local spot. It's a little on the pricey side but the food and drinks are decent. Nice vibes."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JMFZqSkdRVkJpYUdZMGNVcEpjMlpHUWpoNlJWRRAB",
+            "text": "Service, food, and atmosphere were amazing! My boyfriend and I went on a Sunday afternoon. The drinks were sooo good. We also had the chicken tacos and the shrimp tacos. Both were really good. The food was fresh and delicious. Our server was attentive and friendly. Overall a really cute laid back vibe. I would definitely recommend!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSbWFIcFJkRW8wU0ZaNVoyTmtYemt5UTBSSWExRRAB",
+            "text": "Great food and service! Beautiful inside! My one criticism is that the music is a little loud. It can be hard to talk."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4M1VraHFaR3BaUzBjMGJXUlRUbGx5T1ZGcE1WRRAB",
+            "text": "Tasty food!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKc1NUQndWMVl3WVdGbGNXZGtOM0JvUjA5M1UwRRAB",
+            "text": "Even though the music was a bit loud, the waiter happily obliged and lowered it upon request.  My friend and I enjoyed yummy chicken and beef tacos!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xocU5YaFpSVzF1V1ZaWWRrc3dSekozZEZoTVRrRRAB",
+            "text": "It’s in your best interest to try this place out the food is great and the service is even better."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psd1pFSnVjblJRWkhkM05sbHBTVGxYZEVoMFMyYxAB",
+            "text": "An amazing restaurant in a nice quiet area in Brooklyn.  The ambiance , the food and the drinks are absolutely amazing . The owner took time out to come by the table and chat with us . The experience was above five stars and we definitely will be returning asap."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psdWJYcHJOMk5uYlV4dVJrWjFTMkZtU1V4dVJXYxAB",
+            "text": "10/10 okay so this was my first experience and I am beyond impressed. Let’s start on decor and vibe. Decor is very modern deff has instagramable spots for photos. Music is 10/10 I came for brunch and vibes to Afro beats the whole time. The staff is extremely attentive and friendly.  Next let’s get to food. I’m a huge fan of Dominican breakfast and they did not disappoint. Happy hour 12pm -7pm $5 shots for Sunday brunch? Yes please. Menu deff has options for everyone. My brother ordered the chilaquiles and was not disappointed. Drink menu is well thought out and the drinks are perfect.  Not to sweet not to alcoholicy so no you will not die. Deff 10/10 recommend"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psbU9WY3pVRk5YVVRGSVlXcEJORFpEZDJwallsRRAB",
+            "text": "Our server Taylor was awesome! She made great food and drink recommendations and made my sisters birthday celebration fun.\nThe food and drinks were flavorful and had nice presentation."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRMlZ6WjRSMHQ1ZDI1Wk0zTjRlRnB5YXpGYVdWRRAB",
+            "text": "TAYLOR!!! Thank you for making my birthday memorable!! The food was great! Came out HOT, drinks came out STRONG and her customer service was EXCELLENT!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkU1NqY3lkMjgwVUZFMlYwUnJORUppTW5SVmVtYxAB",
+            "text": "Ambiance was great, music was perfect!\nTres golpes was filling... We also had the Birria boat was so good, mix Birria over maduros😋"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKTWFXMU1WVTlOVlRsR04xZ3pVekJMUlVaQk5rRRAB",
+            "text": "The food was a bit greasy, and one of the meals we ordered had an excessive amount of cheese. However, the atmosphere and music selection were great."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKRVYyaGhMVTB6YkRCR00zQm9ZbVpYU0dsWlVYYxAB",
+            "text": "My daughter and I are very picky eaters we loved everything we tried which was all of the appetizers\nI had a pink drink with coconut ( can’t recall ) delicious. Really everything was. Definitely going back"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvMlVFTXdVWFpmUWtkdGF6SmtMVzVzVEZCbmJFRRAB",
+            "text": "Taylor was SUPER GREAT....She made SUNDAY BRUNCH EXPERIENCE @FRIDAS AMAZING. She delivers service with politeness, care and speed.Thanks Taylor because of you I will return.....Thank you have a 👍 week"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25odVpXTkpjbVpRUldReVlYbFllRmhpWkZRMWRIYxAB",
+            "text": "It was a nice spot to go for the weekend. They have happy hour deals as well."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMWREQXdhR0ptYW5KQ1NUQXRUamhhT0ZCcE9GRRAB",
+            "text": "Taylor was our waitress. She was amazing! The food was delicious and the drinks were just as good and strong! I brought my service dog and they didn’t question her or make me feel uncomfortable. Highly recommend this spot!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLTHctTnE2NVlEOWJBEAE",
+            "text": "Came here with my family for brunch and we all had an awesome time! The place seems small but we were a party of 15 and there was still plenty of seats for other customers. The drinks were delicious, I ordered the mama de la mama. The food options were unique because they had popular dishes from Mexico and the Dominican Republic. I had the tres golpes and I felt like I was home! The music and the atmosphere was fun and I recommend this spot to everyone! Parking was pretty easy to find too!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQZlpoNW5Pb05qMVNREAE",
+            "text": "Loved the restaurant! Love the theme love the atmosphere. I had the chicken tacos with pineapple and it was perfect. The food was great the drinks were great. The owner is so nice and friendly. Recognized my husband and I from Sunset park after so many years. Great place to go for every occasion and any time of day. The menu is a great mix of delicious Dominican staples with amazing Mexican flavors too. Can’t recommend this place enough. A Must go."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VMV1p4TWlENU9MdlBnEAE",
+            "text": "This is my first time hearing of Dominican Mexican fusion and they do it well. They have a lot of good items on their menu to choose from. I started with the tres Golpes, yucca balls, And birria empanada. They do everything right. You get a sauce on the side for each dish and I can’t complain about the portions. Then I had the birria Chimi sandwich and birria Mofongo. Mixing 2 different worlds into one. I was surprised but it actually works. Plus they have a brunch menu on the weekend. I got to try the Chilaquiles and they were addicting. Next time I want to try the chicken and waffles. Be mindful it can get packed here. The aesthetics are nice. It’s more of an intimate or family vibe. Shout out Marcel for the great service."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLYUx1WlN6NkpQQmFBEAE",
+            "text": "I live in the neighborhood and it was my first time here. Marcelo and Manny were fantastic. The drinks and food were great. Came here on a Thursday evening and the place was packed. They also own the bagel shop next door and I’m looking forward to trying that too."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZOUllM1dnEAE",
+            "text": "LOVE…LOVE the fusion of Caribbean and Latin flavors! Not to mention the libation list to quench your alcohol appetite for a good time and tastiness of the drinks and the Owners “new Punch” is awesome and you get to leave with a shot glass of something that taste like strawberry syrupy!! I have to to also commend the customer service and the owners local vibe on providing good, clean, ethically sourced food in the Georgestown/Mill Basin makes this an awesome vibe place on any day…its a great local vibe, I will be adding to my local love-support-local businesses!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLejk4UENQc09LQUlREAE",
+            "text": "This is my second time at Fridas. My first time I tried the Birria mofongo and I had to go back.That mofongo was delicious, also the drinks are so good and the dessert was amazing I had a little of everything on the dessert menu. The service is good , great atmosphere, and the employees are friendly and polite. Great customer service I recommend it."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKS0g1NmJ5NUtUZlZREAE",
+            "text": "Frida is a wonderful addition to the neighborhood! Definitely brings a new vibe to Old Mill Basin! Great food and amazing drinks! Love that it’s so close! Marcel and his wife are so lovely, very attentive to everybody and always makes sure everything is going well! We will definitely keep coming back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZLXJtS3NRRRAB",
+            "text": "First time,  but most definitely NOT the last.\n\nFood:\nAPPS: Tostoncitos..We had the chicken and shrimp. They were VERY well prepared, yet a little small for the price. They could either be a little bigger or another added to the serving.\nENTREES: I had the fish tacos platter and bought the shrimp tacos platter to go for my mom. The tacos were quite big and filled with fish/shrimp. They were not stuffed with filler like most places.  BOTH were EXCELLENT and worth the money (fyi... my mom and I are taco snobs. LOL).   My friend had the Mofongo w/ shrimp. That plate was PACKED with shrimp and the butter garlic sauce was AMAZING despite the shrimp being a tad too salty for both of us. If that could be lessened it would be a PERFECT meal. So I would try it again if the the salt could be modified presuming it's made from scratch.\n\nThe Drinks: Now this is where I'm torn. There is NO HAPPY HOUR ON FRIDAYS!!! 😭😭😭  We did not know this but stayed anyway. The drinks were great. We had...Coconut Mojito/Passionfruit Margarita w/ Tajin rim/BlackBerry Mezcal Mojito w/ Tajin rim/Lychee Margarita/Guava Margarita w/ Tajin rim/Classic Margarita. But my BlackBerry Mezcal Mojito w/ Tajin rim. BAAAABYYYY...it was heaven poured in a glass. BUT it was also $25!!!! I'm not disappointed, but my drink costing more than my entree is a bit wild. So again, Happy Hour Fridays would be FABULOUS!!\n\nService: The staff was friendly, personable and very attentive without being overbearing.\n\nOverall, we had a GREAT time and did not regret the final bill at all! The pros by far outweighed the cons. We will definitely be back... just not on a Friday so we can enjoy even more of their SCRUMPTIOUS drinks!!😊"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQelNqNDZyajZfZklREAE",
+            "text": "Food is absolutely delicious.\nTried almost everything on the menu.\nServers are very nice and friendly.\nAtmosphere is very live, music was great."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmem9YSG9RRRAB",
+            "text": "Came with a few friends and service was awesome. The place is small so I would recommend a reservation but nice decor, the music here is really good. Drinks were on point, I had the Birria Quesadilla with the consommé and it was so good. I saw that they had tres leches and decided to try it. Simply amazing. Then we got complimentary free passion fruit margarita shots. It was welcoming and made me love the place even more. Staff was really nice and would definitely come there again"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNNzJ2S1BJMEkzM0J3EAE",
+            "text": "This restaurant is truly hidden gem. The staff are friendly. The vibes are there, and the food portions are to die for. My family and I went for a night out, and we got a chance to speak with the  owner. He is super friendly and he told us more about their family business. His wife and mother-in-law came up with the menu and recipes and honestly they all outdid themselves. I will definitely be back this place is a 10 out of 10 and I love that it is so close to me. <3"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCWE5GbHFWa1pOT1RsSVFUbFFNbEZrTkdadlNuYxAB",
+            "text": "I had the Birria Boat which was actually pretty good. The drinks were not to my liking, we had Morin Soñando & Mami Chula but we didn’t get the alcohol taste at all. The service could have been better, we had to request water. The appetizers took a while as well as the food. It wasn’t what I had expected but the music was good."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBc3VIM2pnRRAB",
+            "text": "Absolutely delicious food and drinks. The decor is beautiful inside and out and the music is a fun Latin mix.\nWent out with my family for my birthday and thoroughly pleased with our meals. They do not have a kids menu but are accommodating with substitutions and special requests. For apps we got fries, the salami cheese and tostones platter, and chips quac and salsa. For the entrees My little one got plain chicken tacos, my big one got birria tacos, my husband had the quesa- birria and I got the birria mofongo. Everything was superb! The Vida Frida drink was so delicious and our server incredibly patient with us. Definitely a new favorite local spot. I look forward to trying the desserts next time (we had cake at home)."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYXzc3OUxBEAE",
+            "text": "I took my 2 Gals here for a Tuesday Afternoon Lunch. We had appetizers and a pitcher of the white peach sangria. Everything was amazing. We had a great time and the music was entertaining and enjoyable. Everything was 10/10"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuOGRxeUxnEAE",
+            "text": "Tasty Mexican-Dominican infusion food. This was a great experience, I will be back to try more items on the menu. Great music.\n\nWe ate:\nChicken Nachos with homemade chips and very flavorful\nBirria Yuca bites\nWell, prepared cheese, empanadas\nTres Leche cake\nAmazing pineapple Mojito\nG beer selection\nJUST COME IN AND VISIT\n\nGreat cozy spot, from the environment to the staff members  including Tye the bartender, we enjoyed our self care time with good food.\n\nthank you. to the owners staff and the music. Cheers."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmM3FfNDl3RRAB",
+            "text": "The ambiance is stellar, the staff are inviting, attentive, friendly and knowledgeable. The menu is deep and the food is delicious. I love their weekend brunch menu and happy hour is phenomenal."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZb2EtOFNnEAE",
+            "text": "I just wanted some tacos but i was completely shocked 😮 to find such an amazing restaurant… drinks are 1000/10 and the food is delicious 😋 my favorite taco is the shrimp tacos and birria tacos 🌮 !! Definitely recommend Fridas Brooklyn next time you crave tacos and a good atmosphere!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKYlN0dm1xd01hUmV3EAE",
+            "text": "After having Frida saved in a Instagram collection with my friends, we finally made it here on a whim and it did not disappoint. Parking was not a problem at all. We were seated before our reservation time and Malcolm was our server. Malcolm was awesome and continuously checked on us but not to the point where he was annoying. We made it for happy hour and we all had different flavor mojitos which were on point every time. We complimented the bartender, Marcel, who happened to also be the owner to our surprise. He sat at our table and gave us some history on he and his wife's establishment. Even gave us a complimentary shot. We would definitely come back, a hidden gem in Brooklyn close to home."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQNm9TQlpBEAE",
+            "text": "My wife and I met some friends for dinner at Frida Brooklyn today and it was delicious.\n\nGreat food.  Amazing drinks.  Welcoming and friendly staff.  Nice intimate atmosphere.\n\nHighly recommend and will go back."
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3dnQ2QW13RRAB",
+            "text": "Had birria empanadas, Frida nachos, fish taco shrimp taco and chicken Al pastor. Chicken bowl. Everything was amazing flavor is there portion size was great. The tres leches and the churros was great add on for dessert. Leaving happy and full. MUST come and eat. Washed it down with delicious passion MARGARITA which also was delicious !!! Will be RETURNING!!!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2eE8yZWhBRRAB",
+            "text": "Coming from a hard critic, my fiance and I loved this place. The food was good, the drinks were strong, the music was perfect (predominantly Spanish). The staff were great as well. Definitely became our new fav spot!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYcnZmYWhRRRAB",
+            "text": "First time visiting and eating at this location and honestly what a gem ! I came across this place from TikTok. I told my friends about it and we gathered all together from Queens/Brooklyn to get here. What was most intriguing for me was the fact that this is a Dominican/mexican fusion restaurant. Being a Dominican myself and loving Mexican food I had to come and check it out. Everything tasted amazing, for appetizers we had the salami, queso, tostones which felt like I was on the island and the chicken nachos. Unfortunately, by the time we got there there were running out of birria but it makes me want to visit again for it because the chicken was sooo good! For my main course, I had the Dominican chicken chimi and already the next day and my mouth is still watering over it. I didn’t even take a photo that’s how delicious it was, I forgot to.. LOL! The music was awesome the vibes were very chill. We did wait sort of a while for orders to come to us but we were informed and apologized to for the wait which was really nice to hear so sending love and thank yous to the staff who made us feel very welcomed and took care of us despite the wait. As many of the customers who were there before us were telling us when we were waiting to be seated “it’s worth the wait” and I truly couldn’t agree more. Thank you to the entire staff"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmOHFYd3FRRRAB",
+            "text": "Great experience the server Chris was amazing and very helpful!  The cocktails were amazing!\nWill recommend to anyone interested! Nice view vibe and ambiance!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzNUtPTlpREAE",
+            "text": "I loved the ambiance, food, music overall!! I will definitely be coming back. Marcel and his wife are the best owners/Host I’ve ever met. definitely a monthly spot for me and my girlfriends!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKR1l3YkNFdmN2TWN3EAE",
+            "text": "We had an amazing time!!! The drinks and food were top tier.  I will be returning with my husband as well as friends and family.  I would wholeheartedly recommend this place to anyone I know.  The owner took his time explaining the history of the restaurant to us and he was attentive to us the entire time. It was a pleasure and I will become a regular here."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNN2p2Skw3dTlmcmtBRRAB",
+            "text": "Visiting from Georgia and our daughter who lives down the street was excited to bring us to this spot and i am so glad she did! - it is FIRE!! The food is AMAZING and the drinks are to DIE for! The Birria tacos are the BEST i’ve ever had! and the Mami Choluda Colada drink.. my husband joked to the waiter that I almost ate the glass..lol! I am sure the locals want to keep this place a secret, but here you go folks! Also Ty, our server.. great guy, great service! The owner also stopped by our table and reminisced with my husband about Aruba - super friendly guy!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURneDhqVkVREAE",
+            "text": "I found Frida BK on TikTok, and when I tell you they didn’t disappointment. Beyond proud of them for being in business for less than 6 months and the love that’s shown is beautiful. Keep thriving !!! Owner is amazing his name is Marcelo. Nemo made my drinks and it was chefs kiss. Please get the peach blue Berry margarita. Love the flavors💜💜 tacos are FILLED. You won’t be disappointed."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQMXNLTE9BEAE",
+            "text": "I had an incredible experience at Frida! From the moment we walked in, the owners and servers made us feel right at home with their warm hospitality. The service was top-notch—attentive, friendly, and knowledgeable. As for the food, it was absolutely amazing! Every dish was flavorful, fresh, and beautifully presented. The atmosphere was equally fantastic—perfectly vibrant and cozy, with just the right vibe for a relaxed yet stylish dining experience. I highly recommend Frida for anyone looking for an unforgettable meal and a great time. Can't wait to return!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURROU9mTnl3RRAB",
+            "text": "The vibe there was great. Service was excellent and the servers/bartender had great recommendations. Definitely a cool spot for friends or a date. Highly recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyeEl6bVlnEAE",
+            "text": "My first experience here was interesting. They got my order wrong but they were apologetic and corrected the issue. This location opened in 2024, has loud music and a party vibe. Everyone is super nice. The menu has a very small selection. The prices are a little high for what you get. The quantity is the size of a kids plate but the food tastes amazing."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2bDY2RzFRRRAB",
+            "text": "This place is a hidden gem. We celebrated my husband’’s 45 th birthday there and it is an amazing place! The vibe was fun, food and drinks delicious and the staff were extremely accommodating! The bartender and chef came out to ask how everything was!! 10/10 no complaints! Check it out!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMamxzUHIxc3ZPV01nEAE",
+            "text": "Celebrated my brothers birthday here and I just have to say wow. The food 10/10, the staff 10/10 the atmosphere and music 10/10. Very fair prices for amazing plates. Their cocktail selection has something for everyone and made me wish I could try them all. Definitely will be back and I recommend everyone to give them a visit."
+        }
+    ],
+    "reviews_count": 83
+}

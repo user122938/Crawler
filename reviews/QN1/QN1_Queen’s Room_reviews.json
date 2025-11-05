@@ -1,0 +1,523 @@
+{
+    "name": "Queen’s Room",
+    "place_id": "ChIJS0-CIGZfwokRgs6ADyiQEKE",
+    "grid": "QN1",
+    "address": "36-02 Ditmars Blvd, Astoria, NY 11105, USA",
+    "rating": 4.5,
+    "user_ratings_total": 811,
+    "phone_number": "(347) 987-3994",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOQ1ZURk5WMlJwV2pCVmVEWm1ORzlpZWt3eFJIYxAB",
+            "text": "Nice servers good coffee percect brunch place"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trM2VEUmpVVXBuVURRM1ltNW9RblZMT0hneWRsRRAB",
+            "text": "I couldn’t make it to a dinner with my family and pre ordered drinks for them and the staff was very accommodating , helpful and just overall pleasant. My family also said that they did a great job of serving , the food was wonderful and the atmosphere was great. !"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaaFpXeFpZbUU0WTNOaVkybFRiMlIyUm1jMGFsRRAB",
+            "text": "We had a wonderful brunch at the Queen’s room. The food was great and the staff were incredibly attentive. It is a well laid out place with both inside and outside seating."
+        },
+        {
+            "date": "1달 전",
+            "language": "de",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OME0zYzVZM05vYW5ZemNXRmZSRk53Wm5JMlNtYxAB",
+            "text": "Essen wurde schnell zubereitet und war auch okay, nichts außergewöhnlich gut, das Steak war deutlich zu wenig gesalzen. Wir mussten aufgrund eines Events draußen sitzen und wurden während des ganzen Essens von Wespen angegriffen, bis zu dem Punkt an welchem wir unser Essen vorzeitig abbrechen mussten."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvMFRIbzNNVjlyTlhCdFdsVnpNRFZqVEY5RGNXYxAB",
+            "text": "i moved to astoria this year and have come to queen’s room multiple times, great drinks and small bites! employees were super nice too!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JME56a3RlR3d0ZEdaWWFVUllXRWt4Ym1ScGEzYxAB",
+            "text": "get the halloumi fries and thank me later. lots of great drinks options, especially if you love spitzes."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xcWQwRnNNbTVYWjBnNGJISTJZeTB6VFhscWQzYxAB",
+            "text": "This was one of our families favorite places for years. But just recently they downsized their food portions and were very argumentative when called out on it. 👎🏼"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OZlpEWmtZaTFTUmpoa1JYVklkVVJKTVdkSVFuYxAB",
+            "text": "Look closely at the piece I already took a bite of and notice the blond hairs clump and with an entanglement of what looks like rodent hair dust bunnies.  Totally disgusting and the charged me $106 full price.  I will not be returning.  Oh and no apologies from the chef or the restaurant!  What would you do? IDE like to know."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGbmJVYzJTVnBmTFRWcFJIY3diMDB5VFhweVpIYxAB",
+            "text": "The place is okay. I got the lady Benedict thinking it was going to be a good choice since I’m pescatarian. It was mid- the eggs were pretty small; I’m taking grape size eggs. Flavor was meh.. came with a salad with some kind of dressing- also mid. I did grab a cocktail that was really tasty. Atmosphere is nice but for the price of the food I probably could have gotten something more tasty and worth the price somewhere else."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKVFJWVmxTemRCTkZScFNuaDVXRTFqUlZsWE5YYxAB",
+            "text": "Great food, good taste and good service"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VVlWUnlhR1pmZEZGd1JtOTRielk0VERKS1ZGRRAB",
+            "text": "The decor, ambiance was fab, the food is cute, the service was so genteel. The A/C needs work as I was very toasty, and the bread / biscuit could have been softer not stale. Very welcoming environment!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25adWQxTmlkMHBVYlhSdmMxRnZkMlJhTW1kM05sRRAB",
+            "text": "Some of the best food I’ve had in a while. Their chicken and polenta is a must try. So blessed to live in NYC with this incredible food at our finger tips."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GMVUxSndkbWxpUTAxZldGVkVTRGhVUkZKWVJWRRAB",
+            "text": "What a gem! Ditmars has so many great spots but I was missing out on the Queen’s Room. So welcoming, great vibe, and elegant yet homely decor. The food was great and it’s also the perfect spot to get some work done during the day. Outdoor seating too!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sdmNFNHhRekJVTkdwYWJUSjBUMHBEYlU5bkxVRRAB",
+            "text": "I was craving a Caesar salad salad and some french fries the other day and stopped by. They have a Cale Caesar salad salad that is genuinely delicious and they make a perfect French fry. The location was super cute and located in a great spot off of Ditmars and the staff was really attentive and friendly. We will definitely be going back"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OSlEwd3pjak5NYzJ4RVMyOUVkV1JhTjNaNVNIYxAB",
+            "text": "Every meal here is just top tier and so good"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rNGRVUmZWRTl1YTI1TWNYcHpkbEZoV1RCNE5sRRAB",
+            "text": "Did brunch on a Saturday afternoon and was expecting it to be crazy when it was very chill. The servers were very attentive and the food is very rich/filling. So glad we ate here!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GM1UwZEhkM0ZPVW5WUVFtZEJhV2RsVUdkTGNYYxAB",
+            "text": "Love it here SO much!! ❤️"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5b01qaDVkRjlRU2pNeFNWZDZkbE5QYTBaelNYYxAB",
+            "text": "The burger was quite flavorful as were the Halloumi Fries. Service was quick and friendly. Well worth a visit."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKRldsaHhUWE5UY21GUkxUSTBNbTV3YlROMlRtYxAB",
+            "text": "perfect spot on ditmars to hang out with friends over good drinks and tasty food. The staff here are friendly and make you feel welcome. Great vibe for a relaxed night out!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxeGRXNWtSMEZNVlhkRFZqUnVjVmRYYkZVeGEwRRAB",
+            "text": "Amazing food! I forgot to take a picture of the halloumi fries but they were a highlight. The scrambo sando and side salad were perfect for breakfast and my friend gave their burger 5 stars. Wish I got the cute server’s name so I could shout him out but he was fantastic and made sure we got our order before the dinner menu switched. Will be back, most def. Happy to find a great local spot without having to go into the city. Do yourself a favor and get a Bloody Mary."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WM05qZFhTM1JDVkRGdE9EaFNlV1JZU0ZBM1RrRRAB",
+            "text": "Solid Aperol Spritz and fries. The service wasn’t good. It felt like we were being rushed out and it was only 9:30 PM. We still had half our drinks and were being asked if we wanted to order more. The outside tables were dirty. They need to tighten up customer service."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwT01EWXRYelZvZW0xSU1rUnlUMGgzV2tvelJYYxAB",
+            "text": "Shakahika, Hummus, and fresh pita bread, not to mention a fantastic playlist!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMcmlvS1QtaWMtdjZ3RRAB",
+            "text": "Queen’s Room is my go to self love place. Whether I am treating my self on the weekend for breakfast, celebrating my birthday with a chic brunch or have someone visiting, Queen’s Room is the top of my list always. The food is always a ten out of ten and all over the service there is so accommodating and kind. It also is visually so cute and cozy but also very fabulous. The shakshouka and the Turkish eggs are my favorite, paired with an amazing lavender iced latte. Never disappointed"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VMX1o3SlNhcktIbFZ3EAE",
+            "text": "We had a wonderful waitresses. The atmosphere was fine. We order very quickly, within 5 min of sitting down. It took about 30min to get the first two plates and then we waited 12min to get the other two plates of food. At which point the two on the table were quite cold. The place was not terribly busy when we were seated. The table near us got their food in between our full delivery. The waitress looked frustrated that we only had two, but actually never said sorry about that or anything. My food was tasty, I got chicken and biscuits, but the hash was just soso. The portions were small for the price point. Overall I probably won't go back here for breakfast."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZd2FhUFFnEAE",
+            "text": "mid no lie…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNS1ic19nRRAB",
+            "text": "Like pulling teeth to get service here. Been here three times. Employees and managers love standing around the bar chit chatting with each other. I just wanted to order a coffee after my sandwich, but they weren’t interested in selling me one. Don’t go here."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvMDR6aDJRRRAB",
+            "text": "Great place, delicious brunch.  Will definitely visit often."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvNDhtT1h3EAE",
+            "text": "Not a fan of biscuits they did this right. Biscuit is 8 out of ten. Breakfast was perfect good coffee good waitstaff.  Definitely going again ."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcE1qUHBnRRAB",
+            "text": "I went on much needed date night with the hubby. We wanted to stay close enough to home and have never tried this place. Took a look on reviews here and loved their simple, have everything, but not too overwhelming menu.\nThe service was wonderful.\nCocktails delicious ( with a good selection of mocktails to boot!)\nFood was delicious!\nI had their QR salad with grilled chicken.\nDivine!\nWill def come back again."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNF9tNUN3EAE",
+            "text": "Very rude staff. They made an incorrect reservation for us (we made the reservation over the phone with one of their associates) and we're not accommodating. Very disappointing."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMHZQRERREAE",
+            "text": "Amazing spontaneous night out with a friend, had the best time, we just had couple of drinks, but the service was above and beyond! Really loved spending time there. Cozy warm atmosphere also. Will be back definitely."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMHJfVF9nRRAB",
+            "text": "Just try it out! The vibes are AMAZING! Breakfast is my go-to for this place. Coffee is 10/10. Service as usual 5⭐️"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJeUxHTlVnEAE",
+            "text": "Loooooove Queens Room! The food and cocktails are so fun and yummy! The events they put on are always a good time, the atmosphere/decor/friendly staff never disappoint. Jackie is the best!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJc3FlSGV3EAE",
+            "text": "This place was a last minute find and I’m so happy we came here! The food was amazing and the staff were super kind! For appetizer, we got the biscuits which came with the most amazing condiments (Fresh blueberry jam and this sweet cinnamony butter? Not sure what the butter was but just know it was really good).\n\nI got the chocolate chip pancakes, they didn’t have a lot of chocolate chips in them but they were still very tasty. My spouse got the chicken sandwich and really liked that as well!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3MU0tVVJnEAE",
+            "text": "went on a sunday morning date here and the food was pretty good. pancakes were the star. our waitress Jackie was very attentive and pleasant. will visit again."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3eU1DLXF3RRAB",
+            "text": "Food was yummy. Everyone was helpful. Good vibes."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3NUszSjhBRRAB",
+            "text": "Went there for brunch and had a reservation. Coffee and biscuits were good. Food was mediocre. Definitely better brunch options in Astoria. Our party was rushed because right at the 60 minute mark our server asked us to leave because there was another reservation coming. I appreciate someone doing that if people take their sweet time, but certainly not 2-3 minutes after we have paid our bill and only 60 minutes after we sat down. Won't be coming back."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRamZpT2FREAE",
+            "text": "Great service & even better food! A Ditmars Blvd staple!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRMk1iODdnRRAB",
+            "text": "I was a big fan of the French onion soup!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRb19fZy1RRRAB",
+            "text": "Great and plentiful food."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnd2YyRWZnEAE",
+            "text": "Love everything about this spot! Dope vibes and the food is great."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnaHJMYmlnRRAB",
+            "text": "The bartender was terribly rude. I came here with my sister and she asked for mocktail menu which was publicized on the website. The bartender responded \" it on the menu\" which an attitude, which it wasn't. She had an attitude the entire time until she noticed that we noticed our glass was dirty with a lipstick stain on it. It almost felt like she hated to serve brown people. If you're not white, I suggest not to come here. The mussels were good though and the ambience was nice."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBdjhtd1d3EAE",
+            "text": "Came here on MLK Day. There was no wait and service was good, food was even better. I love the shakshuka."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBcGRIaHpRRRAB",
+            "text": "Nice interior and decent service but the food was very ‘meh’ for the price. Not sure I’d return but glad I visited"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfMFl5dTl3RRAB",
+            "text": "Love it here"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfd1BpeTNnRRAB",
+            "text": "Never had a bad meal here - breakfast, brunch, or dinner - it's always been delicious and worth the price. Even if you're not sitting down, grab a coffee on your way past, some of the best in the neighborhood!"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzX2FUdFBnEAE",
+            "text": "7It's descent for gay bars in Astoria. The drip coffee used to be great but it's pretty bad these days. Pretty good drinks. There are only a few dishes but they are good. The prices are pretty good too."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfb1BlaHpRRRAB",
+            "text": "One of my go to spots for breakfast. I recommend the biscuits and the Turkish eggs ."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmMzZqbHF3RRAB",
+            "text": "Amazing spot, espresso martinis are bomb"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBNVBiLWd3RRAB",
+            "text": "Nice environment and chill spot. Good drinks and small bites. Great service"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNidkxyampBRRAB",
+            "text": "This place certainly gives me chic/hipster vibes. The staff is extremely friendly and accommodating. There’s indoor and outdoor seating. The food was delicious and filling. The portions were generous too. The biscuits were my favorite! So delicious and warm and the cinnamon spread with the blueberry was very tasty. I will be a returning customer whenever in the area!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuODlhRURnEAE",
+            "text": "Last Saturday, my family and I enjoyed a delightful brunch. We started with their famous biscuits, cinnamon butter, and berries compote.  The Bloody Marys were deliciously spicy, adding the perfect kick. I opted for the burger, while the rest of the group chose various egg dishes from the menu."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkamIyY25nRRAB",
+            "text": "I had this place on my \"to-visit\" list for a long time and i went today -it didn't disappoint at all.\nFirst, the hostess was extremely helpful and kind, took our names and put us on a waiting list. We went for a walk and they messaged us that the table is ready. Usually other places make you wait outside and I am glad this one didn't\nThe waitress was the sweetest lady and at one point the owner (female-led business!!!!) came and asked if I needed something.\nThe food was sooo yummy. We had Shak-shuka , hash browns, and house made biscuits (which were to-die-for).\nThe atmosphere is so cozy and vibrant. I love the black couch and the mirror gallery wall.\nCan't wait to go again."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSemNYMUFREAE",
+            "text": "4/7/23 has not been here for 3 years. Had lunch and celebrated birthdays with friends. I loved the food, service, ambience, decor, music. But most most of all Jackie made our our visit most memorable and amazing. And I must commend the other waitress (sorry did not get her name) for her service too! Must recommend and return!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNscnVYZmVBEAE",
+            "text": "I was so excited to try out this restaurant and the expectations were met.\n\nOur server Dounia(apologize if the spelling isn’t correct) was so warm and accommodating as soon as we arrived.\n\nShe recommended the biscuits which they make from scratch and you can tell! Homemade garlic butter and blueberry jam for the win.\n\nI had the Spinach Benedict on toasties with a lovely side salad. It was perfect and full of flavor.\n\nMy friend has the potato hash with bacon and feta and was also very pleased.\n\nGreat cold brew and lattes, we will definitely be back and spread the word. Can’t wait to try dinner next time.\n\nThank you!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURacEpiOWpnRRAB",
+            "text": "Great atmosphere and delicious food. The homemade biscuits definitely take the cake here. Great spot for weekend brunching or even having drinks on the outside seating area. Parking can be hard to come by as there’s only street parking around."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwaXA3WWF3EAE",
+            "text": "I found out about this place on TikTok and I came for the chicken not waffles. I made a reservation for one online and was immediately greeted and seated. The hostess was very kind and so was my server although she didn’t check on me once which tbh I don’t really I don’t blame her because she probably thought i was still eating since most of the food was on my plate (you’ll read why below). My food didn’t take too long to come out maybe about ten minutes. I didn’t order any drinks. When they brought out my plate I had to hold my face together because of how underwhelmed I was. The pqnckases were flat and way too sweet and not buttery. The chicken was super dry and it’s like a singular flat chicken cutlet that was fried way too hard. I thought it would be hot honey on the chicken but I didn’t taste anything with any slice just super sweet syrup. I ate maybe 4 bites which was 3 bites too many because I wanted to give it a fair chance and still no. The atmosphere is nice, the music is kind of loud but it’s fine. If you’re like me and was expecting to be blown away with the food and service then prepare to be severely disappointed. I can’t speak for anything else on the menu though the people next to me got the biscuits as starters and they smelled wonderful and looked so soft. My meal was $21.19 and I will just take that L and give my food to next homeless person I see so that it doesn’t go to waste."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxN05pZkRBEAE",
+            "text": "Ambiance (4/5): The venue was decked out in festive decorations for the holidays. It is dark inside with loud music on in the back. There’s a few dining tables toward the front and along the bar but it was crowded with guests. We ventured in the back where there was an assortment of dining with booths and tables so we seated ourselves.\nService (4/5): We already knew our orders and placed them as soon as we were seated. We found it difficult to get service with only 1 wait staff but luckily we didn’t need much attention during the meal. We told the server that the dishes were going to be split and they kindly cut everything and split the dishes for us!\nFood (3/5):\nFrench Onion Soup (no rating): I don’t usually order this so I have no comparison to if it’s good or not. My boyfriend said it was not good. I enjoyed the gruyere cheese on top but wasn’t a huge fan of the soup.\nQR Burger (3/5): The burger was cooked medium-rare as we had requested! The bbq sauce and caramelized onion gave the burger an extra taste boost however it also made the buns extremely soggy so the burger was difficult to eat. I asked for"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPcXNTaEN3EAE",
+            "text": "Great restaurant / bar. The portions are very generous and the food is really good. I had the shakshuka that came on a bed of hummus and a lot of pita slices. The shakshuka is spiced with ras el hanut, which is usually used to spice meat in mediterranean cuisines so it was a bit weird, but good. Definitely not for everyone. The chicken and pancakes were also very good. They also have fun \"sneaky\" drinks, so you can drink without feeling judged lol"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQMUlldlNREAE",
+            "text": "Was supposed to go upstate to visit wife’s family but it fell through and several of them came to visit us instead and wanted to eat out for Thanksgiving. I had read good reviews of this place’s Thanksgiving meals so we tried. This is the first time in my life I’ve ever gone to a restaurant for Thanksgiving and it honestly was great. For 45 dollars you get turkey, mashed potatoes, stuffing, Brussel sprouts, a wine/beer/other drink, and desert. The food was incredible, especially the turkey and the Brussel sprouts.\n\nWill definitely come back here to try regular menu."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyMU91Tk53EAE",
+            "text": "Stopped in for appetizers and cocktails before dinner. Excellent service and even better fare. We went with the baked feta and grilled broccolini. Gorgeous enclosed outdoor seating with heaters at every table. Plush pillows!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqMWFuU093EAE",
+            "text": "Came for Sunday brunch and made a reservation in advance which I’m glad I did. It was busy and for a good reason! The food was so delicious and the service was impeccable. We didn’t feel rushed at all and had plenty of time to sit and chat at our table. Will definitely be back again!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtX2JhS29nRRAB",
+            "text": "I came here because my partner convinced me after having gone by himself and I have no complaints. Food menu is pretty basic but reliable and you can tell everything is made with care. Salmon benedict tasted really good. Loved the hot toddy (made with aged rum and apple cider) which I believe is seasonal. Place is very cute looking. Would go back again."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4OU9QaUVBEAE",
+            "text": "I came here for my grandma’s birthday. I was looking for a place to take her and found this place nearby. When I got to the place, the staff attended us immediately. 2 stars right there. Next, as soon as we sat down, they gave us our menus with a bright, radiant smile. 1 extra star. The atmosphere was incredible, and the place was really comfy, so another star. Lastly, our foods were delicious and definitely worth the wait. Overall, I would definitely come back and if I could, I would rate it more than 5 stars."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKOXZQNk93EAE",
+            "text": "Came here with the fam. We didn’t have a reservation because I thought we didn’t need one but they were able to accommodate us which I very much appreciated. The drinks (long live the queen )were pretty good. The food was presentable and perfect temperature. I enjoyed every bit of it no crumbs left. Seriously. I will be back."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtdDV6QTRBRRAB",
+            "text": "Went here for a girls night out. Drinks were interesting and delicious. I had the long love the queen and an autumn venom. Both very good. Not too strong but not weak, tasty and well balanced. For apps we had the toast and hummus both were great. The hot honey on the toast was KILLER and the pita with the hummus was delicious soft and warm. For entre I had the Bolognese which was delicious. Others in my party had the shrimp scampi and raved about it that it had a little spice and was well seasoned. Wish I tried a warm drink but I’ll have to return I guess!!!! Ambiance was excellent, chill vibe and not a loud crowd. Still not a library but you don’t have to scream over each other. A great night out will surely come back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGa2JlQjNRRRAB",
+            "text": "Came here for brunch on a Saturday morning and enjoyed it! We sat outside with our dog who was loved by the staff. We liked the biscuits a lot. I also really enjoyed my croissant sandwich but my girlfriend’s egg’s Benedict was cooked through. Otherwise we had a good experience."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMydWRyQ2F3EAE",
+            "text": "Had such a great girls lunch here! They had so many yummy options, Including gluten free!!\n\nWe sat outside and it was beautiful. The service was great and I really couldn't have asked for a better afternoon.\n\nBest,\nChelsea"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDN3BqSTlnRRAB",
+            "text": "The food and service are consistantly excellent, and the new outdoor seating is inviting and feels very safe. Highly, highly recommend."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSM2Fiamd3RRAB",
+            "text": "10/10 experience! Such attentive, quick service on a Saturday morning for brunch! I sat at the bar and everyone was very kind and helpful. The iced vanilla chai was amazing (get it dirty, with a shot of espresso) and the green eggs and Beni were delicious as well!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJbDdudTJ3RRAB",
+            "text": "This was my first time visiting Queens Room and, I gotta say, it was a great experience.\n\nService\nThe service was great. Very chill atmosphere and the baristas were happy to provide me food recommendations from the menu and answered any questions I had. \"If you need anything else, just let me know. Happy to help!\" - I thought it was a nice gesture.The food was delivered to my table (not common in a cafe) and the barista asked if I would like any condiments.\n\nFood\nThe food was excellent! I ordered the \"Ricotta Toast\" and I will not soon forget it. This was a slice of toasted sourdough (I think?) bread, spread with sweetened ricotta cheese, topped with walnuts, drizzled with chili pepper maple syrup, and topped with a pepper-sprinkled egg cooked sunny-side up. The toast wasn't too crunchy and the egg was perfectly cooked.\n\nPrices\nThe prices are reasonable for a cafe in this area. The ricotta toast with a tall Americano came to around $16. Not too shabby."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCdDZ5N0FnEAE",
+            "text": "Great place to grab a coffee, lunch, a drink, anything. Equally awesome. Place to spend the afternoon working, staff is super friendly and on point. Burger is delicious, the maple cinnamon latte was incredible as well."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJejRfaldREAE",
+            "text": "I’ve came back 3 times already for the best pancakes I’ve ever had in my life so far. The food and fries are amazing.…"
+        }
+    ],
+    "reviews_count": 73
+}

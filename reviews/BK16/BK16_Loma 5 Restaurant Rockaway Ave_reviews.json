@@ -1,0 +1,362 @@
+{
+    "name": "Loma 5 Restaurant Rockaway Ave",
+    "place_id": "ChIJ5XVWT15cwokRTeCAEOrqKW8",
+    "grid": "BK16",
+    "address": "454 Rockaway Ave, Brooklyn, NY 11212, USA",
+    "rating": 4.1,
+    "user_ratings_total": 455,
+    "phone_number": "(347) 442-5775",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1Zk4yaE5UVFpVTUZBMGJUbEVhMjlXZHpGblZYYxAB",
+            "text": "Just ordered from here for the 1st time and definitely will be ordering again that avocado 🥑 salad was so fresh and tasty like wow I had to write a review, the green sauce was very tasty and fresh along with the pork , I'm pleasantly surprised , ordered online so not sure about atmosphere or service."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvbWJyTGFBEAE",
+            "text": "I have seen this place transform from the interior to the staff. They still have the same professionalism,  and cook delicious food the same."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jNGNUTldhVmRSZVhCWGRsVlhRMlUzY1RGdFdHYxAB",
+            "text": "Loma 5 Restaurant (Rockaway Ave) Review\n\nLoma 5 offers an authentic Mexican dining experience with a cozy, welcoming vibe. Known for its flavorful tacos, fresh salsas, and traditional dishes, it’s a great spot for casual meals. The portions are generous, and the prices are reasonable. The service is friendly and efficient, adding to the overall pleasant experience. Perfect for a quick bite or relaxed dinner with friends or family."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyejlfUDl3RRAB",
+            "text": "Food is very good 👍"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WV1dIVk9RMmN4ZGxNMGRYVnhja1pZYzJOVlZtYxAB",
+            "text": "I just walked in to order and was indecisive. So I proceed to ask one of the lady about food items. She told me what things were because I couldn't really tell what was what. So she sees a mixed girl walk in and stops helping me (BLACK GIRL) to take her order. Another lady walked over to take the other girls order originally, so I said to the lady taking my order that she was rude and I'm not wasting my money here. It was honestly ugly. I HATE bad customer service or special favoritism"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NeWFHNUxYMFpWZVRsRVlqWlBibUpHZDI4MlYzYxAB",
+            "text": "Ask prices before you order or they just make it up price of a plate changes every time I come food is good but not worth getting robbed for it"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214UWMzRXlkRjk1ZWpOTmRtWm1SbTgwT1hoc2JVRRAB",
+            "text": "I haven’t ate there yet, but was told that they take EBT food stamps also EBT cash can anyone verify that’s true"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214cWRFVlJkMGhuTVU1Tk1HeEVWWEp1TkdwNVVXYxAB",
+            "text": "I have eaten here a few times and enjoy the food. So far I have had the ribs, the pernil and the baked chicken. All have been delicious."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VOZXoxYl9xb3BUdC1BRRAB",
+            "text": "Pedí una comida y dique muy arreglada esperé mucho llegó fría y tenía una mosca el arroz"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2aC0yMDdnRRAB",
+            "text": "Great food,  great staff, and excellent service."
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2M18ySC1BRRAB",
+            "text": "El delivery fue muy rápido y amable... la comida estaba deliciosa"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2aWZ2QUdREAE",
+            "text": "I dont like how they Serve the food but their food was good."
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQczZtWnNRRRAB",
+            "text": "Si compras MOFONGO TIENES QUE ESTAR SEGURO QUE LE PONGAN EL POLLO PORQ UNO PAGA POR LA ORDEN Y LE ENVÍA OTRA COSA TRISTE RIALIDAD"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQdnJ1ckdBEAE",
+            "text": "The food at Lomas is bad ,the meat be dry and hard .You buy food and take it home than be MAD as hell.  It's the 2nd time this happened, never again cause I won't be buy anything else from them....😡🤬😤"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzcHRDOTFRRRAB",
+            "text": "Excellent food and service. Everyday with variety of breakfast  and lunch 👍10/10"
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzaHVXaHlBRRAB",
+            "text": "Me gusta el chicharrón que preparan,"
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzb0lhb2NBEAE",
+            "text": "Lo mejor 👌"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzbnNPVlpREAE",
+            "text": "The ladies that are always kind and smiling and the food tastes good."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuem9Ua2ZnEAE",
+            "text": "When I ask for Whole chicken because I did not like the one sitting there they claim there was any more so I told the guy in Spanish I want whole chicken he looked at me and got me what I wanted thought I was  American black ellos estan Mal"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIb1pHM1Z3EAE",
+            "text": "Food was DELICIOUS! (I asked for a very tiny portion) this is the goat meat and yellow rice"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3blpQZXhnRRAB",
+            "text": "Family friendly."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMd0tIR1lREAE",
+            "text": "Terrible experience. No organization when trying to order. The workers are slow and show no respect for the paying customers. During the visit a panhandler was harassing customers inwhich the management ignored and it was incredibly uncomfortable. Food was lukewarm when brought home. Would never order from here and would never recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6emVPbHN3RRAB",
+            "text": "I brought  some beef empanadas today in the meat,  was  spoiled, I couldn't even  eat it"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqNktqTW9RRRAB",
+            "text": "The lasagna  was terrible  thus time whi ever prepared it needs to be taken out if the kitchen. They did not season or grind the  meat it looked like chunks of old frozen hamburger patties. I have eaten the lasagna  there on another  occasion it was better.ew...take time to prepare"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkaEtISWtBRRAB",
+            "text": "Excelente atención , ambiente tranquilo y la comida muy rica"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0bjVDNUdBEAE",
+            "text": "I've been coming to this restaurant for 15 I've been\nToday I called the place in order they put me on hold then they hung up on and then when I tried to call back it went to busy I don't think that's the way you should treat your I spent good money with in a treated me bad because of yesterday he forgot my and he got mad because he forgot it and I asked him to bring it because I paid for and now today they're treating me like a person that never brought anything from"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHa2FMcEpnEAE",
+            "text": "The food was great customer service was great I had pepper steak rice and beans if you are in Brooklyn you have to stop here show some love"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwNDU2YUt3EAE",
+            "text": "When you step into a restaurant you expect to find delicious food and, at Loma Restaurant you will find that plus a welcoming service at the hands of very friendly and, courteous people.\n\nI hope you enjoy your food as much as I did."
+        },
+        {
+            "date": "4년 전",
+            "language": "es",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxZzl6N2V3EAE",
+            "text": "La comida es buena, pero demasiado caro, para lo poco que sirven, 27$ por 1 carnecita y 4 camaroncitos, son buenas personas los trabajadores almenos el gerente, pero panas no se pasen si no tenes el menú completo digan mira no tengo eso por ahora"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWMi1iYTBnRRAB",
+            "text": "The hot food they serve regularly tastes really good but DO NOT ORDER PANCAKES FROM HERE. Im so disappointed because they used to be so good, they were nice and fluffy but now they tastes sour..like they put vinegar in it or something. Syrup or butter doesn't even help. It did not taste anything like pancakes, not even close. The eggs and sausage and ham was fine, just the pancakes were bad. I suggest just sticking to the fresh hot food they serve, because that's what they're known for. Not to mention the delivery person had my address wrong and took forever to come."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCMDdpaHlRRRAB",
+            "text": "What's going on with you guys rice??? This is the second time I bought rice from over there and It's rotten rice. I had to throw the whole thing away. Also, your beans are salty. What's happenning to you guys?? This place use to have the…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpaHJ1dk5nEAE",
+            "text": "Very disappointing experience !!!\n\nI ordered from this place because it got really good reviews on Google.  I'm posting this so it may help others.\n\nFood was ok, nothing special! Chicken was dry and needed a sauce...I asked and was told it didn't come with any. The meat itself had no flavor. I've ordered chicken from other Spanish places that was flavorful to the bone.\nThey have no prices listed on the menu....something I'm never comfortable with. I heard a server tell a woman ahead of me that the salmon portion was $5 each, the woman serving me told me $8 for the same thing.\nI paid $10 for 1/2 chicken with some chunky veggies in the small size container....while another customer had recommended i try the 1/2 chicken with beans, rice and veg. That she normally gets for $11.\nGo figure!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURta0phMHNnRRAB",
+            "text": "I usually get my Spanish food from Belmont but since they closed down I started coming here. Food amazing !!! 🔥🔥 I love their stew chicken and pull pork. The only thing I would love to see is better customer service. They will let you stand…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNObDZUb2VREAE",
+            "text": "I ordered via delivery. Salmon, rice, avocado salad n ginger ale. The salmon was dry looking on top. Willing to give the benefit of the doubt. Tasted it n it was disgusting old and probably left from another day. Loma is “usually” on top of their foot n delivery game. Today “no pass.” What prompted me to review was when I phoned to pull their coat on their misstep with my delivery food order; they passed the phone to three peopl and the last person was a gaslighter from hell. Such a disgrace. LOMA is not the only food game In this town. Later for that noise. Yikes!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtcGNUSERnEAE",
+            "text": "Their food is really good and it feeds the family(great portion). Baked chicken(4 pieces, leg and thigh) with green peppers/red peppers/ and onions. Yellow rice and red beans, with sweet plantains, you get a side salad and 2 liter soda."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHN3VycUpREAE",
+            "text": "I love this place.. its the best spanish spot in the area and its only about 4 of them around here. I have lived in the neighborhood 5+ years and  i found their food to be the best.. just like my abuela made it..\n\nWhy would i give a two you might ask?? I am giving them a two because i always have to wait atleast an hour for my food but this time was really bad. Nearly two hours on food that had already been cooked, the food was cold, salad hot, soda hot.. i couldn't believe it.. i had called them to see where my phone was at they insured me it was on its way.. then their was an issue the delivery guy encountered.. i asked about my food but she ensured me it was still in the restaurant so it was still hot/warm... but when it came that wasnt the case, my husband fries was soggy, cold and so was his burger buns. I had to warm everything up... and the guy called saying he was 5 mind away .. in which he was 10... this was an horrible experience but worse was that when i called back with my complaint they wasnt even apologetic..\n\nI feel this was bad cause my family order atleast once a week from here and never under $28.. and sometimes we order mutiple times a day !! .. treat your customers better.. especially your regulars.\n\nMy husband ready to say dont order from them no more cause of this and their slow, you have to order before you get hungry lol.. but i love spanish food.. and its good."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLZ2NfLVRREAE",
+            "text": "Horrible service.  Receptionist who answers the phone is very rude likes to hang up the phone. I placed an order over 2 hours ago for two sandwiches. While placing an order over the phone, the female whom I was speaking with kept telling to…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNleTduMHB3RRAB",
+            "text": "I went there after my workout and let me tell you their Pollo al Horno is amazing! I dont think there is any other place in brooklyn that offers this flavor.  They also gave me this yellowish garlic sauce.  You should try it.  Their customer service was ok. Worth the price!"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBdnNiaXVBRRAB",
+            "text": "Today I ordered on Eat24. I received an email saying that the restaurant was busy and that my food would take over an hour and a half to be delivered. So within 5 minutes of receiving the order I canceled it online and ordered from a different restaurant. 20 minutes later I get a call from Loma Restaurant saying that the order is on its way. I explained that I cancelled the order already and order from a differnt restaurant. He explained that it was an error on their part, but the order has been made. I again said I don't want the order because I've already order from somewhere else. He proceeds to say \"Do me a favor, don't order from this restaurant again!\". As if his error was my fault. No harm to me, but I did feel the need to share this poor display of customer service."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRN0lqMkxREAE",
+            "text": "I've been here a few times. Tried their rice and beans and veggies. The food is cooked already so don't expect nothing more. There's not much to choose from this area, so you'll have to settle for ready made food. I'd only come back and buy…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtdXVqeVhnEAE",
+            "text": "Love this place food is well  prepared  and taste  great, eat from there  as often as possible  every time  I go with one thing in mind  but  end up buying  a lot more because everything  is so tasteful and variations of food is extend.…"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRdnI2U0ZREAE",
+            "text": "Now I love Loma...good food.  I called to place an order and was placed on hold for 15 plus minutes...I am still on hold.  I could walk to the restaurant and still would probably be on hold.  Not very good customer service.  If calling to…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLOE5ETHJRRRAB",
+            "text": "I've been ordering here for a while and today was a bad experience. I called and the guy answered and ask me if I was hungry. i was so confused. I asked him to repeat himself and he said it again. I called to order not play games. i feel very disrespected and played with. I will never order again from here . so disappointed."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwM01Yc2N3EAE",
+            "text": "Food is always excellent. Tripe soup and friend pork is a must have. Healthy options available too. Everything tastes good and is fresh."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOMnFYWnVnRRAB",
+            "text": "Horrible worst experience ever ordering food\nYou can just be standing there and they just on the phone ignoring you I recommend don’t come eat here customer service is very pooor"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNZzgzODZBRRAB",
+            "text": "The food isn’t bad but you’d better go pick it up. I am waiting for my food as I type. It’s been an hour and a half and when I call and politely inquire, the woman’s tone suggests She doesn’t find waiting over an hour and a half to be an issue . There are too many other spots to give your money to"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHN3J6ZVl3EAE",
+            "text": "Prices are going up here and food quality is going down smfh... they have to do better. I believe the females there are racist and the only decent one is the father/ Male owner.. .. this place is now a hit or a miss. They use to call if…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxbV9pNHNRRRAB",
+            "text": "Food is very good but there's no prices, so you get surprised when they ring you up. I had to turn down an order because I found out it was more than I had on my card."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBX1pDaHVnRRAB",
+            "text": "After calling another establishment that actually hangs up, I tried Loma 5 Brooklyn (this one), and please take note to nearby spots... this place is friendly, on time with delivery and the food is authentic and taste good. Thank you Loma, and good job to you."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3dGM2MmVREAE",
+            "text": "The food is really good"
+        }
+    ],
+    "reviews_count": 50
+}

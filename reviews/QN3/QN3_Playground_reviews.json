@@ -1,0 +1,516 @@
+{
+    "name": "Playground",
+    "place_id": "ChIJfabvQwFfwokR1XEg6LYzecI",
+    "grid": "QN3",
+    "address": "71-30 Roosevelt Ave, Jackson Heights, NY 11372, USA",
+    "rating": 4.5,
+    "user_ratings_total": 344,
+    "phone_number": "(718) 779-7912",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsSk1IUk5MVlp3V0VGUmF6ZERRbEV5ZVdKNWVGRRAB",
+            "text": "Hands-down, the best Thai restaurant I think in the United States of America. You just have to experience the quality of the food yourself here and if you’re that person that wants high level spice with flavor along with pure hospitality from the staff, this is the place."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214amQyWkJTa3huTW5aaVdrdEdUM05QUW1ad2EyYxAB",
+            "text": "Best Thai in nyc, the spice and heat is perfect"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5UVVGZzJVbXhRV0U1dFlYWlBUalpTU0VKMGRtYxAB",
+            "text": "Wow! A group of 5 of us ended up coming here because it was one of the only thai places open late, but we were blown away by the food (as is to be expected in woodside). The service was friendly and quick, the food was packed with flavor, and had really good spice to it. We ordered an array of dishes (tom yum, pad thai, massaman curry…) and they were alm so delicious. I’m definitely coming back here when in woodside next."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twdWVHbHJka1J6TjBFNFlUUlNTMUF5Y1hjMGIwRRAB",
+            "text": "I'm so happy I ate here. Thank you for the excellent service. It's the best pad see-ew I've ever had. I would always come back.✨🖤"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KbU1HdzNTWFpqZGxGR1duTXdWRVYxWDNoWldFRRAB",
+            "text": "The food was absolutely delicious and tasted truly authentic, just like real Thai cuisine. The staff were incredibly friendly and welcoming, and the atmosphere was warm and inviting.\n\nHighly recommended! Love it!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsQ2NHUm1MV0pHVFhOT1RscFRWVEZCUWxZMFdtYxAB",
+            "text": "Second time here (first time was way back in 2018) and food is still really good. Our party of two had:\n\n-Spicy salad with curried rice, preserved pork, red onion, cilantro, scallions, chopped ginger, grilled dried chili, lime juice, fish sauce, chili paste & peanuts\n-Green Curry w mixed seafood\n-Kua Kling (sautéed ground pork with lime leaves, red peppers, spicy curry & chili paste)\n\nWe ordered everything “medium spicy” and food was spicy but not unbearably so. Everything was delicious - full-flavored, pungent with garlic, ginger, chili, fish sauce & citrus, and curry not overly sweet as can often be the case in nyc.\n\nService was quick and cheerful, ambiance is nothing to write home about. Total tab w tax/tip for 3 dishes (only drank water) was $70 (still CASH ONLY!)"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOQkxVaHhTblF3ZDAxSVNDMUZNMHhPYkVveVlrRRAB",
+            "text": "My fri recommended me to try this place and I went there.First, the lady took the wrong order and she told me I talked to her this one. I even showed her from the menu book and did not care .Seocnd, I sat one knee up and one foot on floor , wait!!!!!!!! she came and told me not to sit like this.Is there any problem to tell like in any restaurant? I have never seen this kind of service throughout my life."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGVWJWQXhOVTEwY1dOeVYxZHJZbUV3VTBsclRIYxAB",
+            "text": "Best Thai fried rice ever."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swNWFYY3pSWGxTVDNKTlgxZFBNR1IzVkRoVFgwRRAB",
+            "text": "They don’t even listen I order chicken pad thai but they don’t have it gave me shrimp instead cannot eat shrimp."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wa1ZYcHdWbGxEUVdFd2JUaFRiMWxyVjJoM1gxRRAB",
+            "text": "My colleague is keep saying to me to go try- we went today. Foods is great also prize is reasonable price, and the good portions. We will go back again."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOMmJTMWhPSHBRTW1FeGFIWTRWbDlaYlc5T1QxRRAB",
+            "text": "I can’t stop thinking about the King Garden fish entree: fried striped bass drenched in tangy sauce but still crispy—and covered with lemongrass, mint, red onions, and the tastiest peanuts. YUM!! I usually order medium spicy but mild is perfect for me here"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WV2MxQndOa3AyZVZoaWFUTmxValJGUnpNMlRsRRAB",
+            "text": "Damn this food was flavorful and SPICY! We asked for \"hotter than a jalapeno\" and we got it. The servers were so attentive and kept asking if we were okay lol. While we were burning we kept eating, with a milkshake, because it was so darn amazing. Lovely staff, amazing food, and sweet vibes. I would love to go back."
+        },
+        {
+            "date": "4달 전",
+            "language": "th",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WUk9URTBaazlmU0hkUU5sWjBjRXBIWkMxdlJGRRAB",
+            "text": "บริการดีมาก รสชาติอาหารดีเลยค่ะ ติดอย่างเดียวคือ ย่างหมูไหม้!!! ก็เสียดายเงินเพราะราคาค่อนข้างแพงก็ต้องมานั่งดึงส่วนที่ไหม้ออกไปบางชิ้นมันไหม้ทั้งชิ้นก็ต้องทิ้ง อยากให้ร้านใส่ใจการย่าง ส่วนไหม้เป็นเรื่องเกิดขึ้นได้แต่ไม่ควรจะไหม้ขนาดนี้ ภาพที่ถ่ายดูเหมือนว่าไหม้ไม่เยอะแต่มันซ่อนอยู่ด้านในอีก รสชาติส้มตำดี ก๊วยเตี๋ยวดี หมูก็ดีติดแค่เรื่องไหม้ค่ะ ก็คงจะกลับไปอีกเพราะมีหลายๆเมนูที่ดูน่ากินและคิดว่าน่าจะอร่อย แต่คงไม่กินเมนูหมูย่างอีกเข็ด แต่ว่าจะไปลองเมนูอื่น เลยขอหักดาวนึงนะคะ"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tocldrNTNTRGRvWWtwWExWWTFaSFJOTjNsVlExRRAB",
+            "text": "As someone who loves visiting Thailand so much, this is my favorite Thai food in NYC."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VNTG5sOFNrNzVtcV9RRRAB",
+            "text": "‼️CASH ONLY‼️\n\nSmall but authentic thai restaurant that serves delicious food! My go to food here and what i always recommend:\n\n- Salted Egg Papaya Salad\n- Crispy Calamari\n- Tom Yum\n- Moo Sanook\n- Sauteed Morning Glory\n- Thai Iced Tea\n\nMake sure to specifically remember your order and double check your bill because the servers will sometimes just memorize your order instead of writing and might forget one.\n\nParking is difficult to find since its Queens and close to the train station, a highway, and a neighborhood."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLMnRtdk9RbmRINWd3RRAB",
+            "text": "The food was exquisite.The servers, they have attitude problems. They would yell and beat us😅"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNclh1WTZVellqVHBnRRAB",
+            "text": "Top 5 restaurant"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VQYjNvdG5YMGFhZ0JBEAE",
+            "text": "Everything is good only one thing I can’t understand , only cash and customers still need to pay tax ?"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLTGpqdXVxNjUtcEx3EAE",
+            "text": "Ordered the tom yum, kua kling, and the pad sea-ew, total around $65 cash. Overall the food is good, would give it a 7.7/10. Favorite dish for me was the pad sea-ew."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJaEs2Y1h3EAE",
+            "text": "AUTHENTIC Thai food. The taste was incredibly OG, reminding me of my time in Bangkok. The services were amazing despite a cozy store. Highly recommend!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJaHF6WEdBEAE",
+            "text": "This was the best dining experience I have had in a long time. I came here for my birthday and was blown away. Amazing food, great service. Gotta try it!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJd28tYVJ3EAE",
+            "text": "Amazing food and friendly staff. traditional Thai flavors for sure. we will visit again."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJbUlXR1hBEAE",
+            "text": "Authentic Thai food specially if you are spicy food lover . Service,  food , drinks *****"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRbkxHRDZRRRAB",
+            "text": "Pay cash is not a problem but the restaurant add  also the tax at the bill doesn’t make sense when they request to pay\ncash only,"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRLU5MNHRnRRAB",
+            "text": "This is easily the best Thai food I have ever had. Everything is unbelievably tasty. It was so great we took pictures after we started eating."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnektUd1p3EAE",
+            "text": "My Fav thai resto in elmhurst , best food, best services also from the servers 🥰😍"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBcWFLTlpREAE",
+            "text": "Dear fellow food lovers, if you're searching for a delightful dinner idea for four, I’ve got the perfect recommendation for you! Picture a menu featuring Pork Pad See Ew, a comforting Squid Tom Yum Clear Soup, and refreshing Yum Woon Sen. For a bit of adventure, try the Grilled Chicken Liver and the Yum Nam Khao Tod, which is sure to impress. Don't forget the Krapow Moo Krob to round out your feast! Just a small request: please let the server know to prepare everything no sugar and MSG. To complement your meal, I suggest a special Coconut Smoothie, served without any sweetness. And remember, all the servers are wonderful, so let’s be sure to treat them with kindness and respect! Enjoy your culinary experience!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfaThMbXJBRRAB",
+            "text": "This is the only thai restaurant we have found in NY that serves up spice for you to be aware of lol. Their spice levels are from 1-5 and we chose 3 which was very spicy but the food was so delicious and well crafted. I'm from the Caribbean and can handle spicy food but let me tell you, I was sweating with some bites lol. Their Basil fried rice and tum yum soup were excellent and reminded of the authentic Thai food in phuket thailand! We highly recommend checking out this place for authentic thai food and they only accept cash for payment."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2cWRHRlJnEAE",
+            "text": "Quality and quantity did not match the price. Overpriced and mediocare with barely any food given. But what broke the camels back that made me write this comment was this skinny male waiter that followed me all the way to the front, and didn't want me to leave and begged for \"more\" tip, telling me that I should order take out if I dont give him more. It was very weird."
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBcHRyeXlRRRAB",
+            "text": "Our go to place. Great authentic Thai food. I bring everyone here and everyone loves it"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYX2JDbVlnEAE",
+            "text": "My friend went here and everything is good. The food and the vibes. It is just how they calculate the tax in the check which suppose to be before tip not with the tip. It is not honest."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuejRYQ1BnEAE",
+            "text": "Food was so good and spicy"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIOV9lenJRRRAB",
+            "text": "Their pad kra pow was so good…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIMXFiQ2dBRRAB",
+            "text": "The food is wonderful, rich flavor, my favorite is pad se ew and tom yum is the best in my opinion\nVery good thai restaurant"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIdUwyaDNnRRAB",
+            "text": "Be aware! CASH ONLY!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIa0pETG93RRAB",
+            "text": "This place is an exceptional dining destination that offers an authentic taste of Thailand.\nThe papaya salad is standout. It’s a must-try for anyone looking to experience a classic Thai salad done to perfection. Nowhere can compare.\n\nThe staff is friendly, attentive, and offering helpful recommendations and ensuring that your meal is enjoyable. Their genuine hospitality enhances the overall dining experience.\n\nLast few years they never once disappoint. We are looking forward to come back soon."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4X2VqX01REAE",
+            "text": "Mi favorito restaurante the best restaurant"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNybWVtTExREAE",
+            "text": "This place is trash. Food was bland and meat was chunky, not properly sliced. Lazy workers and zero taste."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6enJUV3h3RRAB",
+            "text": "Food is delicious. Price is usual price.\nTaking a star off because it is cash only.\nOff another star because the bill has mandatory service charge of 20%, and then…"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKaHVIUmxBRRAB",
+            "text": "May 2024- Mannnnn I gotta tell you, I got the massaman curry and papaya salad. And this place still never misses! I always tip them well and they even gave me a free Thai tea. I love that they never disappoint with anything I order. I’ll continue being a customer and wish them all the success they deserve 🙏\n\nJuly 2023- Been here 3 times and will keep coming back. Even though the seating and space is small playground brings authentic Thai food and flavors to your plate, can’t forget the drinks too.\nMy personal gem in the area I always recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUMTg2WXRRRRAB",
+            "text": "So Today we found out this Hidden Gem near Jackson Heights . The Food & the service was Top notch\n(however they expected more tips but tipping is just a culture it’s not compulsory that you tip via percentage of the total bill, I tip according to how much I can afford to tip)\nI loved their cocktails. The Thai basil fried rice was just perfect ,they put in good amount of meat in it.We also tried out the fish cake and the steamed squid , it felt like i was in Bangkok, i have tried other Thai places too but I think i found my new favorite Thai restaurant. This is a place worth visiting again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUNmR1R2N3EAE",
+            "text": "The green curry was just ok. I hadn't had Thai green curry for a while, and so I was really looking forward to it, but it was not quite up to my anticipation."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUeGZUOWRnEAE",
+            "text": "The food is good but they never listen carefully the to-go orders. I order Pad Kee Mo without vegetables and tomatoes but they put a lot of those."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEbUtTVk5BEAE",
+            "text": "Perfect."
+        },
+        {
+            "date": "1년 전",
+            "language": "th",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5N2J1ajRRRRAB",
+            "text": "มาเที่ยวนิวยอร์ก อยากทานแหนมคลุก พอดีมีคนแนะนำร้านนี้ เลยสั่งไปหลายเมนูเลย ยอมรับว่าแหนมคลุกที่ร้านอร่อยมาก และ ตำไทยไข่เค็มรสชาติกลมกล่อมพอดี แต่.. ส้มตำปูปลาร้า กับ ตำมั่ว แอบเค็มไปหน่อย ลดเค็มลงจะดีมากๆค่ะ แต่โดยรวมโอเคเลยจ้า"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5aUxHdlVREAE",
+            "text": "Cozy place with friendly staff and very proper Thai food. Must try the Cha Yen!\nI am happy they did not try to adjust to local tastes; it has all the right flavours!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkNDRTOVN3EAE",
+            "text": "Food was very good."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOaGNhZFdREAE",
+            "text": "I have enjoyed every dish I tried there so far. Beware the food can be spicy if you do not ask for mild. Great service as well.When you come here, you should try the pad see ew, fried calamari, and the crab rice! Soo yummy. Drinks are also cheap!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxdzlEZl93RRAB",
+            "text": "The atmosphere is great and food delicious. Worth a visit. We tried their cocktails too."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxeGFiUEpnEAE",
+            "text": "The First day of Snow ❄️ fallen down  around NYC , we meeting with friends for dinner, this evening a bit busy we waited for the table around 20 mins..but we enjoyed for happy hour cocktail 🍸 then we got the table we ordered a lot of food , but we loved to ordered Papaya Salad with Salty Egg and Yum Woonsen ,Sautee Morning Glory also..the Staffs were so nice ❤️ If everyone looking for  Authentic Thai Food around in Queen - Roosvelt try to visit Play Ground . We will Come to eat very soon.☺️🍲"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCamNHTnZnRRAB",
+            "text": "Authentic Thai cuisine. Taste exactly like I had it in Thailand. Be cautious with spice level though. My spice tolerance is very high. Even for me, medium spicy makes me tear. This is a small restaurant in Queens, Jackson Height which…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwcjZIZGhnRRAB",
+            "text": "Ordered out last week and I liked the food so much I ordered again yesterday and was not very happy with some dishes. The crispy eggnoodles with this gelatinous sauce the consistency was absolutely yucky. The crispy pork appetizer seemed made of low grade pork and too much of bones.The crispy duck salad was good but like 3 pieces of duck. Overall ok food. I will give them another try some day."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPaGVlWlBBEAE",
+            "text": "Playground is an outstanding Thai dining experience. Restaurant is cozy, intimate and relaxing. We had a party of eight and were accommodated comfortably. Calamari was fresh and delicious. Barbecued pork with sticky rice was tangy and grilled to perfection. Chicken wings were equally fresh and delicious. My Thai Iced tea I had with my meal was also fresh and delicious. All servers exceptionally kind, patient and helpful. Very highly recommended!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxckplbWJ3EAE",
+            "text": "**CASH ONLY!!** I don't know if it was the random Thursday night we were out or if 5:30pm is the time for everyone in Jackson Heights to go to get cash, but it was a headache to get cash. Thus, my recommendation is to have cash BEFORE you come to Jackson Heights. There is a Bank of America ATM IN the station near the 74th Street exit and a Chase ATM on 75th Street outside the station. Both lines were long. I first stopped by to check out the wait time at 5:20, and it was pretty empty. I then went to grab cash. By the time my friend and I got cash, it was closer to 6pm, and we snagged the last table in the restaurant.\n\nMy friend got a small tom yum soup ($8) and I got massamun curry with chicken ($16). There was a lot of raw cilantro in my friend's soup, and that was not to her taste. For me, the curry was less sweet than I am used to. I asked for mild spiciness, since other reviews mentioned authentic spice levels, and I had no issues with the spice level. The curry just reminded me more of a red curry than a massamun curry. For a place that is cash only, the prices are on the higher side. Since this is a similar price point to the Thai places in Woodside, I would prefer to go to those over this one, since they have larger spaces and are not cash only.\n\nService here was fantastic! There were so many check-backs, everyone who helped us was extremely welcoming and friendly, and our waters were constantly refilled. They also did not pressure us in any way to leave, and kept offering to refill our water. Overall, the food was still good, so if you have cash and are in the area, it is definitely worth stopping by!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4anM3am1nRRAB",
+            "text": "Been visiting this restaurant since it opened years ago. Authentic Thai food served in a cozy atmosphere. They are not afraid to up the spice levels of their dishes either.\n\nThings to order: go for their special thai dishes. Their spicy catfish with thai eggplant is very good. The fried catfish takes up the spicy chillisauce very well and the round thai eggplants are also crunchy and give the dish a nice mixed texture.\n\nThe Rad Nah, a saucy stir fried flat noodle is also wonderful. Excellent carb dish to chase down the heat from other spicy foods you might order. A good one and done dish for those dining alone.\n\nTheir thai papaya said is is crunchy, tangy sweet and sour. They do a good job with the fish sauce seasoning on it.\n\nA dish I also recommend is their braised pork leg over rice dish. It comes with Chinese broccilli, marinated egg and spicy fish sauce on the side. It's a good one plate meal of you are not looking to order too much.\n\nI am also a fan of their chicken wing appetizers. The wings are plump and juicy.\n\nFood is affordable and worth the price of tasteless and authenticity. Note that rice comes separate for most orders. They also cna provide chopsticks if you ask for them.\n\nService is always nice and the staff are always courteous.\n\nSpace is rather limited. If you plan on coming as a group I would recommend to keep it around 4 people. Any more, and it will be tight.\n\nAlso check out upstairs. They have a thai hot pot place that is also full of unique thai soup flavor. I believe both establishments are by thr same owner."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSM3N6QWFBEAE",
+            "text": "People are friendly and nice 😊. Great place to hang out with friends and family. We come here often with friends. Even though my spice level is zero I still keep coming. ( make sure order less spicy )\n- just a little bit complain about is sometimes they put too much MSG. I don’t mind with MSG but when they put over it ruins the taste of foods. That day the papaya salad was can’t even taste any seasoning only MSG !! So we asked for remake it. After that taste better.\nOh wait .. almost forgot.. they have happy hour drinks 🍺"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURteFBtVTVnRRAB",
+            "text": "Playground has a special place in my heart. I absolutely love their yummy authentic Thai dishes. I've been there at least a 100 times over the years and they never lose the mark. If you want great authentic Thai food that's also priced well - this is your spot!"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPeGF1RmFREAE",
+            "text": "This restaurant never fails to bring deliciousness to the table. This authentic thai restaurant is the best for queens or maybe even nyc. This restaurant have high level spicyness so if you cant handle really spicy just take regular. Worth to try"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsX3Bmenp3RRAB",
+            "text": "My bf’s fav thai restaurant in New York. Really authentic. Everything tastes so delicious. My fav is bbq pork, smells super great. The only downside is the shop is not spacious and too crowded."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPOVB2RUNREAE",
+            "text": "To me, this is the best thai food in the jackson heights/elmhurst area. Really recommend if you like intense, punchy flavors. Spicy, fishy, fermented, savory, herbal, and complex. Nothing I've ordered has been sweet at all, which I like,…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGamJxU1dREAE",
+            "text": "Eating well-cooked food isn't just about eating vegetables or shrimp. Delicious food makes people happy because it eats the heart of the person who made it. I enjoyed that kind of food today and I taste happiness on a lonely and sad day. I've eaten tom yum soup in many places in New York, but this place is by far the best!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCcXF2V1ZBEAE",
+            "text": "We ordered crab fried rice, bbq beef, drunken noodle and thai iced tea. The bbq beef was a bit pricey and also not that good but everything else was. Crab fried rice stood out. It was really good, I highly recommend it. The staff working there were very friendly and respectful. We called and asked when they close at. It was a sunday night so they said they cant take anyone after 11:15 pm. We were 5 minutes late and the kitchen was about to close but they still let us dine in. You cant find such nice staff these days who care about their customer’s satisfaction, especially the hostess there. Keep up the good work."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwX1pHNjJ3RRAB",
+            "text": "Caution on double tipping. See receipt. Service charge was added to our bill but it still gives suggestion to tip. Also it says “service charge” and at bottom it says “tip guide” again. Why use two different terms. I usually just look at the bottom number and was going to pay tip again until our group noticed it. Food was ok. Service pretty good. Limited street parking in this area. Cash only."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtLUlXQmJnEAE",
+            "text": "This is our favorite quick lunch/dinner spot in queens. Grabbed mango salad with shrimp and BBQ beef salad. Shrimp was cooked just right not too cooked and can’t go wrong with bbq beef salad. Also had a side of sticky rice 🍚 which helped with the spice 🌶️"
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJdzlQRVNnEAE",
+            "text": "Good food and great vibe!  We are addicted to the food here .  Can't think of going anywhere else of Thai food.cool staff .  Keep it up!  Cheers!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwZ0llaGVBEAE",
+            "text": "Food reminder me of what my partners family cookes. It was quite tasty. We enjoyed our meal fully. We even tried something new! And it was delicious. It definitely runs spicier than a lot of places in the area. I would suggest starting with one spice level down from your normal level. I always take one star off for being cash only, so I took one star off. It would have had 5 starts if they accepted credit cards."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVdGFDYndRRRAB",
+            "text": "This place does real authentic southern Thai food. It’s hard to find places that really do the Spiciness level just right and this place is one of those. Whole fish was so bright and flavorful; perfectly fried and goes perfectly w sticky…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlcHBlZmNnEAE",
+            "text": "Incredible flavors, dishes and cocktails! Beautiful flavors and spice and honestly the best Thai restaurant I’ve been to! It is cash only so be prepared, but otherwise amazing restaurant and highly highly recommend"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJOTgtMFh3EAE",
+            "text": "Good Thai restaurant, great service. Their spicy level is a lot spicier than other places., you have been warned."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnMHJmRDhRRRAB",
+            "text": "The taste has same as eating in Thailand and if you love Thai food I recommend this restaurant."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXdk9tNW9RRRAB",
+            "text": "Love the food here, tasty like traditional Thai style. Good service."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURleGFLUVJREAE",
+            "text": "Good food!\nReal thai  food, small tiny place but they are very good food and friendly. Good service with nice Thai people. Please try 😋…"
+        }
+    ],
+    "reviews_count": 72
+}

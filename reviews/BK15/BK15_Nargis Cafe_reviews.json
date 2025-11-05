@@ -1,0 +1,516 @@
+{
+    "name": "Nargis Cafe",
+    "place_id": "ChIJdZ_Q6F1EwokR_N8wFMX7W3o",
+    "grid": "BK15",
+    "address": "1655 Sheepshead Bay Rd, Brooklyn, NY 11235, USA",
+    "rating": 4.2,
+    "user_ratings_total": 2950,
+    "phone_number": "(718) 872-7888",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJeE5ERTVkV3BhT1hZMmVrVjVWa2s0ZHpGd1ozYxAB",
+            "text": "Сегодня впервые были в кафе. Часто проходили мимо, но сегодня зашли. Моя семья в полном восторге. Еда - супер, цены - отличные, столы - чистые, дизайн помещения - приятный. Официанты - очень вежливые. Заказ ждали минут 5 или максимум 10. В общем все супер. Однако хост - это нечто. Девушка наверное не знает, слова улыбка. Такого каменного недовольного лица я ни у одного хоста за свою жизнь не видел."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkRVEyY3hjMVk1TkRneVpuVnJZV3BpZFhOdk1FRRAB",
+            "text": "We came with a small group of friends for breakfast and ordered a Spanish omelet and coffee. I've never had a better omelet in my life. We thoroughly enjoyed it and plan to come back for dinner on the weekend. Excellent service, everything was fast and polite. I recommend it!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUmFXcFlPVkZxVmpSeFQyVlBRVTE2WjFOaGJrRRAB",
+            "text": "Food quality  is starting to go down. The French fries tasted like it was fried in the oil that was reused 100 times. There was hair in the food and when I told the waiter , he told me that it’s from the fish, but there was a black hair inside. If food will continue to go down, people will stop coming. Otherwise the service was good and the atmosphere was nice."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GVE9EWkpOMWw2Y2xOQ01VSjVhRXhNWkdKWWMxRRAB",
+            "text": "Beautiful place, delicious food, very good service. Love it"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOeGJYSjZTM1oxT1dFemJVUnRkRzV1VFZONk1tYxAB",
+            "text": "Took forever to get around to this review. This place enjoys proximity to city highlights. The service was quick, capable, and pleasant. Their kitchen balances quality and quantity perfectly. I confidently back staff who deliver this quality."
+        },
+        {
+            "date": "1주 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZdGIwVndTR0l4U0c1c1UyaG5SREZEV0ZaRFEwRRAB",
+            "text": "Очень люблю это заведение, но за теплую атмосферу отдельную звезду ⭐️ официанту Саиду.\nОчень вежливый и приятный молодой человек."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOaGRHNVNWVU5YVFRCelpFTldSRk5tTTBwS1ZVRRAB",
+            "text": "Narjis was a great experience and Sahid was a wonderful server. The food was great, atmosphere was perfect upstairs for our group of eight. I would rush back asap"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSbGJHVXlOVFl0UjBsUk5uaGtWMVZIYTBGTFVXYxAB",
+            "text": "Nargis Cafe is our absolute favorite restaurant! My boyfriend and I go there all the time — for lunch or dinner, almost every week. We’ve never found a better place than this one! The food is always fresh, delicious, and served in big portions. Everything tastes amazing — you can really feel the quality in every dish.\n\nThe service is excellent too. Everyone is so friendly and respectful. During Ramadan, they even asked if we were fasting and kindly brought us dates and water as a compliment — such a thoughtful gesture! When it was time to eat, they brought our food right away.\n\nWhat’s also great is the variety — it’s not only food from Muslim countries like Uzbekistan and Tajikistan, but also Russian and Ukrainian dishes. There’s something for everyone, so you can always find something you’ll love.\n\nThe atmosphere is cozy, the food is perfect, and the whole experience is always wonderful. Nargis Cafe truly feels like our go-to spot. Highly recommend! ❤️"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ack1XOXBjalJPVmpCV1dISjFNME56Wm5Rd2MyYxAB",
+            "text": "Skirt steak salad, cheburek, cherry dumplings, choose of wine. Food was delicious, service very hospitable. Thank you, we had a beautiful evening. Highly recommend"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRMGVIWldlVTlHYjJST09IbHZWalZTWTJ0a1pGRRAB",
+            "text": "Exelent service, food ."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GYWNuVkVXR1pYWmxadVpEQmpiRXhpU1ROSVNFRRAB",
+            "text": "Everything at Nargiz was delicious! Great food, beautiful presentation, and excellent service. Our waiter Said was wonderful!"
+        },
+        {
+            "date": "2주 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNd1gycHNaME5QVDNCWlFuZHViekZsVW1WTE0xRRAB",
+            "text": "завтрак был очень вкусным😋, обязательно придём снова.\nотличный сервис от Саида!"
+        },
+        {
+            "date": "2주 전",
+            "language": "ru",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204dGVVZ3RlakpaV0hsVlRHaG1WbmR1UkdOUlluYxAB",
+            "text": "Хотела сделать заказ по телефону и сказала, что мы будем на месте через несколько минут. Однако администратор отказалась оформить заказ и сказала: «Мы не будем оформлять ваш заказ, приходите сюда». Такое отношение недопустимо — это очень плохой уровень обслуживания."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWeGJVNXNPVVJZUXpjMVNXbGFSM1ZTU1dnM2VrRRAB",
+            "text": "We came with my family to celebrate my dad’s birthday. All the food was delicious, the atmosphere was great, a soft music playing was not so loud and was not annoying. All the staff was very polite and grateful. Said, who served our table, did his job perfectly! We’ll definitely come back another day to have super tasty kebab, manti  and salads!"
+        },
+        {
+            "date": "3주 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkQ1JuZzNTRGh1ZEZsNVRVZEpjMGMwWkhGeFdFRRAB",
+            "text": "Очень классное место! Атмосфера супер, еда 10/10 🤤🤤🤤\nЗаказывала лагман и биф-кебаб — всё супер вкусно! Хотя я не люблю баранину, лагман был отличный, запаха почти не было. Рекомендую!\n\nОфициант Саид — очень положительный  и внимательный!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xRldtTkZXbEZQTW1KdlVUWnZRWG95UmtSQloyYxAB",
+            "text": "10/10 Every time in NY we come to this restaurant , delicious manti, Uzbek bread and shurpa! The best waiter Said, helpful kind and patient!"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4OUpmNWR3EAE",
+            "text": "Was very delicious 😋"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tORFFsRjFNMGxqTldGeVJHcFZiRXN6WVdOaFNsRRAB",
+            "text": "I don't recommend it, yesterday's pilaf was very bad👎👎…"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWamJVOTNOR2ROVW5OM2MxcElSVEV5WjE5WVoyYxAB",
+            "text": "Said was great!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVmQxVmpUbXhhZDJWZlN6aHpObVppV0RKMVpYYxAB",
+            "text": "Said was absolutely amazing! Best service ever!!! Food was delicious!! I will absolutely be back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ab1lVRjViWEZXVUd4TGJWQnZVM2t6WkhsWVUyYxAB",
+            "text": "Great restaurant! Everyone was very welcoming and kind. Said took our order and did a wonderful job. We’ll definitely be coming back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vNFpVZERhbW80WTNCclNFNUJVbXhGWTNOQmVYYxAB",
+            "text": "Great service Said was great food was fantastic"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GaFIzRndSbEJ2WW5kS2FYSlZTamRHVkhOdU4yYxAB",
+            "text": "Maybe best kebab in brooklyn, In my opinion.\nMy server was Said, very nice guy, recommended tasty meals for my lunch. Next time i come with family"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CTE1XWnNYM2t3WVVGeWNVMVhVeloxYkZkSVpsRRAB",
+            "text": "Said provided great service and was very friendly. He was professional, attentive, and made the experience smooth and comfortable. I would definitely recommend him."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONmJ6Tm1SbTFFVEdoSVoyUmphMlZxTURWRGRFRRAB",
+            "text": "The most delicious and flavorefull food. The presentation is also amazing. Service is impecable, everyone is extremely professional, helpful and friendly.  We go often because the atmosphere is so nice and inviting as well as the food is out of this world. The only downside is- priece of coktails. So extremely expensive!"
+        },
+        {
+            "date": "1달 전",
+            "language": "uk",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONFFVUnlkR3RuU1V4R1gyVlBSVVkwVG1neE1sRRAB",
+            "text": "В загальному подобається заклад,гарний та затишний інтерʼєр,смачна кухня але   нюанс в тому що в заклад не можна відвідувати з тваринами(в нашому випадку це була маленька спокійна собачка породи померанський шпіц) дуже шкода але через це обмеження ми не відвідуємо цей заклад часто"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCMlVXTjBaMVpMYVdvelgwWnhlWEJxTUdWak9XYxAB",
+            "text": "We had such a wonderful time! The food was amazing, but what really made our visit so special was our server, Said. He’s such an attentive and hard-working young man, always making sure everything was just right. His kindness and genuine care made us feel so welcome—it really made the evening memorable. Thank you!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNMlF6UkVRMlJoWkZOdExXVlFaVEJ5VlV0VWEwRRAB",
+            "text": "Excellent food and service. Nargis is\nmy #1 choice for lunch or dinner when I am in Brooklyn. Our servant Said was really great. Thank you!"
+        },
+        {
+            "date": "1달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Oa2VIbHFXR3RrYlhkWUxVOWZPR3hEVDE5VGVFRRAB",
+            "text": "Часто здесь бываем с друзьями, вкусно и уютно! Спасибо официантке Ире, за обслуживание!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVU1tTmZSRXhSV20xVU5VSlJTMUZ4T1hWemNtYxAB",
+            "text": "Server Said made our experience great! Keep up the good work guys"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkUVVVbEJNWFpOWVVNeVdHWmxjMFowUlZwMWEzYxAB",
+            "text": "This was my first and last visit to this restaurant.\nThe food was delicious, and the interior is beautiful, but the service completely ruined the evening.\n\nWe came to celebrate my birthday: my friend invited me and another friend whom I hadn’t seen in a long time. For my American friend, it was also an important experience — to try cuisine from our countries — and I wanted him to have a good impression.\n\nHowever, the waiter made a mistake with the order: instead of just the herring with potatoes, he brought several extra appetizers, including a huge plate of hummus and other items. We politely declined, explaining that we canceled this right away. Instead of simply taking it back and canceling, the waiter insisted that we had ordered it and pressured us to accept it.\n\nThe situation escalated: a woman from behind the bar (hostess or manager), a runner, and even the bartender all got involved, standing at our table and pressuring us as if we had done something wrong. The bartender kept glaring at us the entire time, which made the atmosphere extremely uncomfortable.\n\nMy friend was furious — he even said, “Call the police, then we’ll just leave.” Only after that did the waiter throw up his hands and say, “Okay, now I’ll have to pay for this.” Why should it be our fault if the waiter misunderstood us, or if he couldn’t properly communicate in English while working with American customers?\n\nI found this behavior extremely disrespectful. We experienced unnecessary pressure, confusion, and insincere apologies. In the end, we had to take that appetizer back to the bar ourselves because they refused to remove it from our table."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214R1F6RldYMHBWYkZJNVpsRkhlVXM1VkRSYVIwRRAB",
+            "text": "We celebrated my niece’s 4th birthday at this Uzbek restaurant, and overall it was a wonderful experience. The food was absolutely delicious and the salads were super fresh. We did run into a small issue with the lamb chops being undercooked, but the staff handled it quickly and professionally, which I really appreciated.\nThe only real downside had nothing to do with the restaurant itself but with the table next to us. One of the women there kept rolling her eyes at the kids and even asked them not to come near their table. Honestly, if you dislike being around children that much, maybe order delivery and enjoy your meal at home instead of ruining the vibe for others.\nThat aside, we had a great time and would definitely come back for the food and warm atmosphere."
+        },
+        {
+            "date": "1달 전",
+            "language": "ru",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkRFdWcHpOekprVW14WFRGRTJjbFpxUmxCTFVIYxAB",
+            "text": "Всё было хорошо просто нас посадили возле туалета."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZMlYwZHNSWEUwY1daWVZHZFlZV3R0ZWpoT1JGRRAB",
+            "text": "Lovely restaurant with good food at reasonable prices. Will be returning!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxTmIxVmFTbEV0U1hObWVuZHhUV2hrY2pjMlZrRRAB",
+            "text": "An incredible experience - right in my neighborhood.\n\nFive stars? How about 15?\n\nOver many years, I have been to so many restaurants, and this is probably one of the best experiences I have had. I go out every night to great places.\n\nThese people have nailed every detail of a fabulous restaurant. I was first drawn in because I heard there was a saxophone player Monday, Tuesday, Wednesday, and Saturday. Little did I know that it was my favorite guy, Zaur.\n\nSo obvious that the restaurant owners have put so much energy into making it the perfect place. The food is incredible; the service is impeccable; totally clean; beautifully decorated; atmosphere incredible. Of course, I LOVE the saxophone player.\n\nA most wonderful experience.  I am bringing all of my friends here.❤️🙂 the great place I love this place"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnM1IwZENPVVZVZDNKd09YWm1SbDlPWDJJelZYYxAB",
+            "text": "I'm Mexican and was my 1st time trying food from this country (I do t know how to write it) and my husband (Jewish) and I love it!!! We came back for 2 days in a row, it's clean, they have live music and all the dishes and bread was delicious!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFNVJYZEZaMjFKYkhsUWEzTTNaVUZCU1VNMGNsRRAB",
+            "text": "Best service and delicious food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1YVYxSmtibEp6Y1hka1NURTJSMkoxYTNWV1QzYxAB",
+            "text": "Went on a date with my wife to Nargiz and absolutely loved it! We had roasted eggplant, a fresh salad, warm bread, and then the Uzbek plov. The salad tasted just like homemade, the bread was soft and delicious, and the plov was simply amazing – perfectly balanced with a gentle sweetness from the raisins. One of the best we’ve ever tried. Cozy atmosphere, wonderful food. Highly recommend, especially the plov!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkWU1sQlFRbVJHWVc5U1REUlZRbm95TTNWUFpIYxAB",
+            "text": "Dining in Nargis was a spectacular experience! The service was top notch, we got seated right away and the staff were super kind although they were busy. The food was amazing, great lamb and great vegetables. Very nicely put together. Atmosphere was also clean and pretty. Definitely recommend"
+        },
+        {
+            "date": "2달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCbVRERkhMWHBpWW0xZmRIZDRlSEZrZFcxbVExRRAB",
+            "text": "Очень хорошо посидели девушка официант которая обслуживала стол Дильфуза  она справилась со своей работой на отлично уютное место моим гостям очень понравилось всё  было вкусно 🌹🌹😘👍👍👍👍👋👋👋👋"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJMVVtaEpOek5QT1RaVmFFNXZla1psTjB0M2RFRRAB",
+            "text": "This spot serves dishes that truly stand above competitors. This place is designed for social dining. The workers show excellent attention! The kitchen develops combinations that surprise completely. I suggest everyone try this place."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rNGFESktabVZzWDFKNWMyWnhXRTVJTFZaeFJXYxAB",
+            "text": "Excellent plov and manti!\nGreat service (-:"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVmNXaFlUWEEyUjJwSVgyNDNhRFE0V1dwaE1rRRAB",
+            "text": "Amazing!! Beef and chicken!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SNWNHaEdSM016WVhOdFpXOTJZVXgzT0RKaVZGRRAB",
+            "text": "I used to love Nargis Restaurant and have been ordering since day one, but ever since they moved, things have gone downhill. My last two orders arrived with old, weathered vegetables in the salad that should never have been served. When I asked for a refund, they flat-out refused. After years of loyalty, this is how they treat customers? Extremely disappointing, and I won’t be ordering again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25abk5FZFlNMjlPVEU5SWRYSnRTMmRETnpOaVlVRRAB",
+            "text": "The menu offers items that consistently work well. The entire team provided kindness and guidance. This place stands among the best I've tried. The food quality remains high and the environment feels special. The dishes appear tasty before trying."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKdl9qQVVnEAE",
+            "text": "정말 맛있고 친절해요! 🤤 뉴욕에서 방문한 식당 중에 가장 만족스러웠어요~"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJc1pYZGlBRRAB",
+            "text": "This is my 2nd time coming here. My first experience was so good that I vowed to come back. At this place, everything is amazing! It's a very lovely restaurant with moody lighting and a cozy atmosphere. We had a lamb soup(shurpa), a lamb and beef soup (lagman), tuna tartare and a whole Uzbek bread for our appetizer. The soups were absolutely amazing and full of flavour. My BF had the beef short rib with mashed potatoes which was delicious. I opted for the grilled Chilean sea bass which left much to be desired. I was quite disappointed as there was no seasoning or salt whatsoever, except a drizzle of balsamic vinegar over the top. I waited quite a while for it, too. Overall I'd still return as everything else was perfect."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfMThfZzNRRRAB",
+            "text": "This was our first time eating at Nargis and what a pleasant experience it was!  We’ve had Mediterranean, Middle Eastern, & Turkish food many times in the past but this is the first time we had Uzbek cuisine. There are some similarities or cross influences I assume, but the food was unique & delicious in its own rights.  We had lunch & loved the food (see pictures of what we had & descriptions) we ordered and would definitely come back for more!  The atmosphere & ambience was beautiful & clean.  The service was very good—the staff were polite & helpful.  No complaints overall.  Only reasons I didn’t give it 5 stars were minor—our water glasses were not refilled & staff didn’t come by to check if anything was needed as hoped.  Something minor but could be improved to make an excellent overall experience.  Here’s my TA$TE ratings of Nargis:\n\nTaste:5 stars/delicious\nAmbience: 5 stars/beautiful & clean\n$: 5 stars/very reasonable\nTreatment: 4stars/service was very good but can improve on attentiveness\nExperience: 5 stars/overall experience was great & would definitely come back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KdlEwcDVhamxIVUhKTVVWSm9WRXRsTjJSTVdHYxAB",
+            "text": "We were longtime patrons of the original Nargiz Cafe on Coney Island Avenue and always appreciated its authentic charm and flavorful cuisine. This was our first time visiting the newer location in the heart of Sheepshead Bay, and overall, it was a very enjoyable experience.\n\nThe restaurant features a spacious main dining area on the first floor. Although the second-floor dining space was reserved for a private event during our visit, we appreciated that the facility includes an elevator, making it accessible for guests who may not be able to use stairs.\n\nThe interior blends modern elegance with tasteful nods to Uzbek culture, creating a warm and stylish ambiance. As someone originally from Tashkent, I’m very familiar with traditional Uzbek cuisine, and I was impressed by the creative menu, which puts a modern twist on classic Uzbek, Russian, and Ukrainian dishes. Each dish was thoughtfully presented and full of rich, authentic flavor.\n\nOne area that could benefit from improvement is the service. Compared to the previous location, this branch appears to be staffed primarily by younger adults, and while they were friendly, the attentiveness and professionalism could be elevated to match the quality of the food and decor.\n\nThat said, we had a pleasant dining experience and would absolutely recommend Nargiz Cafe to anyone looking to explore Central Asian and Eastern European cuisine in a beautifully designed space. We look forward to returning—and hopefully seeing the upstairs dining next time."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSMU9ISXphVTVRYkZORGMwbHliM0J4UkV3dFMwRRAB",
+            "text": "Nargis Cafe is the kind of spot that turns dinner into a little journey.\nWith warm lights, a cosmopolitan vibe, and the scent of spices in the air, you’re in Brooklyn but your taste buds are in Central Asia. The manti arrive steaming, the kebabs are juicy, and every dish has that perfect mix of comfort and discovery that makes you think, “I’m coming back.” Ideal for a night out with friends, especially in the covered patio where time slows down and conversations last as long as the final sip of mint tea."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ob00yeDRjblpRVEhaRlJWWnlOa3BvVkhaRlZGRRAB",
+            "text": "Very good restaurant. They have a large selection of different Eastern European dishes, like Ukrainian Borscht. Food was delicious, price was good. Staff members were polite and helpful. Definitely recommend to visit."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJbXRYRUtBEAE",
+            "text": "First time there, but will not be the last. Our waitress Esther was so pleasant and helpful she got us. The joint is so elegant but the prices are down to earth. The wine and liquor selection is vast. Had the most traditional dishes, if those are good then the rest must be great. They were not just good but great. Layman, plov, kebabs and the salad were perfect. Great find."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oRWRGcGpMV1ZtZFUxWlFVNVVaazA1TW1SWFIxRRAB",
+            "text": "Great morning and delicious breakfast, very warm and caring communication and service.\nYou have a very nice and caring employee - Ruslan.\nYou made my morning pleasant and tasty!♥️"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYMXVqQndnRRAB",
+            "text": "Very pleasant place to be. The waiter was super kind. Food took a while to come out but you could tell it was prepared well. Everything in the first photo (with the carrots and the bread) was delicious. The kebabs were not great… definitely expected better. The lighting was very calming and overall it was a great experience. Would go again!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZakw2M0JnEAE",
+            "text": "First time trying Uzbek food so take this review with a grain of salt. However, it was absolutely delicious. I came with my Uzbek friend, she ordered the food we tried. We came for lunch so not busy at all, in fact we were the only 2 dining.\n\nService was great, but not sure how it is during busier hours. Atmosphere seems like it would be nice for dinner.\n\nPictured it Uzbek plov and cheburek. Overall great experience."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMTdpMlBREAE",
+            "text": "Had a great breakfast here—flaky croissant and refreshing iced coffee. The cafe has a cozy, stylish vibe, and the service was excellent. Ruslan, our waiter, was friendly and attentive. Highly recommend!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3LWFLZGd3RRAB",
+            "text": "⸻\n\nAmazing Experience at Nargis!\n\nNargis is an absolute gem! From the moment you step inside, you’re welcomed with a warm and inviting atmosphere. The food here is simply outstanding—every dish is bursting with rich flavors and authenticity.\n\nBut the real star of the show is Valentina, the incredible bartender. Her craft cocktails are nothing short of perfection. She mixes drinks with such skill and creativity that each sip feels like a masterpiece. Whether you’re in the mood for a classic cocktail or something unique, Valentina will exceed your expectations.\n\nIf you’re looking for a place with top-notch cuisine, exceptional drinks, and a fantastic ambiance, Nargis is the place to be. Highly recommend!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWmJqQmxUVlJTVWxKa1MwNDBhSEZTV1U5eVNGRRAB",
+            "text": "Omg, thank you so much, everyone! It was sooo good!🤤The food, the service, the atmosphere! Everything was top notch! I’ll definitely be coming back and bringing friends with me! I’ll also be recommending this place to all my friends!☺️A special thank-you to Sasha - she made the whole experience incredibly smooth, comfortable, and warm!❤️"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2eXJ1U29BRRAB",
+            "text": "I had never been here before, but wow—what an amazing experience! The food was absolutely delicious. I enjoyed borscht and lamb kebab dining in and also took home some kebabs (chicken, lamb, and beef) for my American husband to try.\n\nEverything was incredibly tasty, and even after reheating the kebabs at home, they were just as amazing! The presentation was lovely, and honestly, my grandmother might be a little jealous about this borscht. The service was also exceptional—very welcoming and attentive. I believe Daniele took care of my order (apologies if I got the name wrong!), but the service was quick and efficient.\n\nI hadn’t heard of this place before and always thought I’d need to go deeper into Brighton for good Russian-Uzbek food. But this place proved me wrong with its outstanding food and service! The interior design surprised me too. At first, I thought it was just a small spot, but discovering the spacious area in the back was a pleasant surprise.\n\nGood luck to you guys! I’ll definitely be back soon."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNueExLN2pnRRAB",
+            "text": "Absolutely Delicious! Upscale place with honest food and employees!\nThis Russian Uzbek restaurant was a hidden gem! The food was absolutely incredible and the service was top-notch. Our server, Siroj, was incredibly knowledgeable and helpful. He explained the menu in detail and made great recommendations. Siroj is an amazing brand ambassador that understands his role in the restaurant! I tried a few dishes I'd never had before and was blown away by the flavors. If you're looking for a unique and delicious dining experience, I highly recommend this place!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuNE9tVG5BRRAB",
+            "text": "Came here for brunch and for dinner, the service was very attentive (including making sure special requests for the meals were adhered to), the atmosphere is romantically cozy, and the food was sublime!! Eggs Benedict with smoked salmon for brunch were the best I had in a long time, the salads were tasty and fresh, and the lamb shank was melt-in-your-mouth soft and juicy. We didn’t get a chance to try dessert but the options looked delicious. You should also get the bread if dining here. 10/10"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNV05fX1RRMGRDNE1nEAE",
+            "text": "I had an amazing experience at Nazgi’s Restaurant in Brooklyn! The food was absolutely delicious every dish was fresh, flavorful, and beautifully presented. From the appetizers to the dessert, you can tell that everything is made with love and care. The atmosphere was warm and welcoming, making it a perfect spot for a relaxed meal.\n\nBut what truly made the night special was our server, ALEX. He was by far the best server I’ve ever had incredibly attentive, kind, and knowledgeable about the menu. He made us feel genuinely welcome and took the time to ensure every detail of our meal was perfect. His recommendations were spot on, and his positive energy really added to the experience.\n\nIf you’re in Brooklyn and looking for authentic, mouthwatering food with top notch service, Nazgi’s is the place to go. I’ll definitely be coming back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREaXN6eDdnRRAB",
+            "text": "Были приятно удивлены ! Заботливое обслуживание, отличные рекомендации по блюдам! И самое главное -вкусно . С не дорогими ценами ! Все что заказывали было на +5! А заказывали много 😊!!  Спасибо за чудесный обед! К сожалению были голодные и почти не сфотографировали блюда !  В следущий раз. До встречи вкусное и уютное местечко ! Жаль что живем далеко ! Жалаем процветания ! ❤️  странно 🤔 стали 5 звезд за еду а выходит 3 🤔😞"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodlUxWmtiVzR4UmtaaFJGQlZiVGhEUVhFMk4zYxAB",
+            "text": "This restaurant is truly extraordinary. From the moment you walk in, you’re welcomed with warmth and professionalism. The service here is easily among the best I’ve experienced in New York City.\n\nAlthough their Google rating may not reflect it, don’t be misled. I’ve been to many places in the city with higher ratings that offer far less in terms of quality and hospitality. This restaurant stands out not just for its excellent food, but especially for the way the staff treats every guest with genuine care and attention.\n\nI strongly encourage you to try it for yourself. You’ll quickly see why I believe they provide the best service in town. A hidden gem that deserves much more recognition."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRdjRhNDRnRRAB",
+            "text": "Last time I had chicken or lamb kabob (шашлык) this good was back in Central Asia. Their bread (лепешки) and meat pastry (самса) are always warm and fresh. I've been here 4 times now, always excellent service and reasonable prices! One caution, be prepared to go into a food comma as it is impossible to stop eating all the delicious food.\nFantastic/Отличное place!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNid0xicUdnEAE",
+            "text": "Came here to experience some real Uzbeki food and was not disappointed!\n\nThe dumpling soup was remarkable. Made me feel like I was floating in a salty tub of dill broth. Great even in the summer time.\n\nThey give way more dumplings than most places so come hungry!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0OThHV2tRRRAB",
+            "text": "Thank you Nargis for an excellent birthday celebration! The best entrees were plov and lamb chops. The salads were delicious with many different options. And the dessert was excellent.\nThe staff was so nice, I couldn't have asked for a better experience!\nI will come back for the brunch menu and coffee, which I heard is excellent."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSX2NPM0RBEAE",
+            "text": "Friday evening drop by for dinner. We usually pass by this place and have ordered take out. This was our first time ordering and eating at the venue.\n\nThe space from outside looks small but it’s spacious inside. Multiple floors accessible through elevator for strollers and wheel chairs access. The management informed us soon they will have Liquor license and will open the roof area.\n\nWe ordered…\n\n1-Uzbek pilaf\n2- Beet Salad\n3-pasta with shrimp\n\nService was quick and pleasant. They have a huge selection of menu items. Portions have gotten smaller and price aswell has dropped.\n\nAll in all great pleasant experience, scrumptious food and will definitely try brunch sometime."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVU1FUTFRUzE1TUV0eVNXZG9TMFF6ZFRjMVoxRRAB",
+            "text": "We go there often, great food. When it's a little busy it can be hard to get a hold of a waiter to order something else once the food is brought, and no one refills your water automatically.  However, on a slow night there is no issues.\n5/5.\n\nThe Uzbek bread is great and cheap, creme bruleee is amazing."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oeGRrTmpOVEpNUzBWd1YxQjRjVXBWWTA5a1VrRRAB",
+            "text": "Delicious Plov, steamed Manti, nargis tea, and I forgot the name of the main dish"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNab2Z2Mm1BRRAB",
+            "text": "Their food and ambience is really good but their service is unusual! They brought the appetizer and food randomly. The main dishes arrived at different times and one of our friend got his food way later than everyone else at the table. Why don't they bring the food for a table all together?!! But we will go back again, if we get the chance. Hopefully with a bit better planned service."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3d3E2MTBRRRAB",
+            "text": "We had dinner here for the first time with friends, and I have to say—this is now our new go-to family spot!\n\nWe tried the plov, shurpa, lagman, and lamb kebab, and everything was absolutely delicious. But I have to give special praise to the kebab—the meat was so tender it just melted in my mouth. Honestly, this might be the best kebab I’ve ever had!\n\nApart from the amazing food, we also loved the atmosphere—the cozy dim lighting and great music made the experience even better. It’s the perfect place to enjoy a nice, relaxing dinner.\n\nHuge thanks to the chef—we’ll definitely be coming back regularly!\n\nP.S. It was so good that I completely forgot to take pictures until we had almost finished everything. The only photo I managed to get was of the kebab! 😄"
+        }
+    ],
+    "reviews_count": 72
+}

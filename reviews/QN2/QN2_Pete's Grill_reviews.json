@@ -1,0 +1,516 @@
+{
+    "name": "Pete's Grill",
+    "place_id": "ChIJ2UL8bNdewokRjmAXRFDCNKY",
+    "grid": "QN2",
+    "address": "39-14 Queens Blvd, Sunnyside, NY 11104, USA",
+    "rating": 4.3,
+    "user_ratings_total": 1769,
+    "phone_number": "(718) 937-2220",
+    "reviews": [
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JeVVGbzBhRWhRYmpOWVdGcFpjekpIWldaTE5XYxAB",
+            "text": "I've gone to Pete's many times and it's always good. Always deliver well and always great service. I went for breakfast recently with a friend and their coffee is perfect. Their waffles and toast even more! Great gem and fantastic service and staff!\n\n- Jack"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5Q1ZVMUtTelJRV205Ull6bHljVXRsTUcxUVdYYxAB",
+            "text": "Hands down one of the best diners in NYC"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVFJqSnRXblp6YUV0MlExTTBMV05KWkVFMmVGRRAB",
+            "text": "We have had brunch and breakfast here for a week. Fantastic place with warm and welcoming staff. Next time we visit NY we are having breakfasts here again!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKTGJrVmFTVTVHVmtZdFZYcDBYMVZCY1RGVWJHYxAB",
+            "text": "This is our spot for a late breakfast!\n\nWe’re European tourists who fly over for a week every now and then but try to act like locals and this spot lets us do just that 😅\n\nVery friendly staff and excellent service 🌟"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKVFl6bGxSMVZVUzBGcmVUbENla2xwWTFsZmNrRRAB",
+            "text": "One of the last great old school diners"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBcnF1WFhREAE",
+            "text": "This is a classic neighborhood joint that is brimming with personality. It's not a Michlin-style place and it's not trying to be, but they serve great diner food. Breakfast and burgers are fantastic. Also, the meatloaf, when they have it.…"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zNVpuUTRNamxRUkdveVJuTkJlR2hZWmtsb1JYYxAB",
+            "text": "I'm new to the neighborhood and enjoy eating there,  have gotten to know the staff and it feels like family. They let me take a whole booth and stay for usually about 2 hours, like you can do at a cafe. I also order in frequently and their delivery time is amazingly fast. So glad to have found this place!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taMFNUaFdhVkV4UjJoRmExQkNSR2xGVTAxNVRWRRAB",
+            "text": "Their food is really good! I’m Chinese, so I’m not usually a fan of American diners, but I was really surprised by this one! We tried the omelet, pasta(the one from the dinner special menu ) and fried chicken. My classmates and I liked them so much!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWcVNuUkhTVEJoTXpselJEVXdVbk0yV0RVeVRXYxAB",
+            "text": "One of the last diner in NYC serves breakfast, lunch, and dinner. Good portion and quality of food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsYVRuQlpZWGx1YXkxb0xXcHBZVlpGVmtKbmQxRRAB",
+            "text": "Food was authentic and really good. Service was personable and great."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sbVNVWlBRVlZwUjB0U2FEZGxOMWhZVEhsWlEyYxAB",
+            "text": "I often go to this place with my family when I off from work. All staff knew us because we alway went here almost 10 years. Good food, service, and friendly. Thanks for serving  food to us."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCVE4yVm9MVkUwVTJSUk0ySlJWVFEzTUdWbFQzYxAB",
+            "text": "Honestly, it hurts my heart to give bad reviews unfortunately, this was the most pathetic attempt at fried calamari that I’ve ever witnessed in my entire life. The steak and eggs wasn’t that bad it was it wasn’t that good but the calamari just ruined my appetite.Come here at your own risk."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pReWQwVklhVFUyTVV4a1R6RjRhWFJuU3pWNloxRRAB",
+            "text": "Local Diner,  food and service ,good and was served quickly .small free parking."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FMFVrdFVjVVpKY1hwSWRUVm9UVnAyT0dkSlVWRRAB",
+            "text": "This place is horrible!! waited for almost 2 hours for my food called several times and the person that answered stated it was on the way a couple of times and then claimed he cancelled on doordash by accident, this is totally unacceptable and unprofessional please dont use them"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wME0yMWhZM2xoVVVreWFFZHhZbTVmTTFGRGJGRRAB",
+            "text": "He is a good boy"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GUGVHeHlPVkJyVFdaSVZGWTRTR2t4TTNSd1QxRRAB",
+            "text": "Great food all around! They just over boil their eggs so it’s very green inside and not edible"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paQk5tUlFRVU0yTUZwTWVUbGtiekZyVDAxeFdrRRAB",
+            "text": "Pete's Grill serves incredible breakfast food, available all day, but also amazing chicken souvlaki. I'll be trying more of their menu items soon. For science.\n\nThe atmosphere is charming, the staff is friendly and attentive, and the menu is extensive without being overwhelming. When you start thinking, \"It might be good to go to Pete's Grill today,\" while writing a review for said place, you know it's gotta be good!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWT2FWcExVVTlvTVY5R1dsZE1TMGxJVVRSZmFrRRAB",
+            "text": "I really like this place. Food amazing, stuff extremely professional. The brunch was amazing. Ask for homemade salsa.. delicious!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OMVdFbEpWbmxQUkZkalRuSkJWRzl4Y2tSNFVsRRAB",
+            "text": "I ordered the challah french toast for my child and the omelet for myself. The french toast was delicious! So soft and perfectly absorbed the syrup. This dish turned out to be the saving grace of a less than ideal experience where no coffee refills were offered even after I had to get my server’s attention for an orange juice refill for my child. The server never even touched the table to ask if everything was alright. I may be picky with my service request, but having been a server myself, I know how much a server can influence an experience. I would argue it can make a difference even if the food is below par. Let me not go into detail about my omelet.  This diner is near and dear to my heart as I came many times as a child, but this is the third time in recent times that I have wanted to have a good experience here and just have not. I will not be returning."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkUFptbGlka3N4WVhwdFlYVjRjMGRvVVRSU1JrRRAB",
+            "text": "Great diner, food very good and great service!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psbFZVVlBjMlJaUVdsWlVscGZaemMyV0VKMFRVRRAB",
+            "text": "Great food, quick, great customer service."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aSFpXOUlNRXBMYW5ObWRGZGFObEJKU205d1pVRRAB",
+            "text": "The free parking made the food taste better."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJZUc4YWl1N3R2WDhBRRAB",
+            "text": "Every element here shows professionalism. The staff works efficiently while the kitchen excels. The workers elevate this restaurant to the highest level. You get plenty to eat and the salad was notably tasty. This restaurant thinks outside norms!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GQmFGUjBUSEZJY1MxSmRucDNZMjl4VFhGYVdGRRAB",
+            "text": "Quality food and loved their service! Pete's grill is by far the best diner in queens!\nDid I mention they have the best disco fries too? 😍"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJdjc3ZHpZa09YTjd3RRAB",
+            "text": "Penne a la vodka was exceptional. Pork chops tender a flavorful. Pea soup good and hot. But Calamari had absolutely no seasoning."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNcmZnYUx3aEpDZnFRRRAB",
+            "text": "Este lugar se a vuelto mi favorito, la comida es deliciosa, las porciones son grandes, los precios son razonables, el servicio es rápido y atento!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQZWJfNjNvbkpqNUdREAE",
+            "text": "Enjoying my Birthday 🎂 🥳 my favorite dish is Cheeseburger deluxe well done and opted for baked potato for a healthier option. And My Birthday treat I ordered a Pin̈a Colada. Great waitress.  Parking is available."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRX2Qzd2N3EAE",
+            "text": "A classic diner, but the food quality has maybe fallen off lately. Service is friendly but slow. Bathrooms could use a renovation. That said, they have a fun kids menu and my kids LOVE it.\n\nBooths are great. Menu is extensive and what you’d expect from a diner. Quality may vary. Prices not cheap; discount for cash.\n\nStill nice to support a local option amidst chains."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNM3l4LUR2dmFhSlhnEAE",
+            "text": "Been there a few times now.  Great prices and always take some home."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNbldsWVd0cmJlUkxBEAE",
+            "text": "The atmosphere of the diner was nice. We were greeted and gave us time to pick the items. Food came pretty quick and it was delicious. I got the sliced steak panini and zucchini sticks. I thought the panini was nicely toasted and there was a good portion of meat."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvcTRtRWVnEAE",
+            "text": "Came for sunnyside restaurant week. Waiter was so courteous and funny with jokes. Food was pretty good and decent size. The steak was cooked exactly asked for. Got the cheesecake and carrot cake and was enjoyable. Will definitely come back."
+        },
+        {
+            "date": "6달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcTY3Z3BRRRAB",
+            "text": "Ein typischer Dinner, wie man sich ihn vorstellt und mit guten, reichlichen Essen."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvcC02VHh3RRAB",
+            "text": "The steak was rubber over priced not a detail discretion of what you ordering Don't send utensils. Worst breakfast I've ever had."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJOFpDT1ZnEAE",
+            "text": "Food is top notch!! Classic diner fare!"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLZ3JMcG5BRRAB",
+            "text": "A great neighborhood staple. It’s speedy and consistent. The food always does what you want it to do and tastes how you want it to taste. Very friendly hard working staff. Comfort food at it finest."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJaE9MUmJnEAE",
+            "text": "We ordered takeout for the chicken pasta! But unfortunately there was no chicken on it! I am so disappointed with their service."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJNkphSDRnRRAB",
+            "text": "The food was decent for me but the service is terrible. Nobody greeted me when I walked in and the waitress that was there clearly didn’t want to serve me even though she saw me. The waiter that did serve me could barely answer a simple question I had about the gyros. I gave them a tip and they looked like they didn’t even care. Not going back here again."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3by1HM2pBRRAB",
+            "text": "I liked everything and my wife and I decided to go for breakfast sometimes on weekends"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbGU3UWRREAE",
+            "text": "The food is really good I like the chicken franchise and broccoli"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxc196OUVREAE",
+            "text": "The chefs are PHENOMENAL, the servers are very kind and courteous. 100/10"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRODhhTkdBEAE",
+            "text": "Visited Pete’s yesterday with my kids and we really enjoyed our experience once again. We’ve been going to Pete’s for over 15 years. Yesterday we had some sandwiches and pasta and everything was perfection.\n\nThe falafel sandwich was superior, their fries are crispy and salted just right, penne a la vodka was saucy with lots of flavor.\n\nThe friendly waiters and waitresses made our experience pleasant."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNROWRpamx3RRAB",
+            "text": "I came in and waited by the counter to be seated. I wasn’t greeted nor seated by anyone. The restaurant wasn’t busy by the way. Even though there was a waitress who saw me and kept walking around and ‘doing things’ at the counter but not serving anyone. I waited a little over 7 minutes and then just went to the other counter to order. It was the takeout counter so I got my food in bags but still decided to sit down and eat while no accommodations were made still. The food was fine, but expensive. For overpriced food, you’d think that the workers would be more welcoming but nope."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRMmRfcmRBEAE",
+            "text": "Very nice place very clean there well organized, and very professional. The food is great and is really comfortable. I wish there was more places like this"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnM1pxOGpBRRAB",
+            "text": "Lot of great options, the food is typically very good, and a good deal."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBeWFhcmhBRRAB",
+            "text": "지역 맛집인가봐요. 항상 사람들이 많이 보이네요! 그런데 제일 싼 파스타는 시키지 마세요. 11불짜리인가? 그냥 면만 엄청 많이 줍니다.. 다른 재료가 없이 소스+면이라 이것만 시키면 질려서 다 못먹어요"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBbXF1Um5BRRAB",
+            "text": "Best diner I have ever been too!\nThe food was delicious and well made. The diner has a very homey and friendly vibe.\nThe owner is very friendly and interacts with all the customers that arrive.\nDefinitely recommend this place and going back again for more! 😋"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPdXZQVE1REAE",
+            "text": "Nice lil spot for a on the run delicious meal, the burgers are absolutely tasty, hop in grab a bite and your on your way without any regrets. I loved it. Also the meatloaf A++++. The lady who serves you is absolutely exceptional in every way. Tip her well. She deserves it."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiMzhHOWVnEAE",
+            "text": "My fiancé and I been here few times, we love it, the food is always Fresh, delicious and tasty, they always very attentive, I love the fact that they have some Greek food I definitely recommend to try, but every time we come here we feel so happy about everything.\n\nThank you."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzX09QNGdRRRAB",
+            "text": "Had a good experience. My waitress (Charlene) was very pleasant and knowledgeable about the menu. Sangria is pretty good. Chicken quesadillas is what I ordered, it was fresh and pretty good. Severed on a hot plate."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMODV6eTNnRRAB",
+            "text": "The food here is not even bland--it has no flavor at all. The iced coffee had as much coffee flavor as tap water, and the home fries tasted like they were made from cardboard. Even multiple pinches of table salt couldn't bring my Meat Lovers Omelette to life. I woke up early for this and it was not worth it. Visions of my girlfriend's black beans mixed with undercooked egg whites flooding her plate still made me gag minutes after we left the restaurant.\n\nAs you can see, I ate a good amount from my plate! But make no mistake--I had a 7-hour shift to follow this so I obviously had to eat.\n\nHowever, the service was great. Enrique was the best and made the experience superb from start to finish while taking care of five or more other tables at the same time.\n\n- Certified Big Back"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURadExqRVZnEAE",
+            "text": "Open 24 hours. We stopped in for brunch and our party of 6 was seated immediately. The service was good, the food was tasty, the atmosphere offered good vibes but parking offered a set of challenges. Be prepared to show off your driving skills in their parking lot which is very small.  Btw, paper straws are not for chewing especially if you’re drinking a smoothie🤣"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROd052enp3RRAB",
+            "text": "This is hands down the best diner in the Sunnyside area! We've tried others, and Pete blows them out the water!.\n\nIf you haven't been, I recommend trying them.\nBreakfast,Lunch,Dinner!,"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOeGZmeWZREAE",
+            "text": "Been coming here for 20 plus years and honestly the vibe is the same . Is your old school diner and it feels like a staple of the neighborhood. The staff has changed through out the years but the food is still great specially when you twisted at 3 am and there is nothing open . Pete’s grill a staple of sunnyside queens ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMeU91ckFnEAE",
+            "text": "Good place for a decent meal. Taste and quality is to my liking. Place is a classic but well kept and maintained. My waitress was friendly."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5eWVEQVNREAE",
+            "text": "Classic Diner place and service was on point. The only place in the area that does whole wheat pancakes too.\nI wish they'd have more options for the combo breakfast meals. Also, more options on the pancakes would make me come back more, for example Buckwheat on the menu would be amazing!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4al83SWNREAE",
+            "text": "Nice spot for breakfast. Cheap prices, yummy food, great choice to pick from menu.\nGreat customer service. Truly recommend!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1dWNESFd3EAE",
+            "text": "Reasonable prices, Massive Portions.\n\nWas out late with some friends and stumbled upon Pete's and had a wonderful evening.  Atmosphere is super cozy and inviting, booths were clean and comfy.  Staff is super friendly.\n\nFood was amazing, they are very generous with the size of everything, we could not finish it all and had to take it to go.  Great for late night munchies, everyone was super satisfied.\n\nHighlights were the Corned Beef Reuben, tons of meat and cheese.  The burgers are fantastic too, super juicy.  The deluxe upgrade is worth it, they give you a generous portion of fries, enough to share."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURobGVidE5BEAE",
+            "text": "Food was cold when I got it . the service was great they were  crowed so I was expecting really good food unfortunately the mimosa was the highlight of this visit. this was my first time here I would try them again for the strawberry pancakes that looked delicious 😋"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxdFBTdmZREAE",
+            "text": "Good food! If you want to eat breakfast, this is the place to go (: I wouldn’t recommend the iced coffee though, you won’t be able to melt the sugar because they give you the milk and sugar on the side. Other than that, I love this place."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhbC1MZDJ3RRAB",
+            "text": "I LOVED this place! The vanilla egg soda was DELICIOUS and is apparently a NYC staple. The chorizo omlette was amazing as well. The manager was fantastic and super friendly. She chatted with us while we waited for our food and greeted every customer that came in. She was genuinely happy to have customers walk in and really made the atmosphere that much better. 15/10 I'd eat here again!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaNnJiM0ZnEAE",
+            "text": "I never have a bad meal here. The portion is fair, the food is fresh and delicious. The atmosphere is amazing, fells comfortable seat there and enjoy the food. The service is beyond good. I recommend it. My fav local place."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwci02MGtBRRAB",
+            "text": "excellent diner. exactly what you want - good food, wait staff who are nice but not overly attentive. great coffee that's served right away."
+        },
+        {
+            "date": "5년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzNDhmcWh3RRAB",
+            "text": "Amazing !! I love the huevos rancheros and some croissant I didn’t take a picture of. Me encantan los huevos rancheros y un croissant que no le tome foto. Las personas que atienden son súper nice también !"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnNllUZUd3EAE",
+            "text": "It's a good place for everyday dinning. The food is good for a local spot. The staff are wonderful and polite. The restrooms are kept very clean. The only recommendation I can give is to find a seat within the booths, if you happen to sit at the front seats , stay close to the windows. The seats at the front near the side walls have a funky smell, it's not something you really want to be smelling while you eat."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHMko3d3JBRRAB",
+            "text": "Ordered 2 bagels as a last meal before surgery and one bagel had a block of cream cheese just thrown on one side and other bagel had butter only on one side as well. Both bagels were cold.  I stopped ordering from Pete’s Grill a long time…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0aVAtZnRBRRAB",
+            "text": "I've started taking myself to breakfast on Friday mornings before work, and I've discovered Pete's Dinner. Currently,  I'm obsessed with the Belgian waffles & scrambled egg breakfast. It's good, the staff is friendly and the owner Pete runs the register."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtX3FyR1d3EAE",
+            "text": "We stumbled upon this gem during our trip. I ordered the cowboy burger and my daughter the French toast. The burger was amazing. It was perfectly cooked. The french was also big and delicious."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRNU9MaE1nEAE",
+            "text": "Warm and friendly staff.  Good food.  We stop by often in the wee hours to eat.  Yum.\n\nCame back after 2 years since the pandemic began with 20 members of my group last Dec 15, 2021 where we held our annual holiday gathering.   They loved the food and the service.\n\nDined in again with my ex GF last January 27, 2022.  Good to see Jaime again and Gerry's cousin Giovanni.  We stop by for the food and the friendship."
+        },
+        {
+            "date": "3년 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHeDhuNUhnEAE",
+            "text": "Restaurante acolhedor tipo dinner com refeições típicas americana\nFrench toast e panquecas deliciosas e com doses generosas\nExperimentei as búfalo wings e cheese feira muito boas.\n\nResumindo comida de boa qualidade e quantidades generosas\nAtendimento muito profissional e com muita simpatia\nEspaço confortável e acolhedor\n\nFoi o meu restaurante de eleição durante a minha estadia\n\nRecomendo vivamente"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3X3VEVnBRRRAB",
+            "text": "Always order the same corned beef hash and toast with lots of butter. Still waiting for them to give me lots of butter when I first ask for it.\nCoffee is ok, not great.\nNo complaints about the eggs.\nEvery nice staff. This place is by far better than Tom's Diner where I used to eat."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVbzRxSTR3RRAB",
+            "text": "Friendly and fast service, and delicious buttermilk pancakes! They're great about coffee refills too, and they're open 24 hours! We love it here! Can't wait to come back and try more stuff from the menu."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURsME1uZFdBEAE",
+            "text": "The food and service are excellent.  The place has lots of natural sun light and gets an A for cleanliness."
+        }
+    ],
+    "reviews_count": 72
+}

@@ -1,0 +1,537 @@
+{
+    "name": "Vesta Trattoria & Wine Bar",
+    "place_id": "ChIJGc-LBklfwokR4pON1Ije2Ls",
+    "grid": "QN1",
+    "address": "21-02 30th Ave., Astoria, NY 11102, USA",
+    "rating": 4.5,
+    "user_ratings_total": 620,
+    "phone_number": "(718) 545-5550",
+    "reviews": [
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNM2NVMUtiVjlUTjFOUFVuRmhlRkUzU1VzdE0zYxAB",
+            "text": "Great food and really kind staff!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sRWQwUmtiRnBpTFZGaE5qbG9hRkJsT0hseFprRRAB",
+            "text": "The wine on tap and recommendations are excellent. The orecchiette continues to be amazing. Always happy to return here"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxblVGWkxXVUZDUVZoME1GTlJRbWxRWm1SRmNtYxAB",
+            "text": "All i have to say is this is not an Italian restaurant. What Italian restaurant you know that sells burgers? Extremely disappointing. I walked out thats how disappointing it was."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwbE9GVnRRa0ZyTnpGcE1GUlRWM1pNTmtSMWJrRRAB",
+            "text": "I love this restaurant. My son and his wife have been going there for a long time and is there to go restaurant when family and friends are visiting. However today was a total disappointment. We went in for brunch, our food took a very long time. And out of the three meals ordered only one was eaten. My son’s burger did not taste well, his French fries were stale and looked old. He ended up not eating it at all. My daughter in law’s food did not taste well as well and she left it. My potatoes were overly seasoned. A great disappointment."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paeWVqRk5VR1JTV2xSUll6ZEhWRTVUTUVwNGRXYxAB",
+            "text": "A delicious and comforting meal with a great glass of wine. Really love the atmosphere here too, very cozy on a rainy evening. 😋…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSdGNtWTBjVVV4TlU5bFNUZEZkRTFVYTBabFMyYxAB",
+            "text": "The whole experience felt carefully planned and executed. I'm deliberately sampling their entire food selection. The staff provides service that's truly impeccable. Flavorful cuisine pairs with outstanding staff attention. The meal here ends with smiles."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toc2JDMVlWMDFuVUROVFMxUm1iR2wwWVRKZlYzYxAB",
+            "text": "Great food at a decent price!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psR1dIZHFkbTVYUzBWTVN6QTRhV1JHUVhwUFRVRRAB",
+            "text": "Everything was delicious! A pleasant atmosphere, delicious food, and exceptional service. ✨"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWek1sQmxXa1pHTW5WWlVtNTJNbTFxWkd0VFFsRRAB",
+            "text": "Very nice, cozy restaurant. The food was veery good and also not so expensive. Staff’s friendly, helpful and quick. If you looking for cozy Italian ristorante, that’s the place."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxZk4xbDZObTB4TFZwaFdYbGtSMkY0YkRaU1lVRRAB",
+            "text": "Amazing food fast service great people working there 😁"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJeFVGZExORGR2Y3pOclpFaFhXVVpCV0RsVmRHYxAB",
+            "text": "This place stands above others in both food and service. The space felt comfortable and inviting. The meals here make you happy. Assistive, modest, and truthful. The meal was wonderfully flavorful!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Wc09FeG9UbGxoVmxKRU1sOU9WaTB4TVRkQmNIYxAB",
+            "text": "We had the beet salad which was very oddly salty and tasted old? The ricotta was dry and crumbly and did not seem like “whipped ricotta”. The pasta was served cold and lacked flavor and the pizza was very mediocre. For the prices at the restaurant and the reviews expected better. Painfully average at best. Would not consider it a memorable meal"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OU1JYWklWbFJGWW1aM01VNXhkbkJVWTBGNFRXYxAB",
+            "text": "Hate to do this but I was so thrown off by this experience. We were a group of 5 and went around 6pm there was only one other party in the restaurant so no rush or anything. We ordered drinks and appetizers however we had to leave before we even got our appetizers because we found ROACHES in our drinks. I ordered a pineapple juice and at first i gaslit myself into thinking it was something from the juice so i sent it back and asked for another one but then i noticed there was no fresh pineapples. Everyone else at the table got canned drinks except my niece i checked her cup which was apple juice and that had a cockroach also floating in there at that point i said no and decided to leave. The waiter was nice about it and didn’t charge us for anything. The only picture i was able to get of part of the roach is below. No idea what the food taste like but go of your own free will if you still want to try the place."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwVlVGTXlNQzF0T1ROa1RIbEhZM0J6UjB3ellWRRAB",
+            "text": "Beautiful Saturday night at this place, amazing service and delicious food… ordered the wild boar lasagna, braised meatballs and a side of broccoli rabe. Cinnamon gelato for dessert… couldn’t ask for better!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGc1pVcHpOV0k1TjBnMlkxZElNRWg0VW5wbVVrRRAB",
+            "text": "Really like this spot. They have a great wine list, with some under nitrogen so you can sample some high end wines. And the food is great. Had the orecchiette with truffles. So tasty. Lots of great choices."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SR2IwODRXak5vVFdzMGJWUlhhMU5aVW5CMmFHYxAB",
+            "text": "7/11/25 had not been here for 4 years and went for a late lunch. The music, atmosphere, vibe, food was good. The meatballs were delicious very soft and tasty. Mussels and, lasagna as well. I usually have orecchiette al fungi in many Italian restaurants but the one I ordered here did not meet my expectations. Raul was an excellent server and very attentive."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VOckQxNW5xeWZhVVBnEAE",
+            "text": "I just moved into the neighborhood and thought to check this place out. I ordered the chicken cacciatore but it just wasn’t good. I wanted to like it, but I just can’t recommend this place. The chicken itself had zero flavor, also, the description on the menu said it was spicy tomato sauce…but there was zero spice and almost zero flavor. I was most disappointed by the potatoes…the menu read smashed potatoes but these were like whole 5 golden potatoes, which made the plate overwhelming to even just look at. I had a glass of Chardonnay with my meal, which wasn’t bad. The only decent thing I might have had was the starter bread with olive oil. I will also say that the staff is nice and the atmosphere is nice!\n\nMy total with tip came out to $55 and some change. I just don’t think my meal was quite worth that."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMdk10cUxienZqYVl3EAE",
+            "text": "Such a beautiful bar and restaurant and the food is 10/10! The service is amazing to match. Our server Raul was amazing and was such a gem! I can’t recommend Vesta enough for a date night, dinner with friends, or more!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQelZ0dUwzcjctSHRBRRAB",
+            "text": "One of our favorite places - food is amazing, but the atmosphere is the best around"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLREE2cWJZbGFDcE93EAE",
+            "text": "Great wine. Amazing mussels. Highly recommend."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZcHR5VmxRRRAB",
+            "text": "I enjoyed my date night there. We had the burrata and meatballs! Really good! We also had the lasagna and orecchiette ! Sooooo good especially the orecchiette al fungi.\nThey only serve wine and beer tho! Great spot for a Familly diner."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvOTVQNkp3EAE",
+            "text": "Got their special of the day, a lamb dish. What a piece of rubber!!! Never back again!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNDYzYlhnEAE",
+            "text": "What a gem! Delicious food. Great atmosphere and service. A must!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvalltUWVBEAE",
+            "text": "Been going for years. The meatballs, super thin crust pizza and baby Jesus cake is to die for."
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvcVlELUd3EAE",
+            "text": "Fui con mi pareja para el lunch, el servicio muy bueno y eficiente el mesero era muy amable. La comida deja mucho que desear, pedimos la tabla de jamones y quesos pero no estaba muy buena, la soppressata sabía raro, muy poca cantidad de queso. La hamburguesa era muy buena y viene con bastantes papadas y La lasagna estaba rica muy buena porción.\nSi recomiendo este restaurante y volveré pero para la cena o brunch"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3X3BhUHNnRRAB",
+            "text": "I've heard a lot of good things about this place and this was a nice restaurant with a great ambience and great service. It felt like the locals were very fond of this place and the servers were very friendly to all the patrons. I really enjoyed the seafood casserole appetizer. The sauce was amazing, flavors hit all the right spots sweet, tangy, spicy. The other appetizers were decent, nothing to write home about, mostly because the price point was high, around $20. The pizza was shockingly thin, it almost felt like the thickness of a tortilla, again decent but pricey. The entrees left a lot to be desired. I had the a pasta which was so overwhelmingly creamy and lacked any other flavor, to the point it was a chore to eat. But if you're a fan of super creamy and cheesy pasta, you'll enjoy it. I also tried my friend's mushroom pasta which had nice flavor but also felt like a chore to eat because it didn't hit a nice balance of flavors. The cake was very enjoyable and I'd recommend trying it!"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNENVpuSUJBEAE",
+            "text": "Our first time here in ages and ages, and we stopped in for a very quiet brunch. Split the Hangover Pizza, our old fave. Everything was great.\n\nUpdate: Always great. We split the endive/radicchio salad and a Potato Project pizza, and it was a very nice lunch. Nice stop on the way back from the post office!\n\nUpdate again: always great. Such a neighborhood gem."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRcnEzNktREAE",
+            "text": "Everything delicious"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNna3R5MUZREAE",
+            "text": "Went for valentine's and were very satisfied"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBc19UR0RnEAE",
+            "text": "Amazing neighborhood spot. Loved the on tap wine. Cozy, authentic, and unpretentious. Will be back."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBOWEyUTd3RRAB",
+            "text": "The food was delicious!!! Specially their baby Jesus cake. 🤤"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfX2RudnBBRRAB",
+            "text": "Nice ambience, good food."
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnMU83UjFBRRAB",
+            "text": "Out local Italian place, we've been going there for years now and have enjoyed many a fine meal here. We just visited for their Christmas Eve \"Seven Fishes\" menu. Fantastic!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2ODhUUnB3RRAB",
+            "text": "whether it’s brunch or dinner, I’ve always had wonderful meals here! Great food, friendly staff, cute ambience. love Vesta!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2OWFTRXF3RRAB",
+            "text": "Excellent"
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQMi1taWJBEAE",
+            "text": "Super deliciosoooo El plato que  pedi.excelente preparation."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzM0t5eDF3RRAB",
+            "text": "Vesta Trattoria & Wine Bar is a gem in Astoria. The food is fantastic, the atmosphere is relaxed, and the service is on point. Whether you're a local or just visiting, this place should definitely be on your list!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzcEwyaGF3EAE",
+            "text": "Recomendado 100% La comida, la atención, el ambiente son espectaculares . No me había ido y ya tenía ganas de volver"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzcE4yYXZnRRAB",
+            "text": "He tenido la oportunidad por cuestiones de trabajo visitar un gran número de Bnos restaurantes, pero este es por largo el MEJOR RESTAURANTE DE PIZZAS q he visitado, la Pizza Diavolo Arrabbiato que lleva un toque de maple es ESPECTACULAR, u el postre Niño Jesús Babe Jesús es de otro nivel, eso sin contar con el ambiente que es súper acogedor y la atención que es de primer nivel con un precio muy por debajo a la calidad con que sirven los alimentos. Si quieren una experiencia especial no duden en venir"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYMi1HR0xREAE",
+            "text": "Interesting menu. Large portions. Very good brunch"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYbGYtMUh3EAE",
+            "text": "I can't believe his place has been open 16 years.  I remember when they first opened.  Not much has changed and that's a good thing.  We've shared many meals with family and friends here and it's been great always.   Lots of good times and memories made here."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYdVlERFhnEAE",
+            "text": "We had a wonderful dinner at Vesta.  Our server, Raul was very attentive and helpful.  The food was excellent.  We had the lasagna, burger and Brussel sprouts.  All three were cooked to perfection.  David, the manager was also amazing.  He checked in with us regularly to make sure we were having a great experience.  We can’t wait to go back to Vesta!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuanBXQkFnEAE",
+            "text": "Excelente 👌"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIamItNG1RRRAB",
+            "text": "Server was welcoming and attentive. The lamb gnocchi and heirloom tomato salad were very good. Torta del piccolo bambino dessert was excellent. Music was too loud and did not go with the otherwise cozy vibe."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIdW9ud3pnRRAB",
+            "text": "I was charged by the only tonight bartender 20% tips automatically.\nBesides illegal side of this issue it wasn’t nice of them to do that.\nI would tip 20% anyway but at this case I felt overcharged.\n\nThe bartender at empty place wasn’t busy at all, I was the only customer there. The spot didn’t look like too busy to let their staff charge by default.\n\nI came to the bar to order and make his job easier cause I decided to seat outside. Bartender was annoyed with me studying menu for 3 minutes and kept asking me if I am ready for 5 times. He rushed me with an order to do smth else. Ok.\n\nOther guys working there were amazing, absolutely nice and attentive.\n\nFood was good enough.\nThis time I wasn’t lucky with my choice but previous one experience was pretty decent."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3eHFYQi1RRRAB",
+            "text": "**⭐️⭐️⭐️⭐️⭐️ Experience!**\n\nVesta Trattoria & Wine Bar is a hidden gem! The cozy, rustic ambiance and The wine selections with knowledgeable staff offering spot-on recommendations. The food is fresh and delicious, perfectly complementing the wines. Service is top-notch—friendly and attentive without being intrusive. Whether for a date night or a casual evening with friends, this place is a must-visit. I’ll definitely be back! Special Thanks To\nMr. David and Raul for amazing service. Me and my Husband had a really great time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3MTVqVGNBEAE",
+            "text": "Every single thing I order from here is amazing. They never disappoint. All of the pastas and the meatballs are a must!!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiamU3TDR3RRAB",
+            "text": "Vesta!\nThank you for a beautiful night!\nMy husband and I came to have dinner at Vesta tonight and it was outstanding!!!\nThe food was so tasty that I didn’t add a thing to it which is how food should be!\n\nTHE BEST MEATBALLS WE everrrr had🙌🏻\n\nWarm atmosphere super friendly staff ❤️\nWe look forward to coming back again❤️\nThank you for your hospitality!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyOXZDekxREAE",
+            "text": "We love coming to Vesta, always great food and a good time.  Don’t sleep on the wine tasting either- we did an orange and rose wine tasting and loved it.  The sommelier was fantastic and we enjoyed our time and stayed for dinner after."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6djRxMFd3EAE",
+            "text": "Wine was delicious. Diavolo pizza hit with the thin crust. Pasta came out HOT and scrumptious. We sat outside and it was a wonderful experience."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKdHZHYlN3EAE",
+            "text": "One of my favorite local Astoria places for a quick brunch ,\nMy husband and I have been coming for almost 5 years. Outstanding service\nThe food it’s delicious and fresh .\nand yes Iv tried pretty much everything.\nJust take looks at the pictures.\nDefinitely a Gem !!\nCurrently the service it’s one of the best in my opinion ."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxMGZHSlRBEAE",
+            "text": "I had not been here for over five years and decided to go with my family for dinner Saturday July 10, 2021. From the moment to go in to the moment you come out everything was great I loved the food loved the service deco  the music the…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhbk5IdkZREAE",
+            "text": "Everything here was excellent and i really mean that. Went here for an italian meal with my italian family and we ordered a ton of food. I wasnt down with the idea of ordering pizza from a place with so many other options on the menu but im glad we did because it was excellent. The meatballs were excellent. The fish was excellent. The chicken was a little dry but i was so full i didnt have much room left for it. Ill definitely want to go back and order other things on the menu because i trust that if its on this menu its probably good.\n\nI saw there was outdoor seating but im glad we sat inside because of the weather. Didnt love the music, the playlist bounced around across genres too much"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCMTRDS2t3RRAB",
+            "text": "The place is cute and the staff is nice. The food is okay. I got the lobster linguine. While the rest of my family got their food they forgot about mine. I wasn't too bothered since I was busy feeding my kids. But once I did get it the lobster was overcooked and too chewy. The bucatini had a lot more flavor. I thought the mussels ans kale salad were okay too."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1MzVfU3dBRRAB",
+            "text": "Hmmm...my experience is mixed.\nI came there based on reviews and recommendation.\nThe menu does not follow online description and there is a difference between their official website and actual offer.\nThe venue by itself deserves some maintenance, from inside and outside, looks much better on photos.\nService is ok.\nPrices are ok.\nMy appetizer was the same size like my entree. I had arancinies as a starter, followed by wild boar lasagna, but the appetizer was better. I ate well, but I was not astonished.\nThey did not have any specials.\nVery modest both the menu and the wine list, although I came there predominantly for wines. They have 5 whites and 5 reds to choose, not so great options, the most expensive bottle is $60.\nThis is a typical local place, good to visit if you are nearby.\nOverall, ok place. Nothing more or less.\nOne more thing. They should take care of a waiting time: the main course I waited 30 min. (lasagna does not take so long as far as I know) and the dessert (Baby Jesus - just a simple cake) 25 minutes sharp. And it was not a busy night."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREeHEzUXNnRRAB",
+            "text": "We went for dinner and wow! The ambiance is amazing and the owner is so kind. It was a weird dinner as a car flipped over at the intersection and all of that to say, the owner was so kind and compassionate! Would recommend checking it out! Thought the food was good but not amazing - it may just be me! Try it out!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkMmFiM2lnRRAB",
+            "text": "Don't get me wrong, it was a lovely night out, and several menu items were great. My fairly-pricey Crab Ravioli was skimpy in size and crab flavor, overpowered by the strong lemon-butter sauce."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxX2Iya25RRRAB",
+            "text": "I thoroughly enjoyed the intimate atmosphere of the restaurant. The Margherita pizza was a delight, and the Carl Graff Riesling wine complemented every dish perfectly. However, the lobster ravioli fell short of expectations; while not bad, it didn't leave a lasting impression for a reorder."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXaS1TOGlBRRAB",
+            "text": "The food here is amazing!  We ordered the meat and cheese board, the Diavolo Arrabiatto Pizza, and the Oricchiette ai Funghi.  Highly recommend ALL of these, they were delicious and the service was great!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPMm9xcDhnRRAB",
+            "text": "Great service! Was quiet for brunch - we were the only ones there for a while (came around noon). They have some interesting menu items. In my opinion, kind of expensive but worthwhile. Staff was kind and efficient. Plenty indoor and outdoor seating. Would definitely come back."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4MUllNVRREAE",
+            "text": "My boyfriend and I went here in mid-May for date night after my boss recommended Vesta. It was amazing!! The ambiance was charming, we sipped white wine (the wine on tap was surprisingly great!), gobbled down the housemade focaccia, and ordered the specials and a pizza (which my bf is still talking about). The staff was perfect; always materializing at the right moment and very welcoming and kind. We live in Bushwick but this is worth the schlep and we will be back!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhX2NlMG5nRRAB",
+            "text": "Where do I even start?! THIS PLACE IS A HIDDEN GEM. Hubby and I wanted to have a date and picked a random place and wow thank god we picked Vesta Trattoria. First off, the service was beyond excellent. Jenny and the guy that was serving us (I didn’t get his name) were the best!, very polite and chill and didn’t seem forced to be nice. The food: SPECTACULAR. Just the right portions. Dessert? Out of this world!!! (If you’re reading this get the “Jesus Cake” lol)\nAmazing experience!!! We’ll be back for sure!!!!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2eWZxNUlnEAE",
+            "text": "One of my favorite places in Astoria. The service was superb, staff was very friendly. The food is amazing definitely a place to visit. I like this place for a date brunch."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPbkwtQ1pREAE",
+            "text": "Affordable and delicious food! Everything is delicious and fresh. I really love the pasta I ordered  Orecchiette Ai Funghi pasta so delicious and great portions. I would definitely come back"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCcVBubjF3RRAB",
+            "text": "It is a very nice place in Astoria,\nThe food looks good but the taste was not that much.\nThe service was good the vibe there was nice.\nSee pics attached!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKbi1ESU5BEAE",
+            "text": "Came in on a Sunday towards the end of brunch. I was looking for a true Italian restaurant in the neighborhood, because I was craving a creamy alfredo pasta of some kind.\n\nI expressed this to the waiter and he recommended the orecchiette ai funghi as an alternative… OMG! Delicious! Creamy, tasty truffle flavor, the mushrooms are a great protein substitute. Everything about this dish was perfect.\n\nPaired it with a glass of Riesling, also delicious, they make a perfect pair.\n\nI’d been to this location over a year ago and had a few things off the brunch menu, and was satisfied then as well. Highly recommend💫"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCcHVYVVpnEAE",
+            "text": "Very cool and chill atmosphere. The menu is good, food was good - except our server was drunks. But the other server (sober) fixed our experience"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3cWZxTktBEAE",
+            "text": "Came for brunch on Sunday, service was so pleasant! Drinks were hit or miss (Vesta Punch: hit, Caesar BM: miss). Hangover pizza was very nice, their Italian take on eggs Benedict was sorely lacking hollandaise.\n\nReal highlight is Baby Jesus Cake, omg, life changing. We had it with the vanilla jelato and it was decadent and wonderful. Highly recommend!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtbGV1eU9BEAE",
+            "text": "I love their Margherita pizza. It’s very thin and perfect crispiness. Also tried another one with arugula very good. Makes me feel guilt free to eat it. The lobster linguine was a bit disappointing."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJdXNHc0xnEAE",
+            "text": "I ordered the shrimp and grits and carbonara mac and cheese with a side of toast. The shrimp and grits was delicious, but I wish there were more shrimp and the toast wasn't really spectacular as there was very little fruit spread relative to the amount of bread."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhdklDVUN3EAE",
+            "text": "I’m not a rice ball person but that was hands down the best thing we ate. Cute little place. Attentive service and great music!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNabE9mVi1BRRAB",
+            "text": "I do not know where to start. Everything was amazing!!! Hidden spot but what a Gem! The host is sooo nicee and the food is incredible!!! Do not hesitate to come"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkZ05Ib0JnEAE",
+            "text": "Delicious, intimate & cozy. Came here on a Monday night and it was perfect, food was delicious and service was great. Not sure how busy it gets on other days but I loved how it was today."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSaWZMWFRREAE",
+            "text": "Baby Jesus cake is 🔥 . Orecchiette in my orecchiette ai funghi had a perfect al dente chew but not much flavor. Serving was large."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoNk1lUWpBRRAB",
+            "text": "Amazing food, service, ambience and thw wine is out of this world. Highly recommend this restaurant and David is so personable and knowledgable on wine."
+        }
+    ],
+    "reviews_count": 75
+}

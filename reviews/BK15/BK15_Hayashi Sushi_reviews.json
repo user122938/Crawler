@@ -1,0 +1,474 @@
+{
+    "name": "Hayashi Sushi",
+    "place_id": "ChIJ4XeB6WJEwokR2aR2fMRp8pA",
+    "grid": "BK15",
+    "address": "2901 Ocean Ave, Brooklyn, NY 11235, USA",
+    "rating": 4.4,
+    "user_ratings_total": 392,
+    "phone_number": "(718) 368-3668",
+    "reviews": [
+        {
+            "date": "3주 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGYWMybEtiRE5rTVd4blJFcHRZekJyVVhkelpGRRAB",
+            "text": "Всегда тут кушаю суши. Постоянно заказываю. Лучший выбор и хорошие цены"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SV1RtSnRaMUJIZUdwTGVYWlFWazFCY0Vob2VYYxAB",
+            "text": "My go to place. It hits every single time, I just wish they add crunch to their spicy salmon/tuna rolls it would top it off and be perfect"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCc1NrcGliazFIYjJkcVpFZzRYMFZhZDNJeFkyYxAB",
+            "text": "Haven't dined in at this location but takeout is delicious and fresh. Here's the updated menu."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0emMyRm5SM1pJZDA4eFVHbDRTRm93WTJsRlRIYxAB",
+            "text": "Roll with mango is delicious"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205bldFeHdaME52UTNoNWVVMXhlakpIVEc5NGMzYxAB",
+            "text": "We miss this place! Used to live right around the corner. They never missed ❤️"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201TGVVUndVbkl4TUZCRlNWZG9XR0pWZFdkUmNYYxAB",
+            "text": "This place is surely amazing. Their specials are so good! And so is the food! This is definitely a “must go to” spot if you want perfect quality sushi. And I would also recommend their highly yummy “Fried Green Tea Ice Cream” it’s super good!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsQ2RHMTRXVTFDYjFZeVh6UlhNMkpxVnpobU9XYxAB",
+            "text": "I happened to come and try Hayashi sushi restaurant out of curiosity, and it’s very worth it! The atmosphere is really nice around here and the tables are set very nicely and there is so much to choose from on the menu! The food they serve are very fresh and taste very nice"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNXzRfSkRtM2ViVW13RRAB",
+            "text": "It was so good 😋😋😋🫩…"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzMFBiM29BRRAB",
+            "text": "Good food, good service, pleasant atmosphere.\nI will be back.\nAnd I will recommend my friends and family to visit Hayashi Sushi."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvenRHaEx3EAE",
+            "text": "the best sushi in the New York"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJdHViSnZRRRAB",
+            "text": "Nice customer service and got the right food I ordered"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3bnVycGp3RRAB",
+            "text": "Good place for casual dining for sushi lovers."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnd2UtTzF3RRAB",
+            "text": "The restaurant is located in the Sheepshead Bay section of Brooklyn.  They prepare Japanese cuisine.  Soups, appetizers, sushi, sashimi, bento boxes and various entrees are available.  I ordered the unagi don and sushi bento boxes.  It included soup, salad, a generous portion of tempura, California roll, three shumai, rice or seaweed salad and entree.  The food was very good and priced well.  Friendly and helpful staff."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNndTRtZFpnEAE",
+            "text": "Nice atmosphere, very tasty, everything is very cool🤤👍"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBajdhUmt3RRAB",
+            "text": "Impolite waiters, food is very tasty, but the staff is not very polite."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmdHN2dnh3RRAB",
+            "text": "Must try Lady Gaga!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmOG9ueVBBEAE",
+            "text": "Best sushi spot super fresh and best customer service"
+        },
+        {
+            "date": "10달 전",
+            "language": "iw",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2cnZyd0JREAE",
+            "text": "המקום ממש נחמד"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2c2ZMNGJBEAE",
+            "text": "The sushi here is incredibly delicious! The flavors are fresh, and the quality is outstanding. Although the interior isn’t particularly impressive or stylish, the amazing food more than makes up for it. Definitely worth visiting for the taste alone!🍣🍱"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQMFl5SFh3EAE",
+            "text": "Tomyum soup is good portion and sooo delicious. But employees are a bit rude"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzdWFlcjdBRRAB",
+            "text": "They messed up my order and when I called the lady on phone was very rude and hung up on me. When I called back she was yelling driver doesn’t want to come back and hung up again. For a first time customer that spends 96$ on delivery you would think customer service would be better not coming back I recommend Masakari"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRbzlPVHNRRRAB",
+            "text": "Sushi it's always delicious"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNucFlIUnpBRRAB",
+            "text": "The taste of the sushi real bad, they using bad fish, cookers don’t care"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3dTZYOW9BRRAB",
+            "text": "I come here for more than 10 years now. Of course there is smth in menu I don't like,  smth which my friends don't like, of course the atmosphere is cheap and nothing special. But all together the place is special,  because for all these years it is still the best place for sushi and rolls in ny, even compared to the fancy places in Manhattan. The fish is always fresh, the price is always affordable,  the service is always fast. And I really hope to repeat my review in another 10 years❤️"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURydmJHNW1nRRAB",
+            "text": "We go here almost once a week for the past few years and everything is always great. We love the fresh sushi and the amazing workers !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNycC1iNGZBEAE",
+            "text": "Gamers"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6MU9ybXJ3RRAB",
+            "text": "Highly recommend !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUMmF1XzJnRRAB",
+            "text": "Order from this place all the time.  Good quality and very consistent."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUa09mSlZREAE",
+            "text": "Very average. Price wise it is reasonable. I would recommend the cooked appetizers more than the raw stuff. However, I do not recommend getting the sashimi. The fish was very cold and bland, I wasn’t able to taste the difference between the different pieces of sashimi. But overall I would give it a 7/10."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREdTY3ZVBnEAE",
+            "text": "Sushi was good when i first cane to this place. Today had lunch and got a stomach disorder both my husband and I - unbelievable. Not a good place to order anything except sushi and rolls."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREcFlQeG9nRRAB",
+            "text": "The portions are unbelievable… almost all of their menu items are in stock and the limited time only items are fresher than ever! This is the freshest seafood I’ve ever had and probably will ever have"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5elBydDhBRRAB",
+            "text": "Everything is fresh and delicious. I recommend it. Lovely tuna roll 👍"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5dTZiQUtnEAE",
+            "text": "Shortly - No Go\n\nYears ago it was a dicent place .. but now its a .. And I can live with a darker than below average interior that needs updates since it looks like late 90s )) and where you cannot clearly see whats on the menu (which is inserted into some vision blocking folder) ...\n\n.. but guys 3 times i ate there and 3 times i had diaria... I think its a No Go .. They should check their kitchen and chef if all corresponds to City sanitation and food safety standards. I bet they have cockroaches and mice all over the place and might be old fridges that don't function properly any more.\n\nMy advise to skip this place. Cheers."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5NjU2aWJnEAE",
+            "text": "Found several of these bugs in my shumai soup. Disgusting."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkaVpuVy13RRAB",
+            "text": "Amazing place, great value."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkdHVHSlZnEAE",
+            "text": "Food would have gotten higher if portions were larger. I had the smallest bowl of yaki soba. Their plate looks like a lot, but what you find is that it's not a bowl but an elevated plate.\n\nThe food was good. i would give it a 4 at most. Service was nothing special. The food came quickly, but they never tried to make any small talk. Like how is the food.\n\nPlace was clean, food was good, wouldn't say to go if you're hungry and order yaki soba"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURka0s2cG1nRRAB",
+            "text": "Great sushi along with their salads."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkdGFuS2ZBEAE",
+            "text": "Love this place"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkMW83TlRREAE",
+            "text": "The food was extremely fishy could not be eaten. I was super disappointed on the quality and will not be ordering from this place again.\n\n1.Poor quality fish.\n2. Fish smelled.\n3. Did not taste fresh."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0MWVpcjl3RRAB",
+            "text": "Definitely better than other places in the area."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURObGZHQWxRRRAB",
+            "text": "Excellent service and delicious food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNOal9GRhAB",
+            "text": "Favorite sushi place in nyc!! Great basic rolls, many options for special, and a good price! Small business owned too which is nice!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxOGJMaFlnEAE",
+            "text": "Best neighborhood sushi spot!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxdGNIVVl3EAE",
+            "text": "Great local sushi joint. Nothing fancy. Really good food. Strongly recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxak15ZWpBRRAB",
+            "text": "Sushi was really good and tasted fresh!!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJOU96MnhRRRAB",
+            "text": "Consistency is key...it’s always great to know that when you come in the food will be the same day in and day out. Have been coming here for years and I am never disappointed.\n\nThe place it self can get pretty busy during evening hours and there take out/delivery is always busy. If I order from home it can take over an hour to get the food.\n\nThere are a lot of great things to get but my favorites have become the Magic roll and spicy yellowtail hand rolls with crunch."
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvNWFyM1J3EAE",
+            "text": "By Far, The Best Sushi Restaurant in Brooklyn!!!\nI’ve been coming here since the day they opened, over ten years ago and I keep on coming back over and over and over, on average once a week.\n\nThank you Chris and the entire Hayashi Family!!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHajdmWVhREAE",
+            "text": "A quiet place with delicious sushi. The chef puts little rice in rolls, so you can taste the stuffing/filling. Fresh tasty rolls and good service."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnM3B1a3ZBRRAB",
+            "text": "Good, tasty spot for sushi and Japanese food!\nThe rolls are always a decent size and everything is priced fairly, as Japanese food prices in NYC go!\nGreat place to eat in and order out from!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtczZfQy13RRAB",
+            "text": "Excellent ! Tom Yum is the perfect at this location . With plenty of different seafood."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlcV96ZVVBEAE",
+            "text": "Very quiet and mysterious atmosphere, giving you full relaxation. Their green tea is a natural and tasty.\nRegarding the food, can't say anything. Anything you're ordered from the menu, going to be fresh and will have an amazing taste.\nAbout a service I would like to say separate. Waitresses very attentive and helpful, plus their service is so unobtrusive that sometimes you don’t even notice how they come or go.\nI really like a lot!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCN2VUWTV3RRAB",
+            "text": "First time eating here in a very, very long time. After Covid, many local sushi places have diminished in their quality.  Pleased to report that the sushi here was fresh and tasty (disclaimer- I just had basics- Philadelphia, East, and Spicy Tuna).  Place was quiet which I liked but maybe that's beause it was a Tuesday. Service was attentive- my green tea cup was always full. I will return to try more things."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCOVB6UUJBEAE",
+            "text": "The devil is in the details. This place is moving from exceptional to regular. There is no correct seasoning.  The soy sauce is a very cheap kind and bitterly salty that ruins the entire taste experience. The size of the sushi and rolls is OK and you feel like you’re not hungry but you’re not happy either. This place is losing the excitement. Two stars the most!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJcHR2REpnEAE",
+            "text": "This place never disappoints. Have been going here since they opened. Great food and service. Always consistent. Normal atmosphere too, not a crazy drunk loud place like some other sushi spots can offer."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhMmFicGt3RRAB",
+            "text": "I found this place by accident and I am so glad that I did. Their menu is amazing. I tried the Six Flags Roll , the Green Tea Tiramisu, and the Thai Iced Tea and it was really good. They have so many special rolls and now I want to try them all. I highly recommend this place and I will definitely be going back."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURodUlxVUVnEAE",
+            "text": "5 stars for food but 3 stars because they seem to be closed more than open. In fact,  tonight my husband and I wanted to go and not only were they closed but the all you can eat down the block was too. The all you can eat stated no power…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvNDdueVpnEAE",
+            "text": "Used to love coming here when I lived nearby. The rolls used to be consistently fresh and delish. However, the last few times I made an effort to come out, I was a bit disappointed with the way my rolls tasted. Kind of bland, not much…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCNGVQV1J3EAE",
+            "text": "This is mine and my wife's favorite sushi restaurant. The food is really good and tasty. We love the Tom Yum soup and many of the special rolls. We highly recommend this place 👌"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRMjZHNnRnRRAB",
+            "text": "Best Sushi spot in Nyc.  Me and wife and my son go here all the time. Best specials in town.  Chefs are and top quality and amazing. Staff friendly. We go at least twice a week.   I can go on and on about this place. Tell them Trini sent…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJaE5ueHpBRRAB",
+            "text": "Took my mom here after her eye surgery. She was impressed with the place. She had sushi and I had a chicken Teriyaki bento box, both were excellent. Service was on point and price is affordable. Overall, we had a great time."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3bnUyR1NREAE",
+            "text": "They are usually perfect with my food but this time I ordered my California roll fried & they charged me $8 for one when a regular California roll is $3.50. I called back to explain & the lady said I ordered a special and that she repeated my order back to me which was false & if that were true the California roll didn’t come with the other ingredients that it supposably supposed to come with & I would’ve said that I wanted 4 shrimp tempura rolls instead of the 2 they gave me. She messed up my order when I ordered 4 shrimp tempura rolls & only received 2. My whole order of 4 shrimp tempura rolls & 2 California rolls should have came out to $21 plus tax of $2.04. They gave me 2 shrimp tempura and 2 California rolls for $25. Get it together"
+        },
+        {
+            "date": "10년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3MlphYkt3EAE",
+            "text": "My boyfriend and I went here today, and we had an amazing time. Our server was nice and attentive. We had the mango avocado, tomato avocado, California, sweet potato rolls, and vegetable stir fry with meso soup. We both really like the vegetable stir fry. I would definitely recommend this place to people."
+        },
+        {
+            "date": "수정일: 12년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRNkluVTBnRRAB",
+            "text": "Best sushi I've ever had, super fresh and very well made. Prices are also incredible for the quality and quantity you get.\nEdit: After several more visits I can say that the quality and freshness is very…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3OFBmUzdRRRAB",
+            "text": "Always the freshest and highest quality fish. The head chef is very creative with his dishes and likes to try new things. Restaurant grades is an A and the kind of A you don't mind when going into the actual report (which I highly recommend before eating at any restaurant). Been a long time customer here. Tried other places and even might have switched to another place closer to home as my \"go to\" sushi but couldnt find anything that could compare or compete with Hyashi. The staff and service is great. They get extremely busy and have a large take out clientele as well, the phone rings off the hook but they do everything necessary to not keep you waiting too long. Highly recommend this place"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwM1lHb25nRRAB",
+            "text": "I decided to try this sushi spot, as I was craving sushi and the sushi restaurant down the street didn’t cut it the last time. I had the 3 roll lunch special. Portions were nice, and the service was great. I’ll definitely be coming back, next time I’m in the area"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRaUtpaS13RRAB",
+            "text": "This sushi restaurant doesn't disappoint. Ordered a sushi deluxe and various sushi rolls. Their sushi is always fresh and portions are relatively generous. I've tried some other places and sushi is either very small pieces or way too big…"
+        }
+    ],
+    "reviews_count": 66
+}

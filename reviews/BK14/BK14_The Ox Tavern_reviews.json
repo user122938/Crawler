@@ -1,0 +1,530 @@
+{
+    "name": "The Ox Tavern",
+    "place_id": "ChIJW5CTpjRbwokRoyMu9xFuCKE",
+    "grid": "BK14",
+    "address": "1715 Foster Ave, Brooklyn, NY 11226, USA",
+    "rating": 4.4,
+    "user_ratings_total": 611,
+    "phone_number": "(718) 284-0005",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZdFVtMVJRMkZETkZJMGFXZFZhbTVZTVdGa1ZHYxAB",
+            "text": "Very good cocktails, nice place to sit. Brussles sprouts and fish & chips were okay, but were quite overcooked."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xka1RFWjFaV2hsVWpsS1pFVkZXR0puZHpWSWIxRRAB",
+            "text": "This spot deserves attention! The personnel was excellent. The intimate atmosphere comes at reasonable prices. Without question, superior menu. Our party enjoyed something out of the ordinary."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OM2FUbDZXREpXTTFNek1tNU9ObFo1TmpCSVEzYxAB",
+            "text": "I was working in the neighborhood and I really needed to use the bathroom.  Staff allowed me use of the facilities with no questions asked. I think that stands big in a restaurant's review. Particularly when I had no time to patronize the establishment except to use the bathroom so I will be revisiting for the food. Stay tuned, more reviews on the way."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SalJqbFlVbU5YY25oM2RVOWlhbVl0WTFWTFIyYxAB",
+            "text": "Food was quite good.  Service was very good.  Atmosphere/vibe was nice for a neighborhood bar/restaurant but - NOTE - the restaurant moved in 2022, and a lot of the pictures shown are from the previous location which was, objectively, aesthetically nicer.     Reasonable prices."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnZy1hLU9nEAE",
+            "text": "Love the fish and chips"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQdnZpalRBEAE",
+            "text": "The drinks, starters and entrees for brunch were all delish and the customer service was excellent! Highly recommended!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYakpEOEdBEAE",
+            "text": "The legendary burger \"board\" menu is concise but well-honed; I went with the Alamo burger, a southwestern concoction with onion ring, fried egg, bbq sauce and pepperjack cheese. It helped to be on an empty stomach, is all I can say!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIaXZqQmpRRRAB",
+            "text": "My main gripe with this place is that the menus, both via QR and printed are unreadable to anybody without 20/20 vision, as they are light grey on white.  ADA anyone?\n\nHowever, since the actual dish choice is fairly minimal, it doesn't matter so much. Food is excellent."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMd3Y3aFNnEAE",
+            "text": "Another gem in the neighborhood. Visited a few times years ago, but passed by and realized it was restructured a bit differently. I'm glad I decided to drop in. Food and drinks were great. A welcoming  atmosphere and very friendly and efficient staff. Food service is amazing, small window of wait time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMdGNuYzZBRRAB",
+            "text": "The lady server in s extremely rude . Will no longer come here not even worth it"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkczZlZXNRRRAB",
+            "text": "Server is attentive and friendly.\n\nDrinks are good for their prices.\n\nFood is (just) okay for bar food, can be better.\nIt’s a convenient spot in the neighborhood."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxa1pURGlBRRAB",
+            "text": "Very comfortable good music. Delicious food. Awesome customer service. 10/10 recommend"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxcHNhRVlnEAE",
+            "text": "Great food. Service is good as well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWODZqd0dBEAE",
+            "text": "Dirty and expensive."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwd0pEWE9nEAE",
+            "text": "Quaint and welcoming. The food was delish. The drinks were off the charts. Recommend anyone to visit, all ages"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKOV9xT2ZREAE",
+            "text": "Been a longggggg time i haven't ate here the last time i ate here was when yall were  argyle and westminister  the fiod is excellent but gotta come again"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4aFBqdjFnRRAB",
+            "text": "Love having them in rhe neighborhood"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSbUlUNi1BRRAB",
+            "text": "It's a FAKE. They just use the famous name of a very good place, it was located in the same area, but other address  , I did like the atmosphere, food and service in the original \" The Ox Tavern\". Here - just a nightmare. Mexican food, poor service, greasy meals ( uneatable, actually...) . Terrible.\nSTRONGLY UNRECOMMEND."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtbmJPa2FnEAE",
+            "text": "Most of the photos here are from\nthe old location but the new location is super cute, too! The food is excellent, and the cocktails are delicious and reasonably priced"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlanJqS0ZREAE",
+            "text": "Food is great. Sorry they had to move locations."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1N3JhMUJREAE",
+            "text": "Amazing burgers!"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBcjQ2VnJnRRAB",
+            "text": "Best skirt steak in the world ! Deeeeelicious and beautifully arranged plate with tasty veggies. Tasty salads too. Small place . Not noisy or crowded. Charming."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNMklQWEZ3EAE",
+            "text": "**Newkirk Ave location (3 stars)\nSmall corner restaurant/bar; few tables & booths; small bar area (five or so seats) with opening to see into kitchen; two TVs + music played over speakers; craft beer (with rotating taps) & cocktails; ordered lamb lasagna (sauce and cheese were good but the lamb did nothing for me)\n\n**Foster Ave location\nOutdoor dining in street; Chick of All Trade (hibiscus) - Good; fried calamari (small pieces) - good; Chef's Omelette (three eggs, broccoli, mushrooms, onions & white cheddar) with pico de gallo & french fries - Good"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQybHJYTVZREAE",
+            "text": "Yes! Ox has risen from the demolition of their former building and is now at Westwood. It is just as great as it always was. 10/10 would recommend."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQydUw3ckZBEAE",
+            "text": "Really great service."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXdk1idm9nRRAB",
+            "text": "Lovely place great burgers shame that they’re closing. Head to Westwood Bar for the Ox Tavern 2.0 for now"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBcllxYll3EAE",
+            "text": "Fantastic local favorite spot. Menu is always fresh and surprisingly awesome."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtZzkzMUFREAE",
+            "text": "nice place if your a cuck from park slope"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtdk9iaXlRRRAB",
+            "text": "Great place for meeting especially with pandemic distancing. Great cocktails!\nFood was great. Loved the lamb tacos. Their rice and beans was amazing! Yummy yuca with garlic. If you’re vegetarian, there are plenty of delicious side dishes to create a full meal."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHcU43SlJBEAE",
+            "text": "This place won't let you try any other restaurant around. Delicious food and cocktails, highly recommended."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHN2NxSkx3EAE",
+            "text": "The Ox tavern is such an amamzing place to go to. From the amazing drinks to the delicious food to the very calm chill vibes. It’s very family friendly as well. They now offer a beautiful outside dinning area. You will not be disappointed!\n\nHighly recommend the drink stay-cation so delicious!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHNWVHVUhREAE",
+            "text": "What is there to say but absolutely wonderful. My family had the best experience with everything. The service there was professional, respectful and courteous. I felt right at home, not to mention that the food and wine was  awesome. I had…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2OE9fNm5nRRAB",
+            "text": "Love the lasagna!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2d0plTGVBEAE",
+            "text": "Always great food here. The staff is super friendly and loves to keep my daughter happy with easy yummy food for her. Been coming to this spot for years, will come back for more."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2blpfMFN3EAE",
+            "text": "the food is pretty good and the atmosphere is great but their website says they open at 2 when they do not. They should look into getting that fixed, they actually open at 4"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhc19qUWNREAE",
+            "text": "Fabulous hot wings and fries!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURhLUlPRXJBRRAB",
+            "text": "Their burgers were great! But I didn't like any of the other stuff. I didn't like the salad dressing that already came on the salad nor the fries.  I also had to wait for a long time before being served. It wasn't a bad experience but I would think twice before going there again"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURhMFBTRWd3RRAB",
+            "text": "Beware of the roaches and rats!  This is the second time we've encountered roaches crawling across and around our table while dining outside.  Tonight we had three roaches, followed by a small rat scampering across the planter right next to our table.  Sorry folks, that's a deal breaker.  Yes, I know insects and rodents are a fact of life in NYC, but I don't want them right next to me or my food.  Decided to pack up my meal and head home."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhdjVmLWVnEAE",
+            "text": "Cool neighborhood gastro pub that's serving up a cool take on Mexican-New American fusion. The seared Alaskan Pollock was surprisingly delicious."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhbmZEZHFBRRAB",
+            "text": "Great food and service and drinks!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhN2ZXaHh3RRAB",
+            "text": "Went there to have a cold beer with my buddy.. first they give us a old bottle of water..which was warm.. taste like the bottle didn't even washed out..meaning the bottle was a wine bottle..then I asked if they had Budweiser beer on tab..no…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhMWFIRVF3EAE",
+            "text": "The food here is really REALLY good. And the cocktails are also top notch. Great staff and a lovely vibe all around. This is a go-to spot in the neighborhood, and I love bringing friends. Small but solid beer selection (usually just three…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxODkzMmhRRRAB",
+            "text": "Very cool atmosphere and great food. The veal lasagna is great"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5LXE2V0NBEAE",
+            "text": "Chill spot"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxdnNMaC13RRAB",
+            "text": "Nice local place with good food and reasonable prices."
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZcU5YaURBEAE",
+            "text": "I had to revise my original review since I have frequented this place several times since my first visit. This is a really great tavern. I have never gotten a bad meal from this place. Everything I have ordered has comes out fresh and with…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM0MGVmYWFBEAE",
+            "text": "Gorgeous little gastropub. We came on a hot summer’s evening, when all the long windows were wide open, giving the place an outdoor feel with a nice breeze. The non-alcoholic beverages were delicious (I had homemade ginger lemonade) and…"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRbE9fZ0xBEAE",
+            "text": "Great small restaurant vibe the food is excellent and the staff are very engaging. The Thai curry coconut sauce on the mussels needs to be put in a bottle and drizzled on everything. Amazing portions and speedy service. There is limited seating so check ahead and see if they are at there busy hours."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxa0p6M09nEAE",
+            "text": "This was our second Sunday there last Sunday was great but this Sunday was exceptional. The food drinks and service was on point, plus they have a live band that came to play. This is a great neighborhood restaurant that you should visit."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxak1DazJ3RRAB",
+            "text": "This is a delightful spot. The cocktails are a delight and the food is fantastic. Service is also excellent! You should really give this place a shot."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpbGRlaDZnRRAB",
+            "text": "Excellent food and service.\nVery cozy outside dining.\nTables are safely spaced and separated.\nNot far from prospect park.\nA hidden jewel of the neighborhood."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxZ3RtRktnEAE",
+            "text": "Absolutely loved the drinks! Staff is helpful and I like that you can ask anyone for assistance, not just your particular server. For cocktails I highly recommend the Rose Garden and Sunset on the Slope (pictured). Also got the Alamo burger…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0Nkk3Ym1RRRAB",
+            "text": "I used to come to this place when it was under older management an called Oxcart Tavern, thought I’d give it a try with the new management. I’ll be honest; this used to be one of my favorite burger joints but it’s not the same. The portion…"
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvXzVpUkJBEAE",
+            "text": "THE OX ROCKS.\nSet on a corner of a scruffy commercial strip and a residential street of gentrifying Victorians and century-old shade trees, the Ox Cart does the chalkboard-menu and dinged-furniture thing like many other neighborhood eateries in Brooklyn. But the Ox earns its stars with its food and drink and the professionalism in place since ownership changed in 2017. The staff is mellow and attentive, the specials hearty and flavorful, and the lamb lasagna on the everyday menu worth a three-block walk any snowy night. Prices are moderate, and the televisions tuned to sports are two too many in a tight serving space. Cocktails a strong point."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzallhOERREAE",
+            "text": "Great New York neighborhood place. The ONLY place to go before a show at Kings. Sit at the bar and get a lesson on mixology."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzbE5TSUx3EAE",
+            "text": "Wanted some Biscuits for brunch and these did not disappoint. Biscuits with gravy and some mimosas to wash it all down. The Ox Tavern is a cute corner restaurant to grab some food and drinks in the neighborhood. Oh did I mention Brunch?"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpc3RlYkZ3EAE",
+            "text": "Great food and amazing service. We did not wait for water and our utensils. The waitress was on top of her game. The food and drinks were amazing for a good price."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvem9MbmFnEAE",
+            "text": "Delicious food. La Vaca burger was juicy and flavorful. The fire ant cocktail was my favorite. Definitely going back for more!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvOXBEUVdnEAE",
+            "text": "Good service. Great burger. Nice atmosphere. Best restraunt for a couple block radius."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURrcGVUQkJnEAE",
+            "text": "Beautiful cozy place with delicious burgers and wonderful employees. Thanks for the free wi fi"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNcDdmMHBRRRAB",
+            "text": "The food and the service was excellent. Went for brunch and I had the corned beef hash and eggs and a lovely simple green salad. Cleaned my plate which I rarely do when eating out. Also very reasonably priced - had a party of 6 and only…"
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "zh-Hant",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBdThQcGJ3EAE",
+            "text": "食物很好，只是地方細了些"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNndzRHbGdnRRAB",
+            "text": "Great little place with an 'old school' feel, not too noisy so you can actually hear what people across the table are saying. Food is great - fish and chips ($15) were just right, burgers ($16) made exactly how you want them and mixed…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwZ2VTUkhREAE",
+            "text": "Love the Chicken and waffles here. Great drinks and atmosphere."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNNFpuczRnRRAB",
+            "text": "Nice local restaurant.  I was happy to discover this place through a family “foodie” . The burgers are really good and the grilled Brussels sprouts are amazing.\nJust don’t order take out, it’s terrible service. Mind you, I live literally 12 minutes away by car.  I’ve order several times and each time it gets worse.\nCold everything, from my favorite Brussels sprouts not only ice cold, but it was an order of leaves and 6 sprouts and the burgers were ice cold. I purposely order shortly after 5 to try to avoid this disaster but no avail.\nI called to let them know and was put on hold , got dead silence and then ate my even colder food.\nI think I’ll pass on delivery service from now on."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4aVliS0J3EAE",
+            "text": "We liked the food. I had Chile Rellenos that were quite good. She had the Ox Classic burger- quality meat, cooked well, seasoned nicely. The frozen margaritas tasted like maybe they were from a mix, but a pretty good mix. Very friendly staff. Sat outside and the street was not terribly noisy for Brooklyn."
+        },
+        {
+            "date": "12년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnNnBmT1JREAE",
+            "text": "Pretty solid food. The atmosphere is nice, while remaining super casual.\n\nBrunch is tasty, but they also have a bar feel for the evening.\n\nThe menu selection is big enough to not be limiting without being overwhelming.\n\nGreat place in the neighborhood AND they deliver!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDckxEWElREAE",
+            "text": "Nice little spot in the middle of the neighborhood. It used to be a bodega back when I was a kid so it's not huge on the inside. Despite that, it's cozy and serves great food. I particularly enjoy the Good ol Boy burger. The drinks are also…"
+        },
+        {
+            "date": "10년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURndHVMQTRRRRAB",
+            "text": "I stopped in for their late night happy hour which wasn't too bad. Decent but small selection of craft beer at decent prices. While we didn't have any of the food it all looked amazing. I saw a couple burritos come out there were the size…"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBM1pMa053EAE",
+            "text": "Pretty quick and friendly service. Fresh food. I'm picky with my burgers but really liked my good ol' boy burger.\nIt's kinda small so not great for groups bigger than four though if it's at a…"
+        },
+        {
+            "date": "12년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnN1pXdUJnEAE",
+            "text": "Ox Cart is one of my favorite local places. While I do think their prices are a little on the expensive side, especially considering that this is Brooklyn, their food is very good. I cannot go here without ordering the pretzels. They are soft, buttery, salty and delicious. They come with cheese and mustard dip. I also really enjoy their huge onion rings, though sometimes they are over-cooked. They have a fun selection of burgers, and my favorite is the good ol' boy (bacon and cheddar). If you like your burgers on the well done side you have to stress this as their default seems to be rare. Their lamb lasagna is also very unique, hearty, and flavorful. I have had some misses here such as the whole fish...nothing special. I had brunch here twice and again, the prices are high, but the food is good. The place has a nice atmosphere too, and if there is a wait it's never more than 15 minutes."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJbkkyU0lnEAE",
+            "text": "This place is awesome. It’s Halloween night and I’m riding solo. Doesn’t feel like it though because the staff and vibes make me feel super welcome. Good music, REALLY amazing skirt steak, fries, string beans and salad, and attentive service. I’m definitely coming back and telling all my friends :). 😍😊🎃…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3cFB6TXd3RRAB",
+            "text": "Great atmosphere.  Nitro milk stout delicious. Burger. Fish sandwich and taco were great"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLZ05HX1FnEAE",
+            "text": "No stars!! But that wasn’t an option!\n\nUnacceptable waiting 1 hour for fried pickles appetizer. Then an additional 1 for our food! This is ridiculous ! They have 3 additional\nOutside seating with only 3 servers that can’t handle this type of volume. If you want somewhere near by to go to, Wattli is right down the street on Marlborough and Newkirk! Great vibe, great food, great drinks! And try the chocolate cake desert!"
+        }
+    ],
+    "reviews_count": 74
+}

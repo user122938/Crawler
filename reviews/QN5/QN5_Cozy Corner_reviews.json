@@ -1,0 +1,502 @@
+{
+    "name": "Cozy Corner",
+    "place_id": "ChIJY2G7iYpYwokRRQiY4xFcdwQ",
+    "grid": "QN5",
+    "address": "60-01 70th Ave, Ridgewood, NY 11385, USA",
+    "rating": 4.5,
+    "user_ratings_total": 473,
+    "phone_number": "(718) 381-8397",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SFpFRkZTeTFMWVcxT2QyMHRMVkozVldWclJXYxAB",
+            "text": "He is a good guy and cares about his customers"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTVgydzRUWFJ5U1dwb1JIY3RWMGxYU1RGemNYYxAB",
+            "text": "very nice outdoor area, went on a friday night and it wasn’t too packed. service is quick with 2 bars and there’s a great dive bar ambiance. $7 beer shot"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ndFZHaDFiVWszYm5sTFYwZGlSbUo1YkdKS1RuYxAB",
+            "text": "Yummy yummy in my tummy"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wVVQyTk9WMmhSTm5GQ2VqUkpialZzVFhKSFpWRRAB",
+            "text": "Waited for more than half an hour to get seated yesterday. First time to eat at this restaurant at Cold Spring, NY.\nSalmon burger is very good but the fries are soggy and mushy. The catch of the day fish - cod didn’t taste fresh at all. The salad veggies with strawberries and blueberries kinda wilted."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBNU9ERnhMV2h2UzNsRFQxVlFWVll3WTFGVU1uYxAB",
+            "text": "Lea and Jason are the best!! This place is great"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xS01VbEJPRmN4T1Y4eU4zRjFPV3RaZUZkQ1dHYxAB",
+            "text": "There was hair in my food and the servers were disrespectful. Do yourself and favor and don't come to this place."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGZlJXZGZSMGxhVUVST1JrcHdSMWhUYms5alkwRRAB",
+            "text": "Great local bar with solid vibes"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGdU1UUnJRbEV6YVUxU2EweG1jbXhyUVdGRk9VRRAB",
+            "text": "This all-too-historical bar in Ridgewood had my girlfriend and I deeply frightened by the menacing glares from staff and patrons that screamed Sundown Town... just to pick up a pizza that we then felt too disgusted to eat.  This…"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WU05WOVlZV2hET0dsalowbGxWVWRQZHpFd1VrRRAB",
+            "text": "Sooooo cozy!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KSloyZG9kbGx2WjBkT1ZEZHlWa1p2V2xJeFpYYxAB",
+            "text": "super cute place. big. has indoor and outdoor seating"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMdXU1WTY0aGNHaWpBRRAB",
+            "text": "Pizza slaps! Great atmosphere, good drinks. And tons of games to play. Good place to have a casual hang with friends. Indoor and outdoor seating."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSNFdFSmtOV3BaVTNKdVNXWnlhMHRTWlRkalpFRRAB",
+            "text": "Went to cozy corner on a whim because I was getting my car serviced nearby. Pleasantly surprised with how nice the staff was and how great the food and drinks were! Great service and a cute little spot with a pool table. I’d definitely go back."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPRHNqN0x3cU5ieHFBRRAB",
+            "text": "Been coming here for years, great spot, name matches the vibe, amazing food and great bartenders!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvNnFmeVRnEAE",
+            "text": "Lots of outdoor seating & a nice deal for a free slice of pizza with drink during happy hour. But watch out for a pack of local parents who bring 1000 kids during happy hour and let them run wild around you"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvdWNQc2tBRRAB",
+            "text": "Free slice of pizza with every pint of beer."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMU9iN3dnRRAB",
+            "text": "I would go again and again"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJMktTMjFBRRAB",
+            "text": "The place has this welcoming atmosphere and the service is excellent. I had the spicy taglioloni and I really enjoyed it, I would highly recommend!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRbnVhVHlnRRAB",
+            "text": "Me, my husband and all of our friends love cozy corner so much! We come here all the time and the service is always fantastic. Small menu that is delicious and effective, we have tried everything on it and nothing disappointed! The atmosphere here is the best, everything is super well thought out, clean and perfection. \"Cozy's\" is the perfect name for this spot! You can tell the owners really care. We will continue supporting our favorite bar for as long as we're here."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRc0tqcC1RRRAB",
+            "text": "2 Moscow Mules ,( Cheap Sea Ice Vodka brand 13.99 bottle)\n\n3 Shoots\n\n75 Bucks ?\n\nThis Place is over Charging ! ,  No wonder why alot of Patrons are going to other bars"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnbm9hX2hnRRAB",
+            "text": "Great place to get a pizza and a beer and a cigar outside"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfNGFPeGZREAE",
+            "text": "Best joint to invite all your friends from rodgewood and snook cigarettes"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmLXEzSnFnRRAB",
+            "text": "We wanted to write a positive review, but unfortunately, our expectations were not met whatsoever. It seems like the owners of this establishment have made irrational rules to try to win one over on their customers spending good money. After spending nearly $50 on food and then another $50 of drinks, husband asked for KETCHUP, and was told it would be a charge!!! For frickin ketchup?? This might not seem like a lot, but when you go order a $15 burger, don’t you expect ketchup? This alone was actually enough for us to see that the whole staff disagrees and the owners have a distorted mentality on what good service is. The server and bartender were absolutely wonderful but should not have had to be on the other end of confusing customers asking for something as simple as ketchup. We are long time bartenders and neighborhoodies, not bougie transplants…. Kinda sad. Won’t be back."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmZ0tiVml3RRAB",
+            "text": "It looks like a place where I wouldn't order anything more complicated than vodka soda or draft beer. But... Bartender Jelka always makes my Boulevardier memorable,worth every penny and even more than that. she always uses the best ingredients and always hits the soul of the cocktail. It’s always a pleasure to come to her bar knowing that she will make my night just the way I want it, and I thank her for that. Whoever wants to try the taste of original cocktail recipes, her shift is the right place for that…"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmOW9QMDJ3RRAB",
+            "text": "Cozy Corner has always been one of my favourite spots in the neighbourhood. The atmosphere is warm and inviting, and the cleanliness of the place really stands out—credit to the owner, who clearly takes great pride in maintaining the space.\n\nOne of the main reasons I fell in love with Cozy Corner is their amazing hand-cut fries and chicken wings. Unfortunately, I’ve noticed some inconsistencies in the quality lately. They’ve started serving frozen fries instead of the hand-cut ones, and the wings’ flavor has changed—sadly, it’s a noticeable downgrade.\n\nDespite these hiccups, I still love Cozy Corner for its vibe and the care the owner puts into the establishment. If they can bring back the hand-cut fries and restore the wings to their former glory, this place would be absolutely unbeatable. Fingers crossed for those upgrades because I’d love to see Cozy Corner return to its full potential!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzc2VTSXFnRRAB",
+            "text": "Cool bar, fun atmosphere with a ton of space! Nachos were just ok :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYLWN1V0R3EAE",
+            "text": "Had brunch plans with my girls on a Saturday back in August. Our plans got changed and we decided to revamp and stopped @ Cozy Corner.\n\nNeither of us, was very hungry or had been to CC previously. We decided to keep it simple and order what I affectionally call “kids meal items”. We each got chicken tenders and fires to share.\n\nThe derive was good and the space seems cool. I will definitely return for the bar vibes and games.\n\nJust A Note:\n\nThey offer a free slice of pizza with every drink purchase of $7 and more."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYdnBxVl9nRRAB",
+            "text": "free slice of pizza with every drink, need i say more?\n\nand idk what happened but the pizza got way better recently. don’t sleep on cozy corner unless you rich and hate free pizza"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYcEliOERnEAE",
+            "text": "Even it takes a little longer to get your food, but delicious foods 😋 nice gentle people"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3bTRiTDhBRRAB",
+            "text": "Chill spot to pre game, or watch some ufc on a weekend. They should get bigger and more tvs though."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3ODZ2N2R3EAE",
+            "text": "Burger was good, classic though regined dive bar feel. Good service."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3b2R1VEdREAE",
+            "text": "cute and trendy local bar with hip people and good vibe. free pizza with $7 drink"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3NHJ2bjNBRRAB",
+            "text": "Great food and atmosphere!  The fresh cut French fries and nachos are a must.  I can't wait to go back to try other menu items.  Friendly staff.  Great prices."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3cEx6cGF3EAE",
+            "text": "Went this past weekend and had a great time. The nachos are amazing, 10/10 will come back for those alone. Also very cool vibes, we sat in the back corner which has old movie theater chairs!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNibjZEZmRREAE",
+            "text": "I had a really nice experience here! I am celiac and the staff was very helpful about telling me what I could eat and what I couldn’t. They informed me most of their menu can be done gluten free as they have gluten free bread. We had excellent service and the atmosphere was exactly as the title says- like I was in a cosy corner! Definitely recommend going if you’re looking for a lunch in cold springs!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNidFAtNkdnEAE",
+            "text": "Pizza is freaking amazing"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyMlkzX05BEAE",
+            "text": "Just to note - I've been living locally for a decade and have been to this bar probably 80-100 times, just because its very near by. Nothing to write home about but a solid spot I would tell friends to meet at - until this Saturday night:\n\nI had a friend drive over 45 minutes to meet me there later on in the night. He's been to the bar many times himself too. He texted me, very upset before I got there - because a worker in a cozy corner shirt saw him walking up to the bar and got in his face and asked him \"for his workout routine\" and continued to pester and bully him,  following him into the bar. My friend is a much larger man so this was clearly just an attempt to belittle him, fat shame him and hurt his feelings for literally no reason  whatsoever- and congrats! You did it Big Man!\n\nThis was completely umprompted. My friend did not say a word to this guy and was alone and respectful. He ended up just wanting to go home and left before I could even leave to get there.\n\nI was really angry about this happening to him for no reason (he's an absolute kind and gentle guy) so I called the bar and was put on to the manager Zef. Although he offered to have us come in and have a beer on him (why, so that guy can laugh at him again??)  - he didn't seem to interested in finding out who said this to my friend or why. He mentioned he is not wearing a cozy corner shirt so it wasn't him - but he had 4 guys working. I think he was somewhat trying to be helpful and remedy it - but more so to get it over with. I understand he's not involved personally - but these are his employees who represent him.\n\nI'm not coming in for that drink - and after a decade of coming here I won't anymore - we'll just meet at Myrtle Pub of Flying Fox of Ginnys all of which have better beer and kinder staff.\n\nP.S. ya'll have the worst Guinness pour in all of BK and Queens (coming from a native Irishman) and I still used to come and drink it anyway just to hang out here!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMczVqOFBREAE",
+            "text": "It is a beautiful place. Very recommended"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6OUpua0RREAE",
+            "text": "I wouldn't order food for here or go on a not beautiful day. The outside is wonderful"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5eWRqdHR3RRAB",
+            "text": "Love their pizza, not too thick, not too thin & not overly cheesy. Fries are good also. To drink they have mostly beers, but also sodas. I had a margarita, was a bit weak but not bad."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUMnF2cFNBEAE",
+            "text": "The female Bartender is the absolute worst! Served 5 different patrons before me, eventhough i was politely standing in front of her with my girlfriend. After the 5th guest,  I simply asked her if there was any particular order to serving guests, because i was here before the other guests and she responds by rudely saying oh you want to complain and then turns her back on me and serves another guest. After that, I left. Obviously, that will be my first and last time there. I'm a general manager for Serafina group and if any of my staff treated any of my guests like that, they would be written up."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUa0tlWWZBEAE",
+            "text": "Great staff, great service and a perfectly enjoyable environment.\n\nWill definitely go back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqb3NiclhnEAE",
+            "text": "Great neighborhood spot...Can watch sports any day of the week...It's an experience..."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqd3BITWxBRRAB",
+            "text": "The glass of red and free slice is a good snack!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREOGQ3SnFRRRAB",
+            "text": "So cozy. Happy hour beer with pizza is amazing🍕🍕🍕🍕"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEdV96ZHRRRRAB",
+            "text": "They give free pizza when you buy drinks with shots. Lowkey place to chill and hangout with your friends."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5eTdYV3JnRRAB",
+            "text": "Brunch is bananas here. Great food and a great atmosphere. They just started doing brunch again and the wait was well worth it.\nSo far I've had the bacon carbonara, eggs Benedict, the tricolore pie, and they are all absolutely delicious!!! However, the rockstar of the brunch are the AMAZING FLUFFY PANCAKES!!!\nLet me break it down...\n\nWhether it's brunch or dinner, the Bacon carbonara is a bang on pasta dish. They do something a little different than a regular carbonara, they use asparagus instead of peas, and it's topped with an egg yolk, which makes all the difference in the world.\nNot only interactive, but also makes the dish taste really fresh, but really brightens up every time you break the yolk. $18\n\nWhat makes the difference in taste for the Eggs Benedict, is they use sourdough toast for the base and the Hollandaise sauce is their own delicious blend of ingredients. Whatever it is, it's and mouth full of joy with every bite. $16\n\nThe Tricolor pie, has a great combination of ingredients that make this pizza, not only filling, but the delicate flavor will make the taste buds sing with joy. The prosciutto is perfectly cured, the tomatoes are super thinly sliced and the arugula is the perfect amount of peppery flavor that creates a full bodied finish.  You can get the 13' for brunch at $16. If you want it for dinner or a larger party they also make the 18'\n\nBut the Fluffy pancakes though!!! You can either have these detectible cakes as a dessert for the table at brunch or you can have them for yourself. Either way these pancakes are so light and fluffy, they giggle when they are sat down on the table. I'm not sure what this piece of heaven is made of, but they are \"Crazy in love\" delicious!!! They come with some tossed blueberries and strawberry sliver and maple syrup. It may look light and delicate...because they are, however the flavor they pack is mighty!!!\n\nAll in all, the new brunch menu at Cozy Corner, is top notch, and I will be going back for more!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaOEtfcWNREAE",
+            "text": "I was there on the night of September 13, the service is not friendly at all, the girl who was there that day did not bother to assist us and offered us the bar options. She seemed to mind being asked. Draft beer is $8 and comes with a personal pizza. Honestly, they shouldn't offer pizza because only a piece of dough with tomato sauce and the cheese is very scarce, you can see it in the photo; It is preferable to pay for pizza and for it to be of better quality. The facilities are nice but the staff is not."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSd08yMzZRRRAB",
+            "text": "Today have a baby shower at the cozy corner it was a smash everyone that came love the place said is was so nice and cozy if I could give it 10 stars I would it was a beauiful place great food the workers there were nice and jelka the lady…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4b3AtdklnEAE",
+            "text": "Cozy Corner is a wonderful bar in Ridgewood.  Great cocktails and beer. Really good bar food and a very generous free personal pizza with most cocktails. Yes, FREE.\n\nThe owners and staff are awesome people, Shout out to Anna, a fantastic bartender and lovely human.\n\nYou can tell a lot of time, money, love and effort has gone into restoring the bar. A great space for\na chat and drink with a friend or hold a party. They have two bars within one.\n\nWell worth your time to check out this local treasure and make some new friends. You can sit safely outside to eat and drink.\n\nEnjoy"
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURrc2M3YnRBRRAB",
+            "text": "Great and \"cozy\" place to hang out. Recently remodeled, reasonable priced drinks and free pizza with $6 drink. Their Margarita pizza is awesome"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0LVluTmpnRRAB",
+            "text": "They werent kidding when they called this place “Cozy Corner”\n\nThis place was awesome, its spacious has that genuine local bar feel where everyone knows eachother, the food was delicious and our bartender Briland was ontop of everything\n\nThe Salmon and Mash is what I had, with the creme Brûlée, definitely a must try if you’re there!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzLXBtNzFnRRAB",
+            "text": "Stopped by here last night to get a late night bite and in addition to the free pizza the chicken tenders were nice and crispy. What's really cool is that the bar has been around since the start of the 20th century. Nice to see a joint from old NY still in the game. The original crown molding is one of the best features."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXNzhLbVpnEAE",
+            "text": "Really good drinks and their pizza is delicious! I got the spiked lemonade, and my boyfriend got the gin fizzy drink and both were great!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ4a19IU25nRRAB",
+            "text": "Such a great spot that offers a great deal: free slice with any cocktail! Beautiful setting with outdoor dining during the pandemic."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwdDlENjV3RRAB",
+            "text": "It’s a cool  bar with a pool table. The best is you get a free pizza with your first drink! Awesome deal! Guinness on tap ! Lovely! Only downside I got the same drink for different price on the second round!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPdElxM0NnEAE",
+            "text": "I walked in here on a cold February day to escape the elements and continue a first date I was on. We were met with incredibly kind service, great drinks, and phenomenal wings. We sat for hours talking and when I needed to make a move and play a song, the bar tender was kind enough to let me play it.\n\nA year and a half later, my now fiancé and I poetically walked in for our engagement party where we were again greeted by an incredibly accommodating manager, friendly and generous owner, and and overall lovely neighborhood experience.\n\nI will be coming to this homey bar on the corner for as long as they exist. They are now an integral part of my story and they helped make dreams a reality.\n\nI highly recommend it if you're looking for a place to relax, drink, watch a game, play pool or hold a life changing event. If not for the good drinks and environment, do it for the incredible staff that makes you feel like you can finally just relax in Cozy Corner"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzdVlYZFFnEAE",
+            "text": "Truly is Cozy setting, had a sandwich and was good. Array of drinks and free pizza with $6 worth of drinks."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKcHBQdTdnRRAB",
+            "text": "Needed a day to myself and stopped at this place for a quick bite and drink after a day at the spa. The staff there were super nice and went above and beyond to make sure I was happy and satisfied with my order. If you’re looking for a quick stop to get tasty pizza.. this is it."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwdkotN0d3EAE",
+            "text": "07/30/23: unwelcoming unprofessional. Wasted your money on billboards. Do better. Was not cozy at all. No sense of urgency. Unfriendly service. Not a busy Sunday but still waited 2 pool games worth before I was even acknowledged. Wanted to purchase a glass a of wine with pizza but the older lady or \"hostess\" couldn't wait to turn down work. Hung out by the bar to chit chat. Do better @ MNGMT. Pull the weeds from your lawn then promote better service.\nMe and all my homies hate C.C.\nWent to the nearest pizzeria and my day was made. Do better."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4c2UyZVFnEAE",
+            "text": "Outdoor distanced food and drinks. Great staff (thanks Anna) and a relaxed vibe. Happy to have this place!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNjNGNlNFZBEAE",
+            "text": "This is a comfortable and welcoming neighborhood institution. It reminded my father and I of his stomping grounds back in Winona. We came here on Christmas and I’ve since I’ve come back to enjoy their…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNeDhlSjRBRRAB",
+            "text": "I've been here a few times before and it was nice. The food is good, the owner's a sweetheart, but the bartenders weren't very attentive. Even though it wasn't that busy each time I went. I decided to go back again to watch the game with…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBbWRUZW5nRRAB",
+            "text": "This place is truly cozy. The \"usual crowd\" are all very nice people. The owner and his wife are amazing!!! Having parties here are great. They set everything up so nice for us and gave us a great deal!! I would definitely recommend having your next party here!!! Had a great time. And they have a pool table."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDaGE2V0RnEAE",
+            "text": "Anna is the best bartender ! The staff is so kind and the place is so clean. They honor the social distancing and they make you feel like family. The drinks are perfect and the food is even better. I recommend this place to anyone looking for a great time and the bar you always wanted to go to."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQydnF6QzlBRRAB",
+            "text": "This is one of the best bars in Ridgewood! Food, drinks, and service are always on point. They have tons of outdoor space that’s well heated during the winter. Every drink comes with a free slice of pizza which is always delicious :) I highly recommend Cozy Corner to Ridgewood locals and visitors alike!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSOXBmR1NREAE",
+            "text": "It is a cozy place to hangout. Over priced on the drinks for sure though. Would be 5 stars if the drinks weren't so expensive. I've seen better pricing in Manhattan but I suppose there's a mission to change what Ridgewood use to be"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnMGZTM2lnRRAB",
+            "text": "Updated my old review to say the pizza was medicore but as the owner commented the place has been remodeled, since my first review. There is plenty of space and much more on tap.\n‐-------\nA nice bar, beers are appropriately priced for the neighborhood, pizza is bland though, I left half the pie there didn't even bother to take it with me but I'll try it again."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzak9EbDVRRRAB",
+            "text": "Vibes are super sweet and Anna is super sweeter! She has great energy, as does this establishment. It’s very clean and they have great prices/deals. If you’re in the area, like your drinks, like bar eats, stop by. You’ll def regret not doing so"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPdEwyZTNnRRAB",
+            "text": "We held my daughter's co-ed baby shower here a Sunday afternoon in May. It was supposed to be outdoors, but due to a rainstorm we moved it inside. The staff could not have been more helpful or kind! They allowed us to put up cheesy…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsbzg3RURREAE",
+            "text": "I visited the place many times and never had a problem but after my recent visit with my 4yer old niece I was very disappointed . She noticed the piano in the middle of the room and tried it. Right away I was approached by the staff with bad attitude and told that this is expensive equipment and should not be used?? 🤷‍♂️ I wish they posted no kids allowed at the door so kids would not deal with the staff. Very disappointed…"
+        }
+    ],
+    "reviews_count": 70
+}

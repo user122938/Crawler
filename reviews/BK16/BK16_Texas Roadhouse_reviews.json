@@ -1,0 +1,488 @@
+{
+    "name": "Texas Roadhouse",
+    "place_id": "ChIJcxWF0LiWb4YRvjW4vweCAzA",
+    "grid": "BK16",
+    "address": "3400 Frontage Rd #77/83, Brownsville, TX 78526, USA",
+    "rating": 4.6,
+    "user_ratings_total": 4847,
+    "phone_number": "(956) 554-9900",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1NVJITmtaelJwUVVwV1lXNXVNR3RxUzBwVVpYYxAB",
+            "text": "Wrong order."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCM1l6WnRjR1o2WVVadk1ESTRVSGN0UVdoeWEyYxAB",
+            "text": "Had couple orders for pick up, curbside was fast food was good. Had a minor hiccup but the manager Andrea provided a reasonable solution. 10/10 best steaks in town. Friendly staff, amazing customer service"
+        },
+        {
+            "date": "6일 전",
+            "language": "es",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ONFRXOVBla2RZV1RWTFFtMTRaMVpVTUc1UWRXYxAB",
+            "text": "La espera fue demasiada, 45 minutos para una mesa y otros 30 para la comida, realmente fue demasiado"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214WFUzRjFPVFZSYzJwSkxYVkhSVXhZUjBkTlRuYxAB",
+            "text": "Great place, clean and inviting. Staff is very friendly and knowledgeable. Food was amazing! Highly recommend for date night or family night!"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTbWNUYmRnEAE",
+            "text": "Always good, never had a poor experience there"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWGVGODJWMUJRWm5CNExXcHRSbXQ2VVdzdGVuYxAB",
+            "text": "No funciona el a/c"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOaFMwbHJhVTlZVFVKVk4ySllRbTU2YW1sSFpIYxAB",
+            "text": "Parking was better."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSSVJrNXViREZyTmtSUGFURm5MVEJOWlZkbVdrRRAB",
+            "text": "Good food and great atmosphere!"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kd1MzSk5jemhFV1dOdFduWnFSV0ZVZDNacE9VRRAB",
+            "text": "It was a great experience at this location.   The service and attention surpassed my expectations.   Great bartenders and manager lady was coming by and checking on various customers at the bar,  myself included.  Keep up the great work and attention to detail.  Will be returning when I'm back in town."
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxcU5FeFhYM1JKYlRoU1MydE5UVWswTm1SeU1XYxAB",
+            "text": "Los mejores panecillos de Texas!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3NVdFeGhlbk5YTjNSeFFYTmFiR1JMWkVoeFJIYxAB",
+            "text": "Just wow, I absolutely love this place, the food was beyond amazing and the service was great, 100/10"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWa1NFRkNTa2haYlhBMVVWODNhblJ1TFVOZllWRRAB",
+            "text": "Grab a sirloin!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toV1ZVWXdXSHBsTkd0bGNHSXlXbXAyV0VwSFIzYxAB",
+            "text": "Got my order for pick up and when I got home there was a fly in my order that left maggots. It was one box but completely unsure if my other food was contaminated. Called and got a refund but was a really gross experience and it sucks because I really enjoy their food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VM2NXODBWWGhLUmxOamR6SjZTMFpJUkVaYVZFRRAB",
+            "text": "Too packed and sometimes uncomfortable. The food is always consistent. Service is always quick and good."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTmVuRjVNREV4VVY5T2J6WlVTRlZHVUMxUFZHYxAB",
+            "text": "Muy bien ambiente y buenas las hamburguesas"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLWGY5TEw5LV9LYlhREAE",
+            "text": "Siempre será mi restaurante favorito"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkRVdXWmhSbU5YUjNKNExXMUZSV1J0ZVRGcU0wRRAB",
+            "text": "We had the pleasure of being served by Sam G tonight, and she did an outstanding job. From the moment we were greeted, to the attentive drink refills, to our hot and delicious food, everything was excellent. Sam made sure all of our requests were met promptly and checked in often to ensure we had a wonderful dining experience. Thank you, Sam, for your excellent service!"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURReHRpZm53RRAB",
+            "text": "The attention when you walk in until you leave. Food is cooked to your order. Cold drinks for adults and of course for the family."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KU1VVcFlTRFZtYW1wTmR6VmtabW95U0dOTFRGRRAB",
+            "text": "Kinda-of loud, maybe because it was Saturday."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SclRtcG1NMUZPVUMxM2NWVTRORGxLZEdsSGEwRRAB",
+            "text": "We all ordered steaks at different levels of doneness (temperature). Everyone's steak came out as ordered and we're delicious."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZMmJXRkdiM2xFUmpkUVlsUTNkR28xVEVwMlZIYxAB",
+            "text": "First time going.. was awesome.\nService and food were top notch."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FM2F6Um9NMnhNU1ZkRWVEZFhWM1pzYzNaV2VtYxAB",
+            "text": "When there was balled up hairs in our bread that was being eaten management acted like it was no big deal 😭…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25weU0wVkdTMFZ6UlRGWGFVZFpNVEp5WlZnM2NXYxAB",
+            "text": "Well it was great as always! The service food! And the beer! JJ the bartender was awesome! I visited three days in a row!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkVGEwMTJNbXRhUjI5Zk1XOUphWEJ5VTB0VGNWRRAB",
+            "text": "Great food and great service! Huge shout out to one of the manager’s, Yvonne, for her outstanding hospitality and service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WbGFYbDJhV3A2Y0ZkWFVUUllTa3hJWnpnMlNIYxAB",
+            "text": "A little bit of a long wait, but very good food Everything was great"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWQ1dFVnpOSGs1YlZsaU5VZEJhVTh0YzFkVGVFRRAB",
+            "text": "Steak was great"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6czQzUUJBEAE",
+            "text": "Texas Roadhouse has been a favorite for years, but my last two visits, the staff didn't wait the table in timely way.  Though many staff are wandering and standing near their station, they clearly avoid any eye contact with guests. In the first case, it was 10 min before anyone came to take my order, and then today, the start was good but wait staff never returned toward the end of the meal.  I intended to get a to go box but after waiting. And waiting.. about 5 extra minutes after paying at the table top kiosk.. We finally just left.      I'm getting less inclined to go there"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMGFHcFBaRGhaT1dOU01YSlhOVTlzVVhwWVIzYxAB",
+            "text": "It’s just because of parking. It’s always no parking spot!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOcmJrbFNYM0JhVjJOdldsVlBlSG94VWpkb1UxRRAB",
+            "text": "Another great Roahouse. I travel a lot, these guys are one of the best I have been too!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwNFlXVnNlREU0VFdOU2FtdHVXa1JKT1dOSE1XYxAB",
+            "text": "Sat at the bar and the experience was great from beginning to end. JJ and Rogelio behind the bar took great care of me and even the manager greeted me and checked on me. Definitely will be coming back and definitely recommend. Thank you"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGV2NFbEdjbnBwYVhsa1VXb3lZbGhqUWxndGVWRRAB",
+            "text": "One if the best steaks I've ever had.   Offered to buy the cook a beer and he politely declined because he doesn't drink.   I respect that even more.   Service was amazing and the food was delicious."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5blVuUlRVV05GZHpNeFNFZEVVVEIzZWpSVFExRRAB",
+            "text": "Fantástico lugar!! Todo muy ricoo"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoRlh6SXpUV2hxU2psTGRuTkpOSGxWTVdod2NVRRAB",
+            "text": "I won't come back. Every time we have either dined in twice or ordered online again twice its been garbage. First online I did for pickup at 9 schedule ahead. Did not arrive until 930. Five cars were handed their food before I was given mine. We were given at that time to coupons at which I called in advance to ask how to use them the manager told me I just present them to the to go people. May of course did not compensate the entire order it was only for the entree so I still had to pay for the appetizers on top of it they set a limit to this coupon after having to wait past my time and getting crappy food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRmMweEpNbWMxVTNSbllVbEpWMk5YTFdSUWVGRRAB",
+            "text": "No stars, ramiro manager very bad attitude, after I Went today and made a curbised pickup on a loaded sweet patatoe, it was missing caramel and marshmellows, the sadness to get home to eat and ingredients missing its very disapointing,…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WdVltdFVMVkk1T1VoZmMyaEZMVEp2V1hSblUzYxAB",
+            "text": "My family and I will NEVER patron Texas Roadhouse again. 1 1/2 hours for a curbside order. Had to call this location a total of 11 times. My order was still incomplete. On top of everything parking is ridiculous and I couldn’t even park in a curbside parking space. THIS IS THE ABSOLUTE WORST RESTAURANT EXPERIENCE I’VE EVER HAD!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KdVQzRmZXRll5TVd3NGNFRlVhVkUzWVhOTFJHYxAB",
+            "text": "Working at Texas Roadhouse has been an incredibly rewarding experience. The environment is fast-paced, energetic, and fun — exactly what you’d expect from a company that values both its guests and employees. One of the things I appreciate most is the strong sense of teamwork and camaraderie among staff.\n\nManagement is supportive, approachable, and genuinely invested in helping team members grow. I especially love working with Kiwi and her management team — I’ve never had a group of leaders who are so down to earth and genuinely want to help others succeed. They lead with heart, and it shows in how they treat both the team and the guests.\n\nAnother huge plus is how flexible they are with scheduling. They really work with my availability, which makes it so much easier to balance work with life outside the restaurant.\n\nWhether you’re just starting out or looking to build a long-term career, Texas Roadhouse is a great place to be."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sMFVISnhUblZOTkRWNFFYSkNkMGxIWDNsU2RrRRAB",
+            "text": "Sirloin steak en término medio súper recomendado, rojito pero súper suave y delicioso! 😍"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkWk1sbERNVXBzUVZCS00ySXRiV2R0UTFKRmQwRRAB",
+            "text": "Food was spoiled and smelled disgusting."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oVVRqVklha0ZuZFVkelZGZGlWbXRPUkdWV1gzYxAB",
+            "text": "My favorite place to eat in TX!"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCNnZ6YlJnEAE",
+            "text": "저렴하고 양질의 스테이크를 먹을 수 있습니다.서비스도 좋아요."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GbVVtcEtVRGxFV1VKWlV6bG9PVVowUjBwSlRsRRAB",
+            "text": "Texas Roadhouse is a solid choice when you're craving a hearty meal and a casual, lively atmosphere. The highlight for me is definitely the fresh rolls with cinnamon butter—they’re served warm and are easily one of the best parts of the experience.\n\nThe steaks are generally well-cooked and flavorful, though depending on the day, the consistency can vary a bit. When they get it right, it’s hard to beat for the price. The ribs and grilled meats are also good—tender, smoky, and satisfying.\nThe sides are decent overall. Although my go to choices are usually the mashed potatoes and the drained corn.\n\nService is usually friendly and fast, though when it's busy, expect to wait quite a while to be seated. That said, the staff generally tries to keep things moving and make sure you’re taken care of.\n\nOverall, it’s not fine dining, but it delivers on what it promises: a fun, filling, and affordable meal in a comfortable setting. If you go in with those expectations, you’ll likely walk out full and happy."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwck1uaDVZM0JXWlMxWlIwMURPR2M1TjNCamJuYxAB",
+            "text": "I may have been to a roadhouse when I was in my teens, I'm almost 40 now, but this was my first time that I can truly say I've been inside. I have ordered door dash before but that's a different experience. I highly suggest going in to sit and enjoy your meal. I first went to Chili's, I walked out due to lack of service and unable to get my drink order correct. Came here, I guess I had the look of confused cause they knew immediately I hadn't been there before 😅 They gave me a thank you gift. So glad I came, very friendly service. Very attentive service, my drink never got under half! The food was amazing! Five stars 🌟 and I never give out 5!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNR3c1UFAwLWQtMmNnEAE",
+            "text": "What can i say about roadhouse best restaurant in Brownsville always pack. You know that you will take a while to sit down. All the food menu its really good i can say that i have try all the menu and everything its really good. My only bad comment it will be on the restrooms. Boys restrooms are really bad no cleaning, water or pee all over the floor slippery floors and i don’t see someone taking care of. Thats every time you go to roadhouse always the same. Even smells bad."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOM0psNlgwNGIzcFdREAE",
+            "text": "From the friendly service to the incredible food, Texas Roadhouse never disappoints. The steaks are juicy, the ribs fall off the bone, and those warm rolls with cinnamon butter? Unreal. Great portions, fair prices, and a fun, lively atmosphere. Can’t wait to go back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNS2I4YVczdjhTbTlBRRAB",
+            "text": "I’ve loved going here for years and the first time in this specific one - they gave me a thank you basket as a first time customer and the steak was amazing as always"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoOXUzVzR3RRAB",
+            "text": "Well, I came in and looked awesome deceiving. Don't let the presentation fool you. At first, it was too bloody, and then they\nTook back to hard and dry o gave up. Yet $21.00 for this small 8oz. Was NOT WORTH THE MONEY. They did everything in such a hurry that when they came back, my shrimp were cold, so I could not enjoy a well cooked hot meal. I was just disappointed that I left it behind and was not even going to bother. But I won't order it again.\n\nI was pretty impressed with the pull pork, not to shabby. Nor to dry yet moist enough and  well served and got full. Not to mention, I requested that the cooked Jalapenos add that extra taste. I'm not a fan of the sauce they give you, so I ate it mixed in my baked potato and was very good. My sides were the baked potato normal butter and sour cream and corn. I will order this once again when I go back. Thank you, Texas Roadhouse, or should I say the cook!."
+        },
+        {
+            "date": "6달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURva0pLTG1nRRAB",
+            "text": "Die Wartezeit war schlimm, aber es hat sich gelohnt! Erst 30min bis der Pager piepste, dann  15min bis wir zum Tisch geführt wurden, dann 25min nach Bestellung bis das\nEssen serviert wurde. Unsere Bedienung war sehr freundlich und aufmerksam, das Essen war lecker."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQcXRhclZ3EAE",
+            "text": "Yesterday, November 22, I went with my family to celebrate my wife's birthday. The waiting time was more than an hour. Once we got to the table, I asked for information on some recommendations. The waiter didn't help me. When we finally decided to order two mini hamburgers, when two of them arrived, the bread was burnt and super hard. In addition, the meat arrived cold on the adult plates. The waiter was inattentive when it came to refilling our drinks and offering me some other additional dish.\n\nWe are very disappointed because we decided to go to your place to have a very nice time but we did not leave happy, the children did not eat anything but the meat\n\nThe potatoes are also very cold"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoM2N5NkJBEAE",
+            "text": "What can I say, we love this place. I had the steak kabobs and they were perfectly cooked. I especially love the tangy steak sauce on my grilled veggies too.  I decided to splurge and I ate two rolls!  My son and his beautiful girlfriend shared the 20oz steak loaded with mushrooms and onions.\nDaniel was an excellent server and very easy on the eyes.  Who needs dessert!  😁"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5dzdlNmFREAE",
+            "text": "Super attentive service by a fairly young crew. Steaks, good as usual and drinks good too.  Of course the rolls with the cinnamon butter are just beyond delicious. I love the bagged peanuts since I get to take them home to eat later."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRbjRxem5nRRAB",
+            "text": "Its Texas Roadhouse, good food, great vibe and outstanding service. 20oz bone in ribeye is a go to with grilled onions and a grilled jalapeño, simply the best bang for your buck steak anywhere, Alexander steakhouse has nothing on TX Roadhouse. Chicken fried steak is delicious as well. Party of ten got seated very quickly and had food on the table within 30min of arrival. Outstanding service from a reliable steakhouse."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnaE1hakRnEAE",
+            "text": "They have really good bread, it looks like they beak it at the moment.\nThe food is good, and the portions are enough.\nThere are enough tables, and the service is acceptable."
+        },
+        {
+            "date": "1년 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5NThqN093EAE",
+            "text": "遠從紐約來到這邊，似乎是這一帶區域的最佳選擇，服務人員很熱情，食物很棒，根本吃不完，還會再來"
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1eG9XSXVnRRAB",
+            "text": "Los platos están bien servidos, el pan es delicioso y siempre calientito, los meseros te atienden muy rápido y siempre están al pendiente.\nMe encanta ir a este restaurante, tiene el sabor típico del estado de Texas.\nEl único detalle que vi, es el baño estaba un poco sucio y hubo que esperar para entrar"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3dk1PcTdBRRAB",
+            "text": "Se tardaron un poco en darnos un lugar a pesar de que el lugar no estaba tan lleno pero la atención siempre muy amable y atenta.\nEl sabor es excelente para mi gusto y siempre dejan la carne en el término que yo la pido.\nEl tiempo de espera de la comida fue razonable.\nNuestra mesera Zoe muy atenta y pendiente de que no nos hiciera falta nada.\nLas porciones están muy bien servidas, las bebidas muy ricas, todo excelente! 👍🏼"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtNE51LTV3RRAB",
+            "text": "Great place to have dinner in Brownsville. The restaurant has always a nice atmosphere full of people, sports bar, tv with games on, staff is very friendly.\nFood is quite good, the meat has good flavors, relation prices quality is acceptable.\nShrimp were a little bit short but good.\nNot too many options in Brownsville but this place is over the top.\nWe didn’t dare to try the desserts as the menu has the calories next to the price… is better ask for desserts without seeing at the menu!!\nWe will return for sure…"
+        },
+        {
+            "date": "수정일: 8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRM1pyRFFnEAE",
+            "text": "Very good place. I love the muffins, the pulled pork and the sweet potato loaded. Very good service. Prices are fair. At peak hours is always full. Enough parking lot."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCOWFiQy1RRRAB",
+            "text": "Loved the filet medallions; very friendly staff; upbeat atmosphere; delicious food; beer, wine, margaritas, soft drinks, water; almost always very busy, but text notifications are extremely convenient; worth the wait; reasonably priced; hot fresh bread/rolls while your food is being prepared; contactless payment; parking can be tricky but be patient and you will be pleasantly surprised."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNcWRhZWZBEAE",
+            "text": "Before our son goes back to school, we decided to eat here, three of us did not wait at all, we were led straight to the seats closed to entrance. Ordered 3 plates and took 8 minutes to put on table. Reasonable prices and quick service, stayed one hour to complete this meal with left over in a box."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5MExuN2R3EAE",
+            "text": "Todo muy bien...\nLa comida estuvo bien\nSolo le faltó mas empatía a la mesera que nos atendió...andaba como enojada o molesta todo el tiempo...\n\nY les hace falta mas estacionamiento...nos toco ver como la grua se llebaba varios carros por estar estacionados fuera del local..."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPdUZ0THZxNVliSnR3RRAB",
+            "text": "I love this place! The steaks are always cooked to perfection. Actually, everything we have always ordered has been great! Our orders have always been 100% accurate! The Jamaican Cowboy is my absolute favorite drink!!!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfdGRqSXJBRRAB",
+            "text": "The food was delicious and the hype about Texas Roadhouse is real. The food is very tasty, the steaks and ribs are huge and delicious and the drinks are very good as well, we had a crown Royal and a Margarita"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtajhmMEZnEAE",
+            "text": "Ambiente completamente familiar muy agradable. La comida en verdad superó por mucho mis expectativas. Seguro regresaré. Un lugar para fechas especiales y para cualquier día 100% recomendable. Fue casi 1 hora de espera para entrar  y 40min por la comida (el mesero específico que fue debido a un problema) esto último casi ocasiona que no quisiera regresar. Pero al recibir la comida mi perspectiva cambió completamente. Mi esposa e hijo( y yo también) disfrutamos por mucho mi cena de cumpleaños. Sin duda una muy buena elección."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHdkpqaWRBEAE",
+            "text": "El local tiene muy buena ambientación texana. El servicio es inmejorable. Muy amables. Y rápido aunque estaba llenísimo. Tienen mesas desde 2 y hasta más de 8 personas. Tienen micas protectoras entre mesas.\n\nPor la contingencia siguen regalando cacahuates pero ya en bolsas selladas. También sirven los panes recién horneados con mantequilla/canela de cortesía desde la llegada.\n\nLos costos $$$, $11,99 por un sirloin de 6 onzas (menor que la palma de una mano pequeña) pero buen sabor, acompañado de 2 guarniciones como arroz sazonado, chili con queso, papa al horno, papas fritas, ensalada César, ensalada de la casa, verduras cocidas o camote.\n\nLos platillos de niños entre $4.99 y 5.99 desde macarrones con queso, hamburguesas con queso, nuggets de pollo, acompañado de 1 guarnición y 1 vasito reutilizable con agua, limonada o jugo."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNheXBISklnEAE",
+            "text": "We always enjoy their food and a cold beer while we wait. However, thinking a Monday would be less-crowded was a disappointment! Actually, we should have gone earlier as they have a special in the afternoon (until pm). There are no reservations, hence one has to wait for a text outside.\nWe arrived at 7 pm and we’re inside in less than 5 min..\nUnfortunately, But there were a few problems with our visit. The place was packed to the gills! Social distancing was ignored and 98 of the patrons were maskless!\nLooking around and feeling very insecure-We decided to take our meal home while enjoying an ice cold Shiner. We should have checked our bag because when we got home the our Apple pie was missing!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLMDVPcVpREAE",
+            "text": "It is the best steak ever!! I love the Dallas fillet 8oz medium rare with a loaded baked potatoe, caesar salad with an ice cold beer! OH MY GOODNESS!! YUMM!!! The manager is very nice and everyone gave an excellent service. It took 5 minutes to get my table!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZcHBfQ1hnEAE",
+            "text": "Food was good. The wait took forever.  They got the reservation name wrong, completely wrong, so they were calling the wrong name (I heard the wrong name called several times) after about 20 or more minutes of waiting extra,  I asked, and she couldn't find the reservation this time, only to realize that the name was wrong and they gave our table away. So had to wait another 15 minutes. But afterwards, the waiter (Chris) was very nice and kept my drink filled before I even asked. The food came out fairly quickly for how busy they were. Will be back in the future."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLdVh3SWJEaTdUM0VBEAE",
+            "text": "Kudos to Brenda. 🙏🏻🙌🏻  Awesome service to the point. Such a hard worker. Brenda was attentive, courteous & passionate. You definitely do an awesome job at what you do. Also, great job at communicating with the Spanish speaking customers. Recommending Brenda to continue working hard towards a Management position."
+        }
+    ],
+    "reviews_count": 68
+}

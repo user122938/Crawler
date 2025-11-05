@@ -1,0 +1,502 @@
+{
+    "name": "Cafe Tibet",
+    "place_id": "ChIJp3KTIDdbwokRTqQ-IWjjQtE",
+    "grid": "BK14",
+    "address": "1510 Cortelyou Rd, Brooklyn, NY 11226, USA",
+    "rating": 4.5,
+    "user_ratings_total": 457,
+    "phone_number": "(347) 789-9524",
+    "reviews": [
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjdFNETm9kSFJFYkVkSllrZDJkbWw1TW5KaVQwRRAB",
+            "text": "Not good food. Food literally doesn’t have salt in it, no flavor. It’s like eating oily water. Even their sauces have no flavor, spicy sauce is not spicy, it is salty."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GbWVubHpTMjVUUzJneGVreGxObTFQZEdoMlltYxAB",
+            "text": "Kind service, delicious momo, reasonable prices and warm atmosphere!"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OZmVXZHpVVFV4ZG1JeGRGQnhUakI2UTNKclRtYxAB",
+            "text": "Prima esperienza con il cibo tibetano. Tutto molto buono! Abbiamo apprezzato in modo particolare lo stufato d'agnello e i ravioli ripieni di manzo. Personale davvero gentile e accogliente. Location particolare, proprio accanto alla stazione della metropolitana."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWVlVbG5TMDFzTTNkYVlVRTFZVFZSYTNneFlrRRAB",
+            "text": "Literally so good and very well priced!"
+        },
+        {
+            "date": "3달 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnemVIQldiMmxMUVZKMVNsQmtZa2MwWDNsdVlsRRAB",
+            "text": "A comida é boa! Tem opções veganas."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRX1lQWjZBRRAB",
+            "text": "Great Beef Momo! I always get the then tuk noodle soup!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKSzdxYV9nbFBuSDJRRRAB",
+            "text": "Great food, great size portions, and all for a great price. Everything we had was outstanding. Must try if you are near."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZc2NLbHJ3RRAB",
+            "text": "This spot is conveniently located right beside the subway station. Momo combo + Tibetan iced tea is the way to go."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvbWJ2VjZRRRAB",
+            "text": "A really lovely place with really delicious food. I had their spicy momo, chili chicken, and chana katsa. The chana tasted a lot like boiled peanuts but more flavorful, which was a delight. The spicy momo was incredible, I literally ate spoonfuls of the sauce once we had eaten all the momos. Chili chicken was good, but next time i’d opt to try a noodle dish. The atmosphere was nice, a perfect date night. Highly recommend!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvNnVMRmV3EAE",
+            "text": "Consistently amazing"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvZ2M2TUxnEAE",
+            "text": "We come here to treat ourselves to the decadent then tuk soup!! We periodically bring up how amazing it is and then get cash out just so we can come here and have it."
+        },
+        {
+            "date": "7달 전",
+            "language": "zh",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRb1lXU1VBEAE",
+            "text": "牛肉炒面都炒糊了，打开盒子味道太刺鼻子。味道太差👎了！"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRbkszLVZnEAE",
+            "text": "I really like this place compared to others in the neighborhood. Mom and pops are in the back cooking the food and its taste is authentic. The only complaint is that it's cash only. Not a big issue, but you need to make sure you have cash if you go."
+        },
+        {
+            "date": "9달 전",
+            "language": "fr",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfOHJTX1dnEAE",
+            "text": "Petit restaurant qui propose un large choix de plat dont certains tibétains. Les plats sont copieux mais parfois fade.\nLes prix sont bas néanmoins le service est très expéditif, dès que le plat est fini la serveuse récupère tout ce qu'il y a sur la table...Sans plus."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfNU1mcmNBEAE",
+            "text": "This restaurant, one of my favorites in New York City, is located deep in Brooklyn, a bit of a journey from Manhattan. But trust me, the journey is worth it for the incredible food. The service, staff, and overall dining experience are top-notch. While the tingmos and delectable entrees are popular choices, I highly recommend trying their thalis as well. Just a heads up, they accept only cash payments."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzdmVyWVh3EAE",
+            "text": "Food was mediocre....momos no flavor garlic noodles ok\nWouldn't come back"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzcHBEYnBRRRAB",
+            "text": "absolutely loved the feel of this restaurant and it really has left an impression on me"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuNnBuWjZRRRAB",
+            "text": "Tasty spicy food at a reasonable price with lots of vegetarian options"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuc1B1bFRREAE",
+            "text": "Love this hole in the wall place get the then thuk and beef momo!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuN2N2UkN3EAE",
+            "text": "The hot chai tea, the beef dumplings, chili chicken, moon bean soup…. And omg the steamed bread. Lunch was incredibly priced and some of the most delicious food I’ve ever eaten. Service is quiet and relax paced. Small and clean."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNua2ZYaEhREAE",
+            "text": "Hole in the wall, blink and you'll miss it Tiberian restaurant. Everything is good and prices are reasonable - I order something new every time I go!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIMnM2RTh3RRAB",
+            "text": "Absolutely amazing! What a hidden little gem! The food was fresh and amazing! The waitress was also very attentive and helpful when it came to their menu. Go check it out, you won’t be disappointed!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIeXBIbjZBRRAB",
+            "text": "One of my favorites on cortelyous. Such an underrated lil gem, a hole in the wall of a darling: unpretentious, very affordable, casual and very yummy. I love their Thalia and curries. 🫦"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUM3MV8wZRAB",
+            "text": "Fantastic momos! If you like dumplings you have to try these momos. Will be coming back for the momos 100%"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3MUxyTjFnRRAB",
+            "text": "Great food, fast service and great iced coffee that i recommend. Can't wait to go back and try different food on the menu"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyNnJQeUh3EAE",
+            "text": "Love this place! Perfect neighborhood spot for a chill dinner. A neighborhood go to. Very affordable. I love how it’s tucked next to the outdoor subway tracks. The food is delicious. And the teas are delectable!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMbmIzaEFREAE",
+            "text": "Cash only. Nice little place and affordable Tibetan food. I would be interested to go back and try some of their main dishes."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqcmF1QzZRRRAB",
+            "text": "I usually don't review places that I love this much for fear that it will become overcrowded in time. But I also don't want this place to ever go out of business. Well, not the best Tibetan restaurant I've been to, it is very good, especially for the cost. A great addition to the neighborhood. The portions are adequate enough to leave satisfied, but if you're extremely hungry, you'll want some appetizers. Parking in the neighborhood is okay and it's literally next to the Q train. A true find and a hole in the wall that you'll walk by a few times before you realize it's there. Seating is limited and not recommended for large parties.\n\nThe servers are pleasant, but they should warn typical Americans expectations that the appetizers don't always come before the meal due to the cooking time.\n\nLast I ordered The Mango Chicken, which was excellent and the vegan momos which weren't as flavorful as I would have hoped. The chili dishes are excellent."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5c2ZhMlNREAE",
+            "text": "CASH ONLY! Comfort food hole in the wall, their dumplings are amazing!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5Njg3OVVBEAE",
+            "text": "Get the beef momos!! Steam or fried, but I prefer steamed.\n\nCash only!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5NmVpUFZ3EAE",
+            "text": "Fantastic experiences at Cafe Tibet! Get their Mango fried rice! And their soup dumplings! Their delicious 😋  if you're looking to try Tibetan food for the first time this is the place for you! It's super casual and super cute ambiance. Right next to the Cortelyu metro station. Has cute outdoor seating too. The only problem is there isn't a bathroom and their stuff is a bit pricey for the portion sizes which are definitely on the smaller size. Otherwise I love this place and am looking forward to be back ☺️"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0bjdHUkZnEAE",
+            "text": "Really fantastic, worth traveling to if you live elsewhere in the city"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOX0pUNndRRRAB",
+            "text": "Love this place!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxb19Lc1dnEAE",
+            "text": "Great family owned restaurant."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWLS1EV21BRRAB",
+            "text": "Love the food here! My favorite apps are the mung bean and the curried potatoes. The then thuk soup noodles are also great especially for a cold winter day. Shrimp curry is slightly sweet and spicy,  it's also good. The honey ginger tea was soothing. My 2 year old kid liked the garlic noodles even tho it had a bit of a numbing spice. I had to take it away from him cuz his face was getting red."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWdWVxX2x3RRAB",
+            "text": "I've been going to this place since it opened and today I got the worst coconut veggile curry ever. Highly disappointed bc when it first opened the food was great, but now it's horrible.. Sorry to say won't eating there anymore.. The coconut curry had hardly any sauce, super watery. Veggies cut too large and looked thrown in the container. Awful..."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWbGRIbGxnRRAB",
+            "text": "The food was amazing and the service was kind"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1NnJ2UHVBRRAB",
+            "text": "Beyond impressed by Cafe Tibet.  They put out incredible food at such fair prices. Portions will fill you and they serve their cuisine with pride. Do not overlook this gem."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1M0piVGR3EAE",
+            "text": "Cafe Tibet Review: Tried Tibet food today first time & must say I am beyond disappointed! I am from North India where flavor/Spice/Taste is so balanced. Each dish not just looks good to the eye but so much effort is put in cooking so its Amazing, Flavorful not too hot but enuf spices to balance the meal. Fragrant aroma of the spices dry and wet makes the dish so delicious. To me Tibet food was so Bland. I didn’t taste any spice. No Chile or any spice. Only slight salt that was the only seasoning. We eat this kind of food when we are very sick with a cold. The vegetables were almost raw & so hard that I couldn’t cut into 2 pieces with a spoon so I had to pick up the broccoli n cauliflower to chew on otherwise impossible to eat. I was starving so I needed to eat even how much I didn’t want to.\nAlso what was so off putting was if you check their menu the price of a Tibet vegetarian thali is $8.99 & when the girl brought the bill it was $11.99 plus $1.05 tax so the total was $13.05. This is very misleading to the customers. First get them to your business showing a lower price & when they order n finish eating bill them 4/5 dollars more. Sneaky game!! I did question the girl why the difference in prices. She couldn’t look me in the eye n says this is old menu. So I asked are you not supposed to update your menu. She had no answer. I for sure didn’t tip her as she charged higher rate than displaying in their menu on the internet. So deceiving. I surely won’t be back as the food was not worth it nor I can recommend to my family n friends.\nWaste of my time and money Never Again!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSZ0xmZE5REAE",
+            "text": "This is disappointing, as I very rarely post reviews, but the food I ordered was atrocious. I asked for the Shrimp Curry dish and I got this pathetic meal, with six freezer-defrosted shrimp and 4 slices of zucchini in a watered-down sauce. It's sad because I really like the concept, true hole-in-the-wall, but the food is barely passable. Last time I eat here."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNabDdLTm9BRRAB",
+            "text": "incredible garlic noodles."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNabFlTMVZ3EAE",
+            "text": "Love this place, great food"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwdTVyZF9nRRAB",
+            "text": "Love this place I've been coming here for years. Some of the food is incredibly spicy and the honey lemon tea is fantastic for these cold New York winters. Their outdoor seating overlooks the courtelyou road Q station and I love sitting there during rainy days and just enjoying the ambiance. This place is CASH ONLY so please remember that before you go. There is an atm next door as well as across the street at the Walgreens/DuaneRead but it's a $3 ATM fee yuck.\n\nThe food right after the pandemic got a little bland but it seems that thing are back to their great flavor!\n\nThis is considered a neighborhood establishment so if you come to the courtelyou Rd area pay them homage and have some great food!\n\nLove the devil momo and all the curries!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwZy1Ib3JnRRAB",
+            "text": "I thought the food was bland and lacking flavor. Edible, but I did not enjoy it. Will not be back."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwOEs2YkJBEAE",
+            "text": "The food was terrible. It felt like I was eating stale vegetables and frozen momos."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvMTVyUkZREAE",
+            "text": "Love this place. It’s cash only.  Usually order the mango lassi which is amazing. The app I got were the chickpeas which were a little dry and the cabbage salad. The lamb curry which is good it used to come in a bigger portion also it used to taste better but it’s still good. The other main dish was the chicken mango which was really good. I highly recommend this place and trying new dishes every time you go."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHX2EtU0xREAE",
+            "text": "I have been here so many times in the past 10 years. Finally, I am writing a review. I tend to get the same dishes every time because they are consistently good. My go-to dishes are lamb Thali, pork chili, and momo. We tried fried momo this time and the fried version was perfect with the crispy texture.\n\nThe service here is very friendly but slow. But once your food arrives at your table, your hanger will be gone within the first bite. So it is worth the wait but best to go there when you are not so hungry.\n\nUpdated (03/05/23): this is still my favorite spot for Himalayan restaurant in the neighborhood. I just cannot help it to order lamb Thali again. So delish!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwczVyV19BRRAB",
+            "text": "Cash only spot and prices are great considering what you get. Food is delicious but takes a while and there was no ac so it was a little uncomfortable. I got chicken thali and it was very good. The beef momos were also pretty good. All in all I would come back and try other dishes."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoOFpYV19BRRAB",
+            "text": "Cash only.\n\nWow, this place is delicious and the service is excellent.  First time I've had Tibetan food, and this place has made me a fan.  I was looking forward to coming back right after my first visit.\n\nI'm currently working in this neighborhood and have tried over a dozen of the local restaurants, and this one is my favorite.\n\nPrices are very fair. Typically, lunch/dinner is $15"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCNl9QOFRBEAE",
+            "text": "If you have not tried Tibetan food before, this is the place to go! This neighborhood restaurant is LOVED by the locals and is a true gem. We were told by a local that this was their favorite restaurant in the neighborhood so we went and tried it. They cook delicious authentic Tibetan cuisine served by a welcoming staff. We recommend their Momos which are their traditional Tibetan dumplings. We ordered Combo Momo's which comes with 3 beef, 3 chicken & 3 veggies. The beef and Chicken filling was juicy and seasoned very well! Overall they were all savory and delicious, with a slightly chewy texture from the dough and a flavorful filling. It is cash only restaurant if you plan to eat here but worth every penny! We also recommend garlic noodles. The noodles are tender and full of flavor, with the beef and vegetables making it a perfect dish. It was savory and slightly spicy, with a strong garlic flavor and the sauce has a slightly sweet and sour taste. We can't wait to comeback to this neighborhood again just to eat here."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMya3Y3Z3hBRRAB",
+            "text": "Wow I literally just finished my food and I needed to get on here to tell you all how good it is. Truly a hidden gem in Brooklyn. I got the traditional “then thuk” noodle soup with beef. I had to tilt my bowl and to get every last drip in my spoon lol Amazing scenic view, enjoy it!\n\nPart 2\n\nI came back with a friend and we ate inside. They’re not about social media so only locals know about this hidden gem"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSbXJMdWx3RRAB",
+            "text": "Next to a train station this  spot is great for quick bites, take outs, offers vegetarian options, but prepare to pay cash only.   This place has  Buddhist attributes on the walls, and gives you a sense  atmosphere of Tibet. I would suggest…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZczVlZndBRRAB",
+            "text": "Very tiny place but the food is absolutely delicious. The curry noodles are tasty and the chili dishes are hot. They are cash only but there is an ATM next door. Check it out"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZeU5PaVZnEAE",
+            "text": "This place is a gem! Very few tables, but cozy and friendly and the food is AMAZING! We got the Veg Thali, the Veg spicy momo dumplings and my friend got a spicy pork belly dish with rice. I will definitely come back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCZzRQTnlnRRAB",
+            "text": "A very warm, quiet spot near the subway station. We had been here on a cold afternoon for some warm thukpa. We got chilly chicken, chicken thukpa and spicy chicken momos. The food was good, quick and friendly service. Chicken thukpa could have been slightly better with more flavors. Chilly chicken was delicious, served with white rice. Spicy momos were served with red sauce. They were not very spicy but very flavorful.\nPS. They only accept cash so make sure you carry cash with you. There’s an ATM inside a convenience store next door but they’ll charge you fees."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwcXJIeWxBRRAB",
+            "text": "Great food for great value.\nWe ordered the momo combo and the garlic noodles with chicken. Everything was very tasty."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJbWJXRGxRRRAB",
+            "text": "Very good and cosy little spot for Tibetan food. Easy to miss, right by the subway entrance! Loved the setting with the green walls and decorations.\nMost of the food was delicious and quite new to me. The curry was excellent and creamy. The soup was hearty. Try also the platter which comes with many delicious little sides. Sadly, the momos (Tibetan dumplings) were a the only disappointing part of the meal, a bit dry, under-seasoned and under-filled. I would definitely come back if I’m in the area!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRay03VWF3EAE",
+            "text": "Excellent and unusual food. I'd call the service \"laid back\". A VERY small place - one table for 4, all the others for 2.. But nicely decorated.\nThe menus has changed slightly - prices raised.  Waitress said that someone is working on updating it.\nSunday note: official opens at 12, but \"we get shipment from Queens\", so they can open later.  Have a cup of coffee in Dunkin Donuts 2 doors over and wait."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJdm92SGVREAE",
+            "text": "Came by to try out some Tibetan food.\n\nThe curry was alright.. not that great. The chicken has a lot of bones.. so be prepared for that.The bread was a no go. Better off going with the rice.\n\nThe restaurant itself is pretty cramped. Expect dim lighting. Not sure, but dim lighting always makes the place seem dirty.\n\nNot sure if I'd return for the food.. maybe in the distant future."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJeEtiOU1BEAE",
+            "text": "This is such a unique restaurant. I really enjoyed my meal here. It’s a small quaint restaurant with a great vibe and great service. It’s cash only, they don’t accept credit cards. The restaurant is cheap with reasonably priced dishes. We had the veg Thai, which was delicious. The veg biryani and momos were also food."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlNnZISS1RRRAB",
+            "text": "I went here 10 years ago when I graduated from college, I’m so happy that this restaurant is still open. I love to see local businesses strive in communities! The momo here is really good and I usually order the Thali platter. If you plan on dining here it is cash only! There is an ATM next door in the bodega."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnbHZhRkxnEAE",
+            "text": "Can't say enough good things about Cafe Tibet.\n\nThe service was kind, prompt and very welcoming. They were knowledgeable, and really believed in their product.\n\nThe food was fresh, and I could really feel the LOVE that went into its preparation. I had the Vegan Momo Balls, and Chana-katsa\n\nBeautiful atmosphere as well!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnNmRtNVRREAE",
+            "text": "Amazing food, been coming here for a year. Best vegetable curry I’ve had in NY! Very reasonably priced too. Authentic food in a laid back setting 🥘…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRcDdmeFBBEAE",
+            "text": "Great Thali!\n\nLoctaed right next to the Cortleyou subway station Cafe Tibet feels like you have in fact been transported to this Himalayan country.\n\nWe had the shrimp Thali which was served with pickled veg and a large ball of bread which was perfect for dipping in the creamy red Thali sauce.\n\nIt's a narrow restaurant with a simple decor and prices are reasonable. There is no alcohol served, nor are you allowed to bring your own, so just enjoy the food!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyb2ZENjRnRRAB",
+            "text": "Great place! Quite atmosphere, wish they played some music in the background. Recommend the chicken curry and mango lassi!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZbjZmanZ3RRAB",
+            "text": "Omg! I loved this place. After passing by it for years finally decided to go in and try it and I was glad I did! Everything was super delicious!  The place is cash-only!\n\nFood: we started off with La-Phing which had an interesting texture but good flavors and the sauce was amazing! We also got the chai as we waited for our entrees. I got the beef Thali which came with beef and sides of daal, mixed veges, pickled radish and beets, and two pieces of Tingmo (bread).  I loved everything in my platter!\n\nService and ambiance: the place is a bit small so it gets full and crowded very fast! But the service was amazing, the staff were friendly and helpful!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3N2JiZEF3EAE",
+            "text": "Adorable hold in the wall next to the train station with excellent food. The momos were juicy and tender and shrimp chilli was bursting with flavor. Will be returning to taste the curry and soups!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJeXBmLUp3EAE",
+            "text": "The Momo's are insanely good and the porkbelly dish I had was ridiculous. Go to Cafe Tibet if you haven't already"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKaEx5M2d3RRAB",
+            "text": "good food, good service. All momos tastes great, was surprised with the vegetable momos."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHOXRIdWtBRRAB",
+            "text": "Thenthuk soup is the best... served very hot temp, so let it cool before you take a bite or throw a full glass of ice water in it you are impatient like me!"
+        }
+    ],
+    "reviews_count": 70
+}

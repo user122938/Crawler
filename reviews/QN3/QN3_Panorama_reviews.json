@@ -1,0 +1,565 @@
+{
+    "name": "Panorama",
+    "place_id": "ChIJUa11FplfwokRFT0tJ5xiMVA",
+    "grid": "QN3",
+    "address": "87-10 Astoria Blvd, East Elmhurst, NY 11369, USA",
+    "rating": 4.7,
+    "user_ratings_total": 1109,
+    "phone_number": "(718) 533-0028",
+    "reviews": [
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxR1JXVmpkRU5wVlU1dVJGVjBhVWh6WjJ0b09IYxAB",
+            "text": "Great staff and great time."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGSGRYcHhUemRmYVZaaGFUQkRhVmR4WHpCNlgyYxAB",
+            "text": "Really good food. Really recommend el Encebollado."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNGNsZEpMVUpZZEdoTWNXNW5aRlpxVWxWbmJVRRAB",
+            "text": "La comida muy buena"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSWU9XVXdXVVZuTm5NNFlXTkJaSFZzZUhaVGJXYxAB",
+            "text": "Excelente  atención un servicio muy profesional. Recomendable 100%100"
+        },
+        {
+            "date": "2주 전",
+            "language": "pt",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KcmJXRnFkelJmTjNwaWNsQjJiMFIwUTA5T2JVRRAB",
+            "text": "Excelente"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xReFJ6QlJOVTlyTTIxMlkwWndNM2c0TFZkUE5sRRAB",
+            "text": "Todo muy rico y bien atendido"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGeVJ6ZE1SMU5OTFU5MFkyNWxUR1ZVUldKcWNHYxAB",
+            "text": "Excelente servicio, lxs meserxs son muy amables y la comida es deliciosa. Además la musica en vivo es muy amena por los excelentes artistas."
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNibWQ2NWx3RRAB",
+            "text": "Excelente atención , comida deliciosa\nRecomendado"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSTVFVaEVaV3R0UVZOWmVUQktSbDlOVmtScE9VRRAB",
+            "text": "Great tasting and large amount of food and excellent service."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SeFZqVk9UM0JNWm1kdVlVTmpaamxqVVRKaFpVRRAB",
+            "text": "Súper recomendado, toda la comida es deliciosa y preparada al instante. La atención excelente.\nTodos Super invitados"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wQkxWOHRaMHhVUlhSd2QySlZaVXRJYkVFeWRWRRAB",
+            "text": "Lo mejor del ecuador 😋 sin duda aquí , les recomiendo el encebollado mixto 👌"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204ME5FOTRkbVpHVVZsa1ptZEZiM3BoVkhSdmFuYxAB",
+            "text": "La comida super delicious y la atencion de las muchachas muy buenas\nExelente"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGdFVYSmlRVkJQUjNKWFMzVjZaa0Z2Tm13eGFFRRAB",
+            "text": "Comida exelente ya muchos años comiendo aqui gracias a su personal muy buena atencion"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kbVlsRlFXR2xoU0RsS1RIbGlUR3hXVFZGaWNIYxAB",
+            "text": "Spanish restaurant serving typical Ecuadorian food."
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toeE9EZ3pRamx5TWxCdVIyOU9RV3BuY1doWGNFRRAB",
+            "text": "Mut saboso y muy buena atencion"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkcWNIcDRNRWxrUzNrNU9YSmxXRFYyVVVsUWRYYxAB",
+            "text": "Excelente Comida Ecuatoriana.. me pedí una Verdadera Sopa de Mariscos.. deliciosa y La lengua Criolla una Delicia tambien. 100% recomendado."
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SYWVHUk9jUzFvVGpVMFdEQllWRk5WVEhjd2JuYxAB",
+            "text": "Excelente servicio la comida muy deliciosa"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oUVJFNVROR1JYUkRCT2MwVXhjRVpoY0hkclYxRRAB",
+            "text": "Llevo viniendo 3 años a este lugar y muy contento con la comida y la atención y encantado con los bollos de pescado de los días viernes"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prM1VtRkNXRUpIWDNKWldEaFJOREpxUlVGa2IyYxAB",
+            "text": "☺️"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNlEzUkpjMHN0VVY5SlgwVktObWRDT1V4Q1ZHYxAB",
+            "text": "Good resturant"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKSWNURjZMVlpKYTJWcFVFRTJSRmRUUlhoQmJtYxAB",
+            "text": "La comida estaba deliciosa nunca me desepcionan"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOb1ZFcHhPV3B3TFVrdFUyUkNOM0J2UTJkRlNtYxAB",
+            "text": "good customer service"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RMVYxVXROVGM0V0hocVFqTkZWMHBEVGpORGNsRRAB",
+            "text": "La comida estaba rica"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SU9WVmhlRlJDT1RKNmNYUmFjbVp0VG0xVGIwRRAB",
+            "text": "Excelente servicio, me encanta la comida, el volumen de la música es el adecuado, la limpieza es al 100%, maravilloso lugar, super recomendado"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURadnEyaVZ3EAE",
+            "text": "La mejor comida hispana! 100% recomendado, la atencion, la comida, la musica, todo es muy agradable, de mis lugares favoritos"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2preGJYUTFVSEEzWW1ZM2JUTXdORXBZY3psRldtYxAB",
+            "text": "La comida ecuatoriana de este lugar es realmente deliciosa. Cada plato tiene un sabor auténtico y casero. El servicio es excelente: el personal es muy amable, atento y siempre con una sonrisa. El ambiente es acogedor y agradable, perfecto para disfrutar en familia o con amigos. En general, fue una experiencia increíble, sin duda volveré y lo recomiendo al 100%."
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KdFJHeEJUMFpIT1cxcFZUSlJZVTh6TldOUk1VRRAB",
+            "text": "Muy rica la comida y excelente trato al cliente. Un restaurante que recomiendo mucho"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkemVYZEZZbXRtUWxSR1RFTTJVSE4wVERkQ1JWRRAB",
+            "text": "Tiene la mejor comida y  su atención excelente 100%"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkak5IWnhXbTlPU2tSUFNYRTRRMU4zU1dWTVpFRRAB",
+            "text": "I've been a Panorama customer for many years, and till the date they have not disappointed me.\nThis is a place that has very delicious food that you can enjoy with friends and family.\nGaby and Karen always take a good care of me.\nVery recommend 👌"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213d1pVaG1RMjl1YW1sdlNYSlRiRGxHZDB0NlNGRRAB",
+            "text": "Es delicioso  la comida y el sitio está muy bien decorado las personas son muy amables   Aparte es económico"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KYVVqZFFNV3R5V0hwemJrWmljbWR0Wm14YVFWRRAB",
+            "text": "Exelente lugar,,  la comida es realmente deliciosa, recomendado"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214TmJuWmZOM1l0YW1aaloydG9ha3BKVjJoWlZWRRAB",
+            "text": "Buenisimo sabor ecuatoriano 🤩"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSU2EwdERXRGhqVWpoR1VtczNZMGh5Vld4TVpHYxAB",
+            "text": "Excellent 💯"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vNVpFOXVRWGR5TlRacmRFWnpkVVZXYkdrNVZIYxAB",
+            "text": "Un excelente lugar muy recomendable y"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pObU1rMXFhbE5NTlZFMlgwSnFhVTF1YjNoVVQxRRAB",
+            "text": "Muy buena la recomiendo 💯…"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwdWNIQnpaVGM1WVhaMVpFcFpjWGt6TTAxRFMzYxAB",
+            "text": "Muy buena atención y la comida"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNGRXazFNakEwUm1vMGNHczFTRmg1UVhJdFpVRRAB",
+            "text": "Me gusta la atención y el a ambiente"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSSWFuSlhRWE5XWkZoTVdIRm1kVzVoYVZWcFozYxAB",
+            "text": "Muy buena la atención Karen la mesera una linda viva ecuador!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWFZuUXRibU5VVUVnMmFXSlVTVTl1ZVRGSU1sRRAB",
+            "text": "Excelente lugar, muy recomendado. Excelente atención"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSa2JWTTNWSG90TW5adVNTMWpVMlF5Y0d3emRYYxAB",
+            "text": "La comida es deliciosaaaa…!😋😋"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NMWFEUmhZelIzYTNWdk9FSlJNalJvVDJWa01VRRAB",
+            "text": "Delicious food!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201S1IwdEdWSFYyWlUxNlZXVjBSbWh1Y2tkQ1EwRRAB",
+            "text": "Great place and delicious food! Big portions and affordable. The staff is super nice and the vibe is always right! Best place."
+        },
+        {
+            "date": "수정일: 4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwdktlMmVREAE",
+            "text": "Best place in queens to eat some authentic Hispanic food !"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200NGJYRTBRMGRWUlRkSFJYZDJiVkpKYkZadGFGRRAB",
+            "text": "The food is amazing"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWGFFUjRVbTl4V2s1RVgyWjJlRmR2VldwMWRtYxAB",
+            "text": "Excelente restaurante les recomiendo"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psNFdTMURVWE4xTmt0U1NYQldNM2RETFVaeFkyYxAB",
+            "text": "Food is really good, and the waiters are very friendly. Go to spot."
+        },
+        {
+            "date": "1달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVMU1qZ3hiWGgzU0VOWlprbEtPVGRQTjFGeGNWRRAB",
+            "text": "Excellente!"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxaHN6UGt3RRAB",
+            "text": "Good food"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGd00xQndiWEF4U1hGSVZISkllVTVaYUhKWmJIYxAB",
+            "text": "Muy rica la comida"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KaVEyeGFURWxvTkZabWNXNWtRMVZyVUhkbFZWRRAB",
+            "text": "El almuerzo estaba muy Bueno recomendado"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCV1dFMUxhbXh2WWpJeldHeFpha2gxYUdOV2VsRRAB",
+            "text": "La verdad este lugar tiene un sabor tan rico,, me encantó y el servicio !! sus  meseros muy atentos gracias Andres nos hizo sentir bien atendidos"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMbi03ZnFXaVB2dEN3EAE",
+            "text": "We randomly stopped in on a Thursday night. The food was excellent and it seemed to be a fun atmosphere. It also gave me a good opportunity to work on my Spanish."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLREZyNGZnNWRiSUhnEAE",
+            "text": "Guys, 5 estrelllas recomendado,\nEstephanie muy professional, y su equipo. Karen muy buen servicio gracias, por hacer de nuestro evento una experiencia inolvidable.\nDj. Top.🎉🎊🎈🔥🎶🔊🔊Gracias 🙏🏽 buena musica.\nFood.. ⭐️⭐️⭐️⭐️⭐️\nSi desea pasarla bien. Este es el lugar indicato.\nGracias.  Mil mil gracias."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VORFd1WTJ3bHIzZkRnEAE",
+            "text": "The atmosphere of the place is wonderful, especially if you love Latin music. It has wonderful vibes and you can dance something I can relate to as I’m Latin and grew up with an ambiance like that. Now, as a restaurant the service is horrible. No attention to your basic details which is what I expect I don’t need a Michelin star service but the basic like hi how are you can I suggest this, this is the special instead of I don’t know, what do you want. Beware of this pink sauce it’s extremely spicy even for a person like myself who enjoys spicy food that sauce is inedible. I wish my waitress the lady with green eyes would of answered my question instead of brushing it off. I was excited to eat and put the hot sauce my whole experience ruining. The food looks like your average Latin cuisine I couldn’t tell you how it taste I couldn’t eat mine. The wait time is long which makes sense they can get busy so I would suggest an appetizer to share with your friends&family. If you pay cash you get a discount another thing to be aware of. The gratitude is including which for me is fine I’ll do my part but, this is the first time where I hesitated to pay for it I was disgusted with the treatment from my waitress, the only person that saved it was a charismatic I believe Colombian waiter I wish I remembered his name but I believe it was Andres. He is knowledgeable about his craft more than I expect and again I just expect the basic. First time eating here and I wouldn’t come back the service is horrible from all except for one waiter, not even for the ambiance at that point I would just go to the club."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kc1dGZGlPSG81Vm13dFlrYzRjSHB3VW1scGVuYxAB",
+            "text": "Me encanta ese lugar , los platos son deliciosos el\nAmbiente es muy agradable , la atención es excelente lástima que no sea de todo el personal , hay un chico que  nos encanta como nos atiende creo que su nombre es Andrés , que persona tan auténtica parece el Dueño del negocio siempre está preocupado por todo y nuestro mayor motivo de seguir frecuentando se debe a las experiencias que nos hace pasar  , recomendaré ese lugar siempre el Encebollado delicioso me encantó la recomendación que nos Hizo del Churrasco colombiano amo ese lugar gracias 🙏"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201Sk5HeEVPV1ZqTURaWlNtRTRNa1pJT0RaNmNuYxAB",
+            "text": "Muy recomendable este lugar deliciosa comida y la atención  excelente muy rico todo gracias por su excelente servicio"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FMWNEUlZWR2xPV214SU56VTJWWE50VFZCc2VIYxAB",
+            "text": "Malísima la experiencia. No gasten su dinero solo por escuchar música. Fui el día domingo, desde que llegué con mi esposo no nos prestaron atención para saber dónde sentarnos, pedimos yuca frita, arroz con menestra y carne y ceviche de camarón. Pedimos también unos jugos, que por cierto se equivocó en el sabor que le pedí pero le dejé pasar, después de una hora esperar por la comida e ignorarnos los meseros, llega a decirnos que no hay la yuca, el ceviche estaba raro, una textura rara el camarón chicloso y el arroz con menestra parecía frijoles de lata. Que pena que hagan quedar mal la gastronomía de Ecuador."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3elk2TENnEAE",
+            "text": "Personas muy amables, ambiente familiar, buena música y la comida muy rica, 👍👍"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKa05rWldibG8yVjI5cmNFaHBTblZYWkZJelRrRRAB",
+            "text": "Exelente servicio y atención la comida 10 de 10 sus trabajadores muy amables especialmente Andrés el mesero muy amable me encantó"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kbWJrUkVhWEp1ZW5kS0xXVjZPRzFaZFdWaFkzYxAB",
+            "text": "El ambiente muy agradable la primera ves que voy fuimos mi esposo y mi hijo la comida rica estábamos tomando margarita y mojitos  cuando se acercó una mesera  con asentó colombiano y nos dijo tienen dos horas ya es suficiente tomen este es la cuenta el lugar está reservado omg que coraje cuando llegamos nos dijeron pasen hay música en vivo  llegó la cuenta 160 pagamos y nos retiramos pero muy grosera la mesera el único agradable un mesero colombiano muy agradable eso no se hace si dicen esto está reservado solo hasta tal hora pueden estar no entramos pero como ya  habíamos comido  consumido nos dijeron lo de la reserva"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURINGV5b1dBEAE",
+            "text": "A friend recommended Panorama when I was looking for a place for my mom’s 80th birthday celebration after being ghosted by another vendor. I went in person to speak to the manager and try to food. The manager was very friendly and accommodating. She even gave me her personal cell to answer any questions we had. We decided to book it after seeing the beautiful space in person and trying to food which was amazing, highly recommend the ceviche de camarón. Our waitress Karen, the bartender and DJ went above and beyond to help make sure everything was taken care of and that everyone had a great time. Thank you to the wonderful staff at Panorama for help making my mom’s party a night to remember!"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORVYwTldkM0UwYjJ4dVFuUm5lakpoVWpkamJuYxAB",
+            "text": "Me encantó la comida 🫠\nLa atención la mejor 😊"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oZmJqaGZiVGQxVEdVeVkwWkRWR05MUld4Q1kxRRAB",
+            "text": "I really enjoy this place, everything is great and fun!! I love that the atmosphere is super pleasant and without hesitation the karaoke and the music, the food is super good!! La atención super buena, super recomendado 100%!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMaTRuMHRBRRAB",
+            "text": "Les doy 5 estrellas porque no hay más, pero en realidad se merecen unas 100.\nQue comida más deliciosaaa, me pedí este pargo a la marinara y estaba increíblemente rico y generoso con el mix de seafood que traía la salsa a parte de que mi pedido llegó súper rápido y calentito.\nTodo muy bien empacado con limón para acompañar el pescado y con salsa picante deliciosa, muchas gracias a las chicas por la atención y los chefs que siempre se lucen con el sabor. Amo Panorama.❤️"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnaXFhQW53RRAB",
+            "text": "Beautiful place. Very well maintained. Our waiter’s name is Andres and was super awesome!"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xscFpYaFJhbFJwVUU1S1pXOXRTV2hGYjB4cVNVRRAB",
+            "text": "Mi esposo y yo estamos encantados de haber realizado la recepción por la confirmación de mi hijo con Panorama Restaurant, el ambiente, el servicio y la comida deliciosa. Recomendado excelente todo."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMdE1QazNnRRAB",
+            "text": "Food and service was great until it was time to pay. Originally the server said my daughters strawberry milk shake was on the house but they charged it to our bill, no big deal. The portions were big so we asked to take home the left overs. They added $2 per each ToGo tray (small round plastic containers that only fit small sides) if you want to take home left overs which I've never heard of in any other restaurant. They also automatically added a 18% gratuity for party of 2 adults, one toddler and one infant.\n\nThe place looks decent but was very empty. Not sure if I'd go back due to the sneaky fees they add without telling you."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5aW8ySHV3RRAB",
+            "text": "Great food, great service, and lots of fun. Everyone was very attentive and friendly. There was no long delay in getting our food. They have authentic Ecuadorian food as well as Colombian style dishes. I ordered the seafood Ceviche it was…"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GRWFVVlZNMUJxYUhaaVJFWlZPWGRrUW01UFZFRRAB",
+            "text": "Me gusto la comida exelente"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aTk1tcHpTREZmWjFoeVRYSndOVTlwUm1oSFlWRRAB",
+            "text": "Primera vez que visito y el servicio fue excelente. Volveremos pronto!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4NS1TalBREAE",
+            "text": "Just to be clear, this review is fully my experience with no hateful or negative feelings toward the restaurant. I called for delivery, and the lady raking my order clearly did not understand my order, I had to repeat it to her three times. I ordered the \"Pollo salteado\", which is the one in the picture. That Pollo Salteado was clearly not even close to what it was supposed to be. They were not pieces but chunks of chicken with veins that make it uncomfortable to chew. Worse part of all, the sauce had SOOO MUCH OIL in it, not a sauce at all. Good thing they gave me the rice separately because I don't know how I would've handled it. I haven't tried their other food, but the prices don't convince me, especially with this first time experience"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoMjktdUZnEAE",
+            "text": "The food was so delicious and the place nice clean and the staff very nice and they make a good job"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdjVpSi1BRRAB",
+            "text": "Loved it! Really good ecuadorian food!"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPNi1yY3k0emVlZ3d3RRAB",
+            "text": "Gran ambiente, disfrute con mis colegas y la comida estaba riquisima!! Gracias por toda la atención. Andrés fue un gran camarero!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCdWR2UGtnRRAB",
+            "text": "El lugar es agradable, el servicio es bueno, la chicas sobre todo, se esmeran por dar un buen servicio."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213eGJEaEtXWEZEUmtGT01rUmtWSFJCUm14b1JIYxAB",
+            "text": "Best encebollado spot u can ever find in queens! 😋 great service and everything!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBcXFDaXB3RRAB",
+            "text": "It took an hour to get our food while everyone else received their food and they were there after us.  The waitress wasn't attentive in the beginning not until we were getting ready to leave. Persuaded us to stay and apologized. The owner was there but she did not apologize to us at all. Food was good but service could definitely be better."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1NllhSnBnRRAB",
+            "text": "The food was very good and tasty.  Brought home ceviche to try out as well.\n\nUpdate on the fish ceviche; not so hot. I think they might be boiling the fish too long and put it in the lemon but is mushy.\n\nI still will go back for their other foods."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwMHFLUXZnRRAB",
+            "text": "A family member found this venue when my partner and I were looking for place to throw our baby shower. Their main venue fit our needs the best and the price was great which included a lot of features. Couldn’t be happier with how everything turned out. The venue is clean, the staff was so helpful and worked with us in answering any inquiries we had, from the menu, to the bartender and DJ, etc. Loved that they were accommodating when it came to how we wanted to decorate the venue. They didn’t limit us in any capacity. Just make sure you get a contact number when booking the venue. What we did is, dropped by the venue a month in advance and coordinated minor details. Thank you Panorama staff."
+        }
+    ],
+    "reviews_count": 79
+}

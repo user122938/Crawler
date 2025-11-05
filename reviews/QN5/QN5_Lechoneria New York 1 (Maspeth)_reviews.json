@@ -1,0 +1,600 @@
+{
+    "name": "Lechoneria New York 1 (Maspeth)",
+    "place_id": "ChIJK8zzHmBfwokRc341GejoZk4",
+    "grid": "QN5",
+    "address": "52-27 69th St, Queens, NY 11378, USA",
+    "rating": 4.5,
+    "user_ratings_total": 577,
+    "phone_number": "(347) 639-0004",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4cFJVb3dOVjgyYVhOYWJrcFZURlJSVFhKVGVuYxAB",
+            "text": "Para empezar lo más importante que es la comida, que delicia de comida\nUna comida con un favor muy fabuloso\nSi estás buscando un buen lugar para sentirte como en casa este es el indicado"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WWFUzcFpiek5WVEVGSmNUZzRkVlJRYjFSRGJYYxAB",
+            "text": "I had a very bad experience at La Lechoneria. The service was terrible — both waiters were rude and inattentive. They made us feel unwelcome the entire time. The food was okay, but the bad service completely ruined the visit. Definitely not recommended."
+        },
+        {
+            "date": "6일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGRGNGZFRRVkZuUjBNdFZYSkROWFl0Y1dWaVRYYxAB",
+            "text": "Excelente comida ...mi favorita el tamal tolimense con lechona y el personal atiende maravilloso"
+        },
+        {
+            "date": "6일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CMVQyeHpSamROU1ZSVU4yazFOMHhvVUVKYVJIYxAB",
+            "text": "Lugar agradable, la comida muy rica, servicio sensacional 10 de 10"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGa1dFRnRhMUJzTTJ3NFkwcHdkRmgzWTFoWFNtYxAB",
+            "text": "Recomiendo este restaurante en New York la comida súper rica la atención excelente todo me encantó 👍🇨🇴"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nMlVtNXNjbUp6VWtVM1JtTllhbFppTVhoR1lWRRAB",
+            "text": "Wonderful food!"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201SkxVUk1aa3MxUkdVelJERTBUMlpxWDJwcU5GRRAB",
+            "text": "Amooo este lugar !! Todos la comida es demasiado buena , me sabe a mi Colombia 😊 y la atención de las meseras es 10 de 10 🤗"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rMlR6Uk5kbE5sTFc5Q09XbEVSMWszVWtGVGNuYxAB",
+            "text": "10/10 best Colombian food in Queens"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfaU52Rm9nRRAB",
+            "text": "Food & service is amazing!"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCQlRFVTJVazVvT1ROSWQzSnJVV0pXTWpFeFVGRRAB",
+            "text": "Acabo de pedir una lechona y ESTABA DELICIOSA! Cuerito crocante, arepa blandita y fresca y la lechona en su punto perfecto. La porción también estaba generosa.\nSúper recomendada!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jeVZXMVdNWHBhV0c5ME5GaFhZVzlFVDE5eFUyYxAB",
+            "text": "One of my favorite places just because the food is mad good, besides that, the deserts section is pretty delicious"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSWU5rcFlXak56WXpWV2FXZGZUM0l4Wm1OSFRYYxAB",
+            "text": "Muy deliciosa la comida y el servicio es excelente, muy recomendado"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paR1VGaDZiakJxVm10aWVFWkhMWEoxWkdoQ2VYYxAB",
+            "text": "Muy buen servicio de todo el personal y la comida muy rica."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVMGRVMWZkRWxrTmkwNFduQkpVVlZoVkRkWFlWRRAB",
+            "text": "Perfecto servicio además la comida es excelente recomendadisimo"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204M1FYVkpXR3RLU200eE9GRlllWFUzWmxSRVNXYxAB",
+            "text": "Deliciosa comida, exelente servicio es un lugar excelente para comer"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWk1HSkRNbGt0U0c5d1VHVXdWRkZ5VFhoelMzYxAB",
+            "text": "El servicio es especial. Las chicas son super amables"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JMGQwUTROM0F5YmpNd2NWTjBRVXRUVUZadWNGRRAB",
+            "text": "La comida es deliciosa. Muy completo el almuerzo. Y el lugar es muy acogedor."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCTlkyaENWSGMzZG5CUFFUQk1aV05PVm1VelJGRRAB",
+            "text": "Es un excelente ambiente familiar. La comida es deliciosa. El lugar es muy limpio. Muy recomendado"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kNFFWUnlaMGx2YjJZNFZ6bGFURzF1YURGdFFrRRAB",
+            "text": "Went with my amazing friend to celebrate her belated bday the service was amazing sweet kind and patient. My friend speaks English and they had a separate English menu so she can see what she is ordering."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kUVZHRjJhelV5UlVsT1ZGUXhSa1F4YmsxamFVRRAB",
+            "text": "El día de ayer pasé por el lugar excelente atención del mesero espero volver pronto recomiendo mucho el caldo de costilla con la arepa de queso"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSS2FHZFJiWFpTUkRZelZURlplVWN6ZVdSV2IzYxAB",
+            "text": "El día de hoy fui al lugar me encantó por cierto me atendió un chico alto de barba y con tatuajes excelente siempre estuvo atento a nuestros requerimientos y preguntando si necesitas amos algo más recomiendo el lugar por la excelente atencion"
+        },
+        {
+            "date": "1주 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sbVRVTnZOVlV0Y2pkeFJXTXhabkY1VWswMGMzYxAB",
+            "text": "Deliciosa comida, recomendado"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Cdk0yZDNMWFZOVG1KMVpXdDJZVEJDZFZKeFlYYxAB",
+            "text": "Muy buen servicio y buena comida ."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CRmNsQXlkSGh6Umt3eE1tMVpjM1pHV25aTlYxRRAB",
+            "text": "La comida muy rica. Pero a veces se tardan mucho para servir."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OVmMyRmxiR3MyY0RaMU5DMVJOM0JsUTNoaUxWRRAB",
+            "text": "Great Colombian home made food!"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKaVVGQlhSbnBSVTFadE1rSTRVbTVqZVhkSk9WRRAB",
+            "text": "Excelente  servicio  Excelente  atención  super recomendable  es nuestro  sitio favorito"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taWWRHNUdTM05yZURCUmEwbHJiMGRoWmxsSFNYYxAB",
+            "text": "Muy buen servicio y muy rica la comida ☺️"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSMVkzQnVSMDlWTW1OYWNqVjZNM1p0VTFKVWFWRRAB",
+            "text": "Buena la comida 🫶…"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psYWFIVjZjMmxuYUhGTVoyaHZWVmhKWW5Gd00xRRAB",
+            "text": "Totalmente recomendado...sabor colombiano al 100%"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taMGVEWjRUbVJ2WVY4d1UwSnVValpVVTFKdlNtYxAB",
+            "text": "Muy lentos"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taQlZqQlpRMmwzVUU5VVVsaHVUSE5YYldodGVVRRAB",
+            "text": "Necesita mejor administracion se senora demasiado la comida"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xreGRIcGxSMGRaWVdoWmJ6YzFXRE5ETFdWUU5rRRAB",
+            "text": "La comida y el ambient fue super , la mesera Vanessa fue muy atenta . Y el juego de sapo me encanto."
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zNVNsTjNUbXBEWTJFdGNWbFdWREEyYm10M1luYxAB",
+            "text": "Muy buenas atenciones"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wTGFHVm1NMDlUZVdRNWJFOW9ZVU0zTURSd1lrRRAB",
+            "text": "Super amable el personal y muy rapida la Atencion"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5TVVFMTNOMEZmYjI1R2IzWlhhRzlYT0ZSMlVFRRAB",
+            "text": "La verdad un asco de almuerzo el pollo ni siquiera fileteado y el consomé de gallina creo q dijo o de pollo la verdad q no vi ni gallina ni pollo y 15 dólares no vuelvo a comprar en ese lugar los almuerzos voy a ver tratando la lechona a ver si está bueno o me toca dejar otro comentario malo ……"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5MldscGFhRTFOY2s5QmNYaHJiVUk1TUdabWFVRRAB",
+            "text": "Muy buen lugar para comer gracias"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKalJWWTBVV1p4ZGtWMVRDMU9kMVJ3TWtkSU9GRRAB",
+            "text": "La mejor comida y la mejor atención"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25odmJsUlBZV1V5U1VabE9UVlFUVjlCUkRScVlWRRAB",
+            "text": "La mejor comida de la ciudad"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5MVlsZzNURXRGYmw5WWNuaHNVV1pWYlU1RGVFRRAB",
+            "text": "Comida bien servida, buena música"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xseWRFTkZibE5oTkRaRlMyWlJialJXUVRGMllWRRAB",
+            "text": "Great customer service and amazing food!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOS2RHbDJWREZqUkdWQ1JrZFBkMlpQWDJoUExXYxAB",
+            "text": "Me gusta mucho la frijolada y la música la amabilidad de las personas gracias 😻"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wVVNtWk9iV3RsTW1sS1NuQnpRa1pWZFZScU1GRRAB",
+            "text": "Demasiado rikas las hamburguesas recomendadisimo …..el lugar excelente servicio"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSR1ZEaFFaWGxPVTFKVk1VSlliR1pWV2xwTlFrRRAB",
+            "text": "Excelente lugar. Había estado buscando un restaurante Colombiano para sentirme como en casa y este fue el lugar perfecto y excelente servicio. Muy recomendado! :)"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210RVNHSlFhRk5UTFZGaWRpMU1UMFZVUzFaNU9VRRAB",
+            "text": "La comida y la atención de acá es deliciosa!\nEn verdad los sancochos, consomé y toda la comida colombiana es súper rica!"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaaVdscGhXRU5MYm0xRmVFdzJTRE5DTVd0S2FtYxAB",
+            "text": "Excelente servicio y deliciosa lechona."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taMWFXSlNhblppUjI5bFNteDZWMEpHV0dkeFVsRRAB",
+            "text": "Entregan la comida mal empacada, revuelta sin cubiertos.\nen mi oficina pedíamos 4 quedamos 2 pidiendo ahora ya ninguno vamos a pedir que falta de respeto hasta el hambre se le quita a uno\nNo cuidan clientes q piden diariamente no me quiero imaginar el resto"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CZlZFSlhaamw1VmtjNFNuVmlPSFphVFV0YWMzYxAB",
+            "text": "Fui con mi familia y nos encantó el lugar, la limonada de mango biche muy rica y la comida ni se diga, Judy nos dio muy buena atención, servicio 20 de 10"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CWVFsbHhSak14ZDJaVVZ6bDJZVkJhZDBwb2MwRRAB",
+            "text": "Deliciosa comida y la atención de Judy y Lina excelente, muy amables y ágiles! Sin duda volveré 👌👌"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKc1dFSkVYMFpzY1Mxc2IwcE9SRnBWZEhNeGNVRRAB",
+            "text": "Deliciosos lo tamales!"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTWRsUnBhWHBYTlZCUVFUSklSazFaUVRWak1rRRAB",
+            "text": "Muy buen servicio y el alimento es muy agradable"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrM1dGbG9iWFUyZFdOa1p6Um1XRTluWW0xU2VXYxAB",
+            "text": "El día de hoy solicité pedí un deliver, el cual se basaba en un menú del dia( que ya debe estar preparado) y una ensalada de frutas, la señorita que me atendió me dijo que 40 min lo que me pareció mucho tiempo pero igual acepté, pasó una hora y mi pedido no llegaba, llamé a la sucursal y me informan que el domiciliario tenía muchos pedidos y que había salido con todo al mismo tiempo, me imaginé que por ese motivo mi pedido llegaría frío y así fue, el pedido llegó luego de hora y 25 min, la ensalada llevaba el helado el cual llegó completamente derretido, traía dos galletas en una pésima presentación( metidas en una bolsa que ni siquiera cerraba) el menú del día era supuestamente “sopa de mondongo “ la cual hicieron sobre el caldo de costilla que les sobró quien sabe de qué día lo cual evidenció en una foto que estoy adjuntando. Venía no más de una cucharada de ensalada y no más de una cucharada de puré de papa wow increíble, la comida no estaba tan mal, pero realmente la experiencia fue un desastre y más cuando entró a las opiniones y veo que cero les importa lo que las personas escriben se justifican en que según ellos tienen muchos pedidos por eso es demorado o prestan un mal servicio, si de verdad tienen mucho y si cocina y personal no da abasto deberían contratar más personas o en su defecto cuando uno quiera comprar algo aquí deben advertirnos que tenemos que estar dispuestos a comer frio, a esperar horas para ser atendidos o a q nos atiendan como ellos quieran"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNNkFsdWpEa2Vpak9nEAE",
+            "text": "This is my second time visiting this restaurant    the service is very fast and friendly, and the food is absolutely delicious. It’s my new favorite spot whenever I’m craving the amazing flavors of my beautiful Colombia."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gc1dWVndhbEJ1U1UwdFFVeFZPRmN0ZFdsc1YzYxAB",
+            "text": "Fui con un amigo a Lechonería New York y la verdad todo muy bien. Desde que llegamos nos atendieron con una amabilidad tremenda, se siente el buen ambiente.\n\nMe tomé una sopa de verduras que me cayó espectacular, bien servida y con sabor casero. Pero lo que no me esperaba fue la lasaña de plátano… una sorpresa total. Nada que ver con la típica de pasta, es otra cosa, y me gustó bastante.\n\nLos precios me parecieron bien, uno come sabroso sin que se le vaya la vida en la cuenta. Me gustó el sitio, volvería sin problema.\n————-\nI went with a friend to Lechonería New York and honestly, everything was great. From the moment we walked in, the staff was super friendly — you can really feel the good vibe.\n\nI had a vegetable soup that hit the spot. It was hearty and had that homemade flavor. But what really surprised me was the plantain lasagna… totally unexpected. Nothing like the typical pasta version — it’s different, and I really liked it.\n\nThe prices seemed fair to me, you eat well without breaking the bank. I liked the place, I’d definitely go back."
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURReGZ5U1ZBEAE",
+            "text": "Hola a todos! Tengo muchas cosas que decir sobre este lugar (todas son excelentes). Llegué aquí porque me recomendaron los tamales, ya he visitado el restaurante dos veces, y las dos han sido increíbles. Los tamales los comí en casa, y se quedaron cortos con la recomendación, han sido los mejores tamales que me he comido aquí en USA, había buscado por mucho tiempo un tamal que realmente me supiera a Bogotá y aquí lo encontré. Lechona realmente deliciosa , cazuela de frijoles y la parrillada excelentes! Aquí les dejo las fotos para que se antojen . El servicio de todo el personal sobresaliente, muy amables , y la comida llegó rápido y perfecta. Sobre el lugar impecable muy limpio y agradable."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOSHF2ZDNWczlTWjl3RRAB",
+            "text": "Me encanta la Lechoneria New York, tienen platos deliciosos ! Vengo casi todos los días a comer, la comida y el lugar me recuerda mucho a nuestra bella Colombia. El servicio 10/10. Me encanta este lugar, lo recomiendo 10000 veces."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MWNWZFFaMUJLZW5sNlpEWTVNbkJSWDNrNVMxRRAB",
+            "text": "Authentic, delicious Colombian cuisine paired with top notch service. I highly recommend Lechoneria."
+        },
+        {
+            "date": "8달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBbjRqTE5BEAE",
+            "text": "Definitivamente un lugar muy agradable y acogedor. Me quedo sin palabras con la deliciosura de la comida. Todos los platos son super riquísimos y muy bien preparados.\nRecomendado al 1000"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VMVRXeEVRVTEwWDE5b2JsSmpOVmN4ZUV4T1psRRAB",
+            "text": "La comida colombiana de aquí es increíble, definitivamente tienen que comer la lechona y el tamal. Tuvimos un muy buen servicio y los precios son demasiado accesibles. Definitivamente es mi go to cuando uno se antoja de comida de su tierra y quiere sentirse más cerca de casa"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205cFRVcHBZazAyUlRoMk5rd3RhRlZzZURWdWQxRRAB",
+            "text": "Don’t pass this place up in the neighborhood. The food is delicious and you will feel you got your monies worth. In other words the price $ price to portion size is great. What more can I say other than this is really authentic, traditional Colombian cuisine."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGQ1pGUktZbmxtZEhKTlVXUllMWEpaYW5wTFlrRRAB",
+            "text": "Aunque la comida es muy buena, no me gusta que te incluyan la propina obligatoriamente,  es mejor pedir separado o pedir para llevar"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwMUpmcmJ3EAE",
+            "text": "By far the best new addition to Maspeth. The specialty here is Lechón, slow roasted pork in their special oven. The food is very reasonably priced, authentic, flavorful. My partner and I had a delicious and filling breakfast with coffee. The guacamole was fresh and delicious - I couldn't help but ask for more. In the lechona, I even got to taste the delicious crispy rice bits - my favorite. Inside is very nice though we chose outdoor seating because we had two dogs (so glad it's dog-friendly) - the umbrellas kept us very dry when it drizzled. The staff was so, so kind and attentive, and explained a lot about the dishes. I will certainly be returning and supporting this wonderful business that very clearly cares about its customers."
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvenZTNFFREAE",
+            "text": "Súper delicioso todo, me sentí en Colombia la atención de las chicas súper, todo 10/10 recomendadisimo."
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2bTVPVjN3RRAB",
+            "text": "La comida es deliciosa. Ha sido el mejor restaurante de comida colombiana al que he ido. La atención es genial, el espacio es un poco pequeño, pero vale totalmente la pena."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0eFpIU3hRRRAB",
+            "text": "Ordenamos desde el internet con doordash. Ese man con mi comida se perdio. Todo bien.\n\n-- We ordered through the internet with doordash. The delivery guy got lost with our food. No biggie.\n\nLa señora en el telephono fue super amable. Me ayudo cuando yo tenía preguntas.\n\n-- The lady on the phone was really polite. She helped me with my questions.\n\nLa comida fue bien, me gusto mucho la arepa. Fue gruesa y un poco dulce.\n\n-- The food was good, I really like the arepa. It's thick and a little sweet.\n\nEl jugo de mora hecha de agua es muy bueno.\n\n-- The blackberry juice made of water was really good.\n\nLa sopa de Carne de res tiene mucho sabor, me gustó mucho.\n\n-- The beef soup has so much flavor, I really liked that.\n\nTambién pedí una empanada (fue enorme) .. No sé por qué tenía arroz adentro..  Eso no me gustó mucho.\n\n-- I also ordered an empanada (it was huge) .. Not sure why it had rice inside.. I didn't like that very much."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNndHF1NXhBRRAB",
+            "text": "I'm not sure how this place has a 4.5 stars , 1st we asked for water , which had floating particles so we asked them to take it back  and give us water bottles, the waitress seemed annoyed because we preferred bottled water .  We ordered a Bandeja Tipica can't go wrong with that so I thought , the plate includes chorizo which was not cooked throughly it was still pink and it tasted more like a hotdog not an authentic Colombian chorizo . The rice was not fresh and partially hard  .The steak was hard We ordered a side of fries which came towards the end of our meal . This food was so bland I couldn't finish my meal . The tostones with guac and chicharron was the best part out of everything we got to eat ."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NMWRraHpNbTlwVW1OU2JVeHlkblZqT0dSQ2VtYxAB",
+            "text": "Excelente  servicio y deliciosa carta con la mejor atención ambiente familiar"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VOcXBpYXljcE9MMzRRRRAB",
+            "text": "Terrible el servicio !! Pédimos una picada para 4 personas , llegó la comida y nunca pusieron los platos esperaron que los pidiera , tampoco pusieron agua , adicional pedimos 3 platos que traían ensalada y la mesera la olvidó y recordamos 2 veces y su respuesta fue : en la cocina están un poco distraídos ( el restaurant estaba vacío ) , la limonada de coco sabía a agua , en definitiva no volvería ! Ni hablar que el servicio patetico y ahí aún te ponen la propina en automático !"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOcXRLWmhnRRAB",
+            "text": "Me comí una picada para 2 estuvo excelente muy rico les agrego una foto del antes y del después. Cómo están buena la comida es muy busy."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3N3E3cDhBRRAB",
+            "text": "Es la lechona más deliciosa que me he comido en toda la vida, es más ni en Colombia probé tal sazón y dedicación en un plato, eso sin contar la amabilidad y profesionalismo de los meseros del lugar, la higiene y el servicio excepcional, estoy muy agradecido por ese deguste culinario que me remontó a las tierras Colombianas con solo probarlo. Nunca imaginé sentirme así a distancia del país. Muchas graciaaaas"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKbUt4YzNyX1lPck5BEAE",
+            "text": "La atención es excelente y la comida muy Rica les recomiendo"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnTURveTg5ZhAB",
+            "text": "La verdad a mi no me gusta la comida colombiana nada bueno y con esto peor la carne toda elastica parese goma y pues me dañaron la cena no hay nada mejor que Lo Mexicano"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMeXp3X1dma3VuZDZBRRAB",
+            "text": "Fui con mi familia para celebrar el día del padre, la pasamos sensacional, excelente servicio, la comida y el ambiente increíble. Muy satisfecha con los alimentos, recomiendo este restaurante al 100%. 👍👍"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sNmNqbENjRGRwY1ZSZlZVRXphakJXT1VaamEwRRAB",
+            "text": "Excelente servicio , la atención siempre muy buena , la comida demasiado deliciosa\nEl ambiente agradable\nY muy importante súper aseado todo"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkbmNFVnlWRFJFT1d4WVIyZ3RRMEZoVEdKUVNuYxAB",
+            "text": "La lechona y el tamal valluno 😍😍😍 deliciosos. Los recomiendo 100% me encanto"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvenBhUE9REAE",
+            "text": "The hamburger was so delicious, this is my favorite place to eat Colombian food. The environment is comfortable and the service is great, they play attention for you Well-being and comfort. If you need something just ask them, they always respond you with kindness."
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnekpQWk13EAE",
+            "text": "We had great service and excellent food. It was on a Friday night - but we came in around 8:30 so it wasn't crowded.  Our server really went above and beyond to explain the menu options, and made great recommendations.  Everything was delicious, and the wait time was reasonable.  They could manage dietary restrictions as well.\n\nThe only disappointment was that some of the \"weekend\" menu items were not available on Fridays, and the Oreo cookie cheesecake was not available that night either. 😥.\n\nUpdate:  The experience will vary based on the server.  Went back again, this time they helped themselves to a tip (auto added to the bill for just three of us), and I felt attitude from the server like our requests were aggravating her.   No follow up no offer to refill drinks or see if we needed anything. This was so unlike last time.\n\nThe food remains good. Very flavorful.  Just know that if you get good service, consider yourself lucky.\n\nPrices were reasonable, not cheap but not too pricey either.  We will definitely be back. 👍"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201Qk5YQmxWMlZWV2xJd1RESnJha0ZHYms5b1RtYxAB",
+            "text": "Comida deliciosa y la atención muy buena.\nRecomendado"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqLTczYzRRRRAB",
+            "text": "Both food and service were great! It's a tad far from train stations, but worth the commute."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQXzEyb0QzNjc2RkdBEAE",
+            "text": "La comida es deliciosa, siempre fresca y de exquisito sabor. Atención excelente."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VKYXg1UFNZMWY2cEhnEAE",
+            "text": "En la Biblia se dice que es lo mismo robar un centavos que 100 dolares, por decir un ejemplo.\nNo es lloriqueo pero si se me hace falta de respeto que no cobren lo correcto, pago ub precio cuando la comida vale distinto, asi sea centavos lo que me estan robando pero se me hace muy deshonesto de su parte.\nLa ves pasada igual me robaron 35 dolares, y no uvo respuesta incluso hablando con el encargado. Que pena que agrandamos este tipo de negocios"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUc1lMd0d3EAE",
+            "text": "Hace unos días fuimos a comer a la Lechoneria NY y realmente fue una experiencia maravillosa, disfrutamos una variedad de comida deliciosa (perro caliente, ternera mixta y tostónes con chicharrón… 🤤)  y todo acompañado de una atencion única. Súper Recomendado 🤗 … Pdta. La lechona y los tamales también son espectaculares."
+        },
+        {
+            "date": "9달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfeXVyazRBRRAB",
+            "text": "La foto no necesita descripción, encuentro un manojo de pelo que por el largo no parece ser del cerdo!\nNos  encanta la comida! los accidentes pasan solo no descuiden la calidad 😓😢"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZMFREYzVUblZYVW1kT2JIcHJUV0Z6UkU1YVdVRRAB",
+            "text": "Es un lugar pequeño pero el ambiente es agradable.  Buena comida. Hoy compré por aplicación Uber eats y me cancelaron 2 veces el pedido. Me toco ir a pedir y recoger personalmente."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWUlRXTk5jazlrVEZsVFp6YzVURkJWUXpScFJuYxAB",
+            "text": "Primer restaurante en tres años que puedo decir que es 100% colombiano los precios son considerables el servicio muy bueno"
+        }
+    ],
+    "reviews_count": 84
+}

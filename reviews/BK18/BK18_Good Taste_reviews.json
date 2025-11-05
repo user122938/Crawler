@@ -1,0 +1,502 @@
+{
+    "name": "Good Taste",
+    "place_id": "ChIJIcl08RVdwokR24UeZDtMldw",
+    "grid": "BK18",
+    "address": "5919 Flatlands Ave, Brooklyn, NY 11234, USA",
+    "rating": 4.3,
+    "user_ratings_total": 379,
+    "phone_number": "(718) 709-9717",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25adVJrTlNPQzFwTVhBNGRtRm9UMDlwTVRkWVYyYxAB",
+            "text": "Came here on 10/21/25, to get food for the first time and it was Nice and clean … I got the fried snapper with ble and some gravy .. The food was good and I’ll be back again, i saw some other foods I would like to try.  The amount of food u receive and the pay , was excellent. Not expensive at all…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kSVNHNDNZMFpXYld0dFNYSTVRVXhtY0ZoaWMyYxAB",
+            "text": "Every aspect of dining here feels carefully considered. The food was beyond outstanding. Their interior presents a cohesive theme. We never waited long and everyone was nice. This restaurant has earned my complete dedication."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pabWRYSmtZVGMyZFZCSGNVaDVaRTF6V2tnMlZHYxAB",
+            "text": "Poor customer service, they did NOT give me the black rice with my fish, when I went back, the guy rudely argue with me and he refused to give the rice, even though they had already taken it out for me. Very bad atmosphere, disrespecting people work there. Beware"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsU2QydDZTemcxVVZsaFh6RjVTbU0yYTIwdGRWRRAB",
+            "text": "Food is delicious but customer service is horrible. Cant be arguing with customers and accusing they are lying for no reason. I wish management would take some time to properly train their employees; especially the women with attitude problems."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJMlZ6VjFha3c1VHpWclVHdExUREJEZW5aM1YyYxAB",
+            "text": "It's a good spot for take out. They have good haitian food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5a1IxUkhUa2w2V1ZsRlVreHJOR3N0UVhwTVgzYxAB",
+            "text": "So good so far"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zNFEzUnlSakJ3TkZaT05UbHlWekJzZWtkTlFtYxAB",
+            "text": "The good haitian food. Specially for the \" Griot\""
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wU01VOHpXRkEwU1RZNVZFcE1OMlI0ZWpsRlVsRRAB",
+            "text": "Very rude servers"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOUWRIa3pXVmhVT0hSZmFVSlFaekkxVlRnNGVtYxAB",
+            "text": "The best Haitian food for me right now in Brooklyn, I eat from there at least twice a week if not more. Those cooks know what they are doing in that kitchen. It's like a home cooked meal to go pretty much. You can't go wrong. 👍🏾👍🏾"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxdU5pMUlNWHBMT0RsUE16QlhkME5pY1ZkUWFFRRAB",
+            "text": "Good food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkRmIyOVNYMWhFUmxoSWN6SnRWSEpPYWxSeVltYxAB",
+            "text": "Disappointed\nFood is tasteless\nThey ran out of rice and still charged me for a full plate. Wouldn’t give me the sauce I requested. Never going back waste of time and money"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210eGVGVkVRbTgzU0RSWlVtOWpNM1pqVDB4d1IzYxAB",
+            "text": "Place is always busy but food is great! Customer service could use some improvement but overall decent place for great Haitian food!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210UWFreHFYMEo2UTB0dWFtOTNRVWg0TFRaMloxRRAB",
+            "text": "Deliciously good 🤗"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toSlpXSjFUbkl4ZWtJd2RraG1XbFJ1VUZJM09GRRAB",
+            "text": "A must-try spot for anyone who loves good food."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKWlJtbFFjREZCUkVKaVFqbHhSbmxHWTNsUFRGRRAB",
+            "text": "Very stingy with the food especially the rice the woman pick and choose they want to give more food too."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aNmRuQXhObTgyVFVkMllqZFdkalJ2WDNoTGRYYxAB",
+            "text": "Place always has a line but you get consistentcy. Other Haitian restaurants have bad sauce pwa or the rice might be burnt . They really got this factory down to a science"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJdjEwUGY4OGZ1SFpnEAE",
+            "text": "Food good a little too pricey"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1U2VEVjNRMlJDYjFCQlpVeFdkVE5LVkdneFVWRRAB",
+            "text": "Best Haitian food in Brooklyn hands down! Well seasoned and large portions. I had the fish (blue snapper) with white rice and sos pwa. Fresh and delicious.  Would definitely come back again!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNNzlpdEhjbF9EMUVREAE",
+            "text": "This location is just as good as the Queens location on Linden Blvd. Just like my review on the other location, Good Taste is the best!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJZk05b2pobXBqRkZBEAE",
+            "text": "You don't spend too much time waiting in line."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvLWQyQnZRRRAB",
+            "text": "my favorite restaurant in Brooklyn"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXN3VEelR3EAE",
+            "text": "Like this restaurant and food, as usual there's always someone's with attitude, this lady packed my food and it was leaking, she kept yapping about it wasn't soon the man opened the bag all the sauce was in the bag, the man told her to give me another food, she just fixed it, but haitian has no customer service I didn't expect otherwise"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtdnFYcEhBEAE",
+            "text": "Food is delicious Nothing else needs to be said\n\nUpdate, went on 10/3. Got the turkey. Giant pieces of skin and fat. almost no meat.\n\nThey need to work on the line. Waiting 20 min just to pay."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRLWZ5X2lBRRAB",
+            "text": "Always my go to great food. Nice portions for the price"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRN09lSEZnEAE",
+            "text": "NO DELIVERY!! COME ON MOW"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBOEktazNRRRAB",
+            "text": "What else can I say. If Haitian food. It's good"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfNHZEbENnEAE",
+            "text": "Some of The best Haitian food in New York. Long wait times but it’s worth it.  Wish I had picks but it’s so good that I forget to take pics of the food 🤭. Get the fried boneless fish, tassot and di riz Cole."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfdzd1V2lRRRAB",
+            "text": "The Haitian food here is so good, and quick service. They only do Take Out at the restaurant. Wish it stayed open later."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfbGY2REl3EAE",
+            "text": "Great Food and friendly staff"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfNXEyOGNREAE",
+            "text": "My Haitian husband went inside yesterday while I was I  the car googlin reviews..for the most part the flavors is there similar to my Haitian/African/Southern..just CLEAN the meat! And stop serving beef calling it goat! We know the difference!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmeXRtejlnRRAB",
+            "text": "The food are so delicious & price is very fair."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmc2VxTVl3EAE",
+            "text": "This place is great business and the food is delicious!! Griot, pikliz, white rice, macaroni!! All for me!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmbHZHQldnEAE",
+            "text": "I had high hopes for this restaurant, but it was a complete disaster from start to finish. The service was appalling—staff were inattentive and  rude. It took over 30 minutes just to place an order, and another half hour to pay for it.\n\nThe quality of the food was equally disappointing. The portions were embarrassingly small for the price. I guess they feel the amount of rice they give should make up for the mostly bones they serve as meat.\nIt’s clear that management has no interest in running a decent establishment. This place is an insult to the Haitian community, as it is a clear example of how NOT to run a business.  I would never recommend this den of incompetence to anyone unless you have a taste  for frustration and anger. Save your time, money, and appetite—go elsewhere."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2dmJlNVpnEAE",
+            "text": "The workers are very rude. They gave me the wrong order. The food was also nasty and cold."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2aXZhVjhRRRAB",
+            "text": "Everything is good in perfect"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2MHFUNk53EAE",
+            "text": "Good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzMU43SjJ3RRAB",
+            "text": "The food was amazing and the service was fast. The service was okay but I could see the workers getting very frustrated with customer requests. The food was fresh and very tasty! The line was to the door when I arrived which made me believe the food was a local favorite spot. First time here and definitely plan on flying back out to try out some stuff I missed like the fresh daily soup and lalo! Prices were amazing and I can’t wait to come back and also tell some folk I know!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5aElMekZ3EAE",
+            "text": "The fried fish, rice with beans  and turkey are always great. 👌"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYNXBmMXdRRRAB",
+            "text": "Hi! everything is always perfect but the beans sauce I don’t know if we put some flour on it, really tick and don’t really tasted the beans flavor . Thanks make it better please"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUMGFYeDFBRRAB",
+            "text": "Got the legume and rice and beans. Good authentic taste. I wanted to try all the rice in one place. But was told no. The white rice is good. Could not get to sample the others."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2a2VtUlNnEAE",
+            "text": "Food is delicious. Good portions given for the price. Finally a Haitian restaurant that serves food on time! Traditional Haitian breakfast food items all ready by 8:30am. Variety of soups served on Sundays starting at 8:30. Lunch food…"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSOW9XZ1NBEAE",
+            "text": "The food at this restaurant is truly outstanding. It's incredibly authentic and brings back memories of the delicious flavors of Haiti 🇭🇹."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtX0o2X3ZnRRAB",
+            "text": "Love the food. I m do happy there is finally a Brookkyn location. Their legume is my fave. Oh yeah I can't live without their Poisson Gro Sel. My friend is hooked on the Tassot."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2X01hb2l3RRAB",
+            "text": "Just saw that the restaurant opened in the neighborhood across the H.S. B82, B47 & the B6 is there. Decided to check it out. No Printed menu or prices to be seen inside the store. You have to scan the QR code . Scan it seriously before you order . Looks clean & the staff was nice. You form a line & pick what you want & at the end is the register. I ordered what I felt looked good, paid & left. When I got home I looked at the menu. I got rice with red beans, fried goat (which my order had 3 pieces of meat & the rest was bones),  lil salad 🥗 & fried plantain. They gave me a lil container of Pikliz. I got a grape soda for my son & fruit champagne soda for me  to try it. Total was $23.95 .Food tasted good so yeah I'd go there another time to try the other meats. The lady said they Dont do delivery & Close at 9p.m. They sell slices of red Velvet, chocolate & 2 other kids of cake & jars of pikliz FYI . Maybe one was cheesecake slices ."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtdFBMbTlnRRAB",
+            "text": "I went to this place 2 times. 1st time it closed an hour before it states on the Google site which was 8pm. I got there at 7:10 on a weekday and they were closing. It hurt because I been trying to get to this place for a few weeks now and I…"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUbmRlNmdBRRAB",
+            "text": "What is going on in there?  First time customer here and I don’t know if all the hyped I was told about this restaurant  either was a lie or they changed their cooks. When I got home and opened the bag the food had a terrible smell, like it was rotten. This was the first bad sign.I ordered the mushroom rice  with fried fish, when I tell you  there was no flavor , I mean no flavor!  Where was the epis??  Thank god for the onion pikliz , without it I would not have been able to eat this food .  The side sauce taste like prego tomatoes sauce no flavor. You guys have to do better than this"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtd09Qd2dBRRAB",
+            "text": "Words cannot explain how good this food is! I couldn't take a pic of my meal because the food was unresistable! The meat WAS COOKED TO PERFECTION OK!  No fatty parts . Its smoothly slide off the bone. Amazing! Every bite was better than the next one!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKOHBuX1l3EAE",
+            "text": "Coming from a large Haitian household, my family and I agreed this food reminded us of our grandmother's cooking. Never have we been to a place that executed every single dish so perfectly. We drove an hour to get this food and would gladly do it again. Confused as to why people are giving low ratings, the service was great, and they were patient when we were a bit indecisive. They also continued to speak to us in Kreyòl even though our Kreyòl wasn't perfect. Sadly, I'm from out of town. Can't wait to go back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOLXRqU1VREAE",
+            "text": "I love this Haitian restaurant and the food is so delicious. This is my family’s go to for authentic Haitian food. My last experience wasn’t too good though. The Tasso is usually good but this time I couldn’t even bite it and finished it it was too hard and not tender. The flavors were lacking. It costs more than the other meals so I hope it becomes consistent again with the taste. I wished they had macaroni and cheese every day but they didn’t have it that day. But overall the food is pretty good. In the legumes I rather seasoned cooked meat not smoked turkey because I don’t like smoked turkey in my legume."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREbThqVUpBEAE",
+            "text": "Honestly, this is the best Haitian restaurant I've been to in Brooklyn.  So many options, the people are welcoming, and the food taste great. So far I've had the griot and fried chicken.  The rice mixed with the green peas is so good.  Mac and cheese is good too.  The restaurant is spacious.  It is not a sit down restaurant.  I can't wait to try the other dishes!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNONTlHUm9nRRAB",
+            "text": "This was Haitian food at a very excellent level. The service was really good. Although, I am not sure if everyone was good at understanding English.\n\nIt will be great if some signs are placed around the food offerings for the sake of persons who are not Haitians.\n\nThe prices are very reasonable!\n\nGreat work!\n\nKeep it up!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwOUtiV0V3EAE",
+            "text": "Food was excellent. We had the fried fish with rice and beans. The seasoning and batter of the fish was probably the best like when ya granny used to fry up some fish on Sunday. Theyre very generous with the portions too. One platter fed two people. The meal also came with fried green plantain, two condiments the pickled veg and rich gravy that added more flavor to the food. I kinda wanted to go back for another order that's how good this was. It's a bit of a wait when there busy so be prepared for that."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3NnNQdzFRRRAB",
+            "text": "Went to buy food at this place on 8/14/24 around 5:30pm. I'm giving time details so the manager could see who was serving. I ask for a fried goat that she bombarded with bones. I just ask her to remove a dry bone. She told me:\" the goat comes with bones . I will have to take it with the bones or leave it. What type of customer service is that?\n😡😡😡😡😡😡. To tell your fellow customer to have bones for their money. ????? Goat is 22$.\nWhen are you guys going to respect your community?... This lady is rude to be placed in the front..😡😡😡"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCcXBYVmlnRRAB",
+            "text": "I don't eat at many Haitian restaurants for several reasons.  There are only 2 that I trust my stomach with and Good Taste is one of them.  Clean, organized, and efficient. The price point for food and drinks is fair and they give a lot of food, great portions for rice and meat! This restaurant offers a lot of variety in terms of dishes. If you've never had HAITIAN food and want to try  make this restaurant your go to."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkcDUyZU93EAE",
+            "text": "This restaurant provided great service when it first opened, since then there has been a serious decline. Either the lines are extremely long with few staff on hand or they run out of sides at their peak hours of sales and they have to be asked to replenish dishes that are near to the end of the pan. Additionally the customer service is poor. The  ladies serving are not friendly-nor do they greet you. They behave as if questions or requests are a bother to them. With so many restaurants available I have decided that I will spend my money where I feel welcomed and appreciated to patronize one’s business."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4OFptN3FBRRAB",
+            "text": "This is one of the best Haitian fast food restaurants. The service is fast, 10mn if there is no line, the food is delicious, and the price is right. No seating. Pick up only. There is no scarcity. You will find what you need and variety. I cannot recommend enough."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEX0pmV3RnRRAB",
+            "text": "The food tasted old and reheated. The legume was watery and there was no meat in it just big pieces of bones. The plantains were cold soggy and also tasted not fresh. The diri kole was dirt . This Haitian spot is dirt. Would not recommend this place to anyone ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyaFBPd1pnEAE",
+            "text": "Coworker referred me to this place and i am in love, the portions, the flavor, food is very delicious, when you taste the food you can tell its made with love  ❤️, i went on a saturday evening and it wasnt a long line, and the service was pretty quick, and the ladies were nice. i will definitely be coming back when i am in brooklyn, and i will be recommending to my friends. Thank you Good Taste ❤️🙏🏼"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtNEpYZjlBRRAB",
+            "text": "They could do better. First off, yes the restaurant is clean. I went to this place to get something to eat but when I got there I saw one of the one of the server took the empty tray out heating burners and took that same wet tray and put…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5dGNUa2ZBEAE",
+            "text": "There is a light skin lady there who refused to give enough meat from the Flatland location. I was behind a customer who wanted a decent goats cutlets, she pretended that that she didn’t understand what the customer was asking. The customer and I pointed that out to her. She got mad, so When she got to me I asked for goats and griot, she purposely didn’t put enough griot for me.\nTheir food are ok they give decent amount of rice but some employees in there like her, they act like they refused to give decent amount of meat. They’re picking tiny cuts of meat to put in the plate and they’re taking them off giving an illusion that they’re giving you decent amount of meat. Service is horrible, customer is horrible."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxc051UElnEAE",
+            "text": "Despite the satisfactory quality of the food, the service was severely lacking. The cashier, who wore glasses, displayed unnecessary rudeness when I inquired about their phone line always being unanswered. He dismissively replied that they were busy and rolled his eyes, despite the fact that there were 20 staff members present in the restaurant. Such behavior was completely uncalled for, especially coming from someone within your own culture. It's truly disappointing."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwd291MC1nRRAB",
+            "text": "My mom told me me bout this place I was so excited to go cause its literally in my neighborhood. When i got there I wasn't sure how the line nd system in there works. You would've thought the lady behind the counter would've been helpful or NICE.(The others customers were so nice)A few workers had an attuide as if I'm not spending my MONEY. I also work in the food industry I just got my health food license. This is sad it's always my people acting a damn fool....NEVER AGAIN.\n\n*******UPDATE********  I have to say that they have been getting it together lately. I upgraded my 🌟  because everybody deserves a second chance. The ladies are so much nicer and calm. I'm happy I decided to try again . It was definitely worth it ."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXMmFid3ZnRRAB",
+            "text": "The food is really good, if you’re looking to get good Haitian food this one of the best place to go. Be ready cause the staff is Rude, it’s better to have cash on if you don’t wanna pay $1.50 just for using your card(debit, credit). This is legally stealing money from others."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0NUp1WmNREAE",
+            "text": "Seems like every Haitian spot I go, the servers are upset that I don't speak their language then lace me with attitude. Can't speak on the food, as I only went because my friend requested  the favor. What is the line system? So awkward. Price is $$$, $27 is way too much for rice goat and salad."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSanJxaThRRRAB",
+            "text": "I must say the service is much faster than the one located in Queens, NY. Food tasted the same off course. They full your plate with a lot of rice to make it look like you're getting an abundance of food and very little meat of your selection. Forget about the sides. Plantains are always dry and rock hard. It can choke the life out of you. Rarely would I ever get fresh, soft plantains that I could enjoy eating."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3eU5MQUNREAE",
+            "text": "I came in there to ask if they had any patty and the lady called her co worker asking her what’s patty and they all started laughing making fun of me and going on out loud with everyone on the staff. Terrible service I won’t be coming here. It’s funny there making fun of me but yet if they knew English the word for Pate is patty."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtNm9pSlNnEAE",
+            "text": "Finally a spot I can enjoy. The food is good and it's fresh. I've tried the goat (taso), turkey, legume and chicken all very good.\nBe very aware that their might be a line (which to me is a good thing). The customer service is on point. No one is rude even the cashier is nice. The system they have in place to order food is great. Everytime I tell myself not to go I end up there🤦🏾😩. The food is amazing."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwbUpDU3JBRRAB",
+            "text": "I bought legume with pork, but I noticed that the pork was not well prepared because the meat contains all the fat, which is really  unhealthy. These days a person's health is the most precious gift and I hope the restaurant did not use the fat to replace healthy oil. I will not go back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURia3BmbHlRRRAB",
+            "text": "Food was ok what I went for they didn't have it on the day I went. But I appreciate the one in Cambria Heights. The food is so tasty, overthrew. I always go there on my break for some good food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWcDlxNVB3EAE",
+            "text": "This is my favorite go to Haitian place. The food taste like someone’s grandma is in the back cheffing it up.\n\nThey have a variety of options. I try to switch up what I get every time I go there but since there is such a language barrier I always get black rice, fried fish, and macaroni. Delicious .\n\nOne thing I don’t like about this place is that they think everyone speaks/understands creole.\n\nTHIS IS HOW TO ORDER:\n1. Walk in\n2. Go to wear the meats and stews are.\n3.If you don’t understand or speak creole just point to what you want.\n4.Walk over to the side where the rice is.\n5. Point to what rice you want.\n6. They are going to ask you if you want sos pwa.\n7. They are going to ask you if you want macaroni or salad.\n8. Plantains automatically come with your food.\n9. Then go home, kick your feet up and enjoy this delicious meal. It’s just that good."
+        }
+    ],
+    "reviews_count": 70
+}

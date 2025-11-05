@@ -1,0 +1,482 @@
+[
+    {
+        "name": "Sanfords",
+        "address": "30-13 Broadway, Astoria, NY 11106, USA",
+        "place_id": "ChIJK6yDNjdfwokR_I3wR_rkS8s",
+        "rating": 4.4,
+        "user_ratings_total": 2497,
+        "phone_number": "(718) 932-9569"
+    },
+    {
+        "name": "Astoria Seafood",
+        "address": "37-10 33rd St, Long Island City, NY 11101, USA",
+        "place_id": "ChIJ-ecLnC5fwokRTsOuoOsTC6U",
+        "rating": 4.3,
+        "user_ratings_total": 1639,
+        "phone_number": "(718) 392-2680"
+    },
+    {
+        "name": "Taverna Kyclades",
+        "address": "36-01 Ditmars Blvd, Astoria, NY 11105, USA",
+        "place_id": "ChIJ90pvtWdfwokRw86tuNLCG7g",
+        "rating": 4.6,
+        "user_ratings_total": 5020,
+        "phone_number": "(718) 545-8666"
+    },
+    {
+        "name": "Edge of Astoria",
+        "address": "27-40 21st St, Long Island City, NY 11102, USA",
+        "place_id": "ChIJb_qJR9NfwokRbMbyA_hc4uA",
+        "rating": 4.8,
+        "user_ratings_total": 51,
+        "phone_number": "(718) 274-4590"
+    },
+    {
+        "name": "The Bonnie",
+        "address": "29-12 23rd Ave, Astoria, NY 11105, USA",
+        "place_id": "ChIJIXxptEJfwokRRzu3bQietPo",
+        "rating": 4.5,
+        "user_ratings_total": 1628,
+        "phone_number": "(718) 274-2105"
+    },
+    {
+        "name": "Blend on the Water",
+        "address": "45-40 Center Blvd, Long Island City, NY 11109, USA",
+        "place_id": "ChIJaQR-pCFZwokRNMloynEQPgA",
+        "rating": 4.2,
+        "user_ratings_total": 5722,
+        "phone_number": "(718) 606-9851"
+    },
+    {
+        "name": "Tootles & French",
+        "address": "36-15 Ditmars Blvd, Astoria, NY 11105, USA",
+        "place_id": "ChIJDxoRVI5fwokRe7CFVS6EWCI",
+        "rating": 4.6,
+        "user_ratings_total": 322,
+        "phone_number": "(347) 642-3012"
+    },
+    {
+        "name": "Nisi Estiatorio",
+        "address": "32-07 30th Ave., Astoria, NY 11102, USA",
+        "place_id": "ChIJtSFIicJfwokR_45-KqmFMQA",
+        "rating": 4.5,
+        "user_ratings_total": 277,
+        "phone_number": "(718) 440-9295"
+    },
+    {
+        "name": "Psari",
+        "address": "32-10 36th Ave, Long Island City, NY 11106, USA",
+        "place_id": "ChIJqe-Kai5fwokRo43jYIv3-DM",
+        "rating": 4.4,
+        "user_ratings_total": 881,
+        "phone_number": "(718) 786-6015"
+    },
+    {
+        "name": "Cielito NYC",
+        "address": "33-02 36th Ave, Long Island City, NY 11106, USA",
+        "place_id": "ChIJMQKGg3FfwokRJLaWmZkOpac",
+        "rating": 4.8,
+        "user_ratings_total": 128,
+        "phone_number": "(718) 786-4800"
+    },
+    {
+        "name": "Beija Flor",
+        "address": "38-02 29th St, Long Island City, NY 11101, USA",
+        "place_id": "ChIJA9zY7SxfwokR2Sh2eXYcRd8",
+        "rating": 4.4,
+        "user_ratings_total": 1053,
+        "phone_number": "(718) 606-2468"
+    },
+    {
+        "name": "Anassa Taverna Astoria",
+        "address": "28-10 Astoria Blvd, Astoria, NY 11102, USA",
+        "place_id": "ChIJN7M5ifhfwokR0ojtSOmzHrY",
+        "rating": 4.7,
+        "user_ratings_total": 789,
+        "phone_number": "(718) 721-5050"
+    },
+    {
+        "name": "The Grand",
+        "address": "37-01 30th Ave., Astoria, NY 11103, USA",
+        "place_id": "ChIJGTRAZT9fwokR5nDN7FxwiKI",
+        "rating": 4.1,
+        "user_ratings_total": 1625,
+        "phone_number": "(718) 806-1504"
+    },
+    {
+        "name": "Inca Paisa Restaurant Astoria",
+        "address": "21-19 Broadway, Astoria, NY 11106, USA",
+        "place_id": "ChIJuYT7ZXpfwokRjoiN0LfRVc8",
+        "rating": 4.7,
+        "user_ratings_total": 1435,
+        "phone_number": "(347) 448-6400"
+    },
+    {
+        "name": "Le Petit Pêcheur",
+        "address": "40-17 30th Ave., Astoria, NY 11103, USA",
+        "place_id": "ChIJAz89JjRfwokR1OhDY_AWoj0",
+        "rating": 4.9,
+        "user_ratings_total": 186,
+        "phone_number": "(347) 808-0124"
+    },
+    {
+        "name": "Truth Restaurant Astoria",
+        "address": "27-35 21st St, Astoria, NY 11102, USA",
+        "place_id": "ChIJx9TFWhBfwokRjqfzfLhojJo",
+        "rating": 4.5,
+        "user_ratings_total": 223,
+        "phone_number": "(347) 527-2199"
+    },
+    {
+        "name": "Lighthouse Rooftop",
+        "address": "45-15 37th St, Long Island City, NY 11101, USA",
+        "place_id": "ChIJnduXzuVfwokRk2VE0PeUdmM",
+        "rating": 4.1,
+        "user_ratings_total": 796,
+        "phone_number": "(718) 550-6108"
+    },
+    {
+        "name": "Casa Enrique",
+        "address": "5-48 49th Ave, Long Island City, NY 11101, USA",
+        "place_id": "ChIJv4bbdSNZwokRCgKfDGF8az8",
+        "rating": 4.5,
+        "user_ratings_total": 2939,
+        "phone_number": "(347) 448-6040"
+    },
+    {
+        "name": "Gulp",
+        "address": "42-45 27th St, Long Island City, NY 11101, USA",
+        "place_id": "ChIJzdIV2eNZwokRxSJvbX8IIZ0",
+        "rating": 4.8,
+        "user_ratings_total": 1888,
+        "phone_number": "(929) 789-8644"
+    },
+    {
+        "name": "Trattoria Ora",
+        "address": "18-01 Astoria Blvd, Astoria, NY 11102, USA",
+        "place_id": "ChIJTUW3105fwokRTUXSiiya0gg",
+        "rating": 4.7,
+        "user_ratings_total": 197,
+        "phone_number": "(718) 433-9680"
+    },
+    {
+        "name": "Little Flower Cafe",
+        "address": "25-35 36th Ave, Astoria, NY 11106, USA",
+        "place_id": "ChIJs_GSrAxfwokRrXbHbDCmc5w",
+        "rating": 4.6,
+        "user_ratings_total": 563,
+        "phone_number": null
+    },
+    {
+        "name": "VITE vinosteria",
+        "address": "31-05 34th St, Astoria, NY 11106, USA",
+        "place_id": "ChIJu_ZPCDlfwokRNS7856uUxDk",
+        "rating": 4.6,
+        "user_ratings_total": 735,
+        "phone_number": "(718) 278-8483"
+    },
+    {
+        "name": "Maiella",
+        "address": "46-10 Center Blvd, Long Island City, NY 11109, USA",
+        "place_id": "ChIJd00MRyJZwokRU-lmTi8kC2I",
+        "rating": 4.4,
+        "user_ratings_total": 1839,
+        "phone_number": "(718) 606-1770"
+    },
+    {
+        "name": "Sala Astoria",
+        "address": "34-39 31st St, Astoria, NY 11106, USA",
+        "place_id": "ChIJAbsLZZVfwokRaPB3n0fqHuI",
+        "rating": 4.7,
+        "user_ratings_total": 336,
+        "phone_number": "(929) 556-3038"
+    },
+    {
+        "name": "Bahari Estiatorio",
+        "address": "31-14 Broadway, Astoria, NY 11106, USA",
+        "place_id": "ChIJcy1LrTBfwokR5zUyDZqHSKM",
+        "rating": 4.5,
+        "user_ratings_total": 1707,
+        "phone_number": "(718) 204-8968"
+    },
+    {
+        "name": "Amylos Taverna",
+        "address": "33-19 Broadway, Astoria, NY 11106, USA",
+        "place_id": "ChIJNcVXxklfwokRVyqI-jhfMFY",
+        "rating": 4.5,
+        "user_ratings_total": 1113,
+        "phone_number": "(718) 215-0228"
+    },
+    {
+        "name": "Mar's",
+        "address": "34-21 34th Ave, Astoria, NY 11106, USA",
+        "place_id": "ChIJwX48nTpfwokR63DTWAN8KyA",
+        "rating": 4.4,
+        "user_ratings_total": 539,
+        "phone_number": "(718) 685-2480"
+    },
+    {
+        "name": "Blend Astoria",
+        "address": "37-17 30th Ave., Astoria, NY 11103, USA",
+        "place_id": "ChIJ0Z40cT9fwokR8aKrtGOLG0Y",
+        "rating": 4.2,
+        "user_ratings_total": 2177,
+        "phone_number": "(718) 606-6383"
+    },
+    {
+        "name": "Vista Sky Lounge",
+        "address": "27-05 39th Ave, Long Island City, NY 11101, USA",
+        "place_id": "ChIJAemDtCxfwokRrfHv58ZtcxA",
+        "rating": 4,
+        "user_ratings_total": 1000,
+        "phone_number": "(347) 536-3640"
+    },
+    {
+        "name": "Jhoanes Bakery & Coffee",
+        "address": "33-04 Broadway, Astoria, NY 11106, USA",
+        "place_id": "ChIJaYZon9lfwokRSEPDQeheX30",
+        "rating": 4.7,
+        "user_ratings_total": 1095,
+        "phone_number": "(347) 408-7024"
+    },
+    {
+        "name": "DK PubLIC",
+        "address": "38-40 29th St, Long Island City, NY 11101, USA",
+        "place_id": "ChIJ94mJveFfwokRDjxQ-8fT0yw",
+        "rating": 4.5,
+        "user_ratings_total": 346,
+        "phone_number": "(718) 433-9316"
+    },
+    {
+        "name": "Ovelia",
+        "address": "34-01 30th Ave., Astoria, NY 11103, USA",
+        "place_id": "ChIJqUtnVkdfwokRsalMB02tYL4",
+        "rating": 4.4,
+        "user_ratings_total": 894,
+        "phone_number": "(718) 721-7217"
+    },
+    {
+        "name": "John Brown BBQ",
+        "address": "27-20 40th Ave, Astoria, NY 11101, USA",
+        "place_id": "ChIJfSp0FS1fwokR8PYGmnV6vYs",
+        "rating": 4.5,
+        "user_ratings_total": 3079,
+        "phone_number": "(347) 617-1120"
+    },
+    {
+        "name": "Christos Steak House",
+        "address": "41-08 23rd Ave, Astoria, NY 11105, USA",
+        "place_id": "ChIJz2taOGlfwokRk4xoDPMRWbQ",
+        "rating": 4.6,
+        "user_ratings_total": 991,
+        "phone_number": "(718) 777-8400"
+    },
+    {
+        "name": "Loukoumi Taverna",
+        "address": "45-07 Ditmars Blvd, Queens, NY 11105, USA",
+        "place_id": "ChIJ11iMTW5fwokRYr9z-BtZDr0",
+        "rating": 4.7,
+        "user_ratings_total": 1118,
+        "phone_number": "(718) 626-3200"
+    },
+    {
+        "name": "Kakes NYC",
+        "address": "10-43 44th Dr, Long Island City, NY 11101, USA",
+        "place_id": "ChIJ3ymk_i1ZwokRCmOt8q7NUqw",
+        "rating": 4.7,
+        "user_ratings_total": 725,
+        "phone_number": "(870) 525-3769"
+    },
+    {
+        "name": "Oliver's Astoria",
+        "address": "37-19 Broadway at 38th Street, Astoria, NY 11103, USA",
+        "place_id": "ChIJ92yHlTtfwokRbNk2Xo2iVQE",
+        "rating": 4.4,
+        "user_ratings_total": 1326,
+        "phone_number": "(718) 806-1476"
+    },
+    {
+        "name": "Spanglish NYC Astoria",
+        "address": "36-03 Ditmars Blvd, Long Island City, NY 11105, USA",
+        "place_id": "ChIJdftOj2BfwokRpQT6Ikrhh0w",
+        "rating": 4.8,
+        "user_ratings_total": 205,
+        "phone_number": "(347) 808-0177"
+    },
+    {
+        "name": "TRU Astoria",
+        "address": "35-19 Ditmars Blvd, Astoria, NY 11105, USA",
+        "place_id": "ChIJe0HPI2ZfwokR6lph0iPZIyE",
+        "rating": 4.3,
+        "user_ratings_total": 1147,
+        "phone_number": "(646) 878-6000"
+    },
+    {
+        "name": "Stamatis",
+        "address": "29-09 23rd Ave, Astoria, NY 11105, USA",
+        "place_id": "ChIJl8zvTF1fwokRGKyptukvIhE",
+        "rating": 4.6,
+        "user_ratings_total": 1949,
+        "phone_number": "(718) 932-8596"
+    },
+    {
+        "name": "Mom's Kitchen & Bar",
+        "address": "33-01 31st Ave, Astoria, NY 11106, USA",
+        "place_id": "ChIJg3PSVDhfwokR24ybwNy-9Ho",
+        "rating": 4.4,
+        "user_ratings_total": 2467,
+        "phone_number": "(718) 267-0142"
+    },
+    {
+        "name": "Mimoza Restaurant & Lounge",
+        "address": "36-05 30th Ave., Astoria, NY 11103, USA",
+        "place_id": "ChIJe5kMylJfwokRy-n5te7zDd8",
+        "rating": 4.9,
+        "user_ratings_total": 366,
+        "phone_number": "(718) 673-6360"
+    },
+    {
+        "name": "Sotto la Luna",
+        "address": "34-39 31st St, Astoria, NY 11106, USA",
+        "place_id": "ChIJBTuSXqhfwokRpjEVqzy1U6U",
+        "rating": 4.5,
+        "user_ratings_total": 795,
+        "phone_number": "(631) 380-3569"
+    },
+    {
+        "name": "Porta 23",
+        "address": "29-17 23rd Ave, Queens, NY 11105, USA",
+        "place_id": "ChIJufkQ_9pfwokRe8KcMNHEBLI",
+        "rating": 4.8,
+        "user_ratings_total": 134,
+        "phone_number": "(718) 777-9477"
+    },
+    {
+        "name": "4747LIC",
+        "address": "47-25 Vernon Blvd, Long Island City, NY 11101, USA",
+        "place_id": "ChIJpS3XyMVZwokR-SdzYO1dDlk",
+        "rating": 4.8,
+        "user_ratings_total": 522,
+        "phone_number": "(718) 734-2415"
+    },
+    {
+        "name": "Vesta Trattoria & Wine Bar",
+        "address": "21-02 30th Ave., Astoria, NY 11102, USA",
+        "place_id": "ChIJGc-LBklfwokR4pON1Ije2Ls",
+        "rating": 4.5,
+        "user_ratings_total": 620,
+        "phone_number": "(718) 545-5550"
+    },
+    {
+        "name": "The Trestle",
+        "address": "34-02 Broadway, Astoria, NY 11106, USA",
+        "place_id": "ChIJRRMBFzpfwokRz_IwKtrMbdw",
+        "rating": 4.5,
+        "user_ratings_total": 997,
+        "phone_number": "(347) 808-0290"
+    },
+    {
+        "name": "Avenue Restobar",
+        "address": "35-27 30th Ave., Astoria, NY 11103, USA",
+        "place_id": "ChIJ815OVz9fwokRUan6lN66yz4",
+        "rating": 4.3,
+        "user_ratings_total": 739,
+        "phone_number": "(718) 433-9298"
+    },
+    {
+        "name": "Manetta's Ristorante",
+        "address": "10-76 Jackson Ave, Long Island City, NY 11101, USA",
+        "place_id": "ChIJJVkc8iRZwokRA-3qv5OZmsg",
+        "rating": 4.6,
+        "user_ratings_total": 895,
+        "phone_number": "(718) 786-6171"
+    },
+    {
+        "name": "Jora",
+        "address": "47-46 11th St, Long Island City, NY 11101, USA",
+        "place_id": "ChIJMRDMWiRZwokRclRF5GXOLKM",
+        "rating": 4.5,
+        "user_ratings_total": 2004,
+        "phone_number": "(718) 392-2033"
+    },
+    {
+        "name": "Snowdonia",
+        "address": "32-01 35th Ave, Queens, NY 11106, USA",
+        "place_id": "ChIJ-_hEzDFfwokRCUYJXmi_6g8",
+        "rating": 4.3,
+        "user_ratings_total": 351,
+        "phone_number": "(347) 730-5783"
+    },
+    {
+        "name": "Queen’s Room",
+        "address": "36-02 Ditmars Blvd, Astoria, NY 11105, USA",
+        "place_id": "ChIJS0-CIGZfwokRgs6ADyiQEKE",
+        "rating": 4.5,
+        "user_ratings_total": 811,
+        "phone_number": "(347) 987-3994"
+    },
+    {
+        "name": "Cafe Triskell",
+        "address": "33-04 36th Ave, Long Island City, NY 11106, USA",
+        "place_id": "ChIJ0T9xRi5fwokRaIuqYVfm5tU",
+        "rating": 4.6,
+        "user_ratings_total": 426,
+        "phone_number": "(718) 472-0612"
+    },
+    {
+        "name": "Blend LIC",
+        "address": "47-04 Vernon Blvd, Long Island City, NY 11101, USA",
+        "place_id": "ChIJEdfcByRZwokRQe04uT7LBNY",
+        "rating": 4.5,
+        "user_ratings_total": 1813,
+        "phone_number": "(718) 729-2800"
+    },
+    {
+        "name": "Madera",
+        "address": "47-29 Vernon Blvd, Long Island City, NY 11101, USA",
+        "place_id": "ChIJm9ALcyRZwokRiv6uOzTcE0Y",
+        "rating": 4.3,
+        "user_ratings_total": 776,
+        "phone_number": "(718) 606-1236"
+    },
+    {
+        "name": "Telly's Taverna",
+        "address": "28-13 23rd Ave, Astoria, NY 11105, USA",
+        "place_id": "ChIJ7Sw_SF1fwokRybg2bJuAXd0",
+        "rating": 4.5,
+        "user_ratings_total": 1252,
+        "phone_number": "(718) 728-9056"
+    },
+    {
+        "name": "American Brass",
+        "address": "2-01 50th Ave, Long Island City, NY 11101, USA",
+        "place_id": "ChIJX-RW0-BZwokRCLPgx8QLHKQ",
+        "rating": 4.4,
+        "user_ratings_total": 920,
+        "phone_number": "(718) 806-1106"
+    },
+    {
+        "name": "Sac's Place",
+        "address": "35-11 35th Ave, Astoria, NY 11106, USA",
+        "place_id": "ChIJ9yi_ITdfwokR-NlVT6D9tMw",
+        "rating": 4.6,
+        "user_ratings_total": 579,
+        "phone_number": "(718) 204-5002"
+    },
+    {
+        "name": "Jungly",
+        "address": "12-23 Jackson Ave, Long Island City, NY 11101, USA",
+        "place_id": "ChIJHVUQrqhZwokRiXgdrEbrqQ4",
+        "rating": 4.4,
+        "user_ratings_total": 252,
+        "phone_number": "(718) 440-9456"
+    },
+    {
+        "name": "Tournesol",
+        "address": "50-12 Vernon Blvd, Long Island City, NY 11101, USA",
+        "place_id": "ChIJ2zaeXSNZwokRKugqI9AMNjc",
+        "rating": 4.4,
+        "user_ratings_total": 688,
+        "phone_number": "(718) 472-4355"
+    }
+]

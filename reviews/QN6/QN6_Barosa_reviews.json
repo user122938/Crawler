@@ -1,0 +1,495 @@
+{
+    "name": "Barosa",
+    "place_id": "ChIJQVoljUZewokRLMh1i2VOZD4",
+    "grid": "QN6",
+    "address": "62-29 Woodhaven Blvd, Rego Park, NY 11374, USA",
+    "rating": 4.4,
+    "user_ratings_total": 1404,
+    "phone_number": "(718) 424-1455",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wdlQwNUNYMHhFYTFGeldFMWtNVE5VTkRGSE1sRRAB",
+            "text": "Absolutely delicious italian-american cuisine. (I got the veal picatta but the alfredo is good too)"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psSk1uQjRNak5mY0c1NU9FOW5jbm94UVY5aWIzYxAB",
+            "text": "Love this place"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKQ1UyVjNhbWt3ZDFkVWIxUmxiVEZrYmtVdE1HYxAB",
+            "text": "Did pizza for take out tonight & was absolutely amazing. They deserve way more credit for the pizza!! I will definitely be stopping in soon for the restaurant! Never disappoints\n10/10"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210blJIWnlYekp5VGtZNWVuQjFZVVpLTldkSFIxRRAB",
+            "text": "Very friendly and accommodating. I ordered on Uber eats and the driver took way too long and delivered cold pizza. The restaurant was very kind and remade me a fresh pie, no questions asked. Very good people and the pizza is extremely good"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aRVdHSTBUVVpYYVV4clJuTnFOV1ZwWWxJd2RHYxAB",
+            "text": "Love this place. Simple atmosphere, great food and service."
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQeTEzLTc0bUlfYmRREAE",
+            "text": "Waren mit unserer amerikanischen Verwandtschaft am 07.06.25 dort lecker essen. War sehr gut!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21abVRtcE5WV1ZvYWxsSGExUlliamhsYjNoQ2RWRRAB",
+            "text": "Me and my girlfriend had an amazing time from the service to the food came, food was excellent and the selection of wine and drinks were really good."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGNGRHY3lkeTFWTFZaRlkwZHZjSFJqYjNwNWMwRRAB",
+            "text": "love it"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCVWFuTk1ZbnBvZFVWemNHUndUVGQ1VDFSSWJVRRAB",
+            "text": "Extremely disrespectful Maradee,Mario. I witnessed him talk to women like trash. They  seemed to be very calm considering his nasty tone.I felt unsafe as a woman with this ego infused atitude. He was a nightmare. I will never return."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGbllqRndYMWQxYW1kQ1RHWXRkMk51ZFU1RFgwRRAB",
+            "text": "Great food, ckean atmosphere"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRcnRILU5nEAE",
+            "text": "Can't say enough  about  this place just a wonderful  experience  when we go there"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sV2JrOTFVak5yVW1OeFltaFFjM2xYU0dadGRXYxAB",
+            "text": "Excellent food and service.  Food was well done not fake Italian like some places.  Very fresh."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVME1rUmlaWGRtTVhsS1VVVnhiVXh6WkhaV01WRRAB",
+            "text": "I was a bit disappointed by the wait time for the food, they said 5 mins and it ended up being much longer. Strangely enough a patron that came in a couple minutes after i ordered, got his order of two dishes at the same time as mine. Which doesnt really make sense because i was there before he arrived so how can it be finished at the same time? Just means the kitchen staff was messing around. Wont be coming here again. I don’t appreciate this level of service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KcVZFSXdPVTVRUjNkUVdrTnJWVmRmTFRGbVgzYxAB",
+            "text": "Great Food, Drinks Could Be Better:\nBarosa Italian Restaurant delivered a really enjoyable meal. The pork chop pizzaiola was absolutely delicious—tender, flavorful, and perfectly cooked. The atmosphere was warm and inviting, making it a nice spot for dinner. The only drawback was the drinks, which tasted a bit watered down and didn’t quite match the quality of the food. Overall, though, the experience was very good, and I’d definitely come back for the food alone."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBLTdIZHF3RRAB",
+            "text": "Nice place"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5U2MyUkhRM1EyTTBacmFIZHBXa1ZLVTA5elNtYxAB",
+            "text": "Wow what an incredible affair.  From the moment we pulled up and the valet came to my car to the moment he closed the door as we left at the end, there are nothing but compliments to describe how wonderful our experience was this past Saturday.\nThe food was incredible, the wait staff was polite, friendly, attentive and expressed sincere condolences as we were attending a post funeral luncheon for around 100 family members and close friends.\nAfter every course I was amazed at how many empty plates were being collected.\nIn the end the only thing that could’ve made this better would have been to be there for a happier occasion.\nOne of my cousins said: “this was the funeral menu, you should come back and order dinner from the regular menu, it will knock you out!”\nIt’s a 90 minute drive on a good day, but we are already planning to do just that.\nThank you Barosa"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOelVXTnhVa3gyWmsxeGRGWnBORnAyYUZselJrRRAB",
+            "text": "We LOVE their food. I frequently order from here on Uber eats and the pizza, clams, penne is absolutely delicious! Best pizza in the area in my opinion and they are very consistent with their food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMlkwOXhhRk5mTFdKclFWQkVUV0kxWTJKSk9FRRAB",
+            "text": "Our main server was impolite and I would say racist. My friend and I were the only Asian there. You could clearly tell the difference. He gave other customers food recommendations and check on them but for us nothing. When he served foods to others he will give brief introduction of the food, but when serving us, he just put down the food without even looking at us. In addition, he refilled water for all other tables but us. This is outrageous. I still leave regular tips because some other servers were ok. This restaurant is pricy but the service makes us very uncomfortable. I would NOT recommend this restaurant to anyone."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvX01EU1N3EAE",
+            "text": "Exelente lugar muy limpio y el personal muy cortes."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oUU4wNU5hWEJCTlRFNFYycDBkMlYwUlcwelExRRAB",
+            "text": "Great experience being from Queens this is a staple. Ask for the veal parm"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOck4ySmFRM0pqUVV4TGRYaE1ka2xTTUV3MlVVRRAB",
+            "text": "Overpriced, small portions, messed up  parts of my order. Chicken Francese: the chicken was too dry. Penne a la Vodka was over $20 just for pasta without any meat! I paid an additional cost for chicken, but it was far too small an amount of chicken in ratio to the pasta. I was looking forward to having the Chocolate Mousse and instead got a Chocolate Layer Cake (talk about misleading). I received a substitute cake without my authorization! They didn’t provide any bread on the side either! Spent almost $100. Disappointed and unsatisfactory are understatements."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aeldXMUJTemxYWlRob1FUVnFlVVk1ZWw4elExRRAB",
+            "text": "Good"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscUxVTlBSWFE1ZGpSdk1FcFBkVXRKWkVjMFNtYxAB",
+            "text": "Was craving pasta very badly and wanted to try this restuarant and it disappointed me…the spaghetti my mom makes at home with even simple ingredients taste so much better than their pasta marinara (which is what I got) . You’re paying $20 for some average pasta u could make at home , although it is served in a big portion , it’s just not worth it considering the price . I wanted to be impressed, but I wasn’t . It was just your ordinary pasta , nothing special ."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wZk0wdEdRelpmUVRGb1VIbHJSa2RDUlVodWFuYxAB",
+            "text": "The food was great. I was there for a reception. This was my first time. Everyone at my table loved their food. I would definitely recommend it.  There's valet parking. Another bonus."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KVlRtNVdMWHBQV25KalJEZHBlRXBhUW1KTVYwRRAB",
+            "text": "Always good food and service - our little group is never rushed. The Branzino, octopus, and linguini with clam sauce were all excellent. Valet parking is a plus."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BM1V6VlpTazU0UmxrMVRrNUlWSHBJZWtObFUzYxAB",
+            "text": "A family owned italian restaurant.  Very good food.  It has live music.  My Italian friend who invited me told me the food is very traditional."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKbFpXNUJWbE40TW05VlNWQjVTR3RsT1ROblprRRAB",
+            "text": "The panini sandwiches are good. My only complaint is that I was charger an automatic 20% tip."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSdVpVVTVWR3MxY0VGaGJtZFViVEZ1TUcwM2RFRRAB",
+            "text": "The food was good but the desserts, slap your momma! I would recommend the lava cake, so good (not pictured). The chocolate mousse layer cake, yum!"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoaXUySGtBRRAB",
+            "text": "My favorite restaurant, very friendly, awesome food and staff,they make me feel like family, both Joe and frank are the best, Keila is the best bartender, richie and mario are very nice hosts that meet you at the door, I really really recommend this restaurant, also rob the chef is the best"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VQUFJpWWY4aDZLTFVREAE",
+            "text": "I recently visited Barosa Italian Restaurant after more than 20 years, filled with nostalgia and fond memories of the cuisine that once burst with love and care. Back then, every dish felt like it was crafted with a personal touch, and the customer service reflected that same warmth. Unfortunately, my recent experience felt rather distant from those cherished memories.\n\nLet's start with the calamari. It arrived at the table tasting as if it had been cooked, frozen, and then reheated in oil that clearly needed changing. The texture and flavor were flat, which left me disappointed.\n\nNow, onto the pasta – a staple of Italian cuisine. It should be delicate yet strong, but at Barosa, it was an inconsistent mess. Precision in cooking pasta is paramount; it should ideally be prepared in the right conditions, ensuring it is cooked uniformly. Instead, it appeared as though it had been cooked in different pots, leaving me confused about the quality of the dish.\n\nI also noticed a lengthy specials menu that, rather than showcasing their best efforts, seemed to dilute the love and attention each dish deserves. With a shorter specials list, the kitchen could focus on perfecting each meal, allowing each plate to shine.\n\nLastly, fresh ingredients truly make a world of difference in Italian cooking. It’s vital for the authenticity and taste that Barosa once known for. I urge them to return to the basics, tapping into the same love and tradition that our grandparents and mothers brought to their cooking.\n\nBarosa still attracts a crowd, and I hope they can recapture the essence of good Italian food and genuine hospitality that initially drew us all in. Here’s to hoping for a return to their roots, making Barosa a beloved spot in the neighborhood once more.\n\nChange your wine selection!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPYTQ0Wk9POXNfZlZBEAE",
+            "text": "My favorite pasta spot!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMYkl4ZC1ZLU4yUm93RRAB",
+            "text": "Very nice Italian restaurant. Food was excellent and reasonably priced. Nice little bar area the place was busy but not crowded.\nIf you wanted to go for a nice relaxed meal. Barosa's is the place you're looking for."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLbmxqSXEzMHBMVjhRRRAB",
+            "text": "Excellent service and the food was amazing 👍"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNT0w0THVkaWNMSlpBEAE",
+            "text": "Good food"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJX3VYeHd3RRAB",
+            "text": "Delicious food and awesome service!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNDZiOWpBRRAB",
+            "text": "Barosa on Woodhaven Blvd has a beautiful bar and a nice upscale vibe with white linen tables. The specialty cocktails felt a bit outdated, but the food overall was good. The shrimp cocktail was average, but the \"Grandma’s Two Big Meatballs\" were delicious. The Branzino Piccata was a little dense, though the Rigatoni Calabrese and Shrimp Risotto were very good. Service was quick but a bit mechanical. Overall, a solid spot with a few things that could be improved."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvc3R1Qjd3RRAB",
+            "text": "Always a good place to eat at"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJajdQbG5RRRAB",
+            "text": "Gracias por el Servicio me encantó 🙌❤️…"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJN2VYenpnRRAB",
+            "text": "Waiter was very rude! felt rushed ! He seemed annoyed !Ordered lungini with white clam sauce tasted very fishy was horriable !! Wont be back !"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJcGFMSjRRRRAB",
+            "text": "I've been to this spot more than once and the food and atmosphere is always good."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJeXJPc3J3RRAB",
+            "text": "Good good and atmosphere."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3ajZXS1V3EAE",
+            "text": "First time eating here and it won’t be the last. Ordered the Personal Margherita Pie to start. Crust to sauce to cheese ratio was perfect. Ordered two specials for our entrees. I hope they keep the lamb bolognese and shrimp scallop risotto on. Every bite was delicious. To top it all off our server was so kind. The crowd that this establishment draws in is just as much so. Cannot wait to eat here again. Be sure to make a reservation as it is a popular place! (Rightly so!!)"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURncXBLbkZBEAE",
+            "text": "Have not been here in five years. And it has not changed one bit. And I guess that’s a good thing. Food is pretty good and very plentiful, and the service is always fine, if not personable.  Comfortable seating, and although you are pretty close to the neighboring tables, you kind of forget they are there for some reason. Good acoustics I guess. Long bar when you first enter. Reasonable prices. ♿️"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmbnRTLWVREAE",
+            "text": "After passing this restaurant on my daily commute, I finally had the chance to give it a try—and it did not disappoint. The baked clams were fresh, clean, and incredibly flavorful. The calamari was perfectly crispy, accompanied by a delicious marinara sauce. We ordered a few of their entrees, but the standout was the pork chop pizzaiola. It was absolutely amazing—one of the best pork chops I've ever had. Thickly cut, juicy, and grilled to perfection on the outside."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYa3FPYlNREAE",
+            "text": "October 14, 2024 food was delicious. The butternut squash raviolis were really good. This is one of my favorite restaurants to come to when I’m in Queens."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3bWNHVU1nEAE",
+            "text": "Fresh tasting, very flavorful delicious food. Had the skirt steak and their appetizer specials, beets salad, figs with prosciutto. Also italian standards like baked clams and calamari\nGreat service and attention."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2X29fckt3EAE",
+            "text": "There for a meeting and few appetizer. The sauce on the baked clams was amazing and the mussels Barosa was good. Meatball was a little bit tough and the stuffed avocado was tiny. Service was great. Will definitely keep this on my business lunch list."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZcnJ6eTFBRRAB",
+            "text": "Update:  Gave Barosa another chance over the weekend, and I must say I was very impressed with the service and the food!  Barosa offers outstanding Italian cuisine, with flavors that transport you to Italy. The dishes are expertly crafted and bursting with authentic tastes, making it a must-visit for any food lover. I ordered the filet of Branzino Frqncese, it was excellent ,the grilled octopus was to die for, OMG next time I'm going to order three as my main meal, the clams were delicious, the shrimp cocktail was outstanding. Everything was so delicious and fresh, service was amazing the waiter was so attentive he was also happy to see that we loved everything. You must go and try for yourself.\n\nWell, well, where should I start?  Food is ok, portions are small but the food is good and fresh, with that being said,  I must then review the service, we waited and hour an half hour for our food to come out, when we asked the waiter, he said there was an accident in the kitchen with our food, so when I asked what had happened, he said our food had been dropped and they had to cook it all over again, at this point I was ready to leave and just pay for our drinks and appetizers, but my husband and my mother in law were starving, so we just decided to wait, we got dessert on the house though. I think this is a chronic issue for them because a few years ago, the same thing happened to us, they either forgot about us, or our order was never submitted.  You only\nGet one chance, that's it!  We learned our lesson the hard way today."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoMnJ2aEVBEAE",
+            "text": "I have driven by this restaurant so many times and had no idea what I was missing. The food was so delicious & the drinks were strong (in the best way). Staff was friendly as well and attentive. This will be my new Italian restaurant spot for sure!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNua2NQYkVnEAE",
+            "text": "came here after my run in the evening and the place was bustling with people. seated right away. Ordered an angus burger with cheese. The food was ok. Service was great. The price on the menu was 19$ for burger that came with fries. When the check came the price was $22. and then with the tax and operational fees close to 24$. I guess the American cheese on the burger cost $3. Disappointed."
+        },
+        {
+            "date": "8달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnbWFYeTZRRRAB",
+            "text": "La exposición de mi libro EL LADO OSCURO DEL AMOR fue todo un exito gracias a Barosa restaurant por la oportunidad de poder celebrar mi lanzamiento en este hermoso lugar."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnX05IV0JREAE",
+            "text": "Food - 4 stars\nService - 5 stars\nPrice - 4 stars\n\nLocal Italian restaurant serving pretty good food. The clam pasta was delicious (just slightly too much soup) and full of clams! The pizza had generous amounts of cheese and was a good size. The layered chocolate cake was rich and indulgent, perfect way to finish off.\n\nThe place is cozy and dimly lit, perfect for families and dates. Prices are also fair for the portions."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dm82WTRBRRAB",
+            "text": "After a family service, a very large gathering came to Barosa to celebrate the life of Gabriel Falsetta, a great man! The food was great, the staff was excellent. Very comforting towards our family! Thank you, Barosa!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsMTU2UHh3RRAB",
+            "text": "Had a luncheon there several weeks ago for 60 people and everything went very well. The service and food was impeccable and plentiful. A great time was had by all. A wonderful experience."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNadXRpVUJnEAE",
+            "text": "I was celebrating with some friends, the food was delicious, the service was great and I recommend it. It was my first time and I plan to return soon."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxbFliQzh3RRAB",
+            "text": "I ordered eggplant rollatini and fried calamari. The serving size was ridiculously  small for the eggplant dish and the fried calamari was spongy and soggy to the point that it was like chewing on a rubber band. $40 for this and I tell you that I'm extremely dissatisfied. Never again will I order food from here again. The only reason I'm giving 2 stars is because the uber driver was excellent."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxd29QUzdRRRAB",
+            "text": "A group of us went for Christmas Eve dinner and everything was excellent! From the Shrimp Cocktail to the Broiled Salmon to the Tiramisu for dessert and the Cappuccino. We’ll definitely be back."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKdGIzMlhREAE",
+            "text": "This is the best restaurant I've ever been to. Everything was amazing. Order the clams barosa before they pour the water."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSNVplR21nRRAB",
+            "text": "Visiting New York area coming from the beautiful Smoky Mountains of Asheville, NC, hopped off the plane and wanted food, specifically pizza. Googled best pizza place, and Barosa popped up, we stopped.  Very nice, put you in the mood of a nice family owned respectful restaurant,  you know, like the ones you see on the movie screen.  Dressed to the nines, but casual nines, and comfortable atmosphere. Friendly service, warm bread, delicious pizza, and cannoli."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5MjRPazVBRRAB",
+            "text": "Great spot for dinner! Super accommodating, not hard to get a table as a walk-in and the Bolognese pasta is to die for. We had the classic Calamari Fritti, but try their Calamari Arrabbiata or Calamari Barosa (signature). All in all, we will be back!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSMXI3RWdnRRAB",
+            "text": "We've had two parties there in the last few years.  Everything worked out great!  The room downstairs is perfect, the waiters were very attentive and friendly, food was delicious, would definitely recommend to anyone and there are also two private\nbathrooms.  Don't hesitate to Call Richie and ask for the details!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtd01MT1l3EAE",
+            "text": "Amazing from start to finish we were celebrating my husband's birthday and never been before they treated us so well.  The food was delicious."
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3ejYzajZnRRAB",
+            "text": "El ambiente limpio y  relajante, la sopa y la pizza estaba muy rica ."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDbF9QQmFnEAE",
+            "text": "One of my favorite restaurants. Great staff, accommodating and friendly. The food is top notch. Today we had a chicken parm pizza with vodka sauce. I thought it was going to be a pizza, but instead it was a giant breaded chicken cutlet in the shape of a pizza. It was amazing!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBMkpLbjFnRRAB",
+            "text": "Barosa is an italian, small, but very cozy and intimate establishment. Their service is exceptional, and the food is amazing, depending on what you order. If you are not looking to spend 30 per person or possibly more, this is not the restaurant for you unless you are ordering a pizza to go. They also have a bar on the other side. Very nice place for the neighborhood. You can feel like you're somewhere fancy, but still be in your neck of the woods. I ordered baked clams which were amazing, and meatballs and spaghetti. My friend ordered a skirt steak which was tender and very spicy because it contained hit cherry peppers in a tomato based sauce. He also ordered fresh mozzarella and tomato with basil as an appetizer."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsdW9femN3EAE",
+            "text": "Absolutely great food and service\nI went ones with my friend to have a dinner and food was so delicious that we decided to have her Bridal Shower at this restaurant and it went super well . The stuff was helpful and Food was Good . ( the arrangement with balloons and flowers we did ourselves . Would like to additionally say Thank you for letting us to it )"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4emJycUFREAE",
+            "text": "Service was excellent, Food came out super fast. We were impressed! My girlfriend thought the presentation was very beautiful. So here are some of her photos. Our waiter Benny was the best!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSazRPbW93RRAB",
+            "text": "Very authentic Italian cuisine, the food was great and so was the service, I have nothing bad to said."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBa3N5YjZRRRAB",
+            "text": "Barosa used to be a lot better than it currently is. The valet parking is nice, the service is okay and the meals are always decent but this Italian restaurant really did used to be incredible. It’s a shame it’s gone a little downhill."
+        }
+    ],
+    "reviews_count": 69
+}

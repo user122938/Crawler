@@ -1,0 +1,579 @@
+{
+    "name": "Prime 623 Restaurant And Bar",
+    "place_id": "ChIJ08u4eqldwokROo6vliJySb8",
+    "grid": "BK17",
+    "address": "1566 Ralph Ave, Brooklyn, NY 11234, USA",
+    "rating": 4.5,
+    "user_ratings_total": 409,
+    "phone_number": "(347) 374-2145",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaeFNWRlBNM1UzVGpsUFNUTmpRa1J0TkdNMFRYYxAB",
+            "text": "Went to Prime 623 and loved it! The Halloween decor, both inside and outside, is super cool. The Halloween-inspired drinks and food were excellent.  Warm, chill vibes. Jay, the owner, is such a welcoming and positive guy. Highly recommend this spot!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sMFlYbEVOMmt6ZGxOUVRscEhXVlI2VFV0TmQxRRAB",
+            "text": "The food is seriously a 10/10 and reason enough for me to come back, but the atmosphere put the experience on a whole other level. They were fully decked out in decoration for Halloween and commited to every detail on their decor, food, and drinks to make it an unforgettable time."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwMlUwTkJRMTk1UVhWcE56TlZabTVFYjFkWlZFRRAB",
+            "text": "Went after work to meet a coworker to grab some drinks and met my amazing waitress Valencia,  that was very polite and attentive . Drinks and food was amazing thanks again . Ill be back"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVU15MUdWM3BPUmxSVWJrMDFMVE5VYTJRM2VuYxAB",
+            "text": "The atmosphere is inviting. Space is opened. Seem like a quick stop for a drink and some food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5UVdIZFBUVFp6VFUxVFIyVnFla1ZyZEZGek1tYxAB",
+            "text": "Very sexy chill spot for sexy date night or chilling with the girls. Tasty drinks and good food 🤩"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SRFdGUkZSbkY2Y0hCdlltUlphSGh3YzNBME5GRRAB",
+            "text": "They made everything so simple. I’ll definitely come back again."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSd1VuZENRVzQ0TVVOYVNtTm9lbEZDY25WWE1uYxAB",
+            "text": "Service, food is great! Brunch is lit!!! Visiting their freesport loc soon."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taWFRUUmxORmQ0UmtwUVIwdGFhalUwVkRWaE9HYxAB",
+            "text": "flew in from LA and wandered in here and the whole crew took care of me, door guy and bartender JP made it feel like i’ve been going there my whole life. visit here if you can"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWRVdqZ3RjR3htWWxrMVRUQTJhRzloUTBRMFZsRRAB",
+            "text": "Good"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaQ1pYSTJabUpEZGpFellXOTRaMlZRVmpBMFZIYxAB",
+            "text": "All Food on menu  is overpriced and not worth the cost. Fried calamari was 18 dollars and fried to long and felt like chewing plastic. My jaw got a workout “PAUSE”. Oxtail empanadas were ok but not worth 20 dollars. Drinks was good. Just a spot for drinks not food. Will not spend my money there again."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KbGMwUkVOMHRvUlV3d1pFUlRhVk5PVUdSZlNrRRAB",
+            "text": "Shefs kiss. Drinks and food amazing. Ask for “JP”. Dude is straight vibesssss."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SbmNHOWhlakozT0ZCTlRqYzNabmhHZFhGcE1FRRAB",
+            "text": "Dope. Had the lamb was amazing! Saturday was a vibe. I'm going back again during the week."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWFZVbDFXR1ZLTmt4SVNYQTRjMWR4Tm1WUmVuYxAB",
+            "text": "Food was really good and so was the service. The atmosphere was not necessarily kid friendly, but more for young adults. There were a lot of smokers, which I don't like to be around. And though the air wasn't working, it was comfortable."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WVVFtOUVhbDlVVFdjeWIyaGFPRFJpZW5SdFEyYxAB",
+            "text": "Although the space was a little smaller than expected; the food, drinks and vibes were on point!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGUlQyWjZVVmh3VkUxVllXZDJObEYxZW1kRmFHYxAB",
+            "text": "It's 🔥🔥🔥🔥 and good food and drinks"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ORmMzZERhekZwVFRkcldFNVlNM0ZEVTJaRFYxRRAB",
+            "text": "Good customer service, good food,good music overall good vibes 💪🏾"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kweFRIaE9Zbk5JVXpONVdFaGZlRlkzZWtoRlVtYxAB",
+            "text": "The food was amazing this is a must come loved it love it. V was amazing.."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOU2o5dVB3ckstdnpnRRAB",
+            "text": "I had a great experience the music was good food good drinks strong. There was only 1 waiter but he did his thing no issues would definitely recommend and go back"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQdjNvSXk2dDUzTmNREAE",
+            "text": "Food was excellent,  staff very knowledgeable.  Would definitely recommend"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VKMnkxOW54N3BqYWdBRRAB",
+            "text": "I Would like to leave a HORRIBLE Review for this restaurant upon arriving at this restaurant, we were rudely greeted by the security guard who refused to let us in because my friend had an attitude, we just came from work and wanted to enjoy some food at prime we get there he ask us for ID we show our ID , my friend showed hers . He had a hostile attitude with us and we was wondering why he started searching us mind you I had a small bag and my friend had a tote so he looking through it and saw juice told us we can’t go in with juice cool she said okay throw it out . He proceeded to check her bag she caught an attitude and felt annoyed by his lack of care for the way he was searching her bag . So she catches an attitude with him she didn’t curse him out she didn’t hit him nothing he gives her bag back and tells us we can’t go in .. just like that we can’t go in . So now we’re asking why he won’t let us in and he saying cuz of her attitude. There were witnesses outside we weren’t loud we were acting erratic just two young lady’s coming from work to enjoy some food . This is sad I’m deeply hurt by this. Experience ruined ."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZX0pqTFBnEAE",
+            "text": "Great food and amazing drinks"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJMzVtZUxnEAE",
+            "text": "Goodnight\nI just had to write this email while enjoying my neice birthday and libations. Amoy has been nothing but amazing catering to my neice after she stated she had a long birthday weekend. Amoy kept the drinks coming without asking as a true bartender would being attentive to his clients .He anticipated everyone’s needs as the night went on with a smile on his face.  She was tired and curated a cocktail with Red Bull which surprises me because I frequent a lot of bars. I hope this email serves the owner to recognize Amoy with monetary or recognition as compensation. Thanks for being our local bar. Especially our black owned ."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJOWJPSnZnRRAB",
+            "text": "Food was really good truly enjoyed the drinks. Definitely will be back ☺️"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJN3J2amRREAE",
+            "text": "I recently had the pleasure of dining at Prime 623, and I must say, our waitress, Valencia, truly made our experience unforgettable. From the moment we were seated, she greeted us with a warm smile and an infectious enthusiasm that set the tone for the evening."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJN3R2aU5BEAE",
+            "text": "Valencia was very Pleasant and knowledgeable about the Menu and gave good recommendations"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdXZqeVBBEAE",
+            "text": "good drinks & fast service , definitely would come again"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJdUtmQTBnRRAB",
+            "text": "This is the most comfortable spot I’ve been in the area. Great service and better food. Definitely will be back soon."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJM2VhbEZBEAE",
+            "text": "Waitress V was super great. Very attentive and personable. Food was good. Definitely would come back"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJaVo2WmlRRRAB",
+            "text": "This place is amazing!!!! Drinks were very strong and worth it. I loved the pineapple habenero wings. Great atmosphere!!! Just a chill place for great vibes. Texroy the waiter was great! Amazing service. I WILL BE BACKKK"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJaWM2WFN3EAE",
+            "text": "Service, food, and ambiance was amazing. My server Texroy was great, he was very attentive, fast, and funny. I will be back again!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJaWM2SGF3EAE",
+            "text": "Texroy - Service was extremely timely. He made sure to check on our table to make sure that everything went well. The food also came out in a timely manner. I will come back!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3ejVYNlJBEAE",
+            "text": "While the food and service was good, the DJ plays the music way too loud. People come out to enjoy the music but their company as well. Me and friend literally could barely hear eachother.  Even from outside the building the music was super loud and didn't sound good. It's too loud to be enjoyable. Also, for my party of 2 there was a \"service charge\" of over $20 added to the bill. This is annoying especially when you're expected to tip on top of that. I've never been charged a service charge for such a small party."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3ajdINHdnRRAB",
+            "text": "Went for dinner here to catch up with a friend.  The food great.  The music was OBNOXIOUSLY loud!!!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "ru",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3Z1lUZ0lREAE",
+            "text": "Отправится сюда одному что б провести время вполне можно"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3dWJfRENnEAE",
+            "text": "From Entry to Exit The Staff Was Welcome, There Was No Wait Time , Server Approached Right Away , There Is Security At The Door , The Music Was Good & The Food Was Fresh !"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRNHNIbWVREAE",
+            "text": "First time coming to the restaurant and I must say my experience was amazing my serve V was very nice and welcoming. I order the Salmon and mashed potatoes it was good but those jerk wings are fire. If u haven't been there as yet then what are u waiting for.."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRdVpUdk5BEAE",
+            "text": "This is our 3rd time dining at Prime 623, we came out to celebrate a close friend's birthday. The music was vibing, the staff was welcoming and the restaurant was super clean. My server Texroy was awesome, he kept checking on us to make sure we were completely satisfied. The food was on point. We had a great time!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRNmRmdy1BRRAB",
+            "text": "I went to prime for a bday dinner celebration with and large party the staff wasn't ready for the large party so they was mixing up people food and some people didn't get their food"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRNE95SkNnEAE",
+            "text": "Valencia was the best. She was very attentive, accommodating, and welcoming.She made our experience one of the best. Took care of us and made sure our experience was top notch!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRd0xDTGRnEAE",
+            "text": "When we arrived we were greeted by security. He was respectful, pleasant and informative. The decor was well thought out and created a sense of chic sophistication.  Ms Valencia was AMAZING she connected with us and all of the other patrons. Lastly the food; the food was nicely portioned, warm and seasoned for all palates. It feels great knowing we have such a great spot in our neighborhood."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURndDZXbURREAE",
+            "text": "Food was good and customer service was good."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnMHRYM2x3RRAB",
+            "text": "I had a great night the drinks & food was fresh . Service was good . Music was nice & loud ."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnNmJQRF93RRAB",
+            "text": "Food, music, ambiance, everything was top notch! Love it here. I’ve been here, I would say, at least 8 times and I get TOP NOTCH service every single time! Everything is on point. 10/10 recommendations."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnN0kyQnF3RRAB",
+            "text": "I had great time. The food was good I enjoy lobster tail and wings. My server V was very nice.."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBNmNMWHR3RRAB",
+            "text": "Looking for a black owned restaurant with great vibes, food and drinks this is the place to be. Went last Friday and this place was lit. My server was very nice, also she very attentive and gives great recommendations when it comes to ordering drinks and food. I would definitely be returning.."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBMDdiaHlnRRAB",
+            "text": "Really good food and good drinks, great way to spend an evening with family."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBcWE2Tmx3RRAB",
+            "text": "Restaurant Review: Prime 623 – A Perfect Dining Experience\n\nIf you’re looking for an unforgettable dining experience, Prime 623 is the place to be! From the moment you walk in, you’re greeted with a warm and inviting atmosphere, complemented by stylish decor and a lively yet relaxing ambiance. The music selection sets the perfect tone for an enjoyable evening, enhancing the overall vibe of the restaurant.\n\nThe food? Absolutely incredible. Every dish is expertly prepared with fresh, high-quality ingredients, bursting with flavor in every bite. Whether you’re in the mood for a perfectly cooked steak, fresh seafood, or a creative appetizer, Prime 623 delivers on all fronts.\n\nThe service is just as outstanding as the food. Our server was not only attentive and knowledgeable but also genuinely friendly, ensuring that every detail of our meal was taken care of. The entire staff was professional and accommodating, making us feel truly valued as guests.\n\nOverall, Prime 623 is a must-visit. Whether you’re celebrating a special occasion or just looking for a great meal in a fantastic setting, this restaurant checks all the boxes. Highly recommended!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBZ05QYjdnRRAB",
+            "text": "I celebrated my Birthday there. I went for dinner. I ordered the escovitch and it came with a side of mash potatoes and brocolli. The escovitch was seasoned good it was just dry. The mash potatoes was not good. It taste like it camefrom the box. It had no flavor. I had the parmesan fries and those were really good. I had the ackee and saltfish, Mac and cheese with oxtails and these plates were really good. The service was really good. My waiter was really nice and cool. The atmosphere was a cool vibe. It had a DJ that was playing good music. The place is really small. I wouldn't recommend to have a dinner there with a large group of people. But overall I enjoyed myself."
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfamF5M0V3EAE",
+            "text": "Food was good"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfaTZyLS1nRRAB",
+            "text": "The only negative thing I would say is the time they close a bit early but other than that the atmosphere the vibe and the food great definitely worth the visit"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMbllYS2tRRRAB",
+            "text": "I got to enjoy my birthday dinner here and loved the food. The only downside to the dinner was that it was super hot inside. I guess the AC wasn't working because they had the doors and windows opened but it was the only complaint I had. Besides that the food was sooooo good!!! The drinks were great as well and our waitress was the bomb she did an amazing job making sure we were good. This place was definitely a vibe and I will be back again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIczRHaEJREAE",
+            "text": "My sister and I went here for my birthday and let me just say this ...this place totally was a vibe for sure the atmosphere, the music, the food even the drinks was an entire vibe hands down amazing!!!!! The serve , the owner and the bartender was amazing they're energy was everything  I give 10/10. I promise you won't be disappointed at all !!! Please go it's really a place to vibe at  for sure ."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKN2Vlb2hBRRAB",
+            "text": "9/10 update.\nI just have to keep updating my review because this establishment has become my go-to restaurant whenever I am in BK. Decided to try their brunch menu, which lived up to expectations. For appetizers, we tried the codfish fritters and the spicy shrimp empanadas. I will say that the codfish fritters needed more codfish and less batter. My daughter enjoyed her chicken and waffles, I had the ackee and salt fish with bakes or fried dumplings while my fiancée had the shrimp and grits. All meals were a win for us. See additional pictures below.\n\n7/21 Update\nThis restaurant never fails my tastebuds. Stopped here for lunch with my lady, and we fully enjoyed our lobster meal and appetizers. Mona blended our rum punch with perfection. This is now my go-to spot whenever I am in Bk. Check out the additional pics that I have posted and my earlier review seen below.\n\nInitial review:\nAs a follow-up to my earlier review, I must admit that I decided to give Prime 623 another try at the request of the owners Jay and Tanisha. This time around, everything was in sync, food and service. My lady and I ordered a smorgasbord of wings, fried rice with lobster and shrimp, garlic bread, and lamb with pasta. We washed down our meal with their rum punch, which is a must when you visit. All of the dishes delighted our palate.\n\nBartender Mona and waitress Khai took care of us and we will definitely request them on our next visit. I am happy to hear that Brunch will be starting soon, so check them out. If you can hold a note, then Karaoke on Tuesdays is your thing.\n\nFor any occasion, date night, anniversary, graduation, or just catching up with friends, go to Prime 623. Oh, just so you know, there is a dj there every night to get you in the mood. Prime 623 is the place to be!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGMnNqMUh3EAE",
+            "text": "Great place, louder than I thought.\nFood was hot and tasty, atmosphere is fun and active. Took my mom for her birthday, not really her scene but she enjoyed the experience. Trishan gave us updates on our food and was very patient with us and my grandma. Sunday dinner starts at 6 so reserve tables accordingly if you're coming for a meal."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3aHFqUEhnEAE",
+            "text": "It was definately a vibe! I love the ambiance! The seats were comfortable as a big girl and the good was good i would rate the food 8/10 was a little salty but other than that it was worth it amd my server was goood always checking in got our order right the first time and made suggestions when what I wanted wasnt available. As a tourist I would definately recommend and I surely will be back."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQLThYVi1RRRAB",
+            "text": "I fully enjoyed my meal here tonight at Prime 623. The server was super sweet. I was in the mood for lobster. Not only did it come out in a timely fashion, it was incredibly tasty!! I also devoured my veggies. They were delicious. Be back soon!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKck9HZ05BEAE",
+            "text": "2nd time here, the same thing both times, and the service just takes forever! I got there at 2:20pm yesterday seated immediately and got my delicious appetizers after 3pm and  dinner at 4pm and it was was a water pasta that didnt taste good at all ..the garlic mash was stiff and the lamb chops were tasty with a nice spice...drinks were mid but the rum punch was nice and strong. I like the vibe of the restaurant, but I wouldn't go back a 3rd time...."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKamN1MVRREAE",
+            "text": "I had the pleasure of dining at Prime on July 1st. Let me start by saying the location has limited parking, very small restaurant,  I recommend making a reservation because it’s limited seating as well. The DJ was on fire playing hits after  hits and let’s not forget the amazing, impeccable waiter we had. Let get to the food. So for the appetizer we had the calamari ( AMAZING) jerk chicken taco ( AMAZING) wings, we got the pineapple habanero ( it was ok) and the grilled shrimps ( it was ok as well, over cooked if u asked me ). For dinner my friends had the lamb chops which they loved and I had the pasta with the lobster. Which in my open was a little salty but the lobster was cooked  perfectly. My friend had the rum punch loved and I had the watermelon martini also loved. In my opinion the place is ok it’s really only worth 3.5 stars over all but the atmosphere and service took it to 4. Would I be back no but I definitely enjoyed my first and only time going"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYNC1MVlBnEAE",
+            "text": "On arrival to restaurant my family was greeted by host. When we were ready to order drinks I wanted diet coke, my kids wanted sprite and orange Fanta, which they did not have. The only had coke and ginger beer. I worked with them, so went on to order my meal, my kids wanted the burger meal, guess what they didn't have that either.  I order the teriyaki chicken they told me they only have one order available. If you are coming here for dinner don't waste your time.  If want to hang at bar then this is place for you.  The one good thing is the DJ is very good."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCaW9IT1V3EAE",
+            "text": "Dining in this establishment for the first time was great. We went for the Wine Down Wednesday and The choices of wines were awesome.  The service from the staff was impeccable because everyone was down-to-earth, friendly, and very…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNELTdmZG53RRAB",
+            "text": "The place is really nice, dim lighting and music is really good. I would recommend going during happy hour to take advantage of the prices of food and drinks. Service was good and food was hot and fresh. The shrimp wontons were the best."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4NThmZUx3EAE",
+            "text": "Nice spot with good vibes! I went on Saturday & live DJ came around 8p.  I ordered calamari w/ sweet chili sauce, fried shrimp, salmon w/ Alfredo pasta. Everything was good, but the star was the Lamb chops w/ mash potatoes & asparagus. Reservations recommended"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSdDk3WVRREAE",
+            "text": "Food was delicious. The Ackee & Saltfish plantains were mouth watery delicious, we ordered it twice.\nBella our server was very welcoming and always smiling. She set off our night with an awesome Red velvet birthday cake w sparklers.\nMusic makes you dance in your seat."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoN0txT0p3EAE",
+            "text": "Recently went to Prime 623 ; it's a new local bar and restaurant in Brooklyn. The atmosphere and decor is beautiful. Bar chairs could be a little bit higher (feels like you're sinking in) and you're lower than the bar. Service was excellent from the bar staff to the servers. For drinks I had the Rum punch. Now let's get into the food 😋 For appetizers I had the Buffalo wings (typical nothing special about them) ,Parmesan fries (best fries) and the Jerk chicken taco. (A little dry). For my entree I had the Lamb chops, mashed potatoes and asparagus( the star of the show). Very flavorful ,moist and cooked perfectly. Overall I had a great experience. The only thing that would make them unique is if they have a signature dish !! which in this case they don't; all of their dishes are pretty standard and you can find them at most bars and restaurants."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaOGNiNmNBEAE",
+            "text": "Went early, beautiful esthetic, food came quick and was good. Mussels should have had more flavor, tacos were good, wings were the best part. Server didn’t smile or care to be there and his shift just started. Drinks were strong. Music was nice."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNScHFHcmt3RRAB",
+            "text": "Prime623 is such a beautiful venue. Upon entering our waitress (Z) was phenomenal. She greeted us with a beautiful warm smile. The food and drinks are out of this world. I truly recommend Prime623 right here in Brooklyn."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsdnNhSTh3RRAB",
+            "text": "Oh man ! This place was soooo good! At first I was a little skeptical because I did find the prices to be a little pricey for the location but it is 100% worth it.\n\nThose shrimp wontons were PACKED with shrimp. It was so good that we had to order a second round.  The wings were amazing. Definitely just the right amount to share between two people.\n\nThose drinks were sooo good! I had to tip the bartender separately.\n\nGot the pasta with shrimp. I will admit that the portion size is definitely on the smaller size but it was very tasty."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNua3FIdkR3EAE",
+            "text": "Prime 623 is a nice place but Customer service is zero. Visited on 9/1/24 the bartender/ server couldn't careless and paid more attend to his phone. What I ordered to eat I never got and was served salmon. My friend and I ordered together but got our 15 mins apart. When I ask about my drink he was upset and  Annoyed and throw my drink and gave me the same thing I had a problem with. The drink was to strong with no taste and I was disturbing his phone time...\nI was automatically charged service charge on my bill and when asked about because I didn't received any service to talk about he said \"oh well its not me I will mention to the owner\"\n\nThe food 100% big up the cooks in the back"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfOGZEdzd3RRAB",
+            "text": "i went here for my birthday had i great time the staff was nice and the food and drinks was great the vibe have you dancing in your seat"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwNVluR2pBRRAB",
+            "text": "The food was good, but the menu was very limited for brunch and a bit pricey.  If you are looking for  90-minute unlimited mimosas, this isn't the place. Drinks were priced at $15. The service was decent and the atmosphere was nice.  The dj definitely plays good music off all types...."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNScmQ3MU93EAE",
+            "text": "I must admit I was VERY skeptical about going to this place, but my boyfriend was able to convince me to take a chance mind you both of us never been here before. Our wait for a table was less than 15 mins. The drinks we ordered hit the spot!!!! Our food we ordered was great. And I am a very picky eater so I was impressed. The music was dope. And also I notice the crowd was the grown people type (my age group lol) so everyone was pretty much enjoying themselves and minding their own business. I will definitely be returning…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoaDVURE53EAE",
+            "text": "Me, my mom and her gf went on 2/22/23 for her gf b'day dinner. We love the food, service, the music 🎶 etc. Everything is nice. Our server, Trish, was pleasant. The owner hospitality was great. Overall 5 star 🌟 rating. If anyone is looking for good tasting food, music, or drinks,  then Prime 623 is the place to be."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURocTlTU3BRRRAB",
+            "text": "I loved every minute of my experience here. My husband and I popped in for dinner after a quick trip to BJ’s near by. I had a Hendricks dirty martini, my favorite, calamari and the jerk chicken. I think there might’ve been crack in the…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREcGNiZ2NREAE",
+            "text": "This place was amazing! 10/10! The service was amazing and the drinks were really good! The tacos were also above and beyond. I highly recommend for the start of a night out or to end the night off on a high note!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGOHRtMmpRRRAB",
+            "text": "Scenery is nice. Great for a date night for sure or just a chill with the friends. Drink was delicious and lamb chop was cooked well. Mash potatoes was well seasoned."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNubmJfNEt3EAE",
+            "text": "The food was terrific. I recommend this place. I had a birthday party here for my wife. We reserved a table for 12, and the service was on point. The lamb chop, I would say, is the best lamb chop I have ever had in my life💙🩵Prime 623 I’ll  be back🍽️🧑‍🍳"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoenZHYnJRRRAB",
+            "text": "Better late than never .. My girl and I went for Vday . Pre-fix menu , everything was on point.  Restaurant is small so I would suggest making a reservation if your going after 7pm. It is also a bar so can get loud ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5Z19hM3lBRRAB",
+            "text": "The service was terrible, I ended up only getting an appetizer and one drink because I refuse to spend money where the service isn't good especially for the price. Maybe the bartender was having a bad day but they need to work on their customer service skills.  The oxtail empanadas were a little dry maybe if they came with a sauce it would have been better. The rum punch was spot on."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqNk5HbklREAE",
+            "text": "The food was delicious from the shrimp wontons and Ackee & Salt appetizers to the Escovich red snapper and Prime fried rice with steamed  veggies! My husband and I thoroughly enjoyed our food! This is definitely a good find! And ooohhhh my this Wray and Nephew Pina colada hit the spot"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1a2RQbWFnEAE",
+            "text": "The ambiance is simple, amazing, and a hidden gem on the edge of Canarsie Brooklyn.  Live entertainment Tuesday night,  the band is phenomenal. Our server Tish is just awesome. I highly recommend Prime 623. Check out their live bands entertainment on Tuesday if you can. The food preparation is great.  Very clean environment. Check out their Halloween decorations."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5ZzViNkZ3EAE",
+            "text": "My bestie and I love to come here on an after-work Friday vibe! We LOVE the jerk chicken tacos and happy hour drinks. Highly recommend! Super chill and the music is an added plus."
+        }
+    ],
+    "reviews_count": 81
+}

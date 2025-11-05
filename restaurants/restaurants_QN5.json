@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Rolo’s",
+        "address": "8-53 Onderdonk Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJWUhoPQhdwokRYsDwo5qMnMU",
+        "rating": 4.5,
+        "user_ratings_total": 1651,
+        "phone_number": null
+    },
+    {
+        "name": "Joe's Restaurant",
+        "address": "66-11 Forest Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJ7XYBGZ1ewokRCKXcLmlVdMY",
+        "rating": 4.6,
+        "user_ratings_total": 925,
+        "phone_number": "(718) 497-1300"
+    },
+    {
+        "name": "Julia's",
+        "address": "8-18 Woodward Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJdeS2mydcwokRRhTrtCgbGYs",
+        "rating": 4.7,
+        "user_ratings_total": 511,
+        "phone_number": "(917) 909-1314"
+    },
+    {
+        "name": "Patrizia's",
+        "address": "69-35 Grand Ave, Maspeth, NY 11378, USA",
+        "place_id": "ChIJJ9B9DvRewokRtQELxkQn6xk",
+        "rating": 4.4,
+        "user_ratings_total": 1132,
+        "phone_number": "(718) 779-2083"
+    },
+    {
+        "name": "the Flying Fox Tavern",
+        "address": "6-78 Woodward Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJFx8CfmdfwokRqkASz4HkLk8",
+        "rating": 4.8,
+        "user_ratings_total": 180,
+        "phone_number": "(718) 673-6384"
+    },
+    {
+        "name": "Antica Trattoria",
+        "address": "68-10 Fresh Pond Rd, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJiwzMQIJewokR3j_B29iK-ek",
+        "rating": 4.6,
+        "user_ratings_total": 465,
+        "phone_number": "(718) 386-1559"
+    },
+    {
+        "name": "il Gigante",
+        "address": "8-80 Woodward Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJtxFgYDRdwokRmR1IiWUh8j8",
+        "rating": 4.7,
+        "user_ratings_total": 199,
+        "phone_number": "(516) 927-0041"
+    },
+    {
+        "name": "The Seneca",
+        "address": "5-82 Seneca Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJESqltthdwokRpRsWDfkJMGU",
+        "rating": 4.6,
+        "user_ratings_total": 376,
+        "phone_number": "(347) 599-0010"
+    },
+    {
+        "name": "ECB",
+        "address": "53-21 Metropolitan Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJvaTde5hewokRVhPqu4hXcFg",
+        "rating": 4.5,
+        "user_ratings_total": 581,
+        "phone_number": "(718) 451-8020"
+    },
+    {
+        "name": "Mama Pisco",
+        "address": "53-05 65th Pl, Maspeth, NY 11378, USA",
+        "place_id": "ChIJIy4zEkJfwokR1ILLPLSUVVo",
+        "rating": 4.7,
+        "user_ratings_total": 1363,
+        "phone_number": "(718) 424-0430"
+    },
+    {
+        "name": "Rustico Taverna",
+        "address": "65-17 Fresh Pond Rd, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJqRapAiVfwokRxeEtL4jvBCI",
+        "rating": 4.6,
+        "user_ratings_total": 235,
+        "phone_number": "(347) 799-2880"
+    },
+    {
+        "name": "Fonda La Consentida NY",
+        "address": "59-60 55th Rd, Maspeth, NY 11378, USA",
+        "place_id": "ChIJZ5F02UVfwokR8xvuBiQAdpI",
+        "rating": 4.4,
+        "user_ratings_total": 698,
+        "phone_number": "(929) 525-7077"
+    },
+    {
+        "name": "Varenyk House",
+        "address": "67-14 Fresh Pond Rd, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJuVtLO6JfwokR7PsurFf4-UA",
+        "rating": 4.9,
+        "user_ratings_total": 249,
+        "phone_number": "(917) 909-0257"
+    },
+    {
+        "name": "Casa Melania",
+        "address": "55-61 58th St, Maspeth, NY 11378, USA",
+        "place_id": "ChIJd9UfUoBfwokRHtoYww0yIx8",
+        "rating": 4.9,
+        "user_ratings_total": 48,
+        "phone_number": "(347) 738-4237"
+    },
+    {
+        "name": "Ltauha",
+        "address": "55-50 Myrtle Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJnbOuLipcwokRqsAX-__4u2U",
+        "rating": 4.6,
+        "user_ratings_total": 683,
+        "phone_number": "(347) 689-3462"
+    },
+    {
+        "name": "Mon Cheri bar restaurant pizzeria",
+        "address": "Mon Cheri, 64-14 Fresh Pond Rd, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJD9YnwIRewokRm_3s94ZirWQ",
+        "rating": 4.9,
+        "user_ratings_total": 138,
+        "phone_number": "(929) 583-8100"
+    },
+    {
+        "name": "Velma",
+        "address": "5-84 Seneca Ave, Queens, NY 11385, USA",
+        "place_id": "ChIJl-QwDnxdwokRUoS7oTlwK0Q",
+        "rating": 4.5,
+        "user_ratings_total": 143,
+        "phone_number": "(347) 798-4303"
+    },
+    {
+        "name": "Miyama Sushi & Steakhouse",
+        "address": "3-49 St Nicholas Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJVTt_AV5dwokRp20H8tjdav4",
+        "rating": 4.8,
+        "user_ratings_total": 276,
+        "phone_number": "(917) 909-0833"
+    },
+    {
+        "name": "Pupusas Ridgewood",
+        "address": "71-20 Fresh Pond Rd, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJRRxg9y5dwokRSeT-3Z1_cv8",
+        "rating": 4.4,
+        "user_ratings_total": 362,
+        "phone_number": "(347) 599-0858"
+    },
+    {
+        "name": "While in Kathmandu",
+        "address": "7-58 Seneca Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJeSf6KiFcwokRh2AC4D8qBts",
+        "rating": 4.7,
+        "user_ratings_total": 831,
+        "phone_number": "(718) 386-3416"
+    },
+    {
+        "name": "Hellbender",
+        "address": "68-22 Forest Ave, Queens, NY 11385, USA",
+        "place_id": "ChIJG4RMPa1dwokRBET-URZXZJU",
+        "rating": 4.3,
+        "user_ratings_total": 354,
+        "phone_number": null
+    },
+    {
+        "name": "Hi-node",
+        "address": "68-38 Forest Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJ67RBP6NdwokRwvAkVsAFfag",
+        "rating": 5,
+        "user_ratings_total": 33,
+        "phone_number": "(929) 488-3538"
+    },
+    {
+        "name": "Cozy Corner",
+        "address": "60-01 70th Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJY2G7iYpYwokRRQiY4xFcdwQ",
+        "rating": 4.5,
+        "user_ratings_total": 473,
+        "phone_number": "(718) 381-8397"
+    },
+    {
+        "name": "Connolly's Corner",
+        "address": "71-15 Grand Ave, Maspeth, NY 11378, USA",
+        "place_id": "ChIJ05LiYfZewokRIRuLbmFmXU4",
+        "rating": 4.5,
+        "user_ratings_total": 894,
+        "phone_number": "(718) 565-7383"
+    },
+    {
+        "name": "Good Eats",
+        "address": "69-32 Grand Ave, Maspeth, NY 11378, USA",
+        "place_id": "ChIJoXzucvRewokRENxqa_oVt3A",
+        "rating": 4.4,
+        "user_ratings_total": 1594,
+        "phone_number": "(718) 478-2420"
+    },
+    {
+        "name": "Super Pollo",
+        "address": "8-65 Woodward Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJu5er6idcwokRYYUe4htbubQ",
+        "rating": 4.5,
+        "user_ratings_total": 1145,
+        "phone_number": "(718) 418-0808"
+    },
+    {
+        "name": "O'Neill's Maspeth",
+        "address": "64-21 53rd Dr, Maspeth, NY 11378, USA",
+        "place_id": "ChIJ6zin_fFewokR294f89OYH_U",
+        "rating": 4.4,
+        "user_ratings_total": 1420,
+        "phone_number": "(718) 672-9696"
+    },
+    {
+        "name": "Lechoneria New York 1 (Maspeth)",
+        "address": "52-27 69th St, Queens, NY 11378, USA",
+        "place_id": "ChIJK8zzHmBfwokRc341GejoZk4",
+        "rating": 4.5,
+        "user_ratings_total": 577,
+        "phone_number": "(347) 639-0004"
+    },
+    {
+        "name": "Salty Lunch Lady's Little Luncheonette",
+        "address": "5-65 Woodward Ave, Queens, NY 11385, USA",
+        "place_id": "ChIJd1wnL-dfwokRlYBRhDQwS80",
+        "rating": 4.6,
+        "user_ratings_total": 207,
+        "phone_number": "(929) 337-7629"
+    },
+    {
+        "name": "Ocean Prime, Bar and Restaurant",
+        "address": "64-14 Flushing Ave, Maspeth, NY 11378, USA",
+        "place_id": "ChIJ43VTtJdfwokRPOElamTIwro",
+        "rating": 4.4,
+        "user_ratings_total": 74,
+        "phone_number": "(718) 326-3707"
+    },
+    {
+        "name": "Rosa's Pizza",
+        "address": "62-65 Fresh Pond Rd, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJK77vNoVewokRhEjVTZf0FyU",
+        "rating": 4.6,
+        "user_ratings_total": 2337,
+        "phone_number": "(718) 497-7672"
+    },
+    {
+        "name": "Mano's Pizzeria",
+        "address": "62-98 Forest Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJnQvh4xZfwokRtIhuUuw0Pt4",
+        "rating": 4.8,
+        "user_ratings_total": 736,
+        "phone_number": "(718) 418-1112"
+    },
+    {
+        "name": "Joe's Pizza Ridgewood",
+        "address": "66-53 Forest Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJ7XYBGZ1ewokRHK2Xx3XD44A",
+        "rating": 4.7,
+        "user_ratings_total": 43,
+        "phone_number": "(347) 457-5335"
+    },
+    {
+        "name": "Taqueria Kermes",
+        "address": "66-36 Fresh Pond Rd, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJd67JeYNewokRpDXPXwnV5uU",
+        "rating": 4.4,
+        "user_ratings_total": 539,
+        "phone_number": "(347) 463-9263"
+    },
+    {
+        "name": "Mediterranean Restaurant & Bar - Relax Lounge",
+        "address": "68-17 Forest Ave, Queens, NY 11385, USA",
+        "place_id": "ChIJT-rGNTFdwokRCo3dSLTy3wM",
+        "rating": 4.5,
+        "user_ratings_total": 72,
+        "phone_number": "(347) 720-8826"
+    },
+    {
+        "name": "El Alto",
+        "address": "60-01 Metropolitan Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJTYHJP5pewokR_DIHnFvmEs4",
+        "rating": 4.6,
+        "user_ratings_total": 158,
+        "phone_number": "(718) 456-1044"
+    },
+    {
+        "name": "The Live Oak",
+        "address": "59-93 Fresh Pond Rd, Maspeth, NY 11378, USA",
+        "place_id": "ChIJVY9KJZBewokR05-lLjlDTHk",
+        "rating": 4.6,
+        "user_ratings_total": 229,
+        "phone_number": "(718) 326-4920"
+    },
+    {
+        "name": "Las chilangas",
+        "address": "7-66 Seneca Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJo25dxPVdwokRc6UcEOPDxvc",
+        "rating": 4.7,
+        "user_ratings_total": 335,
+        "phone_number": "(347) 799-1416"
+    },
+    {
+        "name": "Ridgewood Taco Factory",
+        "address": "66-89 Forest Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJ0Qk3L6lfwokRCCa21K0u5p0",
+        "rating": 4.3,
+        "user_ratings_total": 164,
+        "phone_number": "(718) 456-8226"
+    },
+    {
+        "name": "La Bella Mariella",
+        "address": "60-61 Fresh Pond Rd, Maspeth, NY 11378, USA",
+        "place_id": "ChIJ506iJpBewokRowmDMZlSgH4",
+        "rating": 4.3,
+        "user_ratings_total": 286,
+        "phone_number": "(718) 366-6170"
+    },
+    {
+        "name": "Gottscheer Hall",
+        "address": "6-57 Fairview Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJQbogzJ1ewokRUJAowaUOLnM",
+        "rating": 4.6,
+        "user_ratings_total": 360,
+        "phone_number": "(718) 366-3030"
+    },
+    {
+        "name": "Decades Pizza | Bar and Restaurant in Ridgewood, Queens - NYC",
+        "address": "6-90 Woodward Ave, Queens, NY 11385, USA",
+        "place_id": "ChIJy-XYyNtfwokRnFoJaxU7k0A",
+        "rating": 4.6,
+        "user_ratings_total": 223,
+        "phone_number": "(347) 763-0018"
+    },
+    {
+        "name": "Joe & John's Pizzeria",
+        "address": "59-10 Myrtle Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJd9zJklRdwokRfiSIb-LkvJM",
+        "rating": 4.6,
+        "user_ratings_total": 803,
+        "phone_number": "(718) 497-0078"
+    },
+    {
+        "name": "Mr Sushi Japanese restaurant (Ridgewood)",
+        "address": "58-12 Myrtle Ave, Flushing, NY 11385, USA",
+        "place_id": "ChIJSYd7ox5dwokRobpdRawOUPc",
+        "rating": 4.6,
+        "user_ratings_total": 263,
+        "phone_number": "(929) 295-0286"
+    },
+    {
+        "name": "La Cocina De Mama",
+        "address": "56-13 Metropolitan Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJy53xIJpewokRWOgqyNNmHTc",
+        "rating": 4,
+        "user_ratings_total": 233,
+        "phone_number": "(718) 417-4000"
+    },
+    {
+        "name": "Pizzeria Panina",
+        "address": "68-38 Forest Ave store front A, Flushing, NY 11385, USA",
+        "place_id": "ChIJB8FygL9dwokRoRyMhvfq4Ss",
+        "rating": 4.7,
+        "user_ratings_total": 249,
+        "phone_number": "(347) 227-7866"
+    },
+    {
+        "name": "MuuMoo Foods",
+        "address": "60-54 Fresh Pond Rd, Maspeth, NY 11378, USA",
+        "place_id": "ChIJayMpU_lfwokRk0vNSM_6FMA",
+        "rating": 4.5,
+        "user_ratings_total": 83,
+        "phone_number": "(929) 666-5898"
+    },
+    {
+        "name": "La Lanterna Cafe & Grill",
+        "address": "29 W Ridgewood Ave, Ridgewood, NJ 07450, USA",
+        "place_id": "ChIJm46NP6jkwokRNBfVei3bb3c",
+        "rating": 4.7,
+        "user_ratings_total": 289,
+        "phone_number": "(201) 444-5520"
+    },
+    {
+        "name": "Cachapas y Mas",
+        "address": "6-78 Seneca Ave, Ridgewood, NY 11385, USA",
+        "place_id": "ChIJ5Qpq5iBcwokRXAiqaAUuS_A",
+        "rating": 4.4,
+        "user_ratings_total": 1051,
+        "phone_number": "(347) 721-3767"
+    },
+    {
+        "name": "Affy's Grill",
+        "address": "69-67 Grand Ave, Maspeth, NY 11378, USA",
+        "place_id": "ChIJ0xshHIxfwokRh6uQgQpjhf4",
+        "rating": 4.3,
+        "user_ratings_total": 656,
+        "phone_number": "(718) 685-2900"
+    }
+]

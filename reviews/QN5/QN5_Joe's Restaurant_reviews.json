@@ -1,0 +1,516 @@
+{
+    "name": "Joe's Restaurant",
+    "place_id": "ChIJ7XYBGZ1ewokRCKXcLmlVdMY",
+    "grid": "QN5",
+    "address": "66-11 Forest Ave, Ridgewood, NY 11385, USA",
+    "rating": 4.6,
+    "user_ratings_total": 925,
+    "phone_number": "(718) 497-1300",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SbVEwZG1ieTF6V0hoWlRXODRYM1pHVUZweFRFRRAB",
+            "text": "Authentic Italian, right down to the Ricotta cheesecake. Fra Diavlo sauce some of the best I’ve had. Highly recommend."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSRGVVRk5OaTFOYzBSV1IzSkNjVTlZYlRWNmJYYxAB",
+            "text": "Lovedddd it. I had shrimp parm with ziti and my husband had veal parm with ziti. The hot bread comes out with delicious peppers in oil.  Out of this world. Bread is from a great baker old school in Astoria. Rose & Joe's Bakery.  Back again.  Wow.  What a great meal.  The fish is off the charts"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsV05qQTRjVFZpU1ZkMWEyeHBXWEpmVFhkd1owRRAB",
+            "text": "Great homely vibe. Owner is great and accommodating."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GS2JXUjZiR1kzVW5SNkxYRlZNR1ZsUWtwbGIzYxAB",
+            "text": "My son and I had a beautiful lunch on a Sunday afternoon. Excellent service and a nice atmosphere."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SeU5sQXdTVVJzUzNOMmVrdDFWRTQyZDJ4MlptYxAB",
+            "text": "$16 for this is crazy"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SaWVtZEJRMFZ2VW1KcVNtNVVaMnBhUTFSdVlVRRAB",
+            "text": "A cozy spot for a hearty meal. Service was very attentive, and the food came quickly. The food portions of both appetizers and entrees were very generous, and the quality was high. I will definitely be coming back to try other items."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toSloxOU9WMnQxV25WbGVrTmFRMjFoY2tGVGNGRRAB",
+            "text": "Great food\nfair prices"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4NWQwZFNkSEZFT0RrelJUZENVVFptYkdwUU0wRRAB",
+            "text": "Absolutely love this place, always enjoy their food. It's one of my favorite Italian places in the neighborhood"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1T0xUbHNaRVo0TVMxWE5FMUxNM1ZLZERkM04yYxAB",
+            "text": "Never ever disappoint. Thats a rarity"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkNlFXTXRlamxMTmtjNWVETmlVemx4UVY5TFVtYxAB",
+            "text": "$23 dollars for absolutely no calamari. Ive had twice the amount of calamari at other places for half the price.\n\nShort bald guy was rude said the calamari is extra special like I was dumb lol. How are u going to tell a lady she cant have a normal proportion of food. I am a petite girl, imagine a grown man being served this, still hungry.\n\nDidnt even offer to add a bit more. Just a straight no. Never going again. Photo is how i received it without biting into it."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWUxWbHliWE5yVDFSRVYzWkxaMmwyV2tOb2IzYxAB",
+            "text": "I order from here every time i’m craving pasta and its always so good! The portions are huge and the food is always so fresh! I need to come into the restaurant next!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kUVRpMW9XWGxGU25oblh6RlRVMmw2ZVc5aWVIYxAB",
+            "text": "The Vodka Grandma Pizza is probably the best I’ve ever had. All toppings are fresh and the sauce is perfect.  So glad this hidden gem classic NY style pizzeria (re) opened down the street."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ObWExRnJSRzVpYWtOV2QyazFVRXREV0hGa1NVRRAB",
+            "text": "The food was very good and reasonably priced. I can't recommend the meatballs."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNd1ZXUnJMVEpZVDNOSFZVbEdPVFZ5YUdKdk9WRRAB",
+            "text": "Food was good. Music was on too loud, could barely hold conversations."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURROThQNnp3RRAB",
+            "text": "Always fine. Been coming to Joe's since it was a pizzeria a few blocks away. The food is always spot on. Anthony has been here since the beginning and is always glad to see you and very welcoming. Cannot recommend it highly enough."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xob05IWklNamRqYVZOWFZGWnVZVEJ1ZVhrMlNGRRAB",
+            "text": "Fantastic old school Italian food. Classic chicken parm and veal Marsala. And they greet you with this great bread and amazing oil to dip in."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VeVYxcGtlRGh2UWtOdU1UZHRTMVJ3TVRaWUxVRRAB",
+            "text": "Always a wonderful experience here."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxTlpXcEdMWFZ4Um1Gd1RVRXRXVFp1U1dweWQxRRAB",
+            "text": "The food was good and the waiter was very friendly but when it came time to pay, a bald man approached and there was not very respectful treatment; I could even say a little racist, a pity that a good place gets spoiled by staff like that"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CWVpqWmlWbU5xZVc5TWRFdFVaM1Z1Tm1ONU9FRRAB",
+            "text": "My wife and I were in town from Nebraska visiting our son and we had the pleasure of dining at Joe's Restaurant in Ridgewood, NY, and it truly exceeded our expectations. From the moment we stepped in, the welcoming atmosphere and warm hospitality set the tone for a fantastic meal. The staff was friendly and funny, a real 'family' atmosphere. It was the most fun I've had at a restaurant in a LONG time. Don't miss it!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOR1gxcEpNSFE1TlZwelRWOUpNRmRKYm5oSlpWRRAB",
+            "text": "Joe’s Restaurant has been a staple in my family for Countless years. There are not enough good things I could say about Joe’s one of the best family restaurants in Ridgewood, if not the best."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poc2NVUndWMUJOZFVsTmJVbHJZeTF6ZFVwckxWRRAB",
+            "text": "Excellent authentic Sicilian food !  My go to place in queens."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Sa1N6UjJNMjEzYmpkb1ZVbzJhVmRFV0VFd1FXYxAB",
+            "text": "Felt welcomed, food so yummy, I'll be back!\nThank you guys for a pleasant time.."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toU01IZDBTV0l3TTNWTlVqUjJMVlYzVkZJM09HYxAB",
+            "text": "I come from Arizona every year and one of my 1st stops in NYC is Joe's. Every dish is perfect! My favorite is the Veal Parm - no one makes it better. Their sauce is amazing & their marinated green peppers with bread is legendary (served same way for over 30 years)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKM3J0S3lSaWZlWVF3EAE",
+            "text": "Food is delicious, staff is wonderful"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpMVBDX2FBEAE",
+            "text": "outstanding  always the best"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLZXJqYXVyM1lIWDFRRRAB",
+            "text": "Absolutely loved it !! Cannot wait to return. The Amatriciana was incredible 🍝 would love to come with a large group!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKN0VvY0huOXZYTjlnRRAB",
+            "text": "Amazing Italian food with actual Italian portions! Great service as well very kind people!! Try the gnocchi 🔥…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPcjBfN25za3BhVUFnEAE",
+            "text": "This place feels like im in goodfellas, and a part of the fellas,  not just some lousy background character. The food here is so delicious, smack your mama delicious. The chicken Francaise is fuego. The bread and dip is also fuego\n\nCome here please, and do ask for refills."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMdUd0Sm1pM0pISjhnRRAB",
+            "text": "I stopped by Joe’s Restaurant for lunch and had a great experience. The food was fresh, flavorful, and served promptly—perfect for a midday meal. The atmosphere was relaxed and comfortable, making it a nice break in the day. Service was excellent—friendly, efficient, and attentive without being overbearing. Great quality all around, and the prices were very fair. I’ll definitely be back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKbkJwUG42Z19DOFp3EAE",
+            "text": "Nothings better to come to a restaurant and feeling the love of a  family owned business !!! From the minute you walk in till the time you're  ordering dessert!! Every meal was amazing and the service was top tier!!! I will be back and will tell everyone to come to this place !!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZaGVLX25BRRAB",
+            "text": "I ordered a chicken cutlet, it came with ziti with sauce.. Waiter asked if we wanted our left overs to go, yes of course.. Only when I got home he never put the pasta in my to go box.. He assumed I didnt want the rest?! 🤔 I mean, Im paying for it, why wouldnt I want the rest of my pasta.. Cant lie, the taste of the food wasnt bad.. I enjoyed my meal.. But damn, I didnt even get to enjoy the entirety of my leftovers the next day.. Bummer!!\nAlso, whats up with 5+ waiters helping our table.. We ordered 3 sodas and 2 waiters had to bring them over.. 5+ waiters per table equals alotta times someone comes over to ask if everything is okay.. Anyways, Lunch wasnt bad.. Prob wont come back.."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZbXZtaE1REAE",
+            "text": "The food was wonderful per usual .  Unfortunately Alicia/Alesia's attitude was not.  Spoke to me in a disrespectful manner and high tone.  I also work in service and it was unacceptable.  My friends were shocked she yelled at me.  I was too and honestly a grown woman not able to control her tone is beyond me.  All I did was ask if we could order.  I still left a 20% tip, because I'm not sure how their tip system works.  Unfortunately will not be going back where I am disrespected.\n\nGreat food though, perhaps take out might be nice"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCNVliYTBRRRAB",
+            "text": "Was born and raised in New York loved this place but but went there about a year ago.Give or take and the food was horrible.Definitely new cooks new owners.Something but definitely will not be going back"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJbThlanJBRRAB",
+            "text": "The service was good.  The food was even better.  Absolutely amazingly tasty freshly made Italian food.  One of the best in this city"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJdHQzeTJnRRAB",
+            "text": "Don't know, had reservations but when we got there the place was shuttered closed. No sign no call."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3MUxQWlBBEAE",
+            "text": "My favorite place for Italian food. Omg th e you have the best food."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRd3N6LW5nRRAB",
+            "text": "Food  was great. Service was exceptional"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRak5hdHJRRRAB",
+            "text": "We were shocked. We made reservations a week in advance, asked if we'd be able to get a table in the back, they said no problem.  When we arrived, about ten mins before our time, we checked in and said we'd wait, it was empty except for a small party of people clearly celebrating, but saying goodbye, they were putting on their coats.\n\nThe girl sat us next to the servers' booth. I asked her to be seated in the back, where there were plenty of tables, where we were told we'd be able to sit, and where they sat everyone else who came in after us and left us at that uncomfortable table.\n\nNearly 50 years my family has visited this restaurant, during the pandemic, and this is how they now treat valued customers. We left half of what we would normally tip. What was the point of taking our reservation, say yes they would gladly accommodate us, and then sit us next the bathrooms? While they sat everyone else behind us? Very shocking and not very good service.\n\nWe celebrated many family events, my communion celebration was here, we have photos of that day. My uncle passed away two years ago, we shared the news and celebrated his life there. This was very disappointing and completely unnecessary. I guess they don't care about service anymore."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRd0ptc1J3EAE",
+            "text": "Delicious Italian food."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnb19iVkJnEAE",
+            "text": "Bread and oil were amazing. Pasta was good. Server and food runner were great, too"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnZ2U2bzJBRRAB",
+            "text": "Joe's is one of the best Italian restaurants in all of NYC.  Family owned and run, you will feel like part of the family by the tome your meal is over."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnaWF1SDdnRRAB",
+            "text": "My favorite Italian American restaurant in NY. The calamari is fresh and crispy , the house red goes down easy and the service is always amazing. I love a place that is consistent and gives you the same quality every time you go. I hope they’re around another 50+ years."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBc2UzWXZRRRAB",
+            "text": "Great food and service ."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfNE1idGRnEAE",
+            "text": "It was a great experience. i loved the linguini in clam sauce. Outstanding service it's worth the trip. You have to try it."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmejk3Y1RREAE",
+            "text": "Everything was good food wise. One exception was a female server with braces who mispresented a free glass of wine while we waited for a table. She was dishonest. We had to pay for that glass of wine."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2dlBXaFhBEAE",
+            "text": "Best Italian restaurant in Brooklyn and the most authentic food I have tried in New York . I came here for my birthday they have no equal. Love the veal saltimbocca! I wish they roll it but it’s ok."
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0cE56eHRRRRAB",
+            "text": "Delicious food great service."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2MU5lQlBBEAE",
+            "text": "I booked a reservation for a party of 7, which later expanded to 12 guests, and I appreciate that the restaurant was able to accommodate us. However, we encountered several issues during our visit. The wait times between appetizers, drinks, and the main course were longer than expected, and while our party wasn't thrilled about it, we chose not to complain at the time.\n\nWe were celebrating a birthday and informed our waitress, but it took about 20 minutes after I reminded a waiter for them to come and celebrate with us. Additionally, we waited another 25-30 minutes for the bill after the birthday song. When the owner, Francisco, approached us to ask about our experience, I took the opportunity to share my concerns about the wait times and service. Unfortunately, he became defensive and seemed unwilling to listen to my feedback.\n\nI believe it’s important for business owners to be open to constructive criticism, especially when they ask for feedback. This was my first visit, but based on this experience, I don’t think I will be returning. The atmosphere felt standoffish and unwelcoming."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2ZzdUaHdRRRAB",
+            "text": "The top Italian eatery in Queens/NYC! The baked clams were absolutely fantastic. The chicken francese is so tender that you can cut it with a fork. It's always my first choice whenever I'm in the neighborhood. Huge thanks to Francesco and the team for the wonderful hospitality!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQdi02RjBRRRAB",
+            "text": "The food and service are great. The only problem is that it's impossible to find a parking spot. Price per person from apps to dessert (including drinks) is around $90-100."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3MTY2cFVnEAE",
+            "text": "Joe's Restaurant in Ridgewood, NY is the real deal, folks! I mean, I've had my fair share of Italian food, but this place is the cousin that always brings the best dishes to the family reunion!\n\nI went in expecting the usual pasta and sauce, but oh no, Joe's brought out the big guns! The ribeye steak was so tender, I thought I was in a scene from The Godfather. And don't even get me started on the lobster - it was like a taste explosion in my mouth!\n\nBut the real MVP was the mash potatoes - who knew those humble spuds could be so... exciting? And the spaghetti marinara? Classic, just like Nonna used to make!\n\nAnd let's not forget the appetizers - shrimp cocktail that was so fresh, I thought I saw the shrimp waving at me, and a green salad with bread and garlic olive oil dip that was basically a taste sensation!\n\nAll this, plus a warm and fuzzy family atmosphere that made me feel like I was part of the crew. And the coffee? Fuhgeddaboutit! It was like a hug in a mug!\n\nIn short, Joe's Restaurant is the real deal. Go there, eat all the things, and thank me later. Five stars, ten stars, a million stars - it's not enough!\" Boun appetito!!"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1bzRqdE1REAE",
+            "text": "This neighborhood restaurant is worth the trip!!! Not even my neighborhood and I will be going back!!! The sauce to dip the bread in was CRACK!!!! Very addictive… The bolognese was truly authentic and my fiancé is SO PICKY ABOUT IT; I was wonderfully surprised  that she loved it-The waitress and waiters were very attentive,friendly and professional.The vegetables were probably the weakest link but I must say we will be coming back for years! Thank you"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLdE5lZHlBRRAB",
+            "text": "It doesn't get more Italian than this place. The pasta was fresh and the sauce was delicious. It wasn't too acidic and the meatball was perfectly seasoned. Definitely a must try! If you're planning on going, I suggest making a reservation ahead of time to skip the wait."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNod3RTOFVBEAE",
+            "text": "The atmosphere here is laid back and it feels like you are in another time.  It is a family owned business which has been around a long time.  You get the feeling that it is a neighborhood restaurant where the customers are regulars.  The prices are good but you have to read the fine print on the menu because some of the new prices are not reflected on the menu.  As of 2/7/23 the menu was not updated.  The Bread they bring to the table is accompanied by Butter and also by some Olive Oil w/peppers, it was very good.  I had the Breaded Shrimp which comes with Pasta or Mixed Vegetables.  I had the side of Ziti.  The Shrimp was very good but the Ziti was not as Al Dente as I would've like and the sauce was bland.  My friend had The Bolognese, she found that it had very little flavor.  We shared a Mixed Berry Tart w/whipped cream which was good.  The service was good and the staff is friendly.  The space is pretty with some nice art and it's cozy."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXejZfdU5nEAE",
+            "text": "Large portions for great prices! I love that they aren't cheap with the seafood, but I wish the white sauce had more depth. The red sauce, on the other hand, was yummy. I'll definitely be coming back for that."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1dHNQczdBRRAB",
+            "text": "A Hidden gem in the Ridgewood/Glendale area. Small restaurant but full of dishes with amazing flavors. Staff is very welcoming and I recommend the house wine. The sauce is made in house fresh, if you love food you will definitely appreciate…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCXzhHRE93EAE",
+            "text": "Just to say...perfection on Ridgewood! This Italian restaurant represents what is all about  great service delicious food! The ambient  and atmosphere is very calm welcoming from the moment you step into Joe's. Be ready to enjoy the most delicious Italian cuisine. The service is top noch!! We talking about great service all the way.  The food is masterpiece on your mouth. BABABOOM service by nasa and every one that was taking care our table.  He was sure the my salad was gluten free full of flavors. ( my apologies for no having every one names here on this review,  my notes are been stolen) but you know who you are.  Thank you so much to all for a amazing service. Thank you for bababoom cuisine.  I recommend 100% this place. My recommendations call for reservations.  Please try everything!! Good on the eye BABABOOM  for the mouth.  Be all safe. Kisses and hugs king size muuuah. abbraccia il tuo pasto con amore"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNobS11cGxRRRAB",
+            "text": "Incredible food and service! Best food I and my wife have had in a restaurant in New York in a long time!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwcDdyaEhREAE",
+            "text": "I've been coming to Joe's for 30 years.  The original spot was a few blocks down and a regular pizza place. I have to say I've never been disappointed with a meal or the staff. The family is great and the food is consistently great. It's great to see the kids involved in the family business.  Love it!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtcTRqWS1RRRAB",
+            "text": "The food is amazing; great flavor, cooked to perfection and portioned just right!!! A definite must go if you're looking for authentic 5 star italian cuisine!!!"
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwcDdhNzlnRRAB",
+            "text": "I absolutely loved this place. The staff were my favorite part of our visit. They were young spunky down the earth amazing. The waitresses were very pretty and the guys were handsome down the earth and attentive. Loved the atmosphere.. the pace of service was just right and I do t have any complaints.  We ordered the fettuccine alfredo with shrimp and I ordered the eggplant parmesan which was okay... but the fettuccine was AMAZING order that if you cant decide on anything else. You will be more than happy!!!! We ordered the tomatoes and mottz as the app and before bbn I forget the bread is addictive and the oil that you dip it into is addictive so please make them rush that out!!! Our bill came to be about 85 for two people with apps entrees and drinks. It was worth every cent. Also the place is good for all occasions so bring your family bring your hot date and have a nice meeting here. You wont regret it. Bon appetit !!!"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNaTlfblJREAE",
+            "text": "JOE'S continues to please the neighborhood with the absolute BEST Italian food! Francesco, Tony and crew treat you like familia and make you feel right at home during these difficult times! Grazie mille!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxaXRPbF93RRAB",
+            "text": "Have been coming here for years. Best Italian sit down restaurant in Ridgewood. The food is always delicious and the service top notch. Can't recommend it enough!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiX292T3B3RRAB",
+            "text": "Classic spot. One of my favorite places in queens to get good Italian food. No thrills, just good food."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPdGVlOUR3EAE",
+            "text": "Okay, stumbled into Joe’s on a Wednesday night - lowkey but great energy! Amazing prices, excellent portions, tasty food + wine!! The pepper oil is mind blowing!!! Get ready to dip! I got the spaghetti and meatballs with some cheesy garlic bread, stellar combo. Large carafe of wine? Yes please! My three friends and I easily had three glasses each. Definitely coming back to Joe’s! Dinner now + lunch tomorrow (-:\n\nWant to add on that our lovely server gifted us a piece of CREME BRÛLÉE CHEESECKAE!! (Pic 3) absolutely divine❤️"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZbHFEZlJBEAE",
+            "text": "First time at Joe's and it's a shame that it has taken me so long to visit. This restaurant needs to be described in superlatives: as you enter, you are greeted effusively. The restaurant radiates warm and that sense of being in a welcoming place. The decor is well done and visually pleasing and the spacing is very comfortable, allowing for conversation with your dinner companions.\nThe service is top notch and Francesco and his team spare no effort to make your experience top notch.\nWe started with the seafood ceviche (they called it salad, but that was ceviche) which was OUTSTANDING!\nThe bread was fresh and warm (Yes!)\nand the accompanying olive oil with peppers was heavenly.\nWe continued with the shrimp scampi with linguine sauce, another hit! The pasta was perfectly al dente and the jumbo shrimp was perfectly cooked. Overall, a feast for the taste buds! Lol.\nI will be a regular👍🏼👍🏼👍🏼"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1cExLUEF3EAE",
+            "text": "We were celebrating my goddaughter‘s baptism at this restaurant and we were a total of 15. The owner Frank came out and personally brought out the food for everybody. The food was excellent everything was fresh would definitely recommend this place."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSN3BqdEhnEAE",
+            "text": "great family dinner spot! who doesn't love some old school italian flava. the staff is very friendly, they treat you like a regular on your first visit."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuMFBENXZ3RRAB",
+            "text": "Hidden Gem!! We had attended a wake a few blocks away and discovered Joe’s Restaurant. We were a party of 8 on a Friday night without a reservation and they were kind enough to accommodate us. The food and service was outstanding! We even met the owner who made sure we were well taken care of. Everything is made fresh and you can taste the difference. Can’t wait to go back! ❤️"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5d3I2SVV3EAE",
+            "text": "We reserved a table for two. Waited no more than 10 minutes to be seated, the staff was friendly. We ordered chicken marsala and broiled rib steak and didn’t wait long for food, the portions were very large and incredibly tasty, highly recommended 👌…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5c2EzZVBBEAE",
+            "text": "Valentine’s Day 2021!\nFirst time & definitely won’t be my last! I definitely enjoyed their appetizers, main entrees and their service."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBbUlDMlJ3EAE",
+            "text": "Delish food, good prices.\nGreat portions.\nFriendly staff (not the type of super friendly, but with personality. These are the kind of those waiters who become friends of their regular clients).\nHere I saw people saying \"bye, it was delicious as always\".\nThe service is a little bit slow but meh, it worth it."
+        }
+    ],
+    "reviews_count": 72
+}

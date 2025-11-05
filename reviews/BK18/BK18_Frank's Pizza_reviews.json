@@ -1,0 +1,474 @@
+{
+    "name": "Frank's Pizza",
+    "place_id": "ChIJT2gD_LdcwokR-f-r-Gmd0yo",
+    "grid": "BK18",
+    "address": "8025 Flatlands Ave, Brooklyn, NY 11236, USA",
+    "rating": 4.2,
+    "user_ratings_total": 206,
+    "phone_number": "(718) 251-8095",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RNVlVNDRlbFJYUVZNMVNtVmZRVk01U1hJMk5uYxAB",
+            "text": "They have the best Chicken over rice!"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKcU1YbHJVVVJHWjE5VGQwaFFNbmt3ZUVscmQzYxAB",
+            "text": "Muy buenas pizzas ricas y frescas"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5bVkwUk1jekY0VG1SMVVrbzBZM0JPU0doeGFWRRAB",
+            "text": "Friendly, Service is nice..."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205VFNXSXlTbXA2U0VSVFowZzNRMkZGZUdkMk5YYxAB",
+            "text": "Very polite"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWRldVbG9WRlJrWTJObU0wWjZOa0UwZGt0VldIYxAB",
+            "text": "Fire"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGeFNGTnBRVmxUTkZOb2RYaDNiRzA0UTB0SFZXYxAB",
+            "text": "Frank’s Pizza on Flatlands Ave has the best pepperoni pizza around crispy crust, melty cheese, and just the right kick from the pepperoni. The garlic knots are amazing, the pasta’s always fresh, and the staff treats you like family. Fast, friendly, and consistently delicious. A local favorite for a reason!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WR1NFMVhTR3RCUVhad05GUkNRV3BxZVROSE1VRRAB",
+            "text": "Best pizza ever I love it here"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OT1MxTjNXVzlpYzBvdFVtUnhkbmhDYldwdlQxRRAB",
+            "text": "Coming here since a kid taste hasn’t changed only improved"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aQlRWUmxTMWwzTjFKbE5WOXRMWFZ1TlZWd1owRRAB",
+            "text": "Good desserts and snacks for low price."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSMWVHMWFTRE5hYVhrMVVIUXdlR0ZWYzFSVVdFRRAB",
+            "text": "Best Pizza Spot in Canarsie!!! The cheapest quality pizza in the whole world!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poNGEwUlRSM1ptYVV0M1YySnlNbkJPZW05WmRuYxAB",
+            "text": "Pizza was good but kids were very disappointed with the baked ziti..this was literally ziti in tomato sauce no cheese..I thought cheese was a one of the main ingredients in baked ziti. And the chicken alfredo had a weird smell🤢"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVGNVYzBWRkJHTm14M1RuZGFWVVJZYVVGTlVVRRAB",
+            "text": "Worst pizza ever in my life. Got 3 slices of regular. It was a pepperoni pizza before but they took pepperonis out and sell it like regular. There was pepperoni marks on the cheese because it was cooked together. I don’t eat pork so I throw all the pizza I bought. Also pizza box was touching floor and mosquitos was having a party all over in the place. Thanks to Frank pizza for this experience"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4NllWWmxkV05KZEdwb1pWTldPV2x5TTJkamQyYxAB",
+            "text": "Great customer service, great food!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WdlNXVndhMlp1UTB0ekxYVnphMDVoZDNjNE4zYxAB",
+            "text": "Frank’s Pizza on Flatlands Ave is an absolute gem in Brooklyn! The food is consistently fresh, flavorful, and satisfying. One of the standout items that keeps me coming back is their cheese steak fries—they’re next level. Perfectly crispy fries loaded with juicy steak, melted cheese, and just the right amount of seasoning. It’s comfort food done right.\n\nThe pizza here is great too—classic New York style with generous toppings and a delicious crust. The staff is friendly, the service is quick, and the atmosphere is welcoming whether you’re grabbing a quick bite or ordering for a group.\n\nIf you’re in the area, Frank’s Pizza at 8025 Flatlands Ave is definitely worth a visit. Don’t leave without trying the cheese steak fries—you’ll thank me later!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pab1dUZ3dUa2gwU0VvM1VFdGhkamM0WjFsZk9XYxAB",
+            "text": "The customer service here is great! And the pizza is great!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GRVkzTkRRVFJrTTJNNWQzcFZaa1pNVG1WM05WRRAB",
+            "text": "The food was good"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMlZtOU1lR2w2VEhGQ2RFVm9PVzkzUmtZMGJsRRAB",
+            "text": "Delicious food 😋  best customer service and there zeppolis is to die for !!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaa2EyTkNSR053UkZOeFIwRTJaVlpFV0VVMFJHYxAB",
+            "text": "Best pizzeria in Brooklyn best prices, quality food. My favorite pizza joint in NYC !!!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFeGJqRnpZVjgwTjJ0WGFGOVFZVXRCY3pWRFRGRRAB",
+            "text": "Good job"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MlJFSndOa1JYT0cxdVJFcE1OR0ZaZURRd1YwRRAB",
+            "text": "I like their service"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsR05rdHlkM1YzTVdSR09VcEVURFp3ZW10T2EwRRAB",
+            "text": "Food is fresh authentic ny style pizza !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSUGNuVnlVMjFXVVZob05XOUtkSGx0YUZGMlFsRRAB",
+            "text": "Best pizza hands down in Brooklyn ❤️❤️❤️❤️"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VPeUVwS2FBMmFiSmlnRRAB",
+            "text": "Very SAD Shrimp over Rice for $10. Quality ain’t there anymore. Do better!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvbTd1RmpRRRAB",
+            "text": "Great food, great service and reasonable pricing."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvODhXME1REAE",
+            "text": "My family and I frequent Frank's at least once a week. The service is great."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvcUlDbDFnRRAB",
+            "text": "Pizza/Halal joint.\nSome of the best single slices I've had in a while, and their menu has a wide variety of things to choose from.\nNice and clean interior, but I don't remember seeing any tables or chairs to dine-in."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3MG82d2dBRRAB",
+            "text": "Got food poisoning from a pepperoni slice. I was in the hospital for 10days. Just couldn't keep anything down. 😮‍💨"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRbFBLRml3RRAB",
+            "text": "Delicious"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRbUtmOXhBRRAB",
+            "text": "Service and food top notch delicious with great owner and staff"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnMmNQSW13RRAB",
+            "text": "This pizza dont flop\nIts halal and nice god bless"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURna0xTa2dBRRAB",
+            "text": "Terrible & deserves ZERO stars. Using the Sloce app, I ordered a large pepperoni with extra cheese, penne a la vodka, a calzone & pinwheels. This was my 2nd time trying this place after a mediocre initial taste & figured extra cheese might solve my problems. I’ve never owned a pizzeria, however, objectively, this place uses so little cheese on their pizza, that their extra cheese option, which costs $2, still doesn’t come close to a regular serving of cheese at other local pizzerias. After speaking with the people at slice, they confirmed that their vodka sauce is tomato sauce & heavy cream, which I personally find to be an affront to Italian cuisine everywhere. Naturally, the pasta also had very little “vodka” sauce & the added chicken was bland at best. If I had a nonna, she’d be appalled. The pinwheels also had a meager serving of cheese with maybe 3 pepperonis at the center? Lastly, the calzone had sausage that was bright red & the taste was reminiscent of school lunch circa 1998. The food this place serves is atrocious. Bring your business elsewhere."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBaXAzMzdBRRAB",
+            "text": "Great food fast hot delivery"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmMjZhTDh3RRAB",
+            "text": "very greedy and a small sandwich and tiny piece of chicken on pizza is nasty"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkbjZlQ1lnEAE",
+            "text": "delicious pizza!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkeXRueHJnRRAB",
+            "text": "Fresh food. Place too small. The local children hang out there. They are loud and busy."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxb2Q3eHRnRRAB",
+            "text": "Excellent pizza."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1c3FEblJBEAE",
+            "text": "Small place, but Great service and food."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwbDRURW9RRRAB",
+            "text": "The crust and cheese was borderline OK, but the sauce needs to be better, very bland. Not an overall good tasting NY pizza. Maybe it was an off day for them..."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoM2JUMjNnRRAB",
+            "text": "Good pizza all the time"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURleWEzRDB3RRAB",
+            "text": "(The pizza is amazing.)"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPMDd5SkJBEAE",
+            "text": "Frank is a nice man. His good is really good, too. God bless your business."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyOGNxbDNRRRAB",
+            "text": "I ordered a sausage and pepperoni pizza, it was horrible!! Pizza was COLD and the sausage was weird. Not like the normal Italian sausage you get on a pizza. It was more like kielbasa. It was disgusting.  It spent $39 all together. I will never order from here again. If you are looking for a good pizza, go somewhere else."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXM0w2UGJBEAE",
+            "text": "Drove all the way there on Sunday on Google maps says openz when we got there was close. Very upset"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtNzZtSGVBEAE",
+            "text": "Great pizza ,great price!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHLUlyZ1RBEAE",
+            "text": "Simply the best"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHNjd6T1BREAE",
+            "text": "Pizza is extremely small he cuts small sizes for people he has a hidden dislike for. Make sure he cuts the best slices for people he likes the worst pizza shop in canarsie"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHMnFHTW5nRRAB",
+            "text": "A good place to buy food"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2OUxxU3BBRRAB",
+            "text": "I absolutely love this pizzeria ... From the mini pizzas to the chicken parmigiana with pasta ... Absolutely delicious food ... The owner is amazing and so is the delivery guy ... 👍🏻👍🏻👍🏻…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2ajdmMWNBEAE",
+            "text": "They food wasn't good and the presentation was not good but the sever was good she did a good job I will not eat there again"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxeThtVnFRRRAB",
+            "text": "Had great service! Pizza was amazing. One of the best and I do have to say he has great packaging!!!"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnNzQyOXlRRRAB",
+            "text": "I ordered a pie and it was absolutely delicious! Children and I loved it they ate every bite! One thing about this owner, is that he simply does not get recognition for his immensely kind generosity towards his customers.  I have seen him…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5MnFpQXlRRRAB",
+            "text": "My daughter ordered 2 pies this evening and everyone who ate it has been in the bathroom ever since.  All 4 people are sick and all they had to eat was the pizza.  They said it tasted bad.  This is terrible."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5bnJlWDJ3RRAB",
+            "text": "Amazing food! I have been coming here for years with my family. I love their lasagna and pizza! Highly recommend! Always fresh and delivery is quick"
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBeS1pQ2J3EAE",
+            "text": "They have a great 14\" pie for only $5.  Little Ceasars don't have nothing of Franks Pizza. I'll take a fresh slice anyday and their large selection of pasta dishes keeps me coming back from more.... Oh and they deliver."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRMnZPeWZBEAE",
+            "text": "I must say that I was very pleased with my pizza. All of the ingredients were fresh and the price reasonable. I will definitely order from Frank's again."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTc1p5bFBBEAE",
+            "text": "I ordered a large pizza pie thru doordash, and It was disgusting. The cheese was super dry and it had no flavor at all. It was also delivered cold. 0/10, never again."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5bnV2MlJREAE",
+            "text": "Pizza here was soooo Delicious!! Love the garlic knots and chicken roll! We’re the bomb! Real Yummy!!  Real Fresh, Real Ny Style pizza!!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVMklMalF3EAE",
+            "text": "This spot is worth giving a shot. They have large portions for affordable prices. Constantly well organized and with awesome atmosphere. Will visit here again."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwby0tU1lREAE",
+            "text": "2 Dollars for a slice in NYC, you can't go wrong, fast service and seating to eat... I think you should check it out"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3bjVEeFlnEAE",
+            "text": "Frank's pizza is very good and delicious.And to me they have the best lasagna and pasta.And u know what trips me most, is very affordable and pork free.if u want to eat pizza don't miss Frank's pizza.trust me u will never regret having there pizza."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZODRxTTFnRRAB",
+            "text": "I’m from out of town and kept it simple with a cheese pizza... when I tell you this was the BEST pizza I’ve ever had! Go here... go here... GO HERE!"
+        },
+        {
+            "date": "12년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3cU55RVlREAE",
+            "text": "Food is Good, Customer service is fair, I'd rather to buy from Little Caesars -Cross street but they don't Deliver, that's why I order delivery from here."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnLU1Yb2J3EAE",
+            "text": "Quick wait time and very delicious. The best pizza in nyc, and it's hand made right Infront of you."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURraV9ySzFRRRAB",
+            "text": "Great pizza, great service I just wish they would open a lil earlier ."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzX2JlVVFBEAE",
+            "text": "Pasta Here is delicious get it on UberEats all the time. Don’t order the chocolate chip cookies though."
+        },
+        {
+            "date": "10년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNndjhMaVlREAE",
+            "text": "If you're looking for GOOD pizza this is NOT the place. If you're starving and will eat anything, then by all means , COME HERE 😒…"
+        }
+    ],
+    "reviews_count": 66
+}

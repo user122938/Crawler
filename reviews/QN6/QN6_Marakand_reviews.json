@@ -1,0 +1,586 @@
+{
+    "name": "Marakand",
+    "place_id": "ChIJv8O_NLdfwokRlKd7hSXlaes",
+    "grid": "QN6",
+    "address": "98-98 Queens Blvd, Rego Park, NY 11374, USA",
+    "rating": 4.5,
+    "user_ratings_total": 584,
+    "phone_number": "(718) 263-4444",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVVNHVTRTSGhNYW5KNlNIcHZVR1JHWldaUGMxRRAB",
+            "text": "We never get good service here. The young man who always attend the table is very unorganized & unprofessional waiter. He is always mean, rude, jerky & never smiles at none Uzbek customers. Makes guests who aren't Uzbekistani like me feel very unwelcomed. I felt a racist vibe in the air. They give friendly services only if you are one of them (Uzbekistani) or speak their language. I asked for sauces because my food was too dry, the same young man who was the waiter left & never showed up again. He is very stingy by nature & doesn't like to accommodate what customers needed to emjoy their meals. I had to request another waiter for help. This restaurant staffs say one thing & do another. They don't keep their words & very dishonest in their dealings. Never tip them because they automatically take 15% for it already without informing you that they would charge you gratuity fees, then they make you sign when paying with credit cards & beg you for another extra tip. They see money only. Not humans. They're very stingy & you'd find them weird. As a New Yorker, I highly do not recommend this place and would not recommend any families or neighbors here. This is my honest review & personal experience here. They have the worst & most unfriendly waiters. Especially the young man with a little beard & pale skin who is always there in a black shirt or so that usually serves & also stays near the counter often by the cashier. I don't like him at all & feel unwelcomed in this restaurant."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOa05ETnVNRVZUY0ZWVmNXSk9SaTFXT1dWcFkxRRAB",
+            "text": "Chilly night and feening for some soup and kebabs. This is the spot you must try. Uzbek style different meat kebab hitting the right taste buds. Try their fillet mignon, lamb chops, lambs ribs. Don’t forget the lagman soup! Ok last one…carrots and beef  plov a must try"
+        },
+        {
+            "date": "1주 전",
+            "language": "ru",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SRFUzYzBORlZHYkdSb1dWTlFjQzFCYW14cWFHYxAB",
+            "text": "грубость менеджера портит все впечатление от ресторана..."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKNlZucFBPRFJDVWtGT2FFRkVSMTlNTVRkVFkyYxAB",
+            "text": "Awesome"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BNVVYVTNOSFJ6VW1GT05TMU5jWEZNZUUxaFIyYxAB",
+            "text": "This Uzbek restaurant in Queens is absolutely fantastic! The food tastes truly authentic — just like homemade dishes from Central Asia. Prices are very reasonable, and the portions are generous. The staff are warm, welcoming, and always make you feel at home. Highly recommend to anyone craving real Uzbek flavor!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tReFNIWlRhMmhzWlV0RFJYYzRZbGc0Vm1ob1VVRRAB",
+            "text": "Can’t get enough of this place! I’ve tried most of the Uzbek spots around, and this one’s the best so far. The kebabs are grilled to perfection over charcoal, and the plov rice was absolutely amazing. Plus, their lunch special is the best deal around!"
+        },
+        {
+            "date": "3주 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psd1NrMUpUelprWWxKcVpsZE9la1phVDJsbmIxRRAB",
+            "text": "Очень хорошее и приятное место ,персонал классный ."
+        },
+        {
+            "date": "3주 전",
+            "language": "tr",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xZlRFa3hORWQ1ZFVNNWJsaFdhMmR4T1RGbE4xRRAB",
+            "text": "Çalışanlar çok suratsız ve acemi sanki zorla hizmet ediyorlar"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnNGJ6TjNZalZZYmxKb2JtOUlhekpvVDFKWGVYYxAB",
+            "text": "Great BBQ."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGdWVYQkhka1JQTTI1WWNXcGpaREJ5YW5CM1RFRRAB",
+            "text": "Good food and atmosphere. Valuable price"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMWNHUlFhemRIYUdwV1puSXlZMjVRVEhNNFkyYxAB",
+            "text": "The waiters were a bit pompous when talking to customers. It was as if I'd come to them to borrow money. They brought me tea with unboiled water. Thankfully, they took it off the bill. It's better at Brookline."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCU2JtSkxNR2MwY2pSeVpVOXlaVnBpTmt4a2FVRRAB",
+            "text": "The skewers were juicy and flavorful. We were pleasantly surprised. The eggplant salad had fried eggplants in a bed of greens. The Baba ghanoush was smoky and the bread was warm."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWSlIyZzBUWFY2YTFoYWRtRXhRMGt0WlhaZk1sRRAB",
+            "text": "Lamb rib was my favorite."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKTFpFMDRkSGxoYjNaRldEbDViekZ1V0VadFVYYxAB",
+            "text": "Excellent"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SVFIyTkxOUzB5U2tWVmFUWXdhR1pWWmxoNVdFRRAB",
+            "text": "and where is my serving of amazing plov? GONE!  it was that amazing. the lamb was more like melting blocks of butter that i had no need to chew on. the carrots perfectly balanced the juices from the meat.  delicious!  i should be embarrassed, but i am not -- i ordered a beef soup which appellation i've omitted; equally superb as the plov. #shurpa ah ah' mazing!  yum\n\nnot sure i appreciated all the phone conversations going on within the dinning room. i thought that was only a new york thing.  nope!  rude people come in all shapes and forms: ethnicities, best implied. #manners  😊\n\nin all, a fabulous opportunity to relive my journey to the land of palaces, amazing history, humble people and food. loved it, loved it, loved it."
+        },
+        {
+            "date": "1달 전",
+            "language": "tr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213NVZHMTNkalZ5YjNWeFZYcHpZV2hQUTBVeE5IYxAB",
+            "text": "Et harika, muhabet sıcak"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Gb1oyeGpNbk0yVlRRdGRtRktRVkJuY25sV1ZXYxAB",
+            "text": "We came to Marskand Restaurant as a group of 13 people and had an amazing experience. The staff handled our large group with ease, providing attentive service throughout the evening. Orders came out on time, and every dish was fresh, flavorful, and well-prepared.\n\nThe restaurant made us feel comfortable and accommodated our group without any issues. The portions were generous, and everyone in our group left satisfied. The atmosphere was welcoming and lively, perfect for both families and friends.\n\nIt’s not easy to please a big group, but Marskand Restaurant did it effortlessly. Highly recommend this place for both small dinners and larger gatherings. We’ll definitely be back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzdFdscE9RelJVTFZrMGVWOWhORlZpTkVkUVdsRRAB",
+            "text": "Delicious food, great hosts"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSaWVGOWFPVkJLTFRkNmFXNUxlRVZJZVY5NVpuYxAB",
+            "text": "High quality and tasty food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWbWRWRnNOazFNWDFsSE5tSnZhSE5LWDBKbVVYYxAB",
+            "text": "Definitely get the skewers."
+        },
+        {
+            "date": "2달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKTlZFdEpORUpmZURWbExXSnZSekI2YVZaeVNFRRAB",
+            "text": "Очень вкусная еда,особенно шашлыки сочные, салаты, шурпа, всё всё вкусно"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGWlMzRlBUbEJoWkRkdVQyNUJkamxZZGtwSVNtYxAB",
+            "text": "Amazing spot!\nGreat food and service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWUVZqbDRaWGgwVjNaTmFGbHlXbmhYTlV0TE5tYxAB",
+            "text": "Leaving 10 years in the area, and always going to different similar places to eat,but that evening almost every where was close,so we went to Marakand.\nThe first impression is everything, and the way guys treat me and especially my husband,who feels uncomfortable to go places of post USSR,was just an amazing.\nHe was treated with welcome and English language,with the warm smile and attention.\nIt's meant a lot to me.\nWe got great service right away and that's how it's supposed to be!\nFood amazing, tasty and delicious.\nAtmosphere hommy,price good.\nDefinitely recommend and will come back soon!\nThank you again for the beautiful evening 🙏❤️"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SFoyTk1hRXhZT1VOeU1GZ3RRa3czVDNsQkxXYxAB",
+            "text": "Marakand was a delightful revelation. I only wish we had discovered it sooner. The plov was as rich and comforting as rice can be, infused with tender lamb, vegetables, and spices that came together like a warm embrace on a plate. Somehow, we all ended up choosing lamb in different forms: dumplings, mixed grill and the plov. Each dish was hearty, complex, and deeply satisfying. A special shoutout to Ako for providing outstanding service and making the experience even better."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21reFJESm9kV1ZhTVRCQmFucG9NbUZhVFRCRmRtYxAB",
+            "text": "Good servise"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kMk9YSlFMV2RoVEhCdU1qSm1kVzVXTmpOTWRYYxAB",
+            "text": "I was dining here many times before, but today, the food was absolutely phenomenal.  Ako's great service and  recommendation to add a  beef roll to the order contributed to my 10/10 experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KbFJFWlRVbFV6V1ZwV1JWQXlhRVkyVWtsNWMxRRAB",
+            "text": "The delicious and fresh kebabs, noodle lagman soup, somosa, and bakery are top notch. The friendly staff and overall great service, very respectful, and great atmosphere 👍. Definitely coming again and again! The food is so tasty that it scrumptiously melts in your mouth. Portions and price are average standard."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJNVZITlRiRW90U25wMGNXOTRaVVZHUjNCbWVrRRAB",
+            "text": "this place deserves to be michelin rated it’s that good. don’t stall and go rn"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4R2RHRjNVamR3YUhCd04wUkROemhUWVRoWFNrRRAB",
+            "text": "Very good food , original taste . Ako was amazing to give us advice what to try . Will come back soon . Pleasant atmosphere and very good service"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0eGMyaHpPVlZDVGpKWlVtWk1Sa1ZCZVVoV1MwRRAB",
+            "text": "We love uzbek food and were regularly going to Taste of Samarkand until they closed. From the start it wasn’t very nice treatment, it might of just been our server, we ended up not ordering, not that we got an opportunity to. We were the first in the restaurant for dinner at 5pm but they avoided us and took orders from other customers that were walking in. Not sure if it was because of our ethnicity but we didn’t feel welcomed, really bummed about it, trying to find another Uzbek restaurant in the area."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sYWNscDBjRTU0V1VWWlVta3paamwzZEc4NUxXYxAB",
+            "text": "Food was amazing. Good food, big portions, very reasonable, freshly made. Wonderful service"
+        },
+        {
+            "date": "3달 전",
+            "language": "ru",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WeFNWTTJaMGhQWjB0R2JuVkZSbkpEWjBOdGJWRRAB",
+            "text": "Пришёл в ресторан  если его так можно назвать  они просто  взяли другую тарелку  которая там стояла весь  день с другова стола  Очень  плохое обслуживание  попросил поменять  тарелку  потому что она была в пятнах девушку начала  доказывать  что она чистая не в пятнах\nПринесли счёт сразу после того как принесли еду  а мы собирались  там поесть  кинули лепёшку на стол  шашлык  наполеон  был нормальным  а в молотым был клачёк волос а точнее 3 или 4 волоска  после этого места у меня тошнит от шашлыка"
+        },
+        {
+            "date": "3달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5dVIwRXhTV1pZU2sxdU1sTXlVMWhwWW1GYU9XYxAB",
+            "text": "Вкуснотища"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5Q01FSjZhSEl6VW5Gb1RYZG5UV0l5WnpaR1NIYxAB",
+            "text": "First time trying uzbekistan food and was melted away.. the lamb & beef grill have savoury saly taste that are unforgettable. Yumm"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sNFRqSlhRekp3YUd0WlVqaExlR1ZDWVVGMWNVRRAB",
+            "text": "We had dinner at this restaurant today. The interior of the hall is simple. A huge chandelier enlivens the interior. The servers are modest and polite, it was very comfortable to communicate with them, they answered all our questions and gave recommendations. We tried plov, Marakand spec.wrap, chicken and beef kebabs, home made compot and Uzbek flatbreads. The food was served 15 minutes after ordering, very quickly. The prices are average. The atmosphere is calm, pleasant music was playing, I recommend!"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKcU5lSHFBRRAB",
+            "text": "Everything made from fresh, very juicy and tender kebabs . Staff is so friendly i went on their recommendations. Ambience is chill, service is on point. Try it out and you wont regret."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOdVdHUkNjM1ZrVERoNFZqRTRSRVpmYlVSMmFtYxAB",
+            "text": "Eggplant salad was 🔥🔥\nLamb was very very soft and tasty!!\nFresh tandir bread!!\nLoved everything\n10/10!"
+        },
+        {
+            "date": "4달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsWGRteG1OMk5aV0VaR1drSkJNMWgzYldscGQxRRAB",
+            "text": "Шашлык очень хороший"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WdWVGSjJaRFJHYVRST1JGWm5jRzEzWVdaSVduYxAB",
+            "text": "Just Simply amazing 😻 The food is absolutely delicious, and the atmosphere is warm and welcoming.Management is very nice.Highly recommend!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJdTZqdkhLaklpT1hnEAE",
+            "text": "there was a piece of metal in my plov like some of the other comments warned, becareful!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMV2pnNGpTemRUQVhnEAE",
+            "text": "We loved everything, the food was so good and tasty.certainly we will come back again😍"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMM1M2UFBCb2NEdHp3RRAB",
+            "text": "Went here before seeing a show at forest hills stadium. Excellent food, really nice service.  Will come back next time we're in the neighborhood."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VObU16cTNtbWVHdnRnRRAB",
+            "text": "Absolutely horrible service and food wasn’t even that good..first time and it’s my last time! NEVER AGAIN! DO NOT GO! If you aren’t same race as them, then you will experience the same treatment which they have given me .."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJdTc5Y3ppNWVIX1pREAE",
+            "text": "We ordered for take out and we asked for 2 portions of everything especially the lamp, liver, and beef kebabs, they only gave us one of each and we paid around $100. Why are we paying so much when we are not getting what we asked for, it’s unfair and rude! Scam don’t order from them."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPcUg3dXpreGFyZGZBEAE",
+            "text": "Beautiful restaurant, delicious food! I'm coming here again."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMNl90dWk4cWFEeXRnRRAB",
+            "text": "We had good time ! Delicious food and Excellent service"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VMZjlnN2F2eGQ2cm9RRRAB",
+            "text": "Great spot for a group dinner. Plov was a must get and great share for 4 people. Probably the best item on the menu. The dumpling was okay but a good share too. Loved their Samsa! Ground meat lemez was kinda mid.\n\nLamp chop was amazing but the portion was really small. The lamb chops were tiny for $26. Definitely the only item I wouldn’t recommend."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKZlhpUHpGdW9USUNnEAE",
+            "text": "I had my first-ever Uzbek food experience at this restaurant, and I’m honestly blown away. I didn’t know what to expect, but every dish was full of flavor and heart. The meat was incredibly juicy and tender — it literally melted in my mouth. You could tell it was slow-cooked with care and the right spices."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQNzI3NFhidXJMWGJBEAE",
+            "text": "Everything is delicious here staff is friendly and they are fast"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZd2ZlN01BEAE",
+            "text": "It is so unfortunate that I have to give this amazing restaurant a 3-star review. The food is amazing and I go to this place all the way from the Bronx despite the distance because the food is amazing. However, the customer service needs some improving. I came here today with my wife and mother in law and the level of customer service was substandard. The waiter kept forgetting our order and when we reminded him of the orders he looked bothered. He even included what we didn't get (but had ordered) in the total on the check. When we pointed out to him that we never received one of the items  but it was still included in the check, he said that he thought he brought it to us. Horrible experience. We're gonna have to look for other uzbek restaurants...sadly."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3MTlYTGVnEAE",
+            "text": "Amazing experience, a little bit of a language barrier with the staff but the food was great! Delicious appetizers and main dishes, we ordered half the menu! The atmosphere was beautiful and cozy, great for families, we brought a 4 month old with his stroller and it we had a great time! Highly recommended this restaurant to everyone who loves Mediterranean cuisine!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3anRteG13RRAB",
+            "text": "This place is amazing. The grilled lamb chops, large dumplings and plov was superb! I was running an errand in the area and saw this gem and I'm glad I stepped in. First time trying this cuisine and I will bring my whole family next time!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRNGZQYnZnRRAB",
+            "text": "The grilled meat was delicious, especially grilled veal liver; rice and salads were ok. Very disappointed with cakes, too sweet and too much condensed milk. Napoleon cake layers were dry and cream was made from condensed milk that is ridiculous. Overall, it’s nice place for people who love meat."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJN2FDLUdBEAE",
+            "text": "Marakand – A Hidden Gem for Authentic Uzbek Cuisine\n\nMarakand’s signature plov was exceptional—richly flavored with caramelized carrots and fried raisins, and featuring incredibly tender lamb. The Jiz Biz lamb chops were well-seasoned but a bit fatty for my taste. The Napoleon meat and ground beef/luyla kebabs were satisfying but didn’t outshine the plov.\n\nTheir homemade compot was refreshing but average. Prices were reasonable, and service was attentive, though a billing mistake led to an overcharge. Thankfully, they promptly refunded the difference via Zelle. A great spot for authentic Uzbek flavors!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZMk1tLVZREAE",
+            "text": "Amazing food, such courteous staff, went for a birthday dinner and our waiter was SOOOOO NICE. Food was perfectly seasoned and the meat was cooked perfectly. Will be back VERY SOON!!!"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwMHBIREVREAE",
+            "text": "Отличный ресторан , очень чистый , блюда вкусные особенно плов , чучвара и шашлык , под названием Наполеон и рулетики , вкус мяса молочный , сочный и свежий . А самса хрустящая снаружи тесто и сочное мясо внутри это очень вкусно , очень рекомендую посетить , мы обязательно еще раз приедем . Обслуживание вежливое ."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfemQyel9RRRAB",
+            "text": "Came into this place without any expectations and was amazed at how good it ended up being. Every single bite was a 10/10. The appetizers were delicious and the skewers were perfect - the meat was incredibly flavorful, juicy, and tender. Highly recommend the beef filet mignon skewer. The prices were also great."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJbUtxMHB3RRAB",
+            "text": "This is very sad that I have to write this review as we’ve been ordering from this place for a few years now. Unfortunately, today I have found a METAL WIRE in my dumpling (manti). Like from one of those scratches they use to clean the dishes. I can only imagine the circumstances my dumplings were made under for this to happen. I ate 2 pieces and almost threw up once I got to this one. I was just shocked to be honest. I post this to make other people as well as the owner aware."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2MDRtMVZnEAE",
+            "text": "Delicious kabobs with perfectly grilled meat and flavorful sides. The service was quick, and the prices were fair. A must-try for kabob lovers!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiaUpfaENBEAE",
+            "text": "First time eating here and having Uzbek food to celebrate a family birthday. Surprised that it is more casual, with chandeliers though; and is very family-friendly. Wheelchair-friendly. Music was playing and noticed that it was someone singing live.\n\nGozleme was served more like a quesadilla than flatbread. Without the dip, the ground meat was a bit plain.\nThe fried small dumplings looked like tortellinis. A bit too crispy though to taste the filling so will try the steamed next time.\nThe hummus and babaghanoush (preferred this, with a slight spiciness) went well with the warm toasted bread.\nWe liked the plov with tender lamb and veggies.\nTheir skewers were cooked well, still juicy and tasty. I usually wouldn't order chicken but they were good here. Lunch specials available.\n\nGreat service from the minute we went in and throughout the dinner - our young server was very pleasant and friendly; offered to refrigerate the bday cake, then lights were dimmed and bday song was played when it was brought out."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBMThmOGFnEAE",
+            "text": "Food was fresh and delicious. Beef kabab and Lamb Chops were good. Service was good too."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKZ1BmU2p3RRAB",
+            "text": "We walked in to a warm and relaxed setup. Greeted nicely by owner and sat us down. We ordered the food and once we finished we promised to return\nBeef Plov - looked pretty good but the first bite literally blew our minds. Wife and I exclaimed “wow”. I’ve had similar style dishes but good gracious the meat and the flavor! Super tender and juicy the rice was also nicely done. Certainly can’t wait to order again.\nSamsa - after the beef plov we thought this might be a waste…so glad we ordered! Like these guys really know to cook meat. It was somehow different and the red sauce they gave was very unique and delicious\nChicken shawarma - we were certain not going to be necessary…BUT WOW…even the chicken was so nicely marinated and grilled to juicy perfection. I don’t write like this, but really we were surprised how good even the chicken was!\nCompot (Homemade)- very light and interesting drink that was growing on me and surprisingly refreshing amidst the rich flavors we had going. Very reasonably priced too.\nWe did not even order their best items. The kababs!\nHalal good food and a generous seating capacity makes a great combo. Everyone greets you with Salaam like a family setup and there is a video of Uzbekistani restaurants playing in the background."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteWJ6WGd3RRAB",
+            "text": "We were craving for something different tonight and thanks to @thehalalguide_  we ended up here.\n\nOur order was:\n\nSamsa - Meat & onion filled pastries. Excellent taste.\n\nPlov - Rice served with carrots, beef and bread. Beef and bread were really good. The rice and carrot could be better.\n\nMixed Shish Kebabs - Marinated with the right spices and grilled to perfection. We selected the skewers - Lamb Ribs, Lamb Leg, Beef Roll, Chicken Boneless. If I could I would come for this every week.\n\n⭐️⭐️⭐️⭐️⭐️ Highly recommended. Specially for kebabs."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJdTZmMGRREAE",
+            "text": "One of my favorite family places! Best food I’ve had in my life! No it’s not an exaggeration. The lamb is the best of the best. Run don’t walk!!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBbTdIUWxnRRAB",
+            "text": "A heaven for meat lovers. Genuine Uzbek cuisine, the taste and flavors are invaluable. Though their service and ambiance could be improved further.  A must go for meat lovers."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPdkpxQ2h3RRAB",
+            "text": "Visited Marakand for the first time. Very clean family owned restaurant, excellent service and great fresh food. The food is 100% authentic Uzbek food. The lamb shish and lamb ribs were the best. I will definitely be going again for it. We also tried Tandur Gosht, lamb chops, beef etc. They brought Uzbekistan to NY. Highly recommended."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRMmJmYzZ3RRAB",
+            "text": "I orders 3 kabab and when i said i was robbed i am not sure how to explain this level quantity its baffling and make me embarrassed. After fasting all day they decided to give so little its horrible never coming back to this place again spend $80 for this?  Do better sir\n\nThe picture below is what it looks like after i open the box"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvbjlpUVh3EAE",
+            "text": "The bread was incredible.  The Kebab was very juicy and tasty, the Plov was tasty but the meat was a bit dry.  The only issue I have with this restaurant is they charged a 15% gratuity/service charge which is not meant to be “tips”.  You will still need to add 18-20% tips on top of all.  So you are basically paying 35% + tax 8.875% on top of the menu price.   I do like the food though but the 15% add-on will let me think twice."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGLVptNzBnRRAB",
+            "text": "Friendly environment, great food, I've dj at night. Must try: plover (super moist meat), meat gozleme( similar to Quesadilla). Lamb chops were great also but little dry as it should be per uzbek cuisine. Tomato and cucumber salad were  simple but superb."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJckk3SFp3EAE",
+            "text": "One of the best kebabs ever I’ve tried!!\nHalal Delicious food, professional staff\nDefinitely recommended🙂"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJenNQak9BEAE",
+            "text": "Very very good food. Kababs were delicious and cooked to perfection. Rice was moist and soft , plus very good flavor."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwbjViRVR3EAE",
+            "text": "Absolutely amazing food! We were driving around and hungry! My husband found this on Google and went with it. No regrets. Meats are on point cooked and super delicious. I think their price is amazing as well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIczRyTEVnEAE",
+            "text": "Delicious Uzbek food. Plov is authentic, shish kebabs were delicious and the prices were very reasonable. The samsa had a good amount of meat and was delicious as well. Compote was good but way too sweet in my opinion.\n\nWe also got the jizbiz. I wouldn't recommend it. It's expensive and comes with a lot of soggy French fries. That money is better spent on more skewers of shish kebab."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOMnZ1Vm93RRAB",
+            "text": "I recently had dinner at the restaurant and it was a pleasant experience. The papaya and shrimp salad was quite spicy, and the cashew chicken dish, although excellent, could have been better with the addition of pineapple. Although the service was out of the ordinary, the food definitely made up for it. I highly recommend it and look forward to returning there on my next trip"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYLTRLaW5nRRAB",
+            "text": "An absolute hidden gem. ABSOLUTELY deserves the 10/10 rating. I never give a restaurant a 10 rating so you should understand how amazing it actually is!!!!! 10/10/10/10!!!!!"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2bF9PWHZBRRAB",
+            "text": "Here they cook very tasty: Lagman, Plov, Guzha, Dumplings and Shish kebabs.  Advise everyone to visit. 11.04.2021 I visited this restaurant again.  This time I tried \"Tandir Kabab\", \"Smoked Chicken \"and\" Smoked Quails\". It was very tasty, I advise everyone!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEXzZ2ZWt3RRAB",
+            "text": "I got Large borscht and 4 manti set. Mantis came with sliced tomatoes and its good. Large borscht portion was smaller than i expected and had only 1 beef slice and 1 potato slice in it, little bit disappointing but taste was great."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtcXV2ZjJnRRAB",
+            "text": "Authentic family owned Uzbek halal restaurant. Food is freshly made. Samsas are amazing and out of the oven. They have a fruit juice in a jar which is a must try. Staff is very courteous. Will recommend if you want something from central Asia."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1a1ozTjR3RRAB",
+            "text": "Best spot in queens for Uzbek food\nFood was fresh,\nMeat was delicious\nService was excellent\nNot my first and definitely not my last time here\nI highly recommend getting plov and napalion"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIeUstUUlREAE",
+            "text": "The best Halal Uzbek cuisine and The best service,friendly waiters in the NYC.I love their all foods I recommended for everyone 👏🏻👍🏻"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNma3RLSlpREAE",
+            "text": "Everything tasted fantastic. The filet  kebabs were cooked perfectly. Service was also good. Highly recommend!"
+        },
+        {
+            "date": "2년 전",
+            "language": "ru",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSdDl6UWR3EAE",
+            "text": "Обслуживание просто ужасное! Забронировали стол на ифтар, пришли одними из первых и сразу же заказали еду. Первым делом принесли плов. Ни воды ни фиников, и даже не суп с салатом, а просто ПЛОВ!\nПотом начался хаос, официанты просто не приспособлены к толпе гостей- все что-то бегали. Нам несколько раз пришлось напоминать о воде. Ладно. Попросили чай, а нам принесли просто воду кипяченную. Самое  ужасное было то что заказали блюдо с гарниром одним а принесли совсем другое на нашу просьбу перепроверить двое сотрудников просто начали наезжать мол надо было читать меню. В итоге за картошку которая включена в счёт взяли доп.деньги. Так же как и за хлеб что шел с пловом. Я просто была ужасно злая на то что позвав друзей на ифтар мы даже толком не получили никакого внимания от ресторана. Никому не советую! Им нужно многому научиться!!! Деньги на ветер."
+        }
+    ],
+    "reviews_count": 82
+}

@@ -1,0 +1,642 @@
+{
+    "name": "Tiro de Esquina Restaurant & Sport Bar",
+    "place_id": "ChIJBSgJ5xpfwokRdjXp34Jrhjw",
+    "grid": "QN4",
+    "address": "45-18 104th St, Corona, NY 11368, USA",
+    "rating": 4.9,
+    "user_ratings_total": 254,
+    "phone_number": "(347) 848-0002",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaTFpVazNaalJ5YkU5cFVFcHNhbkJHUld4VVNWRRAB",
+            "text": "Laura y Monica.\n1 era. vez.. 100% atención.\nVolveremos sin duda\nMuy atentas las 2"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OYVpFMWliWEZpVFhKc1EwMHhhVTQwV21Zd1EyYxAB",
+            "text": "Very good place to watch sport games specially soccer."
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWbWVFaFhVekV5YVdKUk15MVpkRzFJYlVKaFdtYxAB",
+            "text": "Me gusto mucho la comida y el ambiente familiar 🤩🤩🤩"
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kZmNVWmFNMjVGVEhWQ1JqVmpjR3h1VkhoMWNtYxAB",
+            "text": "Me agrado mucho los frijoles con chicharróncito, Plátano frito maduro y patacon. Delicioso"
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1cVgzaGlZMU5zVkRoZmJEWm9VVGxIZG1wSGRYYxAB",
+            "text": "Muy buen lugar, excelente servicio."
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOVVdqWkdRMHBITmtseFJFNVZUWGxVUWtGTk1FRRAB",
+            "text": "Buen ambiente familiar, comida deliciosa, muy recomendado para compartir"
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWMGFuY3paalEwZFU0M01FTXhSbE5SYVVFeGNFRRAB",
+            "text": "Encantados con este restaurante, el steak y las bebidas nos encantaron! la atención espectacular 🩷"
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wd1FYaEJZMDA0VG05MExXTlpUREZGZURaVmFsRRAB",
+            "text": "la carne al punto muy deliciosa la sazón"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wZldrUnFUWGd4VjBKZmJtdGlXWGR1WkdwT2RYYxAB",
+            "text": "Excellent service and great food"
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0b1RFZFJUVXhEVkRNeE5XZGtMVnBoYVhOR1ptYxAB",
+            "text": "Este lugar es estar un pedacito de Colombia 🇨🇴 en New York. Es estar en una cancha de Futbol, sus instalaciones son perfectas para disfrutar cualquier partido."
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KdlpEWnRMVjlzZGtSWWVGcHNMVmR0ZFdSTU1uYxAB",
+            "text": "La mejor comida colombiana de New York ."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xack9GOVlXWEp5WmxSUlFtOVFPVk4wU1hwcU9YYxAB",
+            "text": "Hermoso lugar ! Recomendando.  Me encanta"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aNFYwdFFiV1JHT0hoVWNqZHBiRkp2VGxOUGFuYxAB",
+            "text": "Absolutely amazing place for dinner. I will definitely be returning soon. FYI we came from Suffolk County just because we had to try it out. So many great reviews."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCR1dVaDNWbWgzUlU1VVprcEVSMk5rTW5SUVVYYxAB",
+            "text": "una experiencia increíble!\n\nprimera vez aquí, y todo superó mis expectativas.\n\nLa comida estaba absolutamente deliciosa, llena de auténtico sabor latino y perfectamente sazonada.\n\nEl ambiente era animado y acogedor, y el personal era increíblemente amable y atento. Realmente puedes sentir el espíritu latino en cada detalle, desde la música hasta la forma en que te tratan.\n\n¡Definitivamente volveré pronto!\n\n¡Recomiendo mucho este lugar!"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNeVpYTmZNWFZpTjA5Q1NsTkRWbkYwU2t3elJWRRAB",
+            "text": "Me encanta el guacamole tiro de esquina💕😋"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGSFVFUmFObWs1UjBzMU5UQmlWV04wYzNwVmMyYxAB",
+            "text": "La comida deliciosa y el lugar espectacular, vine de visita de Colombia y fue como estar en casa🥳 ambiente y atención 10 de 10"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4MU1uQkhjWEZuVDFKWmR6Y3pTMFpYYTBwQmFrRRAB",
+            "text": "Un lugar especial donde compartir en familia delicias gastronomicas para todos los gustos..Atencion personalizada  ."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CNWVreHJWRVpUV2tKMGIwZG9NV2xaZDBKa2VtYxAB",
+            "text": "La comida estuvo muy rica y ni digamos de la atención , la mesera estuvo súper atenta a lo que necesitábamos igual el servicio , un excelente lugar para ir solo o compartir con familia"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkcVgyZEhRVmxPY2tkWmFHTjRhbkEwUzBORGJWRRAB",
+            "text": "Muy buen lugar , servicio y comida . Perfecto lugar para disfrutar con tus amigos y familia , gracias al servicio de Mónica !! Lo recomiendo."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0V1ZIWldXVTQ1VG1ocU1VdHlMVlpWVFZkak1tYxAB",
+            "text": "Un lugar súper espectacular donde hasta su propietario te puede atender👌gente amable y un servicio espectacular desde el principio al fin. Te lo recomiendo no dudes en venir!! La comida 10 de 10 sin duda alguna."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aU1NXRnlUa0p2WWxGa2RrUTBOMHRxWjE5T1RVRRAB",
+            "text": "Excelente servicio al cliente, la comida deliciosa, el ambiente alegre.\nLas meseras lindas y amigables, lo hace sentir en familia.\nDefinitivamente un restaurante excepcional."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kRWRVZDBPWGhUY2xaNU0zTktVRTV6YWtOcFdIYxAB",
+            "text": "Beautiful place"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201TkxYZGxWR0p2YW5OUk1FWm9hWEpFYWtJNFpGRRAB",
+            "text": "Estuve con mi familia genial!!!!    es un lugar muy agradable, familiar, limpio .\nLa comida aparte de deliciosa es bastante.\nEl servicio por parte del personal es muy generoso y atento.\nUn lugar muy recomendado. Muchas graxcias"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SMU5GRXdWazl1VTNSamFtdFNUMnhUVmtaV1IxRRAB",
+            "text": "Un lugar muy recomendado para pasar un rato muy agradable."
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OYVFtUkJUakJmYW1ST2JFOTZkWGh5TTBvNE5WRRAB",
+            "text": "Muy buena…❤️"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oNVptZGxSUzE2U1VoaU1XUk1NMU5OU1hSdFFYYxAB",
+            "text": "¡Perfecto lugar para ver juegos de futbol!\nY son pet friendly!"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vdFdqVnZRMHR3YVhvM1NXZHdNR1pVZFhoV1RsRRAB",
+            "text": "Muy ricooooooooo !!!!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WdFRuaERlbU5KTldkU1YwSTBSWHByWkhodVlYYxAB",
+            "text": "Muy buen servicio la comida excelente mi hijo le encanta un ambiente muy agradable."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zdFF6VkRVRkpWYlRWblRIWXhPV1oyTWpGbFRtYxAB",
+            "text": "Me encanta este sitio, 100% recomendado"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4eU5UYzFhRE00UkhadlZUVkdjekk1WlRCWVptYxAB",
+            "text": "Tiro de Esquina is an amazing spot! The food is delicious, the drinks are always on point, and the atmosphere makes you feel right at home. Perfect place to watch the game, hang out with friends, and enjoy great service. Definitely coming back — highly recommended! ⚽🍻🔥"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bWVGRndZVlpKTlRaaE5uUnBXSG81VTNkTE5HYxAB",
+            "text": "Excelente servicio"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaWVMzcHpjRFpuV0hKcldrOW5UMmh5VTJaUE1rRRAB",
+            "text": "Beautiful place, food was amazing and the service was excellent would recommend this place if your around the area or even if looking for great spot in queens"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvMlJrNXZZbEpPTWxSYVFrOWZPRFkyVjFWSldGRRAB",
+            "text": "Un sitio ideal para compartir con amigos y familia, la comida deliciosa, en esta ocasión su churrasco, y tostones con guacamole súper delicioso 👌"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WU1ZVdEZOV3RPWkROVFkwZHRlWFprZURSVGRHYxAB",
+            "text": "Daniella fue phenomenal y el chef made the best tacos and bandeja paisa Ecuador Colombian and Mexican food"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Vd01UUlJValI2U0ZsMFMyeElZVzl2UjA5RFJIYxAB",
+            "text": "This place is absolutely amazing!"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ORlJHSjVUVVpUWm5OVGRFaHpabXBqZDFSUmNGRRAB",
+            "text": "Comida no muy buena en mi opinion personal , atención no muy buena demoran mucho espere mucho tiempo para que me cobren"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5emVHbE5lbnBrYTFKS1lVWXRjbUZHTlUxaFJVRRAB",
+            "text": "Buen ambiente, excelente comida y buen servicio. Súper recomendado"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KZk1TMU1kV3hHVG5GVFFUaDBZM05XWjNCWVZWRRAB",
+            "text": "Hoy estuve visitando por primera vez Tiro de Esquina y disfruté mucho de la buena atención y la buena comida El guacamole con chicharrón muy ganador y la hamburguesa 🍔 super deliciosa 😋😋😋 muy recomendado … pasamos una celebración muy especial al mejor estilo colombiano 🥳🎉🇨🇴"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wUFIwSlVNVmhrTVZCS1FubEhjbFZCTTAxM1ltYxAB",
+            "text": "Excelente atención y muy rica la comida!"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSeE9WZFphVXBVYVZWUVgwUjZVVjlhVWpZelZGRRAB",
+            "text": "La comida súper deliciosa y tienen unas muy buenas entradas"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSNGVUZGlUa0ptY1U5bVdUZHhaVWhMV25KNFRYYxAB",
+            "text": "I like all food. It’s delicious"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KMFJWSlNMVUZYUlhaa2RGSndUVWRRVkVORVlXYxAB",
+            "text": "Me encantó el Guacamole tiro de esquina!!! Mi lugar favoritos para ver los partidos del mundial👍"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sweVUyOVdaVWxSWmtsM05HUkpMVkJuV1ZSbk9YYxAB",
+            "text": "Excelente lugar para ir a comer y pasar un rato muy agradable!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKTWNqQkxhM0Z3VWxkelNGaEpaRFUwWTFWeWRsRRAB",
+            "text": "Todo fue genial, la comida muy rica servicio super felicitaciones"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aQ1dtSkhhRXhEVDBwcVpEUlZNWGRSWlhwbWRtYxAB",
+            "text": "Deliciosos platos y excelente atención en especial a Vanessa"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkdk5XUnhTV1pEUVdKeWNucEJOMVpzWjFkTkxXYxAB",
+            "text": "Muy buen lugar, el ambiente y la atención excelente, volvería a vivir la experiencia en turo de esquina"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKQ1pqZ3hNbWhTVDI0eVRIVm1ibVpKVjNsMk5GRRAB",
+            "text": "Vanessa es muy buena persona"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOcGN5MXJjV1ZPVkd0alluQkJXbnBtYlRnMk5tYxAB",
+            "text": "Muy Rica lamcomida el ambiente muy ameno pasamos un rato muy especially ademas q es muy familiar tienen jueguitos para los ninos y puedes sugar futbol en tu propia mesa mis hijos se divirtieron mucho....🙌🙌🙌🙌"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pobFNESldYMTh4YzB4MlVVTk1iRXRQVEZRelZsRRAB",
+            "text": "OMG! Where to begin! The service and atmosphere is awesome! The food was an explosion of Latin flavors on my palate that left with the most culinary high of life! Daniela is amazing!"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205UGFITkpUMUJ4T1hjemVISlVlV2hPVDFkcFUzYxAB",
+            "text": "Muy buena atención y la comida deliciosa"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxWFpYWjBabVZ0TkV0NFNtb3hlRXB3YUZWSWEyYxAB",
+            "text": "Un lugar muy acogedor,buena comida,buen ambiente y sobretodo muy buena atención,100% recomendado"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kc2NHb3haRVV6ZWxaMlVsUXhjWGxRYWpKcUxYYxAB",
+            "text": "Very nice place delicious  food ... ... Friendly  ..Lindo lugar buena musica  buenisima la comida . Amigables\nPORCIONES grandes para comer 2 personas. Regresare la proxima semana"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSbmVUbFRRVmxzWlROUU9YTTRTR0ZIYm5kTlMzYxAB",
+            "text": "Muy buena comida, excelente atención y servicio 🙏🏽 100% recomendado"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sU0xUVnBka05vUlZoT1prSkpSMUJwTVdZMU1GRRAB",
+            "text": "Pasábamos x aquí! Y decidimos entrar a probar 😍 definitivamente fue la mejor decisión ❤️\nEmpezando la amabilidad de las señoritas cuando llegamos con nuestra nena (4 años) un lugar familiar ❤️ , las recomendaciones de bebidas 🍸 y difícil decidir q pedir de plato fuerte 🤣 TODO delicioso la frozen margarita de fresa 🍓 espectacular! Piña colada 😍 …. Si duda regresaremos🥳 GRACIAS LAURA Y VANESSA ❤️❤️ ahhh!!!y ni hablar de la música 🥳 muy buena música!luego llegó el dj q prácticamente nos puso a bailar 🥳 y SI bailamos🤣🥳😍!!! RECOMENDADISIMO Y MUY AGRADECIDOS ❤️🥳"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toNmFrMWlNMVowTVVkMk0xODVWVWhuY1ZaV1UzYxAB",
+            "text": "Saw this place on our walk home and had to check it out! The theme is great; soccer❤️! The food was great, the drinks were flavorful and the Service was amazing! Laura was super kind and attentive!.They had the best happy hour in the area and the outside seating allowed you to channel your inner soccer player. Will 100% be back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsVE1tdEdUWGt5V0hGa01YUm9ZVXBLZERkWWQzYxAB",
+            "text": "Pase una noche increible junto a mi familia, excelente ambiente, música y la comida es increíblemente deliciosa definitivamente volvería de nuevo"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOVlZtNHlaVEZ6TUhaelQyTTNlVGd4VWxZM05YYxAB",
+            "text": "Estupendo lugar, la comida deliciosa y excelente atención.\n\nVanessa y Lissette fueron muy amables.\nRecomendado para venir en grupo de familias o amigos."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVMVZVcFFkVTVGUVdoak4yTjRhSGhLVm01b2IxRRAB",
+            "text": "Me encanto este lugar es muy acogedor se siente el Ambiente familiar y la comida deliciosa y el servicio espectacular me sentí como en casa de verdad vale la\nPena conocer el sitio"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxaFp6SkRhekJUU1VWWlUxWkVlalozU25kM1FtYxAB",
+            "text": "Amo este lugar, la comida, el ambiente y la atención son excelentes. Súper recomendado."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUmRVOUxTblpRV25GR09FbHdaa2xqUlVvM1QwRRAB",
+            "text": "Very clean, very friendly services.  Our waitress was Vanessa,  she was excellent from start to finish. The food was great,  the prices reasonable.  Definitely coming back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSMFJ6QnFhbkJJUldwdFowTnRkSHBwVlRFNFdWRRAB",
+            "text": "Recently open.\nGreat food\nExcellent music\nPerfect service\nWonderful atmosphere\n\nWill you come back?\nYes. I will\n\nTake advantage of their grand opening HH. Margaritas $3, Tacos $3."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wZlFVUTJaVFV5WkZWbWN6Rk1RMEZvTkhFNVJrRRAB",
+            "text": "Great food. Great service. Love the environment. Super creative and fun.\n\nMe encantó la comida, el ambiente y el servicio. Super! Todo! 👍🏼👍🏼😋🤤"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOalJUVTJTakJhYmxSMmJqRlRValJVT1dkWFNWRRAB",
+            "text": "El lugar excelentemente decorado, buena comida!"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CZk1EaHJjV1p3TFhwSVNXNVZRbTFKUW01V2FYYxAB",
+            "text": "1000% recomendado comida, ambiente dj y una gran mesera VANESSA  mil gracias gran ambiente y atención"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oVlluSjNNa2RmUTJocVNuVTFWVWxsY0ZGcE1tYxAB",
+            "text": "Was walking by 104 & 46 Avenue saw TIRO DE ESQUINA  restaurant/bar & told my wife let's try it out went in got seated right away had a mijoto & a margarita they were both great & we order some tacos & let me tell they were really good over all it was a great experience will recommend & definitely will fo again ."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CWlNXeFhZV2hJVWxkTE9YYzBkSGRCYVhaWWJFRRAB",
+            "text": "Este lugar nos pareció maravilloso. La comida está deliciosa, el ambiente muy agradable, y encima de todo la atención, especialmente de nuestra servidora Vanessa, nos hizo sentir bienvenidos y más que felices con nuestra experiencia aquí."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTU1sOXNVbGcxVm0xWVJYWnFVa3RRWTAxSWRtYxAB",
+            "text": "I had a wonderful experience at Restaurante Tres Esquinas! The food was absolutely amazing—full of flavor and beautifully presented. Our server was fantastic: attentive, kind, and made great recommendations. The environment was also very pleasant, with a welcoming vibe that made the whole meal even more enjoyable. I’ll definitely be coming back soon. Highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1bmEwSnNiMEYzZVVSV2NHMVNRak5mT1VzNVkwRRAB",
+            "text": "Excelente servicio, deliciosa comida al 100%"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCdGFXTkJla0Z0Um05WlFXRnJPRGhGTVVScVRGRRAB",
+            "text": "Excelente atención, la comida super rica , aquí nos  tendrán de clientes gracias muchachas se pasaron ❤️"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WRVlUTjRaRk5zUmtodE5IRTJPR1ZzTFZvelkwRRAB",
+            "text": "Muy buen servicio y comida, nos atendió isabela"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5a1dXeE9lRjlMYlhBeFZqZzJUM2xXVlV0d2RtYxAB",
+            "text": "Excelente servicio la  comida buen buen sabor y la Mejores super bn muy recomendado el Sitio"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRdE5XWm9OMmxaVjNGV2JrWkdVVFZzTTJ4SExXYxAB",
+            "text": "Absolutely incredible experience! From the moment we walked in, we were greeted with warm hospitality and amazing energy. The food was outstanding—fresh, flavorful, and beautifully presented. Every dish we tried was a hit! Service was great. Highly recommend this place for anyone who appreciates great food, good service, and good vibes. We’ll definitely be back soon!"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGSWJ6Uk1NMmRXUkU0eFZucEZZWFJaYUdNMlgzYxAB",
+            "text": "Excelente ambiente, la musica muy buena, la comida súper deliciosa los tacos al\npastor les doy 10/10"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WVVkwWlBSazVsVlU5dlZtSk1iVmxNTlVWeFdrRRAB",
+            "text": "Puedes encontrar aquí un lugar para cenar con tu pareja, reunirte en familia o en mi caso una noche de amigos con cócteles latinos buena cerveza y todo a la mano. El servicio y la calidad te hacen sentir en casa. Super recomendado 100 de 10!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SlFUbExkMVE0U1RCbllWaDBaMlpxYkRFelYwRRAB",
+            "text": "Exelente lugar, miy acogedor buena atención, comida exquisita y variedad de platos recomendadisimo"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSdmJUUjBObEJVU2tkcU0xOUVjbXBwVURWRk4wRRAB",
+            "text": "Recomendado…… comida rica y la atencion super….. atendido por Vanesa y muy buena atencion"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sMFJGOTRYMkZoVHpGblVFRkdkalJuU21OZmFIYxAB",
+            "text": "Execelente lugar, la atención es de primera"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRmJrOVpSV1E1WWs5dGFWcG1UMDg0WDFsa1FYYxAB",
+            "text": "Este sitio está muy bueno 🤩. La comida está brutal, con ese saborcito colombiano que uno tanto extraña. Desde los chicharrones hasta los platos fuertes, todo llega fresco, bien servido y con buena sazón.\n\nEl ambiente es otro nivel: pantalla gigante y muchas más pantallas por todo lado, música que prende la energía y una decoración muy atractiva. Es de esos lugares donde uno entra y ya sabe que la va a pasar bueno.\n\nEl servicio también se lleva un 10, siempre atentos, rápidos y buena onda. Perfecto para ir a ver un partido con los amigos, tomarse unas cervezas y comer rico. ¡Recomendadísimo! 🇨🇴🍻⚽"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trelRUTlRjRlIwU1Rod1ZWOXNjemN4UTBzNVgxRRAB",
+            "text": "Muy buen servicio y la comida muy rica"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25adlpsSlpSV2hzZEc1U2VuRlJORXhPYTFGaWNtYxAB",
+            "text": "La comida espectacular ,la atención muy buena y el ambiente muy bueno recomendado 100 %."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwaE5HODJSbTlQWTJ0WE1XNXhSMDFzVVMxYVEwRRAB",
+            "text": "Lugar perfecto para disfrutar con los amigos. Fue el mejor lugar para disfrutar el open de tenis. El mejor New York steak de Queens"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SeFgzRmFiMnBXV0RWeU9FcDRTSEYyYlVkSGVtYxAB",
+            "text": "Food is very very good"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213d1JWSlhTbmhhVEMxbk9YZElRakV3TFVGclVIYxAB",
+            "text": "Todo el equipo de Tiro de esquina son muy buenos, las servers, siempre estan muy pendientes de lo que necesitamos. Yo amo los jueves de karaoke, es mi dia fav acá!!! Recomendadísimo la verdad."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWlZraE5hVGwzWnpCVldGUjJkbDlxU1ZOUE4yYxAB",
+            "text": "Muy deliciosa la comida y una buena atención 👌"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSaGQzbFZkMUJpTTB4SFpqbDJSRVI2TUZjNWNuYxAB",
+            "text": "Un lugar muy acogedor; con muy buena atención. La comida es muy rica y la atención en el lugar es muy agradable además de las bebida que son muy buena con la persona que la prepara por qué es muy profesional en su trabajo.."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKUlRVaExTVmwwT1VKMGIzUjRZVEZZVFU5V1UxRRAB",
+            "text": "Excelente servicio la comida muy rica super recomendado las meseras juliana y vanessa  muy atentas y amables sin duda alguna volveremos"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsM01HaDJja1ZtUmxWMFIxUlBRMk0wVTFSV2JGRRAB",
+            "text": "Very good food & service. Vanessa took such good care of us. Highly recommend 😊"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWcFFYUlVhMjlFVkV0aFdGUlVSREZFYVd3MlVWRRAB",
+            "text": "Excelente lugar es mi segunda vez aquí, y tienen una muy buena variedad de comida colombiana, mexicana, ecuatorian, con sabores muy fieles a lo que es la sazón latina, en esta ocasión la mesera   Fue demasiado atenta y siempre estuvo pendiente de todas mis dudas y expectativas de los recomiendo 100%"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aRVZUQm5NSGszWkdwZlRHZERNMk5KZG5sNlRuYxAB",
+            "text": "Buen ambiente, comida deliciosa, solo que se demora un poco Pero es muy buena, vale la pena la espera"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkWVRVbEtYMjE0Tm1WQmVWa3ROR3MzWkdwa1EzYxAB",
+            "text": "Exelente ambiente y la comida está exelente"
+        }
+    ],
+    "reviews_count": 90
+}

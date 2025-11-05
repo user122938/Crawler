@@ -1,0 +1,24 @@
+{
+    "timestamp": "2025-11-05 00:26:05",
+    "total_grids": 2,
+    "success_count": 2,
+    "total_restaurants": 110,
+    "total_reviews": 0,
+    "elapsed_seconds": 2093.9405241012573,
+    "results": [
+        {
+            "code": "QN1",
+            "restaurants_success": true,
+            "reviews_success": true,
+            "restaurant_count": 60,
+            "review_count": 0
+        },
+        {
+            "code": "QN2",
+            "restaurants_success": true,
+            "reviews_success": true,
+            "restaurant_count": 50,
+            "review_count": 0
+        }
+    ]
+}

@@ -1,0 +1,460 @@
+{
+    "name": "Georgian Corner",
+    "place_id": "ChIJ45xnb1FFwokR2l10vQrn7Ug",
+    "grid": "BK13",
+    "address": "626 Sheepshead Bay Rd, Brooklyn, NY 11224, USA",
+    "rating": 4.6,
+    "user_ratings_total": 328,
+    "phone_number": "(347) 240-0940",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORmJVNTNSSFZzTmpsbFJuVTJMWGhsYWpONVEwRRAB",
+            "text": "Very tasty food. Extremely expensive so celebration dining only."
+        },
+        {
+            "date": "2주 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVGJWTlRabXB5ZDFoaVpYRmlZVmhhUWw5TlMzYxAB",
+            "text": "Мы в этом заведении не в первые\n\nВчера семейный обед,был роскошный максимум во всем !\n\nХарчо просто изумительный 🔥\nХинкал с баранина + говядина (микс) по рекомендации девушки которая там работает просто нереально вкусно\n\nСпасибо за обслуживание и вкуснейшую кухню !"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSNk5VOUhVa1ZMYWpSUk0ybFVaV0Z3T1c5NlNXYxAB",
+            "text": "The food quality was amazing, we loved our food. The staff was so kind, patient and nice! The place was clean and has a cool modern look to it"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaRVgxTjFRMXB2ZVhSc01GSnpjbDlwWTB4Vk1YYxAB",
+            "text": "Always delicious food and friendly workers"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nNGJVNUdMVEJFUTA5UVRXTlJaVjlhTlRNdFlXYxAB",
+            "text": "On the plus side, the place is quite clean by New York standards, which is always appreciated. It’s spacious and filled with tables — though surprisingly, there is no table service. You have to order and pick up your food yourself, yet tips are still added to the check automatically, which felt a bit odd.\n\nOne inconvenience was that the prices listed on the menu did not match what we were actually charged. The cashier did mention that prices may vary, but it makes it hard to estimate the bill when ordering.\n\nAs lovers of Georgian cuisine, we were both curious and critical.\n\nThe kharcho was flavorful and rich — definitely a win for those who like bold and spicy dishes. However, it might be too spicy for some.\n\nThe khachapuri was quite disappointing. The dough was unevenly baked, the filling tasted like plain bryndza, and we could barely find cheese — a key ingredient for authentic taste. The cheese portion overall was very small.\n\nThe eggplant rolls were decent — nothing extraordinary, but  pleasant.\n\nAs for the khinkali, the shape and dough were good, but the meat filling was extremely salty, which overpowered the flavor.\n\nIn summary: if you're not too familiar with Georgian food, this might be a satisfying stop. But for those who know and love authentic Caucasian cuisine, the experience may fall short."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tndE9VUjVjV2xDZEZvMFpqaDNkMGM0WWpKdlJYYxAB",
+            "text": "Very delicious food, everything fresh and attentive service 10 out of 10\nSUPER🇬🇪👏👏👏"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sWWN6TTFYMnRvUWxZeU4yOTBhakYwUjNwemNIYxAB",
+            "text": "Very clean and tidy place with  delicious food ❤️❤️ love it 😍😍"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkTlNWTkVSRjluTkhSMlltUk5URGRzUVhGNFluYxAB",
+            "text": "Not fresh cakes dry and not tasty had to grow it in garage\nAnd Xachepure over salted"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KNk9GbFZiR1k0T1daa00zZFVXa2h5TXpKcVlrRRAB",
+            "text": "Great neighborhood place to eat 👌 👍"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0M1QxRnRaRWhhUzB0UFltMWhkekpRWjI4NFNtYxAB",
+            "text": "Very tasty Georgian food from friendly people."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psMlVXVlFVR3BQVVZnM01raFJiVGh2VjFoNFlWRRAB",
+            "text": "Bangin'"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vM1owdGthM1pRUkRsamVYaG1RMHB2Tm1jNFJFRRAB",
+            "text": "It was our first time at this restaurant. There was a wide variety of dishes, some, like the beef cake, were freshly prepared and baked to order. The food felt like home cooking, fresh and made with care. You can tell it's a family restaurant; they were very friendly and explained how to eat some dishes. The portions were generous, and we took home the leftovers. I definitely recommend this place. As an extra note, I'm from Colombia and my partner is from Germany, and we really enjoyed this meal."
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SSlZ5MXZUbVZwWlRKRVMzb3dOemhxZGtzMVJVRRAB",
+            "text": "Très bien, copieux bon et propre.\n\nIl manque seulement des toilettes mais ça à l'air courant à New York.\n\nBon appétit !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rd1RsTklPRlJaZEZCR04xOVlUM0V4VEdOd09YYxAB",
+            "text": "The food is too salty, not delicious, and very overpriced"
+        },
+        {
+            "date": "2달 전",
+            "language": "ru",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taNVNIcHBOV3hwUmxkQlkwTkxVSHBIV0doc1NsRRAB",
+            "text": "официант дочку мою напугал, думал я на кого-то смотрю.  Стал ругаться.Stay away"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxMmNVUjBja05MTnkxSllXTmljbmgyWm5NNWFXYxAB",
+            "text": "Very nice cafe, great food and strong coffee!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0WGJXVmlRWGxEUWpOTFdFdHRSRk5FYjNaRlFYYxAB",
+            "text": "It was incredibly delicious. We ordered khinkali, Adjarian khachapuri, pkhali, etc. This is the first Georgian cafe we tried in New York, I can say that absolutely all the food was tastier than in all the Georgian restaurants in the Bay Area and especially San Francisco.  Thank you!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kR2FIVmpPVVU0TWxocFVsTktPSFV5WTBoTk5uYxAB",
+            "text": "This is hands down the best Georgian restaurant I’ve tried in America—and I’ve been to quite a few. The khachapuri (cheese boat) here is outstanding: thin, perfectly baked crust and loaded with rich, flavorful cheese, just the way it’s meant to be. Unlike many other places that skimp on cheese or serve a thick, doughy version, this one is done right.\n\nI grew up near Abkhazia, where this dish is a staple, so I know what an authentic, well-made khachapuri should taste like—and this place nails it. Highly recommended for anyone looking for real Georgian flavor."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOSWFEbEJlbnB6YkhWV1JGVkVaakJYYlVOQ2NIYxAB",
+            "text": "Phenomenal food, staff is super friendly and helpful! I didn’t know anything about Georgian food but they explained everything to me and made some recommendations and everything I ate was so good! I stop here every time I bike to the beach now! Can’t recommend enough!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GR04yOTVhRGMyT0hwdVJsZHBRVU51VUVGa1dXYxAB",
+            "text": "Great food and service"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RNVVHeEJPR05wWkV4WGNXOWFNR2hQV2pCbmVYYxAB",
+            "text": "So clean and modern, with crisp AC, a friendly staff and great WiFi!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkMk4wRXhZMFEwYVRKelFVWkthMmt5Y1RVMlpsRRAB",
+            "text": "I Love Georgian food to begin with, but being a russian i get picky. I tried the olivye the khinkali, and the garlic chicken. Beautiful. Very satisfied. Pricing is fair. And the meal was plentiful. Coming back here for sure! The chef is truly talented!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psRVZrZHJWMk5LTkMxRlFXZzRUMmh2TUVKdmRuYxAB",
+            "text": "Food not as good for the price. Would rather goto tashkent"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TU9URkZTSFpuVlU5UFdITk1WVFpRZFZCQmFIYxAB",
+            "text": "I like it, very good place and tasty food"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVGVEUkpPVTVsYzFFdFNFUktjR0ZUWm1vd2QyYxAB",
+            "text": "Good Georgian food, especial vegetable choice"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCelprZHpaazFPTFZac1NFZHlaREkyYldsTk4xRRAB",
+            "text": "Elite food in a very casual environment.  Friendly staff.  Tastes like home cooking.  Only downside is some dishes are reheated in a microwave.  I would encourage the restaurant to keep things warm via steam table. Hope to eat here again soon though."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kc00xTTROR2R2ZURsTFlYZHlNRXhNUjJSc1puYxAB",
+            "text": "Small and cozy cafe with delicious Georgian food 🥰"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCTWFHOVBlVE4xVTBaVFlWUlhhRzU1Y0d4TVoyYxAB",
+            "text": "Wonderful food very delicious. They have new stuff every week from pork to beef to chicken. I'm glad this place opened up."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNREJwWlh5dHVPaUhBEAE",
+            "text": "I’d recommend the short walk from the beach if you’re looking for great, affordable food."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJN3RrYVNUeHJqczFBRRAB",
+            "text": "Comfortable, spacious setting. Lots of delicious food. Good macchiato. Hope to go back for desserts sometime."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VQWFNnWkducDhXNlZBEAE",
+            "text": "Food not bad but overpriced as it's not a restaurant"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VObVI5ZmVzbHR6T093EAE",
+            "text": "I can’t say enough good things about this restaurant. From the moment I walked in, I was struck by the warm, inviting atmosphere—cozy yet elegant, with just the right balance of charm and style. The staff was incredibly welcoming, attentive without being intrusive, and genuinely passionate about the food they serve.\n\nNow, let’s talk about the Khachapuri—it was absolutely phenomenal. I’ve had Khachapuri in Georgia itself, and somehow, this one managed to surpass those experiences. The dough was perfectly crisp on the outside and soft on the inside, the cheese blend was rich. Every bite was heaven.\n\nThe rest of the menu didn’t disappoint either—thoughtful, flavorful dishes made with high-quality ingredients and presented beautifully.\n\nIf you’re a fan of authentic Georgian cuisine (or just incredible food in general), this place is a must.\n\nI’d gladly cross the border from Canada just to experience it again. Truly unforgettable!"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQUG0zSktWOHVTWGhnRRAB",
+            "text": "¡Mucha suerte, cariños!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLMmx5NW5JaktUaUh3EAE",
+            "text": "Good quality for the price."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZdnBxQXhBRRAB",
+            "text": "Very nice cafe to stop by for some delicious and authentic food! Thank you!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvX3ZXYll3EAE",
+            "text": "Really delicious food, it was fun to try dishes I’ve never had before like khachapuri and khinkali."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJckoyOGtBRRAB",
+            "text": "Love the place. As soon you walk in, they are friendly. They are very attentive to your needs. The waiter answered our questions.\nThe food was great and hot.\nThe atmosphere is romantic, but a family would fit right in."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJcmFLMzRBRRAB",
+            "text": "Came here on what appeared to be a slower night for the store. Warm and welcoming ordered to what appeared to be a kofta that was excellent! Got a Georgian soda for the road. Excellent little shop!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3am82bVF3EAE",
+            "text": "Excellent food. Would recommend. Very friendly and fast service,  and explained the menu very well to new comers. Great all around."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3bE5UWFB3EAE",
+            "text": "Usually stop by for coffee and pastries but decided to get some food and I noticed the lady at the register with the piercing was not very welcoming if your not from their country. Which we are not so she had like a grumpy attitude with us for asking questions , We asked what the food was or had as far as meats and she was standoffish and rude . The gentleman that was assisting her was extremely nice but due to her attitude I think we’ll rethink about supporting this restaurant. You can definitely see the difference in service provided if you speak their language and if you do not."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dDdmMnp3RRAB",
+            "text": "Terrible service. Or actually no service at all"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3bHBQWXBBRRAB",
+            "text": "Food is 3 points. But the price, guys! They change it every time. One day, you purchase khachapuri for 6 dollars, the other for 8. I think they do some schemes there. Do not trust. Do not recommend"
+        },
+        {
+            "date": "7달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3MG9ld19BRRAB",
+            "text": "Очень вкусная домашняя еда"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3NE5pVzh3RRAB",
+            "text": "One of my favorite restaurants in Brooklyn. I always get Acharuli, shashlik and khinkali but everything is very tasty."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRZy1LOE13EAE",
+            "text": "Nowhere to wash your hands, didn't see a restroom. No price tags on desserts. Friendly and polite staff. I liked all the food I tried. Fruit cake is very tasty but a bit expensive. \"Shu\" cakes here have a slightly fatty cream. \"Syrniky\" are excellent. \"Kharcho\" soup is not too spicy, tasty, and contains a lot of well-cooked meat. Everywhere is clean and the interior is beautiful."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3NDlybzlBRRAB",
+            "text": "First time to try Georgian food and this place! INCREDIBLE!!! The chicken cutlet with mushroom was unbelievable - we ended up taking 2 for the next day cause they werte just sooooo good :)\nWe got the beef dumplings, the spinach and cheese pastry which I liked so much.\nWill go back♥️\nStaff are super kind and all smiley - it’s a place that you’d enjoy spending time at 😊"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBd3E3ME5nEAE",
+            "text": "The restaurant is located in the Coney Island section of Brooklyn.  They prepare cuisine from the country of Georgia which is in Europe.  It was a former part of the U.S.S.R.(Russia).  The food includes various soups, breads, hot and cold dishes and desserts.  I ordered a large slice of chocolate layer cake that was fresh and very good.  Friendly and helpful staff."
+        },
+        {
+            "date": "1년 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyMk5MTDJBRRAB",
+            "text": "1000 из 10!!!\nЗашли совершенно случайно и оказались в восторге. Хотя это даже мягко сказано, это было лучшее, что я ела когда либо в ЖИЗНИ! Муж со мной согласился, а он объездил пол земного шара))\n\nВсе невероятно вкусно, большие порции, доступные цены, приветливые работники и атмосферный грузинский интерьер🔥 До этого мы уже 2 раза были в грузинских ресторанах на Манхэттене и всегда всё было не то: маленькие порции за высокую стоимость, еда нормальная, но не вау, атмосфера не грузинская, а европейская. Здесь я умирала от удовольствия все время пока ела и ещё больше часа после посещения говорила мужу, в каком диком восторге я осталась от этого кафе. Хотелось зайти на кухню и поцеловать руки тому, кто это приготовил! Хочу отметить, что даже в мишленовском ресторане нам не было настолько вкусно))\n\nПройдусь по еде:\n- хачапури по-аджарски 10/10\n- хинкали невероятные 10/10\n- голубцы 10/10\n- шашлык просто космос, такой мягкий и сочный никогда не ела 🔥\n- а сырники это вообще доказательство существования бога 💔 (фото сырников нет, потому что сразу все съели)\n\nТеперь хочу ходить только сюда:))\nКстати отзывы я обычно не пишу, но тут не смогла промолчать)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3cUlubHhRRRAB",
+            "text": "The food was very nice here, however, everything was on the salty side. The shish kebab was juicy and flavorful, the mashed potato came with the meal was creamy and well seasoned. The rice was pretty good, too. The roasted chicken was a little dry, but the flavor was good. Acharuli Khachapuri was delicious, the bread was crispy on the outside and very soft on the inside. The sauce in the middle was very nice and creamy. It was so therapeutic to stirring it and mixing it together. Tolma with Grape Leafs were very nice, too. It was my first time trying tolma with meat stuffings, and it was very good. Spinach pie was also delightful. It was flaky on the outside and cheesy on the inside. My favorite dish of the day was their Khinkali, it was steamy hot when it was served. I tried to hold it up by the knob, but it was just too hot for me. Haha. So I had to use a fork to support it. The soup inside was so flavorful, it was a bit sour, a little salty, and the stuffing was very fresh. It was extremely tasty. For dessert, we got Kada with walnuts and raisin and honey cake. The Kada has a very interesting texture, it was very light and airy, and it melts in my mouth along with the pungent walnut flavor. The honey cake was very nice, too. It was much more dense than the Kada. We also tried some of their drinks, the banana and guava juice was quite interesting and nice. The cream flavored lemonade was interesting.\nOverall, the food was very nice, and the staff were very friendly. We had a good time here, and I’d come back again if I’m in the neighborhood again."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4N3NHaTZnRRAB",
+            "text": "I visited Georgian Corner today, a Georgian restaurant with traditional Georgian dishes. The restaurant offers a variety of ready-to-eat dishes, as well as the option to take food to go or dine in. There is even a lovely outdoor seating area, perfect for warm days.\nI tried the “Shota bread” and a potato pie. The bread, although not prepared in the traditional tandoor oven, was still very tasty. The potato pie had a delicious filling and the dough was soft and delicate. The staff was friendly and knowledgeable about the dishes they were serving.\nOverall, I had a great experience at Georgian Corner. The food was authentic and flavorful, and the service was excellent. I highly recommend this restaurant to anyone looking for a taste of Georgian cuisine."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2d082VG1nRRAB",
+            "text": "Delicious authentic Georgian food!!! Anything with cheese was delicious. Made fresh and fast served. Very friendly ladies behind the counter:) clean space"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3c2RpTzR3RRAB",
+            "text": "🚨🚨🚨🚨Yesterday we bought churchkhela for the kids, dolma and sweet water. To my horror the kids ate half of the churchkhela and found out that there are worms 🪱 I almost died 🪦 as the kids ate half of it and got sick in the evening 😞 . I hope this establishment will pay attention ‼️ to this and do something about it. PLEASE CHECK YOUR PRODUCTS YOU SELL."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMZ1pmcFRBEAE",
+            "text": "This place is a gem.\nIt’s part hot bar part restaurant. Most of the food is out in the hot bar and you choose what you want.\nWent with three friends and we feasted.\nGot spinach and walnut dip, beet and walnut dip, stuffed eggplant, meatballs, mashed potatoes, khachapuri, stuffed cabbage and some type of sweet bread. Everything was delicious. After finishing off all that food, we decided we need dessert. I don’t know the name of it but wow, it was tasty.\nRun don’t walk to eat here!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxb0oyR1pBEAE",
+            "text": "Superb authentic Georgian food! I have ordered delivery from them many times thru out 2023. Year end we finally made it to eat there in person and it’s even better!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIay1INEpBEAE",
+            "text": "We went here on our recent visit to Coney Island to try a different cuisine\nWe were looking for chicken kebabs which were listed on menu but the server said it wasn’t there. We asked for other dishes of chicken and they said - soup. Soup was tasteless but costly\nCost on menu was outdated which we learned\nAfter sometime, we found a person ordering with a more helpful server and he got some roasted chicken plate which was not recommended to us at all\nI also ordered peppers filled with rice and walnut\nAnd baklava / different from the overtly sweet Turkish kind . This was mild sweet and great\n\nOverall we felt good would have been better had the server been helpful for us to decide . They even said no to chicken bazhe which seems to be popular order here"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSMzkzaDl3RRAB",
+            "text": "I had an amazing experience at Georgian Corner ! The owner is so vested into making sure that everything is top quality and authentic. I finally found Georgian place that I can truly say THE BEST Khacapuri in NYC ! Kebabs, , Georgian shashlik : juicy and very well seasoned and delicious. Outstanding service and just finally go to place when I want my Georgian food ❤️🙏🤤. I highly recommend to go there and try authentic Georgian cuisine."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsNmJYeS13RRAB",
+            "text": "Very cozy place.Kitchen is very clean and the foods are delicious!\nIf you are looking for best Georgian restaurant in Brooklyn the name is Georgian Corner!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4dFlqYWt3RRAB",
+            "text": "The food was delicious! The soups, breads, meats, and sweets were wonderful and so was the staff! They explained anything we didn't know and offered recommendations!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSN3JHd1V3EAE",
+            "text": "So far this place is one of the best in NYC. Acharuli is delicious! Baked sweets are amazing! Nice and clean cafe! Kubdari is one of the best in NYC!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIenZhM1p3EAE",
+            "text": "2nd time having Georgian food in my life! This place is a true gem. I wish I lived closer to it. Chkmeruli tastes just like how I remember it 😋"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUelBTQy1nRRAB",
+            "text": "What a lovely spot! Many different delicious dishes, friendly and helpful staff, and a family feeling in the dining room.\n\nI love that it's self service. Unpretentious and calm, and very approachable even to someone who hasn't had Georgian food before.\n\nIt goes without saying that the prices are also reasonable, and everything is a great value!\n\nThank you!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKdDdtU2F3EAE",
+            "text": "Tasty food, friendly staff and a cosy atmosphere. Highly Recommended )"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYcHFYOHF3RRAB",
+            "text": "Lovely place with excellent food. The people who work here are really nice. They will help with the orders explain the dishes, and make sure you feel welcomed."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmZzVxbUpBEAE",
+            "text": "We purchased Imeruli khachapuri and shoti bread for New Year’s Eve. Unfortunately, they were stale and dry. We contacted customer service, but instead of resolving the issue or offering an apology, they began to argue with us. They said that we should not expect authentic Shoti bread since we are not in Georgia, and it was brought from elsewhere at 6 am to their location. We will never order from this place again."
+        }
+    ],
+    "reviews_count": 64
+}

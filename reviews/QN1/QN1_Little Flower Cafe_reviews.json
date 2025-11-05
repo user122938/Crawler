@@ -1,0 +1,579 @@
+{
+    "name": "Little Flower Cafe",
+    "place_id": "ChIJs_GSrAxfwokRrXbHbDCmc5w",
+    "grid": "QN1",
+    "address": "25-35 36th Ave, Astoria, NY 11106, USA",
+    "rating": 4.6,
+    "user_ratings_total": 563,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SUxWcG1RWEp0YWw5WVgwcHlTME5VUjBkcGNWRRAB",
+            "text": "Food is next level. The line moves slow because everything is done on the spot. Packed all the time"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRGIySkdXRWRwYVd4TVExZGlOR3Q0UzBKUlNIYxAB",
+            "text": "So busy it takes a while to get your food which is okay. But no caramel flavored coffee one of the biggest flavor most places serve. And pricy in my opinion for two breakfast burritos that weren’t big to have the total $40 and a coffee. Food and coffee was okay"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGU1RWcHhVSGxzZGt0bGEwUmZiRWt5ZEZGd1lsRRAB",
+            "text": "They had a scheduling mix up and only 1 person was working and she was so nice! The food was amazing and so were the drinks. They came out fast too! Absolutely amazing"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205eU9VeGtXbVU0VjJKT01sRmtTR1ZxYW5sSmFFRRAB",
+            "text": "Best café in Astoria! My go-to favorites are the frini donut, the lemon olive oil cake, the fruit pastries, and the breakfast burrito. And seriously - best coffee in Astoria by far"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twVGEwdzFWbDlCU0ZsRE5XcHNlRVJvYzNCNFlYYxAB",
+            "text": "The food is very basic. They use powdered eggs (fatal flaw for a cafe) and the flavors for the dishes were basic. The chicken sandwich came out cold as well.\n\nTruly, this is an aesthetic iHop."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FeWExWktTRWd0UzJOTFNucEhOVVJCV0ZKc05VRRAB",
+            "text": "Ordered a cappuccino and a breakfast burrito here, the cappuccino was standard and the breakfast burrito was ok. The burrito was $13 and was mostly eggs. It was supposed to come with refried beans but I guess they forgot to add them. I got halfway through the burrito before even getting to the pico de gallo, which also had some bits of potato in it which wasn’t on the menu description. My friend and I both ordered coffee and food (she ordered pancakes) and we sat down but they packaged all of our food to go. I guess it was wrong of me to assume that ordering food meant we were staying (pancakes are a weird item to take to go, but I guess that’s just me) so my food was wrapped up in a comical amount of packaging to take away, which I supposed ended up being better for us since they started filming a mayoral candidate interview taking up half the cafe. It would have been nice if they had informed the paying customers what was happening but instead they just made it a weird thing. Too many other coffee shops in Astoria to return to one with just a mid (if not bad) experience."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JelMyOXBSbTQwWVRZM0xYbHVNbkJHYTNrMk1tYxAB",
+            "text": "I ordered a Chai Latte, $7, left $1 tip and received a small coffee sized cup. After trying to get through the 1/3 milk froth, the chai had no taste. It’s what I always drink, many ways and it tasted like hot milk. I immediately returned it and nicely said it had no taste, may I order something else or can it be redone. I was told no it couldn’t be redone. Maybe I didn’t like the taste but I explained the problem was not the taste… but no taste. They offered  another drink. I ordered a coffee $3.50 and it was fine. I waited expecting a $3.50 returned for the order change and was told no they don’t return payment for drinks being disliked and  she, the cashier, thought she was being very kind to even offer another kind of drink.  So much for customer service, and my  $8  coffee was so sweet I threw it away half way down. Never again."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WNlEzZGtSMVYxTTJaUk1HaFRabFV4VTFSeWIzYxAB",
+            "text": "A real gem. Best breakfast during our 7 day stay in NYC. Good service. Japanese pop music."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210V09HZEJXVkJFUldWSUxWaHVVRWxUZWtSb05WRRAB",
+            "text": "Cute cafe with some great food options\n\nBreakfast burrito with the halal bacon was solid. Sadly the Firni donut was sold out when I got there around 2pm. Will be back to try the Firni donut!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JNFVtUm9lamRPV25nMlgyTmxkbGt3Yldnd1gxRRAB",
+            "text": "Very good. Do not expect that seating will be available as people will be sitting for long periods of time. The donut was delicious, burrito took a while but was full and delicious with perfectly cooked egg.\nLet us do shared plate without issue."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SRGRFZFBRMjlWY25odlpFZHpaek5xWWpOZlJrRRAB",
+            "text": "Had a great experience here. Staff was chill, food was fantastic. A little pricy but over $30 for a sandwich, crossaint and coffee. But that chocolate crossaint was the best ive ever had."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCc01FSm9TVFpXUTIxWmNrWmxhRlpaTUVJeFVHYxAB",
+            "text": "Such a cute place! The service is always so efficient and so kind."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCRlJ6WkxWRTkxVmxOaU5uRjVWRXBoUVVWZloxRRAB",
+            "text": "Our mayor doesn't lie and he was spot-on about Little Flower Cafe. The sweetest staff and such a friendly space to be in. The rose drink was recommended and such a good choice."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210RlIyZGZaRll0VmpoaGRYcHdhWHBpTkVWNlRrRRAB",
+            "text": "Coffee and breakfast food like no other! Definitely worth the trek. Everyone here is so nice, only negative is that it’s hard to grab a spot to sit depending on when you arrive."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KV1VFcERRMmhrVFZWdVNsTTBlVE5UUW5aWU1sRRAB",
+            "text": "This place still has good vibes, good food, and friendly people. breakfast burrito is 10/10 can’t beat it anywhere else 🥲"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKU2FXNTBNREZPUm5SVFVGUTJNVEJKUm5CWU9FRRAB",
+            "text": "very good!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBM01GOVdkMkZ6UVdsdGVubHNWWHBCU2pOSloyYxAB",
+            "text": "their Peach Danish pastry was buttery and crispy with a distinct crunch when you bite into it. the jam was fresh and light. overall, was amazing!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKVlh6QlpTbGRCUkUxR1UwNUVkalpRVTFKMVJWRRAB",
+            "text": "Such a cozy little corner Cafe! I wanted a good breakfast and iced Americano, and ended up ordering the Breakfast Burrito with lamb sausage as well as Raspberry Danish.\n\nThe burrito really gets elevated when you order it with some protein. The lamb sausage is halal and it is spiced up with delicious earthy flavors. It's worth getting even though it's an added $4.\n\nThe Danish, however, is my real favorite. The Raspberry jam is delicious and there is soft, creamy cheese inside. The Danish is baked perfectly, balancing the fluffiness and chewiness.\n\nSpace is tight and there are not too many tables and chairs, but if the weather is as nice as today, outside is just as pleasant as inside. I'll definitely come back to explore more of the menu.\n\nFinally, everyone is just so friendly here, it is quite comforting."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKQlZFdHVjV3RhTWs5VVNUSlRXVWRKZWpKV1dtYxAB",
+            "text": "Food was delicious nice big portions service was great very friendly staff and it halal!! 😊😊😊"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aaFV6SkdVamhVUVRjNVRVaEpOSFpTUjFoUlNWRRAB",
+            "text": "Very good food stopped here for breakfast and it was amazing"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKVGRrTTBNV1JMYUhZM1VHRmFZVmhsVFdsRlJVRRAB",
+            "text": "Nice casual setting with really good food. Had a breakfast sandwich and it was huge! Ended up splitting with a friend. Service is quick even though it gets busy fast."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsNk5YWmxVekIxVm5WTlFWbEVUVFp2VmtzMU9WRRAB",
+            "text": "I’ve been meaning to stop by Little Flower Cafe for a while and I’m glad I finally did! We ordered a cardamom latte, turmeric bun, and maple (halal) bacon tart. Everything was realllllly good. The pastries were both super tasty and unique in flavors. I’ll definitely be back to try a firni donut!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYXzg3TjFBRRAB",
+            "text": "PRO: 4/5 Pancake, 3/5 Coffee, 5/5 Interior design;\nCON: crowded, noicy, no wifi\n\nThe Pancake is moist serving w strawberry sauce, butter, cream, syrup. The black coffee is acidic, taste good. but not sure what s the substances flowing on top."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPeEs3VmJnEAE",
+            "text": "Continues to impress\n\nUpdate: pastries are back booyah\n\n— Longterm review—\nThe barista ista best! Picked up a bag of single origin Ethiopia, had an espresso pulled perfectly"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WR1RIcEtTWHBDV1dsd1gwcHljV2N5ZW5KVFRtYxAB",
+            "text": "Egg sandwich was so good, coffee was perfect"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4ZllWOTRTR3RqUkUxS1UxUjBTbWQxWVRCWmRXYxAB",
+            "text": "Such a cute cafe! Their tea was so refreshing! Zohran’s recommendation 💙🧡❤️ Owners also own Sami’s on the corner, highly recommend their lamb kababs!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CQlpuSkNUMmRLYTB0VVZGVXlVbTVGVjA5aUxXYxAB",
+            "text": "Great spot everyone was so lovely. Zohran suggested this place :)"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sa1FrNDFZekJHTFVaRGNreEpWbXRKTm5aWVZYYxAB",
+            "text": "A nice small cafe with a small but versatile and fun menu. I absolutely loved the breakfast burrito with the halal bacon and the Gochujang Chicken was also very good and had a nice sweetness at the end of each bite. We really wanted to try the Short rib sandwich, but unfortunately they were all out.\nWe also learned that they have a Lumber Jack platter that apparently is great to share, so we'll be trying that next time around."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkRlVsUlhNRXBoVmtkV1lYZHpWRVp0WjBsNWRIYxAB",
+            "text": "One of my favorite breakfasts in the area — food and vibes are so good 🙏"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkQmVXNVNSREpXTjJkRFZFOTBMVll5TTJ0R1NXYxAB",
+            "text": "absolutely loved Little Flower! such a cute and cozy cafe. i ordered an iced latte with rose and honey and it was delicious, their coffee is amazing. i also got a monstrously large chocolate croissant that i loved. seating is pretty limited when they’re busy (and i went on a saturday so it was very busy) but they have benches outside. staff were really friendly too. i’ll definitely come back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205SlduWmtSMmR1T0hwR1MyaEpPV1JNWTBsM0xVRRAB",
+            "text": "I've been here a few times through out the years , brought a friend or two to see what the hype was about .Overly hyped and marketed, place is just over priced hype . The coffee is too acidic and lattes just taste like malted milk , 100% BETTER coffee at my local coffee shop a few blocks away and they dont price gouge. the egg sandwich's and pastries are SO much BETTER at other places( tried the donut tried sandwiches  tried cookies and Danishes) , hell even ikravit eggs sandwiches are better and correctly priced to the quality. The staff aren't that friendly there is def a bias. the atmosphere is just filled with pretentious people who don't have the credentials for it. Uncreative they just copy other people . Using a connection with Mamdani for your platform and drive more business when there other coffeeshop who also support him and actually have raised money to help certain issues and support is just lame. Their ig stories of starting the process of opening another spot in less than 2 years open means large profit means poor quality. speaks for its self."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xocGVFYzNXVXR6WlU0NVVEWkNhRGQxYTB0UGQzYxAB",
+            "text": "That was the best breakfast burrito I’ve had in my whole life, and the vibe here is immaculate"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wTFdqaHZhME01YURWdWRFZGpaVGRrWDA5ZlkxRRAB",
+            "text": "This is going to be my new go to spot whenever im visiting Queens!\n\nA small beautifully simplistic café with a short and concise menu where every option looks great!\n\nI got the soft scrambled egg sandwich with halal beef bacon and an almond croissant where both were extremely delicious.\n\nIt's always a joy to see a breakfast spot that caters to everyone!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJM1Ftb1BEbU9fZWlRRRAB",
+            "text": "Cute little cafe with a variety of choices for food. Highly recommend their guava pancake & Firni doughnut! The smash burger is good if you’re into extremely smashed & crisped meat patties. The pistachio croissant was okay- the filling was very little but there were a lot of whole & crushed pistachios on top of it. Not many non-caffeinated drink options, and a bit disappointed that their ice cocoa was really watered down. Overall a nice hangout spot during spring & summer as the space is very light-filled!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kUU5rcENTbXh4ZUVOdE5sUTVOMEZhYjB4bGNIYxAB",
+            "text": "Really delicious pastries, kind staff, and yummy drinks"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SWNYWnpTR2htU1ZGbExXVXlXRTlxYzBkT1ZWRRAB",
+            "text": "Good please I loved"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toR0xWWkxTbTFpZW1zd1pFOVljVE5SU25ReE9VRRAB",
+            "text": "Totally worth the hype.  Firni donut and the guava pancakes are amazing.  Their breakfast platter gives a good mix of the sweet and savory, but it is huge!  Halal bacon and sausage, hash brown, salsa/salad, eggs, and pancakes... can't go wrong.  Easily enough for 2 people (especially if you get a firni donut to try too).  The breakfast sandwich was good too, but the scrambled eggs in it were a little messy.\n\nHard to snag a table but worth sitting down to dine in if you can manage."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUGVFY3RUM0k0TTBkVFRFMU5NakJQVG1SSVNYYxAB",
+            "text": "The food is always what stands out for me! The gochujang chicken sandwich and guava pancakes are my favorite. The drinks are kinda a hit or miss for me, but I still enjoy. Truly a fave cafe, always super busy though so keep that in mind."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwV2FYWkZNRWxxU2padFJXeFRiRFpYV1cxQmRHYxAB",
+            "text": "LITTLE FLOWER IS THE BEST CAFE EVERRR! They are so much more than just a cafe though, it's more like a movement or way of life for me at this point LOL. I love their food, their activism, and how they show up for our neighborhood. I have tried various things on their menu and it is all my favorite LOL! I typically get a cold brew and some kind of food. My go to is their guava pancakes and egg sandwich. Their pastries are phenomenal too. You need to do yourself a favor and visit! The staff are the sweetest most genuine people on earth. I love our little chats. Ok this review is already so long-- ILY LF!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGTGRUSk1iRzFTVEhWUWVqaG5WRXRsU1ZkaWRYYxAB",
+            "text": "Straight off my flight from Toronto, this was my first stop in Astoria and I couldn’t be happier. The service and hospitality was fantastic, all of the pastries and sandwiches I had were incredible, so so happy I stopped by"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WT1QzaFBWa1ZPWlRoNGFWRTViVGszYlVKNmJHYxAB",
+            "text": "Delicious food, nice people, great atmosphere 👍"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sVFMwbEVObVZ0UmtObmJtUnRiMVJqWVRkNU5uYxAB",
+            "text": "Great atmosphere, busy but that’s a good thing! Staff were very kind and patient even as they were getting a lot of orders. I will definitely be back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWlpVazNaSFJTT1U5WU5HRnliblphVmw5UVgyYxAB",
+            "text": "Very welcoming stuff , delicious pasties and good coffee"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrNVZEZG5lazlOTmtsMWQyTnpTbE5ZZG5WTFFuYxAB",
+            "text": "Horrible Place"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNacG9yTlpnEAE",
+            "text": "Food is tasty and great but we came here to only immediately leave because good luck finding a place to seat in here. Unfortunately, whenever I want to give this place another shot I come and see people eating standing and people with laptops taking their sweet time. Two stars therefore."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJd1NHWkhVM1k1Y2pOTVZ6SktRMDlVTlVSYWJrRRAB",
+            "text": "Little Flower is a cute spot and their Ferni doughnuts are famous for a reason. The syrup on the outside and cream on the inside are definitely special. However, the lines are incredibly long, so be prepared to wait almost an hour for your coffee if you go during peak hours!! The baristas are doing their best, but the busyness is wild."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205cVZHMWpWRWxsTFhReVRFYzBabFZpU1c5bFlXYxAB",
+            "text": "Good coffee. Good food. Good service. Good atmosphere."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4SldEbHlWbTlrYjJnMWRFeG9YMjFVV1VnNFoyYxAB",
+            "text": "Lovely cafe with the most incredible owner,\nMohammed. Delicious and unique pastries—be sure to come early if you want to try their signature firni donut—but everything available was well balanced and tasty. Didn’t try a coffee as it was later in the day, but there are many drinks to choose from! Absolutely recommend if you’re in the area or want to make a special trip."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wdFIzVnlVak0yU20xS2F6Vk5PR1pmUjJsTWFIYxAB",
+            "text": "I had the guava pancakes, best pancakes of my life!!! Also best chai latte of my life.\n\nWould come back again."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FeGRrWmZPVFZVYVRCTk0zbGZWMFJzU2xWdU9XYxAB",
+            "text": "Of course the best halal sandwich and finni/Kerr doughnut I've had :)"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQaXVuNWpObmFMRk1REAE",
+            "text": "Charming, bustling, and full of heart.\nLittle Flower Cafe is a gem in Astoria — yes, it gets crowded (for good reason!), but the warm atmosphere and attention to detail make it worth the wait. The interior is both cozy and stylish, with cool tables and thoughtful touches, including a lovely portrait of the owner’s mother that adds a personal, homey feel.\n\nThe bakery items are truly perfect — fresh, flavorful, and beautifully presented. Coffee and tea are top quality, and the staff is always friendly, even during the busiest hours. You can tell this place was created with love and a sense of community.\n\nHighly recommend for anyone who appreciates great pastries, great people, and a beautifully curated space."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWeFpISTBkVFJMVkVSTE5sWnJXV0pFVmpSTGVWRRAB",
+            "text": "My favorite café to go to ever. I’ve lived in Astoria for about three years and I remember the moment that it opened up.\n\nThe outside is covered in brick, big windows giving it gorgeous natural lighting, wood interiors and very unique chairs and tables.\n\nAs I’ve come here time and time again. I’ve gotten to try almost everything there, including the pastries some of the food and a lot of drinks, of course. I would highly recommend the breakfast burrito and the fan favorite firini donut.\n\nThe owners have a close relationship with the baristas making the cafe feel very cozy and welcoming. The owners Ali and Mo have done a spectacular job not only at  Little Flower but have also worked hard to expand and have recently opened Blue Hour where they do take out. They have created a second home to many people in this community and have also been active politically which I really  admire.\n\nThe baristas here are fabulous, kind, cool, and awesome. Shout out to Stella, Greta, Morgan, Devin, and Jasmine. I typically come here after I go to the gym, and I lose track of time sipping my coffee having conversations and giggling.\n\nI would highly recommend little flower to anyone, and I think everyone deserves to come here at least once in their life."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VPdTk1T081cXFUYUd3EAE",
+            "text": "The food and coffee here are pretty good.\n\nAlthough, not quite on the Santa Fe level, the breakfast burrito is tasty, and I didn’t have any complaints about the hot chicken sandwich. However, the guava pancakes - even though fluffy, they lack flavor and should be more moist. The portions are also quite small, especially considering the price."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQZUM4b3ZpeGVtR3N3RRAB",
+            "text": "We came here from Long Island Thursday afternoon on 5/8 to try this place. We got the scrambled egg sammy with halal bacon, guava pancakes and the firni doughnut. Everything was delicious. I really enjoyed the doughnut since I’m not usually a fan of them in general but this one was so good! The service was super friendly. I do wish there was more variety in the drinks offered — different flavored coffee drinks and authentic chai would have been nice. Overall, I’d definitely come back."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1d3NmVXRRRRAB",
+            "text": "My go to spot, every time I come to visit parents in nyc!\nAmazing coffee! Consistency is the key!\nI love the interior and the window walls make space so bright and welcoming.\n\nThe chicken sandwich is a must! I love the scrambled egg sandwich, but it’s messy.\n\nThe service is a bit inconsistent, it can be great, and it can be so-so. Half of the time (when you order only drinks) they won’t ask if you’d like them to-go or to dine-in, which I consider wasteful (plastic cups), plus it’s more enjoyable to have a cup of coffee in the real cup.\nBut nonetheless not one drink has disappointed me in terms of taste."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTVEyTnZUbmhuU2kxT2NFaERSRk56Y1RndE9XYxAB",
+            "text": "Pequeño lugar para desayunar por la zona de Astoria, en una avenida tranquila.\nProbamos los hash browns y los waffles y estaban muy ricos. El café, por otro lado, no nos pareció de lo mejor.\nLa atención tirando a normal, sin nada para destacar."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKSzNrSXlhMzZYeFhREAE",
+            "text": "Landed at LaGuardia and came straight here. Got a cappuccino and a breakfast burrito—actually insane. Burrito was loaded and delicious, cappuccino was smooth. The lady was super bubbly and kind. Instant NYC favorite."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYa3ZxcEJnEAE",
+            "text": "The perfect sunny neighborhood corner to sit and enjoy delicious coffee and food. The menu was incredible and I appreciated that there are some classics like egg sandwiches, avo toast, burritos and pancakes but they include ingredients like zaatar and chives and homemade milk buns that take the flavor to the next level. Can't wait to go back and try all the pastries. Note: I went late on a Friday morning and it was quite busy with no seats so be prepared to wait for tables or takeout during peak times as seating is limited."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3OWR6Zll3EAE",
+            "text": "Came across for a quick brunch bite from the high review ratings. Jalapeño cheddar croissant, scrambled egg sandwich, guava pancake & a drip coffee.\n\nJalapeño cheddar croissant is a bit flat, may be due to out of oven for awhile.\n\nScrambled egg sandwich - fluffy smooth egg sandwiched with soft toasted bread with a spicy spread....👍👍\n\nGuava pancake - good pancake (fluffy soft) & good guava sauce top👍\n\nDrip coffee - warmed, medium robust, not a lot of flavors left.\n\nAll in all, a good community hang out spot for good snacks & grab to go."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzaVA2LW9BRRAB",
+            "text": "What a Gem 💎\n\nThis is a small local neighborhood cafe nestled in Astoria, close to train station (36 Ave, NW train). Sitting at the corner of the block, its welcoming vibe attracts you inside.\n\nThe cozy space is brightly lit with natural light from its large windows, with cozy seatings lining up the windows. Decor is clean chic minimalist but with warm tones; staff here even warmer and friendly.\n\nI tried the Oat Latte for stay (they serve in ceramic cup by Famiware, and Oatly milk). I’ve been trying to cut down microplastic consumption so this was important to me as well as Oatly (haven’t found any other oat milk that taste better, although I know about the oil).\n\nMoving on to the pastries 🥐 yum! Tried their Firini Donut with custard center and pistachio topping + strawberry danish. They have seasonal fruit danish, right now apple, blueberry and strawberry. They were delish, I don’t like my danish overly sweet and they were sweet but not overly sweet. I was also craving for eggs! And they accommodated and let me order a side of scrambled eggs which were sooo good.\n\nVisiting cafe is such a trip for me, especially when the space is warm and inviting, with great staff and this is a must visit if you are nearby; totally worth the trekking over to Astoria."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2b0o3ZTJRRRAB",
+            "text": "An unassuming exterior and interior, with counter service and minimalistic table design leads to delight with the extreme deliciousness and thoughtfulness of the breakfast sandwiches we had today. Brioche bun with perfectly seasoned eggs, cheese and bacon. A breakfast burrito worth its weight, that had the right amount of spicy pep. And the cafe mocha was delicious too. The sunlight pouring in the walls of windows provided warmth from the cold outside and healthy amounts of vitamin D. The pastries - a strawberry danish pastry and a cardamom donut were exquisite."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0Ny1QLXRnRRAB",
+            "text": "Amazing cafe. Cute minimalist design inside with lots of sunlight. The food is simply incredible. With touches of cardamom, turmeric or some other spices, they've made the food not only yummier but gives you a little taste of Afghanistan/middle east. I've had everything on the menu and haven't been disappointed one bit. 🌻"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlLXM2UndnRRAB",
+            "text": "Little Flower is a gem: I’m impressed by the consistent high quality across their pastries, coffee and bfast/lunch selections. It’s always been fresh and delicious. The service is fantastic, and everything is made to order - you can taste…"
+        },
+        {
+            "date": "7달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRZ3FMc3VnRRAB",
+            "text": "202503\n可愛的中東風咖啡廳 生意炸好整家店鬧哄哄的 我們點了pink tea和玫瑰拿鐵和firni donut 他們家咖啡是用sey的 很好喝 pink tea是很多種香料+奶 甜甜圈裡面有香料餡 整體就是香料十足"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGNnEyMFFREAE",
+            "text": "I’ve been here several times for coffee. Today we got brunch. It was excellent. Must gets: pistachio croissant and gochujang chicken sandwich. Breakfast sandwich with beef bacon was also very good. Get the Firni donut if you’re a cardamom lover. We’ll definitely be back."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBNHVPcE5nEAE",
+            "text": "Food was amazing. Usually cafes have really basic pastries and food but this cafe was yhe opposite. I tried the soft egg sandwich and the short rib and it was so tender and perfect. I also got a matcha latte and it was so amazing and the perfect bright green! Also the barista with the curly hair or bangs was the sweetest person ever I loved her energy!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWaFBIWDhRRRAB",
+            "text": "Little Flower Cafe is a delightful find with its inviting ambiance and exquisite pastries. The chocolate almond croissant was a standout - flaky, rich, and perfectly nutty. A cozy corner in Queens that’s perfect for indulging in sweet treats and coffee. Definitely worth a visit!\""
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tocWVHVldlbVZmYmxGVmNERndaRlpQUm5CSllWRRAB",
+            "text": "The unique Asian-flavor inspired donuts are a must try for anyone that hasn’t had this sort of fusion pastry/dessert.\n\nI prefer non-iced menu selections and didn’t have any I regretted ordering. Good spot, they’re only constrained on space as the only downside when things get busy. Closing early is a bit unfortunate as well they primarily are open during normal work hours only.\n\nGood to always support local business that isn’t a big chain like Starbucks etc.\n\nEspecially when they serve zabiha halal on their menu."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJMVBHam53RRAB",
+            "text": "We love it here. We live in the neighborhood and it’s our go-to spot. Best coffee (I get a cappuccino w cinnamon and honey), delish food, friendly staff, great dishware, and beautiful interior with big windows."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLaS1yT0tPb1l2VTBnRRAB",
+            "text": "Everything was absolutely delicious, not a single miss on the menu. The mocha here was perfect, just the right balance of sweet and dark chocolate. They have non dairy milks which is always appreciated. The food was awesome, maybe a little on the greasy side but everything was perfectly seasoned, with a hint of spice in the sauces on the burger and egg sammie. They have great cafe staples at the same time of not feeling basic or boring. The pastries are on the sweeter side, they use some sort of sticky glaze but the pastry dough is to die for. Will absolutely be coming back, again and again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5N1o3VWtRRRAB",
+            "text": "This place is a gem and I’ll definitely be coming back. Their matcha latte was fantastic, and I only got to try their breakfast burrito (it was huge and had me full the rest of the day). I’ll be thinking about it every day, it was SO good. Overall, the ambiance of the place is 10/10 - simple, minimal, but so cozy. I also adored the natural sunlight beaming in."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJaDV1VUlREAE",
+            "text": "Delicious and perfect for brunchhhh. Absolutely love coming here to dine in or for quick coffee and firni donut. 👌🏽 During peak times on weekends, it does get very busy and crowded so you might have to wait for a table."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNieXVhTjR3RRAB",
+            "text": "I don’t know how i found out about this cafe but im soo glad i did. This cafe also offers the most savory brunch items. My favorite is their breakfast burrito, so flavorful in a cute burrito. I also really like their signature rose latte. And their cardamom pastries are also just as good. Highly highly recommend"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwNnRLbTV3RRAB",
+            "text": "Charming little cafe with nice food options and nice coffee. Everything is halal so a plus plus points from my fam. Vibe is great, nice interior, great playlist from r&b to habibi funk. Get the firni donut, especially while its hot, its so good. The egg cheese halal bacon sandwhich was good. Gochujang sandwhich were just ok."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURINS12cnRBRRAB",
+            "text": "I really enjoy coming to this great little cafe. No matter where I am in the city, when I have a craving for a firni donut or a cardamom croissant, this is where I go. The staff is also very friendly and hospitable and I really enjoyed my last visit here."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3anJXaHFBRRAB",
+            "text": "Stopped by for a late breakfast. I ordered their breakfast burrito which was the best breakfast burrito I’ve every had, eggs were fluffy, the flavors blended amazingly. The iced coffee was great, only problem I encountered was that they were out of cream but they had oatmilk which was perfectly fine. The prices were reasonable which is hard to find these days. I paid $16 for both I’ll definitely go back for another breakfast burrito!"
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqdklTWUtnEAE",
+            "text": "best pancakes, donuts, and baked goods. Original flavors and not too sweet! Most Americans bakeries load their baked goods with sugar, but this place gets the balance just right.\n\nI also really enjoyed their egg sammy. New fave breakfast place in the neighborhood.\n\nUPDATE: This place is consistently the best tasting baked goods and breakfast place in Astoria, which is already such a food paradise. Everything I’ve tasted so far is the best version of\nitself- For example, the avocado toast, a dish seen in so many menus, is made special by the always fresh avocados, a touch of citrus, micro greens and outstanding fresh baked bread. Another recommendation- The cardamom knot. Also shout out to the good music and design in this place. It’s not only delicious, but a really nice space to hang out."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNScjR5a2N3EAE",
+            "text": "I never leave reviews but I had to jump on here and say this is quite literally the most perfect cafe. Amazing for morning/breakfast, afternoon/lunch, and during Ramadan the most perfect dinner/Iftar. My favorite is going first thing in the morning when the sun is rising through the floor to ceiling windows. When I tell you they make the best morning light roast I’ve ever had. I add oat milk and simple syrup and I just don’t understand how they can make light roast so buttery and smooth without so much acidity. The cafe has a Nordic atmosphere for a cool and calm vibe but the warmth and Afghan influenced culture is nothing short of loud the moment you take a bite of the firni donut or sip of the pink chai. The cardamom latte is my fave and the short rib sandwich is just …🤤. Everything on the menu is so good it’s hard to chose most days. The fact that all meat is halal is just cherry on top. In a country where so much food is processed- it’s great to have somewhere to eat where you know the food is A1 quality. This cafe is the reason I’m happy I renewed my lease so close by! The staff are so friendly and have the best playlists going always. It’s basically my second home now. The owner is constantly checking in on how people are— and is such a kind and generous soul!! I feel lucky to be so close to a cafe people are trekking from Brooklyn to try and Californian’s having on their NYC must-try list. There is really nothing like this cafe anywhere else, a gem unique to New York."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCS2VFRmZXSFpWZDNaR1dWZGFNVFpxV1ZnME9YYxAB",
+            "text": "Every city i visit i look for a local cafe. This cafe knocked my socks off with its flavorful coffee and scrumptious deserts. The pistachio croissants left me wanting more and craving to come back tomorrow. Hell, I'd fly back up to New York from Florida just to get a fresh cappuccino, and croissants from this place. Apart from the food the positive glow and friendliness of the barista made my morning have an extra step of joy.\n\nYou gotta try this place"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUXzVtWnR3RRAB",
+            "text": "The place is cute with not much seating available. I came for the breakfast menu.. I chose the scrambled egg sandwich with bacon. I personally felt like it was too salty, buttery, as I have tried b.e.c sandwiches this would not be my…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYdThQUXRBRRAB",
+            "text": "I had a great time at this cute cafe that is so customer friendly. There are lots of options for drinks and food! Both the short rib sandwich and the pancakes were 5/5\nThe white peach tea & London fog (asked them to make an off menu item which they were happy to do) were also 5/5!\n\nThe tables inside are metal, which can take a little getting used to, and not the most aesthetically appealing for cafe vibes. (Sorry cafe! It's just my opinion on this)"
+        }
+    ],
+    "reviews_count": 81
+}

@@ -1,0 +1,544 @@
+{
+    "name": "Manetta's Ristorante",
+    "place_id": "ChIJJVkc8iRZwokRA-3qv5OZmsg",
+    "grid": "QN1",
+    "address": "10-76 Jackson Ave, Long Island City, NY 11101, USA",
+    "rating": 4.6,
+    "user_ratings_total": 895,
+    "phone_number": "(718) 786-6171",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWalV6aHRjbTF5WTNKWmFHaEpiVTVqU1RFd2NWRRAB",
+            "text": "Good food! Everything is good! One word excellent! Extremely good!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xM05uTkVXRUZJVld4eVoxSm5XbUkxVldkYWIwRRAB",
+            "text": "My favorite place to eat when I visit New York. So many great dishes! Try the amazing pizza with prosciutto and figs.....incredible."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205UlQyUm5NV2RwUVdjd2N6UlhSMGh4VkhKYVdGRRAB",
+            "text": "The Carbonara was not authentic, but overall it was fine"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5T1QyVkJUazVTY0ZCc1kyOURTWGd6ZDIxWlRHYxAB",
+            "text": "I ordered a meatball parmigiana on take out. I got home and these are the meatballs! Beef??? Or Nah????"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25saGNWY3hZMGwxUTNoamVWaGhVVlJDVFRkNVQxRRAB",
+            "text": "Great place .. celebrated my dad's bday and it was very pleasant and relaxing  ... my father was very HAPPY .. definitely coming back 😊"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKVWRrZzROVEl0VTNWWFVGWkxRMkpaYUdKQ2EyYxAB",
+            "text": "I dined at this restaurant and they charged me twice the amount of what was the original bill. This has never happened to me ever in New York at any restaurant. I would not recommend this place unless you want your card to be charged for more than what you pay"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1Mk1sQlRkMDlRVEVoVlVWWXdORmxhVkZoV0xYYxAB",
+            "text": "Great food"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOQ2JGaElWVlJOT1VKa09USTVlbEUzUkRKSWNHYxAB",
+            "text": "Amazing service, amazing food, super friendly and one of the best pasta dishes I've ever had... it was the Tuesday night special, pasta with Lobster 🦞 Clams and Mussels in a spicy red sauce w/ garlic. Calamari was INCREDIBLE!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGRVZFNVlRVEpJTFVKRFVGSllWWGQxUm1nNVFtYxAB",
+            "text": "Prefer more filling between layers in lasagna, less"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kdk5uWnNXbGRhTkdvNFQyc3piSG8zYTJSS1VFRRAB",
+            "text": "My friends and I went tonight for a farewell dinner for one of friends moving away.\n\nThe staff, food, service, atmosphere, and absolutely everything was so amazing. It’s unreal how great of a time we had!\n\nHabib was the most amazing help in suggesting what dishes we should have even down to the wines and cocktails, which were equally amazing(Thank You Jose!!!)! The calamari, baked clams, antipasto, lamb chops, ribeye, bolognese…..I can’t even begin to describe it all…..15/10 experience, I cannot recommend this restaurant enough!\n\nAgain thank you so much to Habib, Jose, and the entire staff that made this an incredible experience!\n\nTruly made our last dinner together an unforgettable experience and we cannot thank you enough!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkMVFqUkNjbFZYYURKNUxXUXlibWx1YjJZek1sRRAB",
+            "text": "Food was solid, good service and good portions. Family friendly and well rounded Italian restaurant that is well established in LIC. If you have gluten sensitivities, this might not be the best place tho."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201R1F6aENRMnBPV1V4SWEzZERlVmxvTm5WM1NHYxAB",
+            "text": "Great place all food is delicious"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSU1JUaEtiRVYxVlUxSllYWktkVFpqUzJwTWIyYxAB",
+            "text": "My favorite restaurant in LIC!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOUFozQXhWbVpRVnpkaWFFVTBMVEo0TTJWVVZHYxAB",
+            "text": "Manetta is a delight! Neighborhood spot of 30 years and feels so homey. Outstanding service…Habib gave great recommendations! The house salad is something special. I can’t wait to have it again. And also the Mona Lisa pizza is out of this world. Arugula, mushrooms, truffle, parm…sooooo good! Ideal combo. Also loved the vodka pasta. We will definitely be back!! Such a gem of a spot!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNNFJXaHFVVU5VTVhNNU5qVTFWell4ZUUxdmFtYxAB",
+            "text": "Excellent way to spend an evening. Good food, good service, wonderful atmosphere and reasonably priced"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBeVpVSjVObXMwYmpsV1dVdHdZazVYWDBGVE1rRRAB",
+            "text": "Neighborhood classic. Had a great time."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aNlNVeHliR3BDVFdWUU1XbG5WVmx0U205Vk0wRRAB",
+            "text": "Sono costretto a dare 5 stelle perchè 10 non me le fa mettere. Finalmente un ristorante italiano vero in mezzo a tanti bluff qui a NY. Ho assaporato dopo vari giorni un sugo delizioso, pasta cotta al punto giusto, tutto in generale veramente buono."
+        },
+        {
+            "date": "3달 전",
+            "language": "ca",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205NlkyUjRZakkyVG1kelpWaFFTemRmTlRsMVNuYxAB",
+            "text": "Vam arribar al restaurant per casualitat i ha estat una grata sorpresa. L’ambient és acollidor, l’espai té una decoració clàssica i el menjar és molt bo. Vam menjar pizzes (una amb gluten i una sense) i van ser delicioses!\n\nRecomanable 100%!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Rd1NqVm9UR3MyYVhWelZEVkZOa0pLVUZSblNFRRAB",
+            "text": "It’s a lovely place with great interior and I highly recommend manetta’s"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZd1RFbElPWFowUVRWdVV5MWtRV1F4VFZGcFpsRRAB",
+            "text": "Fantastic food! Classic Italian joint\n\nThere’s massive parties here so it’s definitely not a quiet restaurant."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kZk1FSllTRW93VFhKSVluRmxUWEpUZEVSaVMzYxAB",
+            "text": "Great food and sangria. Nice atmosphere."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaS1NYcHdRVGR2YkVGeWRWTlZaVUpGTmtOWFZIYxAB",
+            "text": "Delicious food and very attentive staff."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sek16VmlSbnAxY1VWNFJFWnRXRlJGVUhOVGRXYxAB",
+            "text": "The ambiance is cool, the servers gracious and efficient, the food excellent, and the prices reasonable."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNLU5yVDRRRRAB",
+            "text": "What a special little spot. The only downside is the parking.  It's definitely worth the trip 👌"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJUEJtOXVtMzd1VHlRRRAB",
+            "text": "Came here with my Mom, without a reservation on a Friday (I know, our fault), but got seated within 30 minutes and had an incredible meal! Will definitely be coming back here again to try out more things from the menu."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNaVA2cTZaenQyUG9nRRAB",
+            "text": "I come here several times a year. Food is very good, reasonably priced - feels like a warm hug and a home cooked dinner. Awesome change of pace from the new, sleek stuff we see all over the city (and especially LIC). Service is exceptional too. Totally recommend to anyone who likes Italian!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJNkY5SW5XeXRtNGlRRRAB",
+            "text": "We came to NYC for vacation and to celebrate our 7th anniversary. We have had an amazing time. We found this place on Google and decided to try it. It was by far the best meal of my life. We've had an awesome experience in NYC and this was no exception."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OSU1taHRhR1V4UWw5MFZGRnpOMkozV1dSS1pYYxAB",
+            "text": "Nice atmosphere"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJaVpucnFoNnBhZGVREAE",
+            "text": "You better go on an empty stomach cuz they will feed you until you can’t walk out of there! Lovely service with food that will satisfy all!"
+        },
+        {
+            "date": "5달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKenFoY2lxa2R6WF9nRRAB",
+            "text": "Tolles ital. Essen, sehr nette Bewirtung! Kann ich sehr empfehlen. Waren zwei Mal beim letzten New York Besuch dort. Und wenn ich wieder ein Hotel in der Nähe buche gehen wir wieder."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPYVhtNmFvN1pmSnpRRRAB",
+            "text": "The pictures I’ve posted are across two different visits to this restaurant. Both times I’ve been here the experience is extraordinary. The flavors of each dish were incredible, the ingredients they use are quality, they use a brick oven for their pizzas, and the prices are very reasonable. Every pasta I’ve had was cooked perfectly with the right balance of flavors, and every pizza I’ve had was wonderfully crispy with a slight taste of wood in the charred bits. If you’re ever in Long Island City, this place is a must if you love Italian food."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLU25rOW5EOU9XUW1nRRAB",
+            "text": "We came without a reservation, but we were seated right away. The inside is charming. The only issue was the noise. The acoustics are bad, as it was hard to talk with one another.  The service was excellent.  They were very friendly and attentive.  The food was also excellent. I had a steak and a seafood appetizer. I didn't think the prices were too high for the product. We will likely return, although maybe for a lunch. They have a wood fired brick pizza oven that smelled delicious."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZMnViaEJREAE",
+            "text": "Food: 5.5/10 I ordered the clam linguine and it was more al dente so could be a preference thing. The clams were small, not very flavorful so could use more salt but the saving grace was the tiramisu! That was fantastic and it’s a good slice, enough to share between two.\n\nService: 7.5/10 they always refilled our waters and the food came out pretty quickly! Only downside was that it felt like it took forever to get our bill at the very end but they were also busy so that could have impacted it. Server was very nice and answered our questions and had suggestions!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZc3FXSllREAE",
+            "text": "Food was good but the service was horrible. Customer service could not have been worse. They constantly undermine us and would rather take care of other people. The wait time was crazy for a restaurant that isn’t busy? Horrible experience would not recommend?"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZNG9XeVZnEAE",
+            "text": "The service is soooo poor, the wait time to get food in an empty restaurant which had barely 3 tables in use was way long that you would expect, the reason I am giving a one star atleast is because the margarita pizza is awesome!!! One of the best I have ever had but the pasta is much below average. Have tried so many restaurants and this one just did not hit the mark. Would not recommend at all. Server was good but the wait time is the worst!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvaFlLMkV3EAE",
+            "text": "Great food and service"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJaC1QUDFRRRAB",
+            "text": "Classic Italian,  Just go."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3OTVhR0F3EAE",
+            "text": "Amazing Italian food , everything looks so good in the menu ."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRbEt1dzJBRRAB",
+            "text": "Food was delicious. Moderately priced which was good and the portions were a nice size. The eggplant rollatini and salmone were delicious. Our waitress was so nice and very friendly. Cozy atmosphere. I would definitely go back to Manettas."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRd0lHWDd3RRAB",
+            "text": "We have been going to Manetta's for over 15 years.  The food is always fresh and delicious. The homemade pasta is second to none. And we love staff, service and atmosphere as well."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRMDh6OWRBEAE",
+            "text": "Great food!\nGood service! (Grazie Rosana!!!!)\nGreat atmosphere!\nI highly recommend this restaurant."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnaXFEVHp3RRAB",
+            "text": "Overall well cooked food .  Grilled octopus was excellent as was the rabbit shank on a bed of polenta. Rabbit was not dry at all. Very nice wine list. Ambiance enhanced with a fireplace . Very friendly staff.  Our new favorite restaurant."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnMC1IcEJBEAE",
+            "text": "Awesome! Best Italian in LIC. Maybe in New york city! Food tastes so natural and good and vibe is also cozy. Big portion of food! Good price!! There is real fireplace with bricks. So good! Highly recommend!!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNna2YyTmVnEAE",
+            "text": "Love it here. Everytime we come the food is incredible. The pizza and pasta is so good. My favorite pasta is garlic and oil, and they make it for me eventhough it isn't on the menu. ❤️ they have such a nice fireplace too."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnb2ZEdUNnEAE",
+            "text": "Amazing 10/10"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncXB2bHpBRRAB",
+            "text": "This is one of my NYC favorites.  Super easy to get to from the 7 train.  The food here has always been outstanding.  The  pasta is handmade (if it’s not they have me fooled) and the pizza is on point too!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnOHVtU2JnEAE",
+            "text": "I went on a dinner date with my boyfriend for valentine’s day & the staff was really nice , but our waiter on the other hand?? not so much. He was impatient with us & very passive aggressive. Maybe because we were more on the younger side but he treated the older people who were having dinner so much nicer.\nThey took forever to bring the food & didn’t even give us a dessert menu until we were getting ready to leave like huh? & our check , we ended up having to pay in the front. I honestly wasn’t planning on tipping him because he wasn’t very nice and the vibe was off but my boyfriend was going to & the waiter thought he did such an amazing job that he deserved a bigger tip & was very aggressive towards us regarding that. You’re lucky we even thought of giving you something but he deserves no tip, whatsoever.\nOverall just get a better waiter with better energy."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBanJQbnF3RRAB",
+            "text": "Camari tasted funky/gamey/off. Our waiter never checked on us once during our meal. The homemade pastas were very tasty! I liked the vodka sauce and my husband enjoyed the paccheri special."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBaHJDbm5RRRAB",
+            "text": "We had after-work gathering at this restaurant. Everything was awesome. Friendly waiters and good quality food. Loved their homemade pasta and pizza."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBbUo2S01BEAE",
+            "text": "Vegan ravioli was ok but the portion was less"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dWZHdG1BRRAB",
+            "text": "Loyalty Doesn’t Always Matter: My Disheartening Experience at Manetta’s Ristorante\n\nAfter 18 years as a loyal customer, I never thought  Manetta's Ristorante would behave this way. What started as a disappointing meal—overly garlicky, overpriced appetizers with tiny slices tomatoes (photo is bigger than it actually is) —quickly spiraled into something far worse.\n\nWhen I ordered takeout, Diane (possibly the owner, handling my order) failed to complete it properly. When I pointed out the mistake, she blamed me, offering nothing more than a half-hearted apology. Worse yet, her \"solution\" was completely unreasonable: I could either trek back in the cold or wait for a late delivery—both incredibly inconvenient. To top it off, the food lacked flavor, as if it had been prepared by someone just learning how to cook rather than a skilled chef. It was nothing more than carbs, and definitely not worth the price.\n\nWhat stung the most, though, was the realization that the staff didn’t even recognize me as a loyal customer until I mentioned it. Diane, who is there frequently, didn’t even make an effort to remember faces or acknowledge long-time customer, which made the experience feel impersonal and dismissive.\n\nAs a long time customer, being treated this way was beyond frustrating. Family-owned or not, mistreatment like this is unacceptable. Sadly, I can no longer recommend Manetta's. There are too many other local spots that know how to treat their customers with respect."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURadC1QQ25BRRAB",
+            "text": "The food was delicious and the staff were efficient and friendly. The atmosphere was nice overall. I got the veal with eggplant and the dish had great flavors and texture. The calamari is also crispy and well cooked served with some hearty marinara.\n\nMy one feedback is regarding the parsley on the side of the plates. I thought this made the presentation look messy. But overall an excellent restaurant for Italian food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5Z0xmQzR3RRAB",
+            "text": "The food was delicious. The squid ink pasta was cooked just right. The server was very attentive. The pizza was delicious. Everything we ordered tasted great. Would definitely go again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOeTlHNERREAE",
+            "text": "Had a great last-minute New Year's Eve dinner at this gem of a restaurant! The staff went above and beyond by allowing me to customise my dish, and the prices were surprisingly reasonable, offering great value for such a fantastic experience.\n\nOne of the highlights is their in-house pasta, adding an extra layer of authenticity to the Italian cuisine. The salmon penne was an absolute dream - the perfect blend of flavours and textures.\n\nThe warm and welcoming atmosphere, as well as the great service from the staff, created a memorable dining experience. The manager/owner personally came to check on the customers, which was a nice touch and gave the place a family feel.\n\nI'm looking forward to my next visit to New York, and this restaurant will be on my list. Highly recommend for those seeking both a taste of authentic Italian cuisine and a genuinely enjoyable evening."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNycHJpN3pBRRAB",
+            "text": "Everything we ordered was delicious!\nOur first time at this place and it will not be our last time. It is right next to entrance of the bridge. Nice size restaurant, great natural lights if you are there during the day. Service was great. They have products like pastas for sale too."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUMXRPYVNnEAE",
+            "text": "On a cold winter night in 2021, I visited this cozy restaurant and enjoyed the vodka penne. I returned today and the vodka penne is as good as I remember it.  The salad is fresh and delicious, and the panna cotta paired with fruit compote is a nice ending to the meal.  They also serve bread and brought some house-made cookies at the end of the meal.  They also have outdoor seating for the summer.  The service is very good.  And it’s a lovely restaurant."
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNib3ZxNFdREAE",
+            "text": "Ordered the $25 linguine nere with shrimp for delivery. I thought it was good. The shrimp was firm and seemed pretty fresh. The portion was fairly generous."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoektLNnh3RRAB",
+            "text": "Second year in the neighborhood and I was wondering why didn’t I come here earlier? Definitely outstanding pizza and homemade pasta. Dessert was not that impressive compared to main dishes but didnt go wrong.\nI’ll say not everything perfect but some good points to visit. Staff were friendly, professional, providing nice services.\n\n✨🍕Highly recommend the pizza, the dough was so chewy but crispy at the edge. Mona Lisa looked boring but trust me, it’s an impressive flavor, especially the mushrooms on the top.\n\n🍝Gnocchi we had was absolutely good. It was soft and chewy with elegant flavor. But the sauce was a little bit dull which was the part can be improved to build up layers of taste.\n\nAlthough we didn’t get the original tiramisu, I guessed it would be better than the amaretto one. I felt the taste was also dull and lack of depth. And because.. I’m a cream lover so for me the mascarpone cheese layer can be thicker."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEZzZEazR3RRAB",
+            "text": "A very nice Italian restaurant in LIC . Food are delicious, service are great, vibe is nice too. Both good for individual or group get together."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURidThEc2NnEAE",
+            "text": "Had a quiet birthday dinner here last week. Food was okay. Service and atmosphere was better."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwLU9mTUlBEAE",
+            "text": "Absolutely love this Italian restaurant! Been here over 15 times and it never disappoints. Manetta’s continues to maintain its quality of food and service. From their mouthwatering garlic herb focaccia and their scrumptious salads that look and taste like a work of art to their home-made, delicious pastas and brick oven baked pizzas, I have tried it all.\n\nHas to be one of my favorite Italian restaurants of all time in Long Island City as well as NY as a whole.\n\nMy top favorites for vegetarians like myself:\n- Della Casa Salad\n- Garlic Herbed Focaccia\n- Rose Fettuccine (unique and absolutely delicious)\n- Penne a la Vodka\n- Roasted Garlic Margarita Pizza"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGcy11T3JRRRAB",
+            "text": "This place was great!! First of all, it was so cold out tonight, entering the restaurant was immediately warm and cozy. Nice ambiance -kind of old school, classic Italian ny vibes. I got the pesto which was amazing. I ate every last bite, and I already wish I could eat it again. The fontina on top completed it 🤤🤤🤤. I also got the cocktail on special: pumpkin apple cider martini. Delicious!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROb0s3OURREAE",
+            "text": "Best Italian spot in LIC! Really liked their wood fired pizza and their eggplant parm was very good. Great portion sizes for a great price."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLbm9mSU93EAE",
+            "text": "Just had the Quattro Formaggi and it was mind blowing. Loved the flavor of the cheeses, the cream, and the perfectly chewy noodles. Some of the best flavors outside of Italy I’ve had in a while.\n\nAlso had the house cab and it was tasty. The cab was a somewhat light for my taste, but good flavor overall. And.... snuck in the flourless chocolate cake for dessert and i think I’m about to explode. Wish I could eat more though, sadly, will have to come back another time to sample the other wonderful dishes."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlM3RiZXpRRRAB",
+            "text": "Delicious food, old style Italian restaurant. Good Margherita pizza and chicken Parmigiana were excellent, a benchmark food of Italian restaurant. Ambiance, service, food all on point for this 5-star rating. Only gripe with this area in general is parking."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3N3UzczJBRRAB",
+            "text": "This place is AMAZING! Extensive menu for pasta, pizza and entrees. The pasta I ordered is flavory, unique and delicious. The mussels appetizer is also really good, with just the right amount of seasoning. An awesome restaurant and not expensive food. I will come back for its other dishes and try them out."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXZzZMaXl3RRAB",
+            "text": "Such a delightful Friday dinner at Manetta’s!\nWe walked in without a reservation and they kindly accommodated us.\nWe started with a bottle of Chianti and the burrata special.\nThen we split the gluten free carbonara and gluten free Bianca pizza. Both the gluten free pasta and pizza were incredible.\nOur friend enjoyed a glutenful salmon pasta.\nFriendly staff and warm atmosphere - they even had a gorgeous fire going on this cold winter night."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2aXFfUS1BRRAB",
+            "text": "Manhattan who?\n\nTake the 7 train one stop out of comfort zone and experience Manettas. Hands down one of the best Italian restaurants the boroughs have to offer. Their knowledgeable wait staff are able to help you pair your dishes, drinks, desserts and probably even your outfit for the next day. You cannot go wrong with any of the tried and true pasta dishes, mainly the Fettuccine Rosse or the Pappardelle Della Nonna.\n\nThe homemade desserts will leave you scraping the crumbs off your plate.\n\nGreat for anything from casual dinners to date night - Manettas does not disappoint."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2NFAzNDRBRRAB",
+            "text": "Absolutely perfect in every way. The food, the ambience, the service...the authentic Italian gem of LIC. So glad I discovered this restaurant. The staff are so kind and treat you with great attention and care. Each dish is impeccable. The…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVNk9MY3BnRRAB",
+            "text": "Our first visit was great! I loved the service and the salmon entree. The gnocchi was homemade and was delicious. We just wished there was more sauce."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaaWFhSVJBEAE",
+            "text": "Manetta's is incredible - I recently came to visit for the first time with my family and it was a great experience! Their staff are so kind + accommodating and the atmosphere is really lovely. The food is absolutely amazing - the Fettuccine Rosse was my favorite dish. I don't come to Long Island City often, but I definitely plan to return here when I'm back in the area!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2dWZXWEdREAE",
+            "text": "Never had such a great food. Best Service !! Best food in Long Island City !!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlaGN6RjB3RRAB",
+            "text": "I came here with a friend on a Monday, late afternoon. Our server Jose was exceptional from when we entered to the moment we left. Attentive, kind and great sense of humor. Next, the food was delicious! We had the eggplant rotini(?) - fresh and tasty. House salad with the vinaigrette, hazelnut and apple gave such a fall vibe. Delicious as well. The Mona Lisa pizza was also fresh and truffle oil was faint, not over powering. Chefs kiss! Also, lasagna on point too. Overall, lovely meal and day. Will be returning next week 😌"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNOHVlNExBEAE",
+            "text": "They don't serve Cacio e Pepe , still this restaurant rocks! I mean it , this is the best Italian food in LIC and for your Cacio e Pepe , you might want to go somewhere else , like ... Go to Testaccio , Rome .…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoM29UVFBnEAE",
+            "text": "I pass by this restaurant almost every day but last Saturday night I finally sat down for a wonderful dinner with my mum and I can say this will be one of my go-to Italian restaurants from now on. The service was great and the food was fantastic! I highly recommend the Baked Clams *chef’s kiss"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGNWNiS2NBEAE",
+            "text": "The staff couldn't have been nicer. The food came out at a nice easy pace so you could savor it. A great place to go with a group!"
+        }
+    ],
+    "reviews_count": 76
+}

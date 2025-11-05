@@ -1,0 +1,495 @@
+{
+    "name": "Nathan's Famous",
+    "place_id": "ChIJv58wAS5FwokR071pDE2VMIo",
+    "grid": "BK13",
+    "address": "1205 Riegelmann Boardwalk, Brooklyn, NY 11224, USA",
+    "rating": 3.7,
+    "user_ratings_total": 887,
+    "phone_number": "(718) 714-7207",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5a2JHUk1aM2RNVFRWM2RHTlBlRFEzTVdKRlVHYxAB",
+            "text": "The food was okay, we didn’t really find it to be anything special. When we got the food, the fries tasted as if they were sitting for a while.\n\nWe went on a weekend so the seating was packed, it was hard to find an available table. And nobody really goes around cleaning them, so if the person before you didn’t pick up the table will have their trash for you to clean."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkV2JqRjBNR05NU2twU1NIbG9aV1ZNVVdadmJYYxAB",
+            "text": "I was warned not to go, but I really wanted to experience the original Nathan's in Coney Island. I should have listened. We waited over 30 minutes for just a couple of hotdogs and some mac and cheese bites, which was baffling. After all that waiting, the food was completely subpar and a massive letdown.\nTo make it worse, we spent over $60 for this. It's not worth the time, the money, or the hype. You're just paying for a name. I would not recommend this to anyone. Save your money and go somewhere else."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FeVZ6ZG5PRUpQYVd0cFVrVlBZekZzYlRVNWQxRRAB",
+            "text": "Iconic really good food"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KaWVsaDNRMGR4YkhsS2NGbEdPSGR6T0RNeWNWRRAB",
+            "text": "Hot dogs are good!. Service as well. Expensive though…\nGray’s Papaya offers a similar experience and you spend half."
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjMWIxWnlWRk5YWmtSemRYZFJkbFozTjNGVVVFRRAB",
+            "text": "J’ai acheté un fried clamb sandwich boat à 22$. La préparation du sandwich a été minable. Il manquait la sauce et le coleslaw. Je suis allé le demander et j’ai obtenu des toutes petites portions de coleslaw dans des petits pots en plastique. Je n’ai pas eu des fruits de mer à la panure mais l’inverse. Je les cherche encore tellement il y avait de la panure. Aucun goût ! C’était même un peu aigre, peut être à cause de la friture ! Bref très décevant et un prix exorbitant pour la qualité de cette nourriture !! Avis aux amateurs ! Et le service après vente s’est fait en trainant des pieds ! Et dire que j’ai laissé un tip à 10% !!! Bref tout a été lamentable 👎"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paV2VHZDNZMEphTTBkWlRrTnJVbWhHZFd4VlJGRRAB",
+            "text": "Atención rápida y muy amables a pesar de estar muy concurrido. Muchas opciones de comidas y bebidas, lamentablemente nada sin gluten. Toilette muy limpios"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twaVJVWklZVVZ1VlVwRlVYUjJjRFo1YmpOa1NtYxAB",
+            "text": "Stale buns"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vNFFWbG1VSEZZVkVodFUycDJiamw2VVRSQlQzYxAB",
+            "text": "Average hot dogs. Fries are bad. Long waiting time. Very overpriced."
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkWlVGSjBTa2RJYWpSc1gzaDNaWGhPT0ZBM2QxRRAB",
+            "text": "Sólo por la historia del local ya merece la pena comer allí. Pero hay que reconocer que los hot dog estaban muy buenos."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201Zk5sSnVlamg0UVZOVk1HaHNibkJZWkZkQlZtYxAB",
+            "text": "Great one!"
+        },
+        {
+            "date": "4주 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOUVVYUmZkeTFRV2kxSE0zSXhhRlJCYlhkUFRFRRAB",
+            "text": "La location è stupenda, l'hot dog buono!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3MFpVaEVTVGhyUW04d04xUnBNRkJsVG10Wk4wRRAB",
+            "text": "Thisis a fast food place.\nFood is yummy. Vareity of topping for hotdogs are good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKNVlUWjFUelJwVG1wVldsSkJibU0wTm5CQlZrRRAB",
+            "text": "The food was terrible and the cashiers attitude was very bad."
+        },
+        {
+            "date": "1달 전",
+            "language": "cs",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KeVpuUnNXVzh4ZDNKSmVrMVJUM1JOU0VGYVEzYxAB",
+            "text": "Dlouhe cekani. Nakonec nekompletni objednavka. Hot dog byl lepsi ze stanku u central parku. Absolutne přeceňováná zalezitost. Nicmene Milk shake byl skvely"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4MVYxZGtTRlZPVEhCS1J6RnRaME5VYVVKV2VGRRAB",
+            "text": "This place been here for over 100 years!  That is saying something - get the Coney Dog and a beer and enjoy the boardwalk atmosphere!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xob1lVbFZMVkIxTUd4VlNYWjRVa1pOVmxrd1NHYxAB",
+            "text": "My dad and I have been to this place and that to order two hotdogs. The service was wonderful that there were many people on the line. The atmosphere is that this place is very famous because of the annual Nathan's hotdog eating contest there, and also that it was a nice sunny day."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xVVkydGlkVVZzUm5kaFExZFpMV05CTkVsWGMwRRAB",
+            "text": "I don’t know why people have negative things to say about such an iconic landmark. The $5.99 hot dog was, in my opinion, reasonable for being such a tourist attraction. The hot dog was big enough and tasted great."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSd2VrczNlVE5pT1d4VlFXMWthM0ZqWm1kNlVFRRAB",
+            "text": "El hot dog estuvo bueno pero no hay gran diferencia. Quizás agregarle el chili o queso para algo distinto. No tiene muchas mesas para comer en el sitio."
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paMVF6ZGxTblJpWTNWdlFtUmhhMkZ2UzFOM1dIYxAB",
+            "text": "Hamburger e hot dog top. Salse a libero consumo, tavoli vista oceano . Servizio un po’ lento"
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psdE0yZEtMVkpwUlhWVlNqbERTVTV3VVRGMFgzYxAB",
+            "text": "Non lo so, sinceramnete avevo alte aspettative che però sono rimaste un po' deluse, mi aspettavo qualcosa di memorabile, alla fine sono classici hot dog, cioè buoni ma non partirei apposta da Manhattan per mangiarli. Servizio un po' svogliato nonostante non ci fosse molta gente."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaWlpqUTRVelpTYURKd1YzTmhjMjU0WlVwcFozYxAB",
+            "text": "I had onion rings and they weren’t that bad."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSd2FUWTBja0UwYTNRNGJtaFpPVXBZVjBaaExVRRAB",
+            "text": "Had a chili dog. Was done perfect and tasted just how I remember.\nAlso had a steak and cheese hero. Almost couldn't finish it but it was so good I had to!"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GSlkxOUxhM2xLWlRSZlpTMW1TRFpLT0hGSlFXYxAB",
+            "text": "Irrinunciabile un hot dog a Coney island."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZeVBhMFV3EAE",
+            "text": "Love their Hells Kitchen burger. The best item in their menu. Yummy.\n\nBeer pricey.\n\nWish more seating but can take your food to a boardwalk bench if can find one empty.\n\nRecommended."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twUE1WZE5SR1pLZW10VWNXTlljVkYxVWpKdWRYYxAB",
+            "text": "Mal servicio"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKa05qUnNYMWxZZDA5aFJVczJZVGxXTkdVMmVuYxAB",
+            "text": "Coney Island is a must-see for anyone who wants to really experience New York. It’s also a must to taste the famous hot dogs, born here more than 100 years ago. My expectations were high, and I have to say the experience was positive: tasty hot dogs and excellent fries. Recommended!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1VWQyaGhRalJ5Ym10TWQwTnhTVk5NWTBsTFNGRRAB",
+            "text": "Yeah, I know everyone goes here. And some people think the hot dogs are a little on the skimpy side, but true Frankfurter lovers will appreciate the taste of these dogs. And what an iconic location, right on the boardwalk with picnic tables protected from the sun's rays by yellow Nathan's umbrellas. My buddy got a dog, spicy chicken sandwich with Nashville hot sauce and onion rings. The rings were a little lukewarm but he reported everything else was certainly up to par!"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5bVZYcFhXbk5yYVdacU0zYzBXVE5UZFhOek5tYxAB",
+            "text": "Cibo molto buono, ho amato le patatine fritte (sembrano poche ma sono enormi). L’hotdog è classico e va assolutamente provato. Inoltre di fianco al locale ci sono dei tavolini in cui potersi sedere che sono perfetti per quando c’è una giornata di sole"
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnNGFUbFhjbGs0VHpsSlpXMVNVRUY1UkZoRlIzYxAB",
+            "text": "Très bon hot-dog ! (Un poil cher, mais à goûter au moins une fois)"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNlQxZDNUbkp3ZDBKbldGTjJTbHBwVm1WdlVVRRAB",
+            "text": "Can be slow, long lines, and a little pricy for a hotdog but it’s convenient"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0dlJqaFRNVFJwTjBGaFJuTndaWGhaWDNGMk0xRRAB",
+            "text": "The hot dogs weren't bad and milkshake is pretty good, a bit overhyped!!!\nI was expecting a lot more than your average hot dog. It's a great atmosphere though down by the beach."
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMGRVTjBWM05RUTFkWVRVb3pNbFpQYVdobGJHYxAB",
+            "text": "Très bon endroit pour se restaurer rapidement. Des tables sont disponibles aussi à l’extérieur. Large choix de plats et boissons 🥤"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CMFgwRmtVRFpoY0hCeE9XMWtVRTk1ZGxSYVNrRRAB",
+            "text": "Nothing beats eating a Nathan's Hot Dog on the Coney Island Boardwalk in summer. Well maybe riding the Cyclone after ... If you dare!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OUFMybDZOekY1Y0dGZk4yVjFPRkEyWVZjMmVGRRAB",
+            "text": "I haven’t been at Coney Island in a while, so I was excited to eat at Nathan‘s hotdog again… the pricing is understandable because of where I’m at, but charging that price and it being a regular hotdog and not that Nathan’s hotdog is disappointing."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONWJGQmFSbFk1YlhGNGJVdFBkRXBMYUZSWFNuYxAB",
+            "text": "El mejor pancho de la vida"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKSlJrY3lVa1F4U0VwaFVVSnBkRGR3UlhFNFVYYxAB",
+            "text": "Per me è sopravvalutato, comunque il servizio è veloce e ben organizzato. Siamo andati in un sabato di agosto e nonostante ci fosse un bel po di gente, ci hanno servito il nostro hotdog in 10 minuti"
+        },
+        {
+            "date": "2달 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsUU1UbG1ObXBxTkVsM1pUUlJiRXR3ZUhkaWVIYxAB",
+            "text": "특별함은 없지만 먹으며 기분 내기에는 최고입니다.\n머스타드와 케첩을 미친 듯 뿌릴 수 있습니다.(칼로리 폭탄)"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taeVlVeFZiMVZpVG5OYVdtbDRibXBsZDI1VlFWRRAB",
+            "text": "We had such high expectations for visiting the original Nathan’s Famous in Coney Island, but sadly left very disappointed.\n\nThe hotdogs were small and overpriced—over $5.50 for something that felt more like a snack than a meal. For comparison, a regular Nathan’s hotdog is about a quarter of the size of a Costco hotdog (which includes a drink for $1.50!)—and Costco’s tastes much better too.\n\nThere are several ways Nathan’s could improve the experience: offer larger hotdogs, use better-quality bread, provide more complimentary topping options, and ensure cleaner, more comfortable seating for customers.\n\nWe’re glad we checked it off our New York to-do list—but we definitely won’t be returning."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pscVVXSlJhbWs0Tm1WTVRHNXpZemRqVldveVMwRRAB",
+            "text": "Difficult to find a place to sit to eat.   Corn dog bites vs chili cheese fries were delicious!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSa1JXcHRhM0JmUW10RlpVNVBkVzVhYzB0S2MwRRAB",
+            "text": "Worst \"food\" on the planet!!! Never go there!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21keU4zZEpSbmhwY1hGeU1YUnNXV1ZJVERWNlVYYxAB",
+            "text": "Went here on national hot dog day. They had 5¢ hotdogs. Staff was great. Food was good"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjNVRtOTRiVkZoZUVGaGJIZzNiVUpSWjBkTmFFRRAB",
+            "text": "This place is popular due to excellent promoting. It's a hotdog. A little tastier than the ones you might find at your local market, but not that big of a difference to really get excited about. Eat it for nostalgia."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wR09HeEtPSEZRZDNvMFlqZGtOV1UxTldWSFpIYxAB",
+            "text": "I got their famous classic hot dog and the bacon one, with fries. I wasn't that into it."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214U1owcG9kWEZCY1VnM1puRXhVMlJ2WkhOemVWRRAB",
+            "text": "I tried their famous Nathan's hot dogs, but wasn't impressed. Overrated in my humble opinion.\nQuite small hot dogs, tasteless, not even warm, each costs $5.99.\nSame goes for jalapeño fries with bacon, too greasy and small portion.\nTheir soft drinks are expensive, up to $4.99.\nWaiting time on summer weekends goes up to 15-20min.\nSeating area is usually packed.\nThere are much better food options in Coney Island for the same price."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWlprbElaa1EyZVU0M1ZXaHdWa05NVjBkR1lXYxAB",
+            "text": "Lindo! Fuimos a almorzar, la comida no es nada de otro mundo, los hotdogs son chicos, las papas fritas están bien. Lo mas lindo de ese local es la vista y las mesas frente al mar. Precios elevados justifican el lugar"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3M19mOEl3EAE",
+            "text": "역쪽에 있는게 본점이고 여긴 비치 앞이라 사서 바로 해변 좋아요. 오리지널은 진짜 빵에 핫도그만 나와요ㅎㅎ 그래서 칠리치즈핫도그도 시켜봤는데 치즈가 느끼해서 오히려 오리지널이 맛있었어요.\n여긴 치킨텐더가 진짜입니다....!! 사람들 먹는거보니까 훨씬 더 컸어요ㅜ 촉촉하고 짭짤하니 진짜 맛있어요.\n코니 오시면 핫도그랑 치킨텐더 드시고, 여유 되면 어니언링도 추천합니다ㅎㅎ 앗 그리고 키오스크보다 사람이 직접 주문 받는 줄이 훨 빨라요!"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlXzdtbFNBEAE",
+            "text": "코니아일랜드 스타일의 핫도그라고 했는데 그냥 무난무난햇지만\n가격은 사악함 바다보면서 간식먹기에는 굳"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOT3E2cW03OHRud1dnEAE",
+            "text": "Famous board walk never fails. Great service, music, and tasty eats. I grabbed their great values authentic Nathan fries with barbecue sauce. They have plenty of selections including a catch of the day seafood menu!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMZTM4NWpGMWFLMTV3RRAB",
+            "text": "We really enjoyed our stop at Nathan’s Famous Hot Dogs on our trip to Coney Island. The line for food is pretty long all the time but they do have a self service screen with a different queue - this is much quicker and great if you just want hotdogs/sides.\n\nIt’s all made fresh to order and tastes great. It’s a must-do if you’re popping to Coney Island, I LOVED the onion rings!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WdmJXTm5TSEZKZVhGT09UVmpjamROVFZCQlFuYxAB",
+            "text": "Pro tip: theres a self order line that gets super long and everyone thinks you need to stand there for hot dogs. Go to the regular line you can get dogs there! We did and it was very quick! On the 4th of July! Hot dog was just fine, the fries were very good. Would come back for fries"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPRHdfOV9DaXZidXF3RRAB",
+            "text": "Yesterday, we tried burgers, fries, and shrimp here. And, we loved it,\n\nThe burger was just perfect. Just the right amount of everything, right meat and greens.\n\nOrdering was easy and quick. Wait-time was just a few minutes.\n\nWhat deserves a special mention?\nTheir menu is rich, and there's something for everyone. Whether you are a meat lover or vegetarian, you're not gonna be disappointed. Price is also reasonable.\n\nWhat could be better?\nNothing, they are doing a great job."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZNXEtaTBRRRAB",
+            "text": "Nathan’s Famous, a Coney Island icon since 1916, delivers a quintessential boardwalk experience. Known for its legendary hot dogs, the menu also features juicy burgers, crispy fries, and fresh seafood. The vibrant atmosphere, with its retro signage and bustling counter, captures the spirit of New York’s seaside tradition. A must-visit for classic American fare with a side of history!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGNVJGZE5RM0ZUY0ZWRFIxUk1VRGhCZERSa05VRRAB",
+            "text": "The fame is what drew me.  The food is terrible!!\n\nIf your nostalgic about have a famous Nathan’s hotdog on the board walk.  Give it a try!\n\nIf you’re looking for good food try something else!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "pt",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VLeVFfTnpzd1ltbzZBRRAB",
+            "text": "Achei o restaurante ok, é isso. Claro que é um restaurante americano de fast food, mas não dá para ser mais do que isso.\nChegamos cedo e estava sem fila. Apesar disso o pedido demorou para sair. Pedi uma porção de batata frita normal, e parecia que eu estava comendo batatas murchas. Estavam bem molhadas de óleo e nada crocantes. Os preços dos lanches também eram um pouco acima da média, mas entendo que o motivo é a localização.\nO atendimento foi bem devagar.\n\nComi aqui por falta de opção mas deve agradar algumas pessoas. O restaurante tinha mesas externas para sentar, era uma boa opção no sol forte."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZc3ZxN1RREAE",
+            "text": "We took hot dogs and cheese fries and honestly it’s nothing special, the fries are not very tasty and the waiting for the order to arrive is too much for a simple hot dog."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvMWZ1dnVRRRAB",
+            "text": "Nathan’s at the pier was a disappointment. I waited 45 minutes for my hot dog. After all it was salty and the fries soft and tasteless. I suggest to go to another place there. The location is nice though, right at the pier."
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3bThLOVpREAE",
+            "text": "Nathan’s Famous a Coney Island è un luogo che porta con sé una lunga storia, essendo il creatore del celebre hot dog newyorchese. Tuttavia, quella che una volta era una tappa obbligata per chiunque visitasse Coney Island, oggi sembra aver perso gran parte del suo fascino originale.\n\nL’hot dog, al costo di 7 dollari, lascia un po’ di amaro in bocca. Considerando la qualità complessiva, il prezzo risulta eccessivo e ingiustificato. La fama di questo posto non si traduce più in un prodotto che valga davvero la spesa. Ci si aspetterebbe qualcosa di più, soprattutto da un locale con una tale reputazione storica.\n\nPurtroppo, Nathan’s è diventato ormai una meta prevalentemente turistica, dove si paga più per il nome e l’esperienza di dire \"ci sono stato\", che per un pasto davvero memorabile. La qualità del cibo sembra essere passata in secondo piano, il che è un peccato, considerando l’importanza culturale e gastronomica che questo locale ha avuto nel corso degli anni."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOa1ltbzNOMmhPUkUxQ1JHOHlOMHhJU0ZaU2IwRRAB",
+            "text": "Part of the joy of visiting Coney Island and Luna Park in Brooklyn New York, is grabbing a couple world famous Nathan's hot dogs on the Boardwalk. The very best dogs, in an iconic setting!"
+        },
+        {
+            "date": "1년 전",
+            "language": "fr",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYaDh5TXl3RRAB",
+            "text": "Heuuuuu... OK, commençons par les plus ! Coney Island j'adore !!! Dès qu'il fait beau à NY je file là-bas (c'est direct en métro). Et je vois des gens se ruer chez Nathan's. Et bien autant que possible essayez une autre adresse car après une longue attente pour commander (commande sur tablette ou en direct), vous découvrirez une cuisine très moyenne. Je n'ai absolument pas aimé les fameux Hot-dogs et le plat de poulet n'a pas eu plus de succès. Bref, ça dépanne, c'est extrêmement bien placé et puis c'est tout. Bonne balade."
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6MnNhMXdnRRAB",
+            "text": "Hot dog chili cheese pazzesco!!!!!!!\nPeccato che sia un po' troppo piccolo..... Ne avrei mangiati 3!!!!! Locale di fronte alla spiaggia di Coney Island, non fatevi spaventare dalla coda perché sono molto veloci (una per ordinare su pc ed una direttamente agli operatori)."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwak8ycThRRRAB",
+            "text": "Title: A Classic Bite at Coney Island's Icon\n\nReview:\n\nOn a sweltering summer, my wife and I visited Nathan's Famous Boardwalk Stall at 1205 Riegelmann Boardwalk in Coney Island. The stall was crowded, but we only had to wait a few minutes to order.\n\nWe ordered the legendary hot dogs, crispy onion rings, and cheesy fries. The hot dogs were delicious, and the onion rings and fries were perfectly cooked. The staff was friendly and efficient.\n\nOverall, we had a great experience at Nathan's Famous Boardwalk Stall. The food was delicious, the service was good, and the prices were reasonable. We would recommend this place to anyone visiting Coney Island."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyb05qOF9BRRAB",
+            "text": "Had heard all about Nathan's Hot dogs and my experience wasn't all it cracked up to be. Hot dog was good just nothing amazing or ground breaking. Staff looked like they wanted to be anywhere else and were quite unhelpful bar one member of staff I believe Dania? Who helped answer some questions for me.\nCan't beat the location though"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyaC1feC1BRRAB",
+            "text": "The hot dog is very good. The fish and chips were soaks in oil, and the fries were overcooked and tasted, not fresh.\nThe atmosphere in the boardwalk is always great."
+        },
+        {
+            "date": "6달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvdW9PQzR3RRAB",
+            "text": "Impossibile non notare la sua vistosa insegna sul lungomare di coney island.\nIl must è l’hotdog, ma il menù comprende tantissime altre alternative. Prezzi contenuti."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMX05EY3NBRRAB",
+            "text": "Nathan's Famous Hot Dogs in Coney Island is a true institution, not just for New Yorkers, but for hot dog lovers everywhere. Located on the corner of Surf and Stillwell Avenues, this legendary hot dog stand has been in operation since 1916 and continues to be a must-see for anyone visiting Coney Island. With its historic charm and unmistakable flavors, Nathan's Famous offers a dining experience that goes beyond just a meal.\n\nFood Quality:\nNathan's hot dogs are renowned for their superior quality and delicious taste. Made with a secret recipe that has remained unchanged for over a century, their hot dogs are juicy, flavorful and with that perfect combination of crunchy on the outside and soft on the inside. Classic accompaniments, such as mustard, ketchup, onions and sauerkraut, further enhance the authentic flavor of these iconic hot dogs.\n\nMenu variety:\nIn addition to the famous hot dogs, Nathan's offers a wide range of typical American dishes. Among these, chicken nuggets, burgers, fish and chips and cheese-covered fries stand out. The famous “crinkle-cut fries” are a must-try, crunchy and perfectly salted. For those looking for something different, the menu also includes delicious fresh seafood and fish sandwiches. There is no shortage of sweet options, such as classic ice creams and milkshakes.\n\nAtmosphere and Environment:\nNathan's location in Coney Island adds a unique charm to the dining experience. The venue, with its vintage look and illuminated signs, evokes a sense of nostalgia and tradition. Eating a Nathan's hot dog along the famous Coney Island boardwalk, overlooking Luna Park and the boardwalk, is an experience that perfectly captures the essence of this historic beach destination.\n\nCustomer care:\nThe staff at Nathan's is efficient and friendly, despite the high volume of customers that crowd the place, especially during the summer. The service is fast, even during the busiest moments, thanks to well-organized management and a streamlined order system. The staff is always ready to answer questions and offer recommendations on dishes on the menu.\n\nPrice:\nNathan's prices are reasonable and accessible, considering the quality of the food and the historical importance of the place. The hot dogs and other menu items offer great value, making Nathan's a convenient option for a tasty meal in Coney Island."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsdnRlc3pnRRAB",
+            "text": "I had never been to Coney Island before, but somehow it felt nostalgic. Waited in line for a classic Nathan’s hot dog. They menu actually had a lot of options, but I went for the classic. The best part is finding a shady spot at a picnic table and enjoying your hot dog in this atmosphere. Would definitely recommend."
+        },
+        {
+            "date": "3년 전",
+            "language": "it",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1ejc2RGxnRRAB",
+            "text": "Eravamo a Coney Island e abbiamo deciso di provare i loro famosi hot dog. Devo dire che sono buoni, anche se non indimenticabili, mentre le patatine sono davvero gustose. Il servizio però è lentissimo e un po' confusionario, attesa in fila di oltre mezz'ora. Poco personale presente e molto lento nell'evadere  gli ordini. Rapporto qualità prezzo nella media per New York."
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNINk9YT3p3RRAB",
+            "text": "Il luogo è veramente caratteristico, vicino alle giostre del Luna Park, sembra di essere in un'altra epoca! L'hot dog è buono, 6$ per un hot dog classico senza nulla, 7/8$ con aggiunte. Servizio veloce vista la coda lunghissima di persone"
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqeXVTQWZREAE",
+            "text": "Vai a fare un giro a Coney Island vuoi non provare gli hot dog da Nathan's? Ammetto di aver ragionato al contrario in verità. Hot dog buoni ma sono pur sempre hot dog. Semplice come deve essere. Ambientazione un plus. Contento di aver fatto un giro."
+        }
+    ],
+    "reviews_count": 69
+}

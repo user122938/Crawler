@@ -1,0 +1,593 @@
+{
+    "name": "Stamatis",
+    "place_id": "ChIJl8zvTF1fwokRGKyptukvIhE",
+    "grid": "QN1",
+    "address": "29-09 23rd Ave, Astoria, NY 11105, USA",
+    "rating": 4.6,
+    "user_ratings_total": 1949,
+    "phone_number": "(718) 932-8596",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1UllYQnBlWEl6Umtsa2JIaDBUbk5SWjFCbk0zYxAB",
+            "text": "Place has strange smell, might be due to ventilation not working properly (or some cleaning is needed at the far away sitting area)\nFood is not the best quality\nService was ok.\nWill not come back."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0alpGbzJlREJ4ZVZCS1F6UTBjM1JKUldReWJVRRAB",
+            "text": "On the one hand, the service at the restaurant is great, and the food is delicious. On the other hand, whenever you order something from home, the kitchen does not do their best to bring you the exact food which you ordered. I wish the manager did something about it so there would not be any complaints."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210aldGSnBXRkJWYVdSTVprNXRUMmhOY2xWWlNFRRAB",
+            "text": "Great food! The grilled fish was amazing! Great service. Wine was just ok. Crowded and busy, but friendly vibe."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OeWJWVk9URWhyZVROaVpWaHhkekZSY0drM1lrRRAB",
+            "text": "Excellent greek food!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VMFIwUkxNamxyYlRoUFUyVjNZazB4Ym01bllXYxAB",
+            "text": "Great  i enjoyed the food."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xONmFrbE5UbXhOYkdWSVgydGFhbU5MVG5oNU4wRRAB",
+            "text": "We dined a few days ago at this restaurant. The food was decent, but not exceptional. The appetizer, in particular, fell short of our expectations. The calamari was bland, and the Greek salad was mediocre. We tried the pork souvlaki, which was seasoned perfectly. The rosasted chicken was good, but it was a bit dry on the inside. However, the branzino and lemon potatoes were very good.\n\nThe service was not attentive, but it was not bad either. For a place that is supposed to be a staple in Astoria, I was expecting much better. In my opinion, there are better Greek restaurants in the area."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkdmVqZFVTVXBHTW5sUVFrMUpiekZMZFRVMWVHYxAB",
+            "text": "Always my favorite Greek restaurant to go to when I visit Astoria. Food is amazing"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzNFNISnhVMGRIVTNWT09GQkJNekpHUXkxR1duYxAB",
+            "text": "I have eaten in Stamatis for 15 years it's the best Greek restaurant in Astoria"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Wb00zaFJOMFZYTkMxMVRIRnVRM1pIWmtoQlNHYxAB",
+            "text": "Another great place to have Greek food in Astoria.  Helpful and attentive staff and good food, reasonably priced."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGc2J6QnhTMWR5WTNWbWRUQnVhbkpYYjBwVE0xRRAB",
+            "text": "Very good"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SbGMyaHVjM0pCUlhKc01sRmxUVXh3UjJ0RFZFRRAB",
+            "text": "Amazing food, worth it. Moussaka is epic, lemon potatoes delicious"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZNWN6WnBVMkp5TkRVMFUydDRTbUp6VGxOTlZYYxAB",
+            "text": "We had a great meal. Food quality was wonderful."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4WlFXSnRYM0Y1Y3pKRWFVNVFVbTFmWWpOSk5HYxAB",
+            "text": "Good food and nice ambience, referencing more modern Greece than mythologized ancient Greece. Clean bathroom and seating al fresco in season. Nice atrium in the rear dining room. In September 2024, Queens Libertarians hosted Larry Sharpe at this location."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xabWREZzBjRTltVjJZelQweHFPVTlyY21SRFRHYxAB",
+            "text": "We have come to love this place but tonite….kept having to shoo knats from our plates, bread was cold, lemon potatoes cold and probably cooked yesterday from the taste, l, peas and artichoke cold…on all very disappointing."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GaE5qaEhjRWgzV0VSMFNGRlpTMFZoYlVjMlNFRRAB",
+            "text": "Niceeee"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CUlJrNWZZMGRhUmt0NldWSnVaa1ZuYWxOb01IYxAB",
+            "text": "I love their spinach pie and lemon potatoes!! Every time im in Queens, I always make sure to stop by."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKNVJURlJWazlGV2tWcVNXYzFlR2t6ZGxWR1ZYYxAB",
+            "text": "An unforgettable dining experience! The flavors were authentic and vibrant—every dish felt like a trip to the Mediterranean. The staff were warm and welcoming, and the atmosphere had that cozy, seaside charm. Highly recommended for anyone who loves genuine Greek cuisine!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WWU0xWXhWMDkwV0ZnMVRtZDVWM0JoVWxGVk5uYxAB",
+            "text": "Can’t say much more than this place was fantastic. Get out of manhatton. 20 mins. Loved it here."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213NFRXcFpkRTVpV1VGU1p6ZzViMFZrWkdwSU5WRRAB",
+            "text": "It was so delicious!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zemMwbEhkbTVoTFdaMFNrOUVPV05YVFhaeFlWRRAB",
+            "text": "We stumbled upon this place and the food was absolutely delicious. It has an old school, no frills vibe about it with very friendly staff and family friendly environment. I’d highly recommend this place for anyone looking for delicious Greek food. We’ll be back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214eVR6Z3dXV3R0UjJGcUxXZElSMWhLVjNoWlRGRRAB",
+            "text": "Haven't been to this place for a year or two. We returned to find Michael, who served us last time, with the same brilliant service and attention to detail. Really appreciate the consistency both in food and in service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGV1pVeDVkRlpKUmpoaWRIQmlaVEZSZEc5bU4zYxAB",
+            "text": "Excellent food and service. Highly recommend."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SWlJYcFpURTQyUzE5alJ6TkZjMjh6T1c5cFkwRRAB",
+            "text": "29373883/10 no notes. the meat stuffed peppers 🥺🩷 so comforting and sooo tasty!!!! impeccable vibes, everyone was so nice!! great dessert. get a glass of wine too (apparently this is a hot take but i thought the retsina was fire!!!) i wish i lived in astoria so i could come back more often :("
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZelNVOW9VVlJXWVUxNU0xQkdWMFYxZW1ScVkwRRAB",
+            "text": "Excellent food and very friendly  staff"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2podFZUbEZha0pxYzAxd05sSnVWekZ1TFdzdFJIYxAB",
+            "text": "Good food and fast service. The only distraction is the loud environment when dining during peak times. Otherwise, great value and quality of food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vME15MTRlRTAyVUdRMWVtNDJWbkkxZVhCcVEwRRAB",
+            "text": "Servers never checked on us, we had to ask for more water, replacement silverware and share plates, when there was a spill at the table while our orders were being taken the server didnt give us a towel or assist with the clean up.\n\nFood is very middle of the road, not good, not bad, under seasoned, very large portions. If you enjoy quantity over quality go for it sure its not my thing when I go out to have a good time.\n\nHad the Greek salad, sausage, calamari, moussaka, and the branzini, just meh across the board.\n\nThere were a lot of flies in the restaurant, the olive oil and vinegar are cheap store bought brands (still in the store bought bottles, with no caps our pouring spouts), the wait time to take our order and the wait for our food was long (it felt like 30 minutes before we got appetizers)."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pneFdrY3RhazlKZWpaRFZFTkVhMjVOU1RKNmJtYxAB",
+            "text": "The best food ! Branzino is the best !! Everything is so delicious 😋"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTWRVeFVRMlpxT1RSM1lVTk1jRGRtVTBaMWJtYxAB",
+            "text": "Wanted to try a Greek spot since I'll be vacationing in Greece soon. The food was ok; Once we made our orders and received our food that was it. Our server never came  back to see if everything was OK. We sat there about 15- 20 mins after eating, just waiting for him to check on us so we could ask for the check.\n\nAs my boyfriend was about to get up to go inside (we sat outside) for the check that's when he came (assuming he saw him,getting up). I don't know if I would resturant I didn't feel the service was customer friendly."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GTFFqaHdXa0YzY1VOVVpITjZXa3RaZEdKcFZFRRAB",
+            "text": "Unfortunately, an excellent restaurant has become something not worth returning to. For us, it was the best Greek restaurant in the area. We recently visited, and the food wasn't up to par with all the previous years we'd been to and praised this place, which we'd recommended many times. Now we haven't been back, nor do I think we ever will. It's a great shame."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wSFYwcE5VVlpGZFhNM2NUQkNNVnBRWTJaeFZHYxAB",
+            "text": "We had a lovely dinner outside and enjoyed some delicious Greek food."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkRk1GVmhVMWN5VVhWSmNGVTBhbTF1WjBsdVVVRRAB",
+            "text": "Amazing food and great service!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWNGFXMXVRMDU2VVVsb2QweDRjakoxWVRaQlVGRRAB",
+            "text": "If you're looking for great seafood, you should try here. I really appreciate the staff, especially Michael; he was very polite and helpful."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKRGIwOTJTRjlpV1ZKeldUVk1YM1oxZGpGS2NrRRAB",
+            "text": "Nice place with cozy feeling and many tables.  Waiters are nice and food is tasty .  Unlike other restaurants, here looks to be healthy Mediterranean"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMlJFMXdkRjlIVURSQlN6WnBTRXh6ZGt4YWJsRRAB",
+            "text": "Hands down the best Greek food in NYC. I would eat there every day if I could. Love their branzino, antipasto, Greek salad and all their veggie side dishes. The included dessert is so so yummy. Highly recommend!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214ak9XWmhOVjlWVUVKdVdHOXphV3hMTURWT1IyYxAB",
+            "text": "We ordered the dips combo appetizer and the seafood combination.\n\nDips: dips were good, though the skordalia wasn't as garlicky as I like. The baba ganoush & tzatziki were very good. I wish they provided more pita bread.\n\nSeafood combination was a huge miss and I do not recommend ordering it. Everything was overcooked and it did not have much flavor. Our side of lemon potatoes was very good.\n\nThey provide complimentary Italian bread and dessert, which was delicious. I also appreciate that they bring lemons to the table - great for lemon water or to add more flavor to your dish.\n\nNote: they charge a card fee of 4%"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkSlQxOVpjMHN3VWpGeExXMU1ZM1ZpYmtoUmRuYxAB",
+            "text": "The last time I visited Stamatis was 15 years ago.   It is now 2025.  My friend never forgot the Lemon chicken and potatoes.  Surprisingly, parking was not too hard.  One of our party was as Greek as can be.  We sat in the covered garden.   It was very pleasant.\n\nI wanted an Octopus appetizer and we got a plate of Tzatziki Dip with Pita bread.  They were amazing.   I had shrimp with mushrooms, my friend had the lemon chicken and my Greek friend had Pastitsio.   The proportions were huge. Everything was so good.\n\nAfter 15 years, there were some differences but it lived up to our expectations.   The wait staff was good.  The bathrooms were clean.   The men's room would have been impossible for a handicapped person to use.  So go before you arrive if disabled.\n\nThey offered a free Greek Dessert.  Just the perfect touch to end a great meal.   Astoria has changed dramatically in 30 years.   Stamatis retains the charm of Greece.   Thanks for a wonderful time."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poMFJWaElWakIxVmt4UFlXUjJaV0UzYkdOZlRXYxAB",
+            "text": "My sister and I have been to this place, and that the food there was wonderful this is because tried the Greek food for the first time. Both of us ordered grilled octopus, stuffed peppers, eggplant paputsaki, and many others. The service was fabulous. The atmosphere was that there were people there and ordering food."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SelpsQnZVelpyV21WdExVUndjVFpmVVdkSlVuYxAB",
+            "text": "Food was authentic Greek. Not dumbed-down at all"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WTlNXcDJZMlJUVkhaRWFsUjJWbm8xY2tsVlJYYxAB",
+            "text": "Thank you Michael and George for the hospitality! We’ll be back"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOMVMwbzFWRmxEWTFSMFdEZExaVFZ6UW1GTlYzYxAB",
+            "text": "Incredible service and food"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4NU1uZG5OM2RQVG1wSGFITk1jMFJITmt0V1kyYxAB",
+            "text": "Great options as a vegan. Large range of vegetable dishes on offer and generous portions. A member of staff was extremely helpful, walking us through all the options then finding us as we were leaving to make sure we had a vegan dessert too. Thank you so much, food was delicious!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WMU1WWnBkSEYxUnpWMVVWRTNMWEExU1VjdFIzYxAB",
+            "text": "Excellent food and great service! Portion sizes are big, got a lot of leftovers!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVdFgzZDBlV2RVVjBzM1ZFbHVSRlZRUTFORVpYYxAB",
+            "text": "Food was out of this world, had the Greek salad, fried zucchini chips, octopus, the only downside was we were seated the furthest from the split units and it was boiling hot and I was sweating the entire meal, making it not pleasant, the temperature inside was closer to 90 degrees on a summer day."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSVpEaGFibDl2V1VKSmEwUmtja05LUVU5c2RrRRAB",
+            "text": "Good fresh food  ser.great"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201aU1rUkJWek4xWldGRGJFSmxUVmRDZFVwVFkzYxAB",
+            "text": "I went to Stamatis with my family last week. The food was awesome and so was the atmosphere. The service was just okay. What really confuses me is why they allow a woman with a baby and another child to walk around the restaurant and harass people trying to enjoy there dinner by attempting to sell candy. That is very uncomfortable for the customers, unprofessional for the restaurant to allow it. This was my third time here in about 5 months and every time I've had the same issue. Apparently its an ongoing thing that the Stamatis staff allows to happen."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kamFHVkZVbTR3TUVobFZFMVdXbDh5ZGpaSFkzYxAB",
+            "text": "Sat outside and a pleasant 4th, served my Daniel which spoke Greek and is a plus. Great octopus, tzatziki, hot pita, Greek salad. Perfect hospitality. Very friendly and talkative. Love Astoria and found my new place to eat. Good job Daniel. With love from Boston."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNNWNVeG9iWE51VUVkclN5MWpabUp2Tm1GRU9GRRAB",
+            "text": "The most authentic Greek place I’ve been in Astoria (and I’ve been here for almost twenty years, so that says something!) don’t know why it took me so long to get here but I’m glad I’ve made it. Unpretentious and most delicious traditional Greek dishes. They also give you super yummy custard dessert for free in the end. Thank you our waiter Michael for wonderful service. We will definitely be regulars from now on."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KMU5HNUJOalIxT0RWWVpsOVFMVjlYYkdOWGFYYxAB",
+            "text": "I usually do take out.  Amazing place for home-cooked- like meals.  Best place for “tis oras”"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKWGIwNWZTMkY1VUVSMFRYZHRNWFZUZUVoQ1RuYxAB",
+            "text": "The best hands down, if you haven’t been you better get here."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKeWFXdHVOelpEVGpGcVVuaGpkVFoxTmtoQ2MyYxAB",
+            "text": "Great food! Only complaint…they no longer offer the vegetarian pasta with broccoli & pignoli…ordered it and came out with a very different dish…should have advised us upon ordering it’s no longer available…kinda ruined it for us"
+        },
+        {
+            "date": "6달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMkx1OXl3RRAB",
+            "text": "음식 맛있고 친절해요.\n오징어 부드럽고 맛있습니다.\n어린양고기 도 좋았는데 씨푸드콤비네이션 은 다 같은 다진양념?을 넣어놔서 각 해산물에 본연에 맛을 느끼기는 좀 어려웠어요.\n그래도 잘먹고 나왔고 또 방문 할예정."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnZ2FqN1JnEAE",
+            "text": "This is one of best restaurant. 분위기와 맛도 괜찮아 부담 없이 즐길 수 있는 곳이다"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WNWVUSXdjbk5YYld0RFlXMUNNRjl1YUdvM05VRRAB",
+            "text": "From the moment we walked into Stomata’s, we knew we were in for something special. The atmosphere was absolutely incredible—warm, inviting, and full of vibrant energy. The ambiance alone sets the tone for a perfect night out, whether you’re with friends, on a date, or just enjoying good food in a great setting.\n\nNow let’s talk about the food—every bite was a masterpiece. You can truly taste the care and quality in every dish. From the appetizers to the entrees, everything was fresh, flavorful, and beautifully presented. It’s the kind of meal that makes you stop mid-conversation just to savor the moment.\n\nBut what made the experience truly unforgettable was our server, Niko. Hands down, the best in the world. Niko was not only attentive and knowledgeable about the menu, but also brought such a genuine, friendly vibe that elevated our entire night. He made us feel like VIPs, and it’s clear he loves what he does.\n\nIf you haven’t been to Stomata’s yet, you’re seriously missing out. 10/10—can’t wait to come back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLR1VscXp5azgtV09REAE",
+            "text": "Their grilled octopus is perfectly grilled and certainly tasty😋😋😋.  My guests ordered the exact same dish and enjoyed it.  The rice that went with the grilled octopus entree looked appetizing.\nTheir huge beans with tomatoes were delicious😋.  So was the complimentary bread and dessert😋.\n\nToo bad that I forgot to take pictures of our grilled octopus, rice and beans."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJb3JiQ1F3EAE",
+            "text": "The food that we ordered was delicious. It all came out quick and at the same time. Our waiter was great. Staff is so friendly and professional. My only negative comment is about the filet of sole. It was a bit overdone and oily.  Try it for yourself and post what you think."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJczdHLU5REAE",
+            "text": "Decent quality food with decent prices. If you’re looking for a full authentic menu without all the fussy ambiance, this will suit well. The front entrance sells food to go as well as fish. There seems to be a pretty big following, looks like the place has a nice history in Astoria. It’s definitely loud and the atmosphere seems like a vintage Greek diner/restaurant. Bathroom def need updating (lol, I would never bring that up but the hand dryer was RIGHT above the men’s stall!). This place is good for a quick bite or hearty meal but I’m not going there for a special occasion."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VQU3ZnOEt6a0tUWVV3EAE",
+            "text": "Food was great just as we expected. Decent portion. The salad was very fresh! It would be great if the white wine could be served chill.\n\nThe food and the vibe made it authentic."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREc1lySWZnEAE",
+            "text": "Very authentic Greek restaurant. The atmosphere of this restaurant felt like I was in one of my relatives home. Super friendly and accommodating staff. Food was great, everything was cook to perfection. The Pork souvlaki was amazing, the portion is big enough for two people. Lamb chops were perfect, super tasty. Price is on the pricier end but with the service and taste it is worth it. Highly recommend this restaurant."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvbEtyVDVnRRAB",
+            "text": "Happy Easter! 🐣 I had such a lovely dinner with my family. The food was absolutely delicious, and we enjoyed some ouzo as well! Our server was super friendly and professional, which made the experience even better. What a wonderful day!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzMExxeHJBRRAB",
+            "text": "The outside seating area is so nice. The staff is even nicer. The food! It’s so good, moderately priced, and we got free dessert. Portions are large so don’t get too ambitious."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBcTlld2ZREAE",
+            "text": "we had lunch with my business partner from Switzerland and I at the Stamatis restaurant, I have been there several times and I was always pleasantly surprised with the quality of the food and the taste that reminded me of the Greece that I experienced as a child. However, yesterday when we asked for the bill, we received the bill for $185, which is fine, and I gave a 20% tip, but in that restaurant, the restaurant calculates the tip on the bill because they know that we are not locals, so I paid more than $65 for the sum.  from $156, which is certainly not right, for anyone and especially for guests who often come there and recommend that restaurant, and in this case it's me!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMd01INHZ3RRAB",
+            "text": "Incredible dinner. We tried a lot of dishes - Greek Salad, papoutsaki (eggplant), octopus, grape leaves, tzatziki, etc. - and they were all delicious. The staff was super friendly and helped us with recommendations on what to eat. Good outdoor seating too. Definitely want to come back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3OTRDOEdREAE",
+            "text": "This place has quickly become my favorite restaurant in Queens. A quick walk past the kitchen and the friendly staff on the grill upon entry and you are already excited about what’s to come.\n\nService is attentive and they offer you a lot of help with the menu if needed. I noticed the table next to me was sharing a bottle of ouzo. They noticed me looking and gladly offered me some. It was a great experience.\n\nKeep in mind they can get busy on the weekends and on holidays."
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2LU8tZE5nEAE",
+            "text": "食物非常美味，服務很好，價錢也很實在，還碰到可愛的小朋友唱聖誕歌曲募款，氣氛溫馨愉快！"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkMGRHbGphR1ZvWDNWVk1rdDFOVzlOYkZaaWIzYxAB",
+            "text": "This Greek family-owned restaurant is an absolute gem! The service was beautiful—the woman who took care of us was incredibly sweet and made me feel like part of her family. She even played with my 3-year-old and kept her entertained while I fed my 2-month-old, which meant so much to me. At the end, she even gave me a hug. Her kindness truly touched my heart.\n\nThe food was amazing—fresh, flavorful, and served in generous portions. The atmosphere was cozy and full of life, with authentic Greek music playing in the background. I honestly felt like I was back at my aunt’s house enjoying a family meal.\n\nThis place deserves all the love and support. 10/10—God bless this beautiful business. Everyone should experience it!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURadU1MclZBEAE",
+            "text": "Did not meet expectations at all. We've been to quite a few Greek diners, and this place is just subpar.\nThe best piece was grilled feta. Pork chops, and salmon were ok. Moussaka was terrible.\nIt was extremely noisy, impossible to have a conversation. We didn't hear our waiter's exhalations.\nThe service was slow, and our server messed up a few items on our order."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLYXcxN2ZXNWZfWUN3EAE",
+            "text": "We had the most fun and delicious meal here yesterday! Dined with my husband and toddler. The owner, Stamatis, was unbelievably sweet to our toddler. The food was authentic and delicious. The portions were very generous. We left extremely happy and excited to come back again!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWdTRydE9REAE",
+            "text": "A true authentic Greek restaurant in Astoria that made me feel like I was in someone’s home, my Greek friends took me here so I know it was the real deal. We sampled a few plates, I’d recommend anyone else to do the same it’s the best way to truly enjoy the cuisine. We started with a salad and dips, a mix of fish and zucchini, and a dessert for everyone. Gave it a 4 since I didn’t get to try any meats, will definitely be back!"
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDMjZiOWZBEAE",
+            "text": "Great service and great food. The grilled octopus is perfectly tender and moist. We will definitely order it every time when we dine there. This restaurant offers outdoor dining in both their backyard and front door. We preferred the…"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfdG9QMFZREAE",
+            "text": "Wow, this was by far the best Greek restaurant I’ve been to in NYC and will be my recommendation for anyone in the Greek neighborhood that is Astoria.\n\nThe Branzino was cooked perfectly. Tender and flaky fish, filleted nicely. Fresh EVOO. With a squeeze of lemon, incredible. The greens (Horta or daffodil greens) were also great. First time I’ve seen these outside of Greece.\n\nThe Chicken Souvlaki was great. Chicken Thigh grilled perfectly. Delicious tzatziki, and nice pita bread to absorb all the flavor.\n\nThe Greek Salad was okay. Some of the cucumber slices tasted a bit bitter. I think I counted like 4 olives in the bowl.\n\nOverall, great food and I’ll be coming back! The service and waiters were very helpful and I would consider superb service."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6OXBMbWRBEAE",
+            "text": "An outstanding reasonably-priced Astoria Greek Restaurant with really authentic Greek food and a friendly staff. Try it. You’ll like it—-especially the lamb dishes and spanakopita. It’s reminiscent of the best Greek home-cooking style restaurants that used to be in Boston when I lived there,and boy were they good."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnMFJVNDBaVk5CWVdRMlNXWjZTWHB2YW1oTE9GRRAB",
+            "text": "I don’t even know where to begin, the food was so balanced yet so intricate. The flavors were outstanding and almost indescribable yet it still made me feel like I was eating at a restaurant in Greece. Not to get started on our fantastic waiter Nico who offered us amazing service along with an impeccable experience. Not coming here would be a crime I would definitely recommend all seven days out of the week."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4bGVQbTN3RRAB",
+            "text": "Amazing authentic Greek food!\n\nAppetizers: The Crab Cakes and Grilled Octopus were amazing, Greek Salad was good, Spinach Pie was not tasty only thing I would’t recommend.\n\nMain: Ordered Red Snapper for 3, it was big enough where we should of ordered for 2 because we were so full from the sides.\n\nDrink: 1 liter of White Wine, great for the value!\n\nHighly recommend this place for family style eating."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwcDlXV0xBEAE",
+            "text": "One of our best experiences eating out in our trip to NYC! Definitely the most amazing service we've seen. Our waiter Michael was incredible, explained all the dishes patiently and was super friendly and efficient!\nFood is amazing and the servings are generous. Would totally come back and recommend to those going to Astoria!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCb3RMcm53RRAB",
+            "text": "Great restaurant for a night out! Friendly authentic Greek service! I had the Greek wine “retsina” (10 out of 10), and my wife had the house red (basic wine 🍷 7 out of 10). For food, we had the sea food combo, and the pastitsio. The food was great! The Pastitsio was as delicious as can be, it gets a 9 out of 10 for me, and the sea food combo gets an 8 out of 10. For desert, we got a complimentary “Bourek”, loved it!! Overall, this is a great place to hang with friends or to take a date. Would recommend."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLdjRQN0pBEAE",
+            "text": "Excellent everything. Service. Food. Atmosphere. True family restaurant. All respecting COVID guidelines. Food was out of this world. We were four. We had the best fried eggplants. Stuffed mushrooms. Greek salad. Green beens. Red snapper.…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDeGQyeEZ3EAE",
+            "text": "Visited this great restaurant with my husband and two kids. Because of Covid we only had outdoor dining out front but I saw they have a beautiful backyard area to eat in as well. The food was delicious. My usual picky eaters loved…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5c2ZpR0FnEAE",
+            "text": "Is one of those classic Astoria Greek restaurants. Very authentic, good, and enjoyable. On this evening I had what they call the Seafood Combination. It had a variety of different fish grilled and stuffed. It was really good, but I don't think that's the right thing to order as there's an incredible steam table with so many different selections. Large groups are welcome with their back table space and family size portions with shareables is the way to go. Recommend."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKX3R5ZjlBRRAB",
+            "text": "Very nice greek food restaurant. It is spacious, friendly staff and fast service, good atmosphere, delicious food. We come here often whether is just my husband and I or the whole family or with friends. Great place for family gathering or any celebration.\nIt is street parking, but no problem to find a spot.\nWe usually order saganaki (it’s my favorite dish - the best here), branzino, salmon, sardines, calamaries, greek salad, spicy feta dip. Love lemon potato.\nPrices are reasonable."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyaGVERkx3EAE",
+            "text": "Amazing food and friendly waiter. Had a roasted lamb with in house tomato sauce, delicious. My waiter Michael kindly asked which part of lamb I like and gave me my favorite lamb shank, 100% recommended."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHdk1yaTVBRRAB",
+            "text": "Was recommended this restaurant by a friend and I’m here to pass the recommendation to anyone on Google! Really spacious, classic Greek-restaurant atmosphere with delicious, family-style food.  We ordered the Grape Leaves (best I’ve had), Fried Squid, Fried Cheese, Stuffed Cabbage, and a 1.5 lbs Red Snapper. We cleared our plates because it was so good! Although the staff is often busy, their service was friendly and very accommodating. Pita and dessert is included!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZbXAyU3hBRRAB",
+            "text": "This place really surprised me in the best way. Staff were great, a nice mix of younger ones and seasoned pros. One of the owners came by, real gent, had time for a chat.\nWe kicked things off with the antipasto—unreal. Grape leaves were warm, fresh, full of flavour. We had a lemon soup (forgot the name)...unbelievable. I had the lamb with lemon potatoes and, hand on heart, it brought me right back home to Ireland. That kind of comfort food. The lighting and decor were spot on—nothing overdone, just a nice vibe. I've no idea what “authentic Greek,” is but as a Greek-American spot, it’s absolutely the real deal. Easily makes my top 5. Would go back in a heartbeat. Forgot to take photos...next time."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPdjdEdFlBEAE",
+            "text": "This restaurant was recommended by a local so we planned to have dinner here while visiting Astoria. It became the most memorable dinner of our whole NY trip! Staff is genuine and friendly. The food was just amazing. We loved the atmosphere. We will definitely come back when visiting NY."
+        }
+    ],
+    "reviews_count": 83
+}

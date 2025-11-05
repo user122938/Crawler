@@ -1,0 +1,460 @@
+{
+    "name": "Emilia's Restaurant",
+    "place_id": "ChIJHx95L-qVb4YRzn8z4bt-qhk",
+    "grid": "BK16",
+    "address": "5182 S Padre Island Hwy, Brownsville, TX 78521, USA",
+    "rating": 4.3,
+    "user_ratings_total": 1127,
+    "phone_number": "(956) 838-2221",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCVlRtUndZMUkyYkZsblpYUkxhVjkyTUhSME9YYxAB",
+            "text": "My friend & I were visiting from Corpus Christi and needed to eat before we left back home. We have no regrets about choosing this old fashioned Tex-Mex Restaurant, the food was delicious and VERY friendly staff. Love their traditions of serving soup as appetizer and flan/cake for desserts. Will definitely come back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWNE1VcDVjbk5wWVVWMVdFNVNiMFpxUmtWbFNsRRAB",
+            "text": "Long line to pay."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZM2EwNUlUVEpKWkRKVmR6ZFFWVUpKZEdkdFVVRRAB",
+            "text": "Papas con huevo 27 dollar es un robo!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zeFpuaDRkVmRLTjNBNWFHVXdaSGd3YVVsbVdIYxAB",
+            "text": "Great food and specious."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWWFV6aFpabUpWYm10UVpVVlVUWGs0WlVRd1kzYxAB",
+            "text": "tengan cuidado aqui roban sin decir te dan recibos sin los cobros correctos y cuando se los pides se molestan pedi una gordita de huevo con frijoles y me cobraron los frijoles aparte de la gordita y aparte se cobran el tip automaticamente y…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscllYY3pkVGw0VkhBM05XWlROVjlEY0RCelVFRRAB",
+            "text": "Food was ok, They ran out of food, Everything is overpriced, they charge for every thing, waitress is on the phone, and not very friendly."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xadWVWUmhaMXBRTjBoUGFEUnNWWEp2T0RsUFkwRRAB",
+            "text": "Had a late lunch with a friend and we enjoyed the food. 👍 Love the dessert 🎂.\nThe place was nice and clean."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNGFuUkhjRU5HYlY5MmNFWTVhM1pKUTNNelRHYxAB",
+            "text": "The exterior is gorgeous & great for photos. The inside looks sloppy. I had a German roach crawl on me & later one was on the table. Service was like pulling teeth. Food was average."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKdGZxNnNRRRAB",
+            "text": "Awesome"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KVFl5MXpVR3hmY1c0ellUY3pMV2RrTTE5dWVuYxAB",
+            "text": "They never fail! Everything is always good and service is always quick, friendly, and excellent! Definitely my go-to spot when I want home-like meals."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ0d0pfMDVnRRAB",
+            "text": "The food was awesome no one left anything on their plate😁. The staff was super friendly and very attentive next time we're in the valley this is the place to go! 2025 visit-  The food was amazing  my son loved the cheese enchiladas 🤤, the chile was very good 👍 the staff was  very  good but the food did have a wait"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnMk5VZzBWeTFZVnkwNVJYZGtiMnRvUkdNM1RIYxAB",
+            "text": "Super rico todo ❤️"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwMnJUSkV3EAE",
+            "text": "Best restuarant in Brownsville!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214YWFrMVBObEpxT0Rsbk5HVTRhM0ZNTmxBelNIYxAB",
+            "text": "Best restaurant in Brownsville!"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZajlQOXdBRRAB",
+            "text": "🤗"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQbk85S3J0cDdIeEpREAE",
+            "text": "Dropped in for lunch and received excellent service and good food."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJaWJiTEdBEAE",
+            "text": "It's authentic Mexican food at the right price!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3dFAycmFnEAE",
+            "text": "Best chilaquiles"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3M3NMdWp3RRAB",
+            "text": "I’ve been coming to this restaurant for over 14 years.  The food is amazing every time I come here. I highly recommend this restaurant!!!"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvMnUyU3hRRRAB",
+            "text": "Buen servicio y buena atención"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRNzRfcnJRRRAB",
+            "text": "Very good food 👌 and nice and clean"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURReE55bFVnEAE",
+            "text": "Got the Carne Deshebrada Guisada. A bit bland but the sopa at the beginning was good, and the service was good"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNncV9hOVBnEAE",
+            "text": "Service was great. Food was good"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnekxXUHN3RRAB",
+            "text": "Good Mexican food restaurant. Great service. Food was very good"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmNnRxVWdnRRAB",
+            "text": "Went there, felt like I went to My Tia's house. Ada was the warmest personality ever. My breakfast taco was monster and amazing! Had to put it down for a minute, but I couldn't stay away too long. Had to finish it! Great flavors. Definitely going back."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmd3RTX1pnEAE",
+            "text": "Excellent service, food was delicious, price was low! Everyone was kind and friendly, we will definitely be back!"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPazZXOXZ3RRAB",
+            "text": "Best beef fajita Panchos in Brownsville!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2MDliUE1BEAE",
+            "text": "Thank you for a GREAT lunch!  Our go-to place while in Brownsville!\nAlways friendly, attentive service, too!"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNua0lmRW1BRRAB",
+            "text": "Las gorditas dulces. Que ricas.\nUn 💯"
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnaXQtQllnEAE",
+            "text": "Emilia's in Brownsville is a top-notch  restaurant that serves authentic dishes with fantastic flavors. Their friendly service, inviting atmosphere, and delicious food make it a must-visit spot whenever I'm in South Texas."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQcEtUR21BRRAB",
+            "text": "Live music Only on the weekends. But anything else is good. 😊"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzNklPMFBnEAE",
+            "text": "Great"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzemUyTDFBRRAB",
+            "text": "You guys need to install more outside lighting maybe a paint job in and outside with the good food and service,and this you can really surpass your business,good luck.!!!!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzZ2NLVDZBRRAB",
+            "text": "Good food friendly staff 😋"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3My1xZllREAE",
+            "text": "Well came for 1st time to this location and sorry guys was a simple NO reason ok I ordered the Enchiladas swisas and as if they already had the tortillas rolled and left for some time till tortilla gets hard and they feel that the green sause will make it soft because it's wet. Well, no tasted horrible like flutas soaked in green sause, and a lot of white cheese melted. she took them back to remake, but it was still done the same and yet less chicken, so it was like the corn tortilla by itself. idk was still not freshly made and very sour. The mexican rice was bad tasted like if it was cooked with re-used oil that was cooked for fish because it tasted like Marisco/seafood the mashed beans tasted Burned like when they get burned and they add more beans to the pan to try and cover their mistakes yet it transfers the burnt taste through the food. The 2nd plate was milanesa. Yes, it's a huge piece, but it has too much nerve/ligament cooked that it was like Jerky Very hard and tough, meat is not cleaned well. And yet the rice again has the same fishy taste. So yeah, it was a NO. Prestintation is there"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxNWRxbjdBRRAB",
+            "text": "Good old fashioned Tex-Mex favorites in a unique historic-like setting; delicious and extremely reasonably priced—almost all of the plates includes a starter soup (noodle or vegetable), as well as a dessert to finish (cake or flan). The staff is extremely friendly and helpful. A wide selection from breakfast, lunch, and dinner (usually open to 8 pm); a selection of bottled beers also available. As “local” as local gets—never disappointed."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiaWJqYkVnEAE",
+            "text": "Awesome place to have authentic Mexican food! Love breakfast here! And the tacos are amazing! Will be back soon!!! Great service as well!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtNzhmQU93EAE",
+            "text": "A bit greasy but the food was good. The restaurant and restrooms were very clean. We arrived at dinner time 6pm on a Saturday, the back area was   closed for a party, a few dinners in the front area. We had a pleasant dinner. Recommend..."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURId3NqWmtRRRAB",
+            "text": "This place was sooo good!! I was looking for something authentic and found just that. They include an appetizer and dessert with the meal it was all good!! We also took some of the gorditas home and they were delicious!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMNVpqdG1BRRAB",
+            "text": "Muy buen restaurante, la comida es abundante y rica. El servicio está bien, hay abundante espacio y la atmósfera es linda. Algo que es extraño es la forma de pago al final, hubo en nuestra cuenta varios items que no pedimos pero lo corrigieron."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPdE9TZUJ3EAE",
+            "text": "Delicious lots of food you see the price menu great service comes with soup drinks and desserts can not say enough home style cooking"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREOTVhb0ZBEAE",
+            "text": "La carne de desherbada está riquísima soy muy especialita para la comida está es mi primera vez en este restaurante y lo recomiendo 100% las tortillas de harina y maíz son echas a mano y todo estaba delicioso ."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURneDVLVGlRRRAB",
+            "text": "From the last time review staff has improve service and attitude. Now food taste for breakfast was off on four items.\n(Presentation look unpleasant see pics.) New tables but still serve broken dishes. Wow. Beacon looks like pigs on slim diet.\nPrice $$ depends what you order. Ask what you don't like they listen but I notice they can't make good choices in finding solutions."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzcE9xOHFBRRAB",
+            "text": "So-so Mexican cafe with so-so Mexican food at higher-than-I-expected prices in an area with lots of other Mexican food choices"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSMHJqOVV3EAE",
+            "text": "Riquisimas enchiladas !!\nI highly recommend Emilias delicious food and great service 🥰 mi mesero super lindo"
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtOV9DNmNBEAE",
+            "text": "Wow! Esta súper delicioso! La comida auténtica mexicana sabor casero riquísima servicio excelente primera vez y muchas por venir cuando vengamos a Brownsville 💗😍"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2OE0zMDZ3RRAB",
+            "text": "I went here on the recommendation from a friend and it was delicious! I usually go for the enchilada plates at Mexican restaurants but this time decided to try something different - I had the puerco asado and my friend had the enchiladas! I didn’t get a pic because I ate mine too fast. It was that good! I can’t wait to come back."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwcmNfcjVnRRAB",
+            "text": "1st time here, very good food, well served and priced good. Excellent service."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPbUxhd0l3EAE",
+            "text": "Such a cute place to eat dinner at! The food was very reasonable pricing. We got the Emilia’s special which came with soup, main dish for 2 people, and dessert. Best decision we made there"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVd3MySFd3EAE",
+            "text": "Simply delicious authentic Mexican food!\n\nThey start u with a vegetable soup or fideo and end u with flan or tres leches cake!\n\nThis dish was the Tampequena with fajita, white cheese, jalapeno, onion, nopalitoes, and avocadoes.\n\nSimply delicious with a side order of homemade corn tortillas!\n\nScrumptious!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3aDhHX0JBEAE",
+            "text": "I found a hair in my flour tortilla where it was replaced immediately.  I didn't finish all my breakfast, so I took the rest to go. I just noticed an additional hair in my ham and eggs."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5aHFhbXhBRRAB",
+            "text": "Tradicional comida mexicana muy sabrosa, me encantó, muy recomendable.  👍"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2enYtbTdRRRAB",
+            "text": "Service was great and the food was even better. We were a large group at lunch and the service never slowed. We will be back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCNnAtSnFBRRAB",
+            "text": "May not look appealing from the outside, but once inside, it smells clean,  looks clean, and has a old time rustic Mexican theme that creates a great atmosphere. The 2.99 taco i got was the size of a sincroizada. The menudo packed seasoning, but some added salt, pepper, onion, and limon really boosted it to a, delicious level. The tortillas de maiz were casera style and excellent.  Definitely a must place to visit. I wish i lived in Brownsville to frequent it more."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNNzQ3M05REAE",
+            "text": "Great, authentic Mexican food in Brownsville!  I had the cheese enchiladas Mexican-style (which I think meant a spicy red chile sauce).  I got four rolled enchiladas with sprinkled white cheese on top.  The sauce was the best part as I could taste the flavor of true red chile, which is common in New Mexico but very hard to find in Texas for whatever reason.  The enchiladas were delicious and accompanied by rice and some of the best refried beans I've ever had.  Order your meal with a Mexican Coke and you'll soon be in a happy food coma.\n\nEven though we had a large party, our service was excellent.  I highly recommend this place for anyone in Brownsville looking for top notch Mexican food; it was better than anything I've had in San Antonio and that's saying a lot.  My only complaint was the enchiladas themselves were lukewarm but that could have been because of the size of our large group."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPZ19IUFVBEAE",
+            "text": "Extremely good tasting Mexican food. Was down in the valley and had to stop here for dinner. Very good food. Very good chalupa’s. Definitely go by this place before 8pm . They close on the dot lol."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKaTZYTkFnEAE",
+            "text": "me recomendaron este lugar por muy bueno, yo estoy de visita vengo de New Jersey y  pues que decepción con la comida , pedi una tortilla de machacado con huevo, mas bien era huevo con casi nada de machado ni siquiera el sabor tenía, y mi niño pidió una tortilla de harina con bistec y aguacate y está más dura que ni quiso comer y para remachar el agua de melón estaba en proceso de dañarse o sea muy triste experiencia con la comida y la cajera que a la hora de pagar ni attention  me ponía … la mesera excelente para que , muy dedicada ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiOVB5R19nRRAB",
+            "text": "We had an amazing experience!\nThe staff is Very Attentive, the place and tables were really clean. Our food was delicious, they even included appetizers and desserts with our meal. I thought that was so kind. Would definitely recommend eating here.\nAlso, they have pops for the kiddos!"
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXMmEtNVdBEAE",
+            "text": "Muy rica la comida la carne muy suave las aguas frescas muy sabrosas todo muy limpio excelente servicio"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPcnU3V1ZBEAE",
+            "text": "When I’m in Brownsville I always hit up Emilia’s for their authentic mexican breakfast. I love Machacado a la Mexicana con Todo, but with their enormous flour tortillas instead of corn. The Huevos con Chorizo Taco is a monster and super-tasty! Very good prices and a clean establishment.\n\nGringos Beware: It does help to know Spanish here when ordering. But the wait staff here is so patient and will work through any language barrier to get you what you want."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJdDZYOGx3RRAB",
+            "text": "Tostadas con salsa is amazing, and the fideo.....omg incredible, once I get to actual food, best authentic Mexican food in Brownsville, no matter what you order, everything is good."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBai02WlN3EAE",
+            "text": "Delicious food at great prices. The tacos al carbon are excellent.  The wait staff is friendly."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCdU9LX253RRAB",
+            "text": "Delicious food and great service."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRdy02V1lBEAE",
+            "text": "Great food, as always, with excellent service."
+        }
+    ],
+    "reviews_count": 64
+}

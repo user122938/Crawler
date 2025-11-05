@@ -1,0 +1,565 @@
+{
+    "name": "Fabrika",
+    "place_id": "ChIJF-Yh-hNfwokRNge04jMeKcE",
+    "grid": "QN3",
+    "address": "80-24 Northern Blvd, Jackson Heights, NY 11372, USA",
+    "rating": 4.7,
+    "user_ratings_total": 695,
+    "phone_number": "(929) 300-3135",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205U1ZXZExibE14V0dOeVVVVjRXRkJJTkU5UlpWRRAB",
+            "text": "Food was great. Presentation was great. Very pricey though. Great for an outing or date night."
+        },
+        {
+            "date": "3일 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWlltWmpiMkpSUzNoeVZFZ3lUSFpEYVZkUFVFRRAB",
+            "text": "A pesar de ser pequeño,  el lugar ofrece tragos deliciosos y bien presentable. Bien bueno para un girls night o una cita romantica. No recomiendo para grandes celebrations. El dj love it, no muy alta la musica( odio ir a una cena y no poder hablar y compartir) buenisima y variada musica.\nEl menu ,bien corto pero, la comi\ncomida deliciosa, la presentacion super... me gusto y regresaria."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnelRrcEVlVTVOYkZad1ZUUjZObWcyWkc5b2ExRRAB",
+            "text": "The service at Fabrika Restaurant is exceptional. The appetizers, food, drinks, and desserts were all delicious. The bathrooms were super clean, and everything was perfect. 100% recommended! 🌟"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSdGNrWkJiRWhwYUdoQ1QyVkRSM05HVm5OeU5GRRAB",
+            "text": "Worst service ever. Expensive and the place is very small."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBeVprRkdVRk14TnpjelRUVm5SVU54Wm1zM2NuYxAB",
+            "text": "The bartender is not good at his job .. his drink was horrible . I felt bad and I drank it mid way I realized I couldn’t and I told the server hey I can’t drink this can you bring me another one and I will pay for this one but this one is bad and he threw a fit . Like a toddler . Food is great atmosphere is amazing bartender could take a lesson being kinder."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OR1NsaFBTVkpPYkcxcmFFTmtTR1JuTUdzelNIYxAB",
+            "text": "The sushi and the drinks were the star of the show! I realllyy liked the Caribbean roll. Soo much flavor. 10/10 presentation!!! I ordered the pretty in pink drink and my friend got the blue lagoon. I tried a bit of the blue lagoon, so good! The waitress was lovely too. I definitely recommend this place 🩷!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFME56SkZObE16V0d3MFltMDJSamxNVUZoWmJtYxAB",
+            "text": "Excellent service the place Amazing , the food was great 👍. Nice place to take a lot of beautiful pictures ."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KTGIweGtaMkozWVRCaE1UZDZXR3B2WDBjeFJXYxAB",
+            "text": "This was my first time here, recommended by a post on TikTok. I most say the service was great and also the food. I got some good pictures the ambience was so beautiful."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkSWJVOVBhakJUZDAxZk1GSkpWRmd6TFd0bGFtYxAB",
+            "text": "The food was good but this place is overpriced. My husband ordered a rib eye steak for $45, he was given the thinnest and smallest slice of steak I have ever seen. I ordered the lobster linguine for $38 and was served a large portion of linguine with a very small portion of lobster. I regret not taking pictures to post."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGeVRsaHFiVk5SZVRSbk16Y3pUM2haWTBKeGRVRRAB",
+            "text": "lovely atmosphere, great food & very friendly and accommodating staff"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoaXB6NEdnEAE",
+            "text": "Great atmosphere! Loved the vibe and the energy. Great dj. Music was terrific. Service was fast, and they had a great bartender."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rM05qUnNhWEJ0Y25NNVlsaHBOV0l4YkVSVE5XYxAB",
+            "text": "The Pulpo a la Plancha was as if to to be transported to a Caruña on the Costa de la Muerte.\n\nThe RibEye Steak must have been imported that day from the lands just below the Alto Plano in Argentina.\n\nBut Fabrika then committed two cardinal sins (pecados capitales).\n\n# 1:  The Modelo Canned Beer at $7.75 each was delivered in glasses and not in-the-can.  The beer should have been served in sealed cans, opened in the customers' presence, and then graciously poured by the server (servido por la camarera).\n\n# 2:  A $20.03 tip on a $111.25 tab was added without asking as if I was some sort of lowlife (delincuente) who wasn’t going to tip.  Well actually, I am usually much more generous.\n\nThe owner of Fabrika, in this case, has snatched defeat from the jaws of victory, which is probably an idiom he/she will not understand [arrebatar la derrota de las fauces de la victoria].\n\nPut another way: be careful what you wish for [ten cuidado con lo que deseas].\n\nYou only get one chance to make a first impression [Sólo tienes una oportunidad de causar una primera impresión].\n\n* * * * * * * * * * * *\n\nOwner/manager's response as to service charge was as follows:\n\n\"The addition of service charge is clearly stated on both the menu and the check. It is not, and never will be, because you “look like a delincuente.” It’s a transparent policy applied to all parties, nothing more.\"\n\nA service charge noticed on the menu and then added to the check does not constitute \"transparency\".  It's actually a sneak attack.  I will now check to see whether the menu as posted outside on Northern Blvd notices the mandatory service charge - in large prominent type."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwemFYWk9abDl5TkZoTmVWbzJTVjgzYURabk4yYxAB",
+            "text": "Overpriced food and drinks. They add the tip into the bill, si no need for the staff to earn a paycheck. Lousy food and even weaker drinks"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oYVQwSnBVMDV0YW1aWUxVNVlOVUU0TkcxYWQzYxAB",
+            "text": "Best experience I ever had. The place is very beautiful. Peaceful environment and the staff is very attentive. I defended recommend to visit this restaurant. I\nLoved this place."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzek1XSlRPRUZLUjFNMFZETlZTVUp2U2poV01rRRAB",
+            "text": "Spent my birthday here. Place is on the small side.  They had certain areas depending on the size of your party."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFMWFUSXpMWEZSVG1sM1UwcFNkVzUyTkZOTFIyYxAB",
+            "text": "My boyfriend and I loved this place, the food was amazing, the drinks were delicious and the service was excellent.\nGreat music, and environment.\nStefani took care of us all the time, and made sure we were having the best time !\nAngel the bartender also came couple of times to us and took care of us!!\nTruly recommend this place 🥰🥰\nI will be back with my family and friends for sure !!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VlVGSXhRVXh1VUcweGFuRTJVR1V6TUhwcVYzYxAB",
+            "text": "We had amazing time at Fabrika. I had reservations but we had to change,from saturday to sunday. Service was very nice food wow love every bites of everything.\nAll details just awesome. Place not big,but definitely for bday vibes. On the weekend make sure you have reservation."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFMFFrTk5UVTlGYm5vMWRrNVVRVUY2VVcxdmFuYxAB",
+            "text": "Excelente servicio , la comida estuvo deliciosa además el ambiente acogedor, el bartender Robinson me sorprendió con los tragos, recomendado 100%."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKaWFldnRRRRAB",
+            "text": "Very inviting, great service, feels like your with family, not to mention but the food is excellent, and the drinks made with love, workers very friendly and always watching to make sure your food is good and drinks also.  I recommend Fabrica to all, thank you for having me.  My goto spot always."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OWGRpMUphRmxHVlZKRmFrZDFSRGsyZVd4VlYyYxAB",
+            "text": "Que lugar tan espectacular me encanta como pensaron en todo la decoracion la comida es deliciosa los drinks son super lindos la musica muy agradable su personal es tan amable siento que en este lugar no solo te venden comida ellos  te dan toda una experiencia  es muy emocionante ver cada detalle como sirven la comida sus tragos me encanta que para ellos la presentacion de sus productos sea tan importante super recomendado"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taUlJHMHhNRXBuTFdaa2NuTlhWMnRQWXpZNVkyYxAB",
+            "text": "It’s very rare you find an insta worthy environment with great food !\nThe drinks were cute and delicious\n\nThe DJ was lively interactive and played a great mix"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1WmMxSm5kRFZEWVd4RmEwcERUMjU1ZEdsaWNYYxAB",
+            "text": "I had amazing time here. And will come back again."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wamNrNDVPRlZmVURad1lsOUNTMlZOVGt4MFltYxAB",
+            "text": "Una fabulosa experiencia, la comida es deliciosa y los precios están de acuerdo a la porción y sabor con un ambiente acogedor y el servicio muy amables y atentos todo el tiempo. 100% recomendados !!"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwemVpMFRBEAE",
+            "text": "New menu items are delicious!! The service is always great drinks and food are always on point the staff is super friendly and the music is always amazing great times always"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvMFV6RjJXVUozYTFsUmQxcFhZVVZKWjBJeFEwRRAB",
+            "text": "El olor es insoportable, ni lo recomiendo"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0cVVGQkVhMEp3UTNWaFdHVmFVbXgyYlMxeFQzYxAB",
+            "text": "Made a reservation for my birthday. Vibe was great the please is beautiful. The waitress was great and with us at all times for anything we needed. The food was great. Really love the experience overall. Will def be going back"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TU1FdHZYMEZxUlZGQmVHOTZlbDlCTmpSbVdWRRAB",
+            "text": "Such a wonderful restaurant, the food and drinks are amazing!  I recommend the skirt steak, sushi, and the mango passion fruit dessert.  The server was very attentive and kind.  I would definitely return and highly recommend this place.  Btw, the drink ‘ blue lagoon ‘ is delicious and very well presented.  Shout out to the bartender Stefany and the server, Mafe."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CUE9YYzNibkZGWmxKSk56Qm5ia3BVVVdoV01uYxAB",
+            "text": "My first time at Fabrika. Host was super friendly. Her name is Stefanie. The food delish!! You must try the sushi😍. The drinks👀👀 coconut margarita!! I’ll go back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200eWRHTm5VRGd3V2xGb2VFTnRNbHBqVGpWZlYyYxAB",
+            "text": "Such an amazing spot! Delicious food, great cocktails, and awesome music. We sat at the bar and had the chicharron ceviche, crispy  tuna rice, skirt steak and finished with a lava cake and everything was incredible! So much fun with the staff and they had a great karaoke night! Highly recommend and can’t wait to go back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkUlJEbFZOMEZrUW10WExVSjBjMHN3Ylhwbk0wRRAB",
+            "text": "La mesera que nos atendió creo que ese día tenía problemas"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214VVYwUkxhRnBwVkdscloxZ3pUbGM1V1VreWJIYxAB",
+            "text": "Small and cramped, lack of air conditioning, and my food was overcooked even after requesting my steak medium well got it well done and a bit on the warm end. It's a bit costly for the small portion that is seen more like small plates menu. My 1st and last visit here."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKT2NHOHdSRzlNU1VsNVIyMWxOMlkyUzFSbWIxRRAB",
+            "text": "We came late and hungry from LaGuardia airport and looked for a place that was open late nearby.\nThis place has a great fusion kitchen, and every single plate was delicious and beautiful."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaT09USlplREZ1U1dkVWFsOVBMVVZvZHpWTFJuYxAB",
+            "text": "Desde el comienzo se me hiso raro que el codigo QR me llevaba a whatsapp y tenia que mandar un mensaje y despues tocar el link para llegar al menu para que al final la mesera me diera la carta fisica. Habia mucha confusion con la musica tan dura , es un espacio pequeño para que la musica este sonando tan fuerte. En un dia de alta temperatura quiciera estar en un lugar refrescante pero este lugar no lo era. La cortina por donde se entra me parece algo innecesario y tambien tenia mal olor.\n\nLa comida, el fritto calamar estava delicioso y los tragos tambien , pero la picada tenia o mucho aliño o mucha sal y por un precio muy elevado por tan poca cantida, y la agua tenia un holor feo. Finalmente  cuando se le pidio a la mesera si tenian salsa rosada o minimo mayonesa me contestó que no habia."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4M1pFNTZibmsxTVdGYUxWbzRUVTR4ZGxOVlJIYxAB",
+            "text": "The place was very nice. My server was knowledgeable about the food and drinks. Her recommendations were on point.  The only thing I didn’t like wasn’t a variety of music being played.  Other than that the place was a win for me"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOSEYzZGpEMnNmZ1NnEAE",
+            "text": "Great place to hang out !!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKLUR5S2F6a3NlUlp3EAE",
+            "text": "Its a small spot but it beautiful , the dj is amazing. Service as great and attentive ."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOTHNoNk9IMUxDT2xBRRAB",
+            "text": "This place is amazing. I recommend!"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNZlB1clMwdXRQU1NBEAE",
+            "text": "Me encanto los Tragos la Comida muy buena presentacion"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPbXVwYjN5aFlMNHBBRRAB",
+            "text": "Muy bonito, cada detalle en el ambiente de la decoracion es hermoso, la comida muy rica y la musica tambien buena no muy baja no muy alta, el personal que atiende muy amable."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLQ1ptcGVPeXQ2NmdnRRAB",
+            "text": "Aquí trabaja una señorita llamada Mafe una excelente atención de verdad muy contentos de estar aquí ella súper bien, súper servicial y me atendió muy bien. 😊\n\nMuchas gracias por todo a esta muchacha Mafe 🙂"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoNlZtUk5WRkpxZERSNk0wUkVPWEZNVW5wV05HYxAB",
+            "text": "Apps were very delicious and a nice spot."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VKMi1fc0RXeU9EMGNBEAE",
+            "text": "They told me I had to make a seat for a 2 month old when we call and made the reservation everything was said and basically said we gotta hold the baby never coming here again and when I ask where the car seat going they walked away like it wasn’t their problem"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLbWt1WTZYNnRUbVl3EAE",
+            "text": "nice ambiance the food was good and the music was good, the place kind of small but it worked out"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VPakU2ODZLaUlHdlpBEAE",
+            "text": "Obligatorio debes aceptar las condiciones de WhatsApp para poder ver el menú! (Se quedan con tu información 2 días llenando tu buzón con mensajes) Precios elevados para las porciones Gourmet, no puedes hacer ningún cambio en tu plato si quieres solo el chicharrón no te lo venden o es ceviche o es ceviche. No tienen ensalada de ningún tipo, 0 opciones vegetarianas o Veganas. Hermoso lugar si!!! Debería ser un tapas bar. No un restaurante.\n\nGracias por responder y por expresar su preocupación, valoro mucho el trabajo en el área de Gastronomía. Pedí el menú físico dos veces siendo su QR la única opción, el mensaje y links que envían por WhatsApp son para calificarlos y algunos eventos o noticias !Pero! Si tu calificación es menos de 3 estrellas no deja que lo publiques, a lo cual debes ir directamente a Google y realizar tu reseña. Tal vez por eso durante estos años tus clientes no pueden manifestar algunas inconformidades. No pedí hablar con el manager por que el trabajo del manager en un lugar tan pequeño está sujeto a la calidad, ver, analizar y visitar las mesas para corroborar que todo esté en regla más con una mesa donde el consumo supera el promedio.\nNuevamente gracias por responder."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNaUx5WTdMeHFxODZBRRAB",
+            "text": "Una experiencia muy top! Todooo estaba delicioso y rico. Mi amiga y yo la pasamos de maravilla."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJMkdwNzdPemY2OEFREAE",
+            "text": "Great environment and drinks!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJM1dwX3lxMXNMdi1RRRAB",
+            "text": "very expensive for the experience"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLS3VzX0gwM1lEcXVRRRAB",
+            "text": "Wow what a beautiful fun restaurant.  Great staff. The bartender and other waiter were amazing but Joanna out waitress was phenomenal.  The presentation here is a 10. The drinks were good. El jefe, the moonwalk, and spicy margarita. The guacamole was fresh. The chicharon ceviche was do unique.  I could drink the sauce but the best was the rock shrimp tempura. So delicious. Sweet plantain and shrimp. The French cut chicken breast was juicy and seasoned perfect. The asparagus delicious and cheese sauce. 10 star. The truffle fries a must, perfectly made and seasoned.  I celebrated an early birthday with a birthday boat. Lava cake and mango passion. Thanks 😁"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMU1IzS3lXbTR2TVVREAE",
+            "text": "I have no complaints—everything was excellent. The food was delicious and generously portioned. The servers were friendly and knowledgeable, and the prices were very reasonable. I highly recommend paying them a visit!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPLXQ0Y1NDOHIyN2NREAE",
+            "text": "Excellent music"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvdmQtZjFRRRAB",
+            "text": "I recently visited this Fabrika in Queens, a fusion Latin restaurant, and was thoroughly impressed. The food was excellent — creative, flavorful, and beautifully presented. Each dish felt like a fresh, exciting take on morden flavors. The drinks were just as outstanding, inventive, and perfectly crafted.\n\nService was top-notch; our waiter, Matthew, was friendly, knowledgeable, and attentive without being intrusive. The environment and decor tied it all together — stylish, vibrant, and welcoming, with an amazing DJ, lively, yet you can hear your conversations relaxed atmosphere that made the whole experience even better.\n\nOverall, everything from start to finish was outstanding. Highly recommend for anyone looking for a memorable night out, especially if it's your birthday!\n\nWe ordered:\nFood: Caribbean tri-fongo, dragon roll, pulpo a la plancha, red snapper.\nDrinks: pretty in pink, bubble bath, love insta spell, coconut mojito, moonwalk, yosi-tomo, and magarita."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRN0pIbXZnRRAB",
+            "text": "Went here for a girl’s night Bday Dinner. It was a little smaller than expected but loved everything about it From atmosphere,  food and drinks presentation to the tasty well seasoned food.  Our host Camila was very friendly and on point.  We loved how the DJ switched up the music a bit from Spanish to Jamaican he added flavor to the night.  Would recommend!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfdzYzd2FnEAE",
+            "text": "Fabrika is a must-visit! The calamari and sliders were absolutely mouthwatering—crispy, tender, and packed with flavor. Their creative sushi and drinks were fresh and refreshing. The ambiance was trendy yet cozy, and the staff made the experience even better with their attentive service. Highly recommend for anyone looking for something delicious and different!\n\n5/5"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3MEpmZThBRRAB",
+            "text": "The food and overall dining experience were enjoyable, but the service was a major letdown. The waitstaff’s poor attitudes significantly detracted from the meal which makes me  hesitant to return or give more than 3 ⭐️.\n\nFrom the moment we arrived, the interaction felt rushed and transactional. The waiters didn’t bother to provide any highlights or recommendations from the menu, nor did they inquire if we had dined there before. It felt as though their sole focus was to hurry us in and out, which made the experience feel impersonal and unwelcoming.\n\nTo make matters worse, there was a frustrating incident with our dessert order. We informed our waiter that we wanted dessert, but she apparently didn’t hear us and failed to place the order. Later, another waiter came over to tell us we hadn’t ordered dessert, and then our original waiter returned to repeat the same point. By then, it felt pointless to dwell on whose fault it was. What mattered was that we didn’t have the dessert we clearly wanted. Instead of simply resolving the issue by taking the order, the staff seemed more focused on assigning blame, which came across as unprofessional and unnecessary.\n\nWhile the food was good, the lack of attentiveness and poor attitudes from the waitstaff overshadowed the experience. The wait staff should be trained on customer service, especially when gratiutity is automatically included in the check."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnMU9mWVZnEAE",
+            "text": "First and foremost, the decoration is beautiful. However, the service is terrible, and the waitresses are really impolite. I was taking photos with my date when she instructed us to stop so that her friends could take photos (keep in mind that they were there a long time ago and we only had a minute to take photos). The dish was a 7/10 because there was a small portion and it was very expensive. The place is really small, and they hustle you to eat because it is crowded and others are waiting outside. I would not recommend this restaurant; except if you want to shoot pictures and drink cocktails."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRbk5mQ3JnRRAB",
+            "text": "Carlos was very accommodating to fitting in my large group last minute- 1 week. Atmosphere was fun and inviting. Food was delicious but mostly all fried but had good flavors. Highly recommend if you want a fun evening out!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQaWV6R3R3RRAB",
+            "text": "this was my first time at this restaurant, and I can say that I was not at all disappointing! if I would have to say something negative about the restaurant, the only thing that I can think of to say is that the place is small, but I don’t even feel like that’s a negative knowing that they only been open for three years and I feel like giving them about two more years they will be able to expand and get a bigger place! But besides that from the food to the service to the atmosphere was a 10 out of 10! My son tried the octopus as his main course because my son is an octopus lover, and I had a piece of his octopus and when I tell you, it probably was the most tender octopus I’ve ever had. I also enjoy octopus, but I don’t order it because not everybody knows how to make it.! They are on the Price side, but understand that the price match the quality of the dish that you are getting! I honestly forgot my service name and I am so mad at myself for that but I came in there at 11 PM on November 23 and she was a young lady and she was phenomenal 10 out of 10 to her! She was attentive her recommendations was great and also she made jokes with us and everything! I don’t feel like there was really ever a time I needed her to be there and she wasn’t there. She constantly came back to check on us to clear our table to make sure that we didn’t need or want anything else! I love the fact that, although this is a Spanish restaurant, they played a variety of music! So let’s just say if they play 2 to 3 Spanish songs, it will follow up with the reggae song or a R&B song. I love that I love that variety and even their dishes a lot of Caribbean or Asian influenced in the Spanish dish and I also love that.! Overall, I would definitely go back to this place. I’m honestly shocked that they don’t have more traffic! 10/10 5 starz! I hope they are able to maintain their amazing reputation and they will definitely see me and my peoples back there!! oh, last, but not least we are so used to going to restaurants that water down their drinks so much that after the first drink, we had there we were surprised that we had to take a second before we was able to order another drink or even take the shots that we ordered and after we took the shots, we had to wait two seconds and let it hit us that you’re actually getting the alcohol for the money that you’re paying!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnbk9YalpnEAE",
+            "text": "I celebrated my birthday here and it was amazing!!! Everything from the decorations to atmosphere and ambiance is excellent!!! The dj played great music, my drinks and food were delicious and it was such a vibe. Our server Matthew was absolutely wonderful! If you come here you will not regret it!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1dHZlWVRnEAE",
+            "text": "Had a fabulous time here. Started with happy hour with great blend of drinks (I had passion fruit and watermelon margaritas 👍👍👍). The food was superb (had octopus for entree and my friend had the branzino~ both were tender and delicious). Most of all, our waiter ROBIN was so nice, attentive, and personable (hope all waiters are like him in every restaurant 😊). Will definitely go back there!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzNzVQLWRBEAE",
+            "text": "Food was absolutely delicious cooked to perfection, even though it’s a small place it’s was a great vibe music was not to loud where you couldn’t hear your table talking. Service was excellent and drinks delicious highly recommend this restaurant!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyd3NpYUd3EAE",
+            "text": "Came here for my birthday, since i entered the waiter was extremely kind and patient. Restaurant vibe was very trendy/ instagrammable decorations, very beautiful flower wall towards the restroom area. The cocktail menu was quite lengthy offering drink options for everyone’s taste. Now, I was shocked when our drinks came in, such a fun and new way to have a drink it was definitely picture worthy. We decided to order sushi boats and they did NOT disappoint. Sushi was amazing and a good portion while the presentation was jaw dropping. This place deserves more recognition for sure."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdzlMUDZ3RRAB",
+            "text": "Went on a Thursday, and it was Kareoke night! It was fun and engaging. Fabrika is intimate and inviting. The food was 10/10- everything tasted so fresh and flavorful! The drinks did not disappoint either. I would highly recommend this place."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGMnNIUWJREAE",
+            "text": "I’m gonna start off by saying Joe the bartender is seriously an amazing mixologist and I was server Robinson was phenomenal. This restaurant truly understands what good service is. The staff was very polite and it was consistent amongst all of their employees.\n\nWe made a reservation same day. I admit there was a little bit of a wait. But that was OK as one of our members was running late as well. We were able to sit at the bar until our table is ready. Try the Espresso martini not listed on the menu. But there are several other cocktails available to try.\nTheir brunch runs until 5 PM which is irregular In comparison to other places. But there’s only three items.\nAlthough there was a true appetizer menu, we ordered the octopus and brought us to start. Both items were perfect. I’ve had over cooked octopus before, but this was cooked to perfection. Nicely chard, and not overly cooked.\nOne of the specials was a lobster tail and filet mignon. But they allowed me to swap it out for skirt steak. The prices are very reasonable here. The space is small, but the Decour is so charming. For this season, they have a spooky clown themed decor Which I’m told changes each season.\nCertainly check this place out! I will be back"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQeVAyMmZBEAE",
+            "text": "Beautiful decor and ambiance. Happy hour drinks served in tall glasses that didn’t skimp on alcohol. I ordered the Octopus and it was tender, grilled to perfection and a substantial portion. My fiancé had the skirt steak and it was delicious. We also ordered the picada as a starter and the avocado crema sauce on the side was yummy as well. Basically, everything was great and did not disappoint! We went at 5pm on a Wednesday night so we were able to enjoy a practically empty restaurant just like we like."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoa19fV19nRRAB",
+            "text": "What a great experience. The restaurant is beautiful, loved the little touches and I’m obsessed with the flower hair girl on the wall. Food was amazing and the atmosphere very relaxing and fun. Loved the choice of music as well. This restaurant is definitely a labor of love and done very well. We had a wonderful time."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4aktybkV3EAE",
+            "text": "Camila was amazing. Her recommendations were on point. She made us feel so welcome and the service was amazing. Food was A+ there was no bad dishes. Happy hour margarita ($6) were nice and strong"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiZ29ic2t3RRAB",
+            "text": "Absolutely no regrets having my Birthday Dinner at Fabrika!\n\nIt was a Tuesday, 7:30PM and my friend and I were immediately greeted at the front by our server, Carlos. My friend and I ordered:\n\nDrinks: Moonwalk (amazing presentation and taste), La Patrona, and Blue Lagoon. All the drinks were delicious, had a good amount of alcohol and were crafted beautifully. Shout out to the bartender, Robinson!\n\nFor appetizers and sushi: Fritto Mixto (perfectly fried seafood), and Acevichado Roll. At first I thought the roll would be sweet because of the mango and apple but the acevichado sauce balanced out everything and the roll was simply delicious. I’ve never tasted anything like it and I love eating sushi rolls. Very unique.\n\nFor entrees: My friend ordered the french cut chicken breast, which looked so good. I ordered the skirt steak that comes with a side of fries and I asked for a side of mashed potatoes. My entree was cooked perfectly to my request (medium) and it was delectable. The portion size for all the orders were just right.\n\nThe night ended with a serving of a unique dessert called mango passion fruit mousse which came on a love boat with a Happy Birthday sign, along with a birthday song and message board which came so unexpectedly.\nIt was more than what I could ask for.\n\nThe highlight of my Birthday dinner was EVERYTHING! I haven’t received such amazing service like this from drinks, food and attentiveness in a while.\n\nShout out to the staff: Carlos was attentive, accommodating and extremely kind and was more than willing to take our photos by the gorgeous flowery hallway at the back of the restaurant. Robinson also took care of us and gave us birthday shots.\n\nI hope this place continues to serve its patrons with hospitality and amazing food and drinks. This is truly what will set you guys apart from other restaurants who charge so much money for subpar food and service. Highly recommend this place and I can’t wait to go back! (They also have happy hour)!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5N1B2a2tnRRAB",
+            "text": "We did the prefix and it was the best idea, the food it’s incredible, the vibes are immaculate, the drinks are so good but the services it’s out of this world, our server Camila was outstanding, she was so incredibly helpful and nice, attentive, definitely would be back soon."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0aGJlbmJBEAE",
+            "text": "Absolutely love this beautiful restaurant. I was taken her on a date, Robin was the best host ever attentive and pleasant. The atmosphere was to die for … incredible food!!!!! An absolutely amazing experience overall…. I can’t wait to go back and try some more of the dishes."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvd2VYR3NRRRAB",
+            "text": "Delicious and unique food and drinks are great. Presentation is just so thought out and the ambiance is very cozy and relaxing. Will definitely go back again."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvOFpqVHB3RRAB",
+            "text": "Camila was super great. So attentive and sweet. Food was good and drinks were great. Deff a great spot to come and vibe with a group or on a date!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJMVBualVREAE",
+            "text": "Love the Food, the atmosphere, The music was on point!!! It was my birthday and they made it special."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMjRpeEtnEAE",
+            "text": "The atmosphere was so lit, I loved it! Me and my bestfriend wanted to try it out since we saw a review about this place on tik tok & it did not disappoint! We got there and they had a short 10-20 minute wait which wasn’t bad for how busy…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIZ0k3MFV3EAE",
+            "text": "Drinks were amazing as well as service. I enjoyed the atmosphere, I just think the volume could have been a bit less noisy considering it is a small space.\n\nFood overall is very tasty, we loved the way the oysters were served. The acevichado roll was out of this world as well as the rock shrimp tempura roll. I believe Incredible roll can be improved taste wise, it wasn't as flavorful.\n\nWe will definitely be back for more drinks and oysters in the future 🫶🏼☺️"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCdWFEUWtnRRAB",
+            "text": "Amazing little restaurant. I’m very particular about restaurants and this one hit every note perfectly. The ambiance, decor, music, live DJ, attentive but not intrusive staff, and most importantly amazing food! High quality ingredients cooked to perfection with great flavor combinations. My husband and I had the arepitas de pollo, frito mixto, churrasco, pudín de pan, and tarta de chocolate. The steak was done perfectly, the arepitas were addicting, and the pudín de pan was utterly delicious. Aside from the great food, my husband also really enjoyed “el jefe” as a drink. I definitely recommend making reservations as it gets full quickly."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfejZmMFN3EAE",
+            "text": "The food and drinks were amazing! Definitely worth the price. I would love to return another day :)"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJa2M3R25nRRAB",
+            "text": "I had a wonderful night at Fabrika. I found this place last minute for my birthday and was pleasantly surprised by the delicious food, aesthetically pleasing atmosphere, great music and hands down the best customer service. My server Joanna was marvelous. She went above and beyond and she did not even know that it was my birthday. Please give this woman a raise!! She was so kind and went above and beyond to even go so far as to give me a mini photo shoot. I would 1000% recommend this restaurant to anyone who is looking for good food and a great time!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxc19Dc3FnRRAB",
+            "text": "First time here and I must say this place is a gem!!! From drinks , appetizers, main courses, and dessert everything was on point! The drinks looked amazing. The appetizers and main courses were delicious! I highly recommend the \"Crispy Rice\"! Our server was Robinson and he was very nice and knowledgeable about the menu. I highly highly recommend you listen to his recommendations! Will definitely be back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJdE0zd2d3RRAB",
+            "text": "Este lugar es 100/100 desde el agua hasta el postre estuvo delicioso en este lugar sin contar con el servicio y la decoracion desde que entramos estaban muy atentos a nosotros nunca dejaron de servirnos Carlos especialmente nos brindo un servicio excelente tus recomendaciones y atenciones fueron muy buenas la comida y los tragos estaban riquisimos y a un precio muy accessible me encanto todo!"
+        }
+    ],
+    "reviews_count": 79
+}

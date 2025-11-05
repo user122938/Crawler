@@ -1,0 +1,551 @@
+{
+    "name": "Teura Italian Restaurant",
+    "place_id": "ChIJlwrgFKZFwokRIGsalu_jW2M",
+    "grid": "BK13",
+    "address": "1215 Surf Ave, Brooklyn, NY 11224, USA",
+    "rating": 4.8,
+    "user_ratings_total": 429,
+    "phone_number": "(929) 556-4124",
+    "reviews": [
+        {
+            "date": "3시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SeFpURnVXV3h1VmtWM09UTjFaMlJpTkhaeVZsRRAB",
+            "text": "Do you want more 5-star Google reviews? Best of all, they’re free! We can provide as many as you need to help your business reach the top of Google Maps. Contact us on Telegram: @gthisjpeg"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzd1puZGZkbkZJVFZWcE9XRnFWMVZQUzA5M1UzYxAB",
+            "text": "My husband’s favorite place 🤍"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsR1RWVTBMV05sVlhVelltVldjRFJwUjJOMFNrRRAB",
+            "text": "This place is absolutely amazing. We have come here several times and will continue to come here. You should try the chicken Parmesan, which is absolutely fabulous."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKaVdHMTFZamhTY0V0amJWUmhWVWR2VXkwMFZsRRAB",
+            "text": "If I could rate this place zero stars, I would give it negative -1000 stars instead!! The waiter was slow to answer and kept walking away from the table. They never asked how everything was doing and barely even checked up on us."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SNWRVdDZlRU16Y1hkcmQybERUMjlzT1ZOd1VsRRAB",
+            "text": "Was looking for an Italian restaurant for a late lunch and I’m so glad I came across Teura. They have a great, extensive menu with something for every palate. We ordered the fried calamari, the Linguini Seafood, and the Lobster Ravioli, everything was absolutely delicious. The calamari was perfectly cooked, tender, not chewy! and the pasta dishes were flavorful with beautiful presentation.\n\nOur server, Denis, was fantastic, attentive, friendly, and made the experience even better.\n\nCan’t wait to go back! 😋"
+        },
+        {
+            "date": "1주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3d2JscG1ibmh4UzBOR05XdHdXRE5OYzNKTVpYYxAB",
+            "text": "Esperienza ottima!\nUna mia amica voleva un pranzo veloce take away e siamo state accolte da un cameriere gentilissimo al quale ha ordinato un'insalata. In realtà poi nel sacchetto d'asporto abbiamo trovato questo mini calzone super saporito e croccante con moltissime salsine deliziose.\nDavvero un servizio impeccabile!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Wa1QySkJSREIyYVZwYUxUTkJjRE5wUm5CdU0wRRAB",
+            "text": "Everything was so good! Loved the fried calamari in particolar. And the service is excellent. Highly recommended"
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCVldGZEplVTVVVUVsM2R6VmFhVXh4TmtsMVQyYxAB",
+            "text": "Le 5 étoiles est gagné par le service exceptionnel qu'on a eu. Foccacia et gâteau au fromage gracieuseté de la maison.  Ils m'ont fait une calzone qui n'était pas au menu - il y avait une pizza meatlover mais pas de calzone, donc ils me l'ont fait en calzone."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGcVpYZE9aRVpITjFKV01VeDVSbWhJZWpOYVNGRRAB",
+            "text": "I love this place . The food is always fresh always delicious and that goes for dine in and takeout!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wNWJVUm1SR1I0ZHpGMGQyOUVXVms1VlRORmRHYxAB",
+            "text": "Denis is fantastic! Incredible service."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NmFDMDJhVkF3ZUhKUFlsWjNjbFYyY25WVGJtYxAB",
+            "text": "Denis was incredible. Promote him"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSMFVIUlZUVzl0VDJkeWNrWlZXa0ZQU1ZaRFIwRRAB",
+            "text": "Bell and Denis made my day, they’re so friendly and so hospitable, I felt like I knew them long time and pizza was so delicious! I appreciate the service they gave me! Thank you so much 😊"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSek9HaGlWa3czVmxFMVkzbG1YMUJ3VUZsNFpXYxAB",
+            "text": "Great and modern menu, speedy service and up to date decor."
+        },
+        {
+            "date": "3주 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVldYVkxUR2czVUVKTGNXZEdNWFpzUkU5RVFYYxAB",
+            "text": "NAJLEPSZY cheesecake jaki jadłam w życiu!\nLasagne również pyszne, porcja olbrzymia. Dobrze tu można zjeść. Obsługa na medal, bardzo przyjemnie spędziłyśmy z przyjaciółka popołudnie."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sRFlYTnJjbGs0WTE5elNHVjZSSGQyZUVWbVZFRRAB",
+            "text": "A wonderful Italian spot right near the city’s main attractions — perfect for a cozy meal before exploring the area.\nThe staff was incredibly friendly and attentive, the pizza was delicious and a perfect crust.\nPortions are big (one pizza is easily enough for two), and they even treated us to a tiramisu at the end — such a thoughtful gesture.\nGreat food, kind people, and a perfect location."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25keldrZFFPWEkxUTI5WFp6aHZaV3BCV0dwbWFYYxAB",
+            "text": "Great food and service, I went once and then twice, now I’m a regular. Kudos to the entire staff for doing an amazing job consistently."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsNk5tUnNiVGhhZVVoNGR6WnNRa0pLTTNGM1NFRRAB",
+            "text": "Good ambience and the food was delicious .I will definitely be going back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bVMyVXdibDlST0VWU2RrRlRhSEYwVHpGV1JuYxAB",
+            "text": "“This was one of the best Italian dining experiences I’ve ever had—authentic, warm, and unforgettable!”\n\nThe coal brick oven pizza had the crispiest crust and freshest toppings,\nThe homemade pasta was cooked perfectly al dente, and the truffle sauce was rich without being overpowering.\n“The staff were welcoming and knowledgeable. The cozy décor and Italian music made it feel like a little escape to Rome.”\nThis is our four time coming here I’ll definitely be coming back!”"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NNVVXc3lNblZmTmpVMlFUWlJUV014VkcxUlVVRRAB",
+            "text": "Teura Italian Restaurant offers such a complete package it's hard to break down. Expenses seem greater than value, yet vibe compensates. The chef mixes flavors in surprising ways. The employees understand details while maintaining kindness. This spot offers comprehensive quality."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WQlVXUjBjMGg1VVhscWFHUk5iMlZzVDFkdk9VRRAB",
+            "text": "Great spot in Coney Island! Fresh food, tasty menu options, and very friendly staff. Cozy atmosphere. definitely a place I’d come back to."
+        },
+        {
+            "date": "1달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4cFMwRnhWbWxWZGpKUWFWUlJiRlp6VUhGTGNWRRAB",
+            "text": "Wir waren zum ersten Mal im TEURA in Coney Island und es war ein rundum großartiges Erlebnis. Schon beim Ankommen haben wir uns sehr wohlgefühlt: das Ambiente ist modern, stilvoll und trotzdem einladend. Man merkt sofort, dass hier viel Wert auf Details gelegt wird – von der Einrichtung bis hin zur Präsentation der Speisen.\n\nIch habe die Pasta Meatballs gewählt und war absolut begeistert. Die Pasta war perfekt al dente gekocht, die Sauce intensiv und harmonisch abgeschmeckt, und die Meatballs unglaublich zart und aromatisch – genau so, wie man es sich wünscht. Meine Frau hatte die Linguini mit Muscheln und auch dieses Gericht war hervorragend: die Muscheln frisch, die Pasta mit einer leichten, köstlichen Sauce, die das Meeresaroma perfekt unterstrichen hat.\n\nDazu kam ein sehr freundlicher und aufmerksamer Service, der unseren Besuch noch angenehmer gemacht hat. Man hatte nie das Gefühl, gehetzt zu werden, sondern konnte in Ruhe genießen.\n\nAlles in allem war es für uns ein echtes kulinarisches Highlight in Coney Island. Wir können TEURA jedem empfehlen, der Wert auf hervorragendes Essen, ein schönes Ambiente und freundlichen Service legt. Wir werden ganz sicher wiederkommen!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21STWMyaElVV3AzZUMxRmNFcDRkak5wV1dKS2VWRRAB",
+            "text": "Beautiful place very clean, only thing is they are missing something in the restaurant… food was ok, pizza was too salty  . The atmosphere is beautiful"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWYVJFNUpPV1kzYWpCNmExaDZXSEo0TkVJdFoxRRAB",
+            "text": "The owner Belle was amazing he gave us the best service I’ve had in such a long time. The food was the icing on the cake soooo good. 10/10 I definitely recommend. We will definitely be returning customers ❤️"
+        },
+        {
+            "date": "1달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kalVHMXdPVWRLZDJwT01ERkZYMDQwVEdGa2NWRRAB",
+            "text": "Tres grosses pizza ( 1 pour 3 voir 4 personnes), abordables, delicieuses, et a 2 pas de l océan..."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4NFYzZFRlbTFFZGtsRlYzb3dWa2gzZEhBeGFYYxAB",
+            "text": "The steak had a wonderfully fragrant rosemary aroma, with a crispy exterior and a tender inside! The bread served beforehand was also very tasty, and the cheesecake I ordered for dessert was incredibly smooth with a rich, milky flavor. Even though I was full, I didn’t regret ordering dessert at all — you should definitely try it. And Jeffrey was extremely kind. 😇"
+        },
+        {
+            "date": "1달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SU2FqVjFlVEJQWjA4eldXbzRUMmRHVFVoTE5tYxAB",
+            "text": "Самое вкусное место, где я был в Бруклине 👌🏻"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tobWQyRktNbVJIUVMwM1RGUTRWV2x0TUZndGQyYxAB",
+            "text": "Jeffrey is such a wonderful waiter! Very attentive and personable. Great atmosphere along surf Avenue - lots of interesting people walking by and a nice breeze from the ocean. One of the better restaurants in Coney Island. I got the white mushroom pizza with ricotta and truffle oil! WOW! So good. Can’t wait to come back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SaE9YRkxZMmxKY0ZvMmNsUjZZVkZTWDNKb1kyYxAB",
+            "text": "This place is absolutely AMAZING!\nFrom the food to the atmosphere, to the servers! Omg, my boyfriend and I went here to celebrate our birthday's and we were RAVING about this place on the ride home. The food is delicious!! Some of the best PIZZA I’ve ever had. The cheesecake is delicious! Belle was amazing!  He was so attentive, very nice and genuine. I’m from queens and I drove an hour just to come here because it’s just that good!\nIt’s soooooo good 10/10, 10000✨✨⭐️⭐️⭐️"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSRGVUVTFTSFZIU1U5VFduSk5aMkV0YURjMGNVRRAB",
+            "text": "The best authentic Italian food I’ve ever had. I traveled 1 hour from the bronx to come back!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFeE9VWjVUSGxEVTJKd1dtWmxPWEZPUlZGa1kyYxAB",
+            "text": "Excellent food, service and place in general!!! Took my daughter for her birthday!! Hidden gem❤️❤️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVU5FeFRhMU5WZDB3MU4zTXdZV1UzZG1scVFWRRAB",
+            "text": "This truly is a gem in Coney Island. I just moved here and it’s a favorite for sure. The staff is so pleasant and the food delicious. Our server, Dennis, was magnificent and very accommodating. Can’t wait to go back!\nDaisy @ 1515 Surf!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvMlNVazBiVlZvWlc5YVNHcHJRemN5V0RsSVIyYxAB",
+            "text": "Give Denis a raise! An amazing person!! Love his vibe!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVmVHSldkamhVWmxKSGJrUlVkSGh1WmtSRVpFRRAB",
+            "text": "give Mr.Denis a raise right now!!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210VWJ6QjNOVVpqUjJwTWJsSllORloxTldkSFJYYxAB",
+            "text": "Give Dennis a raise!! He was amazing and the food was great."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25adVQxOXNNVmd0VGs4d1RrVnVhMEZoV0ZoaVptYxAB",
+            "text": "GIVE DENNIS A RAISE ASAP!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psYVMzVTNWbDlUUkZwWFJEaEpTa1k1Y0haRFFXYxAB",
+            "text": "I really enjoy the variety of foods. I had the vegetarian pizza and it was delicious. My favorite was the Chocolate cake."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SbVNWOUNiV1J2WTJWUmVEVkJSVFpGTm5rdGVIYxAB",
+            "text": "Last day on NYC an it was great, the food the service the restaurant, the background music is subtle like jazz, Frank Sinatra, Italian classical music and the vibes and the pricing is great 10/10"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CbGVVaGFjMVp1YzB4dGF6VkxkMFpoZEZGcmJuYxAB",
+            "text": "Amazing tasty food with great hospitality.  Loved their wine recommendation from Bell and it paired fabulous with our dishes . Will definitely be back .🥂"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SSlFqQTBlV3BQWVhKS05VTktaRFkxVVZKR2JtYxAB",
+            "text": "Great food great service a must place to try"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toZlpHeFdPRVJ1VUdGeWVsRXhSWGgzWDI1V04yYxAB",
+            "text": "Pizza gigante. Ci mangiano almeno due persone.  Piatti tipici in formato  americano. Tutto nella media. Ottima posizione"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0NFpGUlRjRjlUT0VSTmRHOVFkV2RsZWxoelpGRRAB",
+            "text": "Not only was the food amazing, but the service was also exemplary! I would 100% recommend this restaurant and come here any time I’m in the area!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRk5VOXNhM1F5T1hoMWFrMVpjWEkwZG5wallXYxAB",
+            "text": "The food was amazing and the staff was incredible! 10/10 def recommend !!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SS2MyNXpTMjQ0YTJ0UlQxbGljWFE0UlRGNFpGRRAB",
+            "text": "One of the best Italian restaurants we’ve been to.\nAll staffs are very friendly. We were amused by the whole vibe of Coney Island, and their hospitality added the cherry on the top.\nFood was super good 👍🏻👌🏻"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUldWRnhkMUZ6Y25rd05FNWpVMUpsYTNRNU1rRRAB",
+            "text": "“Great service and wonderful attention to detail! I would highly recommend this place to anyone who loves delicious Italian food.”"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSUWMwbE9aaloxYkVKaVFUVnpTbXcxWWtGeVkzYxAB",
+            "text": "This place is amazing! Must go if you're in the  Coney Island area!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ORVdFTjNXVGRsT1RSbGJYRnlRa2hDYXpaamRFRRAB",
+            "text": "I had the absolute pleasure of dining at Teura on 1215 Surf Ave in Brooklyn with my husband and son, and it was nothing short of exceptional! We came all the way from the Bronx, and it was absolutely worth the trip. From the moment we arrived, the atmosphere was elegant, welcoming, and truly upscale.\n\nWe had the margarita pizza and mozzarella sticks, along with four glasses of wine, everything was fresh, flavorful, and beautifully prepared. Even though we arrived at 9:30 PM, just 30 minutes before their 10:00 PM closing, Denis, the manager that night, still welcomed us in with open arms. He went above and beyond to give my family and me the ultimate dining experience, making us feel like VIPs from start to finish.\n\nWe will definitely be back at an earlier time to explore more of the menu and we don’t want any other waiter but Denis! I even took some content to make a TikTok, and as soon as I post it, I’ll be tagging you guys!\n\nIf you’re looking for an unforgettable dining experience with incredible food and world-class service, Teura is the place to be."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZNXRLNEh3EAE",
+            "text": "My wife and I had dinner here for our anniversary. About a week prior I spoke to the owner, Johnny, and he was very accommodating and said he would set up a nice table for the occasion. When we got to the restaurant he personally greeted us, and our server, Denis, welcomed us and showed us our table. They did a wonderful job of setting up something nice and even had cold moscato waiting for us. It was such a nice gesture on their part. The food was very good, but what we enjoyed most was the friendly staff and attentiveness. All of them, including the owner, the cook, and the servers Denis, and Jeffrey, were working hard to serve everyone as quickly as possible but still took time to answer our questions and make good recommendations. I highly recommend this restaurant and will tell our friends about it as well. The atmosphere was very pleasant and food was great. Thanks again!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGRVYwWnJUVXAyYUhGNmRFOW9jMWgxZUd4UWFVRRAB",
+            "text": "We were looking for lunch and happened to come across this place by chance — and it turned out to be the absolute best decision of the day to eat here.\n\nThe service was outstanding — attentive, warm, and genuinely friendly.\n\nAnd the food — an absolute dream!\nWe had pizza for three, an excellent Caesar salad, and heavenly bruschetta.\n\nBefore that, we were served homemade garlic bread with tomato pesto — a true delight!\n\nWe’d come back anytime!\nTruly worth a visit!!! Thank you!!!\n\nAccording to the picture - there was no banana available for scale :))"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRM2JtVXRTM1ZZZFhoWFducHhNVFo0VlV0YWNXYxAB",
+            "text": "We were celebrating our 39th wedding anniversary with a trip to Teura restaurant during the early afternoon. We could have gotten brunch, but we decided to go a la carte. Once I mentioned that we were celebrating our anniversary, to our surprise our waiter immediately told us he was bringing a bt of champagne 🍾 on the house for us. A big surprise smile were on our faces and we thanked him for his hospitality.\nHe was so attentive during our visit and was NEVER in our way. He made sure we were comfortable and had everything we needed.\nThe story is not finished yet, we were so full, but he insisted we can try the desserts 🍮, well I went for the tiramisu. Now here is the best part, he brought an additional dessert (at no additional cost 💲) for the table. Both of them were very delicious and well received.\nI will highly recommend this Italian restaurant to everyone because it’s family oriented. This is our second time going there with the same treatment from what we remembered the very first time we walked through those doors. I have been recommending this place to everyone who is visiting the Coney Island area to pop in and try them out. You are not going to be disappointed with the service and the Food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkUVVVRTBOREZWWkhWWGFuVTRMWEZXTkRkM1prRRAB",
+            "text": "This place is absolutely perfect. The food is delicious. The service is top notch. It's right on the main strip of Coney Island so you can appreciate the atmosphere without having to eat beach food. We had a caesar salad which was light and well made and a margarita pizza which was huge and delicious. Good quality cheese and sauce."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWVJtSlpkM1ZVYVZaSGNHZFJlbEJMUm5JeFozYxAB",
+            "text": "Yesterday afternoon I went to this restaurant for the first time. It’s very nice and the service was excellent. Jeff guided us on what to drink and it was spot on. My only comment would be about my dish, gnocchi with pesto,but it really didn’t taste like pesto. If that happens to be your choice, just keep it in mind. I understand it’s not always 100% basil, but in this case it didn’t taste like it at all. Even so, Jeff’s great service made up for it. Plus, the prices are very reasonable"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOWlFsZ3lhRGxWTFdGSFpuQkhTRU5JVlVaWGIwRRAB",
+            "text": "Wow food was so delicious! I went with my girls and we shared 4 dishes and had 4 wines. We had the chicken parm, fettuccine alfredo, margarita pizza, and lobster pasta. It was fairly empty and service was a little slow but they were kind enough to give us free dessert! We will be coming back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGcloxaHJXbmxKTFhWT2JuaEVTbmczVDFwQlZVRRAB",
+            "text": "Such a lovely place right near the boardwalk.\nThe pizzas are a healthy size for a group of people. The appetizers were fantastic and the staff were super friendly and knowledgeable.\n\nStop by and support this amazing place when you visit Luna Park."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQblJ6N2VMb2U3cGlRRRAB",
+            "text": "Teura Restaurant is a hidden gem in Brooklyn! Our family had a lunch on Sunday.  We got the Margherita pizza and was absolutely delicious—perfectly crisp and flavorful, thanks to the wood-fired oven. The seafood risotto was perfectly cooked, and the steak was fresh and soft. I especially loved the panna cotta and the tiramisu. The service was warm and attentive, and the prices were very reasonable. Highly recommend!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVGEzbzFPRjlJU0VGUmMzaFRjbWR5UkdSalVVRRAB",
+            "text": "Great place !\nI came with my family for a beer and pizza .\nWe order the fried calamari as well . The services fas fast , clean , and super nice . I definitely recommend this place to friends and family."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214WE1uSllSM2Q1WkRkQ05rZEpOVU5HY1dvNFpHYxAB",
+            "text": "Absolutely fantastic experience! An amazing family run place with the most friendliest owners we've come across in recent times.\n\nDennis took our order to make a kiddie pasta - plain and simple - penne with butter - but was cooked to perfection. Their Cheese Pizza was a revelation and now, we have a challenge to travel all the way to Coney Island to get try this masterpiece!\n\nFood overall was excellent, and the location is great too. The family that run this place were really sweet and gave our little one ice-cream after being rejected by his dad ;-)\n\nWill visit Coney Island again, will be here again to try out some more Pizza's and Pasta's!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCNVdVbHpXRkoyUmsxcmVsUllTR1p2TFVFelNsRRAB",
+            "text": "Beautiful place, with yummy food.. We had an Arugala salad and a Calzone.. Big portion so we shared.. Coffee was also very good, nice and strong..\nSorry pics of food are half eaten we were hungry.. lol"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3OFlmNmFnEAE",
+            "text": "Updating this as I have been here several times now. It continues to be delicious every single time. And prices have not\ngone up much. The portion sizes are just ridiculous. You will have leftovers. Every meal starts with a ridiculous soft loaf of bread and some kind of tomato confit , pictured here. Just the bread and a tomato is a meal in itself.\n\n(From last year) What a gem to have in Coney Island! The pastas are homemade and simply delicious. Service is fantastic. Waitstaff is attentive and super friendly. If you're willing to pay $15 for over oily fried fish and chips on the boardwalk, come here instead. The atmosphere is lovely, very calming and the food is DELICIOUS! The pasta entrees range between $19 - $24. Other entrees around $21, great salad selections, starters, kids menu, healthy side offerings, reasonable wine and beer prices, and pizza, too.\n\nRecommended:\nPesto Gnocchi\nPolenta\nSalads\nPizza"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZNXFpSUJ3EAE",
+            "text": "Teura Restaurant, managed by Mr. Elez-Bucaj with Mr. Denis behind the bar, offers a warm, elegant dining experience. The cozy interior features exposed brick walls, a stunning chandelier, and an impressive wine wall, creating a sophisticated ambiance. The wood-fired oven hints at authentic Italian cuisine, with fresh ingredients on display. The staff is attentive, and the space is family-friendly, with high chairs available. Perfect for a refined meal, though the setup suggests occasional live events."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQbkMzYUtXaG8tVXlnRRAB",
+            "text": "Great food, great price, great service, great view!\n\nGreat complementary bread.\n\nI dropped my fork and had a fresh set of silverware handed to me within 10 seconds.\n\nGreat views of Luna Park\n\nSomething for everyone on the menu, they made accommodations for us and allowed us to substitute things with no hassle.\n\nThey also were out of the tiramisu so they gave us chocolate cake and gelato on the house.\n\n6 stars tbh"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ac2REbGZWRzFPVFZNMmExVldSVkJuY0VJd2QyYxAB",
+            "text": "I had an incredible dining experience here. The service was excellent and the food, even better! I'm sending anyone I know who is going to Coney Island here."
+        },
+        {
+            "date": "4달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGeE5FcDNSMDFKTUZkcU16RlhUak5uWjFoa1pGRRAB",
+            "text": "Wow, welch tolles Restaurant.\nWir waren gestern durch Zufall in dem Restaurant aber wie so oft die perfekte Entscheidung.\nWir wurden sofort freundlich empfangen, rasch war eine hervorragende Vorspeise und die Getränke am Tisch.\nIch habe dann eine Pepperoni Pizza gegessen die wo anders als Famimienpizza verkauft wird.\nUnd diese war sensationell gut.\n\nAuch das Bruschetta und der Salat waren sehr gut und reichlich.\n\nDas Personal ist sehr freundlich und immer bereit an den Tisch zu kommen.\n\nIch kann das Restaurant nur jeden weiter empfehlen\n\nAchja\nPreis-Leistung ist unschlagbar\n\nIch bzw wir würden jederzeit wieder kommen.\n\nVielen Dank für diese tolle Bewirtung daher volle 5 Sterne"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvd1o2c3p3RRAB",
+            "text": "This is a place to bring your loved one and enjoy the flavors of Italian dishes!\nDenis service was outstanding\nThey got all the food to the right delicious taste"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBaTl1YTdnRRAB",
+            "text": "The large restaurant is located in the Coney Island section of Brooklyn.  They prepare Italian cuisine.  I ordered a pesto pizza which was well-prepared with fresh cheese.  The polenta appetizer was very good with a generous portion.  The lasagna was different than others I have previously ordered in different restaurants.  The pasta were smaller strips with cheese and meat.  The meatball side order was excellent.  It consisted of three meatballs with quality taste.  The tiramisu and cheesecake were very good.  Very friendly and helpful staff."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkWU1YcDZUM3B4WkhjeldXSlZTMFZ1VEhRMFJWRRAB",
+            "text": "Food was amazing, all the selections are delicious! 🤤 Definitely I will bring my fam.\nKids friendly and the service was incredible.\nThey also support community based organizations. THANK YOU FOR DOING THAT, and give back to the community."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sdlUwOVdZVXRCTFdnMFpteHFUV051WkVGZmFtYxAB",
+            "text": "This place is a hidden gem! You might not expect to find a sit-down place with incredible pizza amongst the hustle and bustle of Coney Island, especially so close to the Stillwell Avenue subway terminal, but that’s exactly what Teura is. Go for the grandmas pizza and enjoy some gelato as a post dinner snack. The waiters were very relaxed and did not rush us out at all."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCeVFqWnZiVGt3ZVcxS0xYSlpXVmxST0ZONFduYxAB",
+            "text": "I looked at this restaurant, IL PONTE, more than once from the outside and as an Italian I couldn't resist. And I did well because everything is wonderful. The place is very elegant, the staff is kind, ready to satisfy whatever you want to taste. The pizza is a delight, the wood-fired oven is an excellent choice, the pizza comes out very tasty. People, I really recommend you go to this restaurant with your eyes closed. We certainly won't leave it again. (Oh, one very important thing: they really know how to behave with customers as we say, Italians have a nose."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKdmQ2OFhWb3FuNHJ3RRAB",
+            "text": "The staff here is so friendly and care so much about the quality of the food. I rarely am a member of the clean plate club, but it was so delicious that I scarfed it all down. Some of the best Italian food I have ever had. Even got a free order of gnocchi to try! The bread was also absolutely fantastic. All around a great experience and if I ever find myself back in NYC, I will be coming back! ❤️❤️❤️"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poSGNscFBVek5JUWxobkxVNVhja05VZG13eVFXYxAB",
+            "text": "I had an amazing time! We got arrived maybe 30 minutes before closing and Denis was so helpful while I was indecisive. I will surely be back after having the Rice balls, Vodka pizza and a bottle of Cantina Aiden Rosè!"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNRGxwdV9UOTYtdTJBRRAB",
+            "text": "Great dinner! Jeffrey our waiter was outstanding!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMWNFcGhTR2xCU0c5NGNWZFZObTQ1YlRSM2EwRRAB",
+            "text": "After a long day at Luna Park, we stumbled upon this incredibly cozy restaurant. The atmosphere in the restaurant was absolutely wonderful and it smelled of delicious food inside. The people who worked there and ran the restaurant were exceptionally friendly and service-minded - we ended up having long, wonderful conversations with them throughout the evening. They made us feel so welcome and at home, and we had an incredibly lovely evening at their restaurant. I highly recommend it. We were there as a family of four."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvLUpXSnVRRRAB",
+            "text": "Place has a good vibe, welcoming owner. Service is great and very attentive. Food is delicious. Will come back again."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vemVXRnhVM2s1VmtabldYWkRSVTlJV2tweVpXYxAB",
+            "text": "amazing restaurant!\na bit expensive but the food was great, and everyone were so friendly"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paaE5WbFJOWGd5WkRoNlJYWmtiak5hUVV0c1JVRRAB",
+            "text": "I was scared about this place because it's in the most tourist place in Conney Island, but this place is not a tourist trap, it's a genuine proper restaurant. Great quality food and service. Gracias."
+        },
+        {
+            "date": "5달 전",
+            "language": "uk",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPeVNtX2l2dTRIdnlnRRAB",
+            "text": "Дуже привітний персонал. Дуже смачно, дуже чисто. Поки що найкраща італійська піца, яку ми їли в Філі або НЮ"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paeGFDMUtZMjB0YUVwUmNFNXVkbHBsTjJ0aFZrRRAB",
+            "text": "Everything about this place is everything I wanted. The service was great from the time I entered the until the time I left. I ordered the linguine seafood with white wine, butter, garlic and parsley sauce, and when I say it was top notch, oh boy do I mean it. I never thought that there was any comparison of my grandmother's calamari, but they take a close second place, and trust me, that's saying something. I have found my new go to for when I visit Coney Island"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiM1BQSEJBEAE",
+            "text": "This was an excellent choice for my family. I love that they have round tables. I recommend the lobster ravioli, the Sophia Loren pizza, the linguini seafood. I’m glad the tomatoes are not pastey like some other places. I also enjoyed the panna cotta which used real vanilla bean. I will be back. My sister lives near here and also recommends the lemon chicken."
+        }
+    ],
+    "reviews_count": 77
+}

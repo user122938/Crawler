@@ -1,0 +1,558 @@
+{
+    "name": "Cabana",
+    "place_id": "ChIJO5078CZewokRVdhUuZVigxw",
+    "grid": "QN6",
+    "address": "107-10 70th Rd, Forest Hills, NY 11375, USA",
+    "rating": 4.4,
+    "user_ratings_total": 2131,
+    "phone_number": "(718) 263-3600",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21STlUyNDBOMUJQUlVSVldsRnZXRlpRYzI5RE0wRRAB",
+            "text": "Buena comida , ambiente muy cómodo y excelente servicio de todos en particular Nancy quien guía y brinda una mejor experiencia"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSb2MybGZaR295WDBoc2MwVjJZMWd4VlVaRFpWRRAB",
+            "text": "We enjoyed the various dishes.  All tasty, prepared as requested and served hot.  Great service.  Loved the Cuban music.  Highly recommend coming here."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5Sk1rVmhURVl3UjFsMmVrZzBOM0p2UjBRMFRWRRAB",
+            "text": "Cabana in Forest Hills has that lively, island vibe — upbeat music, friendly service, and food that feels like a mini getaway. I ordered the chuleta de cerdo (pork chops) with rice, black beans, and tostones. The sides were delicious — and lucky me, the tostones came with a garlic dip, which I happily used to give my pork chops the extra kick they needed 😉. I was hoping for a bit more Dominican-style flavor from the pork, but overall, a solid spot for good vibes and Latin comfort food done right."
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZNWFrWXRYM2RJUjBKSGJXUkllREU1VUVkYWFWRRAB",
+            "text": "Cabana in Forest Hills is hands down one of the best Latin restaurants in Queens! The food is absolutely delicious — everything comes out fresh, full of flavor, and beautifully presented. The fried calamari was crispy and perfectly seasoned, and every dish had that homemade Latin touch that makes you want to come back for more.\n\nService was excellent, the ambience is perfect, and the music adds a fun and lively vibe without being too loud. You can really feel the welcoming atmosphere from the moment you walk in.\n\nCompliments to the chef for the amazing food and flavors — truly a standout dining experience. Highly recommend Cabana to anyone looking for authentic Latin cuisine and great service!"
+        },
+        {
+            "date": "수정일: 4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnLWJQTzV3RRAB",
+            "text": "The absolute BEST! Best food, best service best everything all around! I have been eating here since I was in my 30's....I am 58 years old now and the food is still the most delicious!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sYVpFTTNVazlLVDE5ME9EUXhjbWcxWjJoWmJuYxAB",
+            "text": "Enjoy the food. Looks pretty taste amazing!\nAlways look forward to eat there.  Everyone on staff eager to please. Very courteous.  Our favorite Valerie is a Treasure🍺🍹"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWRGMzbE9TVmgxWVVOT1gyRm1aMkpFWWt0SVNtYxAB",
+            "text": "A hidden gem! The flavors blew me away, and every dish felt thoughtfully prepared. The staff was knowledgeable and recommended the perfect wine pairing. Will definitely come back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5cGNYaFROR0ZTY0RsYVN6WmhWVUZNZFZSV1YxRRAB",
+            "text": "Place get busy.Food is Really tasty.I had a good experience here.and they serve liquor too"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vMmVqRjFiMUJuUkdWRmFqaDVjR2xJTkhOemRIYxAB",
+            "text": "It's a fantastic place. Very unassuming until you get inside.  Food and ambiance and staff are great"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ReVQwNWpiVXROZVhCVGQxSkplbXh3VUhKTFgxRRAB",
+            "text": "Excellent experience. Great food. Great service highly recommend"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJek5HOVFVV3RuY0cxdlNXcDJSRVpRWW14VVdYYxAB",
+            "text": "We were seated promptly."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1RU5XWk1Sa2xIZVd3MlpqQldOekUzVm01aVVsRRAB",
+            "text": "We got there at 10:20. I was concerned that they closed at 11 and had the waiter sure us we had enough time to not be rushed.\nTurns out we had plenty of time and we were welcomed.\nWe went with the calamari appetizer\nThe Ropa Vieja and Arroz Con Pollo.\nSimply delicious   They give you a choice of dark meat or white meat for the arroz con pollo.  We went with a mix. That’s the first time I was ever asked what type of meat for this dish. It came oven hot in a cast iron grill. Stayed hot the whole meal.\nThe tops vieja was very filling and equally as tastey if not even more."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaWmVXOUtaR1JCYTJSeVZFdHhSa3g0WVc1RVptYxAB",
+            "text": "The yellow rice and red beans alone - so goood. I had the steak and sweet\nplantain. Very tasty. The mojito!!! Yum!! Will be back. Thank you to Oscar for the wonderful service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWc1RWVkthQzFPY2psRldIRkZWME5xVEdseFJsRRAB",
+            "text": "Their parrillada is great for appetizers. The churrasco and paella valenciana are delicious! The service is excellent! Great for friends families with children. Super attentive service."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZM1NFTldhVjlZZG10RlRFbDNaVGRNV1hSemMwRRAB",
+            "text": "The cod fish appetizer was not cod fish. Part of it super hard and part soggy. I asked for the check and expressed my concern . No one bothered to come to my table or anything.  Will never eat there again"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SYU0yOHhiRk5HU0VaQ2JWQkJiMjFoUldOUlVWRRAB",
+            "text": "Very tasty food - ok as price goes for the area but lots of it and the choices we had were all excellent as was the Sangria."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSU1VHcHJXR2Q1UkV0S1JqSk1PV3RmTW0xaU5GRRAB",
+            "text": "My sister and I have been to this place and ordered the chicken paella and more rice. The food was wonderful, and the service was wonderful. The atmosphere was that the waiter was nice friendly explained the dishes for today, there were many people dining in there, and many others."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paV1pXMDBNRXQxY0Y5clVrWjFaVXhCYldGdU0wRRAB",
+            "text": "very nice restaurant in Forrest hills queens. the staff was amazing and very accommodating.there food is full of flavor and huge portion size. over all a great place for lunch or cozy dinner with outdoor seating"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJMWNrRkZjbk5SZW1abGFWVTBRWEowVEY5UFdXYxAB",
+            "text": "The lobster tail with paella was dry, overcooked and tasted like previously frozen for the past 2 to 4 weeks. The steak and remaining seafood was quite good, just wouldn’t recommend adding the lobster!"
+        },
+        {
+            "date": "4달 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poc1VXaEZlbFZFVWxwQ1MxVmpVamQ0ZUhCcmIxRRAB",
+            "text": "Excelente"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SSGFsVlBVekZVUlhGa00xQmtPRVZZVVVSVmMyYxAB",
+            "text": "The food here was pretty good. We had the paella and the arroz con Pollo. The first dish we ordered with chicken breasts were so tough. It was waayyyy over cooked. I could not even cut it with a knife. The service was good. The only issue was, when presented with the bill, the waitress high lighted the tip portion. As if we didn't see the calculations of how much 20 or 25 percent was. I found that tacky and distasteful. Please don't solicit tips, you'll get more that way."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkQk9XOUNPR2gxVDFwdlZrdGFUbWxhV0dKTFdVRRAB",
+            "text": "Good Cuban food (hard to find in NYC and especially this part of Queens), GREAT TOP NOTCH service, especially from Marco. Friendly staff all around and a good lively vibe, feels like a mix of an upscale Cuban restaurant and good old friendly neighborhood spot. Sunday lunch kind of place. 🙏"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGWmJtaElXSHBFVmpGdmFYbHRTRk14T0VKM1NXYxAB",
+            "text": "The male who took our order tonight was an obnoxious disrespectful person. As he took our order the first dish we ordered he stated we are out of that dish, “too bad” get something else.  If you are the owner learn how to be more polite to your guests. This will be my last visit into this restaurant, there are tons of other choices right next door."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKSVZHRjJXV0YzTm1oVldYTmFaV3h3TFU5dFFXYxAB",
+            "text": "Food here is really freaking good. Been here twice and it’s really tasty and portions are big!. Cocktails were very decent too"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoSGExODJNekpyZDBrdGVuZEdVSEJWUW5jM1EzYxAB",
+            "text": "It was a perfect family dinner.  We love fried Calamari, cassava/Yuca, banana as sides and perfect steak and also Pollo  a la brasa"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VQYmNnWlNhcXJqdmNREAE",
+            "text": "Cabana has been a staple in Forest Hills since my teenage years, offering consistently good Cuban food. The empanadas are a highlight, with their perfectly crispy shell and flavorful fillings. You can't go wrong with the churrasco--juicy, medium-cooked skirt steak served with vibrant chimichurri. For a dish to share, the Paella Valencia is an excellent choice, packed with mixed seafood and perfectly cooked rice. Definitely worth a visit!"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnLWItUlFBEAE",
+            "text": "It's my first time coming back after a few years. Hubby and I would frequently have dinner dates while dating, and we liked it back then. Now it's downgraded. Service is not the best considering basic stuff like silverware and plates was…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPdUdzT2ZTMDl5UEpBEAE",
+            "text": "My family just left your restaurant and our food was amazing!!! I could taste all of the seasonings in every bite! And to top it off, Katherine our waitress, was very nice, professional, patient and kind because of being unfamiliar with the menu. It’s because of Katherine, we had a pleasurable dining experience. I have a demanding work schedule, so my weekends are important to me and this was a great and enjoyable experience! I highly recommend!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNX3N0cDJRbEo3eFJREAE",
+            "text": "Great service Valerie! you gonna love her! So friendly and accommodating ! Food is great also! Its just i think they over charged for a side of shrimp for 14 dollars! and its only 3 pieces  Lol! But overall amazing! I will still gonna come back! And gonna look for valerie!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VPV2g0Y1AxNGRQbDB3RRAB",
+            "text": "The worst Cuban food I’ve tasted, I ordered ropa vieja and everything was mixed together, the churrasco was super thin and everything lacked flavor, the French fries were almost raw and my father in law ordered a salmon with no flavor not even salt. DO NOT WASTE YOUR MONEY IN THIS PLACE."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VKUEY1SUtuM2NDVzJnRRAB",
+            "text": "We ordered take out and the food was lacking flavor, the parrillada was very mediocre and the blood sausage was terrible, full of fat. The ropa vieja was extremely oily, very disappointing."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VMYk9uNXZzOU9TR3J3RRAB",
+            "text": "The Worst Cuban Restaurant in Queens Avoid at All Costs\n\nMe and my wife came in on a Wednesday night at 8:30 PM. The place wasn’t crowded at all, which is fine. But the waitress made it seem like we were an inconvenience to her.\n\nI’m confused the place closes at 11, so we definitely didn’t come in last minute. Right before I even got to sit down, the waitress asked us if we would like any appetizers or drinks. She had just handed us the menus, and I didn’t even get a chance to glance at it or sit down. It felt really disrespectful and rushed.\n\nWhen we were ready, we just decided to order main entrées.\nI got the churrasco, and my wife got the ropa vieja.\n\nThe food came out so fast, and the churrasco was overcooked. I asked for medium, it was extremely thin. It looked large, but it wasn’t. It was about 6 ounces, give or take. The rice portion was very small. Not worth the $42. I finished the steak so fast and was still hungry. The waitress had the audacity to ask me if I wanted dessert, meanwhile my wife was still eating.\n\nThe ropa vieja was not it.\nIt tasted like old stewed beef, not skirt steak as advertised. On top of that, there were burnt, crispy ends. It was not fresh at all. Definitely not worth the $32.\n\nWhat really ruined it for me was that right after my wife and I finished eating, the waitress put the check right in front of us. I hadn’t even finished my drink yet. To top it all off, the entire dining experience lasted only 25 minutes. She gave us the check at 9:02 PM.\n\nAt this point, I felt so rushed and decided to leave. Never again.\nPlease don’t label yourself as a fine dining establishment. If I wanted a fast experience, I would’ve gone to Taco Bell instead. Not worth the $95, including tip.\n\nFor video review please search on YouTube \" Worst Cuban restaurant in Queens NYC\""
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvZ2FldkxnEAE",
+            "text": "Food was great, nice lively atmosphere. Great portion bang for buck. Our server could have been a bit friendlier, maybe cracked a smile, but warmed up towards the end. Good music..not too low or too loud"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNXRlLU53EAE",
+            "text": "Very nice restaurant.  Will go back."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJeVpxRmpRRRAB",
+            "text": "The food was good, very flavorful. There was music in the background, and my friends and I were able to talk and laugh. We ordered seafood paella, parrillada and churrasco. Portions were appropriate and filling."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJdjlYRWpnRRAB",
+            "text": "Great food.  I was so full. Service is friendly. Atmosphere is well decorated.\n\nI was chatting with the bar tender and he suggested their famous mojito. He’s not wrong.\n\nWe ordered paella and some mor dishes. They are all well cooked and delicious.\n\nThanks for the wonderful birthday celebration."
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRNTRlellBEAE",
+            "text": "Fernando dio un excelente servicio :)"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRMDl5MWZBEAE",
+            "text": "I wish this place still had their south st sea port location. It's not just good Cuban food, it was great. We ordered maduros as an appetizer which sounds a bit odd but it satisfied my desire for something sweet but not dessert. My wife had beef and chicken empanadas for her dinner and I had the coconut curried vegetables on a whim. Paired it up with a perfect mojito and it made for a wonderful experience and a relaxing night. The other patrons were friendly and social which took us back to Puerto Rico for a night (yeah I know it's Cuban food) but I'm referring to the atmosphere."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnMzdha2Z3EAE",
+            "text": "Perfect lunch spot. Food is tasty, served hot and large portions. Service is warm and friendly!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnaGIyMWNnEAE",
+            "text": "The food is great, very fresh and well seasoned. The portions here are huge. We weren’t expecting so much and had to take half of the food home. The service is fabulous; you feel well taken care of without feeling bothered."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURncnZTdlhBEAE",
+            "text": "This is the second time around...Excellent service again by Jose and Nancy...If there were more stars l would give it...Worth the experience."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnLV9pV3h3RRAB",
+            "text": "My boyfriend and I celebrated Valentine's Day at Cabana, and while there was a small issue with our reservation and the hostess (we were told we missed a call for our table, which wasn’t the case at all), the night was saved by our amazing server, Valerie. She was incredibly attentive, warm, friendly, and full of great recommendations. Her excellent service truly turned the night around.\n\nDespite the reservation hiccup, the food was great, and Valerie made the night memorable."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfMDl2aUlREAE",
+            "text": "Nancy was a superstar . The paella was amazing and the service was great"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfNGVMcGVnEAE",
+            "text": "Whenever I am craving Cuban food this is the go to spot. I have enjoyed everything from the cerviche mix to the ropa vieja with some maduros and tostones on the side. Was very surprised by their branzino special one evening that elevated my date night to another level."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfZ01PS1VnEAE",
+            "text": "I used to eat here a lot when it first opened but I haven’t had the food since Covid. The dishes I ordered were excellent - maybe because it was a Saturday at 4:00 and I didn’t have to compete with crowds. The Camerones al Ajillo were excellent. The Chicharones were also made very well. The avocado salad was tasty as were the rice and black beans. Everything was freshly made. I’ll definitely order from here again.✨✨✨✨✨"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoanMzc1VREAE",
+            "text": "Very nice food, always welcoming, staff super attentive...\nSalmon was perfectly cook..large portions"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfX0oySm5BRRAB",
+            "text": "We have been going here for around 20 years.  Very consistent. Loved the mix grill platter."
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVNmZUZF9RRRAB",
+            "text": "I have been going here for years, love the food and atmosphere. I mostly love their Coco Mojito 😋"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmaE5hM1Z3EAE",
+            "text": "Took my sister there for lunch on Christmas Day. Most of the staff did not show up for work. The two servers that were there were excellent. Good drinks and great food. They were very attentive, considering what they had to go through with no help."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmXy1qemxnRRAB",
+            "text": "Loved the food"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6X3JHUFZnEAE",
+            "text": "I celebrated my Birthday here. They have a nice Caribbean vibe in here. I ordered the Churrasco & it was great. Our waitress was very kind & attentive to our needs. I'll definitely be back for when the time presents itself for some Spanish food. Thank you guys!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmbTRfRkFnEAE",
+            "text": "This is a nice cozy spot to dine at.  Spanish music atmosphere.   The food is great.  The service is great.   Everyone is extremely friendly.  Once I found this spot and tried the food, I immediately recommended this place to everyone.  Im usually always busy but definitely still go to take food out.  This resturant, highly recommended for their delicious food and service!  My main dish I order from here is the seafood paella!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXdHFXcU53EAE",
+            "text": "This was my 2nd time and they were still amazing! Staff, drinks, and food were great! The sangria is okay, but everything else will give you an amazing experience. They check your vaccination cards before you are seated. I can't wait to go back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUeDlUWVVnEAE",
+            "text": "It was my first time here and I had a great experience! From the host and to our waitress, everything was excellent! The food was amazing! Generous portions. The drinks were so sweet and yummy! I can't wait to return!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5a2Q3Nm5BRRAB",
+            "text": "Been here a few times and always enjoy my food. They had a special which was the red snapper filet in criolla sauce which is onions, peppers, capers and olives in a tomato sauce. The sauce and fish were really good. You could tell that the fish was very fresh. It was light, flaky and had a buttery taste to it. I did come away a few scales but it didn’t take away from the overall taste of the meal, just an annoyance. I originally had the arroz con gandules but rice was a bit overcooked so I opted for just white rice and black beans. Beans can definitely use a bit more flavor though.\n\nHad a raspberry mojito that was mixed perfectly and was very refreshing. Definitely recommend.\n\nService was great and he was very attentive and helpful with suggestions."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1bHJqMHFRRRAB",
+            "text": "Brilliantly good in the heart of Forest Hills with outdoor seating. First time here but definitely not last. Paella was fresh and flavorful but the pork chops was star of the show. I never get into describing the food, just gotta swing on by and check it out.\n\nParking on evenings and weekends is a true P.I.T.A but it’s definitely worth a trip."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMXy1hcGhnRRAB",
+            "text": "Service was amazing, atmosphere was inviting and the food was good . My only issue was the salmon and the  calamari. I prefer my salmon cooked longer than the usual standard time  and the calamari was chewy."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteW9udXRRRRAB",
+            "text": "If I have one word to describe this place it would be “plentiful!” Plentiful food, flavors and vibe that just hits different. This is one of the best Cuban cuisine I’ve ever tried and I’m so glad I found them. The food was a lot and I mean a lot! We literally eat it for dinner took the left over for lunch and still had some left over. The food tests amazing and I don’t know how they make it but the chicken was out of this world. The rice was creamy and hits your test buds different too.\nThe dessert was 🔥🔥\nThe drinks were a bit strong (they are not stingy with the alcohol 🔥"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhbVBuNmhnRRAB",
+            "text": "We have been coming here since they opened. Great place, great food. We most recently came here after my daughter's graduation. We were starving! As you can see from the pictures, the food is delicious and the drinks were good too. We were…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEd2FxaTJBRRAB",
+            "text": "Good restaurant to done out with friends. Service is great. We really enjoyed the Tropicana salad. It was fresh and s delicious. Churrasco is one of the famous dish but wasn’t the best I’ve tried. Overall quality of food is very good."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtcU55VnRnRRAB",
+            "text": "The food was really good and the waitress was very attentive. We ordered the skirt steak , marinara paella 🥘, and the appetizer for 2. I feel like every table ordered the skirt steak it was super tender and it's not like a regular steak you can make at home. The appetizer platter gave a nice variety of Jamaican jerk wings,  shrimp fritters🍤, beef patty, and broccoli puff.\n\nThe location is right in the heart of Forrest hills but parking in the area in the evening is extremely hard to find."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxZ1p5RDdRRRAB",
+            "text": "I’ve come here several times and every time it has been a great experience.  Oscar our server was phenomenal and very attentive.  The coffee with milk was great and super cute with the little bear.  My steak with shrimp was delicious and the tres leches was so good!!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsMm9LYXdnRRAB",
+            "text": "Like all the reviews say the service here is excellently attentive and welcoming. Warm decor and delicious cocktails. So many mojito flavors! 4 stars because I felt the food was a little lacking in flavor.  I'm no expert with Cuban food and we got hot sauce that helped but I was expecting a bit more flavor. Overall a great place I'd recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6OGRhZ29nRRAB",
+            "text": "I give this place 4 out of 5 stars as it was decent food. I wouldn’t necessarily call it authentic Cuban food but I would say it’s somewhat close or at least closer than other restaurants that serve “Cuban” food. Guava with queso blanco is a staple and I’m happy they serve that here. The rice was slightly dry  but the black beans were made well. The empanadas were freshly fried which is good and the seafood was cooked well. The atmosphere is nice and a good place to go on a date or hang out alone at the bar. Plenty of seating to come with friends as well. Would recommend if you haven’t tried Latin food before as this is one of the closest I’ve experienced in the area."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1cEltZWpRRRAB",
+            "text": "The servers here are amazingly attentive and kind. My sever took time to explain the specials and was very patient.  I liked the overall atmosphere of the restaurant.  It is very elevated, formal, a play on fine dining. I ordered tostones rellenos which were delicious. The garlic oil was very savory. I liked the ropa veija over the shrimp. The shrimp was a little over cooked yet flavorful. My main course was the chuletas de cerdo. I loved the charred flavor and big portions. But... it was definitley missing something. I think I like herbs in my protein and it lacked that. It had a simple garlic, and butter grilled flavor. The yellow rice and black beans complimented the pork well. I wasn't a fan of the Mai Tai. It was strong but tasted a bit medicinal. Overall, it's good restaurant. Not the best in my opinion. Kinda expensive with standard basic dishes. You should visit for the overall vibe, great service, and tostones."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1OXBMaUt3EAE",
+            "text": "Been there several times and none of the visits fail my expectations, food wise. Service is good most of the times, but it does get slow during rush hour, which is understandable to me. Love the food, even my picky three-year-old enjoys dining at Cabana.  Honestly, I did not enjoy the cod that we ordered last time, overcooked and too dry but other dishes were still beyond great. I wouldn’t taken down star due to this. Would definitely be back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxbXFPczNnRRAB",
+            "text": "EVERYTHING is made fresh man. This place is a Michelin star for Cuban restaurants! My God, gracious Lord Almighty! The food was absolutely divine! The dessert was made fresh right there on the spot! You can't get better than that! Mark my words, you will see my face again! This place might be 2 hours away from my home but I will be back!😎"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMM3F5VHVRRRAB",
+            "text": "Amo a este lugar me hace sentir en casa sus meseros son maravillosos amables están muy bien preparados tienen todo el menú en sus mentes y siempre con una solución inmediata, la comida es maravillosa en especial el salmón y las chuletas, mi entrada favorita son los tostones de ropavieja 😍"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCNzZmRFRREAE",
+            "text": "Haven’t been here since last year. Today the place was crowded but the food was amazing. The music was playing and it just set the mood for a nice lunch. The Mariquitas remind of Miami there excellent with the garlic sauce. The churrasco was so yummy and chimichurri was exceptional."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5emZLZWpBRRAB",
+            "text": "I have been a patron of this restaurant for many years and I am still sad about the closure of its Manhattan location. The fact that I now have to travel to Queens for a taste of their cuisine speaks volumes about my dedication. The food never fails to impress, and what I particularly appreciate is the consistency in flavor. While I must admit that the Ceviche mixto and the bacalaitos have been underwhelming, the mojitos, in any flavor, are consistently top-notch. However, the true star of the menu, in my opinion, is the skirt steak with coconut rice and black beans—it is quite simply the love of my life!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXdUtmaG5nRRAB",
+            "text": "Have been here a few times. There's usually a wait of at least 15 minutes. The place is narrow but very popular! Hostess was courteous and welcoming. Parking will be difficult depending what time of day it is. While waiting we had a few drinks at the bar (by the entrance). Bartender was friendly and fast. The passion fruit mojitos were great! It was a 15-person dinner party so there were a lot of dishes served. Unfortunately the restaurant ran out of plantains so we couldn't have some of their appetizers. We had everything from churrasco (steak), to fish, fried chicken chunks, guac and chips, empanadas and more. All of it was delicious! The tres leches cake was soooo good!! It was a decent sized portion as well. Our waiter was very accommodating and patient given the large dinner party. Definitely recommend."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURrLUxTUVRREAE",
+            "text": "First time ever that I was able to walk up and get seated immediately. Waitress was attentive. Service was great. Food was amazing as always. Love coming here."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtdlp2a0ZREAE",
+            "text": "Great dining experience. The service was fast/attentive our waitress was very knowledgeable and patient. The prices at first glance are a little steep but they didn't disappoint with the portion sizes and quality of the food. My only issue is the size of the restaurant is very small leaving patrons to eat close to others and not having enough space for all of the delicious food."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoNV9hVFVnEAE",
+            "text": "Love the ambiance. Coco Cabana was good. Could use a tad more spice. Fried calamari was good but it had that very thick and crunchy crust. It would be better with a lighter batter. Very nice coconut mojito."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlMV9PZEZ3EAE",
+            "text": "The location of this restaurant is located in the heart of Forest Hills and has outdoor seating. This was my first time here and it for sure won't be my last. The food is delicious and the drinks were great. I ordered the passion fruit mojito and passion fruit martini; both drinks were really good, as for food we ordered for appetizers, the tostones rellenos and for the entree, the churrasco. Service was fast and staff were nice/respectfully. I highly recommend this restaurant!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURFMk5uT1Z3EAE",
+            "text": "Not sure if its authentic Cuban food. However, its delisous.  The skirt steak seems to be the most ordered dish. I see it on every table.  The paella is ok.  The combo fritter platter appetizer I won't recommend, it ok at best, too doewy,…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwdV9tcENBEAE",
+            "text": "Cabana is a long time favorite in the Forest Hills area. Food and service are always top notch. Recently I had the Ceviche Mixto, Paella Valenciana, Jerk Wings (Alitas Caribenas) and the Pina Colada with the shot on the side. Everything was great, except the wings could have more of that jerk flavor, however, it was on the sweeter side. The Ceviche was fresh and we loved the sauce so much that we applied it as a condiment to the Paella."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURleEtmX0x3EAE",
+            "text": "Wait for a long time, finally I got the chance back here again. Paella Valencina is my favorite, but i ordered Mariscades. The difference should be the rice. The reason i like Paella Valencina is you can taste the seafood favor from the…"
+        }
+    ],
+    "reviews_count": 78
+}

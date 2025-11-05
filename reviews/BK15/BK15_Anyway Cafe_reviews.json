@@ -1,0 +1,530 @@
+{
+    "name": "Anyway Cafe",
+    "place_id": "ChIJ7ZocMopEwokRzTvApUJd62Q",
+    "grid": "BK15",
+    "address": "1602 Gravesend Neck Rd, Brooklyn, NY 11229, USA",
+    "rating": 4.6,
+    "user_ratings_total": 947,
+    "phone_number": "(718) 934-5988",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SFRVTkhibmMzTURoemEwSXlObXh5Umw5V1RWRRAB",
+            "text": "Самая лучшая кухня и самая лучшая барменша!!!!!👍"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRFNYaElNakZDZWxaMWVHOUtSRk55V0hJMVpVRRAB",
+            "text": "Superb infused vodkas & old world style dishes. Everything that comes out on a plate looks hearty and smells delicious"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kVlVIaENRMFYxWkdWSmRUWmtNVTgwWkRRMU5VRRAB",
+            "text": "Amazing good food and sevice!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSMFVETkJOMlJLZG1kUGVGUmtSWFZKY1ZGUVNtYxAB",
+            "text": "Wonderful place with good music on weekend nights. Drinks are reasonably priced. Outdoor seating is very atmospheric."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ablMyNVhWazFPVDFCc1ZEZzVOWEpJZUU5cllrRRAB",
+            "text": "Nice atmosphere & spectacular live music from Thursday to Sunday 🎶🎼🎹🎤🎸👍"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SWGFDMVhjbEpVTVZKWk5GRlJOMVk1VlhoU1pWRRAB",
+            "text": "We visited on Tuesday, and there were hardly any people, so we could fully enjoy the atmosphere. We really loved the Martini drinks – we tried almost all the flavors, and each one was interesting in its own way! The snacks and food were great too, and we had a very pleasant evening. Special thanks to the sweet and friendly bartender who served us so warmly and even treated us on behalf of the establishment. A perfect place for a calm and cozy evening!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTk5ITlFTa2xJVG1sbWRsQmphRmw2TTBscFoyYxAB",
+            "text": "Sometimes they don’t see you when you sit outside"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSNFZWTmtWWE5PTVRSWVMwNUZZbTVtWDBZdFUwRRAB",
+            "text": "This place left a memory to say the least; Vibes, food, & drinks were on point!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210UFNVTlFWVXBqUWpFeE0yMVdXVzlFUzNWRmNtYxAB",
+            "text": "Good place, I love jazz!!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQYXl6TGJIb196Ty1BRRAB",
+            "text": "Good"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuMjdIcTNnRRAB",
+            "text": "Very very nice people are there and all are welcome there."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJMnRDVElnEAE",
+            "text": "Feels cozy, good meals, friendly staff. Thanks!"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNndUw3d0t3EAE",
+            "text": "Funky little place\nCool room\nGreat beer\nThe food looks/smells great.\nAnd the live music adds to the vibe"
+        },
+        {
+            "date": "7달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJM0xXVDdBRRAB",
+            "text": "Персонал супер!Музыканты супер!Повар превосходный!Попробуйте чипсы и гренки!Екатерина барменша очень приветливый человек!Спасибо большое!Вернемся снова!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3a19lb0pBEAE",
+            "text": "I'll just say I wouldn't recommend."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRMFp5SWp3RRAB",
+            "text": "Servers are generally rude and 18% gratuity is charged for a party of two and it’s not mentioned neither by the server nor its on the menu. Other than that it’s a wonderful place"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNncmFhREpREAE",
+            "text": "Went here on a Monday night, was pretty empty but ambiance was great. Menu had appetizers but didn’t see desserts. Our server/bartender was lovely."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBMmFMSmNnEAE",
+            "text": "Good times"
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2cGUyTXlnRRAB",
+            "text": "cool place with live music and cozy atmosphere"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzaS1XUWdRRRAB",
+            "text": "Best place"
+        },
+        {
+            "date": "1년 전",
+            "language": "ru",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYd3RyMlFBEAE",
+            "text": "Не берут карту к оплате. Осторожнее с банкоматом выдающим кеш, возможно фрауд карты. После съемки налички в этом месте пришлось перевыпускать карту."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYelBIbEJREAE",
+            "text": "Very calm and good place to have a drink with friends"
+        },
+        {
+            "date": "1년 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuaHVfUmx3RRAB",
+            "text": "Хочу поблагодарить персонал за классную атмосферу, вкусную еду и отличное обслуживание🙌🏼🥰"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURieE5EMFF3EAE",
+            "text": "As always, they are the best in the area 😊 cocktails are always great 👍 live music 🎶 delicious food 🫶"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNicTZpNUxnEAE",
+            "text": "The reservation was made for my brother’s birthday celebration, but when we arrived our table was given away to other party. So disrespectful and unprofessional. Stay away from this place!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiazVhMlRREAE",
+            "text": "This place doesn’t honor reservations. Table in the alcove, that was reserved for birthday party celebration starting at 9pm on 7/28/2024, was given to walk-ins and not available. We had to leave for another place. They blamed it on miscommunication between shifts. Poor management and poor service. Stay away from Anyway."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiaGVqQ3ZnRRAB",
+            "text": "This place used to be on 2nd Ave & 2nd Str. Did you officially moved to Brooklyn? 🥹…"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlcU91NnRnRRAB",
+            "text": "Amazing place, fantastic food and great ppl"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6aE9mSS1RRRAB",
+            "text": "There is some miscommunication. My friends and I asked the waitress for Sprite but instead we got a jug of water. We have decided to drink the water and then asked for a refill and we actually recieved Sprite and we all got charged for two sodas."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6bE96aWl3RRAB",
+            "text": "This place is amazing! We have been going here for years! They have the most amazing Pavlova dessert. The chef, Alexander deserves a raise!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqbllLdmxRRRAB",
+            "text": "I was about to write a great review but later, unfortunately, I waited 50 minutes for my shrimp pasta.. we made the order for 3 of us, and my friends had already finished their meal, while I still was waiting for mine\nThe waiters were nice but pretended that nothing happened but we told them several times that we were not happy about it\nThe atmosphere was nice, the cocktails were delicious and the food was good. But you can’t do anything when there is this kind of failure if you want to give good service to customers. We were so disappointed because it’s easy to apologize and save potential clients\nWe were almost the only one table there and it wasn’t hard to manage food timing I guess"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqeVpINHVBRRAB",
+            "text": "It’s simple… the food and drinks are good service is good as well; but these prices are s as little out their range…. A Diet Coke is $6.74   For a smalll size Cup.. think about it, you. Would probably have more people sitting there and ordering online if you priced to sell!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREZ29pWmJBEAE",
+            "text": "Food awful, ordered mussels ate only 4 or 5 out of 20 shelves. Live music better not sing. Too expensive for such place. And only cash payment which is really not comfortable!Don't recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "ru",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEd1pEQmhRRRAB",
+            "text": "Кухня хорошая, атмосфера и обслуживание на высоте. Разочаровал мужской туалет. Туалет ужасен."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5bnNMZVlBEAE",
+            "text": "Great food. Great  staff, and I liked the live jazz. However, at the time of my visit, the credit card  system  wasn't working, so I had to use  ATM."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5NkpXczN3RRAB",
+            "text": "I love the place it’s been years I am going there but food changed allot I tried 2 times but it’s really off,  you need to change the cook or do something about it. I ordered few deferent dishes none was good… I don’t like to complain but I had to let you know."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5c05mb09BEAE",
+            "text": "I love this place! I found it years ago, and their clams stuck in my memory as the most delicious! Since that time, I always remember this hidden gem in Brooklyn.\n\nVery nice bar, especially when they have live band playing jazz."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0cjRHaU9BEAE",
+            "text": "I've only ever come here earlier in the evening when it's relatively quiet and I enjoy the ambience and feel of this place. All of the food I've had has been tasty, the cocktails are fine. Nice place to meet if you actually want to talk. Again, can't speak to later night atmosphere, but the 6-9pm crowd is usually very chill"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNteHEyU2RBEAE",
+            "text": "Only stopped by for a few drinks, but had a great time. The selection of flavored vodkas was so numerous and creative it took a long time to decide what we all wanted to sample! The atmosphere is charming and cozy and the owner is an absolute pleasure. They also had some live music playing when we were there."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHbzhDMFZ3EAE",
+            "text": "Great first time experience! The food was absolutely amazing! I also tried their warm wine with fresh orange so delicious! Especially now that’s so cold outside. They had live Russian music, truly wonderful! Omar was my waiter and he did an excellent job!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKOHRULUhnEAE",
+            "text": "Love coming here for spontaneous date nights with hubby… the spot is just so quaint and has a jazzy feel to it. The food and service is impeccable… had their tuna tartare which I highly recommend along with their avocado salad. Tried something new: bone marrow which was a true delicacy. I can’t not get enough of their cocktails: limitless options on their martini selection. Highly recommend to try the lychee and passion fruit. Their beer on tap is also a delight with a variety to choose from. A perfect date spot for any day of the week… live music on the weekends."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWeExIVnRBRRAB",
+            "text": "It's a great place I've known forever, great food and atmosphere. Live music. Lots of good looking patrons to mingle with. Try their homemade infusions. Pavlova desert is not bad"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1aDZXRVpnEAE",
+            "text": "What an amazing hidden treasure by Belt Parkway!\nWas stuck in the traffic for 2 1/2 hours, Needed so badly for the restroom stop and food around 10:45 pm .\nDoing Google map randomly research find this charming place open till 2 am .\nFirst I thought it probably just a regular diner .\nWhen I walked in, it’s more like a beautiful bar , and Pleasantly surprise there are some gourmet delicacies serving till midnight.\nI ordered skirt steak with a glass Malbec.\nReasonable price.\nWhat a beautiful dish with Absolutely the most of flavorful skirt steak I ever had .\nWhile I was busy taking pictures and share my experience with friends my discovery , here came super friendly chef Alex !\nAlex making sure the steak served perfectly and I really enjoying my steak . We end up making friends 😄\n\nHe promises he will fix me a very nice Traditional Russian meal next time I stop by if I text him ahead of time.\nAlex is that cute young man at 2 of the photos I took .\nThe beautiful bartender Alina is another treat of Anyway Cafe .\nShe is an very experienced bartender not only making great drinks also knows how to engage with guests. Love the special Ginger infused shot she made for me .\nI have been in hospitality business in New York City for over 20 years. I highly recommend this charming café.\nAnyway Cafe is one of my favorite stops after I drop off my clients at JFK now.\nIt’s Literally by Bell Parkway exit 7B and subway station near by. If you stuck at belt parkway traffic. It will be a great place to refresh yourself.\nBTW , Anyway Cafe is Cash only , just be aware of it. There is a ATM inside\nMaybe see you there ?!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtOTdYMXVBRRAB",
+            "text": "Went with a friend yesterday, after more than a decade. Food is insane. Appetizers - better than anywhere in NY or even Paris...We ordered shrimp cocktail, calmari, capreae, frogs legs (deep fried - out of this world), escargot. Sauces, dips - all house made and delicious. Nalivki(infusions) and cocktails - super. Great and corteous service. So excited to have found a great place to eat and bring guests so close to home. A MUST- visit gem. And yes, prices are very decent given size and quality of the portions. Glory to the Cook!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRNy1YV1VnEAE",
+            "text": "Love this place. This is a neighborhood gem with jazz music playing everyday. The food is delicious and the drinks are great too. Particularly great lychee martinis with a perfect balance of sugar and vodka. Romanoff salad is really good…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCMWV6eE1BEAE",
+            "text": "Try a Borscht martini while you're there. It does taste like beets, but it's fantastic. They do house infused vodkas for all their flavored drinks."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNocWNxNXRnRRAB",
+            "text": "I wanted to like this place cause I live nearby, I've been to many bars/restaurants and rooftops to know what to compare with. I'm not coming back and here is why:\n\nPros: location, hip place, the ambiance of the dining area, first drinks, food was okay.\n\nCons:\n-when I asked to replace the drink (done wrong), the waiters and the bartender .... got visibly upset, which made me feel uncomfortable.\n- Restrooms, omg, the door lock was broken and they need renovation.\n- and for this kind of service mandatory tips...\n\nP.S. prices can easily compete with Brooklyn and Manhattan rooftop bars."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRc0s3SlVnEAE",
+            "text": "Cozy nice place that's got a feel of a mix between brasserie and speak easy with relaxed live music - acoustic guitar, blues, jazz, etc. - friendly staff, tasty food, wide selection of cocktails and spirits, draft beer, and non alcoholic…"
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJN2I2Umt3RRAB",
+            "text": "I'm going to give it 3 stars because I liked the place, the decoration and the atmosphere. The food was also delicious especially the chicken stroganoff and they had international beers. Something that I loved was the live music..\n\nWhat I did not like about the place was the waitress. One of my friends couldn't drink alcohol and asked for a coffee because it was cold outside and we assumed that they have coffee for the name of the place (ANYWAY CAFE), but The waitress was very rude and told us that if we wanted coffee should to go to the corner. Really? The whole night she was rude, she looked like drunk."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlbEwzMkJnEAE",
+            "text": "I happened to visit nyc and a friend suggested that I should stop by here for a vodka drink that they specialize in. I found the bar magical! The waiter Omar was the an absolute sweetheart. The live music was incredible. I ended up coming back the next night on a Sunday and enjoyed some amazing opera. Would definitely recommend this bar :)))"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPbU1DQm1BRRAB",
+            "text": "Came to see my friend Rob Mastrianni play here on Monday evening and LOVED it. It's a total dive situation but they make a great Perfect Manhattan and are known for their infused vodka drinks. The menu is slavic/nordic - I had the gravlax…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzOS1iVjZBRRAB",
+            "text": "This is a great place for an amazing vibe. Its a Russian bar and the place is small and cozy. There was a live band too when I went there. When I say live band, there was a musical performance which was all in Russian! I loved it. The place…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHeHBhVzhnRRAB",
+            "text": "oh I love it here! From the live band, to the friendly staff and tasty drinks. It’s a small spot, but you know small spots are always the best. My friends and I come here when we wanna get nice and tipsy."
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBMmNMLXlnRRAB",
+            "text": "This place is amazing for food, drinks and live music. Although it can get a little too loud so be prepared and maybe get a seat in the back. Very romantic place but great for going out with friends too. Their avocado salad is amazing although the portion is small but the chicken salad is amazing."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvNzZ1U0dREAE",
+            "text": "Fun cozy place with great music and cocktails. Very relaxing and easy going. Try the borscht martini, I did and was pleasantly surprised how good it was."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLbWFiNTl3RRAB",
+            "text": "A perfect place to try Russian food and flavor infused vodka. Live music, relaxed  atmosphere, very friendly hostess, the place is historic - literally.\nA hidden gem, an absolute must to visit if you are in the neighborhood.\nBTW, my favorite vodka flavor was horseradish, but they have a dosen to try."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRd3E3bkx3EAE",
+            "text": "Cozy and comfortable place. Atmosphere is nice. Piano of musicians is also good.  Waitress is kindly. Cash only."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXdktfNDJRRRAB",
+            "text": "It was so unexpected to see that awesome bar in this area. Good cocktails and tasty food. Also they have live music."
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRbG9xZUdnEAE",
+            "text": "This place was amazing. We took my mom for her birthday, the first place we had a reservation at didn't have AC so we were in a bind in the East Village and got so lucky with this place! The food was delicious, we had blini (crepe with creme and red caviar), herring, chicken stroganoff, and a salmon filet with caviar sauce. They even gave her a delicious merengue & jam dessert with a candle in it for her birthday, on the house as a surprise--I didn't even have to ask them for it. The live music was beautiful. Our server was incredible, he was the only server for the entire place, I don't know how he did it but he was still so attentive, sweet, upbeat and on top of everything. Oh and the vodka!!!! GIRL! My mom had the black currant which she loved, my favorite was the honey ginger. So glad we stumbled on this place, definitely will be back again."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpX09ybmxRRRAB",
+            "text": "Fun little restaurant in the East Village. Plenty of outdoor space and also limited indoor space. The staff was friendly, fast and efficient. The food esp the braised short ribs was amazingly delicious. The cocktails are strong and…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2NFAybm9RRRAB",
+            "text": "We came here for post-dinner drinks and hanging out, and it was so fun with live Russian music! There were two musicians dueting and they were really fun.\n\nTheir infused-vodkas have some really interesting looking flavors; we tried the lychee one and BOY it was delicious! So easy to sip it was dangerous. We also got the glintwine (essentially a mulled wine) and it was quite tasty as well. Fun place!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGc3FIWGlnRRAB",
+            "text": "Nice bar. We ordered port wine, cheese plate and chicken liver pate. Food was good, service also.."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVOWI2TG1BRRAB",
+            "text": "Just the right combination of warm atmosphere and eastern block reservation.\nChicken stroganoff hit the spot and so did the music. One of those magical New York places where you meet people from all walks of life and create a lasting relationships."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDLW9YWC13RRAB",
+            "text": "Very happy for the support of live music and artists... BUT\n\nThe establishment itself, sadly has very little to praise. The food was mediocre at best, and the service was abysmal!\n\nI attended to see and support one of our live performers along with a friend on Wed night. As soon as we arrived, we were told that we could not sit where we originally wanted to because of social distancing. Fair enough.  But not only were we basically placed in a corner under a tarp,  THEY SEATED A COUPLE AT THE EXACT PLACE WE ORIGINALLY WANTED 3 MIN LATER!\n\nI'm pretty easy going so,  no big problem so far (I was there to support the musicians anyway). My friend ordered a drink and a potato pancake. I asked for a gin & tonic. The waitresses said \"No food? You MUST order food! It's a state law! I'm sorry!  You must have food\" And stormed off without me even looking over the menu to see if I wanted something. Keep in mind that we had just come from \"Red Lion\" (Highly recommended! ) and I had one drink, no food- no problem...\n\nShe brought our drinks and my friend's pancake... (which I did not taste but was told it was a mushy soggy mess...$13).\n\nShe finally came back and asked what food I wanted.  I ordered the Mango chutney ($11) if you want an expensive order of chopped mango with cayenne pepper on a bed of soggy spinach eaten plain with a fork you'll LOVE this!\n\nAfter I finished my dish she returns with \"I'm sorry. I forgot bread. Did you want bread? \" 😑\n\nShe brought the bread, but I had already finished my meal...\n\nThey close the bar at 11, so about 10 min before,  I decide to use the restroom, order my last drink, and ask for the bill. I was told. \" NO.NON NO! IT'S 11 o'clock no more drinks.\" I said fine asked for the bill and proceeded towards the men's room. I was stopped for the waitresses to explain \" Its policy, I'm not at fault that's the rules!\" I explained I understand and there's no further explanation needed.  \"No no, it's because we are closed,  it's not me, it's just that's the rules... etc\". I just walked away because I was already upset at being forced to sit in a different area,  forced to order food I didn't want, was served overpriced diner grub, denied a drink, and now being explained to as if I were 4 years old.\n\nNo matter.\n\nMy friend and I got separate checks and placed our cards on top of them.\n\nGuess what?  \"NOO NO, NO NO. No cards only cash. No Venmo nothing,  only cash!\"\n\nWell a sign, or a warning, or common reminder when giving the check would have been nice... so I walked a few blocks to a deli and paid an ATM fee to withdraw cash. I still tipped 20%.\n\nTo top it all off, we asked our musician friends once they began closing if they needed our help to pack up their equipment or store any of the restaurant's equipment.\n\nAs we're striking things,  THE OWNER IS SHOUTING AT US to \" Move! Out of the way!! People are moving tables! \"\n\nGeez...\n\nHorrible staff. Sub-par food.  Expensive drinks, expect to order food or face the authorities...oh and bring cash.\n\nGreat music though! ☺"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJdVl6a0pREAE",
+            "text": "Nice service,   Cozy place with live music And different types of infused Vodka plus nice menu to go with it"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURraDZfUjJRRRAB",
+            "text": "Always a great time at Anyway! The smallest location out of the 3, 2 are in Brooklyn. But very cozy and food never disappoints! Nice and friendly staff!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJOS1LVFZnEAE",
+            "text": "Great food, great staff, great atmosphere. Definitely going to go back. Randomly had this starred as somewhere I’d want to try and now it’s somewhere I will make plans to go to. Highly recommend."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3Mkt5TTZ3RRAB",
+            "text": "Ordered as steak ...\nCame some sliced pieces of meat... is that kind of new form \"steak\", or just someone decided to do some job on behalf of me and sliced stake as per his preferred size? They could move one more step forward and chew it on behalf of me as well...\n\nAppetite gone... even don't care how it tastes... non edible... 🤮"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRNmEzTmJBEAE",
+            "text": "Interesting Russian outpost. Interesting that after 5 pm they no more offer coffee or tea...but lot of flights of vodka. Occasionally some excellent music from groups like Trio Frio."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoa2QtWjFnRRAB",
+            "text": "It’s a great spot for drinks, especially for delicious and excellent variety martinis. Good place to hangout with friends. Would definitely come back here."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJallQeDhRRRAB",
+            "text": "Wonderful place with lovely service! Delicious food, great drinks and live music🙌…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLMnVIeUp3EAE",
+            "text": "This place is a wonderful reminder of a New York City from days bygone. Filled with live music, tiny tables and all the beautiful Lower East Side weirdos you ever dreamed of. The cucumber martini is whats up. Cash only."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJc1pha1hREAE",
+            "text": "It's a dark, cozy, live music filled place. Has infused vodka flights and cool mixed drinks. Staff is attentive and friendly."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRODlmaFFBEAE",
+            "text": "This is the best known secret in the east village (slash) LES border spot. The people who work here are straight off the boat in the best possible way. You must have the infusion vodka martinis. Dill and borsht and beet are some of the possibilities. The potato pancakes are some of the best here too."
+        }
+    ],
+    "reviews_count": 74
+}

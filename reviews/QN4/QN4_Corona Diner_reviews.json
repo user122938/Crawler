@@ -1,0 +1,649 @@
+{
+    "name": "Corona Diner",
+    "place_id": "ChIJwX59l7NfwokR1OCh3lCyuo8",
+    "grid": "QN4",
+    "address": "91-28 Corona Ave., Elmhurst, NY 11373, USA",
+    "rating": 4.3,
+    "user_ratings_total": 427,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4XzZxaEp3EAE",
+            "text": "It's closed."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKaUpuMmZBEAE",
+            "text": "Excelente"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURScGNPMHNBRRAB",
+            "text": "I usually come here for the milkshakes because of how delicious they are but the food is also great!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoM3RlNFRREAE",
+            "text": "We had a great time!!! The champagne margarita is a must try!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtbDZPYmNREAE",
+            "text": "Simplemente el mejor lugar"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtNWNUS1p3EAE",
+            "text": "Rica comida, buen servicio y precios justos, 100% recomendado"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtbU1yYzVRRRAB",
+            "text": "Excellent food"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtejdQMUx3EAE",
+            "text": "Amazing food..!!! Excelent service i will be coming here often.!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtMV9XSlFREAE",
+            "text": "Un servicio formidable."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMteTVmRU9REAE",
+            "text": "The diner has a variety of food and it's so tasty.\nLooking forward to trying the avocado toast."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlejdheUNnEAE",
+            "text": "First time here and i did not know it was brand new place. Order the corona platter and short rib hashbown. Was a good size not to much to feel boated after. Tasted good. Great bacon and good coffee. Definitely a place to return to."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPN3JyZDJRRRAB",
+            "text": "Honestly this place is always closed! I live a block away trying to get ahold to dine in but never could because it’s Closed! Safe yourself a trip and don’t come with disappointment! Tried calling and the line is disconnected!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPNHN1TXdnRRAB",
+            "text": "This place no use to be like it was before. FIRST THE FAT LADY THAT WORKS THERE HAS ATTITUDE AND SHE DOESNT KNOW HOW TRY PEOPLE....FODD WASNT OK AND NO MILKSHAKES ANYMORE"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyenVEVnl3RRAB",
+            "text": "When I went it was closed I was really looking forward to eat here"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyNmRLQ1RREAE",
+            "text": "The food was good, not a lot of options for food."
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyX3ZqLU1BEAE",
+            "text": "Solo aceptaban pago en efectivo"
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXemFiNmRBEAE",
+            "text": "Muy buen servicio"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXN3NlZTBRRRAB",
+            "text": "There was an automatic 18% service fee for a party of 4 and accepts cash only."
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtNzRpSWdnRRAB",
+            "text": "Excelente las hamburguesas y los sándwich. Bien preparada la carne. Todo rico, bien sazonado. Excelente atención de la chica. Lugar limpio y agradable. Baño impecable."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHdzZyQlJREAE",
+            "text": "Do not come here. Food is super regular .. and expensive"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzZ0lqRFpBEAE",
+            "text": "Awesome experience with Carla 🥰 Great food 👍🏽👍🏽👍🏽"
+        },
+        {
+            "date": "4년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHcHJtZGhRRRAB",
+            "text": "100% RECOMENDABRE"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHOHF6SkVBEAE",
+            "text": "Super clean and excellent service.  The crunchy French toast is amazing!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhb0xLN0R3EAE",
+            "text": "GREAT CUSTOMER SERVICE!!!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhMWNtRVdnEAE",
+            "text": "Smaller than your typical diner. But a beautiful diner. Has elements from the #7 train, World's Fair, and Unisphere. The B.L.T. and burgers are very good."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhcnBIdmRBEAE",
+            "text": "Wow food is very tasteful. They put in that work. I really liked it."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxMV8zM2dBRRAB",
+            "text": "I got the french toast because of the reviews and it was accurately delicious, was around $12 with fruits not $8 based on the menu platform site (prices were listed on Google overview for this diner). I tasted my husband's eggs and hash…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxLWJqZmVBEAE",
+            "text": "Crunchy French toast are to die for great customer service totally recommended!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxOWZTbEN3EAE",
+            "text": "Says it opens at 10am.. it's never open at that time"
+        },
+        {
+            "date": "4년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxNWE3NV93RRAB",
+            "text": "Excelente servicio, muy buena comida"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxam91TXp3RRAB",
+            "text": "Good place catch a quick bite to eat with friends. Wasn't crowded when I went on Sunday early afternoon. Cool artwork on the wall that represents NYC (Queens in particular). I enjoyed my breakfast burrito!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLMktpMkRBEAE",
+            "text": "Good hidden spot. The hostess was very attentive and responsive."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLdjZpLTBnRRAB",
+            "text": "Good"
+        },
+        {
+            "date": "5년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDNVpyam1nRRAB",
+            "text": "Muy buena comida y excelente  atención"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURjenFTem93RRAB",
+            "text": "This was horrible! Every single item was dried out, no condiments on the burgers, fries tasted like they were refried. I threw my whole $70 dollar order away. Needless to say, I will never eat here again!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURjLXVxUmdnRRAB",
+            "text": "Great food and salads/ dessert 🍨 😋 👌…"
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnX2R2U1pBEAE",
+            "text": "MM MM Your one stop shop for C0vid 19 corona is Soo tasty I'm joking you know I had to make that joke"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNjemFXVmVREAE",
+            "text": "Food is pretty good! They have tons of burger options!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNjMmFPand3RRAB",
+            "text": "Small local diner. For a diner the menu is small, it's not like a book. They do have some things not listed on the menu in terms of substitutes or add ins for an omelette. I found the food to be better than the average diner but everything is still not salted, or not salted enough."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNjeVlUdDF3RRAB",
+            "text": "The server was very attentive and friendly. Great service"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURza2RIc1J3EAE",
+            "text": "4 starts cuz they have delicious food but not the best service"
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVdWM3UFlREAE",
+            "text": "Threatened to steal my shoes and beat me up for not having an extra 1.38 cents. But the food is to die for, so I cant really complain"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzMUlET0pBEAE",
+            "text": "Great place for a sandwich! I got the buttermilk chicken sandwich and it was huge! The amount of tater tots you get is great! And they're crispy to the point where they're just tots inside of tots."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzMzdMNm1nRRAB",
+            "text": "It was great food. Amazing service, great place to eat"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzNDc2Z0RBEAE",
+            "text": "Foods pretty good. But I gotta tell ya...not that I personally really care, but man they're really stuck in the 90s listening to a bunch rap music all day..."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzbWRYYlVREAE",
+            "text": "Food and drinks were disgusting and it was not worth my time..."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzM09PSXlBRRAB",
+            "text": "Good food and great customer service"
+        },
+        {
+            "date": "5년 전",
+            "language": "te",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNX18yZThBRRAB",
+            "text": "Its gud"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNeDhfdFB3EAE",
+            "text": "👍…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvcE55ZFVBEAE",
+            "text": "It was our first visit. Did not knew that they had lot of vegetarian options. Ordered cauliflower Wings ( friend cauliflower) with sweet chili sauce. It tasted delicious and it had enough quantity in the plate for two people for the price.…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJcGNQSWF3EAE",
+            "text": "The fries were so good (both waffle fries and regular). The blue cheese burger was very tasty but it needed more blue cheese. I could barely taste any blue cheese. The prices were great! The milkshake was HUGE (to be shared by two people). Friendly service and good music."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRemNlWGJ3EAE",
+            "text": "good atmosphere and customer service! Next time ill try some sandwiches. I was eyeing them as they passed by our table and it looked good."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvcDR5Y0lREAE",
+            "text": "Quick service. Polite staff. Food tasty, chicken quesadilla was flat with little chicken. Everything else was good."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRcjctSld3EAE",
+            "text": "Clean, good atmosphere, good service, good prices & tasty food. We all had burgers & shakes & they were delicious."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRbUl6RWVnEAE",
+            "text": "The service was great and the atmosphere was welcoming! The owner is a professional teddy bear! 👌👍#☝…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNaFBuTm9RRRAB",
+            "text": "The hot dogs were so good. Everything about the place is fun and exciting. Everyone has to try this place out."
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3bXBISm5RRRAB",
+            "text": "My family had reserved seating for twelve and we were all accommodated in the establishment. The staff was very welcoming and friendly. We were all given many choices of food selections from the menu that it fulfilled our appetites."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRXzRYZWRREAE",
+            "text": "This place its a jewel hide\nThe food its super yummy the price its reasonable  and the service is good\nI recommend the french toast  because its crunchy and the center soft the best way to eat a french toast"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnNjZyUDZBRRAB",
+            "text": "Highly recommend this restaurant! Everyone was hospitable! My family and I had a wonderful time!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZcXJPMl9RRRAB",
+            "text": "Breakfast at that dinner, enjoyed it! The waitress was really cool to talk with."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3OVpDbkpnEAE",
+            "text": "great atmosphere, delicious food , great costumer service, 100% recommended"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURndDhTZEhBEAE",
+            "text": "Buttermilk Chicken Sandwich was great! Highly recommend this place. Very friendly atmosphere and staff!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJaDd6c3F3RRAB",
+            "text": "Long wait time for food. Opens later than times posted on door. Unbothered and distant staff.\n\nI’ve been here a total of 7 times and was excited about this new edition to the neighborhood because the food was tasty and place was clean\n\nBut place declined quickly in service and quality every time I went. Last time I went they were unforgivably rude and slow, added in tip on final bill without asking even though I always tip 15-20% even when service is bad. Racism ? Maybe. Jerks ? Probably.\n\nUnfortunately I won’t be back. I was really rooting for them too..."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwbzkzcTZBRRAB",
+            "text": "It was really nice in here the decor is pretty good. The food is also great. The only thing I did not like was that they only had one waitress for the whole diner. It is not that big of space but I could tell she was overwhelmed. Either way she did her best and offered a wonderful service."
+        },
+        {
+            "date": "수정일: 8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNReHFQR2RREAE",
+            "text": "Ate there with my family! I love that it's a place for family and not to get hit on. It's beautiful inside. Respectful staff with the most amazing carrot cake!!!!! Please keep those around! Pizza burger is a MUST! Try the cookie monster shake! Super satisfying to look at! And delicious!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwMkxmTUV3EAE",
+            "text": "It's the closest diner to where I live and they have awesome food. Its nicely decorated with pctures, famous people from queens on the walls. The door in the back is decorated to look like the front of the 7 train. Friendly staff, great…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVek9TaEFREAE",
+            "text": "I wanted to like this place more because my cousin raved about it so much and I'm not saying that it was a bad place. And the fact the food that I did eat was good.\n\nWe ordered 2 orders of regular mac & cheese as an appetizer and oh my, it was really good.  Hot & bubbly and cheesy just the way I like it.  They have many different types of mac and cheese but for me I prefer regular mac & cheese. This place delivered on that.  & for that they get an extra star!\n\nI ordered a buttermilk fried chicken sandwich and what I didn't realize was that it said served with coleslaw. I didn't realize that the coleslaw would actually be on the sandwich and I think that's where I went wrong. So maybe it's my fault. However the chicken sandwiche was a bit too salty for my liking. I got tater tots with my order and the tater tots or were very hot &crisp and tasted really good. my cousin got a steak sandwich and my other cousin got French toast. She did order chocolate chip French toast and when the order arrived it was regular French toast she didn't say anything and she just kept the French toast she was given. I didn't taste some french toast but she said it was good.\n\nI noticed the guy was making some shakes and it seems that this place is known for their shakes but what I did notice was that they were using a frosting to frost a glass. And that's the thing that I don't like about places that make those signature shakes, is that they do use frosting just to make it look nice and I'm just not a fan of that."
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBcTYzaGFBEAE",
+            "text": "I absolutely love this place, was there for brunch with my toddler and the waitress that day was a sweetheart. So helpful specially with my boy, not many places are like that when you go in with kids. Food was great so was the cocktail. I…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRenZPN3ZBRRAB",
+            "text": "This spot is definitely a go to spot for some comfort food and drinks! All the food was seasoned & prepared with love and tasted perfect! Drinks we also perfect! Options of food for all ages and cravings.\nThe decor of this place is totally iconic to growing up in Queens, NY in the 80's & 90's.\nThe staff is great! They all seem to love their job and the environment in which they are in, therefore it shows in their customer interactions.\nWill definitely be back!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRNXM3bmxnRRAB",
+            "text": "The food was absolutely amazing and the service was great. I brought my girlfriend here on a date because she loves milkshakes and boyyy do they make one of the best milkshakes in the city. Im definitely bringing my daughter here next time since she is also a milkshake lover and this restaurant has a kids menu."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3a3V1Nk13EAE",
+            "text": "One of my favorite diner in Queens, with lots of food selection even me having a hard time making a choice for my brunch!\n\nService was awesome and of course the food is amazing! Not forgot to mention that they all served fresh food!\n\nOne of my recommended place if you in Corona or surrounding area"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBM1pmcTR3RRAB",
+            "text": "The food was ok but our table was oily. The ones surrounding as well. I def was expecting something more in food quality because of the info/reviews given to me verbally by other people. It definitely a nicer looking diner, even tho its smaller to others.  Maybe 8 tables at max but i could be wrong."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBdjVicGNBEAE",
+            "text": "Really enjoyed the diner. Love the vibe of the place, the music, the decoration. The servers were all lovely and attentive and the food was incredible. We had the chicken and waffles and everything was cooked and seasoned to perfection. Will be going back for sure :)"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZemVxSTZ3RRAB",
+            "text": "No complain on service, it was good service but I expected more and it’s like 2 or 3 dollars more than others diner on breakfast menus. The sausage I expected the regular long one and got the patty round. And the crispy French toast was dry. I won’t come back for breakfast but for lunch or dinner I would give another chance."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJaHJpNXhnRRAB",
+            "text": "This place has fantastic food!!!!! I traveled a good distance from home to eat here and will again in a heartbeat! It is well worth the effort.... The music was great also and the owner was so cool it was like we knew him for years..."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnellPZjdRRRAB",
+            "text": "I grew up in Corona and when I walked in, I was taken aback by the way this diner has captured Queens and the community. I had the Chicken Bacon Avocado club and a specialty shake and it was amazing. The food was delicious and that shake... hell yea! Definitely coming back and bringing my entire family."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZNGVfWW5BRRAB",
+            "text": "They had many vegetarian options and even a few vegan options. However, the food was bland at best and my bf found plastic in his food. The waiter was pretty good for a diner, but just okay if you're used to nicer places (it's clear the…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNMTV1ckV3EAE",
+            "text": "I come here often for the wings but this time the wings were soggy as if it was just microwaved. Wings comes with dipping sauce included but they charged me for it separately. Ordered burger as well. beef pattty tasted off. They have new…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM0dWVuaUFnEAE",
+            "text": "Besides the long wait for your food to arrive I still give this place a 5 star! And 4 thumbs up! The food is soooooo good that you forget how long you waited. Seriously this place should expand because it taste as if it’s freshly made to…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNFdnNuNW9nRRAB",
+            "text": "I rarely give low ratings but I brought my family here, ordered just pancakes, bacon and eggs for my 3yr old daughter & that took almost 40mins to serve!!!!! We waited that long for her  freakin’ pancakes!! I ordered the buttermilk fried chicken sandwich w/ fries, just those two orders took that LOOOOONG to serve!!!!!"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBenMtNWxBRRAB",
+            "text": "The place is extremely clean, the chilaquiles are off the chain and the milkshakes are out of this world. The Waitress that works in the morning is a sweetheart and the owner is cool as heck. Excellent food, excellent service. Love this place"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3NzhqQ3lnRRAB",
+            "text": "Really cute, modern dinner with Superior staff."
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvN2FtTzN3RRAB",
+            "text": "Everything in the menu is delicious.."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRbzREYTNBRRAB",
+            "text": "Dope spot! It's in a pretty weird area but the food is good for the price! Inside decor is awesome! Happy hour deals can't be beat! HOWEVER it's rather small. Try there milkshakes! :)"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURrMllfb25RRRAB",
+            "text": "The worst service I have ever experienced. My husband and I just walked out because even though we were the only table the servers were too busy chitchatting. Food is decent if it wasn't for the terrible service the provide."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBay1TZ2FBEAE",
+            "text": "The food was good but it took 45 minutes to get our food and was still missing the sweet potato fries. I really wanted to like the place but we were starving and waiting that long for an omelette is unacceptable. Will not return."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNndXR5ZVBBEAE",
+            "text": "There's no better meal than the one shared with friends. Last Saturday night, exactly one week ago today, I met up with my best friends @coronadiner a unique & trendy urban eatery with a fun family friendly vibe & vegan friendly too 😊…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnLXFiOEhREAE",
+            "text": "horrible experience, over 10 mins for someone to come and take our order, asked for appetizers in a specific way as my wife is allergic to some food, I knew the appetizer we order had meat and frijoles which she can't eat, and I was clear of this at the moment of my order, order came the opposite of what I asked for. This happen after 45 mins of sitting down, I had to ask the server for my appetizer other wise nothing would had come out, 50 mins passed and no food came out, Most of the time everyone was more concern about their friends who were sitting in the bar and some tables than taking care of the customer. Did not eat anything still payed $25 dollars for something I didn't get to eat, I'm sure that most of the feedbacks here are from friends  of people who work here. Really disappoint and wasted of money."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRME1LQ2dRRRAB",
+            "text": "Nice place, loved the atmosphere as well.\nThe area needed a place like this to take your kids to eat and have a good time.…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwXzhpb2RnEAE",
+            "text": "Love there breakfast especially the crunch toast it's the best I have ever had. The coffee is not so good and they serve with with cold milk which is a bummer cuz wen u add the coffee with milk it gets cold. I can go there for the crunch toasts anyday and everyday that's how much I live it."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRc3VlbE5nEAE",
+            "text": "Amazing Food and the shakes OMG"
+        }
+    ],
+    "reviews_count": 91
+}

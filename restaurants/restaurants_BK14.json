@@ -1,0 +1,402 @@
+[
+    {
+        "name": "BunNan",
+        "address": "1248 Flatbush Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJlVzs58FbwokRYzF37CBJeEM",
+        "rating": 4.9,
+        "user_ratings_total": 546,
+        "phone_number": "(347) 365-3676"
+    },
+    {
+        "name": "MangoSeed Restaurant",
+        "address": "755 Flatbush Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJ0ZK6zGpbwokRuqUhA8Yxw7Q",
+        "rating": 4.4,
+        "user_ratings_total": 1126,
+        "phone_number": "(718) 513-6084"
+    },
+    {
+        "name": "Yard and Abroad Bistro",
+        "address": "1827 Flatbush Ave, Brooklyn, NY 11210, USA",
+        "place_id": "ChIJI6VJs2RFwokRYl3fDXieR0c",
+        "rating": 4.3,
+        "user_ratings_total": 19,
+        "phone_number": "(929) 333-9020"
+    },
+    {
+        "name": "Midwood Flats",
+        "address": "577 Flatbush Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJDeoRAUBbwokRRJWSct7E3Lc",
+        "rating": 4.3,
+        "user_ratings_total": 630,
+        "phone_number": "(718) 484-4466"
+    },
+    {
+        "name": "Bake & Things",
+        "address": "1489 Flatbush Ave, Brooklyn, NY 11210, USA",
+        "place_id": "ChIJr7J3n01bwokRzY07n8OQXjw",
+        "rating": 4,
+        "user_ratings_total": 696,
+        "phone_number": "(718) 434-1080"
+    },
+    {
+        "name": "Namaste Brooklyn",
+        "address": "1202 Cortelyou Rd, Brooklyn, NY 11218, USA",
+        "place_id": "ChIJTUTBCEhbwokRhkuPw3jIV30",
+        "rating": 4.7,
+        "user_ratings_total": 200,
+        "phone_number": "(347) 365-3468"
+    },
+    {
+        "name": "Bamboo Walk Caribbean Restaurant",
+        "address": "1343 Utica Ave, Brooklyn, NY 11203, USA",
+        "place_id": "ChIJgUNvXv9dwokRKXPry0VbFl0",
+        "rating": 4.5,
+        "user_ratings_total": 2393,
+        "phone_number": "(718) 369-0001"
+    },
+    {
+        "name": "The Ox Tavern",
+        "address": "1715 Foster Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJW5CTpjRbwokRoyMu9xFuCKE",
+        "rating": 4.4,
+        "user_ratings_total": 611,
+        "phone_number": "(718) 284-0005"
+    },
+    {
+        "name": "Werkstatt",
+        "address": "509 Coney Island Ave, Brooklyn, NY 11218, USA",
+        "place_id": "ChIJ8QR3uzpbwokRS6jD-jk9BWc",
+        "rating": 4.6,
+        "user_ratings_total": 873,
+        "phone_number": "(718) 284-5800"
+    },
+    {
+        "name": "Pescada New York",
+        "address": "1359 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJYZURPrlEwokRUn3XSSWYPhY",
+        "rating": 4.6,
+        "user_ratings_total": 998,
+        "phone_number": "(718) 766-2759"
+    },
+    {
+        "name": "StarSpice Restaurant Inc",
+        "address": "1501 Flatbush Ave, Brooklyn, NY 11210, USA",
+        "place_id": "ChIJu4PZ4KZbwokRgtDAJrMHoO4",
+        "rating": 4.6,
+        "user_ratings_total": 152,
+        "phone_number": "(347) 410-7570"
+    },
+    {
+        "name": "McBeans",
+        "address": "1501 Flatbush Ave, Brooklyn, NY 11210, USA",
+        "place_id": "ChIJ21dDdk1bwokRzbKjTgNyBQU",
+        "rating": 4.2,
+        "user_ratings_total": 360,
+        "phone_number": "(347) 770-9111"
+    },
+    {
+        "name": "The Castello Plan",
+        "address": "1213 Cortelyou Rd, Brooklyn, NY 11218, USA",
+        "place_id": "ChIJ4_g4QDFbwokR7aXH3yLVjpQ",
+        "rating": 4.3,
+        "user_ratings_total": 565,
+        "phone_number": "(718) 856-8888"
+    },
+    {
+        "name": "Milk And Honey Cafe",
+        "address": "1119 Newkirk Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJD9wZTTNbwokR77qf0Dw91f4",
+        "rating": 4.1,
+        "user_ratings_total": 2194,
+        "phone_number": "(718) 513-0441"
+    },
+    {
+        "name": "Ayat Ditmas Park",
+        "address": "1618 Cortelyou Rd, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJ6X_uAQBbwokRkz6ELYOHvnA",
+        "rating": 4.8,
+        "user_ratings_total": 1082,
+        "phone_number": "(347) 365-4684"
+    },
+    {
+        "name": "Westwood Bar",
+        "address": "1715 Foster Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJjxSW1EpbwokRxIlsNH5fl60",
+        "rating": 4.6,
+        "user_ratings_total": 230,
+        "phone_number": "(347) 350-6551"
+    },
+    {
+        "name": "Art of Prime",
+        "address": "943 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJ88FsV-pbwokRxe-RQtgJrBE",
+        "rating": 4.9,
+        "user_ratings_total": 64,
+        "phone_number": "(718) 940-9454"
+    },
+    {
+        "name": "Blue Mountain Restaurant",
+        "address": "959 Flatbush Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJSfW0OZ5bwokRIotWvPUjP9s",
+        "rating": 3.6,
+        "user_ratings_total": 93,
+        "phone_number": "(718) 282-2968"
+    },
+    {
+        "name": "Manchego",
+        "address": "1502 Cortelyou Rd, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJK-Ao3zZbwokRndVV8VgU_qs",
+        "rating": 4.4,
+        "user_ratings_total": 731,
+        "phone_number": "(347) 425-8511"
+    },
+    {
+        "name": "Cafe Madeline",
+        "address": "1603 Cortelyou Rd, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJMUkOETdbwokRAmjoHlECnK0",
+        "rating": 4.4,
+        "user_ratings_total": 1082,
+        "phone_number": "(718) 941-4020"
+    },
+    {
+        "name": "Margez Grill House",
+        "address": "1018 Avenue M, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJ92ITmWBFwokRSvKc5mXGXEk",
+        "rating": 4.7,
+        "user_ratings_total": 231,
+        "phone_number": "(718) 369-0979"
+    },
+    {
+        "name": "Sugar'd",
+        "address": "2614 Newkirk Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJVY7ZpRRbwokR6B8IRrIcSwU",
+        "rating": 4.3,
+        "user_ratings_total": 324,
+        "phone_number": "(718) 758-5066"
+    },
+    {
+        "name": "Gyro Hub And Fried Chicken",
+        "address": "4106 Farragut Rd, Brooklyn, NY 11210, USA",
+        "place_id": "ChIJPR2_ExBbwokRq7yt2WJYzzo",
+        "rating": 5,
+        "user_ratings_total": 62,
+        "phone_number": "(718) 483-8014"
+    },
+    {
+        "name": "Good Hope",
+        "address": "1683 Flatbush Ave, Brooklyn, NY 11210, USA",
+        "place_id": "ChIJeYpy7KxEwokRwkZ58pQQZ_w",
+        "rating": 3.8,
+        "user_ratings_total": 382,
+        "phone_number": "(718) 692-4274"
+    },
+    {
+        "name": "Bordeaux Steakhouse",
+        "address": "1922 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJq3ogpOtEwokRKoIeubTWEoc",
+        "rating": 4.8,
+        "user_ratings_total": 1689,
+        "phone_number": "(718) 942-4040"
+    },
+    {
+        "name": "Island Express",
+        "address": "998 Flatbush Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJI11QYEBbwokR54-jvxWTqrM",
+        "rating": 4.4,
+        "user_ratings_total": 474,
+        "phone_number": "(718) 469-9049"
+    },
+    {
+        "name": "Bonafini Italian Restaurant",
+        "address": "663 Flatbush Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJWbVgsRRbwokRA8DSvuD9JrA",
+        "rating": 4.5,
+        "user_ratings_total": 1036,
+        "phone_number": "(347) 770-9746"
+    },
+    {
+        "name": "THE GARDEN AT DITMAS",
+        "address": "1108 Cortelyou Rd, Brooklyn, NY 11218, USA",
+        "place_id": "ChIJi-kIc5FbwokRCSA1cXofy0g",
+        "rating": 4.3,
+        "user_ratings_total": 139,
+        "phone_number": "(347) 365-2968"
+    },
+    {
+        "name": "YOYO CHICKEN ( Flatbush Ave )",
+        "address": "1300 Flatbush Ave, Brooklyn, NY 11210, USA",
+        "place_id": "ChIJI13sv7VbwokRzCDdja97d3c",
+        "rating": 4.6,
+        "user_ratings_total": 66,
+        "phone_number": "(347) 365-7946"
+    },
+    {
+        "name": "Garlic & Olive Pasta Eats",
+        "address": "1314 Cortelyou Rd, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJWcMmCwBbwokR2m5ggalnidw",
+        "rating": 4,
+        "user_ratings_total": 61,
+        "phone_number": "(929) 210-0198"
+    },
+    {
+        "name": "Wattli Bar & Kitchen",
+        "address": "1505 Newkirk Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJYU3k-TRbwokRbZyJx5oMwHg",
+        "rating": 4.5,
+        "user_ratings_total": 155,
+        "phone_number": "(347) 413-9790"
+    },
+    {
+        "name": "Quezada Restaurant corp.",
+        "address": "1212 Flatbush Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJtVTJcxdbwokRcj9jY3gF5N4",
+        "rating": 4.2,
+        "user_ratings_total": 107,
+        "phone_number": "(718) 284-0514"
+    },
+    {
+        "name": "Halal-N-Out",
+        "address": "1457 Flatbush Ave, Brooklyn, NY 11210, USA",
+        "place_id": "ChIJNQ-7ePVbwokRgEFLsdF4-Y4",
+        "rating": 4.4,
+        "user_ratings_total": 134,
+        "phone_number": "(929) 234-2291"
+    },
+    {
+        "name": "Los tres Chiflados",
+        "address": "1046 Flatbush Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJb0s7dEdbwokRHtqhmaTCy2I",
+        "rating": 4.4,
+        "user_ratings_total": 486,
+        "phone_number": "(347) 350-6152"
+    },
+    {
+        "name": "El Diablito Taqueria 2",
+        "address": "41A Newkirk Plaza, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJ_UOvDftbwokRrxqtlvgOJEI",
+        "rating": 4.7,
+        "user_ratings_total": 88,
+        "phone_number": "(929) 306-9881"
+    },
+    {
+        "name": "Wheated",
+        "address": "905 Church Ave, Brooklyn, NY 11218, USA",
+        "place_id": "ChIJIYCk0DpbwokRZaTcJmohk1Y",
+        "rating": 4.7,
+        "user_ratings_total": 699,
+        "phone_number": "(347) 240-2813"
+    },
+    {
+        "name": "PiCH Restaurant and Lounge",
+        "address": "774 Flatbush Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJw2tVPFRbwokR1sV9AyFFCQM",
+        "rating": 4.2,
+        "user_ratings_total": 322,
+        "phone_number": "(718) 313-3100"
+    },
+    {
+        "name": "Brooklyn’s Best Eats",
+        "address": "23 Hillel Pl, Brooklyn, NY 11210, USA",
+        "place_id": "ChIJJZ353g1bwokRubInqTJ7-fM",
+        "rating": 3.8,
+        "user_ratings_total": 75,
+        "phone_number": "(718) 252-1234"
+    },
+    {
+        "name": "Cafe Tibet",
+        "address": "1510 Cortelyou Rd, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJp3KTIDdbwokRTqQ-IWjjQtE",
+        "rating": 4.5,
+        "user_ratings_total": 457,
+        "phone_number": "(347) 789-9524"
+    },
+    {
+        "name": "Rehmat • رحمت",
+        "address": "1095 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJIzMwRQlFwokRIR_ZI95kiI8",
+        "rating": 4.3,
+        "user_ratings_total": 117,
+        "phone_number": "(718) 210-1470"
+    },
+    {
+        "name": "La Cabaña Rodríguez",
+        "address": "1062 Flatbush Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJh3ivmUdbwokR7GoSs2UFyrs",
+        "rating": 4.1,
+        "user_ratings_total": 1657,
+        "phone_number": "(718) 287-0248"
+    },
+    {
+        "name": "Good Hope original restaurant and bakery",
+        "address": "711 Flatbush Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJQY0toTdbwokRdKdCc5vM6XU",
+        "rating": 3.5,
+        "user_ratings_total": 48,
+        "phone_number": "(347) 240-6221"
+    },
+    {
+        "name": "Melany Restaurant",
+        "address": "785 Flatbush Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJmxYBq2pbwokRbzKAAbmGduY",
+        "rating": 3.8,
+        "user_ratings_total": 623,
+        "phone_number": "(718) 282-0399"
+    },
+    {
+        "name": "El Ranchito Poblano Restaurant",
+        "address": "1306 Flatbush Ave, Brooklyn, NY 11210, USA",
+        "place_id": "ChIJz4QI40hbwokRKQTO1sxks1k",
+        "rating": 3.4,
+        "user_ratings_total": 266,
+        "phone_number": "(718) 282-0366"
+    },
+    {
+        "name": "The Grounds Of Brooklyn",
+        "address": "1117 Newkirk Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJfZ4ZEexbwokRxRNY-pZIhzo",
+        "rating": 3.9,
+        "user_ratings_total": 163,
+        "phone_number": "(718) 676-0373"
+    },
+    {
+        "name": "Crispy grill nostrand",
+        "address": "2462 Nostrand Ave, Brooklyn, NY 11210, USA",
+        "place_id": "ChIJoy9okJJFwokRNo9Se38Y8wk",
+        "rating": 4.7,
+        "user_ratings_total": 45,
+        "phone_number": "(718) 989-9669"
+    },
+    {
+        "name": "Michael’s",
+        "address": "2929 Avenue R, Brooklyn, NY 11229, USA",
+        "place_id": "ChIJ2cccPJlEwokRnkUFMJ3M_-k",
+        "rating": 4.7,
+        "user_ratings_total": 1655,
+        "phone_number": "(718) 998-7851"
+    },
+    {
+        "name": "Golden Blue Bar & Restaurant",
+        "address": "2172 Clarendon Rd, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJL8ukd0hbwokRNyCXCwTKCls",
+        "rating": 4.3,
+        "user_ratings_total": 91,
+        "phone_number": "(347) 406-5414"
+    },
+    {
+        "name": "Guac Time Mexican Grill",
+        "address": "1060 Flatbush Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJuTSmCc5bwokR3saDLF8vAyk",
+        "rating": 4.5,
+        "user_ratings_total": 514,
+        "phone_number": "(347) 312-4168"
+    },
+    {
+        "name": "Sesame - Flatbush",
+        "address": "1540 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJoUU4u8ZEwokRfHi2dw3E35A",
+        "rating": 4.6,
+        "user_ratings_total": 351,
+        "phone_number": "(718) 427-0000"
+    }
+]

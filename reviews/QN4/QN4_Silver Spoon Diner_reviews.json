@@ -1,0 +1,565 @@
+{
+    "name": "Silver Spoon Diner",
+    "place_id": "ChIJM-wDgDVewokRSRKx_OGIPnA",
+    "grid": "QN4",
+    "address": "58-21 Junction Blvd, Elmhurst, NY 11373, USA",
+    "rating": 4.2,
+    "user_ratings_total": 1051,
+    "phone_number": "(718) 393-3000",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNdFRYQlJOaTAwUzAxc2JVNXZiWGhIT1dGVFRsRRAB",
+            "text": "We came here Sunday morning with the whole family. They didn’t have eggs Benedict or much of a typical extensive diner menu. You have to order 3 eggs, you can’t just order one egg and a side so I had to order a big meal. My omelette had egg shells in it but it was still delicious. My husbands scrambled eggs also had egg shells in them. My sons silver dollar pancakes were great and my moms 3 egg platter must have been great because she devoured the whole thing. The coffee was great too. Total for four people was around $70, which is steep but normal for this economy now."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nemFrSkdjMHh2Y3pOZk1WaE5kVXcyZHpOSmRuYxAB",
+            "text": "best diner i’ve been to so far !! 😊🩷 i usually don’t come to queens, but i randomly came here as i see it everytime i pass by here — they did not disappoint. i came on a saturday morning and everyone was so nice and kind. the food is super yummy, and the waiters are very attentive. definitely will visit again next week! i got the fruity explosion on a waffle, with bacon and a latte. my bf got a burrito with coffee (forgot to take a pic of it) and it all came to $42 and change including tax + tip."
+        },
+        {
+            "date": "4일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GSFNsQlRlalJHTWtSVGVrSTNlVmxwVEV4eVQzYxAB",
+            "text": "Buena comida y buen servicio 😋"
+        },
+        {
+            "date": "수정일: 4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBeV9ucmZBEAE",
+            "text": "Breakfast is Excellente"
+        },
+        {
+            "date": "5일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkM2NWWjNXbVI2U1V0SlIxaHRWa3RYYURsa2NGRRAB",
+            "text": "Excelente sitio de comida típica americana. Muy buen trato (el camarero Alex nos trató muy bien). Muy buen ambiente y comida muy rica.\nSitio muy recomendable."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Rd1VVUlVRemt0VkhORFZVaDFjM05LZHpGTlFuYxAB",
+            "text": "Unfortunately this place fell off. It's not how it used to be. The staff are really rude. A simple question will make them mad. The food, let's just say... Not a great experience. Hope they improve in the future. Not recommended at this time."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOblp5MU1ZM2hYWVd3Mk5uRjFXa1ZEVDNCaVZYYxAB",
+            "text": "I went today to have a coffee latte and a tea, the guy at the register ( on the pic)was extremely rude and has an attitude. That’s not good for business, I’m taking my money somewhere else.\nwhy is it that people has some kind of hateful attitude in customer service?\nfirst and last time there."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKV2JqY3hlRE55ZFcxQ2JYTllhRmt6Y2poemVYYxAB",
+            "text": "Lots of options, great portions and service. Maria was very helpful and kind! Loved her recommendations and company! (:"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205UlJIaGZZMWMxUTBneFlqaG9SMFp5Wm1WUWQxRRAB",
+            "text": "Awesome spot for vegan food! Great service. Recommend for anyone looking for a good vegan meal."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWVmQxQk5hbDlITVdZd2RGVnFVa0p3WVMwMVFtYxAB",
+            "text": "A great, super friendly neighborhood eatery to great selection and great prices"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CTVNUQjVObTlPVEZaaFNsSXhWMkZrY2pSc2MxRRAB",
+            "text": "They did an excellent job."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4YVJUQmFRM0Y0UjNGQ2VsOWhUWFJFUzIxcU4zYxAB",
+            "text": "Charming diner with a nice retro atmosphere and great prices. I like that they have all day breakfast. The seating is nice and a lot of little things make this place homey."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WeVNHSXpVMFI1VTJsVVRGYzBVMjgwY1dJMldtYxAB",
+            "text": "The food and the drinks are really good here. The pumpkin spice cappuccino was everything."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWcmNHNVJNR0oxVkU1ak4zSmZRemxmZDFCS1RIYxAB",
+            "text": "Grateful service"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GZmFuTXRkSGxaVFRKRFdFNXNNa1ZCT1ZoNE5rRRAB",
+            "text": "Our party of 3 mostly enjoyed our food. I got the falafel wrap, which was pretty good, but definitely not among the best I've had. It kind of felt like they threw in a side salad as opposed to ingredients specifically cut for the wrap. Nevertheless, it was decent.\n\nWhere this place really lost points was on the service. Our server, who I think his name was Martinez, worked as if he has never been a server before and was filling in for someone. For starters he immediately brought out a soup while the other 2 people waited 20 minutes for their food. To not be rude, the person waited for us to be served. I would think serving everyone together is the appropriate thing to do. Secondly, after dropping off the food he never once stopped by to ask if we needed anything.\n\nThis place is insanely popular, so if I come back, I'll just make sure I'm not in that guy's section."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSNmJFUjJSbmt0WmxwRmFGTnNia3RQZEdKNWIzYxAB",
+            "text": "Every aspect reflected care and attention. The team is exceptional! They don't add unexpected costs to your meal. Flavorful meals and supportive staff. We considered it a highlight dining experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkMWMyNXZUV2RrZWtWalNXNXdSV0UzYlRkVWRtYxAB",
+            "text": "Been going here for over two years now, always a great experience! GREAT food and  staff."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5VmNIaEJUREpyT1ZWM1FsbE9XVFZvTVhGeVZtYxAB",
+            "text": "Bacon Egg & Cheeses made with love here"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3bnVtMkdBEAE",
+            "text": "Great"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsRGEzZHZWR2RPZUZWNFYyZzJaalV3YWt0eFMxRRAB",
+            "text": "My favourite breakfast venue in Elmhurst Queens."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VOS01ndm53N2NxdjJBRRAB",
+            "text": "Good diner."
+        },
+        {
+            "date": "5달 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNYi1qNzNqaDhyRElnEAE",
+            "text": "Tudo perfeito, do atendimento a qualidade da comida e das bebidas, panquecas  saborosa, capuchino muito bom, recomendo e voltarei  muitas vezes"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLeXkycXU2dHNpUU93EAE",
+            "text": "delightful diner experience. super yummy breakfast. i had the chicken fried steak w hash browns and chorizo kn the side, whilst my daughter had the chocolate lovers waffles and grandma had the omelette . the chorizo was especially excellent and everyone kept taking mine."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VLM0dpSm0ycjVTa0ZBEAE",
+            "text": "Classic Queens diner, with all the specialties. Friendly staff."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJaXAxYUxhdGVIOUpREAE",
+            "text": "Everything is good"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VLeXYwWUdJc2FfQ013EAE",
+            "text": "I ordered a Roast Beef sandwich 3 times with golic now they won't do it Person on the phone is rude Never ordering from them again I used to buy food for 20 years Just lost a customer"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvLWJTVUpnEAE",
+            "text": "They were very nice and appreciated us for coming and eating there"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJel9pR1BBEAE",
+            "text": "I love this place"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJOWNpajN3RRAB",
+            "text": "What you see is what you get. This is a classic diner with all the accoutrements. Nothing too special but the food is solid and speedy and the service is excellent."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJa2Mzek93EAE",
+            "text": "Food was so-so. The workers have a problem with watching videos on their phone at full volume."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3dWU3bXhRRRAB",
+            "text": "Wonderful"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3LUpUOHR3RRAB",
+            "text": "Me and boyfriend have been here various times and everytime the service is great and fast and the food always is good."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3OE5TamFnEAE",
+            "text": "Fantastic food, outdated food/product dates putting lives at risk. I give this a decent rating because the food is fantastic, but finding out that at least one if not many of their ingredients are out of date are being served to the public and worse. I worry."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3MExEV3NnRRAB",
+            "text": "Wonderful service and great people"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3ejVMRVZ3EAE",
+            "text": "Best local diner"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3c19xSE53EAE",
+            "text": "Great place, generous portions, very good service, prices little high."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3LXZTWlNnEAE",
+            "text": "Great food, the customer service experience is good."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3b0p2U2d3RRAB",
+            "text": "Decent food at a good price, but not the best coffee."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRbnRLaFFBEAE",
+            "text": "I paid $35 for two breakfast sandwiches and two hash browns that were prepared with the most minimal effort and attention to detail I even paid for extracts on one sandwich and they both have the exact same amount, I understand everything is gone up with inflation but not that much especially for the poorly prepared food they make."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmd1lhVXpRRRAB",
+            "text": "Pretty upset that I always ask for the bagel to be cut in half they tell me “we always cut it in half” and they dont. This has been consistently an issue."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNac0lmS1FBEAE",
+            "text": "Always great service, and delicious food."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBbUttOHVBRRAB",
+            "text": "Nice"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBMWRqOG1nRRAB",
+            "text": "SSD might be the only remaining diner left in Queens after a few years. The reason being that they adapt to the times and update the menu according to what the younger generation wants. For example, in addition to standard diner fare, they also offer amazing tacos and breakfast burritos, among other things.\n\nThe portion sizes are also more than generous and they have the biggest selection of drinks I have ever seen for a diner.\n\nI recommend their breakfast menu. The pasta dishes are surprisingly good for a non Italian themed restaurant. The staff is also very friendly and will take the time to get to know you once you have visited a few times."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBck8tdFlREAE",
+            "text": "Front manager kicked me out because I drank milk out of the coffee milk container (just wasn’t wasting it) and started a fight because I wanted to leave before the rest of my meal was ready. Very unprofessional and rude. He threatened to hit me and then smiled so apparently he wanted to hit me so he could sue or something. Don’t come here. The above statement is true and to the best of my knowledge."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmNTZtSzNBRRAB",
+            "text": "This is my favorite diner. Everything I’ve tried has been delicious. I really love their soups. Priced very reasonable and have had excellent service every time. It’s surprisingly hard to find a good diner lately but this is the one!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmNWFlcXl3RRAB",
+            "text": "food was good. service not the best but it was also late so pretty understandable. had a nice time though. pretty little spot"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmNzd5NVhBEAE",
+            "text": "Great local staple"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2bE1iaG1RRRAB",
+            "text": "Today is the beginning of a new year. The service was the absolute worst the gentleman that service My Mum and I was extremely disappointing coffee was from yester year and cold and the home fries was unseasoned and the the croissant was burnt around the edges! First breakfast of the year was very very disappointing 😞\n\nPS: frequently customer"
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmbHBXdDZRRRAB",
+            "text": "Excelente servicio, personas super amables, comida deliciosa y porciones de buen tamaño"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2NW8ycFNnEAE",
+            "text": "The french toast with fresh whipped cream is amazing!! a must try"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNka091U3V3RRAB",
+            "text": "Great place for a weekend breakfast. Only reason I didn't give 5 stars is a lot of the booth seating are kind of tight. But, the service, food and choices are great. Our new favorite when heading to the mall, as it's walking distance. Give them a try."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1X2VhRmdBRRAB",
+            "text": "The breakfast here is amazing, I had the homemade corn beef hash, it had a little too much grissle, but was still quite tasty. And the coffee is always great. One thing you must try from here, is the everything croissant if you catch it fresh out of the oven it is DELICIOUS!"
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXcU5qdlVBEAE",
+            "text": "Excelente lugar para comer en cualquier ocasión. Excelente servicio en Español e Ingles .\nExcelente variedad de comida Americana y pizzeria . Altamente recomendada …\nMis 5 estrellas para ese hermoso lugar ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGb1oyMllBEAE",
+            "text": "Their food is good but be careful when ordering delivery. My delivery guy took it upon himself to set the tip at 18٪ when I paid with a credit card. Also I ordered sweet potato fries. They put it in a big container but it was only half full. Definitely wasn't worth the $6. I literally could have counted the fries they gave me."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlNi1uV3R3RRAB",
+            "text": "Visiting \"home\" since living in CA, and there's just something about NYC diners that sets them apart from all the rest. This diner is no exception. Good coffee too!\n\nLoved the raffle tickets too! When you first enter the dinner, before you're seated, do the take for a (free) chance for something special. Buena suerte... Good luck 😃"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVMlBTYkFnEAE",
+            "text": "It's ok. Pancakes taste fine. My friends didn't like their coffee. Eggs are alright. French Toast is good. Churiso sausage is good. Overall I would say it was ok experience."
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnMnNiTm5RRRAB",
+            "text": "Excellent diner with lots of choices. Great fast service. The quinoa burger was the highlight of our lunch. Mac n cheese appetizers salmon burger  was good also. Can't wait to come back and try from their breakfast menu."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhdTdIVDFnRRAB",
+            "text": "The food was delicious. We ordered chicken sandwich, crispy chicken panini,western panini and some chocolate cake slices. The coleslaw was superb. Nice ambience. Would go back again."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXX3JhdHJRRRAB",
+            "text": "I’ve only ordered delivery, but every time there was an issue with the food; missing items, chicken is always over cooked. Today I ordered Chicken Souvlaki dinner, and it was gross; soggy pita bread, with chucks of chicken and 2 full chicken breasts, no salad or tzatziki. They are also very pricey!!! The souvlaki order was $20 😳"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzOTl5TXpRRRAB",
+            "text": "The diner is nice for the  neighborhood it’s been there many many years the service is Good, the food is alright not the best, but Good enough lacks flavor but big portions the menu  easy to follow and always have classic breakfast, lunch they have many options would recommend if your eating close by and wanna avoid chain restaurant"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURabnNPQlhBEAE",
+            "text": "very delicious food. me and my friends really enjoyed it!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVNWYtcmFREAE",
+            "text": "Absolutely fantastic. My usual diner spots are in Bayside but I’ll be making the trip here in the future. Corn beef hash is the real deal here, not the canned stuff many other diners use. French toast was made to a perfect texture and…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSOWRxX2dBRRAB",
+            "text": "Decent place to get a proper breakfast. Many options to choose from. I visit this place often with my family on Sundays. Diners are closing in NYC, so we like to support them, after all they are/were like NYC landmarks."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4b055bGZnEAE",
+            "text": "This Place Used to b Really Good but They Fell Off...Depends What You order! For Example The Gyros are Good but If You order a Burger Instead of Lettuce & Tomatoe on Your Burger, They put Salad Mix on it. Which means You'll have Carrots & Red Cabbage on Your Burger. I'm assuming they do this to save money. They're Also a Bit Overpriced. I Don't Recommend You order The French Toast (Don't let the look fool You, This was Nasty), again it Used to be Good but they switched up."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtdUlLT3J3RRAB",
+            "text": "I had the fried mac and cheese bacon burger with the honey garlic chicken wings and everything was sooooo good and so affordable. The waiter was very attentive, which put the icing on the cake. I will be returning again."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPc0ltQjJRRRAB",
+            "text": "Primera vez viajaba a NY, fue una experiencia increíble, muchas gente de mi Ecuador que respetan a raja tabla las leyes y aquí en su Ecuador no lo hacen😔"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJa3FXWTR3RRAB",
+            "text": "Great service and atmosphere! This is my family's favorite diner in Queens!! Love it! The Country Fried Steak dinner is the best I have had outside of the South!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoaWV2YTJRRRAB",
+            "text": "I really wanted pancakes and crispy bacon this diner made some awesome pancakes, was so pleased! Bacon was great, omelet cooked perfectly, the eggs I would prefer to be less runny but a really nice experience."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhcnN6dl93RRAB",
+            "text": "It’s amazing as always. Great place for breakfast and lunch!!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBZ3ZPOG53RRAB",
+            "text": "Solid neighborhood diner food, anytime I want some American breakfast and don’t want to deal with the excessive wait times, Silver Spoon it is.\n\nPros\n\nFood is good\nRelatively affordable\nFast service\nClean (recently remodeled)\n\nCon\nNo street parking, it is by LeFrak city, Queens Center Mall and Rego Center Mall. So if you want street parking you will have to go several blocks up, or pay for parking in on of the several parking lots around there."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwMU5iUGZBEAE",
+            "text": "The food is  great, the Alfredo pasta more than amazing, fish tacos tasty my only concern is about the prices, compare to other dinners this place is a little pricey to me."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURobU5PTjFRRRAB",
+            "text": "I am extremely upset not only did I find a roach in my food but mainly because of how rude the employee was when I called to explain the situation. My entire jobs order from this diner all the time and they shouldn’t treat customers poorly for something this disgusting as a bug roach or whatever kind of species of insect this is."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2cGJqZ0JnEAE",
+            "text": "My grandfather has ordered from here 4-8 times a week for the past several years — probably north of $100,000 spent at this restaurant on takeout. We have always been happy with the quality of the food.\n\nMy grandfather often orders just soup broth, and he typically gets a full container. He usually had good experiences doing this at silver spoon. However, the last time he did that, they gave him a half-full container because according to whoever picked up, “that’s the amount of broth the soup comes with.” They were unwilling to top off the container.\n\nAfter several years (with generous tipping), it’s disappointing that the staff would be so cheap. Oh well, the Rego Park Coffee Shop is happy to have his business."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQZ0tfX1ZREAE",
+            "text": "excellent place to eat breakfast lunch or dinner... bilingual... English Spanish... very friendly s..excellent coffee and attention... 😀😀🥰🤩"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2bW96b3pBRRAB",
+            "text": "This establishment should honestly be ashamed of how much their pricing has increased. A simple mango shake on their website for a size SMALL is $7.19. A breakfast sandwich here is cheaper than a size SMALL shake. Their breakfast sandwiches on their website is 5.89! How Does a size SMALL shake cost more than a breakfast sandwich? Please explain. This establishment is price gouging on items and it’s sad."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2dzUtbFF3EAE",
+            "text": "Pleasant staff serving your food. Good food for breakfast. Nice outdoor seating."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYck9YUFhBEAE",
+            "text": "This is my breakfast spot almost everyday. I can say it’s a home run. The food is excellent, service is top notch and this is all obvious by the line everyday. People will wait for what’s good! Best part is the wait is never long. The crew here understands a positive customer experience."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhZ05MVE9REAE",
+            "text": "Great food with excellent fast service. The staff was kind and served us excellently (group of 8). Tough job, but tougher staff!\n\nPlus, we had a great time underneath the cool green light!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURReU1QUWJ3EAE",
+            "text": "Very fast service and a good strong coffee. Great place."
+        }
+    ],
+    "reviews_count": 79
+}

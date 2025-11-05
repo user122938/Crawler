@@ -1,0 +1,572 @@
+{
+    "name": "Miyama Sushi & Steakhouse",
+    "place_id": "ChIJVTt_AV5dwokRp20H8tjdav4",
+    "grid": "QN5",
+    "address": "3-49 St Nicholas Ave, Ridgewood, NY 11385, USA",
+    "rating": 4.8,
+    "user_ratings_total": 276,
+    "phone_number": "(917) 909-0833",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMlpEWnZkMFpLYjBWUFZrNWpiRkZzV2tsdGRsRRAB",
+            "text": "I had my 1st order delivered which I've never done before. It was late arriving. However, the eel/ avocado roll and the California roll were both very fresh, delicious, and packaged well. The organic salad was a disappointment for $6.50. The menu is great and I'll recommend this place."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWeGJrSmFSMkUyY1ZCRFRHZ3diWFZHTTNCQ1gwRRAB",
+            "text": "Food is amazing. Great quality sushi. I had the party tray, hibachi,  teriyaki squad all was beyong delicious.  The people working here is very nice. Atmosphere is chill vybe. Nice to a date or just to sit and eat."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oSE0zTkdSWEJhV2xrMll6UTJZa1J1VVhwcFMyYxAB",
+            "text": "some of the best Japanese food I've eaten in NY"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205TVRHbzRXVzF3YlRCRVIxWnFXRzVJTTJkcE5FRRAB",
+            "text": "Delicioso, limpio.\nLa mesera le falta un poco más de atención pero está bien, nada del otro mundo."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWNmVEY3RUMDQyYzJ4NFgzWnpjV3d3TVhBMWQxRRAB",
+            "text": "Now on my second day of food poisoning from their sushi. I can’t stay hydrated. Had a previous good experience so i ignored the sushi smelling off… now paying for that… thanks guys"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKcFMzVlhOblYzWW10ZlZrUnRRVzFNZG1WS2JXYxAB",
+            "text": "The people that own or work their was nice. The food I ordered was so good I would come back. I took food home that how good the food was"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjM1ZXTk1jSFpLUlZaa2N5MTNXVlpGVW5sbk1uYxAB",
+            "text": "Very poor customer service. I walked in, stated I was there for one, and proceeded inside. A second host then stopped me to ask if I needed help, even though I had already spoken to the first host. This interaction felt unnecessary and gave the impression of racial profiling. It left me feeling singled out and uncomfortable. To make matters worse, the food and drinks were mediocre at best."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCc1ZrODBjazFuYjBab1RteFNhRzQ1Ukc1ek1VRRAB",
+            "text": "The best Chicken katsu I've ever had! Highly recommend this place."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFNWRuTTFjV2RSTkZFeFkzVkhkRTEwU0ZSTE5rRRAB",
+            "text": "Great food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCbE0yUnVkMFZzWVVGbWJuSnJURU5pVFMxbWRWRRAB",
+            "text": "I highly recommend this place for anyone wanting to try authentic japanese food. I had dinner there and I must say I am satisfied with everything, from the service to the food quality."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20weFgycHpSemRxVUU1ak1tZFhVRTR5TjA5UGRIYxAB",
+            "text": "Haven't eaten in restaurant but I've ordered a few times and the staff is very polite and the food is always delicious"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rNExWVnJkVEJGVkZkcFVVMXJaR1JrTm1oNVRVRRAB",
+            "text": "I like the concept, I love that they serve you water before everything, that's is hospitality. Dumplings are good, noodles chicken soup too, plus a sake."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOQmRFbEdZbE5vVm5wUFRHWXdXa3AxVW5wWVYzYxAB",
+            "text": "The best I have had in a long time!!! Mango tempura roll was crisp fresh and not over sauced.  The spicy tuna on scallion pancake was so delicious right amount of cool and warm.  The 2 roll lunch special is a very generous amount of food.  Finally the chicken habachi was perfect, fresh veggies perfectly cooked chicken.  The place was very clean, easy parking. My new favorite sushi place"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOcVdWSk9iVW8yUzI5VlFYTXRWWFZ4WW5WM2QwRRAB",
+            "text": "Had a wonderful time at this place. The atmosphere was nice and the food was delicious. Everything we tried had us wanting more. Would definitely return."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psUFIxTmxaa3c1YTJ3MlIyZFFkV055Y1RGU2JtYxAB",
+            "text": "I get the sashimi lunch here often, and it is amazing !"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSRFJsTmlZVU5ZTVZKeWRqTkljVmgxTUcxNmNGRRAB",
+            "text": "Very good quality food and an impressive menu."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201Sk9FWXhjMVJNZVcxVWVHOVZZMGR5WVc4MmQxRRAB",
+            "text": "Could use some improvement. Prices are a little high compared to others."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFellWSndibGM0VVV0R1FVVkxjbGw1WlV0SFVHYxAB",
+            "text": "sushi was AMAZING!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjMExYQnJkVVJHTVdad00wMVZiMVF5UWxSVVFXYxAB",
+            "text": "We were here with my wife food was not bad specially size of portions omg…you can have 50 pcs sushi for 50 $ which is so good but only problem is only 1 waiter or 2 is not enough for this place"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkRVdUQm9UVVp0WkZaQ2FXRTJVR1JPY1ZCZkxXYxAB",
+            "text": "Let me just say I thank God for MIYAMA coming to the neighborhood. You rarely find a price-friendly restaurant anymore with great service, food, and consistency. Lili is my repeat server, very knowledgeable, friendly, and great at making you feel at home. Now let's get into the amazing food they have for the price range, their lunch/Dinner specials are out of this world. You can tell nothing is microwaved, or made the day before because of the freshness. If yiu want great quality food, great service that doesn't break your pockets!!! Visit if you dare to be amazed."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paSVdGcEJjVVJJV1hSWlJFdHFRMXBLYlVoeVNVRRAB",
+            "text": "It was nice but the shrimp fried rice was lacking of taste"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xUk9VSnpkV3B2UVZoNVRtSTBlWGgyVDJJNVgyYxAB",
+            "text": "Flavor of the fish was outstanding! I tend to go for sashimi and nigiri and steer clear of rolls with lots of added sauces… so I really value a high quality fish and THIS IS THE PLACE TO GO. 10/10 recommend"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCUVJGbHVNM1pCY0RWcGJVNXVTbVJZV0RaZmMyYxAB",
+            "text": "The food was absolutely amazing, beautifully presented, and paired with excellent customer service. A truly enjoyable experience from start to finish!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JMlgwOWpWMnMwVWtkNk1rMXpjMGhyVmxCcFdIYxAB",
+            "text": "Food is so fresh and good"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toTldWTktUMnREWnkxVk0yaElaVlZxT0ROZlRYYxAB",
+            "text": "Delicious  food and great service."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKdU00UHVOX0t1UHZRRRAB",
+            "text": "We order from here at least once a week and it is alway excellent. The food and the staff are top notch. ❤️"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0MFJtc3lZblZyWlMxRk1XeEZjek5vWW5kYU5IYxAB",
+            "text": "The best place. I highly recommend it."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKR1o5dnlfbThhRHFBRRAB",
+            "text": "The food here is always great and the atmosphere is very chill and calm. The servers are very nice and attentive. It’s never too Loud and it’s comfortable to enjoy your time here. Highly recommend for anyone looking for a quick bite to eat for lunch or to sit down and take your time eating dinner with good company."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNbmVndGlnMU83WGd3RRAB",
+            "text": "Delicious food and amazing deco. Perfect for dining in and/or date night. Spacious (not cramped like most places around)."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveGZpRldREAE",
+            "text": "The food is really good and it's a plus that I live right around the corner from them."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvenRHMkZBEAE",
+            "text": "Food was great evening went well. I was very happy and the kids enjoyed the food and kids chop sticks they made for them"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJMTU3cWVREAE",
+            "text": "food is fresh, and amazing 👏  service needs to be more improved and attentive to guests, but overall, great"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dEl2OWtnRRAB",
+            "text": "Went to this restaurant randomly because I was in the area. The food was all really fresh and delicious.  The prices were very reasonable. The menu had a nice selection of items to choose from. We ordered soup with soba noodles and shrimp, chicken teriyaki bento box, sushi and sashimi. Everything was excellent. Will definitely come back."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRaDRYVzhRRRAB",
+            "text": "Everything was amazing! The place was beautiful. The food was delicious and had the perfect flavor. Will come back for sure."
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRMDVTNnh3RRAB",
+            "text": "Un lugar muy bonito y realmente agradable 😊 aparte su personal muy amable y muy atentos y la comida super deliciosa 😋\nEspero pronto volver a ir me quede con ganas de ir nuevamente ❤️"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRdG9ENWJnEAE",
+            "text": "We got take out here the other night but picked it up in person, the staff were very lovely and the food was great!\nMy only feedback would be, please less plastic and can the food be put in cardboard containers?"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRbWFfbnVBRRAB",
+            "text": "Food is amazing. Can't wait to go again"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRbnRicU9nEAE",
+            "text": "I recently had the pleasure of dining at this restaurant and it was an exceptional experience from start to finish. The ambiance is inviting, with a perfect blend of modern elegance and traditional Japanese charm. Whether you’re on a date, out with friends, or just craving high-quality sushi, this spot is a must-visit.\n\nThe sushi itself was incredibly fresh, expertly prepared, and beautifully presented. Each piece practically melted in my mouth, and the flavors were perfectly balanced. The chef’s selection of sashimi was a highlight—vibrant, delicate, and full of rich umami flavor. I also highly recommend the signature rolls, which showcase both creativity and top-tier ingredients.\n\nBeyond the food, the service was impeccable. The staff was friendly, knowledgeable, and attentive without being intrusive. They took the time to explain the menu and offer great recommendations, making the entire dining experience even more enjoyable.\n\nOverall this restaurant exceeded my expectations in every way. If you’re a sushi enthusiast or just someone who appreciates great food and excellent service, this is the place to be. I will definitely be returning soon!\n\n⭐️⭐️⭐️⭐️⭐️"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRMUxlQWN3EAE",
+            "text": "Good sushi!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRMklDUXVnRRAB",
+            "text": "This restaurant was a great experience. The restaurant is beautiful, the food delicious, and the waiters very friendly."
+        },
+        {
+            "date": "8달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRMk5Dejd3RRAB",
+            "text": "Les sushis sont délicieux, variés et généreux, à un excellent prix ! De plus,  endroit très propre et personnel accueillant."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnM3ZlTGh3RRAB",
+            "text": "This is a great Japanese Restaurant. I mean-where do I start?\n\nLet’s go with service first. We were immediately greeted upon entering which is always a great touch. You want to feel “wanted” in any restaurant by staff. The tables were clean and seats were decent with ample seating room.\n\nOur server was Anna and even in the evening she was courteous, smiling and very attentive to our needs and requests. Mind you this is while she was tending to the rest of the restaurant. 5 stars for Anna! Thank you! ☺️\n\nThe appetizers were delicious and generous with portioning. As were the main courses. I got the Chicken Bento Box with some assortments of Sushi Rolls. Now let me mention something about Sushi in NYC. As we all know everything is super expensive. Expensive and small in portions. Especially with seafood.\n\nMiyama Sushi and Steakhouse gives the biggest portions I’ve ever tried at any seafood/Sushi restaurant at decent and fair pricing. Mind you I would pay for for the level of quality and, once again, portions. This is the first Sushi “spot” where I had to take some home to eat later. Mind you, I’m 6’4” 250 lbs. Not the biggest guy but larger than most and my appetite is huge. 👏🏾\n\nThe culinary design of each dish is unmatched with most other locations. There were two sushi chefs here and I was impressed with the amount of energy these guys had. Their attention to detail and deft skill at designing each sushi food/food item was definitely awe inspiring. I couldn’t see my self working for hours each day doing nothing but spending time feeding hungry people but in a way that requires discipline. 🫡\n\nOverall the experience deserves 5 stars for customer service, food quality and environment. Beware: if you come here hungry get a good appetizer because it does take time to “design” each dish. I promise you though, it’s worth the wait. Expect probably a 15-20 minute wait on the main courses. 🤌🏿\n\nOh! Bathrooms are super clean. To Anna and staff thank you! We will be back. 🥳"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnM3ZEVjl3RRAB",
+            "text": "I ordered takeout today, and was blown away by the freshness and flavor of the sushi rolls, they were delicious! By far one of the best places for sushi that I’ve ever tried, and will certainly be returning for an in person dining experience, and to explore more of their menu!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnOXRqNG5nRRAB",
+            "text": "Very pleasantly surprised by the high level and taste of sushi at Ridgewood! The sushi is very tasty!!! I tried the hot beef rolls. Rolls of rice with deep-fried fish are hot. The raw fish we ordered was also tender, fresh and delicious. I recommend it!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBNDh2azlBRRAB",
+            "text": "Amazing service and great food! We tend to stop in once a month, either as dine in or take out.  This is the best sushi in Ridgewood!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBMUxXRFNBEAE",
+            "text": "Me and my best friend's sushi spot. Their fried calamari is a bit chewy to me, but everything else is delicious."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBdzYyWVh3EAE",
+            "text": "Great quality sushi and hibachi beef was delicious. Highly recommend for their lunch special!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBd09hbjJBRRAB",
+            "text": "My Family lives in Ridgewood and this has become a family staple for our dinner gatherings! Ever since they opened, we decided to try it out. Love the atmosphere and vibes of the restaurant. Everyone working there is soo attentive and kind. I am OBSSESED with their tamago sushi roll and Hibachi fried rice. The food is always beautifully displayed and always tastes fresh and delicious. Desserts are really good too! Highly reccomend."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfdzRIaFZBEAE",
+            "text": "Everything was fresh and well prepared. Waited almost two hours for our sushi entrees; they seemed to be preparing take out orders before dine in customers. Despite the restaurant being only half full, servers were inattentive: they didn't clear plates as they accumulated, didn't offer more drinks, and didn't address the wait until we asked."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfdFlMX29BRRAB",
+            "text": "Food was great they were very attentive and the place gave a nice ambiance"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6bjlLeUl3EAE",
+            "text": "Celebrated our sons graduation and found this place in the area and was pleasantly surprised. Delicious food! Service was a tad slow tho but im guessing because it was weekday. Not alot of Drinks but the margaritas were tasty. Fried rice wasnt my fav tho, wasnt flavorful or tasted like your typical fried rice. However, everything else was amazing...my beef soba noodle soup omg was 😙👌 I added soy, chilli oil n sesame oil amazing! Overall i will return! Family enjoyed the meal!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6bzQ2SE9REAE",
+            "text": "Love the vibe! It’s spacious, relaxed, beautiful, and clean. The food is really good and there are tons of options. They have one of those big hardcover menus (not a QR CODE). It’s one of those places that makes you totally forget you’re in the city when you step inside — in a really good way.\n\nI appreciate the presentation and attention to detail. The staff are so friendly, the service is great, and the prices are right. What a sweet addition to the neighborhood."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqek9YdVVnEAE",
+            "text": "I came here for my 3 year anniversary dinner and was not disappointed! The cowboy roll was amazing, definitely the best sushi I’ve had in Ridgewood ! (I’ve lived here all my life - 20 years) Both the NY strip steak and filet mignon were amazing also. Everything was well cooked, seasoned , and plated and all the ingredients were very fresh! We also had hibachi fried rice which was delicious as well and the tempura green tea ice cream did not disappoint. We ordered a lot and really enjoyed everything we had. The service was good and the ambiance is cute for a date or outing with friends. Definitely will be coming back and ordering takeout soon!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzMllmSjZBRRAB",
+            "text": "Stumbled across this restaurant in the neighborhood when looking for sushi.  I was looking to try someplace new and ended up being really pleased with the service and food.  Miyama has a wide variety of options on their menu and even has a bar inside.  The restaurant itself is very nice and a relaxed atmosphere.  Our waitress was so sweet and we received our drinks and food quickly.  The sushi was fresh and our meals were overall delicious.  Definitely give this place a try!  I will definitely be coming back in the future."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYcktDd0xnEAE",
+            "text": "Food was very very delicious. The flavor for every meal was flavorful. They were busy so the food did take longer than usual. Overall experience 9/10"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqXzR5OHBBRRAB",
+            "text": "I love it here. I’m not a seafood person by any means, but I do like salmon sushi. And with that I’m still very picky. If it doesn’t taste fresh I can’t stomach it. But this place was amazing. I got a salmon avocado roll and a sweet potato roll and then an order of chicken udon which was great as well. My friend ordered the salmon dinner as she always gets and it was delicious and beautifully presented. Service was also quick and friendly!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaLVBDNDZRRRAB",
+            "text": "Happy to have this new place in the neighborhood! Every dish I’ve had from Miyama has been beautifully presented and tasted great. The service is fast and so friendly—both dine-in and pickup! We’ll be back often :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6cDVfU0lREAE",
+            "text": "We had the sushi and it was legit. Upon entry the atmosphere is pretty interesting and feels very clean and very new. The sushi was fresh and flavorful. We also enjoyed the spicy edamame. All in all this is a good spot for sushi with prices that were very fair."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURabXRQSzNnRRAB",
+            "text": "I had an excellent dinner last night at Miyama, a new Japanese sushi and steak restaurant.\n\nAs soon as I walked in, I was struck by the cool, blue lighting and the captivating wall art, creating a wonderful relaxed atmosphere.\n\nThe food was equally delightful, fresh and inviting as the vibe. I started with great appetizers, followed by the surf and turf dish.  A dish that features steak and lobster.\n\nTheir exceptional, friendly service rounded out that perfect dining experience."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMNTZmb2pnRRAB",
+            "text": "This place is awesome perfect for any occasion, a romantic date, family gatherings and also children friendly. We met the sisters, which are either hosting or serving and they are such sweethearts. The food is outstanding"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEdE9HVmxBRRAB",
+            "text": "A great addition to the neighborhood! I’ve had food from here dine in and take out several times and the quality is great! All the sushi is delicious and fresh. They also have a lot of variety with the sushi, offering so many rolls to pick from! I love getting the bento boxes - the teriyaki here is great! I usually get salmon and chicken teriyaki bento boxes. The portions are a good size too!\n\nThe place is clean and very large, which is amazing because they can accommodate for large groups. The service here is also very good! The employees are very kind, friendly, and attentive. This place has easily become one of my favorite restaurants here. I highly recommend this restaurant to all!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6bkoyU0xBEAE",
+            "text": "My family and I went to this place yesterday for my little sister’s graduation dinner. The entire experience, from the moment we walked in, was fantastic. I was completely impressed with their professionalism and customer service.The ambiance here is so inviting and comfortable. The FOOD was GREAT!!! We will be returning guest!!! Highly recommend this restaurant!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3cXZ1em9nRRAB",
+            "text": "Anna was the best waitress I’ve had in my entire life. I will be coming here regularly. The food was impeccable. The atmosphere is Undeniably quaint and absolutely stunning. Can’t wait to return to try their flimsy mignon. And Matcha cheesecake!!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2cHVHM29RRRAB",
+            "text": "It was an amazing experience overall from the start we were late we called the restaurant that we will be arriving at 9:40pm but still made it there at 9:50 even though they close at 10:30 and it was 5 of us they still received us and provided an amazing service the food was delicious 10 out 10  we shrimp fried rice delighfull the chicken teriyaki was to die for we also had california & shrimp tempura rolls… As we were leaving the waitress surprised us with giving our 7yo son a xmas gift 🎁 Tysm this will definitely be our go to spot when we want japanese❤️🙏🏻"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuMEppazNBRRAB",
+            "text": "I honestly love this restaurant, the food is soooo delicious 😋. The food is fresh,  tasty, beautiful, and without any questions, the flavors are one of a kind. The clear soup, hibachi rice, the surf and turf were delicious. Everything was great. My server Lily was amazing, attentive, meticulous, and very patient she is great. Truly superb!!!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3NmZIX2xBRRAB",
+            "text": "I usually don’t review while still at the establishment, but I was pleasantly surprised with the size of the dinning area, the service and the food presentation was top-notch made me feel like I was in the city or Long Island. This hidden little gem in the Ridgewood/bushwick area which is just a few block from home. Will definitely visit again and try the sushi rolls!!!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIdEppTExnEAE",
+            "text": "I had high hopes for this restaurant. We ordered delivery few times and it was delicious. Wanted to try dining in and we were quite disappointed. I read from reviews that service is great, but We didn’t get any service at all. Waitress was disinterested and didn’t come to take an order for like 20 minutes. Food was good, but our experience was ruined with the service we received. Might order through grubhub but will never return."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaekpha2RnEAE",
+            "text": "absolutely loved my meal here! everything was delicious and our waitress even gave me a rose at the end of our meal! will absolutely be returning, 10/10 experience"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNadU1fdVZBEAE",
+            "text": "We love this place! Delicious food, great atmosphere and friendly service. We've done takeout and dine-in and had a great experience both times. We plan to come back often!\n\nI highly recommend the Takoyaki!!"
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkeHZhRG13RRAB",
+            "text": "Wonderful service, and the food was amazing!!! The atmosphere is well thought-out and the restaurant is very clean. I cannot wait to go back to this family-owned restaurant!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaby1TcnJ3RRAB",
+            "text": "Food was delicious and service exceptional. The staff is also friendly. Not pictured, but our family of 6 also had gyoza, edamame, shumai, beef bento box, veggie rolls, and filet mignon. Then, for dessert, fried ice cream, which was yummy."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsZ2NiVVBBEAE",
+            "text": "So good!! easiest one of the best japanese restaurants ive ever been to and i love sushi. the prices were affordable, seafood was fresh, chicken was juicy -- we had a rlly good experience! Recommend 10/10"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6bzRIeTVBRRAB",
+            "text": "I love this place.\nLet me paint a picture for you:\nYou enter. You’re greeted by multiple smiling faces and guided toward a giant, cozy booth. You slide into the booth, the seats are smooth, the table is shiny and clean. The back of the seat rises high behind you and you are immersed in the cocoon of a suburban restaurant style booth that brings you back to memories of being 12 in 2004, giddy with excitement for a special dinner out with the family. You’re presented with a giant book that looks too elegant and mysterious to be just a menu. You open it. It is not just a menu…it is a journey of colorful photographs, each one a world of sushi combo possibilities. Blue light glows from the walls. You make your selection: a maki combo with a side salad. A short time passes and then…your sushi arrives. It’s presented to you on a small bamboo tray with an orchid posed delicately atop your salmon roll. You take a bite. The fish is fresh and bright. The orchid dances off to the side of the tray as you make your way through each piece of sushi. This is bliss.\n\nTLDR: this place rules. Super friendly helpful staff. They were very mindful of my soy allergy and made sure everything was safe for me to eat. The fish is very fresh and the prices are reasonable. It’s my new favorite sushi spot."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUaG9ieWFBEAE",
+            "text": "My first time eating here i ordered delivery. The sushi was good quality fish it was all very good. Vegetables dumplings were very good as well. Looking forward to stopping in for dinner one night."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNab19xOHZ3RRAB",
+            "text": "The cheesecake tempura is delicious! It was my first time trying it, and it was fantastic. The takoyaki is good, but there aren't enough octopus bits. I’ve ordered the chicken teriyaki with egg fried rice and it was great too! The shrimp tempura roll came in a small container, but I think getting bigger containers would be wonderful just so that everything isn’t squeezed inside."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURseGJqbEVnEAE",
+            "text": "My second time here—\nAwesome service, inviting atmosphere, and authentic food!\nI had a really nice assortment of sushi rolls; fresh and really visually appealing! Highly recommend the lava rolls :)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaOExfUU13EAE",
+            "text": "Great sushi and great service! We had the salmon sushi dinner, spider crab roll and shrimp avocado which did not disappoint. The fish was all so fresh and it was the BEST nigiri I have ever had! I will be recommending this place to everyone and I’m jealous of anyone who is a local and gets to make this their weekly spot ❤️"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1aXMta193RRAB",
+            "text": "Amazing quality food! Ambiance is really good!\nServers are super nice ♥️♥️ I can’t wait to come back again!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaZ05YR1BBEAE",
+            "text": "Very fancy restaurant. The sushi is so fresh and tasty! Highly recommend it! 😍"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxOU5MXzV3RRAB",
+            "text": "This is my third time here with my family and they have been great every time! They also remember specific details from our last visit which is a plus plus !! This place is a treat to the ridgewood neighborhood! Food portion is big, always comes out hot and fresh!"
+        }
+    ],
+    "reviews_count": 80
+}

@@ -1,0 +1,482 @@
+[
+    {
+        "name": "Moon Cheese Restaurant",
+        "address": "88-11 31st Ave, East Elmhurst, NY 11369, USA",
+        "place_id": "ChIJ101DLXNfwokRHsFnwAPNyWY",
+        "rating": 4.8,
+        "user_ratings_total": 1020,
+        "phone_number": "(718) 255-1168"
+    },
+    {
+        "name": "Bistro Eloise - French Restaurant",
+        "address": "75-57 31st Ave, East Elmhurst, NY 11370, USA",
+        "place_id": "ChIJaW0AKldfwokRZh8-LdwLkkY",
+        "rating": 4.6,
+        "user_ratings_total": 553,
+        "phone_number": "(718) 440-9493"
+    },
+    {
+        "name": "Pokeyaki Japanese Grill Teriyaki&Sushi",
+        "address": "83-10 Astoria Blvd #5, East Elmhurst, NY 11370, USA",
+        "place_id": "ChIJSXLlUwdfwokRxdNI-zR8a1w",
+        "rating": 4.9,
+        "user_ratings_total": 285,
+        "phone_number": "(929) 227-4527"
+    },
+    {
+        "name": "Florence Prime Diner",
+        "address": "40-13 82nd St, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJd3MRj5ZfwokRNWWbShPE6do",
+        "rating": 4.8,
+        "user_ratings_total": 386,
+        "phone_number": "(718) 779-0033"
+    },
+    {
+        "name": "The Queensboro",
+        "address": "80-02 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJk7BlPKdfwokRpUtKYmRXR74",
+        "rating": 4.5,
+        "user_ratings_total": 1095,
+        "phone_number": "(929) 296-0038"
+    },
+    {
+        "name": "Uncle Peter's",
+        "address": "83-15 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJ-RWrUqFfwokRBdK7GCBreRw",
+        "rating": 4.6,
+        "user_ratings_total": 810,
+        "phone_number": "(718) 651-8600"
+    },
+    {
+        "name": "Nana's Kitchen New York",
+        "address": "90-01 31st Ave, East Elmhurst, NY 11369, USA",
+        "place_id": "ChIJL9DskTdfwokRKSMv1OFbC3k",
+        "rating": 4.5,
+        "user_ratings_total": 339,
+        "phone_number": "(718) 806-1316"
+    },
+    {
+        "name": "Panorama",
+        "address": "87-10 Astoria Blvd, East Elmhurst, NY 11369, USA",
+        "place_id": "ChIJUa11FplfwokRFT0tJ5xiMVA",
+        "rating": 4.7,
+        "user_ratings_total": 1109,
+        "phone_number": "(718) 533-0028"
+    },
+    {
+        "name": "Mojitos",
+        "address": "81-01 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJJ1gMKadfwokRZHzqWJeEf0I",
+        "rating": 4.8,
+        "user_ratings_total": 2053,
+        "phone_number": "(718) 350-9861"
+    },
+    {
+        "name": "Jackson Hole",
+        "address": "69-35 Astoria Blvd N, East Elmhurst, NY 11370, USA",
+        "place_id": "ChIJPx2YHHJfwokRI4X9I7mD-Zw",
+        "rating": 4.5,
+        "user_ratings_total": 4512,
+        "phone_number": "(718) 204-7070"
+    },
+    {
+        "name": "Jackson House",
+        "address": "82-14 37th Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJq84bt6hfwokRCYq_qqqZ97c",
+        "rating": 4.5,
+        "user_ratings_total": 714,
+        "phone_number": "(718) 639-6201"
+    },
+    {
+        "name": "Salvaje Social Club NYC",
+        "address": "79-11 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJfyYinx1fwokRvPBNz8PIQmY",
+        "rating": 4.6,
+        "user_ratings_total": 646,
+        "phone_number": "(929) 991-7799"
+    },
+    {
+        "name": "Nancy Blake’s Tavern + Tap",
+        "address": "82-19 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJy8c1zXZfwokRWH10_2J_E58",
+        "rating": 4.9,
+        "user_ratings_total": 18,
+        "phone_number": "(347) 612-4339"
+    },
+    {
+        "name": "Fabrika",
+        "address": "80-24 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJF-Yh-hNfwokRNge04jMeKcE",
+        "rating": 4.7,
+        "user_ratings_total": 695,
+        "phone_number": "(929) 300-3135"
+    },
+    {
+        "name": "Cassidy's Ale House",
+        "address": "75-02 31st Ave, East Elmhurst, NY 11370, USA",
+        "place_id": "ChIJm3HotgtfwokR-DjjUKOflZo",
+        "rating": 4.5,
+        "user_ratings_total": 352,
+        "phone_number": "(718) 424-6549"
+    },
+    {
+        "name": "Napoles Gastrobar",
+        "address": "80-15 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJcYU9pzZfwokRrUEFPJxRsGI",
+        "rating": 4.6,
+        "user_ratings_total": 10,
+        "phone_number": "(347) 579-4460"
+    },
+    {
+        "name": "Laly's Restaurant & Agaveria",
+        "address": "75-19 Roosevelt Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJ2aMtTgdfwokRgM3l2UoR2tk",
+        "rating": 4.4,
+        "user_ratings_total": 569,
+        "phone_number": "(718) 433-9906"
+    },
+    {
+        "name": "Jahn's",
+        "address": "81-04 37th Ave #1, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJh5G77qhfwokRQxa2rO4j0eE",
+        "rating": 4.4,
+        "user_ratings_total": 990,
+        "phone_number": "(718) 651-0700"
+    },
+    {
+        "name": "Buccaneer Diner",
+        "address": "93-01 Astoria Blvd, East Elmhurst, NY 11369, USA",
+        "place_id": "ChIJIdl5QpdfwokRB2Ajbz5eRJw",
+        "rating": 4.3,
+        "user_ratings_total": 3312,
+        "phone_number": "(718) 429-5188"
+    },
+    {
+        "name": "Louie's",
+        "address": "81-34 Baxter Ave #1, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJxUnkValfwokRiMyos0C4j1M",
+        "rating": 4.8,
+        "user_ratings_total": 1880,
+        "phone_number": "(718) 440-9346"
+    },
+    {
+        "name": "Café Salamanca",
+        "address": "79-05 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJr0V1RKdfwokRH0EcwkHOHMo",
+        "rating": 4.5,
+        "user_ratings_total": 526,
+        "phone_number": "(718) 458-2446"
+    },
+    {
+        "name": "Red Chilli",
+        "address": "76-05 37th Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJt-UGtURfwokRZnsc5yCn8jU",
+        "rating": 4.8,
+        "user_ratings_total": 801,
+        "phone_number": "(718) 541-6978"
+    },
+    {
+        "name": "La Nueva Colombia",
+        "address": "91-07 31st Ave, East Elmhurst, NY 11369, USA",
+        "place_id": "ChIJvdHEAphfwokRVYkBaEfrwlI",
+        "rating": 3,
+        "user_ratings_total": 1850,
+        "phone_number": "(718) 396-3399"
+    },
+    {
+        "name": "Taqueria Coatzingo",
+        "address": "76-05 Roosevelt Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJRR_EVgdfwokR9p-sd_XlkyY",
+        "rating": 4.2,
+        "user_ratings_total": 2080,
+        "phone_number": "(718) 424-1977"
+    },
+    {
+        "name": "Valdes House",
+        "address": "91-09 31st Ave, Flushing, NY 11369, USA",
+        "place_id": "ChIJR4Ws3DdfwokRQg7e9L8rTRo",
+        "rating": 3.8,
+        "user_ratings_total": 39,
+        "phone_number": "(347) 808-0133"
+    },
+    {
+        "name": "Wingstop",
+        "address": "79-19 Northern Blvd, Queens, NY 11372, USA",
+        "place_id": "ChIJHU8HK2VfwokRBl8iOEVNShk",
+        "rating": 4.4,
+        "user_ratings_total": 128,
+        "phone_number": "(718) 223-5824"
+    },
+    {
+        "name": "Addictive Wine and Tapas",
+        "address": "32-64 87th St, Queens, NY 11369, USA",
+        "place_id": "ChIJTfMamaNfwokReCB_ScV0xNA",
+        "rating": 4.7,
+        "user_ratings_total": 432,
+        "phone_number": "(718) 899-8666"
+    },
+    {
+        "name": "J.J. Garden",
+        "address": "75-21 31st Ave, East Elmhurst, NY 11370, USA",
+        "place_id": "ChIJQbBWD5hfwokRvwiFxiQgPkQ",
+        "rating": 4.2,
+        "user_ratings_total": 424,
+        "phone_number": "(718) 898-6686"
+    },
+    {
+        "name": "CIELO Sushi Lounge",
+        "address": "88-19 31st Ave, East Elmhurst, NY 11369, USA",
+        "place_id": "ChIJk531059fwokRT8MIzN4Ag_Q",
+        "rating": 4.8,
+        "user_ratings_total": 17,
+        "phone_number": "(917) 853-7109"
+    },
+    {
+        "name": "Angel",
+        "address": "75-18 37th Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJ1wuWgyxfwokRsawxQvB8hMo",
+        "rating": 4.7,
+        "user_ratings_total": 3590,
+        "phone_number": "(347) 848-0098"
+    },
+    {
+        "name": "Kumo Cafe",
+        "address": "40-07 82nd St, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJEWfat-dfwokR8Uvd0UcSd9A",
+        "rating": 4.7,
+        "user_ratings_total": 116,
+        "phone_number": "(929) 767-3936"
+    },
+    {
+        "name": "Romeos",
+        "address": "74-27 37th Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJ_33jCAdfwokRYbfbBMTkfwc",
+        "rating": 4.4,
+        "user_ratings_total": 334,
+        "phone_number": "(718) 458-2174"
+    },
+    {
+        "name": "Luna's Kitchen & Bar",
+        "address": "77-02AA, Roosevelt Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJ4yQIT2RfwokRC8BJtt0I-O8",
+        "rating": 4.4,
+        "user_ratings_total": 164,
+        "phone_number": "(347) 448-6113"
+    },
+    {
+        "name": "Izakaya Fuku",
+        "address": "71-28 Roosevelt Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJP3cSeLRfwokRiQQ4MtBvdtA",
+        "rating": 4.4,
+        "user_ratings_total": 547,
+        "phone_number": "(718) 255-1120"
+    },
+    {
+        "name": "Sushi On Me",
+        "address": "71-26 Roosevelt Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJya9SkEZfwokRER22OiahUrY",
+        "rating": 4.8,
+        "user_ratings_total": 516,
+        "phone_number": "(917) 821-5598"
+    },
+    {
+        "name": "Oceanic Boil - Jackson Heights",
+        "address": "84-20 37th Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJ4-VKQ69fwokR1KF-Mo-Zk7A",
+        "rating": 4.5,
+        "user_ratings_total": 1242,
+        "phone_number": "(929) 296-6338"
+    },
+    {
+        "name": "969 NYC Coffee",
+        "address": "37-61 80th St, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJpVgwCalfwokREU6kmsyAqG8",
+        "rating": 4.6,
+        "user_ratings_total": 491,
+        "phone_number": "(646) 203-7304"
+    },
+    {
+        "name": "Himalayan Yak Restaurant",
+        "address": "72-20 Roosevelt Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJP_DysOT1wokRbj86nKeyM2M",
+        "rating": 4.2,
+        "user_ratings_total": 1582,
+        "phone_number": "(718) 779-1119"
+    },
+    {
+        "name": "Lechoneria New York 2",
+        "address": "84-17 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJeY3vV_9fwokRuARUgfyTGjQ",
+        "rating": 4.5,
+        "user_ratings_total": 61,
+        "phone_number": "(347) 448-6789"
+    },
+    {
+        "name": "Arepa Lady",
+        "address": "77-17 37th Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJnyOF-alfwokR7sHwDUkuKoY",
+        "rating": 4.6,
+        "user_ratings_total": 1341,
+        "phone_number": "(917) 745-1111"
+    },
+    {
+        "name": "Afghan Boys",
+        "address": "75 street and, 31st Ave, East Elmhurst, NY 11370, USA",
+        "place_id": "ChIJTflZvShhwokRfy0X_vnKAfI",
+        "rating": 4.5,
+        "user_ratings_total": 54,
+        "phone_number": null
+    },
+    {
+        "name": "Jax Inn Diner",
+        "address": "72-12 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJO-oR2QhfwokRvjuJMXycfg8",
+        "rating": 4.3,
+        "user_ratings_total": 3118,
+        "phone_number": "(718) 476-1240"
+    },
+    {
+        "name": "Latino Bites",
+        "address": "84-15 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJy7vO9aNfwokRrifnaAR22-s",
+        "rating": 4.6,
+        "user_ratings_total": 3168,
+        "phone_number": "(718) 424-4853"
+    },
+    {
+        "name": "Pio Pio 5 To Go",
+        "address": "84-21 Northern Blvd, East Elmhurst, NY 11370, USA",
+        "place_id": "ChIJ4cuX_qNfwokRemVnmkMnJyw",
+        "rating": 4.1,
+        "user_ratings_total": 1595,
+        "phone_number": "(718) 426-1010"
+    },
+    {
+        "name": "El Chivito D'Oro",
+        "address": "84-02 37th Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJmzOMQ69fwokR-0ktXlXcNrs",
+        "rating": 4.4,
+        "user_ratings_total": 2122,
+        "phone_number": "(718) 424-0600"
+    },
+    {
+        "name": "Homemade Taqueria Jackson Heights",
+        "address": "75-05 Roosevelt Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJe6VzBNtfwokRl02Ez-itJuU",
+        "rating": 4.2,
+        "user_ratings_total": 263,
+        "phone_number": "(718) 844-0930"
+    },
+    {
+        "name": "TETE",
+        "address": "85-15 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJa-lyxxtfwokRY4H_Pndf24g",
+        "rating": 4.8,
+        "user_ratings_total": 84,
+        "phone_number": "(917) 504-4131"
+    },
+    {
+        "name": "Ricky's Cafe",
+        "address": "75-02 37th Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJyagBDAdfwokRVsUCMXWw-qc",
+        "rating": 4.3,
+        "user_ratings_total": 454,
+        "phone_number": "(718) 478-1360"
+    },
+    {
+        "name": "Chamolandiany",
+        "address": "82-24 Northern Blvd, East Elmhurst, NY 11370, USA",
+        "place_id": "ChIJ67h4KRBfwokR5G9nEds1c7w",
+        "rating": 4.7,
+        "user_ratings_total": 113,
+        "phone_number": "(929) 301-1439"
+    },
+    {
+        "name": "Good Eats Bistro",
+        "address": "100-15 Ditmars Blvd, East Elmhurst, NY 11369, USA",
+        "place_id": "ChIJ7SM4dAVfwokRKZnawm42k7U",
+        "rating": 4,
+        "user_ratings_total": 41,
+        "phone_number": "(718) 512-0255"
+    },
+    {
+        "name": "Mama's Empanadas",
+        "address": "85-05 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJL1V8-qNfwokRWAknhvPbZCo",
+        "rating": 4.1,
+        "user_ratings_total": 2183,
+        "phone_number": "(718) 505-9937"
+    },
+    {
+        "name": "MrBeast Burger",
+        "address": "86-09 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJZSJwZoZfwokRLBlvbITcK7g",
+        "rating": 2,
+        "user_ratings_total": 4,
+        "phone_number": "(877) 232-7898"
+    },
+    {
+        "name": "D'antigua Restaurant Bar",
+        "address": "84-16 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJ75mU_6NfwokRRmijMqQ2u38",
+        "rating": 4.4,
+        "user_ratings_total": 933,
+        "phone_number": "(718) 779-0128"
+    },
+    {
+        "name": "Playground",
+        "address": "71-30 Roosevelt Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJfabvQwFfwokR1XEg6LYzecI",
+        "rating": 4.5,
+        "user_ratings_total": 344,
+        "phone_number": "(718) 779-7912"
+    },
+    {
+        "name": "Chick-fil-A",
+        "address": "40-27 82nd St, Elmhurst, NY 11373, USA",
+        "place_id": "ChIJOUvoJnNfwokRqujZU3kgHe8",
+        "rating": 4.3,
+        "user_ratings_total": 597,
+        "phone_number": "(917) 579-0008"
+    },
+    {
+        "name": "Popeyes Louisiana Kitchen",
+        "address": "83-10 Astoria Blvd, East Elmhurst, NY 11370, USA",
+        "place_id": "ChIJof3A855fwokRLdTvlej5j3Y",
+        "rating": 4,
+        "user_ratings_total": 1217,
+        "phone_number": "(718) 205-6024"
+    },
+    {
+        "name": "Pio Pio 2",
+        "address": "84-02 Northern Blvd, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJpflYqqZfwokRZb2PG3wZSwE",
+        "rating": 4.2,
+        "user_ratings_total": 4154,
+        "phone_number": "(718) 426-4900"
+    },
+    {
+        "name": "Coatzingo",
+        "address": "79-11 Roosevelt Ave, Jackson Heights, NY 11372, USA",
+        "place_id": "ChIJm4WwoalfwokRwQhSKkQybN4",
+        "rating": 4,
+        "user_ratings_total": 480,
+        "phone_number": "(718) 424-7272"
+    },
+    {
+        "name": "Kennedy Chicken Pizza & Kabab",
+        "address": "89-21 Northern Blvd, East Elmhurst, NY 11369, USA",
+        "place_id": "ChIJFc1wOaNfwokRppPvNcVbWgc",
+        "rating": 4,
+        "user_ratings_total": 353,
+        "phone_number": "(718) 898-2700"
+    },
+    {
+        "name": "Plaka",
+        "address": "75-61 31st Ave, East Elmhurst, NY 11370, USA",
+        "place_id": "ChIJCan7lKFfwokR01MXHdeWrSQ",
+        "rating": 4.5,
+        "user_ratings_total": 283,
+        "phone_number": "(718) 505-0515"
+    }
+]

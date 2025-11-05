@@ -1,0 +1,551 @@
+{
+    "name": "Oliver's Astoria",
+    "place_id": "ChIJ92yHlTtfwokRbNk2Xo2iVQE",
+    "grid": "QN1",
+    "address": "37-19 Broadway at 38th Street, Astoria, NY 11103, USA",
+    "rating": 4.4,
+    "user_ratings_total": 1326,
+    "phone_number": "(718) 806-1476",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sTlZ6VkVVbEUyVlVkQ2FVaExZVVJ6VFZoSVptYxAB",
+            "text": "My experience was amazing and thanks to the waitress Dayana."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psbFZWTmtOMTlNY0ZKTlRuRmhTRkkzU1ZaalZYYxAB",
+            "text": "A seasonal chai martini?! Yes please! Mike presented us with beautifully made cocktails. It was picture perfect and DELICIOUS. He sure knows what he’s doing and was really accommodating even though it’s quite busy. Thank you, Mike!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kSlVrOU9UMEl0VERsR1IxTmliMmwyYlVobExVRRAB",
+            "text": "My fiance and I are opening a restaurant and are going around reviewing places to see what it’s like on the other side of the table and I have to say Mike and James were exceptional. I came in the middle of a busy brunch shift and they were  able to accommodate me with professionalism and amazing cocktails. He was knowledgeable about the food and drink menu and most importantly friendly. Give my guy a raise!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5cVptVXhRMmhFVjNOQlVISnZjak42ZWtGME1IYxAB",
+            "text": "Music is perfect. Also good place to watch sports. Food and customer service is lovely"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxSFgwRkhkSFZUV1V3NVdFbEZkMXBSZEhCelFuYxAB",
+            "text": "Love coming here for happy hour, lunch, or dinner. Also a great place to watch a game. The cocktails are delicious (get the smoked old fashioned!) and reasonably priced. The food menu is great as well and always adding new things."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CcFFVbHBXbHBPTkhwcFVtcEJXVWhoWlVFMGRVRRAB",
+            "text": "I had my wife’s surprised 40th birthday party here & I can say : booking and organizing it was nothing short of amazing\nThank you to the team: Samantha,Phillip,rob for everything"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGdlpHeDNVa2haYm5vNVVFWkJUMkZXUzJrd1JWRRAB",
+            "text": "Favorite Bar in Astoria!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sV1pIcFhPRTFQYzFWeGR6WjBjM1JGWnpaU1VVRRAB",
+            "text": "Brunch experience was excellent, from food selection, to very good waiter who was attentive & patient to nice atmosphere."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Sb04ySldWekV3VmxwUmJXOWpabll0V1U5Q1JFRRAB",
+            "text": "Great atmosphere, great food despite small menu and awesome service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGNmJtNVVSWFoyVFRWUGVXYzBjM05RYXkxa2FuYxAB",
+            "text": "Good food & service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taTU9URTRWRXhGZFZWYWQwNXJNR0ZIWWxVMlJIYxAB",
+            "text": "nice place! My cousin had reserved a private room for her baby shower, and it was cozy and perfect for the occasion. The staff was attentive and the service was really good"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOTFJqaEpabGc1U0UxRVdIRlplSEpHWXpoVFlYYxAB",
+            "text": "Had a great brunch experience. Great food, great service. Fair prices"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRMFJYTkxhekpDWXpkRVQzRXhNeTFhWmtaVVJXYxAB",
+            "text": "Great food and service. Brunch was excellent."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OcU4xQkhZbDlGVlU1QlMxVjZVMjFJU2xKdVdGRRAB",
+            "text": "First time eating here and looking forward to coming back. The food was really good and the service was great Dayana was my waitress and will ask for her again. She made sure I was good the whole time and was delightful to be around. Highly recommend location for all to try themselves."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxck1reENXVEpGTTJRMVYxVmlWVFV6WjNsUWVHYxAB",
+            "text": "Food was excellent,  but definitely a few staff issues, and music far too lound for a midday brunch environment with uncomfortably high top seats.\n\nFirst off, we made a reservation a week ahead of time and the table they set aside was a high top table with very hard uncomfortable small high top seats, at the front windows.  Nice view but put us farthest from the wait station and so we rarely could get a wait persons attention.  I even tried twice to get the hosts attention but she was too busy looking at her phone.\n\nWhen the staff did come around or after long waits bring us items requested they were very pleasant, just they would dissappear for long periods, and it was often difficult to get their attention."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sUlRtbEVTbVZvTUhKRWFqRjBTRVJrYVdrMk5HYxAB",
+            "text": "Great place! Our waitress Dayana was great! She was very professional and courteous."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKVE5tdG1kRmt5U0Rsb2NIUjBUbWxJVUhkamMwRRAB",
+            "text": "I came to this place for the first time and it was great! Dayana my waitress was excellent ! I definitely will be coming back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5VlJUSTJObmwxWkVoSlUwTjRjbmRFWkRKTVFXYxAB",
+            "text": "Dayana was a great server very attentive and friendly please recommend her when arriving"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kU00xRXRTVk5xWW5GcVZIQlhURkV0YlZkS09GRRAB",
+            "text": "Dayana gave me exceptional service. She was prompt, courteous and knowledgeable. I would definitely recommend her for service. Keep up the great good. A place is as good as the service and Dayana was great."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxQlJWSnpaMVJRV1VjMWFUbG1UekpYYlRoMmVGRRAB",
+            "text": "My waitress Dayana was phenomenal.  She was professional and very attentive to our needs. She made my first visit here, the reason I would be coming back. Thank you Dayana for your services"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGWFkzSjJOVUppYkhScFVWaGhXRmw1VG5kNk5HYxAB",
+            "text": "The slowest service I have gotten in a long time! I came during a slow lunch time and it took 45 minutes. I would really not recommend the crispy chicken sandwich or the dill pickle chips."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRd0xWSlhlVmxVYzJWeFVFVllSek5sZEhCYWVHYxAB",
+            "text": "Great food! Great service! Great atmosphere! The wait staff was awesome!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Nd2VqTlNjbFJrY0hweVlVOUhVbnBtWTJZeFgwRRAB",
+            "text": "James was an amazing addition to a place that already had an amazing staff! Love his vibe, his drinks and the way he held the bar down!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNmJHRnFjbGg0ZG1Ga05VODJRemN5WkhWQk0yYxAB",
+            "text": "My wife loves this place and we moved down the street so she was excited to take me. The first time I got a veggie burger that tasted like Morningstar Farms. The second time I got the Pesto Chicken sandwich and it was soggy. Both times my wife got the Mac n cheese which she loves and we split the garden party flatbread which we both kind of liked. Went for a third time last week with a friend and we both got salads (I got Cobb and she got Gem) and split the Brussel sprout app. My friend didn’t like her salad. I thought the Cobb was a bit strange—the dressing was really thin and the chicken tasted like it was the kind that they serve on airplanes—really heavy on the artificial flavoring…weird . The Brussel sprouts were soggy.\n\nThe space is beautiful and the servers and bartenders are incredibly friendly . The food is just kind of meh. There are so many places like this in Astoria that serve mediocre slightly elevated new American food—this place, Trestle, Rivercrest, The Grand, etc. They all kind of taste the same and it isn’t good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SallYTTBMWEJTZFRGdVRYSkJhSEozYzBNMWJHYxAB",
+            "text": "Had an amazing time brunching here with my girls. We enjoyed the brunch tots, cobb salad, steak & eggs, crispy chicken sandwich, and lemon ricotta pancakes. Fries here were especially good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTlJqSjFjRUpVYUdkR01WQnRiM0pOVWtoNmVVRRAB",
+            "text": "We came for Mixtape Bingo and stayed for Diana. Our server, Diana, made a great time out even better. The attentiveness, the drinks, and the service were incredible. We had the best time and can't wait to come back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCbGIzSkliMWcyYkZOS2R6ZFlaMHh0TTJZMVVWRRAB",
+            "text": "We had a great time at music bingo! Diana was our server. She was super attentive and lots of fun! I would definitely come back again!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KU04wUlRaaTFxWkRWNFVXZERWM1pqTTNCRWRrRRAB",
+            "text": "We came for mixtape bingo and it was a blast! Our service was wonderful thanks to Diana!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5b09EbFZaalJDU0MxblNWUlpNa3RpUWxOYU9IYxAB",
+            "text": "Diana is the goat"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VeGVWVXRWR0ZtVlhNMlNreGFaaloxUld0RExWRRAB",
+            "text": "Reserved their lounge for a bridal shower celebration. The attention, service, food and drinks were spot on. Would definitely recommend! They offer different packages at affordable prices."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214Q05YUlJNV3RYYTJ4Zk1rSnZjVWcxVUdzelNXYxAB",
+            "text": "The food and the drinks are good and the staff is very friendly"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WR1UzTkhkRUpSWjJWSk4yeG9aMEZYZVdRNFMwRRAB",
+            "text": "great food and outstanding service!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SV2NISXlUVlpCYUZKeFUzUm1UbUZzVkhKb01XYxAB",
+            "text": "Had the best time at brunch here! Our waitress dayana was the best she took care of us and was so attentive we had a blast with her!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNMWRHcEJkV3MwUVVFeFZ6bEVlVUpaWHpKaFpXYxAB",
+            "text": "Such an amazing experience. Dayana our server was the best, she was so attentive and ensured we were well looked after. She was so fun and we really enjoyed our time here. Would 1 million percent recommending here for bottomless brunch & ask for Dayana ❤️"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBelkzQk1jRlZZVlV4S1RIbExUa3BvTjIxQmNrRRAB",
+            "text": "Dayana is amazing. My first time in NYC and I will be coming back!  I love it here"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pac1ozQXpVekZ4V1RkdVdHTkxPSGx0YlVWQ04zYxAB",
+            "text": "Dayana was the best! We done bottomless and she was so attentive and so friendly. Would recommend and ask for Dayana!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1aWNUQjBTVmhmWkVoU2MzQnBXR1JPVXpCbGNFRRAB",
+            "text": "Oliver’s is great, I had a wonderful experience at brunch. Dayana was super accommodating and always kept our mimosa glasses full. The downstairs room is also great for birthday parties, it’s so reasonable compared to other places in Astoria."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paSFFsTnVja1Z2Y1VwcmQySkdObFZmT0dSeFExRRAB",
+            "text": "Dayana M. Was a fantastic server. On the spot with everything we needed while working the rest of the room. Amazing food and a great time!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoelMybzJjbkpqWWxSM01YSk9hVzAzYW5oR1UyYxAB",
+            "text": "This review is coming from me far too late, but I feel obligated to write it as the staff at Oliver's and the place itself has always been so wonderful!! I've had two birthday parties there, one in May 2021 and another in December 2023. Both were great!! The staff was so helpful in helping me plan and were great with communicating. They were so kind. The atmosphere is cozy and awesome and the food is delicious!! I'll definitely host another event there someday soon :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psWVJYRkRXVmRqTXpSaU1tNWZNMGxxTWxkTmVGRRAB",
+            "text": "We came for Happy Hour and didn’t realize they had Trivia which was so fun (even though we lost, we still won free shots)! Our server Diana was so sweet! We loved getting to know her and will definitely be back for her!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sck9ERk9PUzFIYlc5ME1XeDFOVTVUVjB4aVFrRRAB",
+            "text": "Bottomless mimosas were great, but the best part was the service from Dayana. She was so focused on keeping our glasses full the entire time. Definitely recommend!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwUlprOWZhMUJqZWt0aWJqSk1kREU1UlMxM05YYxAB",
+            "text": "First time here. It was a great experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201Nk9VTldUMnhQUTBGUWEwZ3haV1EyVEMxTE4xRRAB",
+            "text": "the service was great! we had a lot of fun and it was a great first brunch experience.\nDayana was our waitress and she was amazing, recommended us places and was very attentive 💙 would recommend!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBNE5sRTRabEZxVFdreU5FNXBYMDFGTWs1TFIxRRAB",
+            "text": "Awesome service and good was delicious. Drinks are amazing as well."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aU1oweHBiVjh0ZWxsWExYTktUbmRzT0ZCMVZtYxAB",
+            "text": "I really recommend everything here, it's become my comfort brunch place. Excellent margaritas, mimosas and sangrias. If you're looking for a non-alcoholic experience their NA cocktails are on point and they have Athletic brewing too.\n\nRecommend their breakfast burrito and their ricotta blueberry pancakes. One of many in Astoria but also queer friendly."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCUFEzWTBTWGhQT1RRMVlXZGtkbkF5UVRWeGVXYxAB",
+            "text": "Portions keep getting smaller and prices keep getting higher here..."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGUlFrdEtiRXBDTkhGbFVsaHNTRlp4VEVWSWVuYxAB",
+            "text": "Delicious food and wonderful people all around!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aMk1EVmlia2cyTm1jMWMwbHZjR3h2YUdWRlIwRRAB",
+            "text": "Fun spot with loud music, strong spicy ginger margaritas, mimosa trees, and booth, bar, and stool seating. A nice size menu with a good variety of food. I had a chicken Caesar salad and my friend had avocado toast with salmon on the side. Enjoyed mine and she seemed to like hers as well. The staff is sweet and welcoming. Would gladly come back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kWGVVSXRWVGN0UVdOQlFYUXdUa3RsWjJ0clRHYxAB",
+            "text": "One of the best parts of coming to trivia on Monday nights is knowing that Lisa will be our server. She is the best!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNekN2LWVMMkxIU3F3RRAB",
+            "text": "Great happy hour deals. Attentive service and yummy food at good portions. I always have left overs. The drinks are well balanced and creative"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNReTVfZ3p3RRAB",
+            "text": "윽 맛없습니다. 정말 별로입니다. 나오는 시간도 느리고 시간을 돌리고 싶습니다."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tacFNucGtXa2d3V1ZwTFptOU9XV0pVV1hVdE1WRRAB",
+            "text": "(3.8/5 ⭐️⭐️⭐️) this place is pretty basic. American style food. They had a taco Tuesday special with margaritas which def seem to be the affordable choices. Now I got their steak ciabatta and it was so bland, the bread tasted like a regular hero bread, stale. I was disappointed. Their fries are mid. The service was alright. Overall I guess if your friends like this spot and want to come I’d go but it doesn’t give greatness or anything special."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPS1VxN2J6NjZtWU93EAE",
+            "text": "Overall a good experience here. The vibe was good, they had tennis on and i was able to sit at the bar and watch the full match. Not too busy surprisingly for a Sunday at lunchtime. I can’t comment on the alcohol because i don’t drink. The food was good, i ordered the burger and the patty appeared to be a fresh or frozen pre portioned patty. It was too perfectly shaped to be a hand shaped patty. Which isn’t necessarily a bad thing, just tells you it wasn’t fresh ground beef. The bartender was cool and we had a few conversations. I’d come back again and recommend it to others."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3a29QeUVBEAE",
+            "text": "A nice bar area, light and I'd say a very good selection of items in the menu including bottomless brunch.\nService however is subpar with not much of a smile from our server. More of a vibe thing.\nFood wise it also lacked flavor (not basic seasoning) whilst the dough of the bread feeling stale maybe use focasia instead?).\n\nOverall an opportunity for improvement but I can't visit back until they do."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3dzZfajVBRRAB",
+            "text": "What a great place to eat and relax. Came here to eat, drink and watch the Super Bowl. I can say it was just as fun as being in a sports bar with way better food.\n\nThe staff is on point and very friendly. I suggest any of the sandwich options and the wings. The Guinness here is fantastic!\n\nOverall great place, will definitely come back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuNGFuWF9RRRAB",
+            "text": "Who doesn’t LOVE a Wonderful Sunday Brunch !\n\nOliver’s Really did it for me & my guest today !\n\nClean .. Vibrant.. Service Excellence most of all ..  The brunch plates were very tasty and delicious !\n\nA great recommendation."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIcjc3cm53RRAB",
+            "text": "Food and drinks were great! Buffalo empanadas were our favorite and too good that we ate before the camera did. The decor is excellent and is more of a boozy brunch spot. Brunch loaded tots were delicious. French toast sticks presented well. We were only visiting for the weekend but I’d definitely come back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREczdfVnlRRRAB",
+            "text": "The food was amazing! Would definitely recommend doing the bottomless brunch where you can choose mimosa, Bloody Mary, or Margarita and it’s a good price. The chicken and waffles were my favorite dish but everything we tried was delicious. The restaurant looks a lot nicer in pictures and it’s more of a bar feel when you’re there. Also, it gets a little loud in there because the tables are pretty close together. But wasn’t a big deal and could still hold a conversation"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3c3Y2bUdREAE",
+            "text": "Had a lovely Bottomless brunch with a group of friends. The atmosphere is pleasant for anyone to enjoy catching up with friends or to watch sport games. Our server was always on observant of her tables ⭐️. Recommend getting the chicken and waffle."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveXBYT0tnEAE",
+            "text": "Had my birthday party in the area downstairs. Ashley, our waiter, provided excellent service. Food and drinks were great. We could play our own music. Highly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURibjZfSFdnEAE",
+            "text": "The location is great. Lots of street parking. We came for brunch. Made a reservation online. Lovely place..menu has a lot of food options. I had the chicken and waffles and it was soooo good. It's a lot of food as well. I also tasted the wings and the tots and the moz sticks. Everything was delicious. I did try their Pina colada and had to send it back. Was not good. So I ended up doing the bottomless mimosas. It was okayyyy.....but good for the price. All in all a great brunch spot. Food is excellent"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlbnZLeXB3RRAB",
+            "text": "We celebrated my bday brunch here. Food and ambiance are amazing! The staff was friendly and on their game. The pancakes were filling and tasty I was digging the cream topping and berries. The egg scramble with grits is some next level of…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiOXRTNTd3RRAB",
+            "text": "This is a frequent spot we visit where the happy hour is fantastic and the food is always quality.\n\nLiz our server was amazing by always checking up on us and offering suggestions for drinks and appetizers.\n\nThis is a go to spot if you're in the area for some good eats and great drinks. Thank you!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOanpuTGFCZzh1TFVnEAE",
+            "text": "Staff was really friendly. We had some person keep bothering us on the outdoor dining and the staff handled it and made us feel comfortable. The ricotta pancakes were outstanding and their French fries were so crispy.  Lisa was outstanding and really made our brunch a memorable one"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGa2V1TTNnRRAB",
+            "text": "A lively place with loud music in the background.\nI came here with my friend couple weeks ago. We had the classic brunch Eggs Benedict and Chicken & Waffle. Good food, nice cocktails and great service."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvd0wyVEFnEAE",
+            "text": "You can get a good brunch here! My friends and I enjoyed all of the spreads. Avocado toast, omelets, French toast, you name it. It’s in a great location. They have the bar on the first floor and the second floor has plenty of seating. It’s fairly new to town and I would come back for sure!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmcGRfZV9nRRAB",
+            "text": "Amazing food and great music,\n\nShoutout to the waiter Sebastian that recommended the brownie for dessert!\nEverything was delicious, and the ambiance was perfect for a relaxing lunch. Highly recommend trying their dessert (brownie) —it’s a must!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfaEtISXZ3RRAB",
+            "text": "Oliver’s is a well known spot at Astoria where people go to consume great quality food and drinks. It is kid friendly and flexible as they host several events. The menu provides all sorts of comfort food with a twist and leaves one satisfied. I have been here many times and will let it remain as my number one brunch spot!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1cXNDSnZnRRAB",
+            "text": "I recently visited Olivers for brunch with my family and was thoroughly impressed. When we arrived for our 2pm reservation, we were promptly seated. Our server, Lisa, was attentive and friendly, ensuring our bottomless mimosas, the sunnyside, never ran dry. The appetizers, particularly the flavorful wings, goat cheese balls, and delightful honey biscuits, set the tone for an exceptional meal. The biscuits were a hit! The entrees ordered were the bougie BEC, chicken & waffles, eggs benedict, lemon ricotta pancakes, and the satisfying Astoria burger, left us satisfied and with plenty of leftovers. Our overall experience was delightful and we will be back very soon! Thank you to Samantha for taking care of our reservation!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSNUxyZDh3RRAB",
+            "text": "Amazing brunch spot. Always busy so make sure you make a reservation. The service is on point and the food is delicious."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURScUsyVFRBEAE",
+            "text": "I ordered from Oliver's not too long ago and have found their food to be very hearty. I was in the mood for some comfort food and Oliver's came immediately to mind.\n\nTheir jumbo wings are fantastic and have had them before, but this time around I ordered the Astoria burger with a side of truffle fries. The burger was perfect and the fries were delicious. Surprisingly the truffle flavor and scent weren't overwhelming.\n\nPro-tip: Oliver's also offers trivia night, so check them out!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNmRfaXRRRRAB",
+            "text": "The service was great, staff is very friendly! My food was good but I think I was expecting more from the steak sandwich on ciabatta bread... food was freshly made drinks were great, I would definitely come back again to try some other food as well! Great cute brunch atmosphere!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwc1A2VW5BRRAB",
+            "text": "Oliver’s Astoria, a craft beer kitchen, has some delicious American food made from scratch. They have both indoor and outdoor seatings so you still get to enjoy the beautiful weather before winter comes. The tater tot nachos has some real juicy pulled pork that definitely satisfies any kind of cravings."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwdlBIN013EAE",
+            "text": "It was Thursday daytime after watching a movie at kauffman, me and a friend were looking for a place to eat. Wanted to try something different so walked around neighborhood but couldn’t decide where to go. So, we chose to come to this place…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMDh1S1BnEAE",
+            "text": "Lis and Sebastian are fantastic waiters!! Thank you so much the experience!! The food was divine!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNOUliSzF3RRAB",
+            "text": "One of my favorite places in the neighborhood. I usually order on grubhub but it’s pretty cute to eat inside the restaurant too.\nI’ve tried a lot of their dishes and almost never been disappointed.…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXbnBtRVF3EAE",
+            "text": "Service was good & the food was overall good- but not special. My friend’s potatoes were cold, my avocado toast was not on toasted bread. My friend said the eggs on her Benedict were tiny & didn’t have enough hollandaise.The cheese (I asked…"
+        }
+    ],
+    "reviews_count": 77
+}

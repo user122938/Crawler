@@ -1,0 +1,558 @@
+{
+    "name": "Buccaneer Diner",
+    "place_id": "ChIJIdl5QpdfwokRB2Ajbz5eRJw",
+    "grid": "QN3",
+    "address": "93-01 Astoria Blvd, East Elmhurst, NY 11369, USA",
+    "rating": 4.3,
+    "user_ratings_total": 3312,
+    "phone_number": "(718) 429-5188",
+    "reviews": [
+        {
+            "date": "3시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paS1pWbFRielJuYTFoNE5uTldNWFJuV1hOMGFYYxAB",
+            "text": "I had a chili burger that completely exceeded my expectations. Bravo."
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNMVozQk1TM2RTV2tremRETTROMnA0WWtzMlZVRRAB",
+            "text": "Mucho tiempo de espera pesimo serviso para lo que me cobraron de servicio no recomendado la comida fria y la esalada guadada"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ST01WWmhZV2hUZVhCbUxURkVUbkJHYjJaaFUzYxAB",
+            "text": "Had lunch there today and while it looks old, it has a wonderful family feel with good service and great food."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oQ2NubDJkakZKTjNOR1JqTTFjMDF6VGtVemJVRRAB",
+            "text": "Excellent service, beautiful space and the food is delicious. Sweet or savory, breakfast/lunch or dinner, you can always count on the Buccaneer to deliver. Simply the best 💎"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxbnFQZklBEAE",
+            "text": "Great food for a reasonable price."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aWVNVSjJlbXhTWm0weVRXWnFMVnBhU2pSbVRGRRAB",
+            "text": "Charlie is the best waiter! Great energy and look forward to seeing him when I dine in. If I could I would give it 10 stars. My friend took me here because it’s her favorite diner. Very long menu but everything single thing is good. All the extra little things too. Bathrooms were clean and service was 10/10. Obsessed. Underrated"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prMFJVUXdRa0pqTVMwMmEwbGhPVkJ6Y21aV09IYxAB",
+            "text": "Five stars for the Buccaneer Diner! The menu was abundant with food item choices, making it tough to decide, but everything we ordered was delicious. What truly set the experience apart was the service—the staff was exceptionally friendly and welcoming. Highly recommend!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFNVFVSlVTSEZIWTNSSGNVcG5PRUphVWtWbVdGRRAB",
+            "text": "It's always crowded"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRdGVEazBWRkpvUW5kblZVMVhWelpUTmt4R00yYxAB",
+            "text": "José un buen servicio, recomendable"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWck9XZFpjRU01ZFdKTmVFZHRUa2RJTFVkaVRYYxAB",
+            "text": "Fantastic food, fantastic service!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21neVJGWmZiRVo1VkRRMWQzZEhMVFJoUld3elFVRRAB",
+            "text": "I got The New Yorker and it was sooooooooo good. I loved the smoked salmon. I couldn’t finish my sandwich and I’ll be thinking about it for weeks. Thanks for a great time."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVVNrZDRPSFJ0TFVoclgwbG5lamhuVEMxRFIxRRAB",
+            "text": "Great little diner near the LGA airport. Highly recommend. Fast service, good food and a great retro vibe"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1c1FYUkphREJTWlVKaGQzRnFlV0pvU0RkRlExRRAB",
+            "text": "I orders an omelette with cheese and spinach\n\nThey do not use grilled cheese. They use some type of cheese that was in some type of tube that was extremely salty.\n\nAfter I scraped all the so-called cheese out, it was less bitter\n\nGood coffee\n\nI will not order that dish ever again"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBaHM2aGR3EAE",
+            "text": "A must go to place. Old school vibe and wish the table jukeboxes worked."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsa1RqVjFWbWN4YldVdGFUTlJTM2RpVmw5UlUwRRAB",
+            "text": "The food is delicious and the atmosphere is perfect."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWmVqRndSbFpFY1haa04yMTNXbGhPZFVOeFIwRRAB",
+            "text": "It’s your typical diner. Ordered the lumberjack combo with chocolate chip pancakes instead of regular pancakes. The other person had the chicken Parmesan sandwich for drinks. We had coffee.\n\nFood was great bacon was not undercooked, which is something I struggle with at diners. sandwich was decently seasoned fries were fresh.\n\nOur server was great. He checked up on us enough to not be annoying, but also did not forget about us, which is a good balance.\n\nThere is a parking lot area, which obviously helps in Queens. I don’t know how many spots there are maybe 15 spots. There's outdoor seating as well with a cover so it’s not just in the sun.\n\nso far so good next time I go back I will try salad. Definitely recommend."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WUVVERm5RMGhETkZOWU9DMXNTRkIxUVdGQlNYYxAB",
+            "text": "Enjoyed my grilled cheese and pastrami sandwich."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kcVdVdzNUMnRqUlZVNVJYRktXalJXZDFKSFVHYxAB",
+            "text": "This was an amazing place to go to before our flight. It's so close to LaGuardia - 6 minute ride. The food was out quick and HOT!! Our server was really good with checking on us. The outside area looked really nice, but we are inside. They make fresh muffins daily and I highly suggest getting a corn muffin. They grill it and it's so good - don't forget to take the wrapper off and definitely try it with grape jelly!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Gd2IzUmxSbWxLT0hWT2IzWm9WREZRZHpoeFZGRRAB",
+            "text": "A most delicious and welcoming diner. Everyone should experience it."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NeGIxSTBPRFZGV1RobU5GcEdTREZDVGswMlJXYxAB",
+            "text": "Delicioso y muy amable el personal"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxcFNFbE5aV0pSZHkxSloydE1UV2wzUzFWbmIzYxAB",
+            "text": "Great food and service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kRldHcHVhWEJXZFZkbFVGaFZlRUp1VlVsdGVIYxAB",
+            "text": "They practically kicked us out with no reason, this  place was not even full. Is the first time that I have this bad experience!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodlZXWlZjVFpHTjFsSmQyZHBZbEJwV0hWeGFVRRAB",
+            "text": "Great NYC diner in Astoria queens\nI recommend"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WQ2VuWjVlazl4ZFd3NWFrMHRiR1ZNVDNObVowRRAB",
+            "text": "A nice diner in Queens!\n\nThe prices are OK but it's one of the few diners in the area that stay within the local community and continues to serve it. It's open late night and the staff is super friendly and attentive. The food is diner food!\n\nNothing to crazy but overall a place where you can get a good burger, triple Decker sandwich, onion rings, fries, whatever! You know it's going to be a good time.\n\nCome by if you feel like eating something good!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KblRXWXhYM1p6UzFKT05IRnBiRGc0Tmxkbk0yYxAB",
+            "text": "Excellent place for a quick bite very friendly staff and very accommodating"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOaU5GcEdjMWRYTnpoM1JqWktTa1kyY0ZSM2JXYxAB",
+            "text": "Always order food for work from here. Breakfast omelettes are well made and delicious. Good value for the money, shareable portions! They always throw in free brownies and cookies for large orders which is a huge plus!\n\nCustomer service is very friendly and diner has plenty of parking on-site"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4bFQySlFlbWRZYkZwbWVVSkxWVzV2YlhWd05uYxAB",
+            "text": "Been going here since I was a kid with my parents. Now we go with my kids and still love this place. It feels like home every time. ☺️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210dlMwdHNVM0EwUzE5amFGSXlWVGhoU1dNemVrRRAB",
+            "text": "Great selection.  Staff was great.  Food was very good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CblNWbGxkVTVuZGxoZlFVSllOVjh5WDBGVWVtYxAB",
+            "text": "Been coming to Bucs for over 15 years. Great food, staff is very kind and friendly. Even when the place is packed, they come by and ask if every thing is okay and if you need a refill on your drinks."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oWGFVOUVkMUV6ZFZwVllrWXlkalYwZDNWd1psRRAB",
+            "text": "Open 24 hours. Good size menu with variety of cuisine to choose from. They got alcohol! They weren't bothered me getting some work done while I dined. I'd return"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210bVRUUkxNR1JyT0c5dVZGOVRTMVJoVGpWVVJXYxAB",
+            "text": "Was not to impressed, typical diner."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVNU1qUjZjbGxpZGxOVFgzVkRUVWg2VDBSVmVGRRAB",
+            "text": "I love the Buccaneer diner. The food is always fresh and delicious. The hospitality is very warm and friendly.  I like the renovation new patio dining and nice atmosphere.\nGreat service want to go back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsVUxXMVJiamxwUW1oM09ISkhTVVprTTFWemMxRRAB",
+            "text": "Good diner to visit if you are in Queens"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xObE1WbFVOREpuZW5selNrWlNlVGsyVlVsUFZYYxAB",
+            "text": "Quedan pocos, y por eso no dejo visitar este lugar muy tradicional."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213eVNsRTRaWFpCWDNoV2NTMVFZMk5wTUcxSVdtYxAB",
+            "text": "I asked for a for a cup of hot lard and got cold beef fat instead. ATROCIOUS!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20weU5HNXZTUzFXUTJwWk9UbDNhazVZWTA4emIxRRAB",
+            "text": "Good food, nice atmosphere and friendly and courteous service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5Wk5YSlVSekk0VlZsSGMyVnFiRkY1YzBWVk1IYxAB",
+            "text": "The penne a la vodka with chicken and shrimp here  is hideous! It’s an overcooked flab of penne with sticky vodka sauce and hard diced chicken cutlet in it, this definitely the worst choice you can choose here!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201RFduWXpXV3BTTkdjeVowYzJTV3R0VUVkMlNsRRAB",
+            "text": "Felt like a midwestern diner. Miguel was a great server. Steak burgers definitely worth the price and cooked well. Probably the best waffle fries I’ve ever had."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGd1VHdEZkRkY0YkZKdWNEVm9UVWhDVjJKeVdGRRAB",
+            "text": "We were there at midnight and then a couple days later we were there at 5:30 in the morning. The service was excellent the food was outstanding. The selection is unbelievable. This is a great place to eat and when we are in town again this is where we are going"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFNWFVdzBWRW93YkRCT1NHc3lXRTVZTkcxMGFIYxAB",
+            "text": "It’s good to eat there enjoy with friends"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWVRIYzBNR1prWjI0MGNXTmtkRzlTZUhweVQxRRAB",
+            "text": "Amazing place to find food 24/7; tho not sure how well that is maintained since the pandemic. Classic dinner foods and plenty of space; tables and booths, and even barstools and a private room."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKUVkwcG9kWFZ3ZVhkMVZHZENabmsyVEZOTlUwRRAB",
+            "text": "Buen ambiente, buena comida y personal muy amable"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsWk1ucFlhSGhSZUhaUk9YRmljVWN4WjNsc2RtYxAB",
+            "text": "Good food, great service and good prices."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZM1pIUkRhbGRKV0VSUFFpMVVTbEJITVVvMmNVRRAB",
+            "text": "Great food excellent service"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VPUGExT3FpeUtYRGZREAE",
+            "text": "Great atmosphere and our server Tony was awesome and very attentive. The food definitely could have used a bit more seasoning and the waffle our friend ordered was hard. That may have been the way it is usually cooked. The pancakes are perfect. No flavored coffee creamers. And on a side note…tell the waiter if you are doing separate checks at the very beginning or else your table will be on a single check."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VONm0zNG5rc2QzU1NBEAE",
+            "text": "Delicious food was great portions. It’s pretty clear this diner has regulars. Service was very friendly and I’m glad I was able to stop by and try this place out. The avocado toast was amazing with everything on it being fresh including the salad."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4MWFVMTVSRFIyVVhsVlFuWkRNbmRYYUd4TlprRRAB",
+            "text": "Big portions and great tasting food. Can be a bit difficult parking but there was a guy out there directing traffic. Service was good. Pancakes were great."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZb2JLcmpnRRAB",
+            "text": "Sometimes, you need a diner, like when you drop someone off at the airport for an early flight, and you're starving.\n\nMy recent visit was precisely that scenario, and I got exactly what I expected.\n\nI sat at the counter to get in and out quickly. The eggs were cooked as ordered, and the bacon was crisp. The potatoes were not as crispy as I requested, but they were fine.\n\nI will say that the staff was all over the place, and it looks like they do a steady take-out business, so the counter is not the move unless you want randoms hanging over your shoulder while someone packs a bag in front of you.\n\nI might add that at least one patron was confused about how a restaurant works. He showed up with his Bluetooth speaker and proceeded to play salsa music over the restaurant's music. Fortunately, I was done, so I left"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvdk9INEJBEAE",
+            "text": "Service was nice. Food was pretty good. A bit pricy but it makes sense for how big the portions were. Would recommend to make sure to have at least more than $15 before eating here."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZM3FPdHJ3RRAB",
+            "text": "Delivery order was on POINT!! Food was amazingly delicious!! The portions are huge and shareable! Highly recommended this place!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMaUg5UFRRM3ZPTHRRRRAB",
+            "text": "From the moment I parked and walked in, the atmosphere and food were on point. I ordered, sat down, and even though I had to leave earlier than planned, that first bite was delicious. Highly recommend! It looks like they just opened the patio too—definitely cool vibes. I also noticed they have both a diner and a fine dining restaurant. This spot is perfect for casual dining, and I’ll definitely be coming back regularly."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5d3QzR2lnRRAB",
+            "text": "Always fun to go to a old dinner. Endless options to cater everyone’s preference. Chicken wraps is delicious. Typical American dinner. This one has been here for more than 70 years. The bathroom floor tile is super fun! Love that antique tile."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzN0lxY053EAE",
+            "text": "So I came back to visit NYC last weekend. When I lived here, I always went to Georgia Diner but after a not so great experience, we tried Buccaneer Diner and we were back the next day. Great service, great food, huge portions, and love the drinks and the corn muffin. The French toast was some of the best I’ve had even the bacon was perfect. I will ALWAYS come here for breakfast when in town and regret that I didn’t come here as a kid for the 16 years I lived in Elmhurst or any time I revisited. Athena was such a great server and my toddler son was in love with her."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNX1UyYnViMHR1c1hnEAE",
+            "text": "Crispy waffles. Friendly staff. 0.5$ cd songs, so retro… feeling time traveling and I like it."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1X3NYN1VBEAE",
+            "text": "Wonderful place. Open 24 hours a day and not far from Laguardia airport. We were able to wait for our flight. The staff is very welcoming. The food is varied and really tasty! High level of service and excellent cook. And I am glad that I can get tea or coffee and a delicious dinner even in the middle of the night!) I recommend it with all my heart. For the whole family!)\n\nSeparately, I would like to say that the cafe is clean, warm and cozy. Good music is playing. There are beautiful cakes and a large selection of wines on display. Toilets are located on the floor below."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1d2Vqa1pREAE",
+            "text": "This was my first time visiting this restaurant. it was around 1230 at night and a lot of food places was closed. I searched on Google to find somewhere that was open. We located this diner. When we  arrived The staff was very gracious. We was greeted and introduced to our waiter. By the name of Charlie. Charlie was exceptional, he was attentive. He was honest about the menu and very knowledgeable about all the items, and very courteous. Before we could order we were presented with some bread which was good. I ordered chicken Alfredo. I requested the chicken to be grilled. That was very good. Seasoned pretty good. I also ordered the chicken wings. I requested that they were cooked soft. They cook them perfect they were good as well slight spicy, but just right I use ranch dressing as a dipping sauce. then ordered the chicken soup. It was a chicken and rice soup. It was very very very good.  seasoned and full of  flavor. I also ordered a drink of sex on the beach. It was very good. I was feeling tipsy off of just that one drink. The manager came by twice and checked on me and my guests to make sure that we were OK and that the food was good and if we had any complaints. The price of the food was actually very affordable for quality food. Also the menu is very extensive there are so many choices to choice from for all occasions and time of the day. the location is in a great area the inside looked nice. Love the details overall this was a great experience. I cannot wait to come back to this area to go back and visit this location. I thoroughly enjoyed myself and commend them and their gracious staff on doing such a good job, especially to out of towners like myself."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyd3VqeUhnEAE",
+            "text": "One of the staples of the neighborhood and I've been coming for over 20 years. Massive portions at an affordable price, it's def the place you want to go for some comfort food. Parking might be a hassle as the lot isn't too big and will get full during the weekends. One of their claims to fame is their Monte Cristo; but beware that this is extremely filling and you might enter a food coma immediately after finishing."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQM3lncnZLbXF1LTd3RRAB",
+            "text": "Es un lugar muy tranquilo con un personal amable me gusta mucho desayunar aqui."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiMGM3dFFBEAE",
+            "text": "Flight landed at JFK late and need to do a layover to LaGuardia for a morning flight? In need of a 24 hour spot?\nThis is the place for you! Great diner, good food, kind service. They are completely understanding of needing to deal with a layover. I am so grateful to the manager for his hospitality."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPZzYzLWtRRRAB",
+            "text": "Late nights after work, service is excellent, Charlie really is the star of this place. He's genuine, friendly, kind, funny, and such a pleasure he's truly the reason we continue to visit. The food is fresh and yummy, and prices are reasonable."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLaXYzMkN3EAE",
+            "text": "We came in to grab a quick dinner after our flight and Buccaneer definitely awesome. It was a perfect ending to our tiring day. Charlie, our server is amazing! He is such a fun easy to talk and gave us such great service. Food was…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNSEp2YlMweHNxN0N3EAE",
+            "text": "Dropped in around 11pm the other day and we had the most amazing server who explained the menu and the history of the restaurant to us. My party of 4 had a hard time deciding what to get, because the entire menu looked amazing. Most of us ended up getting the Roadhouse burger, which was one of the best burgers I've ever had in my life. Will definitely be back next time I'm in NYC. Absolutely incredible food and immaculate vibe."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURldGUzcXd3RRAB",
+            "text": "I give diner a 10 star if possible. The food was extremely good. My family and I were seated immediately by our waiter Charlie was so professional. He took our order to perfection. He was very friendly and gave us great information about the diner and the food. I had The Roadhouse burger, which has pepper jack cheese, avocado, bacon, chipotle sauce and grilled onions, I made it a deluxe and it came with waffle fries. I was amazed. It was delicious. My husband had the chicken Parmesan sandwich with fries. My kids had the cheeseburger with fries and the other with onion rings. The portions of our food were very good. We even brought some leftovers home. We were very satisfied. We came out all the way from the Bronx to eat here. It’s a must eat. You can ask for Charlie and tell him Sean and his family sent you here. We give him a 10 star for his service as well. All the workers were very nice and all greet you when you come in. The gentleman who brought out the drinks was also very nice also a 10 star for him and all the employees.No complaints from us. Will be back soon for more. Me and my family loved the service and food. Everyone in the diner were enjoying themselves and the temperature in there was amazing."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1enRfNjFnRRAB",
+            "text": "This restaurant is a nice little neighbourhood gem in the Astoria Heights/Jackson Heights area, just south of LaGuardia Airport. We stopped here as a party of three for an early dinner on a Wednesday afternoon, and were seated without any wait. Great variety of menu items and some of the Greek dishes (gyros, Greek Salad, etc.) are very noteworthy. We had a Triple Decker sandwich, a Gyro sandwich/wrap, and a Chicken Salad that were really good!  Plenty of tables/chairs inside and outside on the patio, and a good-sized parking lot outside. Bonus: lovely-looking desserts (pies, layered chocolate cake, etc.) in the refrigerator. Recommended!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2ODhYSllnEAE",
+            "text": "Travellers, this is a solid diner with a huge menu of food items to choose from for any meal you want. Breakfast was especially delightful because in addition to the large portions the food is well cooked. The bacon is crispy, the eggs were well cooked, and the french toast was a real treat. Service was great and with a smile and the diner was very clean. Check it out. We recommend."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4Z2FQSFVnEAE",
+            "text": "After an early morning flight, my family and I were famished! Buccaneer’s Diner came through for all four us with excellent, fast service; delicious food and a clean atmosphere with…PARKING…in NYC! I’ll definitely be back for the pancakes!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtdzZMMFJBEAE",
+            "text": "Great quaint little place with a warm atmosphere. The food is stereotypical diner food with some more options, but it gives off a nice homey vibe. I had the roadhouse burger, and it was up to par with many high-end diners. This place is definitely on the top end of diners I’ve been to. Charlie, our waiter, was extremely accommodating, funny and helpful, which created a wonderful dinner for my family and I. Overall, this diner definitely fulfilled all the requirements of a good diner and I will definitely be back."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtb2JDUnZnRRAB",
+            "text": "The service was great,  staff friendly and very helpful and pleasant also polite,  The food was great.  I had a Belgium waffle,  Leo lox and hashbrowns.  Coffee was also very good.. My son ordered the mushroom burger and fries, My cousin and I shared our meal."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHMlpfUjVRRRAB",
+            "text": "I have been here a few times and every time I like it more and more. They have plenty of parking, enough sitting inside and outside (covered), amazing customer service, awesome music, opened 24 hours, and the best part, their food is DELICIOUS!!!! I mean, if you see my photos, our plates are enormous and we usually have left overs at other places. Not here, this is the type of place that will have you finishing your whole meal and will keep you coming back for more. I live in Connecticut and would not mind a drive to Queens to have breakfast for dinner!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtbklDWjRBRRAB",
+            "text": "Good food. Nothing special but a good place if you are craving breakfast. Plenty of tables. Plenty of food options. Booths and tables available. Customer service was great. This place has its own parking lot. Ample space with plenty of parking spots. Outdoor dining available. If you are around East Elmhurst and craving American breakfast don’t shy on stopping at this place.  Not worth the trip from far away though."
+        },
+        {
+            "date": "10달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2bGYyODl3RRAB",
+            "text": "Impeccable, prix très corrects si on compare au sud de la France, plats très bien fournis pour le breakfast et le café (servi à volonté) est bon (je ne bois pas de café d'habitude)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoemFiYWNREAE",
+            "text": "I was excited to come here but I was honestly disappointed at their customer service and their food. The Omelette was pretty good but the shells on it was not what I was expecting. I was looking forward to the properly done home fries but it was soggy and not fried at all. Please learn how to fry. If you say something is fried and a customer orders it because it's what they want, it needs to be fried. Otherwise the service is fast. The gentleman who served us was pretty rude in the beginning but he warmed up as we sat there for an hour and ordered a lot of food."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1dWZ2TGN3EAE",
+            "text": "My friend took me and my cousin and nephew here for my birthday. The food was great...the portions over the top. I had a frozen margarita...totally awesome,.so I had 2😊.  The wait staff was very attentive and they surprised me we a slice of…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4N3FTakRREAE",
+            "text": "The meal looks amazing and at a great price! You really can’t beat it. Amazing for sure will come back again! The portion sizes are AMAZING!!!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZeWVuRkVNREZXWVhvMGNDMXdZVmxLYVRGcWEyYxAB",
+            "text": "Do yourself a favor and go elsewhere. Stopped here for Sunday morning breakfast- it was terrible. The bacon didn’t taste like any bacon I’ve ever had and the pancakes had a strange taste and smell. I couldn’t get the waitresses attention no matter how many  times I waved my hand at her. Almost as if she were intentionally ignoring me. Very disappointing experience here."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGcC1uejZRRRAB",
+            "text": "The food was just disgusting. This is not intended for people accustomed to African American seasoned food. Pasta comes with breaded chicken. 4 people ate out and nobody wanted the food. Even a 6 year old realized the food wasn’t seasoned. My Alfredo had hot cucumbers all throughout. 6 year old was chewing and spitting her food out onto the plate. GROSS"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4MzktN3hnRRAB",
+            "text": "I loved this dinner 💯👌🏻\nCrispy calamari appetaser was delicious\nThe crispy potatoes, the oreo pancakes very fluffy, highly recommended.😋\nVery friendly and attentive waiter at all times."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4MWFPWVZ3EAE",
+            "text": "Drove from Orlando Florida to visit this diner which my hubby use to come to many times years ago. It did not disappoint. Food was tasty and service was one point. Tony took good care of us. Thank you"
+        }
+    ],
+    "reviews_count": 78
+}

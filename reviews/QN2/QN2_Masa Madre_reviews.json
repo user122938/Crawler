@@ -1,0 +1,509 @@
+{
+    "name": "Masa Madre",
+    "place_id": "ChIJGW2JZZ9fwokRmscycNBJBtA",
+    "grid": "QN2",
+    "address": "47-55 46th St, Woodside, NY 11377, USA",
+    "rating": 4.7,
+    "user_ratings_total": 181,
+    "phone_number": "(347) 527-2145",
+    "reviews": [
+        {
+            "date": "13시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaTmJYcDFOa2xqTkVobmVUbDVhM016ZUU5V1ZHYxAB",
+            "text": "Incredible conchas and the pan de muertos was also phenomenal!"
+        },
+        {
+            "date": "5일 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4QmVVZzBlWFp4YTNKdE5qbHlUbmhyYVdrMGNrRRAB",
+            "text": "Mal pan no es nada bueno"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5NWRXZHlaMFY0UlVGZlRHUTFWSGg0ZUd4V1VrRRAB",
+            "text": "Hands down the best CONCHAS in NYC!\n\nWhen you arrive at the bakery, one of the first things that will catch your eye is the croissant-shaped door handle — such a fun touch. As soon as you step inside, you’re greeted by the incredible aroma of freshly baked pastries.\n\nThey serve delicious coffee, a variety of pastries, and fresh bread (which they’ll happily slice for you). If you’re in the mood for something savory, they also offer tamales and sandwiches.\n\nI tried the concha, tamales, sourdough bread, and coffee — and loved every single item. Everything was fresh and flavorful.\n\nThe space is cozy, best suited for one or two people if you plan to dine in."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jNGRGOUhNM05EWVUxcVdHSmZWMU5ZWmtoeVgwRRAB",
+            "text": "We were very excited to give this place a second try. To start, the tamales were not what I expected, the chicken was dry and tough to eat and the masa was not done right. I had the bullseye bread and thought it would be similar to the Mexican version of the same bread style but this was not what I had in mind , it was okay. We also purchased some donuts which were nothing crazy, going forward , we will just go for the concha’s which we love. This is our second time trying this place , service is great!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FdFkwMU5kV0phU1hKdmNGaEpOVWt3WlhNMldYYxAB",
+            "text": "Every time we are in the are we come to Masa Madre. Their conchas are amazing, at the same level of Mexican small town bakeries.\nNow they are more popular and seem overwhelmed. Today ordered a bunch of conchas and other breads for takeout. When I got home I noticed my conchas were missing and got some other stuff instead.\nI didnt get a receipt either and dont live that close by. So this is quite disappointing and frustrating. I hope they hire another person that can pay more attention, get their service quality back together."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Gdk9EaGxSMk5YWmxSZlFUQkNMV1J6VFhrd2VsRRAB",
+            "text": "The sourdough bread is absolutely delicious, and the pastries were amazing too! I tried the doughnuts and the conchita — both were fantastic. The staff was super friendly and welcoming! 🥐🥖💛"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSYU4zSTBWbGhUWkV0dGJFVnhXVzV4TkdFd2IxRRAB",
+            "text": "this spot is a gem. i've stopped in a number of times to try something new and everything they make is fantastic!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxRlJXNW5NRWxTT1VodlVra3RRVUZQZG1SNWVrRRAB",
+            "text": "I can’t wait to come back to Masa Madre to try more of their pastries. I got the cream filled concha, which was so special - never had anything like it. Delicate and delicious, and for under $4. Incredible deal. I’m coming back for the cornbread, which also looked amazing!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JMlRXbEtWMWRyUVV0RlVGbE1Xa3RhWldaNmNtYxAB",
+            "text": "Delicious bread"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrdGNGTnZSVWxCVERCa00wMVJUSFJQWTFKWFptYxAB",
+            "text": "This place is awesome! Their conchas are the best I’ve had (and I’m from California). The Mexican chocolate croissant is flaky and buttery YUM. Tamales are tasty but the meat was a little dry. I’m so glad this place is in the neighborhood. Will def be back to try more."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oamFFdHBWWEpXZW05RVExRTVNME5rYVdKV1QyYxAB",
+            "text": "You will know you are in the right place when you open the croissant or cuernito door knob. This chef loves bread. A person that works here told me masa madre references the sour dough starter they use as a base to all their breads. From sour dough loafs to bolillos and triple chocolate filled conchas. I came here on a Sunday at 1pm and one of the three tables was available so i had an almond croissant, a tamale verde and a chai tea with oat milk while i journaled. I noticed many people come here to get their loafs of breads for the week as well as a sweet bread. It felt very cozy and i really enjoyed all the details that went in to making this place feel like a little but of Ciudad de Mexico in Sunnyside, Queens. Like the molinillo mobile 💝What impressed me the most was the fact that the conchas were STILL coming out fresh through the time I sat there. I took home a tirple chocolate concha and that won me over."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wWlpVSnJkbWhrWW1kb04zRTJWSFJYWm05RVRsRRAB",
+            "text": "Excellent customer, delicious Mexican bread."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2a1Bmc2xBRRAB",
+            "text": "Masa Madre is a GEM, and I would recommend this bakery to everyone. My fiancé and I asked Chef Jose Luis Flores to create a special engagement cake for us and we could not be happier.\n\nChef Jose Luis did the most spectacular job, creating such a beautiful cake for us to share with our closest friends! The cake was delicious, flavorful, unique, and artistic. We could not be happier with this experience. I had especially asked to have figs on the cake, and even though Chef Jose Luis mentioned that figs are out of season, he went to the end of the earth to find figs for our special day🩷 Thank you Chef!\n\nWe also hosted our party at De Mole, a sister restaurant of Masa Madre, and the whole experience was divine.\n\nWe have nothing but fantastic things to say! Thank you for making us feel warm and special - we love the Masa Madre and De Mole team!\n\nWe will be lifelong customers🎉"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25adldsSktTVXg0VlRRM2QzZDFTREJzTVRreFMyYxAB",
+            "text": "The only place I have found real \"bolillos\".\nThe tamales are 9 out of 10, the pastries are also really good."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoM09DMDNWRWRoWlZWcmNXbzNkbXBJVlZWNFZIYxAB",
+            "text": "Everything here is delicious! Tamales and coffee so good! I still need to try the conchas but it all looks amazing.\n\nI was just confused by the pricing for the guajolota. The pollo and rajas tamales are 3 dollars each and the bolilo roll is 1 dollar but for the guajolota i got charged 6 dollars. (I could see the 6 dollars for if you got the pork tamale which is $5. But i asked for the rajas) And the sandwich is just the tamale on the bread. Next time i will just purchase a tamale with the bread on the side and put it together myself..."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjMk1sZFRRMDUwVm5aV1FpMUVZMmxIVEVGNk1tYxAB",
+            "text": "hoy mi hermano trajo  conchas para el desayuno, woo son delicious  !!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOSFpXdFNRVGRJTjFvd2VrMUlXVWgzUzBGc2VHYxAB",
+            "text": "Been coming here for the past 2 months to buy their sourdough loaf which is so incredibly good, you can ask them to slice it for you which is very helpful. I have also tried their old fashion doughnut which is a 10/10 and their almond croissant which is very good, I think it's all made from sourdough, not to sure. But it's all exceptionally good and the customer service is awesome. Will continue to come here for my bread :)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Sdk4wRXpNWGxITUZsQ09YSktZWEYyWmxCSmVrRRAB",
+            "text": "I was there today and I ordered a concha, a donut and bread pudding to go. The cashier packed everything so nicely in a cute box. However, when I got home I noticed the bread pudding has mold! So disappointing I was really looking forward in trying that."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ka2NuRm5OVWxCZUhkNFNscDZOekJSZG1kM1RVRRAB",
+            "text": "I’m gonna turn into a chicken tamale because of this place 😋"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkaVVXeGpSemhJY3pJemExQldiQzFqYlhvdGRVRRAB",
+            "text": "Un excelente los panes deliciosos y no se digan las guajolotas … solo un pequeño detalle el servicio no tienen buena comunicación pero sé que pueden mejorar"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5UVRXVmxaRnBKZEVsTWVWaHRaeTFzVlhKTGRIYxAB",
+            "text": "Beautiful bakery with great pan dulce."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWT1IwVk1jSFUwT0ZSNVIwZHNRbWREZHpseE1YYxAB",
+            "text": "Seriously might be my favorite bakery in nyc. Conchas are the best I’ve had, even compared to the west coast. They have such special offerings like the Mexican hot chocolate croissant or the bullseye or the cream filled conchas. I’ve been back plenty of times and always find something new and literally everything on the menu is incredible. The service is so kind and welcoming and never rushed. Sunnyside is so lucky to have this place& I hope they continue to be successful because they deserve all the hype and more!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVd1JHaEJaRFJLTldWNk1ITXpjM2RtWVhsblNVRRAB",
+            "text": "The employees were so helpful and kind, the food was sublime. No notes just a happy customer who will hopefully revisit soon!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLelZfXzIwN2NDVEl3EAE",
+            "text": "A gem 💎...."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKS3oxSzdUb0l2N1BREAE",
+            "text": "Had the tamal chapin and it took me back to Guatemala very tasty"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMZmp3OG1LcGMyd0J3EAE",
+            "text": "Consistently delicious and fresh. Best bakery in the neighborhood!"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOYVlpNWIyajdxNXFnRRAB",
+            "text": "En este lugar el pan es delicioso 🤤"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOdWRoYnlCOXJhd3ZRRRAB",
+            "text": "The raspberry concha and chicken tamale were excellent. Very cute and welcoming place too!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKeXJwWkxLMkw2NXV3RRAB",
+            "text": "Very nice selection of unique pastries. Would definitely visit again"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJbWs2cVNNeWFUeXZBRRAB",
+            "text": "Estaba por el vecindario de pura casualidad y sabía que tenía que venir a probar los ricos panes artesanales de Masa Madre. Se los recomiendo — deliciosos, con mucho sabor, hechos muy bien. Me encantaron las conchas y el aguacateo. También les recomiendo las piedras de chocolate.\nTienen que tomar en cuenta que los panes son artesanales y se nota por los sabores. Excelente! Volveré cuando vuelva a queens.\n\nHighly recommend this mexican bakery. It’s absolutely delicious, fluffy and perfect. Of course the price is reasonable considering this is artisanal bread and made with certain ingredients. This bread taste much better than other Mexican bakeries. Support small businesses! Will be coming back when I’m back in the neighborhood!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOaUgyTmltOVpIU3NnRRAB",
+            "text": "An artisanal bakery selling conchas. I'm no concha expert, but I do love a sweet bread whatever the ethnicity (diversity in sweet bread enjoyment is crucial). These are very good to my non-expert taste buds. And affordable at about $2.50 each."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPU0R0b2Yxc2E3WlZBEAE",
+            "text": "The service was so nice, and the pastries were unbelievably good. The conchitas were sweet but not too sweet and very soft :) Will definitely be back for more!"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPYWhuOG1PeE1hR0VBEAE",
+            "text": "Eh estado en Masa madre 2 veces y todo lo que e comprado me a parecido super bueno! El chef Jose es muy amable éxitos en su negocio chef se que va seguir creciendo…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZLXFDTVpnEAE",
+            "text": "GASSSSSS"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvMDllSzJBRRAB",
+            "text": "This place is so good, offering a variety of Mexican breads, and desserts. Cant recommend it enough.\n\nCozy vibes with some seating. Apart from pastries they also offer tortas and tamales.\n\nStaff is very friendly."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvcmZfa0JnEAE",
+            "text": "Best concha I have ever eaten in my life (and I am obsessed with pan dulces). Lo major! Horchata was also incredible. ❤️"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnTURvemZRVRAB",
+            "text": "Been back several times, and all the baked goods, tamales and now tortas on offer have been good. The new tortas will cost more than your typical torta around here, but they're huge and come with your choice of four delicious breads (even if sourdough seemed not ideal for torta construction to me). The baked goods are a mix of the familiar (croissants, excellent conchas) and less seen (flat aguacatas, for example). Tamales are more tender than the ones you'll find on the street. And the service is friendly. Discount if you pay cash."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveGFIWEJnEAE",
+            "text": "Phenomenal bakery, lightest most delicious conchas and an array of other tasty baked goods - cinnamon buns, focaccia, croissants, aguacatas. Prices so good it feels like a heist."
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvOGFlME1nEAE",
+            "text": "Esta delicioso todo. Íbamos solo por unas canchas y salimos con más pan y tortas. La torta de pierna adobada super recomendada"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvbXRTUkt3EAE",
+            "text": "El pan es muy bueno y muy buena calidad en verdad que si tuvieran una cafetería grande y con mesas por dentro y fuera sería un éxito"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvazdEYlpREAE",
+            "text": "The best bolillo I’ve had in N..YC. and probably outside of CDMX. Croissants are delicious and, I was given a sample of the focaccia, while I waited for my torta, (also excellent). I’ll have to come back and taste the tamales. ¡Que bonito es lo bonito!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvemNXLTlRRRAB",
+            "text": "The atmosphere of this place is wonderful. I got the vanilla concha, chocolate concha, regular croissant, and Mexican chocolate croissant. All very delicious. I was taste testing with my grandma who is also Mexican and she loved everything. The conchas were fluffy, the croissant was perfectly flakey and soft at the same time, and the Mexican chocolate in the croissant wasn’t too sweet which I loved. I’m definitely coming back another time to try more!"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYbzQteHR3RRAB",
+            "text": "Editing this on 4/18: their Pan Cristal bread is OUT OF THIS WORLD!!!!! I can not believe I've never tried before but believe me, orser it.\n\nWow.  What a gem for our neighborhood. I just visited and grabbed a Concha and a baguette... y'all,  first time having concha and now im obsessed. Lol INCREDIBLE, try the vanilla one. And the baguette is nice and  crunchy on the outside, chewy on the inside. The owner was there and he was so lovely. You can tell he genuinely enjoys his life :) can't wait to return and try some more!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJODdiUzVBRRAB",
+            "text": "It is the best Bakery Ive ever been to in NYC. Every baked good, drink, and food was 10 star. This is Mitchlin Star good and I said what I said and mean it. The Baker and owner has been working for over 30 years Worldwide. The restaurant is only opened in October of 2024. They blend Latin & European desserts, baked goods and food. The Rochelle Hose is outrageous and the sourdough bread and almond croissant,\nand pan dulce. Order all of the tamales. (Mexican and Guatemalan) and the stuffed Concha was delicious."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJbEplbkp3EAE",
+            "text": "Absolutely worth a two hour trip! I love the cornbread. I actually ate it in the car along with the pan de queso , the best I’ve ever had.\n\nThe piedra was interesting very tasty. I love the notes of chocolate… The donut was light fluffy and delicious."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJNUtlc1J3EAE",
+            "text": "Mexican American from California here\n\nTamales review: the flavors are there however the texture of the masa needs improvement. It is way too soft and watery and because of this you end up with a soggy tamal. I realize that it’s common in New York to use masa de polvo and prepare it. Not sure if that’s the case here but I am used to west coast masa where you purchase at a tortillería and the masa has flavor, color, and texture.\n\nBaked goods: the birote/bolillo is too dense/hard/chewy but the flavor is there and the texture is good. They’re not too airy.\nThe concha is definitely worth it. They don’t add too much of the candy topping but the fluffiness and softness of the concha is fulfilling.\nCinnamon roll, too dry and not enough sugar. However, the walnuts and raisins are a nice touch and if you dip it in hot chocolate you should be set.\n\nOverall, I do see myself coming back for conchas only. I loved the tamales because they are flavorful (salt, spice, and protein portion- they also use the right type of cheese for the tamales de rajas) BUT again the masa texture is a let down.\n\nGreat service! Friendly, welcoming, informative, patient, and speak clearly.\n\nI cannot complain about my total. I’m always willing to pay more at small businesses than at large food chains."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJMkxLamt3RRAB",
+            "text": "Great little gem. Their sourdough bread is to die for\nLove getting a load and then having it with some olive oil. During the holidays also enjoyed having their pannetone. This is the high quality stuff that you wouldn't find elsewhere"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3MS1QVVZREAE",
+            "text": "I really enjoyed the treats here. I tried the Vanilla Concha and the Chocolate Donut and both were delicious. I could tell that they were fresh. Nothing was overly sweet and had great flavor."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3bE9UTXNBRRAB",
+            "text": "Grate place with delicious pastry but so unfortunate that the girl that works there has such a bad  attitude , really sad because the place it’s really good but her nasty and non caring attitude ruins it . Looks like she hates working there .."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRcDc2NjV3RRAB",
+            "text": "Beautiful place! Everything is so good and tastes freshly made. The prices are lower than you'd expect for someplace so nice!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbEoyM0lREAE",
+            "text": "i loved all the bakes on my first visit. the cranberry walnut sourdough was absolutely delightful. conchas were one of the softest we had. mexican chocolate croissant could have more chocolate to it, but super flaky. (03/01)\n\non my next visit (03/06), i got the same loaf, some doughnuts, cheese danish and dulce de leche buttercake. the doughnuts was super duper good, especially the chocolate one. cheese danish - i expected it to be sweeter, but it was leaning towards the saltier side. the dulce de leche buttercake, i’m abit confused with this. i believe it is supposed to be soft, light and fluffy but this was almost like a biscuit, tho the dulce filling was delicious, it should be filled more. because of how crumbly, scone-like this buttercake was, at the end, you’d only be coated with taste of the buttercake, not the divine dulce de leche. and unfortunately, the loaf is not as great as the first time. it was way denser, flatter, and slightly drier. (you could see the difference in the photos) i was pretty disappointed with this round’s purchase.\n\ni hope whoever baked the loaves the first round consistently does it, cause it is perfect!\n\ni will still comeback and try the bakes you offer, just letting you know my experience during my visit. thank you :)"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfdi1IaWd3RRAB",
+            "text": "OMG - I’ve lived in NYC for 6 years and have struggled to find Mexican food with CA quality, but this bakery! Wow! Best conchas I’ve ever had in the city and maybe the best I’ve ever had?! You can really taste the quality in the ingredients and the staff were all so kind. 100% going back"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQck1tNklBEAE",
+            "text": "I recently visited Masa Madre in Sunnyside, Queens, and it was wonderful! The bakery has a cozy atmosphere.\n\nWe tried the conchas, cinnamon roll, and almond croissant. The conchas were soft and sweet, while the cinnamon roll was rich and gooey. The almond croissant was flaky and filled with delicious almond paste.\n\nOverall, Masa Madre offers amazing pastries, and I highly recommend it for a tasty treat!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfcC1xOGp3RRAB",
+            "text": "This really feels like an artisanal bakery for Mexican fare, as it is described. Simply put, these were the best conchas I've eaten in both the East Coast (NYC) and West Coast (Bay area).\n\nThere were these larger pieces of bread/pasty that was like a sweet pillowy bread that's frisbee shaped with a caramel center called Aguacatas from Michoacan. That was a first time try for me and it was also very delicious.\n\nTheir chocolate donut was also amazing. At Masa Madre ou can taste the difference in quality ingredients in the yeast and dough as well as the chocolate and flavorings.\n\nI also noticed on the menu that they have tamales, Guatemalan bread and Mexican hot chocolate. I will definitely be back to try those!\n\n10/10 must visit if youre in Sunnyside Queens or in Brooklyn/Manhattan as it's only a few stops away on the 7 train."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmbk9XY2FBEAE",
+            "text": "Masa Madre in Woodside, Queens, is a delightful bakery that brings a unique blend of Latin and artisanal baking to the neighborhood. The star of the show is undoubtedly their concha bread—soft, pillowy, and perfectly sweet with a delicate, crunchy sugar topping. It’s an absolute treat for anyone craving an authentic taste of Mexican bakery goodness. Another standout is their freshly made tamales, which are consistently delicious, warm, and packed with flavor, offering a comforting taste of home.\n\nTheir sourdough bread is another highlight, showcasing the bakery's impressive craftsmanship. The crust is beautifully crispy, and the interior is tangy and airy, making it an excellent option for anyone in search of quality sourdough. Whether you're stopping by for a quick bite or stocking up for the week, Masa Madre offers a variety of baked goods that are sure to satisfy.\n\nMasa Madre is a hidden gem with fantastic bread and a welcoming atmosphere that makes it worth the visit."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBMGVDLWNREAE",
+            "text": "Loved it! I really hope their prices stay affordable and they don’t raise them. Bought a tray of tamales, bolillos and assorted pastries. The line was pretty long but quick. Recommending them to my family and friends."
+        },
+        {
+            "date": "8달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNndU9mRDJnRRAB",
+            "text": "(No me gustaron los tamales ni las bebidas)\nPEEEROOOO EL PAN 🔥🔥🔥🔥 EXQUISITO!!!\nLas conchas suelo comer solo lo de arriba pero estas la disfruté COMPLETAS TODAS SIN DESPERDICIAR NADA (Siempre querré más del dulce de encima🫣) los croissant de chocolate 🔥 croissants🔥 cheese danish🔥con crema pastelera🔥 las tartas de frutas🔥 no me gustan las donas pero estas me recordaron las mexicanas que se fríen 🔥berry cream danish🔥El baguette 🔥  las conchas rellenas(no me gusta que vayan rellenas sin embargo estaba muy rico el relleno) (en el verano espero las rellenen de nieve💭) Dulce de leche butter cake 🔥las galletas de vainilla pecans 🔥las banderillas 🔥\nEl servicio es bueno pero es lento o SE LLENA DEMASIADO EL LUGAR!! Pero muy amables, el ambiente HUELE A PAN❤️‍🔥\nSolo que hay dos mesas muy pequeñas…\nEspero pronto se acomoden bien.\nEl Chef José muy amable y en los suyo👨🏽‍🍳⏲️👏🏻👏🏻👏🏻!!!\nMUCHAS FELICIDADES Y MUCHA PROSPERIDAD Chef José Luis Flores 🎉🎉🎉🎉🎉"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzZ0xiNFBnEAE",
+            "text": "I was very excited to try this bakery and it exceeded all my expectations! The interior is very warm and inviting and you are immediately overwhelmed by a variety of beautiful pastries and artisanal breads. The vanilla concha and cornbread are so so good! Also got their cranberry walnut loaf and am excited to enjoy that throughout the week. The man working the front made the experience even better - exceptional service! This bakery has gained a regular!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYMWF5TUlnEAE",
+            "text": "These were some of the best traditional pastries and tamales I’ve had outside of Mexico! The ‘Conchas’ were fluffy for days after buying them here. The tamales were big enough to enjoy for breakfast and the Guatemalan tamales, ‘El Chapin’, were full of flavor and spice. Staff was well versed about their menu and very welcoming! Will definitely be back for more!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmeDdIcjRBRRAB",
+            "text": "Absolutely LOVEEEE this place! Alberto is often the person running front of house and is so sweet! He speaks Spanish and English.\n\nThe pastries are DELICIOUS! My favorite has been the guava and vanilla cheese croissant. It’s perfectly crunchy, flakey, sweet, and slightly tart. I’m usually not a big fan of pastries but Masa Madre has such a good variety. The maple donuts are also great as well as the dulche de leche buttercake.\n\nAlso must say I always go to grab a loaf of bread, whether seeded, regular sourdough, or their walnut cranberry. The loaves sell out really quickly so grab them as early in the day as you can! They bake them fresh every day. You can also request to have the loaf sliced. I always see more local Spanish-speakers than non-Spanish speakers, so that signals to me that the locals in the area REALLY love this place 🥰 I’ve been trying to use some of my middle-school Spanish to practice.\n\nTheir conchas are also a delight! They remind me so much of Japanese melon pan and Taiwanese pineapple bun. Seems like they’re all related pastries.\n\nIt’s not super obvious, but they also sell Mexican hot chocolate and tamales. Love the hot chocolate, haven’t tried the tamales yet. Sometimes they make seasonal pastries and champurrado.\n\nSome nice Easter eggs are the croissant door handle on the front door and the Mexican whisk chandelier 🥳"
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzOWFiclVBEAE",
+            "text": "Delicioso! Las conchas son las mejores del barrio. Los Tamales son sabrosos y el chocolate es muy rico. Una excelente adición al vecindario!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzX09PdWR3EAE",
+            "text": "amazing selection of mexican pastries and bread at Masa Madre. I had the pleasure of trying a variety of their pastries/bread, they’re incredible.. all are good!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzN0tqdVBREAE",
+            "text": "A wonderful bakery that just opened in the Sunnyside and Woodside area! We visited for the first time this morning and will definitely return! Great prices, kind staff, and delicious baked goods. We tried the chocolate croissant and cheese danish, and both were flaky, buttery, and so yummy! We will be back to try some other treats soon. Thanks Masa Madre!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzMjU2cUZBEAE",
+            "text": "El Chapin - super moist not spicy or too salty with pieces of pork that are perfectly fatty\n\nConcha - crispy top and light and airy so good\n\nAguacata el Michoacán - soft not too sweet so good\n\nWould get all 3 again. Very reasonable prices and high quality !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYLWFuTlRnEAE",
+            "text": "What a welcome addition to the neighborhood.  Pastry  and breads made with love.  The scent of fresh berries hit me the moment I picked up this pastry.  Can’t wait to try the conchas, sourdough loaf and tamales when I get home.  Come visit this gem soon, opens at 7AM."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYcWVpVWl3RRAB",
+            "text": "My family and I stopped by here on Sunday morning around 9:30am to check it out. The shop is not very big, but that makes it easy to clearly see everything they have. We got a regular and a chocolate concha, a chocolate donut, and a piece of cornbread. Everything was reasonably priced and super fresh! My daughters loved the conchas! I loved it all :) We’ll definitely be back!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfODczc0lnEAE",
+            "text": "Came with my Wife and had the Concha’s, best we ever had. Decided to try the croissants after, they tasted just as good as the ones we had in Paris 😋"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzZ09yVUp3EAE",
+            "text": "The goodies were absolutely delicious. We ordered 2 conchas and a donut and all pastries were so fresh it was absolutely delicious. Must try! Should’ve taken a picture of the bread but I ate too fast, so that should tell you enough about how good they were."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzMzZucmxRRRAB",
+            "text": "Bought an Aguacatas (Dry flat pastry with an internal brown sugar ribbon) and a Concha Con Nata (a pastry referencing a Con Shell due to its sugar topping with cream inside). Cute shop, three tables, traditional Mexican pastries, perfect price point, and they also serve tamales."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMzVIdTBRRRAB",
+            "text": "I’ve visited this bakery twice, both times specifically for the conchas. The first visit was great; the concha was fresh, soft, and delicious. However, on my second visit, the quality was completely different. The concha was hard and lacked flavor, showing a clear inconsistency.\n\nAdditionally, both visits were marked by poor customer service. The first time, I gave the benefit of the doubt, assuming it was an off day. However, during my second visit, the man at the counter was unfriendly and unwelcoming, greeting customers with an attitude rather than hospitality.\n\nTo make matters worse, the prices are extremely high for what you get prior to the cost of eggs going up. Given the inconsistency in quality and the poor service. I can’t justify recommending this place."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRd3FqQWJBEAE",
+            "text": "Stopped in to get some pastries. Tried the aguacatas and guava danish. Both were fresh and delicious. Really phenomenal. Also got a loaf of the sandwich bread with salt on top. This was a surprise. Absolutely delicious. Soft and flavorful. Friendly service and delicious affordable baked goods. What else do you need?"
+        }
+    ],
+    "reviews_count": 71
+}

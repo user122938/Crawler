@@ -1,0 +1,47 @@
+{
+    "name": "Manhattan Beach Food & Beverage",
+    "place_id": "ChIJHYZMl_xFwokR1XUIqF8E21c",
+    "grid": "BK15",
+    "address": "760 Oriental Blvd, Brooklyn, NY 11235, USA",
+    "rating": 3.6,
+    "user_ratings_total": 11,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZeWQwdHBWbnBqT0VWcFpGTlFZbE5HVjI5bU5GRRAB",
+            "text": "Great place to relax 😌"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GWFRWY3lXa051T0dWdFNscGllR0l6UlhwYWMzYxAB",
+            "text": "Have parking, barbecue area and bathrooms 🚻."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3OG9YQ3V3RRAB",
+            "text": "5 dollar water"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwNEktWGhRRRAB",
+            "text": "Terrible food and drink options, HORRIBLE prices! Beautiful quiet beach though!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1aC1IWjdRRRAB",
+            "text": "I get baptized on this beach every year. It is a beautiful beach you can bbq and there is not a million people like Coney Island."
+        }
+    ],
+    "reviews_count": 5
+}

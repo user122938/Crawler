@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Ocean View Cafe",
+        "address": "290 Brighton Beach Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJX9DK2EBEwokRM9kDwjBVtag",
+        "rating": 4.5,
+        "user_ratings_total": 1005,
+        "phone_number": "(718) 332-1900"
+    },
+    {
+        "name": "Breva",
+        "address": "3145 Brighton 4th St, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJK3nUPsBFwokRqZf1xtqZtf4",
+        "rating": 4.7,
+        "user_ratings_total": 312,
+        "phone_number": "(929) 470-4133"
+    },
+    {
+        "name": "Crab House Brooklyn",
+        "address": "1223 Surf Ave, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJS6Akdi1FwokRPzZDkOtkDbQ",
+        "rating": 4.6,
+        "user_ratings_total": 1023,
+        "phone_number": "(347) 462-1934"
+    },
+    {
+        "name": "Azure Lounge Restaurant",
+        "address": "3145 Brighton 4th St, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJzwLrELNFwokRdvgfTw5NO4U",
+        "rating": 4.3,
+        "user_ratings_total": 143,
+        "phone_number": "(718) 814-0500"
+    },
+    {
+        "name": "Nathan's Famous",
+        "address": "1310 Surf Ave, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJQQaDPzVEwokRwJfPzNzyNnI",
+        "rating": 4.3,
+        "user_ratings_total": 15231,
+        "phone_number": "(718) 333-2202"
+    },
+    {
+        "name": "Paul's Daughter",
+        "address": "1001 Riegelmann Boardwalk, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJZR42yDVEwokRML_1BjiFxCc",
+        "rating": 4.1,
+        "user_ratings_total": 686,
+        "phone_number": "(718) 449-4252"
+    },
+    {
+        "name": "Teura Italian Restaurant",
+        "address": "1215 Surf Ave, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJlwrgFKZFwokRIGsalu_jW2M",
+        "rating": 4.8,
+        "user_ratings_total": 429,
+        "phone_number": "(929) 556-4124"
+    },
+    {
+        "name": "Kashkar Cafe",
+        "address": "1141 Brighton Beach Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJOylZ2WtEwokReXuxLMxwlQ4",
+        "rating": 4.3,
+        "user_ratings_total": 1099,
+        "phone_number": "(718) 743-3832"
+    },
+    {
+        "name": "Genatsvale Georgian Bakery | Shawarma",
+        "address": "3070 Brighton 3rd St, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJIb1JFjFFwokR81mdRAeft-E",
+        "rating": 4.8,
+        "user_ratings_total": 367,
+        "phone_number": "(646) 877-8878"
+    },
+    {
+        "name": "Nathan's Famous",
+        "address": "1205 Riegelmann Boardwalk, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJv58wAS5FwokR071pDE2VMIo",
+        "rating": 3.7,
+        "user_ratings_total": 887,
+        "phone_number": "(718) 714-7207"
+    },
+    {
+        "name": "Bora Bora Smoothie Cafe - Brighton Beach",
+        "address": "516 Brighton Beach Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJl3KrF2NFwokRLDQdCPHIpi8",
+        "rating": 4.8,
+        "user_ratings_total": 380,
+        "phone_number": "(917) 789-9256"
+    },
+    {
+        "name": "Liman",
+        "address": "825 Surf Ave 2nd Floor, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJKRjfeXlEwokR3J4oX2oLdOk",
+        "rating": 4.4,
+        "user_ratings_total": 1466,
+        "phone_number": "(718) 769-3322"
+    },
+    {
+        "name": "Georgian Corner",
+        "address": "626 Sheepshead Bay Rd, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJ45xnb1FFwokR2l10vQrn7Ug",
+        "rating": 4.6,
+        "user_ratings_total": 328,
+        "phone_number": "(347) 240-0940"
+    },
+    {
+        "name": "Ruby's Bar & Grill",
+        "address": "1213 Riegelmann Boardwalk, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJa3PknWpEwokRP2g9em4QTPs",
+        "rating": 4,
+        "user_ratings_total": 795,
+        "phone_number": "(718) 975-7829"
+    },
+    {
+        "name": "Georgian House",
+        "address": "129 Brighton 1st St, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJfaYuGkdEwokRyG1Po9H2-R8",
+        "rating": 4.4,
+        "user_ratings_total": 630,
+        "phone_number": "(718) 759-6555"
+    },
+    {
+        "name": "Boardwalk Beer Garden",
+        "address": "Entrance on Boardwalk, 3152 Brighton 6th St Suite 3, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJVafZFZVFwokRqfjJAe_qWQ8",
+        "rating": 4.8,
+        "user_ratings_total": 434,
+        "phone_number": "(929) 205-6408"
+    },
+    {
+        "name": "Anvar’s Restaurant",
+        "address": "241 Brighton Beach Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJ26Qqz9NFwokRmEbxD-mtDxg",
+        "rating": 4.4,
+        "user_ratings_total": 151,
+        "phone_number": "(718) 483-8085"
+    },
+    {
+        "name": "Vis-a-Vis Restaurant",
+        "address": "3100 Ocean Pkwy, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJaeRukUdEwokRVbe6Tt9hYBw",
+        "rating": 4.5,
+        "user_ratings_total": 691,
+        "phone_number": "(718) 333-0003"
+    },
+    {
+        "name": "Tatiana Restaurant",
+        "address": "3152 Brighton 6th St, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJjafDP0BEwokRfRl3S1X4P2c",
+        "rating": 3.8,
+        "user_ratings_total": 1882,
+        "phone_number": "(718) 891-5151"
+    },
+    {
+        "name": "Gargiulo's",
+        "address": "2911 W 15th St, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJJ64aUTVEwokRrJN-MEyx9xM",
+        "rating": 4.4,
+        "user_ratings_total": 1583,
+        "phone_number": "(718) 266-4891"
+    },
+    {
+        "name": "Skovorodka",
+        "address": "615 Brighton Beach Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJJZgvk0FEwokRCn07X4xc8_E",
+        "rating": 4.2,
+        "user_ratings_total": 936,
+        "phone_number": "(718) 615-3096"
+    },
+    {
+        "name": "Toné Café",
+        "address": "265 Neptune Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJXQvKp0NEwokRDPznkAq9UUI",
+        "rating": 4.5,
+        "user_ratings_total": 673,
+        "phone_number": "(718) 332-8082"
+    },
+    {
+        "name": "IHOP",
+        "address": "1019 Surf Ave, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJ9cplkjVEwokRahx-OeTFTuc",
+        "rating": 4.1,
+        "user_ratings_total": 3071,
+        "phone_number": "(718) 676-7220"
+    },
+    {
+        "name": "GOSHT | Restaurant | Halal Steakhouse & Burgers",
+        "address": "3215 Coney Island Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJB1TKt9dFwokR7hFl_NhDub4",
+        "rating": 4.4,
+        "user_ratings_total": 2022,
+        "phone_number": "(718) 504-8880"
+    },
+    {
+        "name": "Oleandr",
+        "address": "410 Brighton Beach Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJPaMlBEFEwokRBlJcTaz1d_8",
+        "rating": 4.4,
+        "user_ratings_total": 229,
+        "phone_number": "(718) 648-5484"
+    },
+    {
+        "name": "Omar Khayyam",
+        "address": "3159 Coney Island Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJrZBqs8NFwokRehjVaO7oJog",
+        "rating": 4.3,
+        "user_ratings_total": 727,
+        "phone_number": "(718) 975-3664"
+    },
+    {
+        "name": "Geo Khinkali",
+        "address": "3071 Brighton 4th St, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJWf1DMwBFwokRP8u8-TmJW_k",
+        "rating": 4.6,
+        "user_ratings_total": 146,
+        "phone_number": "(347) 438-4315"
+    },
+    {
+        "name": "Jalapeño Shack",
+        "address": "3167 Coney Island Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJlcOduHlFwokR-BzPF-G1iKw",
+        "rating": 4.6,
+        "user_ratings_total": 138,
+        "phone_number": "(347) 312-5583"
+    },
+    {
+        "name": "IMERETI - GEORGIAN TRADITION INC",
+        "address": "1001 Brighton Beach Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJWSs1TKVFwokRqnesmtJtYGU",
+        "rating": 4.6,
+        "user_ratings_total": 182,
+        "phone_number": "(929) 769-0999"
+    },
+    {
+        "name": "Degirmen Restaurant and Bakery",
+        "address": "236 A Brighton Beach Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJRU7DHABFwokRfn7Zja9Xr3g",
+        "rating": 4.5,
+        "user_ratings_total": 176,
+        "phone_number": "(646) 881-3322"
+    },
+    {
+        "name": "Восточная Кухня Ресторан",
+        "address": "504 Brighton Beach Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJM8LUNgBFwokRYq4JzYu7UBE",
+        "rating": 4.4,
+        "user_ratings_total": 11,
+        "phone_number": "(929) 991-5550"
+    },
+    {
+        "name": "Güllüoglu Cafe&Bakery",
+        "address": "239 Brighton Beach Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJ7QNJL0dEwokRLclxOeB6iEI",
+        "rating": 4.3,
+        "user_ratings_total": 845,
+        "phone_number": "(845) 851-3218"
+    },
+    {
+        "name": "Tom's",
+        "address": "1229 Riegelmann Boardwalk, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJyTdD8TREwokRpHqpZwrdpr8",
+        "rating": 3.8,
+        "user_ratings_total": 394,
+        "phone_number": "(718) 942-4200"
+    },
+    {
+        "name": "Tashkent Supermarket - Brighton Beach",
+        "address": "713 Brighton Beach Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJzfUU-0FEwokRDb5Vu6QuibA",
+        "rating": 4.4,
+        "user_ratings_total": 4566,
+        "phone_number": "(718) 908-0707"
+    },
+    {
+        "name": "Margarita Island",
+        "address": "1105 Bowery St, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJAb5DuzVEwokRbKN8ybR4bGo",
+        "rating": 4.2,
+        "user_ratings_total": 398,
+        "phone_number": "(917) 723-3232"
+    },
+    {
+        "name": "Surf City Pizzeria",
+        "address": "837 Surf Ave, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJgwBV5TVEwokRC8mIoUn9m24",
+        "rating": 4.2,
+        "user_ratings_total": 828,
+        "phone_number": "(718) 676-4460"
+    },
+    {
+        "name": "Totli Cafe",
+        "address": "3120 Coney Island Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJpeCwF8JFwokRp797xF7c-Lo",
+        "rating": 4.4,
+        "user_ratings_total": 76,
+        "phone_number": "(718) 708-4292"
+    },
+    {
+        "name": "LOFT by Hot Potato",
+        "address": "109 Oriental Blvd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJqRckGmxEwokRaB3c19QfFPY",
+        "rating": 4.5,
+        "user_ratings_total": 753,
+        "phone_number": "(718) 975-7990"
+    },
+    {
+        "name": "Nota bene restaurant",
+        "address": "282 Brighton Beach Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJpze0SklFwokRaL2rcAXh1JY",
+        "rating": 4.5,
+        "user_ratings_total": 360,
+        "phone_number": "(716) 232-5577"
+    },
+    {
+        "name": "Dzmobis Duqani",
+        "address": "3086 Brighton 2nd St, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJvRTPoHdFwokRETY7AhBaLck",
+        "rating": 4.7,
+        "user_ratings_total": 181,
+        "phone_number": "(347) 312-7184"
+    },
+    {
+        "name": "Baya Bar Coney Island - Acai & Smoothie Shop",
+        "address": "626 Sheepshead Bay Rd, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJbWbuSwBFwokR2iWy3aRGSOw",
+        "rating": 4.7,
+        "user_ratings_total": 62,
+        "phone_number": "(347) 365-2753"
+    },
+    {
+        "name": "Tasty Spot Shawarma",
+        "address": "1003 Brighton Beach Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJJzVVDKBFwokRHpmvMckjMh0",
+        "rating": 4.6,
+        "user_ratings_total": 17,
+        "phone_number": "(646) 375-2204"
+    },
+    {
+        "name": "Tandir Rokhat",
+        "address": "2678 Coney Island Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJ5di_yl9EwokR79DEbQ2gmDs",
+        "rating": 4.6,
+        "user_ratings_total": 823,
+        "phone_number": "(718) 676-4466"
+    },
+    {
+        "name": "The Red Doors",
+        "address": "1205 Surf Ave, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJGbsSnTVEwokRTM52qHCFvEM",
+        "rating": 4,
+        "user_ratings_total": 586,
+        "phone_number": "(718) 872-7177"
+    },
+    {
+        "name": "Level Restaurant & Bar",
+        "address": "2775 Coney Island Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJO8HZqcRFwokRDgSJh5IdCdY",
+        "rating": 4.4,
+        "user_ratings_total": 809,
+        "phone_number": "(718) 684-4300"
+    },
+    {
+        "name": "The Bay Café",
+        "address": "2 Neptune Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJ3ZSKH81FwokRukZW2kJKZyE",
+        "rating": 4.7,
+        "user_ratings_total": 761,
+        "phone_number": "(347) 554-8811"
+    },
+    {
+        "name": "Beyti Turkish Kebab",
+        "address": "414 Brighton Beach Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJm2ZjBkFEwokRFL6sFA-AVNI",
+        "rating": 4.3,
+        "user_ratings_total": 1541,
+        "phone_number": "(718) 332-7900"
+    },
+    {
+        "name": "Hook & Reel Cajun Seafood & Bar",
+        "address": "1217 Surf Ave, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJu1zZjK9FwokRKuje01WGp3Q",
+        "rating": 4.3,
+        "user_ratings_total": 624,
+        "phone_number": "(718) 684-5533"
+    },
+    {
+        "name": "Wheeler's",
+        "address": "1705 Sheepshead Bay Rd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJwUxdRGREwokR4XaeRzDcmak",
+        "rating": 4.5,
+        "user_ratings_total": 1293,
+        "phone_number": "(718) 646-9320"
+    },
+    {
+        "name": "Salt & Sizzle",
+        "address": "1301 Riegelmann Boardwalk, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJDws-Y8tFwokRnJ87FCfTq6Y",
+        "rating": 3.9,
+        "user_ratings_total": 463,
+        "phone_number": "(718) 373-5862"
+    }
+]

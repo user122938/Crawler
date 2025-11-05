@@ -1,0 +1,523 @@
+{
+    "name": "Bee Cafe",
+    "place_id": "ChIJIYJYn1xfwokRuSmUtGTks5Y",
+    "grid": "QN2",
+    "address": "60-11 39th Ave, Woodside, NY 11377, USA",
+    "rating": 4.6,
+    "user_ratings_total": 493,
+    "phone_number": "(347) 321-9098",
+    "reviews": [
+        {
+            "date": "17시간 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twdE1rOVBhbHBmTUZoeFpGcG9iQzFOVWs1d00wRRAB",
+            "text": "Very cute café, great service, great coffee, however, I got a cookie there that literally tasted like a cracker. Other than that I would be back here to get work done. I did not get a chance to see the back room, but there was WiFi seats and outlets"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGRFZWQk9XSHBqWldwV1ZsRkpkRGxxWlU0d2VrRRAB",
+            "text": "Tiramisu Latte yum yum yum! Tiramisu is my favorite dessert!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TmFuY3hjMEpuV0dWbk5DMWxjVWhOYzJ4bk5XYxAB",
+            "text": "This place is amazing and so do the people here.. their choice on the menu are incredible and very delicious. I love being here if it’s with friends or if I want a peaceful day for myself. I would highly recommend this place please come and enjoy!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201S1p6TnhWRXBKUzNoR2RWRTFWV3hzZVZwNVIxRRAB",
+            "text": "Sooo adorable! I’d come here during the warmer weather days and work from home here and eat their yummy foods! Especially the kimchee fries"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsclgyRndNa0kyWjI5WFlWSkdWVWN3VlV0NE5WRRAB",
+            "text": "Do not get your matcha here if you know matcha! Its gritty and does not seem like real matcha as it tastes odd and is too dark in color to be the right grade."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4bVoyUk1VVlJIWDFjd04xbFVZVGRUY1RadVoxRRAB",
+            "text": "Cafe has a cozy and lovely ambiance, ample seating with natural light in the back suitable for studying or hanging out with friends. They use Devocion coffee beans sourced from Colombia, definitely worth trying out."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twVk5WUnZkMEpUTlVSeFYxRkRWemN3ZERKSlUzYxAB",
+            "text": "A little gem in Woodside."
+        },
+        {
+            "date": "1달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGQldHZHBiVEJTUkVkRlJERTFRVU5OWlRZeGNsRRAB",
+            "text": "环境很好！舒服！餐食味道也健康可口！隐藏的美食小店🤩🤩🤩🤩🤩👍👍👍"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGd1RYZHFTWGRFZVdoNldsRm5iVUppY21acGNWRRAB",
+            "text": "Cute cafe. Yummy bubble tea. Delicious ham and cheese croissant. Comfy cute vibe. A local gem for sure!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204MlEwNWFiMkkwY1UxbFEyWnVkVVJCUW1kcU1GRRAB",
+            "text": "Laundry day today and darn ... This avo salad is rocking and the strawberry matcha is so good. Hidden gem in Woodside."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CV2JFZHpPRlJuUm5WTFNuZFROemhWTjB0bVVVRRAB",
+            "text": "It's literally fascinating to enjoy a coffee like you're in your own backyard. The food is very well-prepared, and if you want to do laundry, there's direct access to the laundry room. Perfect for sipping a coffee while waiting, or enjoying a good time with friends."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkclNXZFBXRm80VFZkbU1tWlZkMmhLWkdSV1JtYxAB",
+            "text": "Rude customer service; felt rushed to get out of there because they kept trying to fit more people even though we were there for less time than people at the other tables.\n\nmy response to your reply:\n\nYou said that me and my friend were using our table for several hours however that is completely false! We had only gotten there maybe 45 minutes prior.\n\nWe were also happy to share the communal table; when two gentlemen asked to join, we literally made space for them. The café wasn’t busy at all when we were there, with plenty of empty tables available, so your ‘peak time’ excuse doesn’t add up.\n\nRegardless of any policy, the way we were approached was rude and uncalled for.\n\nFor anyone looking for a place to work or study comfortably, this probably isn’t the spot, even though the café looks nice at first glance.\nAs you can see the owner has a problem if you stay for several hours so deifnetly not the place to come if you have to get work done"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5WVV5MTJZM0JpZFdkUmRWWklTWFYzUkY4d1JrRRAB",
+            "text": "Came here for the first time today after a friend recommended it and I’m so glad I did! The staff were super friendly and made us feel really welcome. The salad was super fresh, but my favorites were definitely the kimchi fries, and the chicken sandwich — sooooooooooo good!\n\nMy friends and I spent about $70, so around $25\neach. For NYC, that’s honestly a steal. We usually end up spending over $50 per person when we eat out, so this place felt like great value.\nIt was a bit crowded this afternoon since they seemed pretty busy, but honestly, it added to the cozy vibe. You can tell it’s a popular spot, and now I know why. I’ll for sure be coming back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210dWRVOWlhblJRZG5kNmNVOXdVVGxJV205V2QwRRAB",
+            "text": "Nice service, always seat available.\n\nThis café feels like stepping back in time, vintage décor, warm wooden tables, and soft music playing in the background. The food absolutely delicious. Their avocado salad and toast are a must try.\n\nAnd just when you think you’ve seen it all, there’s a hidden back garden outside they even serve Devoción coffee, my absolute favorite coffee in New York, rich, smooth, and unforgettable.\n\nThe staff are genuinely kind, always greeting you with big smiles and even bringing your food right to your table with care. Pro tip: don’t forget to leave them a tip, their smiles deserve it, and it might even make your coffee taste better"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5bWJtaERSVzFmYTA1eVpXRXdhV0V0VTFwYVZsRRAB",
+            "text": "Rude customer service, uncomfortable place to get work done where the employees will ask you to get up to make space for other people, or try to rush you out."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JNVlqbFFRbkp6UzNSVmFuUTRRelJHVjBkeFlVRRAB",
+            "text": "Loved having my matcha bubble tea at Bee Cafe in their outdoor area! It was lovely with the roof allowing us to enjoy the sunlight and breeze away from the bustling of the street. Great spot if you want to enjoy your coffee while working on something. Hope to come again soon!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCMFVuVXpXazFpY1hkcWRsVlRiVXMyT0U5SWJXYxAB",
+            "text": "Sometimes you really should believe the reviews. I was hesitant to visit due to the bad reviews but everyone was right. The only thing nice about this place is the seating areas.\n\nThe food was so underwhelming!Barely served any fries with the burger. The espresso was not calibrated at all. And then one of the staff members (male cook?) kept coming to the back patio staring at everybody, would text a little on his phone, and then disappear. He did that about 6x. The energy was off and weird. I will not be returning.\n\nIt’s a shame because the environment was nice and you can see the effort put into the decor but that effort needs to be put into your staff, food, and barista skills. I also took a look around and saw multiple people left their full drink on the tables, left and never came back for it or would throw away half their drinks. Save your hard earned money for something better"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsM2VqbGxVek53Um1wSVgxYzNjbk00TUhCclFrRRAB",
+            "text": "This is a really cute, local spot, great for a work session or a coffee date. The coffee and tea is fairly decent and the food is okay. I would rate this business much higher if it weren’t  for the fact they nickel and dime their customers. There is an up charge for iced drinks of up to $1. Ice. They charge $1 for a handful of free frozen water. This is symptomatic of a larger pattern in their menu. Indeed when I’ve asked for a fork I’ve been surprised they didn’t try to charge me for it.\n\nSuch things are indicative of both poor customer service and an exploitative attitude towards consumers. It’s ice, not saffron or truffles for goodness sakes.\nIt is a pity because a lot of thought has clearly gone into the cozy atmosphere here, but the up charges leave a bad taste in the mouth."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRlUzQkpMVTlUT0RKT1FVc3dORUV5V2tkMU5IYxAB",
+            "text": "The atmosphere of this cafe is cozy and good vibe but 7.25 for large iced americano was really shock for me."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsWVduY3RkVWhaVUhKWVJFNXRhblpJTkhaVVVGRRAB",
+            "text": "You will want to experience this unique oasis in Woodside. Staff are friendly and quick. Cafe menu is unexpectedly diverse ranging from fresh pastries to more hearty brunch faire. Drinks including full coffee options, boba teas, fruit based slushes and spritzers and also some beer and wine choices. Decor is imaginative and light. Many small nooks with intimate seatings. Don't miss the back sun room, magically sunlit and breezy, even on stifling summer days"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvd05rOXdSRk54VDNKTGNGWjFOV1JFV1U5M05sRRAB",
+            "text": "favorite place for strawberry matcha!!! by far!"
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTlNGZ3RMVkJrV2pOV2RUZFRXVWhXUXpCRFZXYxAB",
+            "text": "Parfait, délicieux, très sympathique.\nAllez y les yeux fermés."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1WVVrcGtjVkl6WDJ0RVpuVXlNMHhKY2xaQ1VrRRAB",
+            "text": "Great spot. Food is great and the staff has a great energy."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMakw3SjlnRRAB",
+            "text": "Great cafe, bee"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OM1NEUTJNbDltUVZSWlJrUklZVFZOUldod1dWRRAB",
+            "text": "Great spot and hideaway!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ObE5uWXpUaTFNUXpKWWRERnRWMGd5T0doWWIxRRAB",
+            "text": "Second time visiting here. Both experience were perfect! This time, we ordered Avocado Toast, Salmon Bagel, Ice Latte, Iced Dirty Chai, and Creamy Shrimps.\n\nI specially like the vibe and the coziness of the place."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Oa2VFVXhSMnA1YVdnNVVWSlhNblZoVDFWTWNFRRAB",
+            "text": "Oasis for the summer in the heart of Queens."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxTE9XNXpSM0p5VlRsSlgwZHFaM0p3VWpWR1QwRRAB",
+            "text": "Stumbled upon this cafe while looking for places to study. The vibes were perfect!! They have a large space in the back with sunlight/AC, multiple outlets, lots of tables including picnic tables. There was gentle jazz playing and overall it was the most calm, quiet and peaceful place to spend a Saturday doing work.\n\nWe got the matcha lattes which were delicious! Later we had calamari as a snack, super crispy. Would come back here to study again!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCZlp6TndTVTlaTVZCR2J6UTRXVlZoWDJvNVkzYxAB",
+            "text": "I recently visited this coffee and I was immediately impressed by the decor. The place has a beautiful and stylish interior, with modern yet cozy touches that make it feel like a perfect spot to unwind.\nThe decor is stunning! The combination of warm colors, contemporary furniture, and tasteful artwork creates an inviting and relaxed environment. Whether you're there to work or just hang out, the vibe is spot on.\nThe staff was good\nI ordered an iced coffee, and while the flavor was intense, it was almost too strong for my taste. It had a very espresso like quality,. I also tried the smoked salmon sandwich, and it was quite good! The ingredients were fresh, and the flavors worked well together, but I would have loved it if the bread was a bit softer."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVlptTjRRbXN3UVhZNFkxWm5WbUl0Y3pGcmIxRRAB",
+            "text": "Amazing place — highly recommend!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrd1FqUnVYM0JvYm1wTkxYYzFXbVZLVVhsa1JuYxAB",
+            "text": "One of my favorite places in Queens, point blank period! The kimchi fries are a MUST-HAVE!!!!! And I blend Peach and Mango for my slush and I'm the happiest Queens kid ever (ESPECIALLY because it's not unbearably sweet). The chai latte is mad good too.  The panko fish is breaded just right and I got mine with a delicious salad instead of fries since I usually order kimchi fries (a MUST...I repeat).  The back dining space is so lovely too."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSa2NsSkZVVW94WkRSV09GUmpjbFZhWVVndFZHYxAB",
+            "text": "Good vibe. Great for chilling + hanging out with friends."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGa1FrTkVaRVl6WkMxVlRESnliemhDVnpOR1VWRRAB",
+            "text": "I don’t understand how this  coffee shop stays open during the summer in high humidity 85+ degree weather with NO AC!!! I called to ask if they fixed their AC and they lied saying “yes the AC is on” so I took a whole taxi to this place to get work done only to find out they only had one small fan pointing towards the register and the roof fans blowing HOT AIR! — don’t recommend at all !!!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210RlNIRlNWekZhYTBGU1EyOVJWVTVmVlhkQ1RsRRAB",
+            "text": "Cute cafe. A great spot to either hang out in or to get some work done.\n\nThe food is always delicious and staff has always been friendly.\n\nI’ll come through for a breakfast on the go when possible, but the ambience is so nice, it’s worth it to dine in.\n\nI honestly prefer this cafe over any other diners or coffee shops in the neighborhood, since the only other ones I like are in Sunnyside or Jackson Heights."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRFZtMVBXRkZ2V1ZkbVJtUmxVRVF5TTBKR1YyYxAB",
+            "text": "I love the place. Its ambiance, location and coziness specially the outdoor area at the back. I could stay there the whole day. The new matcha strawberry latte is a must try. I highly recommend this place."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWR1ZucFZUbkY2ZW01dlVGSTVjRGx2YkZCUVUxRRAB",
+            "text": "delicious drinks, food, and cute touches that make the whole place so cozy! the plants, the book exchange, and the staff make this place warm and inviting. hands down my fave matcha in the area. you can't go wrong with the breakfast sandwich or crispy chicken sandwich too. don't forget to tip the staff! 💓🌱✨"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOaU0yOXplbnBrTjNkU1owRkxkVGRYUjNWNWNYYxAB",
+            "text": "Didn’t whisk the matcha well it’s clumpy and not smooth"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4WWNqZFdSVlkyZFRGT1ZYZHZWSFU1ZW1kd1NIYxAB",
+            "text": "Great coffee and cozy cafe, we be vibing!"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmenZmMVFREAE",
+            "text": "Great back area and love the atmosphere!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VNVGlpcmZGM2Z6cGdnRRAB",
+            "text": "Cute cafe with a book exchange. Coffee looks good but don't get the bubble teas. They're just from powder"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJZWd2TnlaNmJYOHJBRRAB",
+            "text": "Super cute, great place to work/study, good drinks, great atmosphere (lofi)"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQemtocDJzNmM2d093EAE",
+            "text": "This is a great place that deserves 6 stars for atmosphere. The owner and staff are friendly, and the food is good. If anything I wish they'd expand their menu a little. Otherwise they're great. Their coffee is very good as well. All in all a very enjoyable place to visit."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPV3dub3FNdEtEOUF3EAE",
+            "text": "Great outdoor place, average food. Great place to hang out with friends."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNDR2Mm5nRRAB",
+            "text": "Nice corner coffee shop with seating (and attached laundry mat; great idea).\nOrdered the matcha strawberry latte - not usually a fan of these kind of drinks but it looked really good so I ordered it, and glad I did. Strawberry sauce with real strawberries and not overly sweet, milk, and a matcha cream. I liked that it wasn’t filled with too much ice. Didn’t order the pastries but they looked good."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcFpTY3ZBRRAB",
+            "text": "The best strawberry Matcha latte I’ve ever tasted in NYC. It was so delicious."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvNnB5c1NBEAE",
+            "text": "A very chill and relaxed cafe. It's a great vibe and the food and drinks match in quality. I went during work and as a nanny it's refreshing when the staff is nice and friendly instead of dismissive and annoyed by the presence of a child. The strawberry matcha latte with just water instead of milk is how I got my drink and it came out perfectly."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMC1DY1dBEAE",
+            "text": "Gorgeous vibe as soon as you walk in the door. Cozy music makes you want to lounge back and stay all day. Can't say enough good things about it! Just what I needed today!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvamRmbnVBRRAB",
+            "text": "Brah 11/10\nThe mango cocktail we had was gas.\nThe fried calamari was heavenly\nChicken sandwich slapped.\n$50 for a lot to eat and drink for 2 was worth it."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvc2NtNDZnRRAB",
+            "text": "We got the strawberry matcha and watermelon slushie. The strawberry matcha was good but the slushie was straight up syrup and ice blended. No hints of actual watermelon and was overwhelmingly artifical tasting. The place is super cute and rhe service was great so this was kind of disappointing."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMTdyOTZBRRAB",
+            "text": "Great service. The cashier was friendly and nice she recommended the new strawberry Matcha. It's really good."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJNk5tVzV3RRAB",
+            "text": "This was a great study spot with plenty of outlets, free wifi, and great food and drinks. The service was also very friendly and fast. There’s a bathroom. Overall great experience here. I would recommend the lychee boba and the fried calamari from the menu."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaNDVUTk9REAE",
+            "text": "It is a pretty chilled and quiet place to chill and get your study/work done. They have a great outdoor and indoor seating section.\n\nTheir food is also good and in good price. I tried the Avocado toast and it was good. Plus took the smoked salmon bagel and it is also another good option for brunch"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUXzZMWUhnEAE",
+            "text": "The avocado toast was not as good as many other places I have been to, but I'm still inclined to give it a 4 ⭐ because it's better than \"it's ok.\"\n\nThe matcha latte was borderline \"just ok.\" I saw the person take out a bowl, so I thought, \"ok good it's real matcha that they are going to grind.\" Later on, the drink came out and I thought it did not look green enough, and there was not enough of a matcha taste.\n\nThe interior decor was cute, even though most plants were plastic.\n\nSo, I would say 3.5 ⭐ for food, but I'm going to say 3 ⭐. Nevertheless, the cute decor and service were good enough that I would give 4 ⭐ overall."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYX3ItYUxBEAE",
+            "text": "I ordered the kimchi fries, mocha, and passion fruit boba tea! Everything was delicious and I especially loved the kimchi fries! It’s definitely worth it for the price as the fries have a perfect amount of crispiness and tangy spice(?). They have a great indoor seating (I stayed here for a few hours to study) and the Halloween decor is so fun! Next time I would love to try out the new specials. I would definitely recommend this place!!! :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqOV96TkJBEAE",
+            "text": "The purpose of this review is not to hate or harm this restaurant in any way, shape, or form. That being said, I hope you take this review as an informative review.\n\nAtmosphere: The decor in this place is remarkable and well organized. It has good lighting and is pretty clean. It was also interestingly odd to see a connection with the laundromat next door. I'm not sure if that was a great idea, especially because it seems like this restaurant wants to stand out in the area.\n\nService: Acceptable\n\nFood: This part was not really what I expected it to be. I mean, the quality is there. Ingredients seem to be fresh. However, the flavors are not quite there. At least, that's what I experienced with my order. I ordered the Bee Breakfast Sandwich, the Double Pork Buns, the Crispy Spring Rolls, and the Tiramisu. The sandwich was okay, just that, there's not much to say about it. The pork buns were small, not much meat but fat. The spring rolls were better than the rest of things I ordered to be honest. Finally, the tiramisu was average.\n\nPrice: If both, quality and flavors were really good, prices wouldn't be a problem. In this case, the lack of flavors does not compensate their prices."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5dmJhVXVnRRAB",
+            "text": "The back patio is filled with fake flowers/ plants, and the smell of laundry is noticeable.\n\nI didn't see any outlets on the patio.\n\nThe croissant was a solid 2/5. It felt like the croissant was sliced in half of microwave with the ham and cheese. I was disappointed . The ham had a lot of inedible bits to it.\n\nThe coffee tasted burnt. The espresso shot wasn't pulled nicely.\n\nPlace could be cleaner.\n\n40 minute dining in limit signs were posted around the place. Not sure if enforced."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBNFB6cVVREAE",
+            "text": "I hosted a co-ed baby shower at Bee Cafe’s enclosed garden space. We had around 45 guests (adults and children) on a Saturday afternoon. The food was amazing. Yonglin, the owner’s daughter, was very communicative throughout the whole process and checked in consistently and advised on menu items. Everyone complimented the food especially the pork buns, kimchi fries, empanadas, and takoyaki.\n\nI would gladly host any future parties or events here. My sister loved the space! And the garden nicely decorated, airy, good for photos during the day."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIZ09uc19BRRAB",
+            "text": "My first time here and I will definitely be back. The back garden atrium is so charming and peaceful. Great space to work though I wish there were more outlets back there so you could work from more of the tables. The food was yum, I had the burrata and mushrooms and sage..loved it. The coffee was tasty and the staff here seem friendly. It was clean and tranquil. I can’t wait to come back try more of the food!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSMS02dWpnRRAB",
+            "text": "Was looking to get some coffee after dropping some clothes off at the Salvation Army and found Bee Cafe across the street. Im glad I found this place! I love the relaxed vibe and the warm feeling that comes from the wood finishes. I got a…"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHOWNuVm5nRRAB",
+            "text": "This is a really lovely cafe, and the nicest I found in the area combining good atmosphere, comfort, tasty snacks, and good coffee.\n\nThe whole space is decorated with living plants, and in addition they have a very cozy seating area on the sidewalk with couches and all. The buns were crazy good with crispy and fatty pork, and the coffee is good. The Americano was a bit watery, but that's easy to fix. The staff is friendly. The laundromat next door makes it for a convenient 1-2 combo."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4OWNqS2RREAE",
+            "text": "Great little coffee shop. Beautiful atmosphere. Fast service. You can do your laundry next door.\n\nI was not asked if I wanted my macchiato to go, but I didn't mind spending a few minutes there to enjoy the atmosphere."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2eHJfTnVBRRAB",
+            "text": "Literally such a beautiful, cute and aesthetic place. The food was great as well as the service. The employees there have a great and chill vibe. I realllyyy wanted to be friends with them! Even the manager was very involved! They knew exactly who to give the food to even though you go to sit in a completely different room. I would definitely come here again! Even when I was about to leave (fearing that I sat there too long), the manager told me \"No it's ok! Sit here for 2 hours if you want! You guys are all VIPs here :)\"\n\nTry this place!! Promise you won't regret it!"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHOHAzYXhBRRAB",
+            "text": "I had the almond croissant and hot chocolate , which were both very original and a great choice! The space is very cozy and cute. The menu looked so good, I will definitely come back to try some other choices."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJallhNUNREAE",
+            "text": "Oh I adore this place! The interior decor, spacious environment, plenty of outlets and a menu that goes beyond sweet pastries (they have savory meals!)\n\nI'll come back here in a heartbeat."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPaGF6Q2Z3EAE",
+            "text": "We move this little place around the corner from us! They don't have tons of food, but what they have is well thought out and delicious, especially the pork buns!!! The atmosphere is calm and quiet, which I like, and they have a nice indoor seating area and also very nice outdoor seating. We love their coffee and their bites and the employees are always nice, offering good service. Would highly recommend this spot!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtMHZDcy1BRRAB",
+            "text": "I really like Bee Cafe’s vibe. It’s very aesthetically pleasing! I love the indoor decor as well as the garden in the back! It’s a perfect place to study or just chill with your friends. The drinks and food are delicious. The kimchi fries…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqaGRlbHdBRRAB",
+            "text": "It was my first time visiting bee cafe. I order the chicken wings and salad with chicken. I was shocked by the environment and the atmosphere here! The magical bee garden. The staff was very friendly and the service was very enthusiastic. After tasting it, I felt that their food was very good. Very worth to try."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKMWFEMW13RRAB",
+            "text": "If you're looking for an exceptional brunch spot, look no further than this establishment. The Cafe Mocha is a delightful blend of flavors, perfectly complementing the delectable Chicken and Beef Empanadas and the mouthwatering Avocado toast. The combination of delicious food and inviting ambiance creates an unforgettable dining experience. The carefully curated music selection adds an extra layer of enjoyment, making it a place worth revisiting to explore the rest of their enticing menu offerings."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHc3JXeEpREAE",
+            "text": "It was my first time going there for a brunch! The place is beautiful and has a very cozy feel to it. The outdoor seating is great too. The menu is short and sweet not too many distraction. Overall had a good experience and the food was…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3MnN1azRRRRAB",
+            "text": "This place is the best hidden gem located right off of the Woodside train station.  The drinks are amazing and the sandwiches come with fries 💛.  Lots of seating in the back, large tables with access to outlets. Also pet friendly!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGejcyMmFBEAE",
+            "text": "I had a wonderful experience at Be Cafe. The spacious atmosphere and friendly staff created a welcoming environment. The reasonably priced drinks and delicious food added to the enjoyment of my visit. In my opinion, it’s one of the best cafes I’ve been to. I highly recommend it!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWNV9fRDZ3RRAB",
+            "text": "I haven’t tried the dishes yet, but I have tried the pastries and they are all very good. Nice tasty coffee and matcha. The place is super cozy, difficult to find sitting in the afternoon with big groups but you might find a spot if your group is smaller."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5N3NxR3hnRRAB",
+            "text": "The ambiance and atmosphere is incredible, lots of greenery and even a cute lending library. The Dirty Chai Latte was incredible and the chocolate croissant warmed up was delicious."
+        }
+    ],
+    "reviews_count": 73
+}

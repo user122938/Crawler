@@ -1,0 +1,656 @@
+{
+    "name": "Rolo’s",
+    "place_id": "ChIJWUhoPQhdwokRYsDwo5qMnMU",
+    "grid": "QN5",
+    "address": "8-53 Onderdonk Ave, Ridgewood, NY 11385, USA",
+    "rating": 4.5,
+    "user_ratings_total": 1651,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "수정일: 2시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KU1MyeE5PRWs0UlU5Mk5uaExSRlpKWW1zdE1tYxAB",
+            "text": "Posting this review without reading other comments.  I am not influenced by others.  The food was amazing!  The two layer lasagna was delicious. The crispy potatoes were delicious. The bread was delicious.  The service was quick, kind and accommodating.  Make it a must try."
+        },
+        {
+            "date": "8시간 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKa1N6TjRlazFJTTI4MldrSkhabGQ2TjB4TWJsRRAB",
+            "text": "Doesn't live up to the hype. There's much better options at this price point with a similar vibe.\n\nLike some other reviewers have mentioned the small plates and breads/dips are better than the main dishes.\n\nThe skirt steak was disappointing, I cook steaks much better at home. The waiter said they lean rare but it definitely came out more medium than I was expecting. The sear was okay at best.\n\nWe came for my birthday and they didn't do anything to make it feel special. Overall, a let down experience.\n\nI won't be coming back. Surprised this place gets booked out so far, just one of those social media driven restaurants I guess."
+        },
+        {
+            "date": "10시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0NExVWjNka053WjNCMFppMVVSRTF3WjBSb2VrRRAB",
+            "text": "Excellent service and a warm atmosphere."
+        },
+        {
+            "date": "수정일: 21시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFdFh6Y3ljekpmZFROdWMzbFNTWGcxZWxoZmFIYxAB",
+            "text": "That burger is seriously good. Get that and the potatoes with the war sauce"
+        },
+        {
+            "date": "1일 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TVoyVmtSbkpOYVVkM09VaFRORGMxWVZsV1MxRRAB",
+            "text": "Bardzo fajne miejsce, polecamy!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sUU5HczJVemhLWXpoV2JWZEpZbDlyTFZkbWVIYxAB",
+            "text": "Wonderful food, great staff, no wait!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5WU5XWmljekUyWDFSdmMwVmFNMkZKYVdocVVrRRAB",
+            "text": "Went for the lasagna hype but ended in love with the sweet potato capeletti"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVmVsSmlZakpZTmxWak0zQXRNelJtTkdnek9FRRAB",
+            "text": "This is a really nice restaurant"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3Mk56VlJSVkZyU0hKdGRFVktMWEo1VGw5dk9GRRAB",
+            "text": "A great place to spend time with friends or family. Highly enjoyable!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaVVp6VmpWR1pDV2xOVFNESkliRXN3TURWd1JsRRAB",
+            "text": "The burger here is genuinely out of this world"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sdlZWZFlSa1JqZG1NMlFrOHpVM05HWjBOTVNVRRAB",
+            "text": "The salad was inedible due to the amount of salt in it.  The polenta bread was good, but again over salted.  The better were oversalted as well.  The malfadine pasta was correctly salted.  The service at the bar was good as were the well drinks."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WMmQxTktiMkZuVTFWTE9WaGxjR0Z3TW14SlZrRRAB",
+            "text": "Worth the hype, highly recommend sharing a few dishes if you’re visiting with a small group! Drinks were great, highly recommend the carrot drink for mezcal lovers."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taQ2JDMXBjMWRmV0RWWVFYRjZjMlZ0Wm10elQyYxAB",
+            "text": "The lasagna was really good! The sweet potato ravioli bomb! but this prior to getting drowned in salt from the polenta bread and the stracciatella it honestly ruined the whole meal for me but thank god for the beet salad and of course the concord cosmo which was out of this world!\n\nxx"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21adlNVVmtTR1l0WDFWeWFWcEJiVzVDV1VobmMxRRAB",
+            "text": "Great service, excellent drinks"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NeVQxQklPR2MzYW1nNE5IUlVhSFZxYmxWT2VrRRAB",
+            "text": "great food"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGcFJEVXhUV1ZZZUZCalR6aFFWek13ZVRSVE0xRRAB",
+            "text": "I’ve been to Rolo’s about five times now, and every visit has been fantastic. The food, drinks, and service are always top-notch. The sheet lasagna is a favorite rich, flavorful, and comforting. Their bread, especially the Calabrese, is incredible, and the cocktails are perfectly balanced and creative.\n\nFor the first time, I decided to try the Wagyu steak. Unfortunately, it was a miss  chewy and definitely not what I’d expect from Wagyu. Thankfully, our server handled it very professionally and removed it from the bill.\n\nI’ll absolutely be coming back to Rolo’s, but I wouldn’t recommend the Wagyu. Everything else remains excellent one of my favorite spots in Ridgewood."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paVFNGSk9UM294YWpoWWJXOTJiRVJmUzJVNVRsRRAB",
+            "text": "I want to like Rolo’s, but Rolo’s won’t comply. The food is good for what you pay- not stellar, just good. I don’t feel  either super- excited or disappointed. The atmosphere is basic grill-vibe: darker tones, muted. Neither too noisy nor quiet.\n\nBut...the killer is the attitude. I simply don’t get it. Entering Rolo’s is a lukewarm affair. So help me sweet Jesus the host person did not say a word- nada- to either me and my guest when we entered, or when we left? That was so incredibly off-putting. “Hello” and “goodbye” are not difficult to articulate. And it speaks to the tone set by management.\n\nOnce inside, the vibe is very much “hurry up and eat so we can flip this table”. Forget having a leisuely cocktail; your entree will be on the table within minutes. I mean- we did NOT order wine as planned because our table was loaded with starters and entrees before we’d barely finished our drinks. Staff munches on food by the kitchen- okay, not. I was afraid to put my fork down for fear my plate would disappear.\n\nRolo’s is not what it pretends to be. I have eaten here perhaps five or six times. It’s apparently succesful financially. I’ve dropped my last dime there. Ridgewood has so many new and inviting establishments."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0eVoyVjJSRE5OZVdVd2VtdzVZMmxOTUc1bmFVRRAB",
+            "text": "Visité este lugar para un buen “milking,” pero solo lo conseguí comida muy esalty, caro y superficial.\n\nComo puede ser que había un plato en la carta que se llamaba “deconstructed hummus” y solo era chickpeas con sazón….\n\nencima de todo es más caro mandar un chico con problemas mentales escuela en miami…."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214NFFXZHBkRTFoYTJKTmVqaEJMVmhDZVhOeVNFRRAB",
+            "text": "Food is wayyy too salty and incredibly overpriced. Atmosphere is uber pretentious. Eg, waiter called their chickpeas “deconstructed hummus”, they have a “nerdy” wines list? Only non-locals come here. They should relocate to Williamsburg or Greenpoint."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aMFRqRkJabTlvWlRkSlZrRjNkVXRvYlhwNVRuYxAB",
+            "text": "First and foremost, I’m a fan of Rolo’s. It was our third visit, but tonight was a disappointment. food was okay. It didn’t quite meet my expectations, but it was still passable. However, the service was the main issue.\n\nOur server, as soon as we sat down, instead of asking if we were new customers or introducing herself, simply said, “Hi, there’s no update for the menu tonight, so let me know when you’re ready.” She then walked away. We’re quite easy customers; we don’t have any allergies or preferences. We ordered within five minutes without her help.\n\nAs I mentioned, the food was okay, but not great. However, when our server checked on our table and asked if everything was okay, I was in the middle of answering when she was already gone. She just asked and left, not waiting for my answer, not even for a second. She was literally gone. I was talking to myself.\n\nAt that point, my old work habit kicked in. I had trained many servers and managers, so I decided to see if she was doing her job.\n\nDid she ask for takeout leftovers? Yes.\nDid she ask why we didn’t want to take home food? No.\nDid she offer dessert menus? No. (I even left a memo saying it was my wife’s birthday. I would prob ordered dessert only if she offered a menu)\n\nAs a fan of Rolo’s, I want them to be the best, so I won’t leave a 1-2-star rating. However, I genuinely wanted to leave a 1-star rating tonight. I hope Rolo can pay attention to this issue and improve their service, which they truly deserve."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBeFozaGxWVXBoTkVReGJHdGZlVkEyWlhNd01XYxAB",
+            "text": "worst pizza and falafel sandwiches, excellent IPA selection, creamed corn app sucks"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oUGJXdGtjMGREVGxOdWNqWnRaM0ZoUWpWV1ozYxAB",
+            "text": "I recently celebrated my birthday by booking the large table at Rolo's, and was so impressed with all aspects of the experience. The Assistant General Manager Nicole was friendly, communicative, and very accommodating of some dietary restrictions of my guests. The menu had a lot of delicious options for us to choose from, and on the actual day of the dinner the food absolutely exceeded my expectations. The bread with chili butter, jimmy nardello peppers, and trout were all particular favorites. The service people were all bringing good energy and special shout-out to the somm who spent a lot of time discussing wine with my dad and another guest, which was a highlight of their evening. Really couldn't have asked for a better experience to celebrate a milestone. Very excited to be back at Rolo's again soon."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRNVp6Uk5RVkZxV0hOdmNVdGlSbXhaTW1WdFFWRRAB",
+            "text": "I was here to celebrate my birthday and my father and brother wouldnt stop talking about this restaurant, especially about the famous \"rollo burger.\" Its worth the hype I would come back for the burger alone, ontop of the other food. Service the food the ambience all well above expectations, well done."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CS01ucE9kVUkwZFRKTE9VVkRPRTVCYTBseU5FRRAB",
+            "text": "Food and service were good but spent a lot and left still hungry."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WR1pVdElkRXgxT1RkM2VGVkZjbWxzWWpsVVVVRRAB",
+            "text": "The house dry-aged steak was really good, like one of the top five steaks I have had. Side dishes were a bit too salty for me, especially the greens. Calabrian chili butter polenta bread was also delicious.\nStrawberry almond tart was just okay. Service was excellent. Casual ambiance. I would go back."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVNVJYRXpRbk5OU1dVd1VHTktjRlV6Y1RSQ1IwRRAB",
+            "text": "Great food! Absolutely worth the hype. I would try their breads.\n\nDidn’t get a chance to try the burger yet!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psS2NXaDFRblo1WTI1eFVXcDRjMnBpWjNjd2JtYxAB",
+            "text": "Sold out of burgers for a 5:15 reservation…bit of an odd way to manage inventory when it’s one of two items people get here."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVFpWRnlWa0poYjBaalpuWkxiRmRIUzBGTmVGRRAB",
+            "text": "The staff here is top tier, so friendly and attentive. The lasagna was insane, the cavatelli was amazing, and the polenta… honestly, it doesn’t even matter what I say because everything was out of this world. This place is just amazing from start to finish."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkRFN6SjRVMEpYTVhjMFozRjVOVmg2TFZKcFQyYxAB",
+            "text": "🍔Burger was phenomenal!!! Served only during brunch but worth ALL the hype. Also that carrot mezcal drink was *chefs kiss*🥕"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oR1oyNXFZVWRSWTFCNWMycG9lSGgxUW5sTlluYxAB",
+            "text": "This may have been our bad, but we travelled over from far to experience the Rolo’s food we’d heard such good things about for a 1pm lunch on a Sunday, only to find we could only have ‘brunch’ and in this case it really lent on the breakfast side, with what felt like most dishes being some form of egg. It was pretty disappointing when particularly a lot of NY restaurants that opt for brunch on weekends still give a good ‘lunch’ selection. We went for the skirt steak which was the closest to lunch vibes we could get, but unfortunately this was pretty underwhelming- lovely steak and radish salad underneath but the whole dish was smothered in sauce and way too much Parmesan-like cheese which completely swamped all the other flavour. It was a bit embarrassing scraping the cheese off. Not the best experience but I’m sure we unfortunately didn’t get the best this restaurant has to offer"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sweWVFOWZTVFZYWVhCa1EyczBOVU5xVEV0UFUyYxAB",
+            "text": "If you're used to food with no flavor/seasoning then maybe you'll enjoy it here. I ordered the war fries w sauce on the side, salt n pepper shrimp and my partner ordered the pasta with the corn. After an hour of waiting for food, not one dish had any flavor. We waited an hour for our food to get to us and even then he forgot my fries. Then when he brought the fries and forgot the sauce.\nWhen i was ordering we had an extensive conversation about the flavor of the war sauce and how i should get it on the side. He repeated it back to me twice but when i mentioned he didn't bring the sauce sauce he goes \"you wanted war sauce?\"\nFine, it was busy. But then he tied to lie and say that's not what he wrote down. Good thing i did get it on the side bc the sauce was nottt good. They're regular fancy sauce was also not good. Shrimp was flavorless, pasta was meh. Really wish i had skipped this one. $150 for things i could have made better at home. The crab dip (featured in picture) was the best dish of the night. Bread was good texture as well."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBMFlsSlFVR2xvZUd0V1ZIRnZha2wwYWpKNFYzYxAB",
+            "text": "Outstanding food! Each dish was perfectly prepared and though the dishes are familiar, they’re so exquisite it’s like trying something new."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOVWNWVnlOMmhHU1ZjME1XY3pka3RLT1d3M1RYYxAB",
+            "text": "Service was not good at all. Slow. Waited 20 minutes for a cup of coffee. Steak salad was very mid. The steak was cold and the salad was a salt lick. I get that brunch menus are small but at least actually have what you offer. I got the Mrs. Crispy but they had no ham. Although the server told us there’s no ham, would it kill someone to run across the street and get some ham, maybe offer bacon or steak instead or pull the whole thing off the menu and offer something else. I’ve had dinner there before and it has been great but do not advertise this as a brunch place. Nothing brunchy about it. Very underwhelming and pricey for what we got. Disappointed to say the least. Unfortunately, because of this brunch, I won’t be going back."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJME0waEZTbUkxVlVGTFJGWjVTV3h1TTJjMVVVRRAB",
+            "text": "Fantastic!\nWe’ll be back\nHip place with really good food"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsak9IbDZZa2RLYURCQlkwRlFWVjkwVEVNNFFsRRAB",
+            "text": "I’ve had Rolo’s on my list for a while, and it lived up to every bit of the hype. The space has a warm neighborhood feel but the food and service are truly next level! Everything we ordered was outstanding!\n\nThe wood fired polenta bread with Calabrian chili butter was a knockout. Soft, flavorful, with just the right amount of heat. The flavors from the wood fired oven gave it a subtle smokiness that made it really special.\n\nThe cheesy potato croquettes were divine, warm, gooey, and incredibly comforting. Think the best version of a mozzarella stick, but with potato and better cheese— who wouldn’t love this?!\n\nThe fluke crudo with carrot vinaigrette, serrano, and pumpkin seeds was bright and punchy, with pristine fish and beautifully balanced flavors. The fluke was great quality so it’s clear to see Rolo’s really cares about souring quality ingredients. The ricotta cavatelli with creamed corn, pecorino, and black pepper was another standout. The pasta had the perfect bite, and the sweet corn flavor was so pure and lovely that I kept going back for more.\n\nWe also had the two sheet lasagna verde bolognese (beef and pork). It was rich, hearty, and had that delicious wood fired taste. I found the salt a touch assertive, but my husband absolutely loved it and called it one of his favorite dishes of the night.\n\nThe crispy potatoes war style with their homemade sauce deserve their own applause. They might sound simple, but the combination of peanut sauce, onions, and kewpie mayo was unreal. The fry on those potatoes was perfect, and they even stayed crispy when we reheated them the next day.\n\nDessert was bread pudding à la mode, solid but not my favorite of the night, which says more about how exceptional everything else was.\n\nThe spicy pineapple margaritas were phenomenal. Perfectly balanced, fruity, spicy, and not too sweet. I had three and would have happily had a fourth!\n\nAnd the service? Flawless!!! Ask to sit in Atticus’ section and trust his recommendations completely. He was friendly, attentive, and clearly knows the menu inside out. I told him I wanted the dishes that truly impress, and he delivered on every single one. I love a nice person and he was truly very kind!\n\nRolo’s is the kind of restaurant that reminds you why you love dining out, with fantastic food, amazing drinks, and service that makes you feel taken care of. I can’t wait to go back!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sNmF6VlFibTAzYUVaV1ZYbHhaM0YwVDJ4SE1rRRAB",
+            "text": "I traveled 1hr+ to go here for my birthday dinner. This was my second time going.\nI really had a nice steak the first time.\nThis time they said they ran out of steaks at 7pm.\nI just wanted a Ribeye on my birthday.\nIs that too much to ask?"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VdFkwTlBaM0F6VlZsUVJHNUpWVmR4ZWpka1UwRRAB",
+            "text": "Worth the hype"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsaVdHOXNaR2gwUTNsck5WVkliVmh6WlhCUU5FRRAB",
+            "text": "My FAVORITE restaurant!! Seriously every dish has such deep flavors and love the wood fired element. Everything is so fresh, from the pasta to the steak dishes there are literally no misses. Lucky to try the burger and it met every expectation. Literally run here"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25odlZGTlpWVzVTY21oVFdYaFNNVUU0ZEdscWJXYxAB",
+            "text": "Amazing food and the Dishes are easily shared, which I recommend. We were lucky enough to  get the mouth watering burger before running out…wow!!! Lasagna verde … amazing! Polenta bread w/ sesame seeds and wild oregano… oh my !!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsWlFWcG1NbVJHZW0welFVWTFRVFZ2ZFdWb09FRRAB",
+            "text": "Walk in or reservation. It’s incredible food, cocktails are refreshing. Get the War Fries!"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwdVp6TmtnRRAB",
+            "text": "Way underrated in almost every aspect."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OSE4zQjNVMnRwVUZoR1YybzJiRUZEU3pWUlZrRRAB",
+            "text": "That Chef named Nadine is the best in NYC"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscWQxazNUVmx2WnpOcmFWRnNiRGRsYVhKWlkwRRAB",
+            "text": "dont go out of your way for this place, but its good food. come at 8:30pm and no line"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4MFZXYzNUVTl2VUZjelFrMTZSRGN5Y1ZGb2VWRRAB",
+            "text": "A simple, good burger. No further comments needed."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZeFZFSnZaak14VDJaSmJXOTZORmxZYVMwM1ZYYxAB",
+            "text": "the best service to go with the best burger."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taQ1dEWnJaakZXWm1kV2VrUmtiekZ5ZGpKMWRYYxAB",
+            "text": "good ideas"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWUmRqQkpUR1JZYUZSMmJ6VklXa0ZpUW5JeFdHYxAB",
+            "text": "Best bread in NY"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVGNtbGZNVUpHVlVSR01FOVVlVTUxZVRWa1dHYxAB",
+            "text": "Charming ambiance and good place for group dinner. This place is super famous for the 2 sheet lasagna but personally I was not a fan, instead I found the ricotta cavatelli pasta to be the star on the menu — also loved the almond tart (aromatic and nicely presented). Skip the skirt steak (prime cut is better) and polenta bread with calabrion chili (take sesame & wild oregano instead). Very kind staff: Hunter was exceptional with service and made us feel very welcome !"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ka1QzTkhMVTFSWlhaMFFYSlljV293TlRsTVpVRRAB",
+            "text": "I had a spiritual experience here. Thank you, Rolo."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OV1UxOXFVRlJZVG5wVGF6WmlOWFJDVlU5Q1ZYYxAB",
+            "text": "Incrdible meal. The Bolognese was amazing, the entire team here was great! Pricing is very reasonable given the quality of the food."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiNGJfQzR3RRAB",
+            "text": "햄버거가 유명하다해서 갔는데 sold out이라 못먹었어요\n왜 음식이 품절이 되는지 이해는 안가네요\n친절하지 않고 뉴욕에서 많이 멀어 왜 왔나 싶었는데 맛은 있어요"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYd1BhSFp3EAE",
+            "text": "분위기도 너무 좋고 전체적으로 음식이 다 맛있음!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200eVFtaGZNemgzWVdrME1IWnhXWEZyZW5jMlFrRRAB",
+            "text": "For the first time , it was amazing. However, usually, when it's dinner time, I expect it to be a bit more calming and quiet. But overall, great things were done the food. The service was top tier, making sure that everyone got their meal at the same time. So a lot of good work was put into it. It is worth bringing a loved one and a family to enjoy. Now, there can be some areas of improvement. The peach dessert could have been in a wider vessel with a smaller spoon because I brought a friend who was blind trying to get the dessert from the cup, and the pepper from the burger special could be chopped than leaving it whole."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VemVGWjFiV2h3VTBWTGVUUjNMVXg2VVhSbGRFRRAB",
+            "text": "The bread here is really chewy, nutty, and full of flavor!\nI highly recommend the different kinds of bread. The pasta and lasagna were also very tasty—the pasta itself was excellent, and the menu was unique yet delicious!\nIf you’re in Brooklyn, you should definitely visit. I recommend it.\nThe atmosphere is great too!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBM1NVZ3RVRVJWY0dGNmNXWm1SR3BsWVZweVFVRRAB",
+            "text": "Amazingly cute place that’s surprisingly big. The staff was very nice, chill, and gave excellent recommendations. Burger is a must; tuna crudo was also delicious. Hunter was very helpful and made sure we had enough water without prompting.\n\nWe were too full for dessert this time but will definitely come back to try them next time!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Rd01ERlFRWEprVjJaa1F6SjFhVXh3ZW5WNVMyYxAB",
+            "text": "Loved the war style potatoes - the peanut sauce packs a punch! Mrs Crispy eggs are also very good, and I love how everything is fired in the oven. Service is friendly and the spot has great energy!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SU9IcGlibmhFWDFWbFQwOTJUazlwTVZSMFNVRRAB",
+            "text": "Side note- Was here back in mid May and the menu has slightly changed so the prices might be slightly different. In short, I recommend the small plates much more than the main dishes. Get the flatbread, stracciatella, crispy potatoes, and order the lasagna if you have to get a main.\n\nAnyway, I was back at this spot a few months ago with a small group for dinner having been here once prior. By comparison to our first meal, I would say this dinner was worse by comparison mostly due to the overcooked proteins while the small plates were excellent as well as the potatoes so it was a very uneven meal. The staff was friendly and there was enough room for us to sit comfortably. To drink, I had the \"Martini Spanish\" for $17 with Mahón gin, Atxa Blanco vermouth, sherry, olive brine, and pepper. The martini was unique being more vegetal/botanical forward with plenty of gin in particular and was an interesting sip throughout the evening.\n\nWe started with two of the small plates which happened to be the same plates I had a couple years ago. As per before, the Wood-Fired Polenta Flatbread for $13 with Calabrian chili butter was delicious with a perfectly charred bread. The chili butter is wonderful and while I still do not like paying for bread, this is a rare exception.\n\nAgain, the Stracciatella Cheese for the same price with silk chili and sumac was wonderful. The cheese was silky and the bit of sourness and bitterness from the combination of the chili and sumac worked perfectly. Honestly if I was to come back here again, I would make a meal out of these two things and maybe one other smaller plate or dessert.\n\nThis time, I got to try the Two-Sheet Lasagna for $32 which is served with verde bolognese which was the best entree by default. As someone who loves end pieces, the best thing about this lasagna was the texture with its mixture of crunch and softness. However, the bolognese itself was almost a bit too light with it lacking any richness and any type of meaty flavor so while the outside was nice, the inside was lacking. This was good but not as good as all the old hype surrounding it but was still the best of the large plates.\n\nAlso pretty good was the Wagyu Beef Skirt Steak for $48 which was decently portioned with a nice herb butter on top. The steak itself was cooked on the rarer end of medium rare so it had a bit too much of a chew unfortunately even for skirt steak. Outside of the chewiness, I would recommend it as if it was cooked well, the dish would have been excellent.\n\nThe Pork T-Bone for $35 with pine nuts and grilled spring onion agrodolce was also just OK. While the outside was nicely cooked, the inside of the pork wasn't super tender. The pine nuts added some nice crunch with the sweet onion mix added a nice extra flavor but overall, I found the dish both a bit chewy and too sweet.\n\nLast of the entrees and certainly least was the Charred Half Chicken for $34 with salsa verde, mayo, and green tomatoes. The chicken had a nice outside sear but the meat itself wasn't too tender and I would honestly be pretty surprised if it was brined. The sauce had a bit too much sourness for my liking and this is coming from someone who loves a bit of sourness in their dishes which doesn't help either. I found the dish in other words unbalanced and overcooked and I wouldn't recommend it at all.\n\nWe also got the Crispy Potatoes \"War Style\" for $12 which is apparently a mix of spicy peanut sauce and kewpie mayo. I liked the texture of the potatoes with a mix of some crispier parts and softer ones. The only complaint I could make is that I wish there was more peanut sauce but overall, it was still very tasty.\n\nAt the price point for the entrees, it's harder to not judge this place more severely. While I liked or loved three dishes, the remaining three had major faults with the best entree (lasagna) being just OK. For wood-fired food, there's other spots I would recommend much more heavily such as the similarly hard to get into Theodora or if you can't get into the former, Peasant which just has better food for the price point."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5ek9EbGlNa3N0UzJ4Q1lrTnRSV1phZWxkYWJsRRAB",
+            "text": "Came here for brunch with friends. The burger had run out, but we ordered a variety of plates to try. The polenta bread was incredible and the French toast was perfectly sweet. The war fries were crunchy and salty but I would've preferred the sauce on the side. The vegetables were great and the whole meal felt like a perfect balance. The service and athomsphere were great, bustling with positive energy."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZNVQyUTFlWGRFVnpGUVJVbEVSR05ZUnpSd1VYYxAB",
+            "text": "so nice i went twice. both times same server and guy was super helpful with pairings and food / drink recs for x amount of people in your party. burger was something to talk about along with the calabrian chili bread and verde lasagne. playing bay slaps during early dinner service was a nice touch."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SQlVqSjJZeTFwU21NeWJqVnpTM0pDYUVaQ1ZXYxAB",
+            "text": "Great place for dinner.  We had an excellent meal. Service was great! The chicken was so good.  So juicy. The snap pea salad was refreshing.  The prawns were grilled nicely. We had the pickled carrots, scallops crudo, arctic chard, three cheese lasagna and the bread.   All were very good.  We were in a group sharing and they were great about timing things so we never had too much on the table.  Good wine suggestions.  Would definitely recommend.\n\nIf you found this helpful follow me.  I don’t give many 5* because I reserve that for the very best in food, service and experience. I try to be quick to the most important stuff, the food.  Then add notes about the rest.  Enjoy!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMN2xqTE9xdElIczdBRRAB",
+            "text": "I had to see what the hype was about… and I have to admit, it kind of exceeded my expectations. The ambiance, service, and food were really good! I came for the burger and the lasagna, but my favorite dish ended up being the polenta bread. I might be biased because I absolutely love bread… but something about the dough and the ingredients just hit. It was simple and not too overwhelming, a must get for carb lovers like myself. It was so good, we ended up ordering another after our entrees.\n\nThe burger was juicy and flavorful. Was it my favorite burger in NYC? No. But was it still really delicious and tasty? Yes! The lasagna was thin and I found that I actually enjoy this version more than the traditional lasagnas. It’s not as heavy. Overall, great experience!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvb2M3Zm13RRAB",
+            "text": "We got put our name down ~15 minutes before opening and got seated exactly at opening. Atmosphere was great, food was yummy, overall a great spot to eat in the neighborhood!\n\nI’d write home about the polenta bread paired with the stracciatella cheese dip, leafy greens salad, and head on shrimp. those 4 things together were quite literally to-die-for. the lasagna was yummy too, it tasted like a solid lasagna that was slightly less rich but delicious nonetheless. We were surprisingly full and content, I’ll be back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTmFGTkRaRVp3VW5adVMwTnNkbFYyY0c1TldFRRAB",
+            "text": "Rolo’s has the best lasagna I’ve ever had, point blank, hands down, no contest.\n\nIt’s a thin lasagna sculpture made of meat, sauce, cheese, and thin sheets of green pasta all cooked to a beautiful char that adds a delicious flavor unmatched in any other lasagna.\n\nI will go back eventually just for this lasagna and I plan to bring friends and family to help spread the good word about this dish.\n\nAlso had the sesame & wild oregano polenta bread that was delicious. Chewy inside with a delicious crunchy outside. Really good flavor.\n\nI also tried their Wagyu Beef Skirt Steak that was good but didn’t blow my mind and their Crispy Potatoes War Style that was also decent.\n\n10/10 recommend going but try and make reservations for a table.\n\nIt got crowded and loud when I visited but that just speaks to the popularity of the place I suppose and it won’t stop me from coming back but just keep in mind it’s not necessarily a quiet dinner spot."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPUE9oTURfbS1pNTRnRRAB",
+            "text": "I stopped by Rolo’s solo and sat at the bar—such a cozy and welcoming vibe. I started with the white gin negroni (perfectly balanced and delicious), then had the grilled shrimp and orange carrots—both light, flavorful, and beautifully prepared. I finished with the strawberry almond tart, and wow… absolutely divine.\nEverything was top-notch. I’ll definitely be back soon!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZc1pMV2xRRRAB",
+            "text": "Love this place! Our server was 10/10, I’d honestly go back just for him. But the food is of course, outstanding.\n\nWe had a 5:45 res on a Friday and they were already sold out of the burger. Luckily someone unordered a burger and we were able to snag one. Bless this person. Should you come early for the burger? Sure. But should you stay for everything else on the menu? Absolutely.\n\nIn addition to the burger, we ordered the polenta bread, fries, Stracciatella, the snap pea salad, and the lasagna. Truly loved everything we ordered! And the drinks were also so good. Could not recommend Rolo’s to anyone enough!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLcVUxX0dkdjllS0N3EAE",
+            "text": "If we could put 10 stars on 5, we definitely would. One of the best brunch I’ve had in a while. The decor, service and of course the food are simply fabulous. Hands down one of the best burgers I’ve had in my entire life, kudos to the young chef handling that section in the kitchen. So good that we wanted to go back this morning for a second day in a row but couldn’t make it on time. Congrats to this whole team, we’ll be back every time we’re in town !"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvck5tdEx3EAE",
+            "text": "Absolutely Worth the Wait and a 10/10 Experience at Rolo’s\n\nI’ve been wanting to check out Rolo’s for a while now and I finally made it. Let me tell you, it was completely worth the wait. It exceeded all my high expectations from start to finish. The service, the bottle of wine, the food, every part of the experience was top tier.\n\nWe had the chili bread, the two sheet lasagna, wagyu skirt steak, and head on shrimp, every dish was incredible. Perfectly balanced flavors, rich without being heavy, and plated beautifully. Each bite was memorable in its own way.\n\nLeo, the food and beverage coordinator, was incredibly knowledgeable and passionate and really elevated our dining experience. Our waitress (I wish I remembered her name!) was awesome, super friendly, and helped us curate the perfect meal.\n\nI’ll definitely be back soon to try the burger. She recommended coming before 5 for that, and I’m also excited to explore more of their wine list. Every detail felt thoughtful and it was truly money well spent. Rolo’s gets a solid 10 out of 10 from me."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkd1FUVm5kM1owWjNaQlZsbE1iWFUzUlcxQkxVRRAB",
+            "text": "Enjoyable experience but the burger is way overhyped and I don’t get why. We weren’t asked what temperature we wanted it so I assume they are all made the same way. Medium/Well. The meat is very soft which is nice (and kind of interesting/ unusual). The dijonaise is tasty but the bun was just meh and as a whole the burger wasn’t memorable. The star of the day were the crispy potatoes war style (spicy peanut sauce, kewpie mayo and raw onions). That was worth the trip. The Mrs crispy was nice but also not that memorable. Salted caramel chocolate mousse was solid. I would go back to try the other stuff. The service was great we had a very friendly and helpful server and the atmosphere is very pleasant/relaxed"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJNjBnc2J1bWN1R2p3RRAB",
+            "text": "Had a great time at Rolo’s for a family-style birthday dinner. The food was delicious and perfect for sharing. We really enjoyed the breads and shrimp to start, and the two-layer lasagna, skirt steak, salmon, and wagyu burger were all amazing — the burger might have been my favorite. The food is rich and flavorful, and the vibe was fun and welcoming. I’ll definitely be back soon!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3X3VuRDFBRRAB",
+            "text": "Really cool restaurant with good vibe. While I enjoyed the lobster pasta more than the lasagne as i enjoyed the rich flavours from the lobster pasta. The steak was perfectly cooked unfortunately there was a lot of sinew in the steak making it less enjoyable. The burger was one of my favourite as it was perfectly balanced between patty, cheese and bun ratio."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SE9GZEJkVTFoZGw5eFdFaHFhR1JGZVZsQ2NGRRAB",
+            "text": "Was thoroughly impressed with Rolo’s.\nGood drinks, good food, attentive service. We got the Calabrian chili polenta, lasagna and burgers, and a special bread pudding a la mode. Everything was delicious. Would definitely recommend for anyone that’s visiting Ridgewood."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3MkxLRVRBEAE",
+            "text": "Not quite at the level of Peter Lugers as people claim it to be, but the food is good enough to come back every now and then. The steaks are good. The burgers filling and fancy. And the desserts are fantastic. I miss the out door seating since it’s less noisy than inside. But other than that, a nice addition to Ridgewood’s growing eateries."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZaXNmNFlREAE",
+            "text": "Incredible weekend brunch. The burger really is amazing, crispy outside but rare and juicy centre. The scrambled eggs dressed in olive oil with polenta bread were another highlight. And the brown butter cinnamon toast. Buzzy, bright diner vibes."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VKV1p2dGZnbFpHbVlnEAE",
+            "text": "We ordered the lasagna verde, grilled shrimp, the calabrian chili butter polenta bread, a cocktail and a beer. The grilled shrimp was flavorful but not the freshest. Other than that, everything was tasty. I don't normally order lasagna but I was glad that I did. The polenta bread had a nice texture to it."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJdE1LekVnEAE",
+            "text": "The ribeye was cooked right. It was juicy, tender, and charred. The green lasagna was chewy and charred. The burger had savory, chunky meat. The food was good. The textures and flavors worked together. The ingredients were fresh, and the cooking was precise. The portions were a good size. The prices matched the quality. The server was chill and helpful. The service was attentive and friendly. The place had a beautiful wooded and contemporary interior. The ambiance was pleasant and relaxing. The wait time was short. The dining experience was commendable. The restaurant is recommended."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3Z0otR3N3RRAB",
+            "text": "Rolo’s exceeded our wildest expectations!\nWe’ve been wanting to go for so long after hearing such great things, and it did not disappoint. We went for our six month wedding anniversary, and were greeted with complimentary sparkling wine. The servers were all top-notch and so attentive (re-filling the bottle of water on our table before it was empty). And the food is sensational. We did not leave anything behind. We got the polenta bread with chili butter and a green salad to start. We split the steak and famous lasagne. And delicious brown butter apple tart for dessert. I also loved sitting so close to the kitchen, I was mesmerized by all the action and the wood fired oven. Before our food came out, I said “I can’t wait to come back here”."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FME4weFZXRzF4YUZsTGJsOHdVSFl0ZVROM2JtYxAB",
+            "text": "Wheeew!! I love it here. No seriously. We come here at least once a month. The food is incredible and the staff is amazing. Just an overall great experience. Rolos hasn’t missed yet! Also pro tip: get the banana rum espresso martini 🔥🔥🔥"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvekt1Wi1BRRAB",
+            "text": "Perfect execution in Ridgewood?!? Yep. Super impressed by my recent visit. From the super delicious food, drinks, presentation, delivery on down to the smallest detail such as refilling water and keeping table clear and clean. You could tell there was a camaraderie among the staff as they worked like a team and you could feel the good vibes of the restaurant and other patrons. Our server, Scott, was professional, friendly, knew the menu and made great recommendations. We had a delicious meal, drinks, dessert and a great experience. We will be back! (Get the polenta bread, pasta, pork chop and dessert tart.Yum!)"
+        },
+        {
+            "date": "4달 전",
+            "language": "ja",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSSVoyNUNRbEJhVUZwNlZuSkJaMWxGZVUxb1VIYxAB",
+            "text": "1年近く前からウエディングパーティーの後の食事会の為に予約していたのに、予約時間に行っても準備できていなくて、外で15分近く待たされた。その後、最初の食事が出て来るまで予約時間から50分以上待たされた。食事は美味しいがサービスが悪すぎる。大切なお客さんを招待するには、不適切な場所。"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wWGJXTkpSVUZOYzFWcldYZDBhV0ZxVWpWUGNHYxAB",
+            "text": "Really great dinner, got there as soon as it opened at 5p and sat without reservations.\n\nPolenta bread was an amazing texture and our table ordered every pasta to share. Perfectly cooked fresh pasta, seasonal ingredients, and delicious sauces.\n\nDessert was the perfect amount of sweet to end the meal. We ordered the peach crème caramel."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRX3Q3djNRRRAB",
+            "text": "Not trying to be a harsh judge but everything was bland and disappointing. I had come back here for the third time hoping that the burger would be in stock but it was not and that wasn't even the disappointing part. We were hungry and ready to eat anything good. It feels like the original recipes were replicated in a generic way by someone and the original passion for this food is lacking in the taste. The lasagna: bland. Chili bread: lacks depth in the flavors. The stracciatella dip was okay. Cheesy potato croquettes: cheesy but not in a good way: lacked depth and didn't feel like eating it. The bread pudding with the black sesame glaze was okay. Although the salty crust could be fixed on it. I had also tried the steak here at one point and it was like eating raw and unchewable meat but the green sauce on top was very good. I took it home and cooked it more and enjoyed it. Such a waste of a restaurant experience. Service is definitely really good and people are sweet but even that cannot redeem the food"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKaXNsOVctOHQ2M01nEAE",
+            "text": "I don’t give 5’s all that often but these guys deserve it. Bernard was a fantastic, knowledgeable and attentive server with a great laid back attitude. The vibe of the place is fantastic and perfect for dates or just getting together with friends. Value was spot on as the food was hot, portions were enough and executed perfectly. The lasagna was good but the charred chicken with salsa verde and green tomatoes was superb! Acid worked really well with the chicken and the shaved tomatoes were a perfect accompaniment and contrast to the char of the chicken. Incredible kitchen staff, very, very clean facilities and lots of smiling staff. Just a great, American melting pot of entrees, brilliantly designed and executed."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLS1Qzb2VGOF96NGt3RRAB",
+            "text": "Food is expectional. Polenta bread is staple at this point. Snap pea salad is refreshing and well balanced. Besides that, we also had their lemon fettucine and skirt steak - both exceptional.\nWe finished it with strawberry-almond tart. I was afraid it will be dry, but man oh man… creme anglaise makes it so moist and delicious. We were very hungry so I wished the portions are bigger but other than that - outstanding food!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2MmQydWpRRRAB",
+            "text": "The food is good, but the hype is bigger than reality. Reservations are required. The service is great and the atmosphere is relax. The best items here are the burgers and pork chop. The polenta breads are okay. The truffle pizza is better than the red sauce one. The green thin lasagna average. Overall this is nice experience and worth a try."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRbDlPR0hREAE",
+            "text": "One of the tastiest dinners I’ve had in a long time. Everything was delicious and just so good. Loved the atmosphere and the drinks were also a 10/10. I was really impressed with the drinks as I honestly don’t go crazy for cocktails at a restaurant. One of the best burgers I’ve ever had, definitely go early as they were sold out by 6PM on the weekend."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3aVBmZnRBRRAB",
+            "text": "Great restaurant with a very welcoming atmosphere. All staff were super friendly and even the people around the bar were pretty nice to us even though they didn’t know it. It’s a great neighborhood staple.\n\nWe went on a Saturday evening and had to wait 45 minutes to sit at the bar, so reservations are definitely recommended and you can reserve well in advanced.\n\nFood, drinks and desert were all absolutely delicious. I highly recommend their bread, so good! But make sure you can handle spice if you order the chili bread. For desert I had the passion fruit desert that was kind of like a custard / flan with very tasty passion fruit.\nAlso had the steak, t-bone pork, greens, cheese croquettes  and mango martini. All were absolutely delicious.  Oh and the bread is cooked in like a wood fire oven. Amazing!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMDdxd0NnEAE",
+            "text": "Amazing! Would definitely come back. We ordered the steak special and it was cooked PERFECTLY, however it was drenched, literally drowning in butter. We couldn’t eat it. We told this to our waiter and several people came to apologize and they gave us our dessert for free— so definitely amazing customer service. All the other food was amazing"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnTUNZbUp0ZhAB",
+            "text": "Rolo's Ridgewood is not merely a restaurant; it is an experience, a symphony of flavors and textures meticulously orchestrated to create a truly unforgettable meal. From the moment we stepped inside, a sense of understated elegance and warm hospitality enveloped us, setting the stage for the culinary journey that awaited. Each dish that graced our table was a testament to the chef's profound understanding of balance, nuance, and the art of transforming exceptional ingredients into moments of pure gastronomic delight.\nThe potato and Parmesan croquettes were a revelation – crisp exteriors yielding to a creamy, savory heart, a perfect introduction to the culinary artistry on display. The Stracciatella with chilli and sumac was a vibrant composition, the milky richness of the cheese beautifully contrasted by the gentle warmth of the chilli and the bright, citrusy notes of the sumac. It was a dish that awakened the palate with its thoughtful interplay of flavors.\nThe snap pea salad was a breath of fresh air, the crisp sweetness of the peas enhanced by a delicate dressing that allowed their natural vibrancy to shine. It served as a refreshing interlude, preparing us for the richer courses to come. The wood-fired Calabrian chilli butter bread was simply divine – the crust kissed by the flames, the interior soft and yielding, generously slathered with a butter that carried a subtle, delightful heat. It was the kind of bread you dream about long after the meal is over.\nThe Prosciutto Di Parma was, as expected, of the highest quality, its delicate saltiness and melt-in-your-mouth texture a testament to expert curing. The 2 sheet lasagne Verde was a comforting yet sophisticated dish, layers of perfectly cooked pasta embracing a rich, savory ragu and creamy béchamel, baked to a golden, bubbling perfection.\nThen came the Double Cheeseburger with pickled long hots, a seemingly classic dish elevated to extraordinary heights. The patties were juicy and flavorful, the tangy pickled long hots providing a brilliant counterpoint to the richness of the meat. It was a masterclass in balancing indulgence with finesse.\nThe dessert selection was equally impressive. The stracciatella mint and chocolate chip ice cream was a refreshing and playful combination, the cool mint and creamy stracciatella punctuated by satisfying shards of dark chocolate. The salted caramel chocolate mousse was a decadent dream, its rich, dark chocolate perfectly complemented by the sweet and salty caramel. Finally, the Rhubarb sorbet offered a bright and tangy conclusion, cleansing the palate with its vibrant, fruity notes.\nThroughout our meal, it was evident that every element, from the sourcing of the finest ingredients to the precise execution of each dish, was approached with an unwavering commitment to excellence. The perfect ratios of seasoning, the subtle char and caramelization imparted by the wood-fired oven, the thoughtful incorporation of umami, and the overall textural harmony in each creation spoke volumes about the chef's skill and passion.\nThe service was impeccable – attentive, knowledgeable, and genuinely enthusiastic. Every member of the team contributed to the seamless and delightful flow of the evening. Rolo's Ridgewood is a true culinary gem, a testament to the power of thoughtful cooking and genuine hospitality. This was not just a meal; it was an experience that will linger in our memories, a shining example of what fine dining should be. To the entire team at Rolo's, thank you for an absolutely beautiful and elegant evening. Your dedication to culinary brilliance is truly commendable."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0d1ZGRm5WRlJDV0U5MlpqWmpMVFJJUmxSdmVHYxAB",
+            "text": "The food here is one the best I have had in New York. Everything on the menu is so good. My favorite appetizer is the grilled head-on shrimp to pair with my favorite drink, spicy pineapple margaritas. Every time I went, I try something new on the menu and I've never left disappointed. The dessert are amazing as well. It is on the pricier side, but definitely worth the price."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQM3Yyb21nRRAB",
+            "text": "Easily one of my recent favorite spots for brunch. Just wow. The \"Mrs. Crispy\" is definitely the brunch dish to try. It's super flavorful and the texture is just so enjoyable. Everything else was quite nice too. Staff is super friendly, and the overall vibe is a nice blend of sleek and casual. This is 100% a strong recommend."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkdkxYUlJVWFpVUTJobGNrMVRORE41ZEV0cFlYYxAB",
+            "text": "First food stop in NYC for brunch and it did not disappoint. Mimosas were great, but the real star was the double cheeseburger. The beef was amazing!! We got the potatoes war style, which has a spicy peanut sauce with it. Would definitely go back. Also the server was delightful and so helpful!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYektfV2RREAE",
+            "text": "Delicious food makes us happy. It was not by chance that I found this place. Many people visited this place through YouTube and Instagram and praised their food. I am now one of them and I know that living in New York gives me an advantage over others. Our table attendant was friendly and the service was impeccable, changing our dirty appetizer plates for the next meal and giving us good advice on our choices because she took pride in the food. This is a place that guarantees a fantastic time, except that the tables are very close together. There was a misunderstanding at first. The hall was divided into two with the stove in the center, and most of the people sitting on our side were Asians. I don't know if they intended it, but it felt like I was being discriminated against. As people who looked like Americans began to sit at the empty tables, the discomfort disappeared and we were able to enjoy our food. We ordered lasagna and a double cheeseburger, had chili oven bread, potatoes, carrot cocktail and dessert and everything was good. We promised ourselves that we would try the steak, which would probably be fantastic too."
+        }
+    ],
+    "reviews_count": 92
+}

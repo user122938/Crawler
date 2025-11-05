@@ -1,0 +1,19 @@
+{
+    "name": "MrBeast Burger",
+    "place_id": "ChIJZSJwZoZfwokRLBlvbITcK7g",
+    "grid": "QN3",
+    "address": "86-09 Northern Blvd, Jackson Heights, NY 11372, USA",
+    "rating": 2,
+    "user_ratings_total": 4,
+    "phone_number": "(877) 232-7898",
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ad09IWjZOWEYwTVZSU1VHSTFRMWhMTjNKQ2RYYxAB",
+            "text": "There is no Mr beast burger here. It’s a lie don’t com here and waste your time!!!…"
+        }
+    ],
+    "reviews_count": 1
+}

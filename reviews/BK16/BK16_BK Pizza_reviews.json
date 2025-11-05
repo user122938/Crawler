@@ -1,0 +1,362 @@
+{
+    "name": "BK Pizza",
+    "place_id": "ChIJ2ZAII6BdwokRgww7YsOT1oI",
+    "grid": "BK16",
+    "address": "456 Sutter Ave, Brooklyn, NY 11212, USA",
+    "rating": 4.6,
+    "user_ratings_total": 444,
+    "phone_number": "(347) 425-8920",
+    "reviews": [
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205aVNIbE9aVzlRVEd0VVVHbDFRVnBGTUdveVJIYxAB",
+            "text": "Yummmyyyy delicious"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSdk5tOTFYMUkzWjAxb1ZHeGZXR3htTFdnM0xYYxAB",
+            "text": "Excellent service!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZdFNsSjBWM2R0VWtoaVYycGhiR040ZDJVMU1XYxAB",
+            "text": "Tiene buen gusto las pizzas"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBZ05HRDF3RRAB",
+            "text": "Best pizza in New York! Highly recommend! Distinct taste that can’t be cloned"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQcjc3T0Z3EAE",
+            "text": "It's giving lil Caesars"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYN056SGVREAE",
+            "text": "I have been walking the extra few blocks to Dominos  where I feel I get a bit more for my money and personally like the food more."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuX3JYSHV3RRAB",
+            "text": "Good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3eU02ejF3RRAB",
+            "text": "Everything there is mid. The food at Little Ceaser is better than this one. The quality is poor in the ingredients overall. If you want to eat there, it's there in case you're hungry."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiMkwzWlh3EAE",
+            "text": "Fast and good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNid3Rta1RREAE",
+            "text": "i love their pizza it's always fresh and very nice! i was here a lot of times and the workers are always nice and polite too. i appreciate it. no sitting place available though, you just have to consider that if you want to come"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURydjl6clRBEAE",
+            "text": "Staff rude and Refuses any request for specific ingredients to be added or removed. You can add for + $ 2.50 for an additional ingredient. But refused if you request free veggies swap 🙄"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyaEtPUk5BEAE",
+            "text": "I love BK  Pizza the  Pizza tastes really good And I I love going there every time when I order a Hawaiian pizza"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyLU8yUWN3EAE",
+            "text": "Very good pizza 🍕…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMMk9XWExREAE",
+            "text": "I’ll give it a 6.8/10"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6N2Z6QmJnEAE",
+            "text": "Great pizza and fast pickup. Very good customer service."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREa1l5OV9nRRAB",
+            "text": "Es un lugar agradable"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkeTlHWmNnEAE",
+            "text": "Supreme pizza so good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxOHBDNDBRRRAB",
+            "text": "Ordered a half meat lovers// half Hawaiian pizza. The pizza was undercooked and doughy. I was totally underwhelmed with the experience. I will not repeat the experience."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1MTlmTlNREAE",
+            "text": "Be aware of the price of the pepperoni pizza you order on Saturday's after 1:00pm. There's a six-piece lunch special W/Pepsi for $6.99 and then there's the $9.99 choice for the six-piece pepperoni pizza that comes with a six-piece cheesy bread. Don't let the little man with the big eyes fool you. He's going to act like he doesn't speak nor understand english. I tried to explain to him that he charged me for the $9.99 pizza when I wanted the $6.99 joint and since he took it upon himself to charge me anyway for the $9.99 pizza, I felt entitled to get the cheesy bread. My words to him went in one ear and out the other. My words held no substance as his english was lax. I got jerked 😑"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwcXBUZ3p3RRAB",
+            "text": "They managed to make pizza worse than Dominos despite being a local chain."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKbnMtelRBEAE",
+            "text": "AWESOME"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4MVAzMTNnRRAB",
+            "text": "I like it"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtbExtUnBnRRAB",
+            "text": "Great Supreme Pizza"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHdDhfamZnEAE",
+            "text": "Great pizza. Made fresh. Not a long wait. They also have chicken and many other items. They're open late ."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNb2NySTVnRRAB",
+            "text": "This is my second time ordering and my pizza arrived very cooked. At first I thought it was sausages and pepperoni.  I don't know what happened to the quality but I hope they return to it."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OC1UQTl3RRAB",
+            "text": "We love there veggie and grandma pizza. 🍕"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDdnFIWmhRRRAB",
+            "text": "Love their pizza, the meats lover is a must have. They are super polite & very clean. I order often from uber eats or personally go pick up my food, never no problems order is always correct. They get a 5 star from me & from my kids 😁.…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNjbzlXTDZRRRAB",
+            "text": "I understand they we’re experiencing very difficult times. But, if you’re not going to being my food that I ordered and already paid for at 8:46PM, just call me, tell me, refund me and I’ll order from elsewhere. You’re pizza is awesome, but you all need to work on your customer services. One time I got yelled at. I’m calling and no one picks up, and they finally picked up, hung up and now I only get a busy signal.\n\nAgain, I ordered and paid at 8:46 and they keep changing the delivery time to a later time everytime I check the stratus. It’s a nearly $40.00 order and it was the last moneys I had...💔🤯😡"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDeS0zc0tnEAE",
+            "text": "Came to this spot and Rimpy customer service was excellent. She kept a smile while taking our order. I would recommend friends and family coming here just because of her nice personality."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhenZ1Y1FBEAE",
+            "text": "So, my loved one placed an order using Slice and not only did our order arrive late but our two pizza pies were not delivered. The driver showed up with just breadsticks, 2 orders of wings and a 2-liter of Pepsi despite showing me the…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDNC1fdUh3EAE",
+            "text": "Adding another comment because I think my review was deleted. I ordered on the website, they then called me to ask what pizza I wanted after ordering. When my order came we got Pepsi instead of coke, BBQ wings instead of buffalo, and a…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLcjdxcVlnEAE",
+            "text": "That elder man at the register though..he lied to me and said no money was on my debit card , so he could get cash but i let it go , and he charged me 8.20 for a 6.99 pie..He tricks his customers out of change . Smart ,Fast , but a swindler. Good pizza though. Lol im still going back sigh..😆…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5M1lYdVpBEAE",
+            "text": "I walked in just out of a quick craving for pizza and tried their Meat Lovers with cheese on the crust, I hadn’t enjoyed pizza this much in a while. The staff was friendly and prepared my order rapidly, thank you for your service."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNjbl9mcndBRRAB",
+            "text": "The quality of pizza here is very good . The meatlovers is my favorite.\nThe service is fast and friendly. I decided to wait after a couple visits before writing a review because this place is take out only."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpbHZTdDlnRRAB",
+            "text": "Best Pizza around hands down!!! Excellent customer service!!!! My kids and I love this place! I would definitely recommend:)"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzcG92MVFBEAE",
+            "text": "First time ordering and I must say this pizza is good af.Fresh food and quality. I’m from the south and I’m big in taste flavor! I will be ordering again🤩…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDN182eHd3RRAB",
+            "text": "I went to the store the other day and had great quick service by Rimpy, she was really nice. The order was all correct and the food was amazing!!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDbC0zbnZRRRAB",
+            "text": "By far the most tastiest food I’ve ever tasted as well as the most polite staff. I’ve been there about 3 times so far since it’s opened and I’m going to continue as well"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzc3NLd1p3EAE",
+            "text": "I had vegi thin crust pizza , omg it was delicious. Wanna specially thank their Chef Ashu for making my pizza wonderful ...…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPd0pENnVnRRAB",
+            "text": "We ordered pizza, chicken wings and garlic bread. The food was so spoiled that none of us was able to take a bite (literally)."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpZ09XYkhnEAE",
+            "text": "This place is way better than Little Caesars ! Better service and better ingredient and the staff is really nice and friendly. Come to Sutter Ave to get your stomach right !"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXMHRxbW9RRRAB",
+            "text": "I called to order something else after not getting what I wanted and the guy hung up on me... Twice! The food's ok but actually calling, the guy is VERY DISRESPECTFUL"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzc3BmNnRBRRAB",
+            "text": "BK Pizza is by far the best pizza in town. Definitely recommend you to come to BK Pizza to try the food. I bet you will like it like I do."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURjMk51TE5BEAE",
+            "text": "I love me some bk pizza 🍕 the wings are amazing and the costumer service is lovely i will always come back…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNleVBfX3NRRRAB",
+            "text": "I asked him the pizza slices because I couldn’t see the menu being that I forgot my glasses home and he refused to serve me and said they had no pizza"
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzdkp2blNBEAE",
+            "text": "I’ve been coming here for months. Their service is quick and the pizza is always fresh and  tasty!!!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzcTZ2SDJnRRAB",
+            "text": "First time going to Bk pizza and the service was good. Let's see how the pizza taste."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5LUtLV3JRRRAB",
+            "text": "I’ve come many times and my food was always delicious and served in a timely fashion"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHcVBhTGR3EAE",
+            "text": "Great prices fast food pizza chain like taste (which is a good thing imo)"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDNy1MUzdRRRAB",
+            "text": "I ordered delivery from their website and never received my order. When I  called the manager who is one of the rudest people I've ever encountered told me that he doesn't care how I get my order and that I was not going to get my money back. Horrible experience."
+        }
+    ],
+    "reviews_count": 50
+}

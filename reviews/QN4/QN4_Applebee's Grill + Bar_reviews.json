@@ -1,0 +1,565 @@
+{
+    "name": "Applebee's Grill + Bar",
+    "place_id": "ChIJBY0CqU5ewokRLASm9exvCwU",
+    "grid": "QN4",
+    "address": "90-15 Queens Blvd, Elmhurst, NY 11373, USA",
+    "rating": 4.2,
+    "user_ratings_total": 1724,
+    "phone_number": "(718) 271-7999",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xacllXWldZazFHYlVOdWIyNXVZMkZvVEZSNVdHYxAB",
+            "text": "The chicken was delicious.  The pasta was also very good.  Special thank you to Sharon."
+        },
+        {
+            "date": "수정일: 5일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRbzlPS3VRRRAB",
+            "text": "There are always tables available.  Very pleasant staff!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNdGNteDVSRnAyWjB4WVNYVTRRbFJaVjFOMFkyYxAB",
+            "text": "Food was really great and the customer service was very friendly. We had a great time there. Recommending to go there and try there foods."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCSGR6ZHJSMGMyTm1aYVZXSk1jMEZMVG5reUxVRRAB",
+            "text": "After a long day of work I go here to see Levon Williams. He’s attentive he’s awesome please never let him go"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSVGRFOW1TRkJwUW1sMlJXb3pObUZUZFU1emIzYxAB",
+            "text": "Levon Williams is the best manager I have ever met. He’s attentive he wowed me. Very fast very I come back for him"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GUFdGRlJiMU4yVjFKeFRVNVFabFpHV0RGc2NsRRAB",
+            "text": "Muy buen Ambiente"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poMWJreEtabXRUZDFkSFpWUm9aMmxITWs1NWNsRRAB",
+            "text": "Great experience, the grilled cheese burguer was amazing, Saul was great!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWYVVVdEthRTFRWm5WSFRtZGFXV000YlZoUWQzYxAB",
+            "text": "Applebee’s very good place. It’s way better than Chili’s. Chili’s is trash. They didn’t even give you a menu so you don’t look at what you order you have to go on your phone. Applebee’s gives you a menu and you’re able to see the picture of the food service is good the way that was great that day nice young man polite smart, quick respect respectful had a great time. I will be going back there more."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KaWRFOXlNVjloWW5Bd2RFOU9RV1pWZFZSRFlsRRAB",
+            "text": "Tienen menú diario con varias opciones y los cócteles son deliciosos. Buen sitio para relajarte."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210cVVWSlhUMVZNU1dvM2RGcDZjakV3YzBaSVpFRRAB",
+            "text": "Nice spot to watch the sports games at !"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxVWMxZzJjbE5qTFZGdGMyVkJZazF1VGtkRVZIYxAB",
+            "text": "Excellent experience and comfortable place to eat, enjoy and relax."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0Q2RHcFJRalF0Wm01RVZtUjFabEpoTFdWQ1RYYxAB",
+            "text": "Took my son and boyfriend for their birthday 🎂 We had a blasted. My son was very happy especially when they came out with his cake and ice-cream and they c sang Happy Birthday 🎂 This is a birthday my son will not forget. Thank you; all the staff of Applebee's."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sVlV6Skpaemh3T0VWNVpqRnpVVE5aVmprMVlXYxAB",
+            "text": "The salad portions were generous."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OclVqVkdObW95VVc4d2FXTktaR2RpU25OallsRRAB",
+            "text": "I was today at Applebees Queen Center Mall location with my family, a gentleman at the front if I am not wrong his name was John, he greeted us with a warm, genuine smile and a friendly attitude that immediately made us feel more than welcome, he was not only professional and polite but also incredibly kind and patient with my kids, which truly stood out to me as a mother, nowadays It’s rare to see someone go above and beyond just to make sure guests feel comfortable, but John did exactly that.\n\nKeep it up!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WcVJuWkdNamxoY205TFNWRlVlazU0U21oaWVGRRAB",
+            "text": "Ordered the Bourbon Street Chicken, and was deeply disappointed. The chicken was slightly undercooked and really salty, They only gave me ONE mushroom. The Mash and Shrimps were the only saving grace. My boyfriend ordered the Bourbon Street Chicken with Andouille Sausage and it was even saltier than my plate. When I told the waitress about there only being 1 mushroom on the plate, She proceeds to head over to a co-worker and laugh because she thought getting more mushrooms was a ridiculous request. Not a good experience at this Applebees, Go to any other one but this one."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aZmVWbzBRblJHV25SblltaHVjVGxJVFdsUWFsRRAB",
+            "text": "Great food. Took time for food to get served. Too many customers. It was almost a full house!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GYWNscDRXRTlDWWxWMmNXbHZkbFZrVkROMmFHYxAB",
+            "text": "Saul, thank you so much for your amazing service. My first time here wasn’t the best week for me, but your smile, kindness, and passion for serving truly brightened my night. You made me and my family feel cared for, and I’m grateful for your hard work and positive energy. Because of you, this first visit definitely won’t be the last. Thank you, Saul!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OT2RWOVFSVVJ3Y0RjdFdHOXpVaTF3VFZkck5XYxAB",
+            "text": "Customer service was kind and professional.\nShu and Manager Lavon were professional."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWNWFsaFRUMEZzWjI5YVdIVmtWVXRFTTFCVGRHYxAB",
+            "text": "Food was fast and delicious.\nService was great. The floor was dirty the carpet had a bad smell."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Rd1dWOW1aR1JRY3psSWJWaFhNbTVEVkRFd0xVRRAB",
+            "text": "Worst food ever."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xReE5tMVpUR3hsYmxCRmREbElVak5sVDNSQ2JVRRAB",
+            "text": "Had Applebees yesterday and been throwing up and diarrhea all night! Stay far away from this one it gave me food Poison!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGRVVHNVViM2RWWjFKV1QwdE1WWE53Ykd4Tk9YYxAB",
+            "text": "There are really some bars that offer that one drink that really does it all for you and that's here and the drink is the most popular painchiller!!! 😍💯 My favorite drink in this area"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvNjVQYjVnRRAB",
+            "text": "Boomer did well thank you for his service"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxd1JsQjNiamg1UW1KRmFscHVTREJPVVMwMVEzYxAB",
+            "text": "Food is mediocre.\nService is okay but can't find my server when I needed something.\nAtmosphere is okay."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vMlRVRnJkbnBxZEZFMlRuSkJSVmszYkUxNE5tYxAB",
+            "text": "Haya was our server, she was busy very but still was very attentive and always make sure always that we needed is fulfilled and I enjoyed very much"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsellVeFBTV0ZuWlhKWU0yRk1WR05ZUkRSbVUyYxAB",
+            "text": "Me encanto la comida  y puedes pedir hay platos de dos por 25 muy buena la tensión la persona que nos atendido muy atenta  amable un lugar muy limpio y tranquilo para comer en familia"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FeFVIQlZabGhuUkVkdE5IZHRlbmMzWkhGVlpYYxAB",
+            "text": "The food is delicious and big proportion, the service is nice and unbeatable prices"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NM2JrTmhaRmxrYjBZeGVUWTRhVmQ0TkhsaFpGRRAB",
+            "text": "I went here on the evening of July 19 the restaurant was very busy but we were seated immediately the server was very nice and helpful I got the create your combo for $27.99 and I got the steak and shrimp with mashed potatoes and broccoli and I also got a appetizer of mozzarella sticks and the food was very good!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOTExVSm1OVkV5VUd4T1NVODJjMnd4WjJKeExXYxAB",
+            "text": "Hoy, 3 de agosto de 2025, estuve con mi familia, mi hija y mis suegros en este Applebee’s. Tuvimos la mala suerte de que una mesera, en especial, que llevaba camisa roja, fue muy grosera con nosotros. Su actitud nos arruinó el ambiente y la comida resultó desagradable por su trato.\n\nQuiero resaltar que el joven que nos tomó la orden fue muy educado y amable, al igual que la mayoría del personal que vestía de negro. Lamento que una sola persona con una actitud tan negativa dañe la experiencia en un lugar tan bueno como este Applebee’s."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kaE5YVmxWRlpNWkdKalQyWlFiM0ExZDFVMFgyYxAB",
+            "text": "Our experience at Applebees in this location is saur annoying! Our server, Elizabeth G, started off okay, but things quickly went downhill. We ordered the 2 for $25 deal (one appetizer, two entrees) and an additional appetizer. The entrees came out promptly, but the appetizers? We waited an HOUR. Yes, you read that right—60 minutes for some basic fried food. We had to flag down two other servers just to inquire about it. By the time the appetizers finally arrived, we were so fed up that we asked for a to-go box. Also to add they double charged us for the appetizer we had to ask that the other appetizer to be removed and be like erm that’s part of the 2 for 25!\n\nTo top it off, when we asked for the bill so we could pay in cash, Elizabeth was too busy gossiping to attend to us. Not once did she check on us during the meal. The service was absolutely atrocious, and I strongly advise anyone considering Applebee's to go elsewhere maybe it was just our USELESSS server but either way everyone was rather not HELPFUL!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKNU4ycHJVaTFLUm5CNlJubFlTalZZVFZkV05IYxAB",
+            "text": "Ariana and Lavon were a delight!! The restaurant was great and they treated me like family! I will always come back and I ask that everyone come for these two! The restaurant was also very clean and up to par! Thank you Ariana and Lavon, they both deserve a raise!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZNGRtNVVlVUpCWm5GRlZreHhiVmhDTmpWcVJrRRAB",
+            "text": "I walked into Applebee's after a very long time, had a great server and the experience was exceptional however there was something wrong with food  i had ordered the lunch special classic burger and fries it didn't sot with me too well. I hope and pray it was not food poisoning.\nBut i will givw it another chance."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210R1JqbFVlV3RoU0ZseFdXcHpPRXR0UW5aQlMyYxAB",
+            "text": "This is My 2nd visit to the Queens Center location. My 1st time was not good at all!!  However, I must say this visit was EXCELLENT!   Cudos to Mica our server, she was pleasant and professional, Lavone Williams - manager and Jose Acevedo -general manager, who facilitated and made this experience a TERRIFIC one for Janet and I.  We appreciate the kind gesture and you will be seeing us on Tuesday. Janet and I will make it a thing as we want to be served by Mica always!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Gc1RuRlNVRjlYWW5veU5UQmZPRUp0VG5jMU1WRRAB",
+            "text": "Boomer was an amazing server very attentive  very sweet all around great  service made sure we were all good great sevice! !!thank you Boomer!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jMVpWcEZOSFJoVUdsTUxWRkdPVmRmYkVsNVQxRRAB",
+            "text": "❤️ it."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NMFIwVTVWVmhTYlVKR1l6WjFRM1EwTUZOSGRtYxAB",
+            "text": "Food was great and service was ok! Loved their red sangria, it’s so huge enough for two people."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213eVNVbEhRVTFDVXpCUVRXWldNVlp6U0ZGNGRVRRAB",
+            "text": "The waitress was great and she helped me and my cousin, thank you for the lunch."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4NFUwZHFaVGxvTVhOM2RsRlZYMUJFY1U1c2JVRRAB",
+            "text": "Fire food"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oaVpFcDNlRzB0VURsUlkxaE9lbEJ6VTBkSGFWRRAB",
+            "text": "Carolina have gave me one of the best experiences I’ve ever received at apple bees. Her mannerisms was on point and the drinks was even better ! Definitely be coming around on The weekends for more"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25relpsZDZZakpGTVcxclJFODFOR2cyYzAxU01uYxAB",
+            "text": "This truly is a neighborhood grill.  The manager Lavon was circulating and making sure everyone is comfortable from the time they are seated until the time they leave!\nSaul the server is attentive and Olivia the host greets with energy and enthusiasm.   They are all top knotch.\nAll you can eat shrimp,  ribs and chicken fingers...need i say more? This is a location in my rotation from now on!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pabmNTMXlVRmxJWkhseGVqaHlkM1phY2tKT2RtYxAB",
+            "text": "4 stars"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvM1RqUk9jWEIyY2xkRFduUkZjblpGVGtablRsRRAB",
+            "text": "Like it"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5R1NIVkxiRzVUVEVrd09ERTNiV1kyTnpjNWRuYxAB",
+            "text": "I was enjoying lunch with my cousin at the bar when the new manager Lavon walked up to the bar with the tv remote and handed it to our server with a loud attitude. In front of everyone he said “Is it really that hard to change the channel?” In shock, she responded “excuse me?” And he proceeded to repeat himself louder and slower in a condescending tone. She told him he was being disrespectful and was clearly and understandably upset. We checked on her to make sure she was okay.\nThere is no room for that type of misogyny and disrespect and he should not be managing people with that attitude.\nThe second star is for Ariana’s great service."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5cGNrNVFOWEkxVkY5U1MyMHpRbmhrWVcxTFJHYxAB",
+            "text": "One of the nicest dining experiences I've ever had.   I live in Manhattan where owners act like they are doing you a favor letting you pay  $25 for a single serve pizza but at this Applebee's the staff treat you like they are happy you stopped by.\n\nEveryone was nice!\nAnd the manger checked in on diners and wished the gents a happy father's day.\nGreat place for a date if you're cash strapped... two can share the nachos and still be full.   And the lava cake was decadent and yummy.\n\nGreat for events large and small.   You won't be disappointed.\n\nReally a wonderful experience.\n\nOh, and if you look at the menu online,  they have $9.00 specials!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VMajJzX2Y4amRXajB3RRAB",
+            "text": "*Extremely* slow service; how can 5 staff cover 6 tables so infrequently? Two tables over full of drunks openly vaping. Place sort of gross. Will not go back, ever."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VPeVg1SXpWdnV6cTdRRRAB",
+            "text": "The food is good, the drinks too, and the employees are awesome too!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCWFptZFdibWxuWTFSdGJpMWZSREJvV1dvNFgxRRAB",
+            "text": "I ordered Dwayne “The Rock” Johnson’s Watermelon Margarita. Not too strong or weak,not too sweet or sour, very well balanced as a cocktail should be.\nAppetizer: spinach and artichoke dip. Warm. Side of salsa\nTilapia with mashed potatoes and green beans\nTemperature was perfect to eat right away. Well seasoned. Very delicious.\nMy server was Saul. He was very welcoming with a smile and was very attentive.\nLavon Williams manager introduced himself and handed me a rewards punch card to return until a free appetizer is received.\nOverall, the food and experience was delightful. Thank you."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPTEIyLUd2c3FTczF3RRAB",
+            "text": "Great energy"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VMWEV1Sy1jX0puaG53RRAB",
+            "text": "Absolutely horrible service. The waiters will have attitudes, they just take your order and have you wait there for at least a half an hour minimum for just an appetizer. And don't even come up to assure that the food is being prepared and…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPR2h5TE9vbDZqeTh3RRAB",
+            "text": "boomer made this applebees experience unforgettable. The best service i’ve ever received from ANYWHERE. Incredibly attentive and very kind and cared about us having our best experience. The food tasted way better because I was in a great mood from such great service. God bless boomer for existing. ✝️ Happy memorial day!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5cDYtUjlBRRAB",
+            "text": "I feel like Applebee's sometimes gets a bad reputation for being a low-quality casual dining restaurant, and obviously the food isn't 5-star or anything, but the food is actually good and you can get some pretty good value for the money by ordering specials and signing up for their rewards program.\n\nI always enjoy coming here and the service is always great. I can tell that sometimes they're a bit understaffed and it can definitely get hectic on the weekends, but I always leave feeling satisfied.\n\nP.S. This is not the place to go if you're watching your sodium intake. But that should be obvious."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJbTV1NjRnRRAB",
+            "text": "Boomer was a cutie, friendly and a professional server. Once he came to my table I felt like I knew him my whole life. very respectful and accurate when taking my order, everything I asked for he served with no issues. I would love to see him again next time I come to Applebees. He makes the best Watermelon Margarita!! I love to see young people like him working with passion and dedication."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3NFB2dHVRRRAB",
+            "text": "Ariana is great. She makes my experience phenomenal every time I come in. She’s a great bartender and has an amazing personality and I absolutely adore her. She deserves employee recognition all her work that she does. She’s get 10 stars hands down and needs a raise. Thank you for whoever hired her. She’s a perfect addition to the Applebees family. I tell all of my friends and family to come in get a delicious drink with her."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4a3N5bnhnRRAB",
+            "text": "Friendly staff, the food served with great decent portions and tasted well. The lava cake itself was alright, can't say it was the best though, because sorta had an after taste of baking soda and the steak was a bit rough on the taste buds. The mango lemonade though was very good and refreshing! Overall, pleasant experience for a Saturday night out with friends 👍 Would come back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNicVpEN3NnRRAB",
+            "text": "Came for dinner at 6 PM on a Saturday and it wasn't busy. Appetizers are super pricy so go to the last page of the menu for the 2 for $2X deal and  get an appetizer and two entrees for either $33, $34, or $35 depending on which tier of entrees you choose. For the appetizer we got the spinach artichoke dip which tasted alot like the Boston Market cream spinach and the boneless wings w a variety of extra sauces. The boneless wings were defenitely on par or better than Wingstop which was crazy. For entrees we got the Riblets which looked ok, a cheeseburger and the three cheese grilled chicken penne which was amazing. The pasta was definitely overcooked and soft but the chicken had surprisinly good seasoning and everything was hot and you can't go wrong with a good cheese sauce. DEFINITELY recommend to not get fries as a side with the burger or riblet or anything that comes with it, try switching it out w something else because they were not good. There was 6 of us and we got 3 of these deals so after tax and tip we each paid $21 which was very worth it especially as the price of one appetizer was close to $21."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfb2Nxd1NBEAE",
+            "text": "Very very good food, but be very careful for the salad and  croutons they are very salty other than that the tortilla chicken soup and pasta was great. Thank you, Ariana for your great service"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzbHRYTElnEAE",
+            "text": "I’ve been going to this Applebees location for years now’s. Nothing really to complain about other than the boneless chicken that I had the other day was very salty. Less salt would be preferred."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzN0ppS0xBEAE",
+            "text": "I had 12oz Ribeyes with sides of steamed broccoli and mashed potato, waffles fries and a coke.\n- First of all waffle fries is really delicious 4.5/5.\n- For Ribeyes it was thin and I ordered medium-rare, it came medium. Tastes a little salty for me, I like the flavor. It is pricy for this quality of meat choice and cook. Sides are okay. 3.5/5"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMLUR4N2Y4aV9HeThBRRAB",
+            "text": "Great all you can eat meal selection and free kid meal on Wednesdays.  The waitress was very nice and attentive to our table.  Prices was very good.  Food was very good.  Manager walked around and made sure everyone was very satisfied with their service."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxOU9URDVRRRAB",
+            "text": "I went to treat me self,  I oder a pomegranate margarita, I thought it will be good, honestly its just pure sugar don't recommend. The food was ok, turn off all in one  plate squeezed. I would have preferred the burger in one plate the French  fries in separate plate."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvdUwyWmNREAE",
+            "text": "Boomer and Kelia are absolute rockstars! Hands down, the best servers I’ve ever had — and that’s saying a lot. From the moment we sat down, their energy was infectious and their attention to detail was top-notch. Friendly, fast, and genuinely fun, they made the whole experience feel like a celebration. Service like theirs isn’t just good — it’s unforgettable. Give those two a gold star, a high five, and a raise while you're at it!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOX081Sjd3OXFMOFZBEAE",
+            "text": "I went to Applebee’s for my birthday and honestly had the best time. My server was Saul, he was so kind, made really good recommendations when we were unsure of what to order, and made sure that we were having the best possible experience.…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdGE2ZWNnEAE",
+            "text": "Kaila is such a great bartender! Every time I visit, she brings an incredible energy that instantly makes the atmosphere more enjoyable. She’s always welcoming with a warm smile and takes the time to make everyone feel comfortable and valued. Whether she’s crafting the perfect drink, engaging in friendly conversation, or simply ensuring that everyone is having a great time, she goes above and beyond in every way. Her positivity is contagious, and she has a special way of making the bar feel like a home away from home. It’s clear that she genuinely loves what she does, and that passion shines through in her service. I always look forward to seeing her behind the bar because I know the experience will be top-notch!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURveDcyX0h3EAE",
+            "text": "I came with the family and it's a very convince location, the food was delicious but the only reason for 3 starts it's because I order a margarita and the glass was broken a little witch it can cut someone. My waitress was really nice and…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNWVlZ3p3RRAB",
+            "text": "Evelyn was such an amazing server! 10/10 Experience. She completely made our night. She was so sweet, funny, friendly, and attentive. I hope she gets a huge bonus this month. I expect to get her everytime I come back to this location. They are lucky to have her as an employee. Thanks Evelyn continue being amazing!!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2bGN1Wnl3RRAB",
+            "text": "You need your vaccine card to dine in. Our waiter was awesome. He was friendly and told us the specials. The artichokes and spinach dip is the best appetizer. My friend and I did the 2 for $22. Love the deals at Applebee's. Good option after you're done shopping at qcm."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoc2J6dUFREAE",
+            "text": "Last night I went to Apple Bee’s for the first time ever and I was extremely disappointed by the food.\n\n-The restaurant itself looked very nice, except for the restroom which needs some work.\n\n-The hostess (aka who is at the front and walks you to your table) had an attitude on her face as if she did not want to work there. Not welcoming at all. The employee at the front of the restaurant greeting customers into the restaurant you would think ought to have a very warm and welcoming personality, and instead you are met with a statue wearing a “I don’t want to be here face.” Not a good first impression.\n\n-The waiter/server was very good, but he was covering so many tables it looked like he was covering half the restaurant? He was taking orders, serving, and cleaning up, which I thought was too much for a single person and I felt like he was not available to us as much because he was so busy and this negatively affected my experience.\n-The food was - terrible. The steak was the worst I have had in my life. The wings were mediocre at best. The shrimp and onion rings tasted like oil and that is it. The fries were good however. The strawberry as well as the Oreo milkshakes were “ok.” The piña colada tastes so artificial and clearly it was poured from a machine.  The cole slaw was fine.\n\nI ordered dessert (Cinnabon mini swirls $10) and I forgot I had ordered it so I paid and left and only now that I am writing I remember I did not get my dessert!\n\nIn conclusion: I came here thinking I would eat delicious food but I left almost all of it on the plate because it was so cheaply and poorly made. I came here for the food and left extremely dissatisfied with the food. I would comment on their dessert, but I was never served the one I paid for.\n\nI will never return to this place because the food is just - bad."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNka0lmNTdRRRAB",
+            "text": "Love this place when at the mall. Happy hour is my friend. All of the servers are amazing but Boomer is my new love. So friendly and makes you feel special. I'm a literal Queen when here💕🥂 Keila, the Manager, made a drink for me during one of my first sit downs at the bar and her skills are killer. You must come here and experience the greatness!! 💯"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQOVp2ZTBnRRAB",
+            "text": "This is a place I have no plans to miss every time I visit NYC. Hats off to the service personnel and the food is really gooood!!! I highly recommend the molten lava cake, super yummy!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJbTNfZWVrMU1DRmp3RRAB",
+            "text": "Boomer was an amazing waiter. He tried to meet our expectations and succeeded. Definitely the best experience my table and I had and would definitely come back! I recommend."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZaWVQSjhRRRAB",
+            "text": "Delicious food 🔥❤️ and the place is beautiful great customer service.\nOnly problem: they need a new butcher or teach how to cut meat 🥩. I ate a rib-eye steak medium, half was perfectly cook; another half was well done!!! That’s…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoODZTN1d3EAE",
+            "text": "Applebee's to the rescue, I can say that this restaurant is a go to classic now and has been delivering solid decent food services that is enjoyable. They have different drink selections and have a good selection of meals of all kinds for youth and all adults to enjoy. The food always comes out hot and sizzling."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKS3QwTG1ucnJfREpREAE",
+            "text": "I have to give a special thank you to server, Saul & manager, Lavon at Queens center Applebee's. They were the sweetest, most kindest people and made my experience 10/10! You will not be disappointed if you come here. Family friendly, positive vibes and environment. This is definitely my go-to Applebee's."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNWRPVmpRRRAB",
+            "text": "Evelyn was phenomenal. She was tremendously accommodating and super sweet. Evelyn gave us wonderful recommendations. 10/10 recommend, she noticed one of her orders was likely incorrect and made sure she made changes immediately. In this economy, give her a raise. Expeditiously. Thank you."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUeV9HQWpnRRAB",
+            "text": "I forget how quaint it is to eat in these type of chains. Very Americana. I love the energy. Went specifically to get the Whole Lotta Bacon Burger and I have some notes. It was delicious but it also felt like it was the correct amount, you are suppose to get, if you were to order a bacon burger. Does that make sense? I guess I wasn’t blown away by the amount. Ordered the cheesy totes on the sides but I messed up because I asked for everything to come at the same time. It’s difficult to time both I’m assuming. Wished the cheesy totes were slightly hotter. Went after work with my coworker. It was dope."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJR0VpOFNqZ2RpT0d3EAE",
+            "text": "boomer was our server for dinner and I absolutely adored his energy. he made us feel very welcome and he even recommended me a drink that was really good :))) i’d def recommend him as your server and I would ask for him next time I come dine in :P"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvcV8zSEZBEAE",
+            "text": "Birthday lunch with my daughter and granddaughter drove all in the way from Washington DC. Much appreciated . Lunch was so special had my granddaughter eat broccoli which was great. Enjoyed your lunch. Great service AYAJA. Hope I spelled the waitress name correctly. She was amazing and very attentive.  She is a true asset to your franchise. Thank you!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvaWVlY0VREAE",
+            "text": "Listen, I walked into Applebee’s expecting some decent microwaved delicacies and a side of mild regret, but what I got was a full-blown theatrical performance courtesy of my waiter, Boomer.\n\nThis man didn’t just serve me food—he curated an experience. I didn’t even ask for a refill, he didn’t just bring a soda—he brought a symphony of carbonation, balancing that drink like a seasoned tightrope walker. When I hesitated between flavors for the boneless wings, he hit me with a passionate monologue that would make Shakespeare question his career choices. I just had to get the Asian one just for that.\n\nAt one point, I swear he disappeared into the kitchen and came back with my appetizers like a culinary ninja—no explanation, just pure skill. And when I dropped my fork (because I was too busy marveling at his efficiency), he replaced it before it even hit the ground!! Either he has ”wizard reflexes” or Applebee’s is training their staff in the art of teleportation.\n\nThe managers need to promote this man immediately! He deserves to be the CEO of Applebee’s, President of Flavor Town, or at the very least, Knight of the Endless Fries. The world deserves more Boomer energy.\n\nIn conclusion: 10/10 service, 100/10 charisma, and I will now be requesting him by name every time I crave questionable life choices served with a side of fries. Bravo Boomer!! 👏🍏🔥"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJcTRiemh3RRAB",
+            "text": "We can always count on coming to Applebees at this location & enjoying our food every single time. Always a hit. Super fast service, we had the pleasure of being served by Esteban today who was such a sweetheart. Definitely 10/10"
+        }
+    ],
+    "reviews_count": 79
+}

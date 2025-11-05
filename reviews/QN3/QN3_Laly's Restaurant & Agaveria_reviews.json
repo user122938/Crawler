@@ -1,0 +1,544 @@
+{
+    "name": "Laly's Restaurant & Agaveria",
+    "place_id": "ChIJ2aMtTgdfwokRgM3l2UoR2tk",
+    "grid": "QN3",
+    "address": "75-19 Roosevelt Ave, Jackson Heights, NY 11372, USA",
+    "rating": 4.4,
+    "user_ratings_total": 569,
+    "phone_number": "(718) 433-9906",
+    "reviews": [
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGWlh6bEJSR2RDZDJWdE1IUm5NM05GUmxORmJuYxAB",
+            "text": "Came here this past sunday for brunch having been here just for drinks and tacos previously. Did the bottomless option of which is a great deal at $25 for 90mins which includes various flavored margaritas! (Strong!) Great food and drinks. A lil gem local spot in jackson heights!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paclMxTXpla3BYZUZkRU1HRjJXaTFQVEhobk9WRRAB",
+            "text": "The food was absolutely delicious! Everything was fresh, flavorful, and perfectly prepared. The service was excellent, and the place was very clean and welcoming. I’ll definitely be coming back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSVk4yRlBNekl5TjJaVllXTTRNbEEwUkVOeGFXYxAB",
+            "text": "Had a wonderful lunch. Friendly and attentive service by Michell. Her suggestions turned out to be great. Ty! Flautas were nice. Loved fish tacos and my fav warm apple pie…😋🫶‼️ Ambiance is great with nice music in the background. Very clean place."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201b1pVNXNiVlYxV2pabGJuWTNTWEpuWTBSSWJXYxAB",
+            "text": "Incredibly good food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4T056VmhVSHBaTFhveGNWSlhlRk5GVld0clMwRRAB",
+            "text": "Delicious tacos, friendly service and quick. The free banana bread serving was a plus."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkb1drVkxSVUZLVm1ORGVXazBZVlZwT1VrMFJrRRAB",
+            "text": "Solo probamos tragos y postre pero el Apple pie estuvo delicioso definitivamente volveríamos. Las micheladas de mando 👍🏼"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205R09Ya3RiMFpmTmxsNVVFSlhja2xOWjBGUFFWRRAB",
+            "text": "Whoever the chef is they know what they are doing. Great food all the way around. Def the best Mexican Restaurant in Jackson heights. Great Mexican dishes with elevated flavors and ingredients."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200emQxRkpNV1pRYnpack1IRnRiR3BPVW1OeVRrRRAB",
+            "text": "Me encantan los de carnitas. Buena atención"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNM1VHZEJaRVZNU0c5dFRHMDNkR2hMYmpKSGFsRRAB",
+            "text": "Light noise but food and drinks are good"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2treE5GVnBXVU5CZGtjdFZrc3RWa3BrTkRobmRIYxAB",
+            "text": "They must  know about discipline and good manner how to talk with people. It’s already been more time when I’m on way. And we always stay outside when we go inside people are disrespectful and keep ignoring"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORWRIYzVTM1IyYnpaTU5VWkhOMlpoYlRCR2MxRRAB",
+            "text": "Solid neighborhood spot for Mexican and American food. Low key one of nyc's best burgers. Great cocktails."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSdFNVaDRhSEZXUkZwNmJqQTBaVkZTUTA1akxXYxAB",
+            "text": "La comida es muy buena y la bebidas son muy diferentes a los de otros lugares ingeniosas y deliciosas."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CUVVrOWpVbkIyTFdKNGIyYzVaa1pZZDNOUVRHYxAB",
+            "text": "Fish tacos here are legendary! (And the frozen margaritas)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poalQyNU9ObUZRTWxka2JUWnZiVjl2ZWtKTVZIYxAB",
+            "text": "Crazy good food! Open late! Loved it"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWNFJtaElXbkJSVVc1MVRYRkxTbkZhV1U0NFdWRRAB",
+            "text": "They have a great variety of cocktails and beers. The reataurant specials can provide a very solid affordable meal as well. All the tacos are tasty and the chilaquiles hit the spot. Cool interior lighting, murals and music. Goes against the grain of Roosevelt spots."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5UE9HMDFkMGRKTlRFNGNqaGhhV0kxUVdkVlVuYxAB",
+            "text": "I'm not one to order chicken fingers but someone I was with did and omg, never had such delicious chicken fingers!!! I love their variety and fair prices. If you visit, don't forget to buy a bottle of their hot sauce!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kWGMycDBZWGhzZDJoUmFteDRTMWRhYVhNMWIxRRAB",
+            "text": "Excellent choice for a taco Tuesday, with $3 tasty tacos. Hard to pick a favorite, but maybe the fish. The chicken with thin strips of breaded chicken is a sleeper, and al pastor and steak are solid. Lots of other weekly specials, and the micheladas are sweet and spicy goodness. Have yet to try brunch."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWGJsTTJkSFpsV1hVMmVFNWpNbXBmZEdsV1IwRRAB",
+            "text": "Had a great experience at Laly’s Restaurant in Jackson Heights. The food was flavorful and fresh and the tacos were especially good. The atmosphere was lively and I got to watch the USA vs Mexico game while enjoying my meal. Great vibes, good crowd, and even better food. Definitely a spot I will be coming back to."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xReFFsZ3ljME5HWVhkV1lUVk9NMTkzVG1SU1QyYxAB",
+            "text": "Food and service were excellent! Staff is very knowledgeable and friendly. Prices are absolutely adequate. Definitely recommend this place!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SQ2VsTTRlSEpaYzE5bFIxazFWMVk0UjNaSlIyYxAB",
+            "text": "Come here all the time for Taco Tuesdays with my family. Great food, wonderful staff, and nice atmosphere."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPclY1LTdVMjdmZUNBEAE",
+            "text": "La comida estubo delicioso la pasamos super en familia"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPWGs0TGV1eExMMjhnRRAB",
+            "text": "Súper  recomendado en todos los aspectos."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNcnA5WTd2X3ZYTTN3RRAB",
+            "text": "Great spot, fast service, awesome waitresses."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMRC02OENSb19tR25BRRAB",
+            "text": "This corner cafe is a welcoming stop as I travel through the city to La Guardia. Service is friendly and quick. My breakfast burrito was delicious and is served with a fresh salad. Be sure to try Laly’s hot sauces for a little extra flavor."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLWHN5Ni04LTlfRjl3RRAB",
+            "text": "I've ordered delivery from Laly's & the food tastes the same as if I was sitting in the restaurant. I usually get their Roasted Chicken Quesadilla & a Laly's burger with a fried egg which comes with fries. Always delicious and never disappointing. My bill for dining in today Corona($6) Roasted Chicken Quesadilla($15) & Steak Burrito with fries($16) & 1 Roosevelt Street Corn($7) $47.90 plus $15 tip as they do provide a great service & the food is delicious."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvanJfYzd3RRAB",
+            "text": "Had a great time catching up with a long time friend. The food was good and the fries were crispy!!! There's definitely a few things on the menu I want to try. Sangria were nice and strong!! Love it"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvOExtWXdnRRAB",
+            "text": "Stopped in for an unplanned breakfast because I had time to kill, spent an embarrassingly long time choosing what to eat because it all sounded SO good. I ended up ordering the steak and eggs. Everything was delicious, cooked to perfection, well seasoned, and well portioned.\n\nWill definitely be coming back."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJb0wtNTVRRRAB",
+            "text": "The fish tacos looked and tasted fantastic! The servers were super friendly! The dining area and bathrooms were well-kept! An all-around great experience, and truly a gem!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJM19DX1RnEAE",
+            "text": "Very good food!!! Service 100%"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2aWU2ZFVBEAE",
+            "text": "I love this place. Sangria is always good and food is too."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3MXZXRUVREAE",
+            "text": "Good customer service is lacking."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3a3ZlbG5BRRAB",
+            "text": "Great modern Mexican American food and mixology cocktails. Also, one of the best burgers in Queens."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRZzhTakl3EAE",
+            "text": "Great food at affordable prices"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRekp2Z3ZRRRAB",
+            "text": "Usually get delivery, but enjoyed a meal out.  Lots of great options, but the fish tacos are insanely good."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnbEotVDl3RRAB",
+            "text": "My wife brought me here for brunch and I loved it! The food was delicious. The chilaquiles were perfect! The carne asada cooked to perfection and the cantarito was soooo good! I’m so happy! I’m coming here every weekend for now on!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBbTVfWHZRRRAB",
+            "text": "I love the salads.  If you are fans of salads that's the correct place.  Mexican food as well."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBcWRqRVBREAE",
+            "text": "Got charged 20% tip for ordering a beer with food. Tip came out to $20 for a $100 tab. I’m not against the tipping but not letting me know an automatic 20% was going to be added and on top of that I had to get up and ask her for stuff because she wasn’t paying attention to me when, too busy talking to her co worker"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfNUpMa3lnRRAB",
+            "text": "My favorite place for Mexican and other. The only bothersome thing was that the music was way too loud which staff turned it down when asked."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmbkp6VmhBRRAB",
+            "text": "Laly’s on our way to the city Center for Alvin Ailey! Wonderful Tortilla soup. The avocado made it creamy and tasty. My husband always gets the Cuban.  We live outside of Tampa part of the year where the Cuban was originated. He says it’s better than anything in Tampa. The French fries are fresh  from real Idaho potatoes. The owners really take pride. Tonight is Thirsty Thursday 10 bucks margaritas, catch a buzz on the first one. Just returned for their burger and tacos al pastor. The Burger is top notch. Cooked perfectly medium rare. 8 0z with homemade fresh potato fries , 14 bucks. Craft beers on tap."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2LTdpYnRnRRAB",
+            "text": "Came by on a Friday Afternoon specifically to try their Micheladas, the regular and the Laly's Special, and they were both good and well made.\n\nMichelada (regular): It had a tamarind syrup and tajin rim, which was a good mixture (different from the salt and tajin that I am used to, but I appreciate the difference). I also liked the Tamarind candy straw that came with it, making it a fun experience of drinking and eating.\n\nLaly's Special Michelada: Not as sweet as the regular Michelada, and a little spicier and smokier. I prefer the regular one.\n\nWaitress/ bartender was very cordial and helpful (to both myself and other customers) in making this an amazing experience.\n\nThe restaurant wasn't too busy at the time. Also, the bathroom is clean and spacious. The toilet doesn't flush too well."
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2blBUa0pBEAE",
+            "text": "Excelente atención"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQanRxMENREAE",
+            "text": "First time coming here and will never return.\nWatch out for you bill and service is very bad (Miriam)"
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQMXJPTEhREAE",
+            "text": "Te cobran tip por nada"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzNDZqVzVRRRAB",
+            "text": "Loved the food but keep an eye out on your bills. Girl gave me shit service and I still tipped to be kind despite the garbage service . I checked my bill a couple of days later and I was billed extra. I called the restaurant to get it fixed. They didn't want to take my word for it. I called up my credit card company instead, provided my documentation, and had it resolved like that instead."
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzeGNPLTVRRRAB",
+            "text": "Excelente"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQza3Atell3EAE",
+            "text": "What a hidden gem!\nThere is a special everyday of the weekday. Our favorite is Taco Tuesday! Every taco is $3. Our all time favorite are the Fish Tacos and Shrimp Tacos. We’ve brought all the family here and even had my birthday dinner here.\n\nI’ve also had their mixed fajitas. Best I’ve ever had!! So delicious and flavorful. Service is also amazing! Everyone is so friendly!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYMHRIU2lRRRAB",
+            "text": "Best burger I've ever had in ny. Get the cemita burger"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURucDdIdnd3RRAB",
+            "text": "Food here is always good and our server Luis gave us great service. Will be coming back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuanFTaGNnEAE",
+            "text": "Ate here for the first time with a friend. As we walked in the first thing I noticed was the music was way too loud. There was a birthday celebration. After the party left the music continued loudly. We both had the tortilla soup. It would have been perfect if it didn’t taste like cumin. I ordered tacos al pastor and it also would have been better without the marinaded pork, too spicy. Service was terrible. We sat for awhile after we ate to get the attention of the waitresses as they were having a conversation with one another. We shared an apple pie for dessert and the crust was way to doughy.it tasted as though the dough wasn’t cooked thoroughly. It was too expensive for the quality of food and service."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyNktXTVFnEAE",
+            "text": "This place is a hidden gem 💎. I went today for brunch and everything was amazing. The service was the best I've had in a while and everyone was super nice. I knew the food was going to be good when I saw other Spanish people in there. I will definitely be back. The breakfast enchiladas was awesome and they didn't skimp on the shrimp."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSMTctUVN3EAE",
+            "text": "Came to Laly’s for brunch.  We really wanted to try new food. Food was great, appetizers & breakfast was still available which was a plus. Drinks were even better. Service was great as well. Definitely had a good time & will be coming back to try the enchiladas 🙃. I’ll also post some of the plates we ordered for reference 😉"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREMHF6WS1nRRAB",
+            "text": "First time going here, and, as a NY transplant, I'm still chasing my dream nopales. The cactus leaves  were grilled, left whole but with slices in them, and were just okay. They lacked that sweetness from cooking longer that I enjoy.\n\nThe Roosevelt Street Corn was great! (Pretty much like elotes.... still looking for my go-to spot for this dish as well.)\n\nThe Chorizo Mac & Cheese was delicious! Would pop in and get this just to take home! We also had the Guac and Chips, I don't eat cilantro, so the little bit I tried of the guacamole had an overwhelming flavor of onions.\n\nFor mains, we got the Bistec Tampiqueña, Fish Tacos, and Enchiladas with Tomatillo sauce. The others enjoyed their tacos and tampiqueña while I was content with my enchiladas.\n\nFor drinks other than water, one had a Spicy Tamarind and enjoyed it, and I had El Virus and enjoyed it!\n\nI think I was so excited about the nopales that my sadness of them overshadowed my whole experience. (I did bring them home and tried my hand at concocting a recipe I don't know.)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKLWRhTFp3EAE",
+            "text": "This was my absolute favorite place in Jackson Heights. We stopped in just to have a drink because we noticed they had several beers on tap. They run specials so we had $3 and $4 craft beers. The guy behind the counter was very friendly. I asked him the best place to order tacos.. and then realized they served tacos. At that point I had to order one… which was only $3! And the bartender recommended the fish taco. I am a fish taco fan and I’ve eaten them from many places in the US! And let me tell you.. this was by far the BEST fish taco.. or taco period.. I have ever eaten!!! It was perfectly cooked and presented. Best thing I ate in 9 days in NYC. And the IPA on tap was good too. I love this place!!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyeHBtWnNBRRAB",
+            "text": "Nice visit with clients to have a pre closing celebratory drink and dinner. Seating in a booth was a bit cramped but when the guests behind me left, our server helped move my side back, to give more space. Music was at a perfect level for ambiance and allow conversation.\nFood was tasty and price was good for the portions. Drinks are very good. My frozen margarita (I opted for no salt and no tajin) was perfect! I think I’ll be back for another one soon.  Chicken quesadilla was a generous portion with a small side of guacamole, sour cream and pico de gallo. On an incredibly hot summer night, the temperature inside was just right… not to cold and not warm. Definitely a spot to check out when visiting near the main train hub or off the LaGuardia express bus.\nI also appreciate not being charged an automatic gratuity as many restaurants are starting to do."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyaU0tREFnEAE",
+            "text": "The food was amazing! 😋 The fish tacos were full of flavor. 🌮 The mole enchiladas with steak were on point. 🤤 I will definitely come here again and try different plates. #foodie #delicious #mexicanfood"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtM3FUcDdBRRAB",
+            "text": "Good food, I especially loved the chorizo mac & cheese, it was creamy, fresh, and so flavorful. Other great dishes include the mole enchiladas, the fish tacos, and Laly's cemita. The meat in the tacos had a few hard pieces. The brunch ricotta pancakes and the asada enchiladas were both really good and filling. The staff was friendly. On the other hand the music and some of the guests were very loud, so conversation was difficult."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0dmFXSmNREAE",
+            "text": "Yet another HIDDEN GEM in Jackson Heights! We loved their unique Mexican-American fusion menu! It took me literally just 33 minutes to get to Laly’s on the E train from SoHo. I really enjoy their crazy cocktails and that mixed meat fajita platter! Get the Margarita AI Pastor to start it has Tequila Reposado, Pineapple Juice, Chipotle Agave, Licor De Elote, Lime Juice, Smoked Pasilla, it was so tasty.\n\nHere’s what dishes we liked:\n\n🥣 Tortilla soup\n🍋 Lemon Herb Chicken (their specialty and my fave!)\n🥖 Cuban Sandwich w/ pernil and ham\n🍔 Laly’s Burger\n🦐 Fajitas Mixas w/ shrimp, steak & chicken"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZMmFtSWtRRRAB",
+            "text": "It looks good, but taste is not. Not even average. Outside street vendor that we tasted better. Fish is not fresh. I believe they don’t charge the oil and fast bitter. It was our first time and last!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREenVQUjJ3RRAB",
+            "text": "I was recently here on 04/05/2024 for lunch time & I had the most amazing waitress ever! I wish I had the waitress name! excellent service, excellent food me and my partner were delighted! I recommended this spot to my family & friends."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxd1BIdi1BRRAB",
+            "text": "Decided to try the fish and chips that was recommended to us. We were seated outside, got the menus and the waitress purred some alcohol sanitizer on our hands. (It was so stinky, we couldn’t get rid of the smell after few times washing our hands). It was very loud with the train and traffic so we decided to take out. The fish was good, but 2 small pieces for $14 was a little pricey. My husband’s beef quesadilla was ok. Not impressed with the food.\n\nUpdate\nGave them another try and this time there were 2 big pieces of crispy fish. The shrimp quesadilla was good. The nachos were a little saggy."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaMkltTlpnEAE",
+            "text": "Firstly what attracted me was the mural this restaurant had. The wall photos are also interesting. I've never been in Mexican restaurant, so the Eggs Benedict was a surprise, usually it does not come with potatoes like this, and the muffin bread is thin loaf, unusual. The poached eggs seem over cooked, the yolk looked harden. But when I eat, the yolk was soft and juicy🤪, quite a surprise. The plentiful rocket greens  were the best, my favorite veggie and its tasty blended well. Overal ,Mexican style Eggs Ben was good!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWcTlERV93RRAB",
+            "text": "Came to Laly’s with my bestie who frequents this spot! I ordered a couple tacos Al pastor that were pretty great! I also got a margarita and a beer! The vibes were chill, a nice spot to get lunch and catch up w a friend! Close to the 7 train stop"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNZOGJMdUp3EAE",
+            "text": "Loved the cocktails.They have almost all day happy hours. Our bar women luna was amazing.She kept us engaged and rolled out marvelous margaritas and sangrias.The crispy calamari was well made."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSbm96OWVBEAE",
+            "text": "Had to get something before heading to the airport, saw this place across the street and thought I'd try.\n\nTried Lalys Breakfast burrito.  Had eggs, chorizo, peppers,cheese and home made fries inside.\n\nVery good taste and it came with a healthy salad. Got my greens for the day.😂\n\nNice little restaurant, delicious food and quaint atmosphere.  Will come again when I'm in the area."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxMnRtV2l3RRAB",
+            "text": "Awesome place! What a good find. Portions are sizable!\n\nService and Ambiance: The Ambiance is great. A spacey restaurant with plenty of seating and has a very Mexican inspired theme. There's a bar at the very end of the restaurant. The service was great and I appreciated the attentiveness of our servers and their willingness to help out with everything.\n\nFood: Food was great. Highlight was the fish tacos which were well balanced with the mango salad and lime. The fish was crisp. The only regret was asking for the flour shell substitution. The flour tortilla looked like it was taken out of a supermarket package and not warmed. Perhaps the corn tortilla it was supposed to come with would have been better.\n\nShrimp quesadillas were also good, but a bit flavorless and could use some sort of sauce or spice. The portion size was HUGE (as was the fish tacos) and so you are definitely getting your money's worth here.\n\nTres leches: Great. Loved it and had it all. Can't go wrong with a great piece of tres leches.\n\nOverall, great place. Will be back if in the area."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtaHNUREdBEAE",
+            "text": "Been here on a couple different occasions and I gotta say its great! Drinks don’t disappoint and tacos are delicious!!!! This is a spot for tacos. Carnitas y bistec are something else, in a good way. I did order al pastor and was not really…"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsME9pTEdnEAE",
+            "text": "Los chilaquiles son deliciosos la salsa tiene un sabor exquisito cuentan con una gran variedad de tragos los cuales son muy originales y unicos los meseros son muy atentos y amables nos fascina ir a este lugar ya sea para comer algo delicioso o simplemente tomar algo y pasar un rato agradable"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3X051Y0JREAE",
+            "text": "This place is just awesome for me. One of the few best Americans-Mexican food Perfect for my Sunday brunch and also great location. The food was delicious and very good service. The entire setup is cool. It was my first time here and We had…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiOS0tZDFnRRAB",
+            "text": "Food was good, the drinks were definitely strong and the portion was huge that day which is great"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4OXZHWV9BRRAB",
+            "text": "Came here for Taco Tuesday and it was an amazing deal. $3 tacos and Happy Hour draft beers all night. The tacos were huge, but definitely would not recommend the crispy chicken one. The two best were the carne asada and fried fish tacos. I…"
+        },
+        {
+            "date": "6년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURrejhMTk1BEAE",
+            "text": "Uno de los mejores restaurantes en queens la comida es muy rica y con porciones muy bien servidas mi familia y yo fuimos por la graduación de mi cuñado y pasamos una excelente tarde es servicio es genial y las bebidas están muy buenas les…"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURodmZlazVRRRAB",
+            "text": "Súper bueno. no puedes dejar de venir a este lugar, la Atencion muy cordial y atentos, el lugar es limpio y la comida en su punto.. sabor muy bueno está ubicado en el barrio latino.."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1blppSVp3EAE",
+            "text": "This place is good I had cocktails drinks here, very good, I have always sat at the bar. The bar guy make his own especial drink 🍻"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNidEtDMTB3RRAB",
+            "text": "Buena la comida, servicio excelente y las bebidas riquísimas"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURocmI2aFlBEAE",
+            "text": "A nice little restaurant that has really good food and friendly staff. I got one of their specialty burgers and it was fantastic. I was also happy to see they have some beers on tap including some local crew beer. Overall very nice place"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNscm9YbzNnRRAB",
+            "text": "Excelente servicio 👌, Los chicos muy Educados y Atentos 👌! El toque del sabor en la comida es muy rico 😋! Calidad y servicio excelente 🙏, Gracias por el respeto al servicio al cliente 🙏!"
+        }
+    ],
+    "reviews_count": 76
+}

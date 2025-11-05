@@ -1,0 +1,453 @@
+{
+    "name": "Cielito NYC",
+    "place_id": "ChIJMQKGg3FfwokRJLaWmZkOpac",
+    "grid": "QN1",
+    "address": "33-02 36th Ave, Long Island City, NY 11106, USA",
+    "rating": 4.8,
+    "user_ratings_total": 128,
+    "phone_number": "(718) 786-4800",
+    "reviews": [
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKdk4zQlhORTkxVEROTGNrNWhVRXRoU1ZCRFYwRRAB",
+            "text": "I was in the general area and in the mood for some Mexican food. Stopped by here around 6pm. There were plenty of seats available; but by the time I left, it was pretty packed. I sat at the bar and started off with the Noche de Oaxaca; very delicious! To eat, ordered the corn ribs and the birria tacos, with rice and beans which were extra. Everything was really good. Glad I stopped by here; will definitely come again."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjM1dsTlpUVWh1ZG1OVk1VMDRaVmRxVmtOcVdFRRAB",
+            "text": "I can say with confidence that right now Cielito is the Beste Mexican food in Astoria,  as a Mexican myself.  I absolutely love it"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxd1MwWk1PVFpNTVhkV01HSnpZblZ6WkhCWU9FRRAB",
+            "text": "This is our new go-to Mexican restaurant for food that hits the spot and serves well made drinks.\nWe visited Cielito a couple of weeks ago and ordered the bistec and shrimp tacos and our taste buds thanked us for it! We have also ordered the nachos the last four times we've been here, and we have not been disappointed. They were crispy, flavorful and loaded. Our margaritas were really good  too and were not attenuated like in some other establishments we have been too.\nIt is worth mentioning that the last time we were there a group was celebrating a birthday, and the staff were so authentically cheery when they brought out desert with a sparking candle and a beautiful mariachi hat for the birthday girl, that the good vibes and positive energy was catching. Everyone in the place stopped  to sing and clap along too. The joyous moment was a bonus!\nOverall, we have had a fun and delicious experience every time we have visited Cielito, from good food and drinks to attentive and friendly staff, that we look forward to many more!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvM1NuWXhUMHB4ZERsTU5IQXlSWGhJWm0xMk1XYxAB",
+            "text": "Amazing kind service and food"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCRWFYRlhiSE52UnpKcGJrcE9VV1JuVTNNM1duYxAB",
+            "text": "It was fine. service was excellent, nachos was very small portion. birria tacos were good. margaritas were excellent but you get more bang for your buck with the $10 margs than a pitcher which is weird."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKQlEwWlFOV0kxUlVOcmJFaHhlVzloVmpCVVpIYxAB",
+            "text": "Ceviches were the best, it's Baja California food style."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GWFVIRTNOSHB4YldsTlZYTjZNWHBOYjFSMlZGRRAB",
+            "text": "Everything top notch!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKSE4waEJTVUUyVjJoeFNHczJVMnA0VUc1MGJuYxAB",
+            "text": "10 out of 10 blown away the margaritas are insanely good. They have many different unique options that are definite must. Food is legit Mexican."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GNlNEVTJNbXAyWkZOWGRsaGhjalJLVFZGNmRYYxAB",
+            "text": "Wonderful all around!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poYU9FOUNTbk5VTWkxb1VrOWhYMmN5YUZacWRFRRAB",
+            "text": "This restaurant is absolutely amazing! The food is delicious, fresh, and full of flavor. The staff are incredibly welcoming and attentive, always checking in to make sure we had everything we needed. The atmosphere is warm and inviting, making the whole dining experience even better. Highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSWFMyNXZWMU5CYm13elRHSnZSV3hhVFV0S1YyYxAB",
+            "text": "Super cute location … drinks were on point and we only had apps but they were yummy I can’t imagine how the food would be! Deff would return"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGeGRXWkJlR1ZUVWtkRGNEazJUWEJFUWt0S2IzYxAB",
+            "text": "great service from johnny the bartender."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WM1VUTlFObEJzTkdaS0xURTVNbkF6WTBaMWIyYxAB",
+            "text": "Celebramos el cumpleaños de Camilo fue espectacular todo delicioso y excelente atención precios asequibles"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGUloxaEZZbTQyTWxRd1dtSXRUVVp1ZDFvMWJXYxAB",
+            "text": "This place is like a classic for Mexican food spots, you can never go wrong. Delicious food, tasty drinks, very affordable and staff is super friendly. Always a great experience."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wdWEweFpjamc1Ulhwdk0xZEJkakZZVUZWc1VsRRAB",
+            "text": "I was sad when I thought you guys had closed down the we noticed you just had a renovation, everything looks great and we plan on coming often . Just did brunch and we thought every thing was delicious. Drinks yummy."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MFgyNHpiM2xFUTFjeWJWWmphRGRrVWpNMk0xRRAB",
+            "text": "Cielito did not disappoint! My family and had Saturday Brunch. We had the  mango habanero ceviche, fresh guacamole, green chilaquiles, churro French toast, and some truly delicious mango mimosas. Everything tasted homemade and full of flavor. The atmosphere is beautiful and gives off a trendy, vibrant Mexican neighborhood vibe. On top of that, our waiter was fantastic - super friendly, attentive, and made great recommendations.\nWe'll definitely be back soon!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nMmFIRlZkWHBpTWtGRWNGOUlXVXhSVUZSelNXYxAB",
+            "text": "Better than expected! Grilled octopus was on point 🤤"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5T1JWaHpTWFJQTFVaaWFFOHRlRlkyUTBGVVpsRRAB",
+            "text": "Definitely not the cielito like before. Portions are smaller, recipes have changed and tastes cheaper. Ice pops were much more smaller. My friend and i were sat and waited almost 20 minutes for someone to take our order. We were excited to once visit cielito after such a long time. But unfortunately will not be going back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJMFdqTjNMVEpWYVdwdVpFdG1TbXd6WlZKWWJWRRAB",
+            "text": "Walked by on a lovely summer afternoon with my partner. Hopped in for a michelada and some apps. Everything was delicious."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214RlJTMTJOV2hsZEc4emJuQXhjSEprWjBaVFNrRRAB",
+            "text": "The food is great!!!! Try the octopus!!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkck5VOUphMVowYVRsME0waEZNRTlJUXpBMGVVRRAB",
+            "text": "Best spot in Astoria queens"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wRlkxaEJTVWN0ZWtoZlZHWkVaMkUzWVZob09HYxAB",
+            "text": "Beautiful day spent eating Mexican food and drinks."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pselEwc3piMFExZDJFNGJtWkNMVEJwYm1neE5WRRAB",
+            "text": "Flavorful and well prepared meal! Now I know where to go to fill my next craving for ceviche. Good size pieces of seafood and lots of flavor with well seasoned chips. HH was a treat, no watered down or super sweet drinks. The staff is just truly kind. Thank you!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MmFsVllTV3hxT1dwS2NtdE9NVnBZYjNsaFYxRRAB",
+            "text": "Food was really good just wish the portions were a little bit bigger but no complaints! Quick service and great atmosphere. Would come again!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKV2RrOXBUbVY2Wm5sdGQxWnhjM0F4YjNBd2JYYxAB",
+            "text": "Absolutely love this restaurant! My go to food options are the chicken nachos, spicy shrimp tacos, and carnitas tacos!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdU56QndNVU5VWVV4aFRWOVNjRkp0WDJoVmExRRAB",
+            "text": "We were undecided where to go for dinner in Astoria since it was a birthday dinner and must I say, Cielito IS THE PLACE TO GO!\n\nFrom the moment, I called to see if they accepted reservation on a Saturday and letting them know that it was for a birthday dinner, to meeting our waitress Cony,  the service that Cielito provided is UNMATCHED. The food was heavenly (I can see why it’s called Cielito), the drinks were delicious, and the service we received from Cony, Salvador, the bartender (unfortunately we didn’t get his name) and even the cook Daniel was exceptional. Please don’t ever replace Daniel! lol Cielito overall was 100/10, the place is beautiful, vibey, and chill.\n\nEveryone there was so welcoming, positive, and attentive.\n\nThis was my second time and now it will definitely be my go-to spot! They made this dinner a beautiful experience! I hope the owner reads this to they can acknowledge the exceptional service Cony, Salvador, Daniel, the bartender and everyone else at Cielito provided. Best place in Astoria!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWaGEyeHZaM05ZWVVFM1RVTkJlVzFEVTNJeE1HYxAB",
+            "text": "We ran into Cielito because the hotel was nearby, and we’re so so glad it was. Rogelio was GREAT, he made a great selection of plates for us. Highlights were the birria and the octopus. Guacamole made fresh in a mortar, crunchy churros and good mezcal!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214clRrVlpNemN4Y1RobmVUTTFkRGQyTm1WVlUzYxAB",
+            "text": "Had a great experience hear and had a wonderful on timing waiter named Royer he made my birthday feel speacial on my day; also writing on here his girlfriend who took a chance on this place I've never been to LIC and Royer made it one I'll NEVER FORGET. I LOVE THIS RESTAURANT. DONT FORGET TO TIP ROYERRR"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkMlprTnFUV2RMWHpOdVZXeFlTM1JwUmxoZlQzYxAB",
+            "text": "Ya veo porque se llama “cielito”, los tragos y la comida esta tan tan buena que te mandan al cielo. 10/10 recommend for anyone looking for some good food"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0U2JVNUxhRGxuYmtKM1ZHeElaa2R1VGpONmVWRRAB",
+            "text": "Casually elegant, low key festive, and serious fare.  Atmosphere, service and food very much a part of the social side of the evening.  All perfect, for us!  We so enjoyed!  Thank you for a lovely evening, delicious food, unhurried and friendly service and atmosphere.  Viva Cielito!"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOMGFXbEJOV2cyVkhKV1RVRlhiV2RhZERSQ2RrRRAB",
+            "text": "Lorena tuvo una atención excelente, se preocupa por la satisfacción por sus clientes."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trNWRrbEZhSFoyTmxsalRGaFliMHgwYnpoWU5HYxAB",
+            "text": "Really nice place and good food. Loved dining here and watching the sun go down out of the big beautiful windows. Staff is amazing. Order the nachos!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SWFFsZGlPV1Z2WkZsemIwTkZNMDFHYTBOaFZuYxAB",
+            "text": "The food was absolutely amazing. If you want AUTHENTIC Mexican food, this is the place! The atmosphere was also great and the drinks were really good!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVmJuRTBXaTFvVkhwalJ6VTNlSEYzV2tWeGJrRRAB",
+            "text": "Andrea was very attentive and kind, and she gave us excellent food suggestions. The food was delicious, and the cocktails were fantastic. I will definitely be back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjdE4wc3lXbFJJUWxGSmQyWnFXREZqYkV0VFJuYxAB",
+            "text": "Pretty good! Cute spot. Dessert needed a little work."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKQ3Jpb2pGbmVDUWF3EAE",
+            "text": "A beautiful 73 degree summer Friday evening.  Great restaurant with excellent watermelon margaritas and excellent octopus tacos. coming back for the birria."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKM2FHUlVaSEpUV21GS05tbDBhM1pJYUY5dU9IYxAB",
+            "text": "Cielito was great! Really fast service and super friendly servers. The food and cocktails are delicious (we got fish and birria tacos). They also gave us a free shot before we left :)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMX3lqcG10bFk2STl3RRAB",
+            "text": "We had a flight cancelled at LaGuardia and ended up staying in the area. This is the best Mexican food we’ve had in a very long time! Drinks are good, salsas good, tacos good!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOLURqZHpkeDh6Z0x3EAE",
+            "text": "Andrea was awesome\nBest bartender I interacted with in a while!"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMLWRqT0hZckxEWVVREAE",
+            "text": "Muy elegante y bonito el lugar. La comida es deliciosa!!. La mejor experiencia fue la bartender Andrea. Muy atentiva. Y mezclava las bebidas perfectamente. Me encanto!!\n\nMarcos el bartender fue bien super y atentivo. Siempre atento. Gracias ese servicio definitivamente regreso!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOWGZvcWZ2MWIyempnRRAB",
+            "text": "Andrea was the perfect bartender you could ever ask for. The attention, and the professionalism was out of this world, and you can’t forget about the delicious drinks, all of them were perfect every single time!\n\nWill definitely keep coming back!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4M1lYRlBNR2xRT1hveE9WWjVUbk51T0VkQ1VGRRAB",
+            "text": "The best cocktails I've ever tried, but the best place is the food, super delicious, the atmosphere super nice Andrea, excellent service, the best bartender Super good everything super good"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJR3VpYl9RcTVUeDV3RRAB",
+            "text": "La comida súper deliciosa,  fuimos atendidos por un señor muy atento nos hizo recomendación de la comida"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQU29ycXFHZ1ozVmRBEAE",
+            "text": "Cielito is a great restaurant! We walked in off the street and immediately sat at the bar. I would recommend the White Sangria and Octopus app. My partner had the Oaxacanite and really enjoyed it too. We will be back! Great for a date night"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNTy15N0ctNzh5aFFnEAE",
+            "text": "cool inventive menu, friendly and inviting atmosphere"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPVF9xOXlONmJ2d0VBEAE",
+            "text": "Great ambiance and food. Andrea the super friendly and makes great cocktails 🍸"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJYkdqOVQzcGJTVUhREAE",
+            "text": "If you’re looking for the best margaritas in town, look no further, this Mexican gem sets the bar high. I’ve tried margaritas all over, but theirs stand in a league of their own: perfectly balanced, smooth, and crafted with top-shelf ingredients you can actually taste. Every sip feels like a step closer to a beach in Tulum.\n\nThe food is fresh and flavorful, but the real star here is the margarita menu, creative, refined, and always consistent. Whether you go classic or try one of their seasonal blends, you’re in for something special. The staff is friendly, the ambiance is relaxed yet vibrant, great for a casual lunch or a happy hour wind-down.\n\nI keep coming back, and every visit reminds me why this place is such a favorite. Five stars without a doubt."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNZll3cVRiX3EtOHpBRRAB",
+            "text": "Food was delicious and my bartender Andrea was amazing ! Coming back soon !"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLR0E2OGVCdGZxeE93EAE",
+            "text": "Cielito is a lovely restaurant.  Great ambience inside and out, delicious food (the tacos are amazing!), and very friendly service.  Loved the margaritas, as well! (See photo)."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmdDdtc2xnRRAB",
+            "text": "Not sure why it's labeled as open on Google maps because the business is closed. Like windows boarded up closed. Their website shouldn't allow you to make an rsvp that gets approved just to arrive and there is no business."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkb3ZIRVZnEAE",
+            "text": "I’ve been here a couple of times for happy hour with friends after work. Drinks are great, tacos are nicely priced. My fav is the butternut squash taco. The location and atmosphere are lovely. Will keep coming back. Cheers!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3eFBpN19BRRAB",
+            "text": "Random Sunday night date night. I been wanting to try this place.\nThe nachos and white sangria was realllly good. Couldn't stop sipping it and I'm not even a drinker. One glass got me wavy too. The waiter was attentive and friendly.  Nachos were super good.\nSo I ordered the chicken tikka quesadilla. That item is no longer served and they need to update their menu. I really wanted a quesadilla and I asked if there's other types of sauces they can put with the chicken he said some sort of red or green sauce. I opted for green. It was good but very wettish chicken, very mushed and almost puréed. It was alright but ate it anyway.\nThe birria taco that bae had was really good. That's what I should get next time.\nNice vibes all around. We sat outside and enjoyed the seats we chose."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3cU15Y3R3RRAB",
+            "text": "Continuing to try out new spots to eat in the neighborhood. Since we had the pup, we took the outdoor seating. Great atmosphere. Shielded by bushes from the sidewalk.  The steak nachos were superb. Every bite was flavorful at the same time unique. Best way to describe it was I cleaned the plate. Paired with two glasses of the white sangria.\nService was very attentive almost white glove. Cleaned the table after each course. New napkins, took the old. Water always half full.\nBirrio tacos for me. Chicken quesidilla for the lady w/ salsa verde.\nBesides being very wet. Both were delicious."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqcXRpNzl3RRAB",
+            "text": "Absolutely loved this restaurant!!!\nThe ambiance is so beautiful, the staff is attentive & polite. The Street corn … omg sooo yummy. And the Margarita with the passion fruit popsicle was to die for.\nI didn’t have reservations, just showed up & got seated right away.\nWill definitely come again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsbVlYTjV3RRAB",
+            "text": "I wish I can give them 10 stars.\nDelicious food and delicious drinks especially mojitos.\nAt the end all of us (group of 6) received free shots of tequila.\nHighly recommended"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUN2R6enh3RRAB",
+            "text": "El ambiente es muy bonito.. la presentación de la comida es bella, super rico todo diez de diez este restaurante y se me olvidaba la atención es genial. Recomendado. Me sentí feliz 😄 en este lugar."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREbmJDZVVnEAE",
+            "text": "Truly, what EXCEPTIONAL service - Diego was so incredible, attentive, and made us feel so special. The food was absolutely divine, and the guacamole is a must have, as well as the specialty cocktails. They even made my partner sweet potato tacos that he’d seen online but no longer was on the menu, WITHOUT hesitation. I had the fish tacos that were battered to perfection, super fresh and delicious. Truly an incredible place and deserves five stars, and Diego is truly a gem. If you’re in the area, it’s a must-have!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5MjZPbnRnRRAB",
+            "text": "Nice place for an intimate date. The drinks were great, most of them come with popsicles. Food was good, the ribeye was seasoned well and i’d recommend chicken nachos. Also, our server was very friendly and personable. A new date spot for sure"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiaXR1YWxBRRAB",
+            "text": "The food and drinks were really great. The atmosphere and vibe was nothing like we expected on a Saturday night.\nDefinitely doesnt look like the pictures its more of a relaxed chill place."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4cm92UUxREAE",
+            "text": "My family and I went for lunch. Starting with the service, was excellent!! Our waiter was Mario and he was so attentive, nice and patient giving us recommendations. The rest of the staff were super nice too. The drinks are not only…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURud0k2enl3RRAB",
+            "text": "Food was good I had the the red chiltepin aguachile and my wife the cielito nachos with steak.Uriel  the server was amazing. And Artemio makes the best drinks 🍹"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMODhTS3JRRRAB",
+            "text": "I went there today 6/22/2024. I am regular a customer and was in love with this place and invited friends from out of town to try it since I would come here all the time until today I will no longer come back.  They have new management & changed their menu. Was very dissappointed at all the food portions. The birria tacos order was giving kids menu. Most of the plates are kids menu portion & prices are crazy. The food is delicious it was the portions I was upset about.  I loved going there because the portions were big so it was worth the price. My bill was over 100 & they used to offer free shots on the house did not receive any today. So was overall embarrassed with my friends for bringing them here from out of town to be disappointed with this new management."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1d3JTT3FRRRAB",
+            "text": "Our server Mario was great. He was very personable and was able to communicate with us in English and Spanish. Very professional. The appetizers were very good and were brought out pretty quickly. The meal we all ordered was Birrea Tacos and they were okay. Not as flavorful as I would have wanted but still good! The service made up for it! Then at the end, Mario brought us a shot of tequila! Nice place."
+        }
+    ],
+    "reviews_count": 63
+}

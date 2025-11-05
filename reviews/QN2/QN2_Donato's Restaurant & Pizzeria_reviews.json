@@ -1,0 +1,516 @@
+{
+    "name": "Donato's Restaurant & Pizzeria",
+    "place_id": "ChIJ0U663SFfwokRT7HY9m8Ies0",
+    "grid": "QN2",
+    "address": "50-22 39th Ave, Woodside, NY 11377, USA",
+    "rating": 4.2,
+    "user_ratings_total": 617,
+    "phone_number": "(718) 507-4591",
+    "reviews": [
+        {
+            "date": "12시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sZlozaFpaR2xNZDJ4MmFGVTNWbEkzYUdkRk5HYxAB",
+            "text": "The overall experience always leaves me satisfied."
+        },
+        {
+            "date": "21시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGM1NWa3lPRGxsV25sa05sZ3hkbWhNYUdjemJHYxAB",
+            "text": "Good food and kind workers"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FNVNVbHdlRlpMYm5OMGFYQk1Za1pXYW5KMGFWRRAB",
+            "text": "Outstanding gem"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKRlgzSnRTbEZQUkRFNU5tOHlPVEJMYjNoSFIzYxAB",
+            "text": "Carlos was amazing. Great food and portion sizes."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoak5rcHdjazVLZUZwRE1YQkdXRW94Y1ZwVlIyYxAB",
+            "text": "Absolutely wonderful people. Thank you guys."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOWGVraElhVWxNZW1zMFFXbEJiMW81Um1Gd1oyYxAB",
+            "text": "Amazing food and service! Have been coming here for more than 20 years!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xTWF6QmZUbTl0ZFRWamRUTnpRekZtVUZwWWRsRRAB",
+            "text": "Always amazing! Been coming here for over 35 years"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CU1ZuVkRWek5GZUhWMlRsUjRjVXRpZEZaWFkxRRAB",
+            "text": "Donato’s is simply the best! When you go ask for Carlos or Michael, they will take fantastic care of you!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xobFIyaEdSRjkzVlhwU1kzbzRlRGhHU0ZCd1VsRRAB",
+            "text": "Food is incredible. Classic red sauce Italian joint.\n\nCarlos provided amazing service!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSFlrZFlia0U0TlhwWWMyeExORVZ4V2tWbFNtYxAB",
+            "text": "Carlos is very charming! Get the veal parm!!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZd1ExODNVbkJGVEVWUmFUbGZUVmQwU3pkRmJIYxAB",
+            "text": "Always the best. Food and service is top notch."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBNFVEWkNTRGR3VldWR05WZzNVeTE1WDNWU1QxRRAB",
+            "text": "Best home style Italian restaurant in the neighborhood. Always a good comfort meal here. Very good wine list!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCNk5WaDZZMlpoZEVSclNUYzNSV2RaUTNkYWVuYxAB",
+            "text": "Good food"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kamRrUnZNbkZDWW0xbWJqRmFZV3RSWlhCS2VtYxAB",
+            "text": "The desserts are plated so beautifully that they feel gourmet."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSVVlUVnNOblo2UW5Vek5UTlZOR3A2Tm14VE1FRRAB",
+            "text": "The desserts looked appealing."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4Mk1ERkpiSGxIT1hoRFlsTnpXbE5vUlROV2RXYxAB",
+            "text": "We didn�t feel rushed at all."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSmNrMTVkVWh6YWpaTExTMHdiVlIwU2taUmNGRRAB",
+            "text": "Next level service grest authentic Italian cuisine. Friendly environment. Been eating there for years now. Figure I'll leave my review ✅"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWbVRVWkZaRzlqTFZoUlJISk9aMGxJYlRkSGJHYxAB",
+            "text": "This is our neighborhood local..and frequent often out of convenience more than anything but this review is more about staff, particularly one outside waiter, black curly hair..He is SO rude, dismissive, and just not helpful. He does the bare minimum and actually seems annoyed if you ask him anything.. He never brought us any bread until we asked, and when it did come, it was stale.. He barely came near us the rest of the time.. We ordered a shrimp appetizer and it had 3 Shrimp on a pathetic piece of old lettuce.  Presentation very poor, and for 2 people I feel 4 Shrimp would have been appreciated.  My main issue is with this waiter.  He does not provide good friendly service and brings down the atmosphere of the place.. He clearly is unhappy here, so I strongly suggest he go elsewhere! He is also rude to children. My 16 year old daughter sat with her friend  here outside  in August and ordered a full meal in 90 degree heat. She asked for water wuth her meal, and he never brought her water to drink. Seriously? It is common practice here that water is brought out immediately once ordered or even before the order...Totally unacceptable.  I will say the owners here are lovely, and the young lady that brought us out waters etc.was lovely. Again, this server brings the whole place down."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0MFNtSlZNM3BUVTB0T1JXWjBMVEYyUW0xTGQxRRAB",
+            "text": "I’ve been visiting this restaurant for years. And though I’ve moved out of the neighborhood, still come back for the wonderful service, chill atmosphere, and delicious Donato’s special. My husband and I held our small wedding celebration in…"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psNWNWZGlVSGQ0ZFMxSWRHWnhZalZ5Um1SWVkyYxAB",
+            "text": "I had a wonderful experience! My server Walter was absolutely amazing—attentive, friendly, and made sure I had everything we needed throughout the meal. Nicole, the bus girl, was also fantastic—super polite and efficient, keeping our table clean and making sure we were comfortable. The food was delicious as well—fresh, flavorful, and beautifully presented. Overall, a great dining experience thanks to the excellent service and great atmosphere. Highly recommend!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paS1FVZHNWVWxUWTI5alJuVmlNazFXUm5sUGVsRRAB",
+            "text": "This is a great place for kids! Very kid-friendly, and we really enjoy their pizza and pasta! Great service and always very patient with the little ones. Highly recommend this place!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4cVNubFZjMlpFZUdWTmNsQkhZa2N5TFRNeGVIYxAB",
+            "text": "The personal speak  Spanish and English.   Courteous and also fast. Food great. Service wonderful (everyone)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VMbnlvdjNtdV9UR2dnRRAB",
+            "text": "very slow"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWMWVTMXdjM0J4T0hSSVptMU9UVzgxUTJZdGRsRRAB",
+            "text": "Italian traditional food is good. I will come back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0b1FVdzNiakpzVjBOMWFIVlFhalV3TXpKM1VVRRAB",
+            "text": "No redeeming qualities. The food is over salted and overpriced for what it is. They’re there because of the location and nothing more. Captive audience and overpriced everything. Terrible food."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOLUl6X3lPdTZXbU9REAE",
+            "text": "This is a nice hidden gem located about an 8-minute walk north of the 7 train. The service and food are well worth it. I had the chicken parmesan with penne. That, and the bread with butter and olive oil, were awesome."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLWGgyTU9UeUtySkhREAE",
+            "text": "The food was great and the service was fantastic.  Really respectful."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLcnk2N2ZHN3ZqcVdnEAE",
+            "text": "Love the penned a la vodkq"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VQRGp2S09uZ3YteXVnRRAB",
+            "text": "Only gluten free pizza (cauliflower crust) I’ve been able to find in Sunnyside, so that’s what I appreciate about this place!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMbWx3b2lFdl9XRGtnRRAB",
+            "text": "Amazing"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJYnp4Sl95b0xiX0NREAE",
+            "text": "I’ve been here a few times. I came here for a big family dinner. Everyone in my family including the little ones enjoyed their food. The service was very friendly and professional. I had their pizza slices and they were very delicious. I definitely recommend this neighbor gem for their delicious dishes and drinks."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VPYkM0SUQ1dXYzWXJBRRAB",
+            "text": "I think that each order of lasagna should bring its piece of bread and a little cheese, we ordered two orders of lasagna and we got 1 little parmesan cheese and half of a bread too hard!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvdXZpWVdREAE",
+            "text": "Awesome service, delicious pizza and dessert!! Thank you for all that you do!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJakp2QzN3RRAB",
+            "text": "I'm standing in line with other people, and I guess the guy in the back didn't want to wait. He walks up to the guy behind the counter and starts ordering in spanish. The guy behind the counter takes his order, and I leave. I will not return."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3X2YyYW1BRRAB",
+            "text": "Can not go wrong with this place!  So yummy!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRa291WlZ3EAE",
+            "text": "On 02/09 ordered from special menu the salmon & garlic bread crostini.  The crostini was very oily & I was sick throwing up all night through early morning - couldn't go to work.\nOn 03/02 ordered from special menu fish dish - woke up this morning with stomach cramps & mucus in my stool (never had mucus in my stool in my life!).  Still having stomach cramps. Will have to see if this too will pass."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURndzRuVEp3EAE",
+            "text": "Do not order takeout from this restaurant"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnMmRiVmtnRRAB",
+            "text": "Delicious and good atmosphere. Great, friendly service."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNndHRTWVhBEAE",
+            "text": "Staff was super welcoming and friendly. Vodka sauce was delicious even with my high standards as it's my favorite. Baked ziti was lovely. Fair beer prices. Atmosphere is so old school and cozy"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnc29LU3Z3RRAB",
+            "text": "They food use to be pretty good. I ordered the real marsala and was very disappointed had very little flavor the pasta garlic sauce the same. I don’t know they kyst have changed The chef. I won’t be ordering snymore"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBOVp1WENREAE",
+            "text": "Food and atmosphere is great."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfMS1PRVVnEAE",
+            "text": "This is the best pizza shop in Sunnyside! The staff is wonderful, and the service is top-notch. When you visit, be sure to ask Big Mike to help you out—he truly cares about the community and makes fantastic food. Highly recommend!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfOElYdm1nRRAB",
+            "text": "Definitely a neighborhood favorite. I always get the pepperoni pizza, the pricing is decent for the quality and size. They also have great gelatos for summer, extremely refreshing taste."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfOTZhNkNREAE",
+            "text": "We got take out from here and was delicious. Ordered the shrimp oreganata and meatball hero! Would recommend and will be ordering again"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfX283UXR3RRAB",
+            "text": "Worst place ever. Do not ever eat here"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmbl9LalFREAE",
+            "text": "This was my 2nd time here for a big bday party. Food was ok not amazing, garlic pasta sauce was very oily, one dish came very salty and luckily they replaced the dish. Came in a Sat evening after Christmas, they didn’t offer bread or water until we asked several times after around 15 mins, one of the bread basket tasted stale. Just disappointed."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dXRtXzBBRRAB",
+            "text": "Love the place but the food isn’t the best sometimes but overall great"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQeTUtT2R3EAE",
+            "text": "Wonderful service and delicious food!"
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQaV9XRER3EAE",
+            "text": "Comida deliciosa, ambiente  muy familiar !!!\nDelicioso todo."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQczZuUkNnEAE",
+            "text": "Real Italian experience. We went two time in two weeks."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKNHVYNUFREAE",
+            "text": "The service here is fantastic! Very accommodating, friendly, hospitable. The food is delicious! Granted, I kept it simple but sometimes simplicity is what you need. For those complaining about the CC tax, they have it stated on the front of their menu! It's not a surprise, it's printed in b&w.\nI'm new to the neighborhood but I can see myself coming back for another solo date! If you love an Aperol Spritz, order it. It's HUGE and perfectly balanced. Thank you Donatos!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0dFBTRlpREAE",
+            "text": "Donato’s is a classic neighborhood Italian restaurant with great food at reasonable prices. We loved the crab cakes, eggplant rollatini, and linguine with white clam sauce. The professional wait staff is awesome and attentive. Great selection of wines and desserts too."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHNS0tR2NBEAE",
+            "text": "First of all excellent service !!! The waiter was amazing with checking in on us etc… On the other hand the food was perfect! The portions were good and it got me full. Price wise I think it’s affordable depending on what you order. My favorite dessert was the lemon sorbet. It was delicious and it was something that you just wanted more of.  Overall I recommend this place  to anyone that wants to dine in because it has both an excellent service and amazing food."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQak9XVnVRRRAB",
+            "text": "I had one of the best personal pizzas I’ve had in a  while with fresh vegetables and toppings. Mike at the counter was really helpful and recommend what he thought would go good with the pizza and it came out amazing. As a treat, I bought the cherry Italian ice. For my first time at Donato’s, I see myself going back again and trying the other recommendations Mike gave."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnLWVUTlFnEAE",
+            "text": "One of our favorite restaurants in Queens. Really good food and most time everything was great. We are there even few times a week. One star less because we had not tasty fish last week and told about it to the owner and he did nothing with this, also add it to our check. We didn't even eat this."
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDaTlQNTRnRRAB",
+            "text": "Siempre trató de dar reseñas honestas\nY que grato es en esta ocasión encontrar un excelente restaurante en mi área a cuál le doy las 5  estrellas\n5 en servicio\n5 en atención\n5 limpieza\n5 rapidez\n5 comida Rica\nMuchos meseros y hasta el gerente te saluda y esta atento a que te sientas cómodo\n¡Vayan les va a encantar !"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4NXN1SU1BEAE",
+            "text": "Dining out is finally back!\nI tried something different from their menu.\nStuffed artichoke.\nI will never order stuffed artichoke again from this place. It was dry and overcooked. The stuffing was good.\nThe last time I ate here was 2012.\nI will stick to the pizza next time I venture into this restaurant."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlaHZqdzdBRRAB",
+            "text": "Amazing pizza, crust is crispy ingredients taste really good and if high quality. Only area of improvement is adding a tiny bit of oregano to the pizza to elevate the flavor a tiny bit more, otherwise incredibly great pizza. Be aware the…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXdGJuQktREAE",
+            "text": "I go to this restaurant like it’s my job. Their chicken parm is so good, I keep coming back. I’ve been ordering this for 5 years now and the quality is just chef’s kiss. I’ve had plenty of chicken parm in other restaurants that were more expensive, but could not match donato’s in terms of taste. Best chicken parm in the world"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnbWRxclNREAE",
+            "text": "The service is okay 8/10. The guy in the front isn't very friendly. Everyone else is wonderful. The prices are iffy ex$1.50 for a normal size Poland Spring water. The pizza guy is fast and the pizza is good.(I mean at least it does NOT have sugar in the tomatoes sauce!)\nThey do not only serve pizza but it's a pizza spot/restaurant. With a small pizza seating area, a large restaurant seating area and a shaded outside seating area.\nCash Only\nTv\nAtm\nRated A"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURjNUpiZVBnEAE",
+            "text": "Ordered a Large Pie of Margherita and mozzarella sticks.everything was ok. The only thing I never understood that why they put fresh diced tomatoes as a topping.Next time I know I have to tell them NO DICED TOMATOES."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRbnZQMnlnRRAB",
+            "text": "a nice small restaurant. nice atmosphere. and good service. I enjoy the food here every time I order from here. I would suggest ordering in since they tend to take a while with delivering your food."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlOWJmdE93EAE",
+            "text": "Food is ok, service can be improved.  Beware of a so called 3.99% credit card fee that gets added to your bill if you pay with a credit card.  I came to find out of such fee until after the card was swiped.  Bad business.  Used to go there…"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQNXMybEpnEAE",
+            "text": "I've been coming to Donatos for years. Amazing selections and stupendous service. The staff works together to make sure you feel accommodated. They have a solid menu for the day's special that should not be missed either. Their dishes are full and it's a great spot for family gatherings or a special occasion."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuOGN2bmdBRRAB",
+            "text": "What a pleasant surprise. Looks like a nice local pizzeria / restaurant from the outside. It is way more than that. I would say fine old fashioned Italian food done extremely well. The service was excellent. Great weekly specials. From appetizer to dessert the meal was near perfect. I will return"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYNk96ZGlRRRAB",
+            "text": "We had a fantastic experience here. The food was incredibly delicious and felt authentically Italian, reminding us of our trips to Italy. The owner was wonderful, greeting us personally and being so kind to our kids. Everything was perfect, and we will be happy to come back!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQNW8tR3F3RRAB",
+            "text": "The best Italian food in Queens!!!! The owners are exceptionally professional and are super friendly and the food is amazing!! The restaurant is always clean and you are greeted with friendly faces weather it's big Mike (the Manager) or the cashier (Steven) or even the delivery guys (Jack, Will etc) or one of the Owners Mr. Oswaldo or Mr. Luis)They are perfectly staffed! Inside the restaurant you will find beautiful decor and the outside patio is a perfect place for a afternoon or dinner reservation on a nice Sunmer to Fall day/night! The best Italian restaurant in Queens New York!!!! (located in the heart of Woodside)"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQN1lHTzdRRRAB",
+            "text": "Great neighborhood Italian restaurant with pizza up front. Also has table service where you can order from their full menu. I’ve been going here for years and they never disappoint. Large portions. Reasonable prices. Delicious food. Lunch specials."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMODdXTWNREAE",
+            "text": "This review is only of the garlic knots. Haven't had anything else in there on that day. I ordered garlic knots, but if you like garlic knots .....yeah, not the place. They were hard and cold after they gave them to me after being in the oven for like 6 min. So my only guess is that they were at least 1 day old or from when they first opened. I went around 6 pm. I had them before, and I specifically asked for light ones. They tend to be softer and moist. So yeah, I had to throw them away after inspecting every single one and trying them by biting into it. Was left sad b3cause I was looking forward to really good ones. I've tried many  and from different places. Again, if you enjoy bread and specifically garlic knots....this place is not it.🤷🏻‍♀️ sorry."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDb09hUnNBRRAB",
+            "text": "Great food and great service!! Awesome neighborhood staple!! 🙌💪"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqcG9QRUhREAE",
+            "text": "Even with the restaurant’s C rating I still thought to give it a try. I had the stuffed artichoke for an appetizer and it was not very good-it was filled with a vegetable medley that is the kind of mixed vegetables one finds in the frozen section at the supermarket. It wasn’t very flavorful. For my entree I ordered the chicken Frances’s which was fine. The service was fine."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUQ3cG9rUBAB",
+            "text": "Erica and Rade (servers) make this place an AMAZING experience.  This is my first visit here. I wish I lived closer.\n\nThe staff, in any restaurant, add so much when they are friendly and attentive.\n\nMy compliments to the management for their excellent choices."
+        }
+    ],
+    "reviews_count": 72
+}

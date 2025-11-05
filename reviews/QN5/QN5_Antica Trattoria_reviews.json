@@ -1,0 +1,467 @@
+{
+    "name": "Antica Trattoria",
+    "place_id": "ChIJiwzMQIJewokR3j_B29iK-ek",
+    "grid": "QN5",
+    "address": "68-10 Fresh Pond Rd, Ridgewood, NY 11385, USA",
+    "rating": 4.6,
+    "user_ratings_total": 465,
+    "phone_number": "(718) 386-1559",
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kdGVsWlJjVFIyU25SSlFXdEdUVjlLWjI5RE5XYxAB",
+            "text": "Il mio posto preferito, con la mia persona preziosa...."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGd01sQjBOak40TjNWMWRtUk1VWG90ZUZoeVNHYxAB",
+            "text": "A fairly inexpensive neighborhood place with exceptional food and service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKZmVqUmtaVWw0TldsMGJXTXpXVnBhVjFOVldrRRAB",
+            "text": "Great little family restaurant."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCQ1ZEaHNORjltZG5kdmNHNUNNbVV6VDA5UlUwRRAB",
+            "text": "Loved the service , our waitress was very sweet , I had the peach sangria, the Vitello cordeun blue was really good."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1eFltbDVWa1ZyT0VkZlYwbHpRVEZVVG5WRFdsRRAB",
+            "text": "Excelente atención , comida deliciosa! A pesar que el día estaba bastante ocupado , la atención fue excelente, un lugar super acogedor 🍽️10/10"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkeGVqWlhjM1F3WkhVNGFUVkNjemgzUW5kUk1sRRAB",
+            "text": "I’ve been going here since I was a child. It’s always filled me with the same joy every time I walked through those doors.\nThe staff are knowledgeable and respectful, the atmosphere is welcoming. And when I make a reservation I catch myself daydreaming about the food until the day comes. Highly recommend the Carrozza, it will forever live in my brain and stomach.\nIf you don’t go here you’re doing yourself a disservice. Forever a pillar of Ridgewood."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psME9IUjFWblJVV0V4RmNHdEJaRFI0WVhoSmNGRRAB",
+            "text": "Food was delicious, reasonable for the area, and we had lovely corner table with enough quiet to have a lovely dinner conversation."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sNVdGVmZVSEYwUW5KNmJXTnNjRk5wVVdOcFNrRRAB",
+            "text": "A good to for me for the 20 years I've been in ridgewood. Authentic Italian food with awesome service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xScmJubEdSVGhKZDJ4M05FSlBObmw1V1U5NlRVRRAB",
+            "text": "When we got there, we didn’t have any reservation and they were packed. We were a large group, but were so kind to accommodate us. The service was topnotch. Food was delicious. We had a bunch of appetizers to begin with: fried calamari, seafood salad, pizza, etc. and everything tested fresh. For main dish, linguine with seafood was the winner. Highly recommended. Prices are reasonable and the atmosphere is perfect for families and big groups."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoVWJHZFhVakYyV21OSWFEbDFaVzVqWTB3NFFtYxAB",
+            "text": "Nice local Italian joint"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwQllrZGlZbFU0WnpBMVpGOWxjR0Z0ZEUxTU9FRRAB",
+            "text": "The food, the service, the ambiance, and the cleanliness is excellent‼️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxcU5rbEJTR3hNVEhWalZtUXRiVGc0WDFwdlRYYxAB",
+            "text": "Excellent service, homemade pasta, and Pinot Grigio makes this place a neighborhood favorite!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214dFdWUkNlVkowT0U5SWJtTlRVVUZZYkRsTWFIYxAB",
+            "text": "Cozy spot, great food especially the homemade pasta dish with fennel, and the service is fantastic.  My go to Italian restaurant!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sNFRYbG9UM2xwTUY5NE9UWkpiMWxHZWs4d1JrRRAB",
+            "text": "This place is a gem. The food is so flavorful. The service is top notch and friendly. The prices are TOTALLY FAIR!! Which is absolutely shocking these days because everything else in the neighborhood is over priced! Love this place."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0c2JYQnhYME10U0VGaVJVTjFVak5YZEVkRlpGRRAB",
+            "text": "The best Italian food, great staff, great service. I love coming here and can't wait to come back! ♥️"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVVdHZFhOekpHVWpZNFRHOUNSMlZLVW1adVZYYxAB",
+            "text": "I just had the most incredible dining experience at Antica Trattoria in Ridgewood, and I'm still reeling from the deliciousness. This traditional Italian cuisine spot has totally won me over with its modern and welcoming ambiance - it's the perfect blend of old-school charm and contemporary flair. The price range is moderate, which is totally reasonable considering the generous portions and top-notch quality of the dishes.\n\nThe real star of the show, though, is the homemade pasta. I mean, can you think of anything better than a plate of freshly made fettuccine or orecchiette? We had their Fettuccine Alfredo and orecchiette with broccoli rabe and polpette, are absolute must-trys. The pasta is super fresh, delicious, and cooked to perfection. The service quality is wonderful, too - the staff is friendly, attentive, and clearly passionate about the food they're serving.\n\nWhat really sets Antica Trattoria apart, though, is the love and care that goes into making their pasta from scratch. You can taste the difference in every bite. Whether you're a pasta aficionado or just a foodie looking for a great meal, this place is an absolute gem. So, if you're in the area, do yourself a favor and swing by - your taste buds will thank you!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVNFltRllaRlJOU25wT1kwTnhlamhMYVd0M1JsRRAB",
+            "text": "Certainly!\nAntica Trattoria – A Quiet Mastery of Italian Tradition\n\nAntica Trattoria doesn’t rely on flash or theatrics—it lets the food speak. And speak it does, in the most elegant and understated of tones. This is Italian cuisine rooted in tradition, prepared with care, and served with quiet confidence.\n\nThe pasta dishes are particularly impressive—handcrafted, balanced, and deeply satisfying. Whether it’s a classic spaghetti alle vongole or a hearty rigatoni Bolognese, each plate reflects the skill of a kitchen that understands restraint and precision. The veal, always tender, arrives cooked to perfection, accompanied by sauces that complement rather than overwhelm.\n\nThe menu is thoughtful and focused, with each dish honoring familiar Italian staples while maintaining its own character. Even the simplest preparations feel elevated through attention to detail—from the quality of the olive oil to the finishing herbs.\n\nService is professional and courteous without ever being overbearing. It’s the kind of place where you’re well taken care of, but never rushed—a rarity these days.\n\nAntica Trattoria may not clamor for attention, but that’s exactly its charm. It offers a dining experience rooted in substance over show, with flavors that linger long after the last bite."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJVHc5cEdONWQ2YWNnEAE",
+            "text": "Was visiting NYC for an emergency and met friends for dinner here. The food was excellent as well as service! High recommended if you like good Italian food."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLU0swLTc0bFpyc0pREAE",
+            "text": "been coming her for 15+ years. personal favorite italian food in the neighborhood."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNN2k1TnE4czVhUXhBRRAB",
+            "text": "This place has amazing food and such a welcoming atmosphere. The people here are incredibly friendly, and it always feels good to eat there—it’s the kind of spot that makes you feel at home. The service is consistently great, and you can tell they really care about what they do. I’m so glad to have a place this good so close to my apartment. It’s quickly become one of my favorite spots in the neighborhood"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3MmZ2WW5nRRAB",
+            "text": "Very enjoyable.   Staff was very friendly"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURReEl2aGRnEAE",
+            "text": "I was really looking forward to dining here, especially since my boyfriend and I share the same birthday, and we were celebrating! Unfortunately, the experience was disappointing. We ordered the meatballs as an appetizer, and it took way too long to arrive. The portion sizes were also smaller than expected for the price, making it feel like we weren’t getting our money’s worth.\n\nThe biggest issue, however, was the service. Our server only dropped off our plates and never checked on us—not once. Meanwhile, as we looked around, we noticed she was constantly checking on other tables, making sure they were taken care of. It was frustrating because, as Black customers, we often get labeled as non-tippers, yet we always tip well when the service is good. But when we receive subpar service from the start, it makes the experience uncomfortable especially since I do reviews for a living.\n\nYou’d think a birthday celebration would make for a more positive experience, but instead, it felt like we were an afterthought. I might give this place another shot, but only if I know for sure that she isn’t working that day. Otherwise, I wouldn’t recommend it unless they improve their service, food portions, and overall treatment of customers."
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2bkxLNWt3RRAB",
+            "text": "We have eaten here several times. It is fast becoming a local go-to for us and family members. First, the atmosphere is nice, cozy, and pleasant. As it is a small space, it gets a bit loud. The tables are close but not so much as to seem on top of each other. The service is great. The staff is attentive, and the servers are nice and courteous. The food doesn't take long to come out. The menu is large but not excessive as to make it hard to choose. The food is delicious and well cooked. I have not had a bad meal there. I would highly recommend giving it a try."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfMkozMjNRRRAB",
+            "text": "Everyone was super nice, food was great. It's exactly the kind of neighborhood spot I've been looking for :)"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2bVlfRjhRRRAB",
+            "text": "Amazing place I highly recommend there meatballs super good! Their service was amazing they work as a team and always make sure we were attended to. Definitely will come again."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2MklQbWZnEAE",
+            "text": "Today I have to say I am very disappointed with the service I had . The waitress was not attentive like usual he is the other supervisor where usually I get great service all the time . But the day I choose to leave my home to relax and have a glass of wine  it wasn’t a good experience also the young girl that came to the table after so long to pick up the dishware didnt even ask if we needed any dessert or anything else not friendly at all . I need someone to respond this message it’s very unfair that I had to walk out and wasn’t able to finish my wine or even have dessert like I would have want to . I really got turned off and I will not go back there again . I also spoke to the manger about it and told him how I felt and he did not acknowledge his regular customer! The food wasn’t as good today and small portions as well !!"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtNFpxUDNBRRAB",
+            "text": "The food Is very good. Good service and a nice atmosphere. Prices are reasonable. On the negative side the portions could be bigger."
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQakxuS1lREAE",
+            "text": "Compre una Pasta con Camarones en este Restaurante, para llevar y tenían la vena negra. No estaban limpios y la porcion que me vendieron era muy poca. Que mala experiencia."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzdnZYMFV3EAE",
+            "text": "Went last night to get takeout because I was craving meatballs. Had the pleasure of getting my order taken by Alieo (so sorry if I botched the spelling). He was an absolute joy, even for something as small as a to go order. I am definitely going back if the service was that great for to go. He was kind and patient and just brought a good vibe to Antica. The meatballs were also sooo good. Can’t wait to go back and try more."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzeXR6ZmhRRRAB",
+            "text": "Excelente comida 👍👍👍"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYcWNTRXV3RRAB",
+            "text": "Very good food! One of the best fried calamari’s I’ve ever had!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYc3ZpOENnEAE",
+            "text": "Wow this place was AMAZING. I was looking for place to take my family of 6 in the neighborhood and I found it. Make sure to make a reservation.\n\nFor background the following is what we got and all of it was a 10/10.\n\nCaesar Salad-10/10\nMozzarella in Carrozza (fancy fried Mozzarella) 10/10\nPolpetta “Piciriddi”-Meatballs 10/10\n\n2 orders of Fettuccine Alfredo one w/shrimp-10/10\nPenne a la Vodka with Fried chicken cutlet-10/10\nPollo (chicken) Parmesan-10/10\nLinguine Pescatore-10/10\nBistecca alla Griglia (Ribeye Steak)-10/10"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYek8ybFJnEAE",
+            "text": "Great food and very friendly service!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNadXJldG53RRAB",
+            "text": "This has to be the best food I've ever had. Cindy was a fabulous server, and the place was packed without being too noisy!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIb3JHb0ZnEAE",
+            "text": "Great place to dine for tasty Italian food. Great ambience and atmosphere."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIanE2SjdBRRAB",
+            "text": "What a gem - Quaint neighborhood vibe with class. The attention to detail and quality was excellent! Thank you for the great service and experience!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIcUtIX1ZnEAE",
+            "text": "The food was superb! The staff was professional and the prices were reasonable. I highly recommend this restaurant."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3OUlpZmRnEAE",
+            "text": "A local gem for really good homemade Italian food at a very good price. Everything on the menu is really good, however, as a personal preference, their Fettuccine Ragú is to die for. They always have specials as well which is really good in case you are in the mood for something different. I recommend you always call ahead for reservations as they can get very busy and walk-ins can cause you to wait as the place is on the smaller side. However, their service and attentiveness is always 100%. Highly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURybC1tQklREAE",
+            "text": "If you're craving for italian food in Queens look no further than Antica Trattoria on Fresh Pond Road in Ridgewood.\nThere is not one thing that we did not like. The food, most important element, was excellent, we all ordered daily specials: two different pasta dishes and chicken w/cantaloupe plus pizza and calamari for all of us to share. Everything was fresh, very tastefull and given to us in a timely manner.\nWaiting time for pizza: 10-12 minutes. An order of calamari was already on the table before we even finished pizza. Then, 10 minutes later all four of us received our main dishes at the same time.\nThey have a nice choice of wine, beer and soda, too. We just ordered sangrias.\nGreat experience.\nHighly recommended. @@@"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyNkxXd213RRAB",
+            "text": "Neighborhood gem. Very authentically prepared dishes with fresh ingredients. It’s been a while since I was absolutely impressed with the food in a not so big establishment. Must try. Staff is great as well, owner makes sure everyone leaves satisfied. Definitely will return on the weekly basis."
+        },
+        {
+            "date": "1년 전",
+            "language": "zh-Hant",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNydFphVzFBRRAB",
+            "text": "202407\n裝潢和服務都很溫馨 麵包非常香 炸花枝很好吃 麵的調味也都很棒 唯一最大敗筆！上菜有夠慢到發瘋！不知道是那天廚房卡住還是本來就是義式慢慢來？我們前菜上完40分鐘後才出主餐 等到兩眼發直！但餐點是真的都蠻好吃 希望以後上菜不會這麼久 我點tagliolini capitano麵條有點太軟但醬和蝦子超好吃"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMaThQV3RRRRAB",
+            "text": "Very nice staff and delicious food"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBMXBLTE9REAE",
+            "text": "Fantastic place to eat and friendly staff"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUMXJpaXhBRRAB",
+            "text": "We couldn’t have had a better experience here. We called less than 90 minutes ahead of our reservation time, and they accommodated us with no problems. They even readjusted their table setup so the 4 of us could sit together.\n\nThe food was terrific for the price, and the service was excellent. Getting quality Italian food for under $20/entree feels almost unheard of these days. The drinks were very good as well, especially the white wine sangria. We will definitely be back soon!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqMnZfZ3pnRRAB",
+            "text": "A warm and cozy  neighborhood restaurant where you could eat  delicious Italian food, enjoy yourself, get good service and don't have to break a  bank  to afford it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqaXRhN0p3EAE",
+            "text": "I want to first say THAT THIS PLACE IS A NO GO!!!!! The food portions are extremely small, and they do not taste authentic at all. The menu is very misguided and the waiters do not understand anything about the food so they’re not able to help you understand the menu. I ordered ravioli pasta, And the waiter came out with six pieces of ravioli on a plate with barely any pasta sauce. That pasta was garbage. The appetizers were extremely small, and also terrible. I’ve come to the conclusion that most the reviews for this place are done by family members or friends, that have a vested interest in this place. As an authentic customer, I do not believe this place is even a decent pasta restaurant. I would suggest you’d spend your money elsewhere for better quality, food, and bigger portions"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURsbTVla0t3EAE",
+            "text": "I call this place my hidden gem. Been coming here for over 20 years and it never disappoints. Food is always delicious and the staff make you feel like family. Not to mention the bonus of them not being overpriced. If I could give them more than 5 stars I would. Always great!  They don’t list below the dishes I recommend. But I highly recommend all of them."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOM2NiejJRRRAB",
+            "text": "One of the best little Italian restaurant Ive been too, I have been going around 6 years. Everything on their menu you can’t go wrong with, very tasty. Ive had birthday celebrations , graduation dinner here and just the occasional dinner . Feels homey and classy :) Very decent price and lovely staff!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURta01DelVREAE",
+            "text": "Antica Trattoria has a very quaint and cozy interior that's great for intimate dates or small gatherings.  The staff were very friendly and accommodating, making sure we enjoyed ourselves throughout the entire night.  The food was…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDcXVlcVhnEAE",
+            "text": "Overall, great experience. Came here with my boyfriend and I left very pleased due to the food. I honestly came in just ready for dinner,  but left with a new local place I’d return to. The chicken parmigiana and chicken marsala were very…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkdXRud2NREAE",
+            "text": "It was my first time at this restaurant. Loved the place it gave a good vibe. The people were so nice and the food was delicious. They go above and beyond to please their customers and we were all so happy to have discovered this restaurant. Definitely going there again."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZOEtLREVREAE",
+            "text": "Absolutely amazing experience! The food was delicious from the appetizers all the way through to dessert. Excellent service as well! And a great atmosphere! So yummy"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxblkyV3J3RRAB",
+            "text": "My first time eating here.  The food was quite good.  The prices are also very reasonable and the atmosphere is nice. The reason only 4 stars is that the service was not great it was ok only.  We were seated and given menus immediately and our order was also taken quickly.  The food did arrive timely.  But that's were the service ended.  We were never checked on, I also had a glass of wine but was never asked for another.  When we were finished with our food the plates were taken away but we were never asked if we cared for dessert, which we did want.  After a minute or two of staring at each other we decided we'll just have ice cream when we get home.  We called the waiter and ask for the check at which time he asks if we want some coffee, we said no.  I would definitely go back because the food was very good and affordable but I would like to see the service improve."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJd1p5ZFVREAE",
+            "text": "Wow so this is my favorite new spot. There food is amazing !! I love the vintage look and the people are so nice. This is the spot and no joking I've been here like 5 times and definitely going back"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5NUk3eEJREAE",
+            "text": "The staff was very attentive and helpful. Dinner was delicious,  fresh pasta made on site. Dessert was cream brûlée and fruta de bosco and my husband said it’s his new favorite!"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhZy1ydjB3RRAB",
+            "text": "Muy decepcionada!\nQuedé desconcertada al abrir mi pasta que pedí a domicilio, ya que qué dice claramente crab meat y llegó con esta crab falsa. No me parece que esté al nivel del restaurante, ya que he comido ahí otras veces y me parece muy buen nivel de comida, solo por eso no puse una puntuación más baja. Pero deben especificar en el menú que se trata de crab falsa o crabstick como la llaman."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoNV95VWVnEAE",
+            "text": "I ordered a couple of pastas and sandwich on DoorDash. They had the nerve to send me this half empty pasta and hardly any sauce. Not to mention these containers are tiny to begin with. Then my spouse pasta with chicken was an abomination. Hardly any sauce again and chicken was burned. My kids sandwich was lacking cheese on the chicken parm sandwich. They are trying to cut corners everywhere, such bad business practices. There is no way this is a 4.7 rated establishment. This restaurant needs to fix their mistakes a lot of reviewers on DoorDash point out the same issues."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLd0k2WkpnEAE",
+            "text": "Food is super fresh, detailed taste and cooked to perfection. I am in love withe Pollo Milanese breaded chicken, along with Side of pasta. My son orders one special order at all times , Pescatore Risotto & Shrimp With Pollo Milanese , delicious and creamy !"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLcjcyMGpnRRAB",
+            "text": "Wonderful experience. Well mannered staff & the food was great. Variety of food. Definitely going back. 😊👍🏾😋"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNeUp1bGxRRRAB",
+            "text": "Absolutely phenomenal Italian gem located right in my own hood. This was my second time here. This time I opted to try their pizza and had the Napolitana, which their menu states has fresh tomatoes, fresh mozzarella and basil. My pie did not have any tomatoes that I could see but I did not complain. The tomato sauce though generously covered the pizza and I was grateful for that. The crust was utterly perfect - the ideal combination of deliciously doughy yet adequately crispy. (I hate pizza that is too crunchy or akin to eating dry cardboard.) This pizza, however, was expertly baked.\n\nThe bf had the tagliatelle capitano, a homemade pasta with crab meat and shrimp in fresh tomato sauce with a touch of cream. His entree was insanely flavorful, much like what I imagine an Italian grandmother's homecooking would be like. The creamy texture balanced out the tomato sauce and seafood very well and the pasta was cooked to just the right density.\n\nFor dessert, I had the tartufo which is chocolate gelato covered in cocoa powder all over with finely diced hazelnut. My bf had the tiramisu. I would come back here a million times over."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaNUthUGh3RRAB",
+            "text": "Very nice place. Food is delicious. We tried the veal Milanese and the spinach & ricotta ravioli with pink sauce. Delicious!!! The veal Milanese was better than one we tried in Milan.\nThe owner is very welcoming. He makes sure every customer is satisfied and takes immaculate care that the quality of food and service is at its best.\nGive this place a try."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqOS1tSnNnRRAB",
+            "text": "Antica Trattoria\n\n•\tHost      Excellent!\n•\tService  Excellent!\n•\tFood     Outstanding & Delicious\n\nMy Wife and I have been coming here with family for over 25 years and it is always a great experience.  This past Sunday, Alvino and the staff were great, and the food was so good that we are inviting our family to Antica for our 30th wedding anniversary dinner in May.\n\nThank you Antica and order me a whole Italian style cheesecake with pistachio (So Good) for our anniversary dinner.\n\nAnthony & Grace\n\nCiao"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlMDl6RGZREAE",
+            "text": "This is hands down one of my favorite restaurants, accidentally stumbled across it one day 5 years ago and it has become my go to since. The service is impeccable and the food never disappoints. Ive tried over 50% of their menu and there hasn't been a single item I didn't like, the portions are perfect. You're full but not this meal made me sluggish and I have no room for dessert full ;) if youre around give it a try!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRaG9tb2JnEAE",
+            "text": "It was an amazing experience. First off I made reservations for my sister's birthday. The staff were nice and kind. They were attentive and polite. I was having a bit of trouble understanding the menu because I'm not familiar with the Italian dishes by words but the server was very kind in explaining what each dish was. Also the food was very delicious and worth every penny! The appetizers, meals, and desserts were all around great and tasty.  Lastly for the singing of happy birthday, the staff played happy birthday on the radio and made my sister feel special. I've had a pleasant experience at this restaurant!\nFood 5/5 stars\nService 5/5 stars"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0eHZYeUJREAE",
+            "text": "First of all, if I could give more then 5 stars I would. This place is UNBELIEVABLE. This is easily one of the best restaurants I’ve ever eaten at. From the appetizers to the pasta to the deserts, everything was amazing and exceeded my expectations. The margarita pizza was one of the best I’ve ever had as well as the penne alla vodka and fettuccine Alfredo. The Affogato, tiramisu, and pistachio cheesecake were insanely good. I would come here for the desert alone.I seriously cannot recommend this place enough. I promise you will not be disappointed. The most delicious, fresh, and authentic Italian food. The service was also fantastic and the atmosphere was lovely and inviting. I’m so glad we stopped in. We will most definitely be returning. Wow just wow!!!!"
+        }
+    ],
+    "reviews_count": 65
+}

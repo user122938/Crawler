@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Lebron",
+        "address": "1567 Pitkin Ave, Brooklyn, NY 11212, USA",
+        "place_id": "ChIJFZ4xAGFcwokRRpT-JwYygNE",
+        "rating": 4,
+        "user_ratings_total": 106,
+        "phone_number": "(718) 342-9070"
+    },
+    {
+        "name": "VELVET ROOM",
+        "address": "63 Sutter Ave, Brooklyn, NY 11212, USA",
+        "place_id": "ChIJxeHdPCVdwokRe_xaKbxRZ7U",
+        "rating": 4.5,
+        "user_ratings_total": 458,
+        "phone_number": "(347) 365-7588"
+    },
+    {
+        "name": "Gayle's Thrill & Grill",
+        "address": "140 Lott Ave, Brooklyn, NY 11212, USA",
+        "place_id": "ChIJQ53l7sZdwokRr-HoTCQ-sX4",
+        "rating": 4.8,
+        "user_ratings_total": 17,
+        "phone_number": "(347) 277-5581"
+    },
+    {
+        "name": "Vera's",
+        "address": "424 Sutter Ave, Brooklyn, NY 11212, USA",
+        "place_id": "ChIJ0TrcQVZdwokR7Kn76029wEk",
+        "rating": 4.4,
+        "user_ratings_total": 336,
+        "phone_number": "(929) 346-5360"
+    },
+    {
+        "name": "Brownsville Nita fish and fry",
+        "address": "110 Osborn St, Brooklyn, NY 11212, USA",
+        "place_id": "ChIJtw_f9O5dwokRV3LX2BF2Kj8",
+        "rating": 4.9,
+        "user_ratings_total": 158,
+        "phone_number": "(347) 454-6144"
+    },
+    {
+        "name": "The Munchies",
+        "address": "848 Nostrand Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJ5ftJ2q9bwokRdJUbdbIjKQo",
+        "rating": 4.7,
+        "user_ratings_total": 1175,
+        "phone_number": "(718) 869-3244"
+    },
+    {
+        "name": "Toddle Inn Restaurant",
+        "address": "1740 Central Blvd, Brownsville, TX 78520, USA",
+        "place_id": "ChIJWQshihCUb4YRoK1hl5njbes",
+        "rating": 4.5,
+        "user_ratings_total": 1157,
+        "phone_number": "(956) 542-8838"
+    },
+    {
+        "name": "Caoba",
+        "address": "762 Snediker Ave, Brooklyn, NY 11207, USA",
+        "place_id": "ChIJ9Rr_A_tcwokRDFnISL8hQ00",
+        "rating": 4.4,
+        "user_ratings_total": 723,
+        "phone_number": "(718) 922-2639"
+    },
+    {
+        "name": "MR BABY BACK RESTAURANT",
+        "address": "1451 E Main St, Brownsville, TN 38012, USA",
+        "place_id": "ChIJFzOJ3c7DfogRE-aR8JghcMc",
+        "rating": 5,
+        "user_ratings_total": 111,
+        "phone_number": "(731) 326-5170"
+    },
+    {
+        "name": "Texas Roadhouse",
+        "address": "3400 Frontage Rd #77/83, Brownsville, TX 78526, USA",
+        "place_id": "ChIJcxWF0LiWb4YRvjW4vweCAzA",
+        "rating": 4.6,
+        "user_ratings_total": 4847,
+        "phone_number": "(956) 554-9900"
+    },
+    {
+        "name": "Father Knows Best",
+        "address": "611 A, 611A Wilson Ave, Brooklyn, NY 11207, USA",
+        "place_id": "ChIJwZHjAzxcwokROh4zFWUlWlE",
+        "rating": 4.5,
+        "user_ratings_total": 1182,
+        "phone_number": "(718) 975-6840"
+    },
+    {
+        "name": "BK Pizza",
+        "address": "456 Sutter Ave, Brooklyn, NY 11212, USA",
+        "place_id": "ChIJ2ZAII6BdwokRgww7YsOT1oI",
+        "rating": 4.6,
+        "user_ratings_total": 444,
+        "phone_number": "(347) 425-8920"
+    },
+    {
+        "name": "Brownsville Community Culinary Center",
+        "address": "69 Belmont Ave, Brooklyn, NY 11212, USA",
+        "place_id": "ChIJjzigwV5cwokReHesZwEgMmQ",
+        "rating": 4.7,
+        "user_ratings_total": 180,
+        "phone_number": "(347) 618-6177"
+    },
+    {
+        "name": "Loma 5 Restaurant Rockaway Ave",
+        "address": "454 Rockaway Ave, Brooklyn, NY 11212, USA",
+        "place_id": "ChIJ5XVWT15cwokRTeCAEOrqKW8",
+        "rating": 4.1,
+        "user_ratings_total": 455,
+        "phone_number": "(347) 442-5775"
+    },
+    {
+        "name": "Shun Fat Kitchen",
+        "address": "1716 Pitkin Ave, Brooklyn, NY 11212, USA",
+        "place_id": "ChIJc-AJZF5cwokRQgsOWJE5umw",
+        "rating": 3.8,
+        "user_ratings_total": 50,
+        "phone_number": "(718) 922-2286"
+    },
+    {
+        "name": "Vermillion Restaurant and Watering Hole",
+        "address": "115 Paredes Line Rd, Brownsville, TX 78521, USA",
+        "place_id": "ChIJEcPWHTeUb4YRIkvbqsKpEPQ",
+        "rating": 4.5,
+        "user_ratings_total": 2232,
+        "phone_number": "(956) 542-9893"
+    },
+    {
+        "name": "Livingston’s Soda Fountain & Grill",
+        "address": "60 S Washington Ave, Brownsville, TN 38012, USA",
+        "place_id": "ChIJA53rVG3dfogRud9_oYCTNfE",
+        "rating": 4.7,
+        "user_ratings_total": 355,
+        "phone_number": "(731) 734-2041"
+    },
+    {
+        "name": "Four T Restaurant INC",
+        "address": "1638 Eastern Pkwy, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJkU50SGdcwokR-hHIgowQSWc",
+        "rating": 4.1,
+        "user_ratings_total": 88,
+        "phone_number": "(347) 442-5115"
+    },
+    {
+        "name": "Kirk’s Ferry",
+        "address": "217 W Bishop Way, Brownsville, OR 97327, USA",
+        "place_id": "ChIJRUqv66xfwFQRNh2yeelbFKI",
+        "rating": 4.4,
+        "user_ratings_total": 461,
+        "phone_number": "(541) 466-5614"
+    },
+    {
+        "name": "Villa Castillo",
+        "address": "1474 Pitkin Ave # A, Brooklyn, NY 11212, USA",
+        "place_id": "ChIJqxMnFmJcwokRbAUcl1c0xGs",
+        "rating": 3.8,
+        "user_ratings_total": 284,
+        "phone_number": "(718) 495-9717"
+    },
+    {
+        "name": "Dennis Place",
+        "address": "1701 Pitkin Ave, Brooklyn, NY 11212, USA",
+        "place_id": "ChIJcYwBb15cwokRxEyG7Go4r-U",
+        "rating": 4.3,
+        "user_ratings_total": 303,
+        "phone_number": "(718) 498-8406"
+    },
+    {
+        "name": "Emilia's Restaurant",
+        "address": "5182 S Padre Island Hwy, Brownsville, TX 78521, USA",
+        "place_id": "ChIJHx95L-qVb4YRzn8z4bt-qhk",
+        "rating": 4.3,
+        "user_ratings_total": 1127,
+        "phone_number": "(956) 838-2221"
+    },
+    {
+        "name": "Rizzle's Roadhouse",
+        "address": "590 Low Hill Rd, Brownsville, PA 15417, USA",
+        "place_id": "ChIJ62g_4nYPNYgRgb2237LjjTQ",
+        "rating": 4.7,
+        "user_ratings_total": 119,
+        "phone_number": "(724) 785-2271"
+    },
+    {
+        "name": "Fandi Mata",
+        "address": "74 Bayard St, Brooklyn, NY 11222, USA",
+        "place_id": "ChIJqSwWaP5ZwokRuHaHr43H39o",
+        "rating": 4.7,
+        "user_ratings_total": 3893,
+        "phone_number": "(718) 388-8877"
+    },
+    {
+        "name": "Abuela Antonia",
+        "address": "225 Rockaway Ave, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJz646eYNdwokRyytoz6V_Omo",
+        "rating": 4.4,
+        "user_ratings_total": 226,
+        "phone_number": "(718) 484-0013"
+    }
+]

@@ -1,0 +1,614 @@
+{
+    "name": "Mad for Chicken Sunnyside",
+    "place_id": "ChIJ98q9AJNfwokRotfttDqtRnI",
+    "grid": "QN2",
+    "address": "43-22 Queens Blvd, Sunnyside, NY 11104, USA",
+    "rating": 4.3,
+    "user_ratings_total": 473,
+    "phone_number": "(347) 808-0178",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMU5URlBjVjlMTkV4VVMxSmlSVTFIZFVSclEwRRAB",
+            "text": "I ordered by phone…I repeated 3 times…from 3 orders they got only french fries..paid 28$ and left… very bad stuff…bad attitude….\nI went there regularly….but this was the last time….good food but very bad stuff."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taTU0yUnFabU0xYW14RFF6UTFTRFJoUWtOeVRHYxAB",
+            "text": "Suny side one is halal. Good portion.  Different variety"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwcmJXVlBkWGxhVm5KR0xYTTNUekk1WDBaS2ExRRAB",
+            "text": "Great service! Chicken was fresh and crispy.. will come back"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VU9VNVplSHB2TVdoWUxXTkpOa3QwWVhFM2FsRRAB",
+            "text": "Great happy hr for food and drinks. Sat at the bar, had pretty good service from the bartender.\n\nFood was fresh and hot, chicken strips were a bit overdone, that’s why they look more like wings. For some reason I found the spicy soy flavor to be not as spicy as I’m used to from this chain. Clean and cozy interior. I had two of the cocktails- the lychee and punch. Both a bit on the sweeter side."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMWMyVXRUMnROT0hsVE5sQndhbTVGVjNOQ2JGRRAB",
+            "text": "Incredible food, crazy long wait time for the food. Even the waiter said “it’s going to be 25-30 minutes, is that okay?”. All I ordered was a burger and the place was pretty empty. Worth the wait as everything was delicious."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4bldtRk5Wa3BXWW5Zd1RWZEVlVVp1WjE5d2FWRRAB",
+            "text": "Mid food, trashy service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205dWNXSnNNRnBRU0V3emQxTjVZbEJtVjI4NFgzYxAB",
+            "text": "All the food was amazing! We even asked them to cook tteokbokki without rice cakes, and they happily accommodated us. Our server, Mizael , was wonderful. so nice and generous. The food came out a little late, but his excellent service and the taste of the dishes made up for it. Everything was truly fantastic!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWYVdqQTFNazAzU210dFoyWlZkM3BTVG5aVFFWRRAB",
+            "text": "This is our go-to place if we’re craving for Korean fried chicken. Their Spicy Soy Garlic Mad Tenders is the best I have tasted — crunchy and very spicy, just the way we want it. We often pair it with the Mac and Melted Cheese with Bulgogi which balances out the spicyness of the chicken.\n\nWe’ve also been to the other MFC location in Bayside, but this one on Sunnyside is our favorite because parking is easier to find the music is not too loud. It’s a nice, cozy place for an early dinner or a quick bite.\n\nHighly recommended."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oWE1sOXdjamhqZEV0dVFXRnRTREUwYTNWcFdsRRAB",
+            "text": "Awful customer service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVd1NscE1PRWhyYnpGemJsVmtXR1JYWVVJdGNXYxAB",
+            "text": "Classic Mad For Chicken."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwVk1GWk1Za1UxV1RWQlUwNUtkV04xUVRKcWFuYxAB",
+            "text": "The store plays mostly Spanish music, which I don't really like because there's no other kind of music."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wcGFsVjFXVFZtYms5Q2IxWmljVlJuVW5sSGJFRRAB",
+            "text": "Absolutely the best Korean Fried Chicken in NYC!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodWRWSk1MV0pJV25nelFrSjNVak5PZG5sZmNHYxAB",
+            "text": "I came here for three ayce seafood boil & korean fried chicken wings and man was i disappointed 😞  it actually started off good with the $3 drinks! I had a lychee sake that was pretty okay 👍 then the food came, I was excited for the snow crab legs, but it was NOT good. I think it was just frozen, not fresh at all, super hard to eat. It didnt just came out like a fresh crab leg would. The baby clams were so small that I needed a microscope to see and it wasn't clean. The dirt in them almost broke my tooth! The korean fried chicken was so heavily breaded, there was like no chicken. It was dry and cold at that! When it came to the table, it felt like they gave me yesterday's leftover chicken that has been left out for an hour. The only good thing I enjoyed was the eggs, salad and carbs (rice cakes and ramen) and even the fries were cold. Our waitress was super nice and sweet, so that saved my experience but I would NEVER come back for the food. I would come to drink though! I guess you get what you pay for, it was an inexpensive buffet and it showed."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213M1R6QnBSbVJzYkZseVJIQktTRTVzZEhONWMyYxAB",
+            "text": "Been coming on and off - once in two weeks for few years, it degraded a bit, first time i gave 5 stars, now 3… why? Food quality - seems excellent- but portions have been reduced significantly in lets say 3 years periodically ( i do eat same dish all the time) to the level that i wanted to return avocado salad with grilled chicken that comes to 19-20$ , i dont understand how u decide to reduce salad to children’s portion size and charge that much, now for the service part, you never know what u gonna get, in general not attentive almost every visit - and they manage to reduce frustration by being very polite and friendly when they actually come to serve you.. expect to get the food but having to ask for utensils (3 visits in a row), expect having your glass empty and need to wave when it is only 2-3 customers at the bar and 3 staff chatting behind the bar,  this all happened last few visits of mine and i had enough so i will stop spending my money there. Overall, if you are not super hungry when you order and wanna sit with your laptop not caring about service, that is the place for You"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTlVHbG9kbFZsYld0UWRXUnlhRlJwY1VSc1NHYxAB",
+            "text": "Fantastic place. Never disappoints. The food and vibe here is great. Very affordable and tasty."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkRUxVaEhVVmxoYjNCdVRHUkpTMFZCT0RaS00zYxAB",
+            "text": "Saw the most beautiful waitress of my life in there, the truffle fries were good too"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjNU0wSTJjREZJVUZVNFkyOXpSSFZvTTBKVVZuYxAB",
+            "text": "Went there for company gathering in basement area ..Wings were good !!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkNWFVZFpjazF2VG5acVUwdHlkemxQZEc1WFZWRRAB",
+            "text": "It was our first time at Mad For Chicken, and we had an amazing time! The food was so fresh and delicious that I completely forgot about my diet. Hans and Jerry were also really friendly and welcoming.\n\nHans even made me a delicious Lychee Tini that I absolutely loved. It was so tasty!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoaWJ6bDFORmhHWm5Wck5IcFJaVW8zWkVGemNXYxAB",
+            "text": "Excellent Service & the wings & truffle fries get a 10 out of 10. Verrry Delicious."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoNlJIRmFlR1ozWDJjeU0yVldTR3AyUW5GUmRIYxAB",
+            "text": "Made to wait for half an hour waiter kept saying one second while serving people at the bar and ignoring people who came to eat. Would give 0 stars if I could. Do not recommend."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aT1EwZGZOV2QwUTFvME1FSkdNazkzU0hKaWVtYxAB",
+            "text": "Mizael and his team are the best. I bring all my clients and family/friends here. Abundant of beer selection and great tasting chicken options."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25weFJXSmFSMkUwUzA5TmFuaHFXbVJwWTBWQ1gxRRAB",
+            "text": "I arrived exaclty 10:45 pm closing was 11:30 pm and they told me only take out and they didnt let me dine in, but  more people come literarrly around 11 pm but they let them dine in , they are giving service depends on person …."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLUHQ4NzdJNDZidTZnRRAB",
+            "text": "One more place for the halal Korean fried chicken  and toppoki, please😋…"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQMzBqTlRIazlTYkJBEAE",
+            "text": "Buen servicio"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKTGZfWWZMamRDMXh3RRAB",
+            "text": "it was our first time trying this spot and we will definitely be coming back. the service was great and the food came out so quick and was super delicious!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VMbUwyc1hZN3JXU0ZREAE",
+            "text": "Placed BOGO order from UberEats. Waited 53 mins and did not get my order.(store advertises 20 mins prep time.) Restaurant is full of customers, and I don’t believe dine-in customers need to wait one hour to get their orders. Clearly business values walk-in guests more than take-out customers. Never come back again."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZaHBEVmJnEAE",
+            "text": "The food is awesome here! I had the seafood broil lobster and shrimp it was delicious💕💕 Deff a 10 out of 10 recommend. The fries and chicken tenders were on point! Coming from a picky picky person that does not just eat everywhere. Enjoy!"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvaFk2VC1RRRAB",
+            "text": "Súper demorados  súper demorados el ambiente si es bonito pero todo lo arruina el tiempo"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvc2RfOUl3EAE",
+            "text": "Great place to have a dining experience. The service was amazing and the options are excellent. Highly recommended"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvcnMyV0RBEAE",
+            "text": "Best service, delicious food!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcnNIT3V3RRAB",
+            "text": "I’m so glad we found this spot in Sunnyside,\nWe were served by Kaitlyn and honestly elevated our night, the service was authentic and efficient she broke down several dishes and how they fair well with the…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvZ3BQZTJ3RRAB",
+            "text": "Food was delicious, but we waited for about an hour even though the place was almost empty (idk if they had many online orders)"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvN0xLdm9BRRAB",
+            "text": "Mad For Chicken – Seriously Addictive!\n\nIf you’re anywhere near Sunnyside, do yourself a favor and stop by Mad For Chicken. I finally went, and wow… I’m mad I didn’t go sooner!\n\nLet’s start with the fries – loaded kimchi fries that hit all the right notes. Crispy, saucy, a little spicy, and packed with flavor. Honestly, I could’ve eaten a tray of those by myself and been happy.\n\nNext up: the seafood boil. This thing was stacked with crab legs, shrimp, ramen, corn – all soaked in that deliciously seasoned broth. It’s like a seafood boil and a noodle dish had a glorious baby. Everything was fresh and cooked perfectly.\n\nAnd of course, the chicken – because how can you come here and not try it? We got two flavors, and both were so good. Crispy on the outside, juicy inside, and coated in their signature sauces. Sweet, spicy, sticky goodness. That little cup of pickled radish on the side? A total game changer between bites.\n\nThe vibe in the spot is super chill, perfect for a hangout with friends or a casual date night. The staff was friendly and quick, even with a busy crowd.\n\nBottom line: Mad For Chicken Sunnyside is a must. Come hungry. You’re gonna leave full and happy."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvN2VtSTB3RRAB",
+            "text": "Great time and great service, food is top notch"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvOHMyYTNBRRAB",
+            "text": "Damn i love this place"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMnNHcF93RRAB",
+            "text": "Amazing restaurant!! Such a vibe - food was fresh and delicious (must order kimchi fries)! The servers were great! Awesome place to catch a game and drink!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJaUlubXl3RRAB",
+            "text": "I had a delicious draft beer and the spicy chicken sandwich! Cool bar and great staff."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3a29PZHh3RRAB",
+            "text": "Food is great !! Service from harmony was great very sweet and nice.... Chicken always great"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3b3JILUpBEAE",
+            "text": "the food was not good i wouldn’t recommend this place to anyone if looking for somewhere to eat"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRX01fdTJRRRAB",
+            "text": "I had a great experience here due to my waitress who really made sure that we were being taken care of."
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKXy1PWm1RRRAB",
+            "text": "Great wings,,,delicious  meals.new very good seafood."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRcU1hUy1BRRAB",
+            "text": "A lot of wood not very comfortable seating. But overall very nice."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnbjd5SWpnRRAB",
+            "text": "Service is too slow! Waited 45 minutes for my order that is scheduled for pick up. When I arrived I waited for 45 minutes."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQaXRyZk9BEAE",
+            "text": "great servers, love the soy garlic fried chicken. Their soju slush is amazinggg, i love the lychee one so much"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnNXJQLWVREAE",
+            "text": "I’ve ordered from here since they opened and when they close due to something , possible gas leak is what one employee said. They were great. Now it’s bland. The half and half wings half soy and half spicy? Neither spicy. No garlic flavor and the meat is bland. Tried the tenders. Extremely dry. This food is expensive. But it seems profits took over quality. Won’t ordered anymore:"
+        },
+        {
+            "date": "8달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnaHZlSTVRRRAB",
+            "text": "Sehr leckeres Essen,  wir haben immer ohne Reservierung im November Abends einen Platz bekommen.\nWenn es regnet kann man super unter der Subway im Trockenen zum Restaurant laufen."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncktmM2t3RRAB",
+            "text": "Such a vibe in here. Was craving some Korean fried chicken and this definitely delivered"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBOFpmRzFRRRAB",
+            "text": "Got by uber delivery. god the chicken wings smelled so fishy, kimchi tasted terrible. Never ordering from here again"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBbTgySXN3RRAB",
+            "text": "Awesome place . Crispy chicken . A little draft in the winter time"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBbnN5YThBRRAB",
+            "text": "THE MOST AMAZING STAFF, they are so nice to you the best ever in NYC SUNNYSIDE. Because of them and the food I’ll be coming back!!! 10/10"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSdjhQc0lBEAE",
+            "text": "한국 호프집 느낌이고 한국 치킨에 비해서 아쉽습니다. 한국인보다 현지인들이 많았고 분위기와 서비스가 좋았어요. 퓨전음식이 많았고 분위기 즐기러 오기 괜찮아요."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2MnJDZmR3EAE",
+            "text": "Was here for my birthday party and I love it so much!! The chicken was amazing and the crab leg was fresh, we pick garlic sauce for the seafood and it was not so garlicky like everywhere else so I would love to come back again love this place. Forgetting to count how many rounds of ordering that avocado salad cuz it was so fresh and I have no complaints fo that again fresh food win my heart I gave you a 5 starrr!!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLaXZqZXFBRRAB",
+            "text": "A great place for Korean fried chicken and drinks!\n\nThe menu had a lot to pick from, both from a meal perspective and drink selection.\n\nNachos where tasty, a good portion, and had a lot of flavor on them, I just wish they arrived warmer, this dish was lukewarm to a little cool in places.\n\nThe sweet potato fries were good but would have been tastier, not sure why I wasn’t crazy about them but was definitely disappointed a bit.\n\nWith all that said the chicken was delicious. It was juicy, good portions, had had great flavor. It wasn’t drenched in sauce but had enough that made the wings tasty without overpowering them. The scallion ones we had where especially good, it added a bit of fresh greenery burst to the flavors that really went together well.\n\nOverall I had a great time. I enjoyed the atmosphere and the wings, even though the appetizers were a let down."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6MG9XcUdnEAE",
+            "text": "Good food but the kitchen had a hard time keeping up with orders. Worth it for ayce seafood for $45. Apparently lunch is only $30 (what the waitress said but didn't say that on the menu)."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0MzhXeElREAE",
+            "text": "If you are a lover of beer and fried chicken then this place is golden.\n\nWe recommend getting mixed wings and drumsticks, as well as kimchi fried rice.\n\nThere’s just something so special about the mix of refreshing cold beer and the comfort of fried chicken.\n\nOn a good day this is good, on a bad day it’s good as well. Fried chicken all day everyday"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNyOWRBMhAB",
+            "text": "This place is a one and done for us. We came in today around 11:30 in the morning. Place was empty with one customer at the bar. We were greeted and seated right away. Waiter took our order: fries, kid mac and cheese, mad nachos & wings. The first food that came out was the fries, after maybe 20 minutes after we ordered. After that, we waited almost ONE HOUR for the rest of the food to come out… The wings were ok, the size were big for sure but the flavors were not the best. As for the nachos, we were super disappointed. $20 for a dollop of guac, tomatoes, corn, jalapeños with NO meat at all. No ground beef, no “el pollo,” nothing. Don’t let my pictures fool you, it looked really good for us too until we ate it. There was no taste at all and it was mostly chips. It was not worth the money. Super disappointed and we wasted our time waiting."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCakxLcHh3RRAB",
+            "text": "I visited with my husband on a Monday, around 2 pm and it was not busy at all. We were seated right away. The server was friendly. We ordered the dumplings as an appetizer. He ordered the wings and drumsticks, which he loved. I ordered the beef bulgogi, mild which was absolutely delicious. I definitely recommend this location, especially on a weekday around lunchtime."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIeGZXNXVBRRAB",
+            "text": "Looking for flavor… left wanting more. Fellow maps peeps. These reviews are written to inform and provide a perspective that’s unbiased and direct. My partner and I had a crazy craving for some Korean fried chicken and on our way to a known spot we love we passed by this restaurant and saw that it looked really nice and organized, there was a huge sign that advertised an all you can eat but we just wanted that Korean fried chicken. We decided to try it out. We parked and were greeted by a kind hostess who sat us down in these really long wooden benches that are oddly very comfy and southern looking. The atmosphere of this place is proper. Clean, spacious and it has a southern touch that you don’t see in a lot of joints in the city.\n\nAfter we sat down we ordered a drink on HH got ourselves a margarita to share as we were not interested in drinking but decided to give the menu a try. Margarita was so strong and one dimensional, felt like there was only tequila and lime juice that we had a few sips and left it on the side.\n\nWe ordered the avocado salad to start, the kimchi fried rice and a 10 piece drums & thighs.\n\nThe avocado salad was fresh and delicious\n\nThe kimchi fried rice hit the spot while we patiently waited for the main star (fried chicken)\n\nWe had high expectations and when the chicken arrived we noticed that yes it was cooked to perfection. BUT the batter and the chicken itself was so plain. It had no flavor whatsoever. Idk what happened when the chef was making the mixture but it lacked absolutely everything even a bit of salt would’ve saved the perfectly fried chicken.\n\nThe meat had no flavor even a quick brine would’ve been helpful. I think the place is relying too much on their tossed sauces that the batter just doesn’t receive love.\n\nPlease guys don’t let this place go to waste. Try the food before sending it out to your guests.\n\nDisappointing but hoping to come back to see a revamp"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGcDZxVGZnEAE",
+            "text": "Loved the food, it’s great. I’ll give them that. However, this time we dined in and they sent out our orders 10 MINUTES A PART! I rarely give a sub par review or complain to a manager but I was tempted to this time. The people next to us got theirs together and there were more of them. The server/bus boy was very helpful and I wish I gave the entire tip to him in cash.\nI mean when you see people eating together especially if it looks like a couple which it was (& on our anniversary to top it off) you don’t bring orders out that far apart. This has NEVER Happened before. I could see bring something and coming right back but 10 MINUTES! C’mon. That’s stuff Gordon Ramsey shuts places down for on his show. Maybe  you want to appeal to a younger demographic and cater to them, but all your patrons should be having the same experience. Plus common sense would dictate that the old school people will take care of the servers better."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxMV9TUjZnRRAB",
+            "text": "Went there with my co workers and had a great time. Great atmosphere for hanging out and good food and drinks available with even better service. Although we waited for over 30 mins the staff really looked after us and it was worth the wait…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSaHJPcC13RRAB",
+            "text": "We came for Happy Hour, and it's honestly a great deal. I wouldn't say it's my favorite fried chicken place. It was pretty standard through and through. The service was very good and the staff were all super nice. The drinks were so good. Our favorite was the mad punch on the happy hour menu. It was sweet. I highly recommend the bulgogi quesadilla. It's so good and unique. The bulgogi burger, too, was pretty darn juicy and flavorful. The place is a very relaxed, chill, and casual vibe. It's great for groups and large hangout spots since there is so many seating."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKNHJMOXd3RRAB",
+            "text": "Food here is usually great. Love there Mad combo with wings and drums half and half. It was good this days too. Staff is great as well. Order Mad Nachos ($18) and they offered us the $20 combo with a pitcher of beer. It looked good on the outside but honestly wish they had put my toppings in every layer. Half way through there was only plain chips left. As a suggestion they should layer in the toppings so it doesnt feel like their skimping. Love this place otherwise."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKbXUzNTd3RRAB",
+            "text": "This is one of the best places to have good chicken wings and beer.\nThe place is really nice, cozy and very spacious the wooden finish and the high ceilings are amazing.\nI've been here multiple times and never left disappointed.\nThe staff is great and really friendly"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCbC1QS0JREAE",
+            "text": "Excellent food. We didn’t think we could finish the chicken wings but they were so so good.😁 The avocado salad was good too. The kimchi fries could be better though. The server was very polite and accommodating. Will come back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURieXZLY0h3EAE",
+            "text": "Disappointed with the foods. Most of the foods were cold. We ordered nachos, kimchi fries, Burritos, Bulgogi rice, pasta and pina colada. Most of them were average in taste. We couldn’t able to finish any of these dish. Decoration is good and service was quick. Personally I won’t recommend this place. They serve Halal. NYC"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1eTVQTnpBRRAB",
+            "text": "It's back!\n\nThe first time I came here (before it closed) it sucked. Nothing special.\n\nBut things have changed!\n\nThe Chicken is crispy and addicting and is the star of the show.\n\nThe sides are decent. I just go with the truffle fries.\n\nDefinetely the best place to go for Korean fried chicken in the neighborhood. I just wished they had more flavors!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQX2FPRFRREAE",
+            "text": "I placed an Uber Eats pick up order today, and there were two issues I ran into. Firstly, the chicken usually comes with a small complimentary side of radish. Typically, that is not enough for me so I order an extra side of radish. I told the worker I had not gotten my complimentary side of radish and she could not understand me. She kept telling me that I got my large side of radish, so in the end I couldn't get the side of radish so I was heavily disappointed. Secondly, I ordered 20 pieces of wings and I somehow ended up with a tender. It seems like there is some disorder among the workers. I was quite disappointed this time around."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLeU9iUllnEAE",
+            "text": "Ordered their kimchi fries, crabmeat salad, and a mix of spicy and regular soy garlic chicken wings. Food was really good, would recommend! They also have plenty of outdoor seating which is another plus."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyaGNiaWd3RRAB",
+            "text": "Came for the all you can eat seafood boil and it was disappointing. The first order came with only one crab leg, very little not fresh shrimp and whole bunch of sides (egg, pasta. Noodles, topokki). We asked for drinks then our rude server responded that the place was busy and we should only call her if we need anything and not someone else. But the place wasn’t even full. Also tried to ask for a side of butter/oil with lemon and said they charge $11 for it. And to end the worst experience ever, they charged us $15 for the left over “sides” it wasn’t that much but of course if you give us a whole platter of sides you should not expect your customers to finish it. Been to so many seafood boils and sides are usually little. They are a scam. Do not come for their seafood. Not worth it!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURucXFiWWZ3EAE",
+            "text": "I had a fantastic dining experience at this restaurant. The food was amazing, especially the unlimited seafood boil—it was absolutely delicious! I also want to give a special shoutout to our server, Jazmin. She was incredibly attentive and friendly, making sure we had everything we needed. Her attention to detail really enhanced our visit. I highly recommend this place!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCNElmVnNBRRAB",
+            "text": "Talk about rising out of the ashes literally. Mad for chicken was one of the restaurants affected by an awful fire a while back.  Now it's back and better than before. Once you walk in, you're amused by the hostess who seems to be riding a car. You are then greeted by a really warm, rustic atmosphere right out of a viking movie but modern. The waiter/waitress brings you a water bottle and delicious popcorn, which has a hint of saffron or cumin. Whatever it was, I couldn't stop munching on it. Looking over the menu, it was korean fusion with dishes like kimchi quesadillas, vegetarian chicken,  clam chowder, and, of course, their sugnature fried chicken To begin l, I ordered  my favorite drink lychee martini, it was delicious, and I drank it like water (I was parched, all that popcorn, don't judge). Once it was time to order, I had the wings with bourbon sauce and fries. My hubby had the clam chowder and fried chicken with two spicy sauces, The rest of my crew had a beautiful Bulgogi sandwich. My chicken wings were crispy on the outside and moist on the inside. I love it when my chicken gas crunch at first bite. The sauce was sticky and sweet and tangy.  Just (sorry, KFC ) finger licking good! The fries were delicately seasoned and just as crispy. The rest  of my party was quiet as they were savoring their yummy dinner. In all this place has a chill vibe and delicious food, fast service and professional staff. If you want to eat something different, go to Mad for Chicken. It's not just chicken."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteHJfYmtRRRAB",
+            "text": "Good beer on tap selection, one of the best places in the area to watch the game. Staff was really friendly and helpful. Also food is really good, we had kimchi fries and the fried chicken bowl, both of them are worth to try."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoM2JhZWtBRRAB",
+            "text": "Really fun atmosphere and super tasty Korean fried chicken spot - we came in at dinner time and it was pretty busy but we sat at the bar and enjoyed our food. Service was great- everything came out quickly and tasted delicious."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUek1HNTBBRRAB",
+            "text": "My boyfriend and I went in tonight for the AYCE chicken and seafood boil. We were sat @8:20pm placed our first order, 20 minutes later the server came back to our table and asked if we wanted to add any drinks to our order because she hadn’t put it in yet. 45 minutes later we received our order and 2 items were missing that we never got.\n\nWe placed another order which was of seafood boil. I ordered shrimp, snow crab legs, ramen, potatoes and corn with garlic sauce. My boyfriend got the same but lemon pepper flavor and no ramen yet his order came with the ramen and mine didn’t. They forgot to add shrimp into my order and I told them they forgot it so another 15 minutes had passed. By that time I already finished my food and the server forgot to put in the order for my shrimp. I didn’t leave till 11:10pm just waiting for my order to be fulfilled. I didn’t know who was my server because there were like 3 different servers coming to our table. It took about 45 minutes just waiting for each of our food and we only got to place 2 orders for ayce.\n\nAll I can say is to avoid this spot if you want your moneys worth. They’re not attentive and the food was okay for all that waiting. I waited longer than I ate."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5NnFUOUZnEAE",
+            "text": "Great location. The indoor is so spacious and homey at the same time. It's great for a gathering. The kimchi fries is to die for. The spiciness of the wings is legit. It's not fake spicy. Great job, guys. Also, the beer selection is decent.…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMcTVMaDV3RRAB",
+            "text": "Beer selection is great. Kimchi fries are great. The fried chicken is as good as it looked and the crab legs w/ shrimp was perfect (garlic). Next time in the area Im going here."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKdkkzTFFBEAE",
+            "text": "Chicken here is outstanding! Each piece was consistently crispy yet juicy, and the radish was very refreshing as well. Even the popcorn was well seasoned. In terms of drinks, they have a pretty wide selection, but would highly recommend the soju colada! Service here is also great. The long table downstairs was also perfect for our large group."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpcFlyUmJnEAE",
+            "text": "Really nice new place!! Food was good and drinks and beer selections are also great!! Food was served pretty quickly upon order taken. Maybe because it was a Tuesday. Just feel servers could be a tad more attentive on a slow day lol. Overall, I would go back."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDN195UTZBRRAB",
+            "text": "Finally got to try the new spot in the neighborhood. It did not disappoint. Firstly the chicken is great. I love that there are only two flavors. I suggest the spicy garlic. It’s got just the right amount of heat. The chicken is fried twice for maximum crunch and basted with a sweet spicy soy/garlic glaze. I did try the truffle fries as well. For me they did not have enough truffle flavor. My friend got the crab salad. As a pescatarian she loved having that option and it looked amazing. Crab was shredded in a unique way and they didn’t skimp. The kimchi fried rice actually tasted of kimchi and had lots of kimchi pieces in it. Was also topped with a fried egg. The watermelon soju is an obvious must."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5MzQ2NlhREAE",
+            "text": "Last night we went here for a small birthday dinner. The service was excellent, our waiter was really attentive and friendly. The food came out hot, fresh, crispy and flavorful. We ordered a large combo spicy and a large combo soy garlic, Kimchee fried rice and truffle fries. We also ordered a large lychee soju and a medium mango soju, pina colada and a Moscow mule. For me, They were not overly alcoholic but had the right balance. Although they were closing and we were the last party we didn’t feel rushed to finish up our dinner.\n\nI would definitely return here."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNscU9XY05REAE",
+            "text": "Ok so I am a real New Yorker\nAnd my fave Hamburger joint\nis White Castle. Period. So as\nI Saunter to the LIC locale I\nNotice a large Amber lit\nSign ‘Mad for Chicken’\nIt’s like a Beacon in the\nNight. And calls attention\nTo my kryptonite. Fried\nChicken.\nThis needs a Preface,\nSo a couple years ago\nI attended the national\nFried Chicken festival in\nNew Orleans. And it was\nStrictly by circumstance\nI was in town. Well to make\nA very long story short….\nMad for Chicken would have\nMurdered the Competition.\nI do not Condone Violence\nIn Any Manner but call 911\nBecause it would have been\na 187 on an Undercover Bird.\n(Shout to Snoop).\nMad for chicken is in my\nTop 3 ALL TIME.\nThe other 2 are located in\nLA and Sydney. Respectively.\nLet’s talk bird and pigs that\nDig in the dirt for treasures.\n(Well now dogs are used\nBecause the pigs devoured\nthe delicacies)\nI’m talking about those\nDRUM STICKS.\nMarinated in an Aged Secret\nSoy Sauce complimented\nby Subtle tones of Garlic\nwhilst coated like a Candy\nApple Deep Fried to Perfection\nGlistening yet seemingly\nStill frying upon delivery\nMade my Mouth Water\n….ok I DROOLED.\nBecause at the exact\nSame time I engulfed\nThe Parmesan Truffle\nFries. Side note… I hate\nTruffle. It’s overbearing\nAnd pretentious with a\nFunk that can be nauseating.\nFORGET IT. THESE TRUFFLE\nFRIES WITH PARMESAN AND\nFRESH HERBS were fried\nAnd coated so perfectly\nThey popped and made\nMe SNAP!\nCombine that with those\nDrum Sticks….I’m officially\nMAD FOR CHICKEN."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGNWZDbDdBRRAB",
+            "text": "Came here for wings. We got the kimchi fries as a starter and wings. For the wings we did half n half for the sauces and got the Hickey BBQ and Kickin Bourbon. Kimchi fries was okay, probably wouldn't order that again but the wings were good. Service was attentive as well. They also gave us popcorn while we waited for the food."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUazdUTVVnEAE",
+            "text": "Went in last night for their AYCE seafood and fried chicken. Bridget our server was amazing and so sweeet! The food was good. The boil was lightly tossed in the sauce, I asked for a side of sauce and they wanted to charge me 10.00! I declined. The seafood was just ok. I watched the staff bring frozen bags to the kitchen to cook. Obviously they keep the portions small for no waste which is great!! They have a 5.00 alcohol drink promotion on the menu… beer, wine, and specialty cocktails which I was excited about…\nBut when I got my bill I was charged FULL PRICE for my drinks that were advertised for 5.00. My sweet server went to speak to the manager and she said it’s not for all the drinks but two, which was never mentioned on the menu or verbally. It was a decent meal for a decent price of 45.00. But the false advertisement and the 10.00 charge for a side of sauce left a bad taste in my mouth"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1ai16QV9BRRAB",
+            "text": "Finally got to eat indoor this restaurant. The food is so much better right out of the kitchen! Service was lovely. Food was amazing! If you’ve ordered take out from this place, please do yourself a favor and come eat indoors. The only negative id have to say is that it was ever so slightly warm inside. Please have the temp a nice cool temp inside."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNLNWZROBAB",
+            "text": "The restaurant is very beautiful and very pleasant ambience, everything very clean the music was very good, I can speak that was the best restaurant here of my region, now on the food, I asked for a chicken Wings with sauce on the side, clearly the oil that was fried was very clean, I ordered the salad that was very fresh and beautiful, and a fry dumpling was wonderful\n\nwhenever I can come here, as it is close to my home I am always here, I really like the service, organization and easy location, I always recommend it to my friends and everyone loves it, congratulations and I will return you can be sure to insist @chefwilliamruiz_nyc"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLNXV6VEhBEAE",
+            "text": "Food is definitely flavorful. Love the fact that their spice lvl is really spicy. Chicken is very crunchy. Price is very responsible. Good for a big group."
+        }
+    ],
+    "reviews_count": 86
+}

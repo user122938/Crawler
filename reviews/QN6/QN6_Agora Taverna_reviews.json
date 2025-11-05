@@ -1,0 +1,530 @@
+{
+    "name": "Agora Taverna",
+    "place_id": "ChIJNQvYLyFewokR2Y8DUf4x14k",
+    "grid": "QN6",
+    "address": "70-09 Austin St, Forest Hills, NY 11375, USA",
+    "rating": 4.2,
+    "user_ratings_total": 841,
+    "phone_number": "(718) 793-7300",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twU1VXcE5kV0phTjJoc1RYbDZZMGRMT0RGTlNXYxAB",
+            "text": "Went here for my bday dinner with my partner and this place did not disappoint!! We were able to secure a spot easily since it was a Monday evening. The owner took time to talk to us and explain the menu thoroughly, especially because I shared that I had a gluten allergy. Friendly staff and beautiful atmosphere and the music added a nice touch. The grilled octopus was amazing!! By far the best I’ve ever had! Tender and flavorful! We also ordered the Dorado with lemon potatoes and string beans on the side. Can’t wait to return and try the branzino! (We even got complimentary dessert)"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoaGVtUklSRE10Tm1OR1oxZENTaTF0TTBkYVowRRAB",
+            "text": "Get the octopus nuff said. Great service and great vibe for this easy to miss spot"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWV2VIZGtkbFI2ZVhWM1NHTkhVVjlaTUhsNk0yYxAB",
+            "text": "What a place!!! Every single bite I put in my mouth was a delight.  From the Greek salad to the grilled octopus and the branzino… oh and I can’t forget the agora chips!!  I will be savoring for days.  Thank you universe for places like this."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWZldUbHpiRnBRTTFRelEyY3hhVEZ6V2xCcGFWRRAB",
+            "text": "I had the Royal Dorado fish for lunch and it was delicious. The waiter was named Diego and he was wonderful. The zucchini chips were perfection. Perfect for a peaceful lunch date:"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oQlF6TmlXWGhWVlc1TE0waGlVeTB0VjBkTlNXYxAB",
+            "text": "The calamari was absolutely delicious — light, crispy, and perfectly seasoned, served with a sauce that complemented every bite without overpowering it. The octopus was equally impressive — tender, flavorful, and grilled to perfection. Agora is one of those places where you sit back, sip your wine, and genuinely enjoy every bite."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNeE5sVXpibTAyUlhCNE1sb3lXalV0UzNKR1ZFRRAB",
+            "text": "Went to Agora Taverna with friends. Great Greek mezze, grilled octopus was tender, and the ambiance was lively yet comfortable. They even gave us a complimentary appetizer. Strongly recommend for Mediterranean flavors in the area"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4M1kwVXdTWEZ4VkZwMVJGZDNWbDlOUjNCdVRXYxAB",
+            "text": "Disappointing Beef & Lamb Kebab\nI ordered the Beef & Lamb Kebab platter expecting a rich, meaty flavor, but it was mixed with something, which made it taste more like filler than actual meat.…"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kaFpsSTNjRXgwYkhWM1pYUkdYemc0WmtaSlFsRRAB",
+            "text": "Had such an incredible dinner at Agora Taverna! Their owner was so friendly and made our experience wonderful. Highly recommend."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnd2Ewb3pNelUxZFZSU1VYRnRkbXBqTVhSTVFsRRAB",
+            "text": "Wonderful experience l! Excellent food and the owner is lovely"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xveWRGSlVUbXRHTTJWbWJXZFJiMWxGVUdacU9IYxAB",
+            "text": "We’ve passed by so many times, and we finally made it! The food was amazing, the service was excellent, and the restaurant was very clean. We’ll definitely go back again!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSSk9VeEJPVTFMWHpWMFducHlhSFV4UkROV00xRRAB",
+            "text": "The best Greek cuisine restaurant in the whole of New York !!\nI come back here every single time I visit and it just gets better and better.\nEven if you’re in Manhattan, I suggest you pop over to Queens visit this restaurant and have the best time and the best food."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZekxWZE5RVmhzWnkxb1RsVnpOelk1VkUxWlJHYxAB",
+            "text": "They don’t know how to talk with customers…."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SMlZVcG9TblZLV2xka00yeExTbHBQT0hadmVWRRAB",
+            "text": "bad service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OTVdWZHRWRjl6YVdOclIySnpVMlF6U0VKSk1HYxAB",
+            "text": "The lady at reception is worst ….. she talks to customers like they owe her something …. Mood spoiled…."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxVmEwUXROVVZVTVUwd1IyRlRVazFrWDBacVpVRRAB",
+            "text": "Used to eat here with my dad every week. Had his 85 th bday party here also. Haven’t been here in 3 years but came back today to honor him.  Still the best greek restaurant around."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1R1h5MXpYM05zY2xJdFlXcHBZbnA1ZFdkT1NFRRAB",
+            "text": "My fiancé and I celebrated our engagement at Agora Taverna and had an incredible experience! The owner, Peter, was very easy to communicate and coordinate with. We chose a pre-fix menu with house wine included. The staff was incredible, they were very attentive, everything was served on time and no one's cup was ever empty! The food was also delicious, we had some appetizers and most people ordered the branzino. I would highly recommend hosting your event here - they did an excellent job!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oMVRFUXpRbEJsTFZrNVIyZHllVTl4ZFZaV1RFRRAB",
+            "text": "Great food and service. The calamari is soooo good !"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGRU1FRmhYemswTkRONFNUZFljR0Z4YnpObVNXYxAB",
+            "text": "Shanty was an amazing waitress! She was so friendly, attentive, and made sure we had everything we needed. Her positive energy made the experience even better. Highly recommend asking for her!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVGNXVllNbDlCUzNKRlRXTjJhakE1ZVRSbFlsRRAB",
+            "text": "A few days ago, my friends and I visited this restaurant for dinner. We had been here before and returned for another beef gyro platter. However, this time we experienced horrible service from our waitress, Eli C.\nAt every restaurant I go to, I’m always appreciative and unproblematic. First, we started the night by asking Eli for tzatziki with bread, but she refused, saying it would come with my entrée later. Later, I asked if a cut-up tomato could be added to my dish, and she again questioned and rejected my request.\nWhen I asked for the check, she stood over me impatiently while I took out the cash, even though I had just asked her to give us a minute. My friends and I were only there about 30–40 minutes, and during the entire time, she never smiled once.\nOverall, the service was negative and unsatisfactory, leaving us with an unpleasant experience. Considering the restaurant’s prices and atmosphere, I expected better service—or at least neutral service. At the end of the night, we tipped the busboy, but not Eli. She then had the audacity to complain about not receiving a tip, in the same rude and unwelcoming manner she displayed throughout.\nThere was no history of her serving us before, and there is no reason this type of service should be acceptable. I definitely do not recommend this restaurant. Thanks only to the busboy for the water and his welcoming smile."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zMldrazRiMWt0T1ZwRk5WcGtNRlJUVEY5SE9HYxAB",
+            "text": "Food was amazing!! Service was outstanding!! When you stop by, please ask for Diego, he will take care of you !!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214U2FucHhNMGRyU2sxdFZtUnBlV1JoWkhkalQxRRAB",
+            "text": "Great service and great food! Eduardo was very hospitable and attentive. Definitely will be back"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xacFpYcHNZa1pxZFRodk1UVmZjM3AyUkcxTmQxRRAB",
+            "text": "Love the food and service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oaWRtZHBPVXcyY2xWeFJGWjJkVVpPWlZoNGJFRRAB",
+            "text": "My favorite Greek restaurant! Love the food and the staff is amazing! Restaurant is always clean and the owner is a true gentleman ! Very kind and knowledgeable."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4eFpVdEdOMEZNTUhwcWJuVkNiMU42TVc5ZmEwRRAB",
+            "text": "A perfect go to with amazing food, drinks, and hospitality!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVMlYzQlZPR1ZpUW1FNFMwb3lURkpGTFRGZkxXYxAB",
+            "text": "Im an army brat ! Im not easily impressed ! But Ellie and fuigi were amazing . Fugi was attentive . He was ready with water, menu , hospitality off of first initial meet.  Ellie was hospitable , kind , attentive , accommodating amongst all ! Fugi was determined and a great team player . Overall the restaurant was a vibe ! And an experience! I felt like I was in Greece but my location was America 🇺🇸  the price is right ! The food on point and creative ! The venue is just amazing with a calm outdoor ! Complementary dessert was amaze ballllzzzzzz ! I’m so happy I tried this place ! It’s been yearssss so I’m so happy I finally got to see why they’re still in business !!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sb2NqQXRPVkZ2YzBGT09WcDFRbE5DYUZGR01rRRAB",
+            "text": "I enjoyed the dinner with friends, food is great and excellent. Service is awesome and they gave us free dessert. They really took care of us overall highly recommend"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFM09FOHdSbGREWmtseWVXdE1OMms1ZDNsRWNYYxAB",
+            "text": "Living in Forest Hills for 10 years we finally decided to dine at Agora taverna. The food was delicious however we felt rushed by the waiter to order, even though there were plenty of tables available.  From the time we sat down, we felt the consistent annoyance from the waiter.  Never again"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205dVZHdzJha1ZPV25vemFHbEhXV3R1WWpCQlNHYxAB",
+            "text": "Fresh fish, amazingg fava like Greece!! Reasonably priced, great service. Peter is a class act!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GTlJHcFlhMFJFVVdaelQydG1TMHhKZDJaRVZGRRAB",
+            "text": "This place is always spot on. Amazing neighborhood restaurant"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSE9IaHhjVmRRY1hoVFdVcEpXVmxZVFU1alIzYxAB",
+            "text": "Out of this world Greek food. New favorite place to visit whenever you crave grilled seafood like I do."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kd2FGVlpVM2hqZG5seVJUSm9lSEpET0dkNmNVRRAB",
+            "text": "Delicious food, great atmosphere and amazing staff. Thank you to Peter and the staff for serving the most delicious Greek food!  We will definitely be back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOV1oxUlRUbWd6YzNGdmVWcHpUR1ZxYWpFd2EzYxAB",
+            "text": "Fantastic atmosphere and the food was great and the staff were nice and friendly 😎😎😎😎😎😎😎"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0cldVNUhkM2RvWkZGQ1JIVnZjRVJEZFZwcWJuYxAB",
+            "text": "The food at this place is amazing!! I highly recommend the zucchini chips with tahini. super super kind staff, will be back!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xObWIwdDFjRWQ2VlVVNFdGRndkVEpMV20xdVJtYxAB",
+            "text": "Amazing food and service!! The staff and owner were lovely and the food was delicious! If you want a spot to have a nice eat in Forest Hills this is the area! Highly Recommend"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwNVRrMU9WM280WkZOM1lqSjNWRkV0ZUdZd1NIYxAB",
+            "text": "Although I live in the neighborhood for many years, this was my first time dining at Agora. A friend suggested this restaurant to celebrate my birthday. Splendid experience. Food was exceptional. Service by very attentive Eduardo was fantastic. Restaurant was very crowded because of concert at the stadium. I requested a table change by the window and it was no problem at all. Definite revisit in the very near future. Highly recommend."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0OVAteGN3EAE",
+            "text": "The best seafood restaurant i have found in the NY city. Amazing food, service, music and ambiance. Their food is super fresh and delicious. Looking forward to coming back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xT05IbFFZa3QxZHpaRmNtRnhOVmd0VTB4R1FYYxAB",
+            "text": "Great experience. The food was great and the service outstanding. Shanty and Diego were our servers and they made us feel at home. We had the grilled octopus and branzino, both were amazing. We can’t wait to go back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wbFVrSlFlVFZWTm10UmJVTmFjVlpOYjBOWWExRRAB",
+            "text": "Agora Taverna is a standout in Forest Hills. The menu offers a fresh and flavorful taste of Greece — highlights include the tender grilled octopus, crispy zucchini chips, and beautifully seasoned seafood. The atmosphere is relaxed yet elegant, with a modern Mediterranean vibe. Service is top-notch — the staff is welcoming, knowledgeable, and attentive without being intrusive. Whether you’re stopping in for a quick lunch or celebrating with friends over dinner and wine, Agora delivers a consistently excellent dining experience. Highly recommended!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WaVRHVnhXakYwUjFGQ00xVm1kRTFYV2w5UU5HYxAB",
+            "text": "Agora Taverna is a true gem! The food is consistently fresh, delicious, and authentically Greek — from the perfectly grilled octopus to the flaky spanakopita and whole bronzino, every dish is full of flavor and beautifully presented. The ambiance is warm, inviting, and stylish, making it great for everything from casual dinners to celebrations. Service is always friendly and attentive, with staff who make you feel right at home. Portion sizes are generous and perfect for sharing. If you’re looking for a fantastic Greek/ Mediterranean restaurant in Forest Hills, Agora Taverna never disappoints!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BM1FUSmpaamR6YTJOMmQxTnBZVWRST1ZSdU5IYxAB",
+            "text": "Amazing service and terrific location!\nThe food tastes delicious. Its taste brings back home food memories. This place makes New York and Forest Hills a place to be ! My family has come here to enjoy eating together and celebrating over the holidays, for years now!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xU2NEUlZkbTAwTlV4dlpEVnNWRUZIT0d0UloyYxAB",
+            "text": "I’ve been coming for a few years now. I love the service. Always on point. Diego is a star! I use to get the Piña coladas, but they are gone. The sangrias have been a happy replacement for me. I’ve had the fried and grilled calamari, the salmon and chicken souvlaki pita sandwiches, and the salmon entree with the lemon potatoes. Love the lemon potatoes. I know I’ll be back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSRGNWQjZaVjlPUlc1TU9USnNUMlZYV0haTFRuYxAB",
+            "text": "Great service great food clean and great prices."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oTGJGTjRUamx2VFY5V05tRkpSRnBsTW5STE1GRRAB",
+            "text": "Food here is amazing"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OU01UZGljeTAwVVhFNFdVVm1OMnBIYXpSR1lrRRAB",
+            "text": "Was just stopping by for a solo lunch, ended up ordering too much, but was quite happy with the food (had to box up and take back quite a lot of course!)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGbGVUQlFSMDFtWlVNM1IzVnNSV0p6T1d4RWRFRRAB",
+            "text": "best Greek restaurant in Queens!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GNVIwbFJVWFZtVTBkU05sbG1iMTlTZWtwbE5rRRAB",
+            "text": "The food is authentic Greek.  It feels like being in Greece."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwbXFYVHlRRRAB",
+            "text": "::: Update 2025 June :::\nPicked up a new iPhone at T-Mobile, right around the corner from agora taverna.\nSeem to be a festival on all of Austin Street with lots of food carts, but lots of people standing around eating with no place to sit.\nI look at my wife and said the let's find a place to sit and eat and I mentioned that agora taverna was around the corner.\nI ordered a beef gyro which was nice. My wife had a fish sandwich which was good.\nSpectacular food? Answered no.\nReally good food? Answered. Yes.\nAll the servers were on top of everything, they were all very good.\nChange my rating to five stars.\n\n::: 2019 Sep :::\nAt brunch for 29th birthday of my daughter. Fixed price menu, includes hot and cold drinks (coffee & bloody Mary). Greek specialties (souvlaki...+++), breakfast specials et Al. I had a burger (very nice).\nIssues:\n1. salt! I had to remove the top of the salt shaker to get any salt, restaurants don't seem to check this - also:\n2. pepper - similar to salt.\n3. Catsup. I didn't use any on my burger, because there was a \"crust\" of old catsup around the spout."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOMkU5Wi1pejVqYld3EAE",
+            "text": "I stopped by for a quick bite and was surprised to discover this great set restaurant. The staff was very attentive and the food very good. Greek cuisine is my favorite so I’m definitely coming back."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPQ1E5cm1ZeE1DMTJ3RRAB",
+            "text": "Dining at this Greek restaurant was an absolute delight. From the moment we walked in, we were greeted with warm smiles and a cozy, inviting atmosphere that set the tone for a great meal.\n\nThe food was nothing short of amazing. The branzino, octopus, saganaki, baked feta, all tasted delicious and very fresh.\n\nWhat really stood out was the attention to detail and authenticity in every dish. You can tell they take great pride in their heritage and cuisine.\n\nIf you're looking for a taste of Greece without leaving town, this is the place to go. Highly recommended for both the food and the heartfelt service!"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VPblQ0TG11bmJpbG5RRRAB",
+            "text": "Lo recomiendo,  buena comida y buena atención ..."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxN3RMSHZ3RRAB",
+            "text": "모든 서비스와 음식 분위기 청결도 전부 만족스러웠어요. 보통 식당 가면 인종차별하는 사람들도 있기 마련인데 그런 것 없었고, 혼자 갔음에도 테이블로 잘 안내받았습니다.\n그리고 테이블 높이가 잘 맞지 않아 흔들리니 직원분께서 바로 와서 높이도 맞춰주셨어요.\n팁으로 20%지불했고 그 직원분께는 추가로 10달러 더 드렸습니다.\n덕분에 행복한 연말이었어요"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0X09hWDRRRRAB",
+            "text": "맛있어요"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkeWJXakp3EAE",
+            "text": "What an amazing place. My Agora Chips were crisper and delicate the sauce was creamy and light. My experience is everything anyone would want. The service was kind and friendly. The food was perfect texture and the tastes were divine. My shrimp was perfect! Not at all over  cooked. It was like I was at home!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqZ01TUnlBRRAB",
+            "text": "I love it here. My best friend and I ordered several apps and 2 entrees to share. The wine is great especially the Greek wine! We were able to bring our dog and had a fabulous dining experience. 10/10!! Will definitely return. 👌🏽"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIOVlHSzJRRRAB",
+            "text": "I was blown away by the quality and freshness in every single variety of seafood dishes we ordered. The service was also swift, attentive and professional.\nStarting off with Chef's recommended appetizers:\n× Calamari (fried) - lightly battered and delectable bites, we loved it with the spicy red sauce\n× Agora Chips - fried zucchini, light and refreshing, we all agreed that these paired better with the green sauce that came with the Calamari\nThe starter dishes set the standard for our Main entrées, which were second the none:\n× Bronzino - most popular main course and highly enjoyed\n× Royal Dorado - delicate yet flavorful and perfectly cooked\n× Seafood Pasta (what I ordered) - light with a hint of white wine taste, pasta cooked to al dente\nA true Greek restaurant experience that I will be recommending to anyone in the charming Forest Hills neighborhood!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCbzhpYVFnEAE",
+            "text": "We didn’t have much time and were hoping we don’t regret going in.. we didn’t!\nThe service was excellent, quick, friendly, accommodating. Very clean place. The food came out quickly and was very delicious, I didn’t like the potatoes because they seem to be cooked with grape leaves but that’s just a personal preference. The coffee was good and you can ask for it to be light or heavy. Overall a lovely place, would definitely go back again."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNd3Z2NUFREAE",
+            "text": "Agora Taverna is a great place for weekend brunch, the ambiance is cozy, causal and welcoming. The service was friendly and fast. We tried their brunch with Beef Gyro, Fried Calamari and Grilled Vegetable Medley.\n\nThe fried calamari was delicious, fried lightly and kept juicy & soft inside. The portion of Grilled Vegetable Medley was great with a variety of veggies which were well cooked and flavorful.\n\nMy husband had $20 brunch: Beef Gyro with 1 cold drink and hot drink. He chose mimosa and hot coffee but both drink were not so good. The beef gyro served with home fries and salad was decent, the pita was chewy, smelled good, the beef was perfectly balanced with onion, tomato and lettuce."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROb3ZUdUh3EAE",
+            "text": "It was a cold night, so getting a table was easy. Service was very attentive. We had falafel for an appetizer. It was as expected. I ordered the shank of lamb with orzo. It was delicious and filling. A good value for the price. Mynwife had the brozino. She said the fish was good but didn't like the beans. We were provided a dessert on the house. All and all, it was a nice evening. We were not rushed to leave, but the check was brought promptly when requested. I would recommend for a pleasant evening. On a side note, the owner (I beleive) was there and engaged us in conversation. I felt that makes it more personable."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2NHRURXFnRRAB",
+            "text": "We had a lovely time here. The atmosphere is cozy and reminiscent of Greece and the Mediterranean.. service was fast, straight to the point and efficient.\n\nThe food was delicious .. fresh seafood and delicious meats. We will definitely be back thank you guys!!\n\nBravo"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnbjRHWlZnEAE",
+            "text": "They serve large portions of their meals. We had ordered from their dinner menu during brunch hours because we wanted to order their Greek spreads.\n\nWe ordered the Seafood Pasta and the grilled calamari. They were huge! I couldn't finish my order. They came out relatively quick. They also serve blueberry muffins to as an free appetizer. They were so good!\n\nService was great! Server offered to give us more pita for our leftover spreads free of charge!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPbnRlQmRnEAE",
+            "text": "Great restaurant! Excellent service and delicious food! Cocktails were good! I love their spinach pie and calamari a lot! Everything came out really good! Highly recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuMkxYeXhnRRAB",
+            "text": "Great Greek restaurant with a covered outdoor dining area. The service was quick and we tried the octopus and fried fish that was recommended by the waitress. The octopus was delicious! Good prices for seafood too, would love to come back and try more dishes."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNndUttZmxnRRAB",
+            "text": "we had a lovely time at Agora on Austin! the lamb gyros were delicious. the atmosphere was warm and joyful. the manager, Bulent was very friendly and gave us an awesome dessert recommendation, the kunefe, which paired beautifully with Turkish tea. definitely will be back!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2X1ltODJRRRAB",
+            "text": "We started with the Falafel appetizer which was delicious. The outside was so crispy which was amazing but better than that was the delicious flavor. The small cup of hummus was plenty and was also flavorful. I had the seafood pasta which included shrimp, calamari, and wine garlic sauce. We also ordered the Moussaka eggplant, potato, and meat sauce.\n\nThe seafood pasta is good. The seafood was ever so slightly over cooked and slightly rubbery. The pasta was cooked perfectly. I hadn't had this olive oil white wine sauce before but I think I like this combination in a marinara sauce better. The clear sauce is just a little plain. The manager suggested trying the octopus dish which is popular.\n\nThe eggplant was very good in a hearty meat sauce and the potatoes were very good in the lemon sauce.\n\nWe had desert on the house which was a custard type creamy rich desert"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfMDdDYmF3EAE",
+            "text": "After coming back here for a 2nd time.. I have to say this place is where it’s at! 30 dollars extra on top of your meals for bottomless  drinks for an 1 hour and half is a steal!! Me and my bestie had the time of our lives here for a Sunday brunch.  Our drinks never saw empty the workers were on stat, always re filling our drinks. What a Sunday , still feeling the drinks"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXOHJtb0pREAE",
+            "text": "Fresh and delicious food.\nThe fish was tender and well cooked. Our drinks was delicious and arrived right on time. The complimentary garlic bread was bomb💣\nStaff was attentive and offered great recommendations."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUMWRtNkVREAE",
+            "text": "My extended trips to Astoria are over !\nWe are in walking distance to Agora .\nSo far every dish and ingredient was perfectly cooked. I’m a Branzini junky and at Agora is the freshest and tastiest. The lemon potatoes are out of this world, I wish I could master the art to make them at home. Also the absolute best octopus. As for the people working there: they are all our friends! Panaiotis share secrets of food, his past Greek experiences and knowledge of the islands. Than I also have to mention Diego , our wonderful friend from Quenca if I’m not mistaken!\nHe caries his given new name of Dimitri with great dignity !"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtXzhlbXhRRRAB",
+            "text": "If you want authentic Greek food, go to Agora Taverna. Every dish I’ve ordered , the food was fresh, flavorful, and down right delicious. Every time I and my significant other dine at the restaurant , the owner Peter stops by our table and…"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3OTdLRmJnEAE",
+            "text": "Absolutely delicious and wonderful spot. Everyone is so sweet and awesome. The atmosphere was calm and relaxing. You’ll be seeing me again soon!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwM0tYdWlRRRAB",
+            "text": "The food we had was really good. We had grilled octopus which was really tender and juicy!! Branzino was also good. In desert we had Greek dolce and Greek tea which were awesome!!! Overall food and service was very good…."
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNndmJuMmd3RRAB",
+            "text": "The special meal was super delicious! Those giant shrimps with pasta drove us crazy! Will come back for sure!\nUpdate! We came back as promised! Aaaaannnd.... the restaurant is still the…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxeDY2QTZnRRAB",
+            "text": "I have been going here for some time, and it's one of my favorite restaurants to eat at. The Greek food is authentic, some of the dishes remind me of food I grew up with. It's nice to see managers coming by the table making sure the customer experience is good - which happens almost every time I eat here."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTMTdEZFdBEAE",
+            "text": "Perfect outdoor dining area that is warm but also has good ventilation. Generous portions of food for price paid! Everything was cooked to perfection! Definitely get their lemon potatoes as a side! You won’t regret it!\n\nCheck out my finsta @chiuventure for a closer look and more details of my dining experience here as well as other establishments in NYC and around the world!"
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZaEthVmJnEAE",
+            "text": "Food was average but the worst part was the service.Rude Spanish server. 3 ppl - we ordered 3 items and said we will order more later but He wanted us to order everything saying the restaurant is busy so he has to take all the order at once. What restaurant says that no matter how busy u get ?"
+        }
+    ],
+    "reviews_count": 74
+}

@@ -1,0 +1,82 @@
+{
+    "name": "La Casa Grande",
+    "place_id": "ChIJe_dvgN1fwokRl8Q7I4331ho",
+    "grid": "QN4",
+    "address": "90-38 Corona Ave., Elmhurst, NY 11373, USA",
+    "rating": 4.5,
+    "user_ratings_total": 22,
+    "phone_number": "(347) 808-8719",
+    "reviews": [
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SFkyeFdWbVZJWWxabGVrMTZNVlpsUkc1eFQyYxAB",
+            "text": "The absolute best sandwiches and wraps in the entire neighborhood.  The owner is the best.  keeps everything meticulously clean , the food is Always fresh and delicious! Their smoothies are favorite too."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VPalc1TmJMNC1TeTZRRRAB",
+            "text": "Lack of products and poor customer service"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuLTVMUHBnRRAB",
+            "text": "Best sandwiches!! And coffee!! Definitely recommend coming here ! They are always polite!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNONXJqTVZnEAE",
+            "text": "They have the best breakfast sandwiches.  on the neighborhood. They vary from brewed Coffee to handcrafted drinks. As well as refreshing fresh pressed customized  for your preference greens juices. Amongst that they have mexican bread and different Mexican products and much more. I highly recommend this place"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkLU9hWTBRRRAB",
+            "text": "This place serves the best coffee and sandwiches! The guy who manages is super awesome and attentive."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsM3N2X0t3EAE",
+            "text": "The absolute best coffee variations and smoothies within Elmhurst!! I am an everyday customer and I never once leave disappointed. ✨"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsOUx2R3RRRRAB",
+            "text": "Amazing customer service, very tasty smoothies and clean space always."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwNEo3eHVnRRAB",
+            "text": "Muy buen lugar  para sándwich"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtcS1mUHlBRRAB",
+            "text": "Me encanta\nTodo muy rico y muy bien servicio"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1bGVTZFlBEAE",
+            "text": "Amazing customer service. Clean store. Great food/juices/smoothies. Highly recommend!"
+        }
+    ],
+    "reviews_count": 10
+}

@@ -1,0 +1,586 @@
+{
+    "name": "Spanglish NYC Astoria",
+    "place_id": "ChIJdftOj2BfwokRpQT6Ikrhh0w",
+    "grid": "QN1",
+    "address": "36-03 Ditmars Blvd, Long Island City, NY 11105, USA",
+    "rating": 4.8,
+    "user_ratings_total": 205,
+    "phone_number": "(347) 808-0177",
+    "reviews": [
+        {
+            "date": "15시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poeFQxbERNbnBOYjFWaWNFdHBNbWcyV21aSWFrRRAB",
+            "text": "Delicious food! the steak enchiladas are to die for!!"
+        },
+        {
+            "date": "15시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOQ05VRnBVa2hUVERWbWFGWndUUzFQYUdWME5XYxAB",
+            "text": "Great drinks and great service!"
+        },
+        {
+            "date": "16시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200d2RISjRTbXBtYkV0NGJrVkplQzFmWTBvM1QzYxAB",
+            "text": "One of the best Mexican restaurants I have been to in New York. The enchiladas are fantastic, the atmosphere is great and the prices are affordable. This is such a hidden gem in Astoria!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214RkxVNWlVRzE2TVVVM09VZG1PV1ZpU3pWSGJYYxAB",
+            "text": "5 ⭐️ ⭐️ ⭐️ ⭐️ ⭐️\nWhen I go to a restaurant, I want what everyone’s expect!\nClean place, good food, good price!\nThis new mexican restaurant, its bringing it to a new level!\nGreat food, with great presentation ( which makes a big difference!)\nGreat flavor delicious food, clean environment,fair price and professional staff!\nI had a great experience coming to this place and I loved the food!\nI hope you  enjoy it as much as I did!\nI had Birria Tacos, and sweet plantains!\nI TOTALLY RECOMMEND this restaurant!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrd2RWZ3Rha3d0VkhCRlppMXViMU55WWxOUmVGRRAB",
+            "text": "So yummy and delicious 10/10 house down boots 😋 great service, such a friendly vibe!…"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xORWFUTkNlRzFVUWtWWVltZEdlbVoxVEdaUk1GRRAB",
+            "text": "The food was great. The server was professional and answered our questions. The only reason I give 4 stars for atmosphere is the music was just a little too loud. It was hard to talk. But maybe that was because it was Day of the Dead. I would definitely come back though."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21scVRUWk5NeTFmVkdWNlJYbzBabWsyVTNKaU5tYxAB",
+            "text": "Had a lovely Halloween dinner! Our waitress was amazing and the food was delicious"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKR1dFMXVSbWhXVjNSR1VHMVNRWGRCTjFwT2MwRRAB",
+            "text": "Spanglish is definitely a great choice if you’re in the neighborhood and in the mood for a good ol fashioned burger with a twist. Their brunch burger has chicharrón which adds a nice crunchy kick to already an amazing burger and their Mexican burger is just as delicious with a Spanish twist to a classic. If you love pizza or birria tacos or both, I highly recommend their birria pizza which combines both and gives it a unique flavor. If you’re into seafood, their ceviche is also a must try as well and as always, don’t forget to grab yourself a nice refreshing margarita, passion fruit or my fave, the coconut passion fruit margarita is Delicious 👌🏼"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaclJFdHJNM0JsWVRFelJYUmxkVWxXTmtsTWJFRRAB",
+            "text": "Great experience and great service!! Highly recommend the carne asada!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kcmFEQlpaVGROTVhGQk1USnVVRUZYZEd4RGIwRRAB",
+            "text": "I loved the steak tacos"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWUlNIaFplSFJ0VGxCMWJsY3dUbFZUTVVkMFJXYxAB",
+            "text": "Great atmosphere"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVU9FOTBaemd4UXpSVmFXOXRRUzFyVld4RlRtYxAB",
+            "text": "The restaurant was beautiful and the staff were very friendly. The food didn’t meet expectations, but obviously this is just my review, feel free to give it a chance! Again, staff is friendly! And very nice atmosphere. The drinks were too sweet for my liking."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkU1YzbHhWRlJqTnpjMlJGWkxkRXBLYzA5ZlVuYxAB",
+            "text": "Waitress Irene tended to us very well, and the food was delicious."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oalkwTjRTemxKVUY4MGEwUnBZVGwxYUdGTloyYxAB",
+            "text": "Excellent food, excellent music! Our waitress Irene was very nice."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxSVRUQlBhMUJJVWxsa2JuWkhRVmhQWVVwalIzYxAB",
+            "text": "Lovely vibe , great food , friendly and attentive staff . Get here , u won’t be disappointed 👌🏽"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjeE9WVjVRM3BqZUhrdGRsUXhXVTVuZERndFNHYxAB",
+            "text": "The best restaurant in Astoria. 🫶🏻Good staff, good music and great service 🥰"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKNVJubzNRVk5JUm01UFkxcEJlSFowU0UxTWRFRRAB",
+            "text": "Great atmosphere, good happy hour food and drinks. Attentive staff. Great experience!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25keFlXNTFRMjVVZWt4U2NESmZiSFZpZWpoRFYzYxAB",
+            "text": "The food was delicious and the ambiance was just as great! I took my partner out for a lovely dinner and she loved it."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGaWRUVk5NVkpyWWxkTFFtOVhTWGMzT1ZsdlRtYxAB",
+            "text": "Amazing and delicious food! I’ve been to the Bayside location so I decided to try it and it was a great choice. The atmosphere is lovely and definitely recommend it!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RMk5HZFlSMFI0UmtSUVVHTkpVblpKTTJOWGRWRRAB",
+            "text": "Great weekly deals and great service"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSV2NuQXdSa1J0WVVOdGMwMVpaMEYwVGxoUVJtYxAB",
+            "text": "Food and bev were excellent at Spanglish. I would highly recommend to anyone in the neighborhood or just visiting!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoM1RYZGFjbUZ3VVZSaVV6aFRRVXd0UTBwaVJFRRAB",
+            "text": "Such a great place! Food was delicious, service was excellent & they had a DJ playing great music! The bartender was so welcoming & made amazing drinks!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paellVNXNka3B5YTJVdGRqa3pWVkUxTnpaWWNtYxAB",
+            "text": "Fernanda was so nice and lovely! She's super attentive and made sure we were all good. Mind you it was 9 of us and was so patient and so caring! Good brunch, good good, good drinks!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OZmNYZFdhSFJ0ZUUxQ05GWnJhMWx2UldGVmQzYxAB",
+            "text": "Fernanda & Mauricio son lo mejor! Todo estuvo delicioso!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4eVdqUklaRXhRTTBkV2FVNXJXSFZFWWtaZlptYxAB",
+            "text": "Great music, awesome ambience, excellent service, very tasty food!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0V01ESTRMVmt4Uld0TWVFTlFhbXd6YkZOS04yYxAB",
+            "text": "We really enjoyed having dinner at this place! The vibe was fun and the food was delicious.  We had shrimp fajitas, guacamole, shrimp tacos and cheese quesadilla.  Everything was flavorful and fresh! For dessert, we had a lava cake with ice cream.  The waitress was friendly and there was a cool mural inside.  I would definitely come back!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3MVMyVlNRbUZKZVhSdFIyTnZhV0ZHY0ZvMGJuYxAB",
+            "text": "Great tacos — the shrimp and baha ones were my favorites. Kind staff and fun atmosphere."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wT2FrRlFhVU4wT0VwemJGSXpObGN5VXpKSlEyYxAB",
+            "text": "One of the best Expresso Martinis and margaritas in Astoria. The atmosphere is amazing and service even better with the attentiveness. Tuesdays and Thursdays the margaritas are 10$, highly recommend trying if you’re in the area. Weekends for brunch is 35$ bottomless for one 1 hour from 12-4, choice of one food from the brunch menu. Stop by and you won’t regret it :)"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWb1dHSlZWRzUxUlVwdlNrNHlRelJqUVcxNFJFRRAB",
+            "text": "We had a wonderful experience at Spanglish restaurant. The food was delicious, fresh, and full of authentic flavor. The atmosphere was warm and inviting, perfect for a relaxed dinner. But what truly made the night special was the service — our server Irene was absolutely fantastic. She was kind, attentive, and made us feel genuinely welcomed. We’ll definitely come back soon!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205UGRteG1TbWR4WVhaeGNVcENlVFZLVlZSRE5WRRAB",
+            "text": "So Special place …"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4dmVEbG1UR3BzV2xwU00yVjBlVFZaYzNab2MyYxAB",
+            "text": "This place is such a hidden gem! Great music and service. And the food is amazing! Great happy hour and brunch deals"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJM1dtVXdWekpqVGpoUU1WUmZaVzlSTm5aSFRIYxAB",
+            "text": "Best tacos and margaritas in Astoria! Fresh ingredients, amazing flavors, and a fun atmosphere. Highly recommend for a great Mexican night out!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paVlVVVjFOM0JtUjJaTlMwTnVVVUpQTkVWTlRsRRAB",
+            "text": "Great spot for authentic Mexican food! Everything was fresh, flavorful, and came out fast. Fernanda behind the bar was amazing — super friendly, made excellent drinks, and really made the night. Definitely coming back! 🌮🍹"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FdE1XMW5ka3B2ZG1Wd09VRTRWSFJ2Y1cxc1JFRRAB",
+            "text": "I love the food here, this restaurant never disappoints. Fernanda made me the best margarita and Alejandro gave me the best dinner recommendations. I ordered the Salmon with mash potatoes, but don’t leave without trying their rice and beans, best in new york. I also had the skirt steak before. This place is amazing any time of the week!! One of the best restaurants on Ditmars Astoria right now!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wUE5tMUdiV2hEVGxwdWVGOVdlV3RsU1dscVVGRRAB",
+            "text": "Good food, staff, and atmosphere.\nGot the nachos, enchiladas, and birria tacos.\nWould come back again"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxVE5URklSUzFIZW1oVlpGY3lhM2xITXpKR2RHYxAB",
+            "text": "Really good food and service"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwa0xWOTFkWFl6YUhwdFFVczJPRW8wVG14NlIzYxAB",
+            "text": "Good food and delicious drinks. Loving the Halloween theme drinks"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ScVJDMHdVbE0yT0d4cWNHTjFhM1l5TjNkaUxYYxAB",
+            "text": "La comida estuvo todo mi gusto y la presentación, excelente, la atención y el servicio de Fernanda, muy amigable y pendiente de nosotros, la música estuvo acorde al ambiente, los cócteles deliciosos, lo súper, recomiendo, volvería otra vez."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZMUxUWldNRGhGWXpka1dGQnVTbXBLTnpFd1UzYxAB",
+            "text": "Great service and food was tasty and well prepared. Recommend for bottomless brunch!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SNWRuRm5kSGhVTlhodVozZFBUalp0UW5GcFFVRRAB",
+            "text": "I recently tried the NY Tampiquena at Spanglish NYC on Ditmars in Astoria. The steak was tender and cooked just right, with a smoky char that paired perfectly with the rich mole sauce. The rice and beans tied it all together.  The service was quick and the atmosphere was perfect for a night out."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xR2JrNHhjbmx5TjI1V1owWXhRbEk1ZDNwNFZYYxAB",
+            "text": "Awesome food, great service! We ordered the elote and the queso fundido for appetizers and had the birria tacos and the al pastor tacos for our entrees and everything came out delicious and quick. Would definitely come back again. Not to mention the booths in the back each have their own TVs which play sports games that are on which were a crowd pleaser."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0WVdtMHlXbGcxTkVkZlVqRlNZVmN5Vm1sc05VRRAB",
+            "text": "The food was amazing, my server Fernanda was very good, very helping and kind.\nThe atmosphere I good as well, personal TVs at the booth tables so I didn’t have to break my neck looking at the game"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oV05HcEZUVmszTlhGQlNXRnlUR1pHWlVsTGMwRRAB",
+            "text": "Incredible food - got the corn on the cob, and Baja fish tacos, one of the best in the area!\n\nGreat service and friendly staff. Highly recommend to give it a try"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNM2FreFVOVFpUV1V0c1pscHNia3h2YnkxcE5WRRAB",
+            "text": "Amazing food n drinks we love the pitcher margarita.\n\nBirria tacos melt in your mouth lol"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205RlEzaFJTWE5FVUVwTVVreFhNMUF3T0hGVlVHYxAB",
+            "text": "Lovely place. Definitely on the list of places to come back and eat at again."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taUGFESk1ibTQ1YlVsUU5rMW5kRlZaTVVKWFVHYxAB",
+            "text": "Skirt steak was delicious and the Henny colada was a great drink"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSQ1oxTk9SekZxVjBwS1RIWkJiMWRwVVZkWU1GRRAB",
+            "text": "Amazing place hope ye guys smash it. Go ditmers"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aWVF6WmpYM00xZFRORlJWbGtNR0ZtWjNkVFMwRRAB",
+            "text": "The food, service and atmosphere was amazing! Ximena, the other servers and bus boys were phenomenal"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wNVlqWjVTM1JCYkZsUGJETnVkVVZyWWxoU1lrRRAB",
+            "text": "My husband and I came here for the first time and loved it! The décor is cozy and welcoming. We visited on Taco Tuesday. The tacos were $3–$4 each and delicious (we tried birria and shrimp). The waitress was friendly, honest about portion sizes, and the service was great. The mango juice is amazing! Nice vibe with good music. We’ll definitely be back, especially for other events like Margarita Wednesday."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WNlYwSjRkRTFTVmpoblFYTlZlVEJETTI1YU9HYxAB",
+            "text": "Amazing and delicious food. Great vibes as well. Loved how everything was set up and the salsa was the highlight for me with both my chips and guac and Birria tacos. Amazing service as well"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSRGJXSlVaR1o0Tm5GMGFuaDBObXBpTVdsdU5WRRAB",
+            "text": "We stopped by this Mexican restaurant on Taco Tuesday and had such a great experience! The steak and chicken carnitas tacos were delicious — juicy, flavorful, and perfectly seasoned. The margaritas were refreshing and paired perfectly with the food. Service was attentive and friendly without being overbearing, which made the whole evening even more enjoyable.\n\nIf you’re looking for a spot with tasty tacos, good drinks, and welcoming service, this place is definitely worth visiting — especially on Taco Tuesday 🌮 😋"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kZlRrOW9OMVZMT0RCSFVsUkxVR2QxZWs0MlZuYxAB",
+            "text": "Very nice restaurant. The appetizers wings & chicken empanadas a must try as well as the Baja Tacos delicious. I had a coconut margarita for the first time,..my new favorite. The staff was warm and welcoming the overall atmosphere was definitely a 10 out of 10!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SVFNtSjBkWEZGVm1sTE9XdGlSR05NTFhKMmJVRRAB",
+            "text": "I've been here a few times and always enjoy the food! The nachos, quesadilla and salmon are delicious. I love their shrimp! The service is consistently great; the waitstaff are friendly, attentive, and check in just the right amount without hovering. If you go, definitely try the flan, it's absolutely delicious! I would recommend Spanglish Astoria."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJeXFYMDhRRRAB",
+            "text": "Por fin!!! Such a great vibe!! The food is great, drinks are amazing! Stopped in just for happy hour and it was great! Met friends for dinner, just got better. Ended up having my daughter’s confirmation in the back room that we were allowed to decorate!! Didn’t even have to add much because place is so pretty! A MUST TRY!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ReFdWQlhWVko0VTJad1JEZG1PWEJ4T0ROTlZtYxAB",
+            "text": "The decor in this place is beautiful!!! There's so much detail and gives a nice atmosphere! Ive came here a couple times for drinks and they are definitely my favorite margaritas in the neighborhood! The staff is excellent, friendly and attentive as well!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VKMlJxTG1uNlllNGpBRRAB",
+            "text": "Don’t let the videos and/or photos fool you!!\n\nThis is a beautiful restaurant. Really trendy.\nWith great social media presence.\nSadly, and I’m just talking about my experience, I was a little disappointed.\nI ordered a “Mouth watering Birria pizza”, that I had previously seen on their Instagram posts.\nI also ordered some chicken tacos as well, for another family member.\nUnfortunately, the food did not meet our expectations. It was just average.\nNothing special.\n\nThe pizza, barely had any meat on it, and the server also had forgotten to bring the birria sauce that “supposedly” comes with it.\nI had to ask them for it.\nFunny thing is that, they seem surprised that I was asking for it. Oh well.\nThe chicken tacos were bland, no much flavor.\nBelow average I’d say.\n\nAnother thing is The overpriced Guacamole.\nYou get four chips and half an avocado.\nNot worth it.\n\nDon’t let “Flashy and well produced videos and photos” fool you.\nYou are not going to get what you see online. Not even close.\n\nThis is just my experience.\nHopefully, it’s better when you go!! lol"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmOXNuektnEAE",
+            "text": "Dined here with my family recently and was very impressed with the food. The elotes were flavorful and perfectly charred, and the chicken fajitas were my personal favorite. The restaurant had lots of space and was very clean."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCNVF6RmFWMjl1VURKR0xWWnZPWEJKUTJsWWEzYxAB",
+            "text": "2nd time coming over here and everything it’s amazing!!\nFood taste, portion and the servers are great 😊\nTacos Tuesday 💯 recommend!\nDesserts are delicious"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMXJtMm93RRAB",
+            "text": "Excellent food and drinks - fresh, delicious, and visually appealing. We enjoyed the music and the atmosphere, and the staff is friendly. Will definitely recommend."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLbWpzNDd2c1BXQUx3EAE",
+            "text": "We decided to try this place out. We had the steak taquerias, Caesar salad with steak, Nachos with chicken, Skirt steak and Margaritas. The food was delicious the steak came with rice, beans, avocado and potatoes. The guacamole was also delicious. The servings are decent. We finished off with Churros. Margaritas werent to strong just perfect.\nXimena our waitress was on top of it and very friendly. I recommend this place it has an outdoor, beautiful back area and an upstairs."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmOS1haER3EAE",
+            "text": "I recently visited Spanglish and had a great experience! The chicken empanadas were absolutely delicious—crispy on the outside and packed with flavor. The elote was another highlight, perfectly seasoned and satisfying. The drinks were also impressive, well-crafted, and refreshing.\n\nI highly recommend trying the chicken nachos; they were loaded with toppings and so tasty! My only regret was not asking for extra chicken, as it was that good.\n\nOur server, Isabell, was also very nice and attentive. She made some excellent recommendations that really enhanced our dining experience.\n\nOverall, Spanglish offers a great mix of flavorful dishes, excellent service, and a lively atmosphere. I’ll definitely be back for more food the next time I’m in the area!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxcFpYRnRUV1J3T0Y5M1ZWaGlUVU5NVEV0alNVRRAB",
+            "text": "First time doing brunch at this place and what a great experience. Let me start by saying that Reny is the most pleasant and best bar tender I ever had. She gave us great service and drinks. The food was amazing and the music as well.\nThis is my spot for the next winter months 😁🍾🍾"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SNE5WZDJSWEU0VFdsa1ZETjBkRWt5V1ZWa1YzYxAB",
+            "text": "My first disappointment was noticing I was given a dirty and stained glass cup.  My second disappointment was the bland taste of my meal. It is safe to add seasoning to food. I highly recommend a new chef. A restaurant should have tasty food. Our drinks were also disappointing. The drinks were not what we ordered. The drink was aesthetically pleasing, but not what was ordered. The deejay was exceptional."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SamVUbHRUbmxmTkhoWGNuWmtNMmgxWkdKV1RXYxAB",
+            "text": "Ordered UberEats pickup and showed up early; the vibe and ambiance was inviting so we asked if we could dine in instead and they worked with us! The food was great, very large presentation which was very well worth the money. The menu options, including mocktails, were so good! The service was also extremely friendly and welcoming; the crowd wasn’t rowdy. Had an authentic Hispanic feel to it, from the cuisine, employees, hospitality, etc."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2Xy1ERFh3EAE",
+            "text": "Immaculate vibes, beautiful location, and great service.\nThe mixed ceviche and Birria dishes were incredible, and the Spanglish Lady and pina colada cocktails were delicious.\nSo glad for this new neighborhood addition!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnM0staEF3EAE",
+            "text": "Ambiance is really good and food is good too!! Music isn’t playing too loud so you can actually hear whoever is joining you for dinner. Portions are big and flavorful. I got the nachos with chicken and didn’t even finish, definitely can be shared by two! Not pictured but our table got guacamole and no one had any complaints. I would definitely recommend. Also we were not rushed out, got to sit enjoy the drink and the food with enough time."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBODRPcmpRRRAB",
+            "text": "Spanglish Astoria is such a great new spot! The vibe is warm and lively, and the staff makes you feel right at home. I tried the birria tacos and the Mexican burger, and both were absolutely incredible—so flavorful. They also have a great cocktail selection, which just adds to the experience.Whether you’re coming for a casual dinner or a fun night out, Spanglish Astoria is definitely worth checking out. I’ll be back for sure!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zMFlqaGlNMnAxZERCbE5tNTNPVUpTZEhvMmMzYxAB",
+            "text": "Delicious! Friendly staff, fun music, and very tasty food. Will be coming back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210aU1IUXpWbGxsTUdwMVJEbHFhRmRKV21waE4zYxAB",
+            "text": "A nice atmosphere and music. Great to have a cute get together with friends. The food is good, not best but worth the money. Came there on a special ladies night on Thursday, had a good time"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJckx2czBRRRAB",
+            "text": "Spanglish is the ultimate spot to hit if you're in Astoria, offering amazing food, delicious drinks, and an unforgettable vibe. Cleopatra is the absolute best hostess, making every visit feel special. This place is an absolute must!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsNFV6SmtNbXB6UlZseFgzRTFOelpEUWpWR2FHYxAB",
+            "text": "Spanglish is a must if you’re in Astoria. The food is delicious and the servers are attentive. We had the steak fajitas and chicken mole- both were delicious. The drinks are also really good. We had the picosito and classic margarita."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kb01raDZkblF6Tkc5UE9ETTJSR293YkRSV1lXYxAB",
+            "text": "Phenomenal! Best tacos I’ve ever tried! Prices are a steal! We loved it 🙏"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnN0pQUGpnRRAB",
+            "text": "We had an incredible experience at Spanglish! It's a beautiful and pleasant place, with excellent food and exceptional service. We just left there and I want to acknowledge what a great place it is to listen to good music and see beautiful people. I'm happy that now we have an option at Ditmars where we can combine cuisine and good music. Congratulations to everyone involved and we'll be back again! Good luck today and always 👏👏👏👏👏❤️"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FMldrY3lVek4zWVdSYVZWQTJSRTFTY1RWcVdFRRAB",
+            "text": "Spanglish in Astoria is such a fun spot. The energy is high as soon as you walk in—colorful, lively, and perfect for dinner or a night out. The al pastor and birria tacos are standouts. Drinks are great (the spicy margarita was my favorite), and the service is on point. It’s a great place to go with friends when you want good food, good cocktails, and a vibe to match."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBNWNFOTJRVWd3ZERKd1drRlVTblZ0YkZkMFdWRRAB",
+            "text": "Went out with my friend who came from texas and her dog  to Spanglish on a  Friday night, and it was exactly the kind of night we needed! The vibe was energetic without being overwhelming dim lights, Latin beats, and a crowd that knew how to have a good time. The drinks are Amazing and Ximena provided us the best and exceptional service"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRd1JsRnJSM28wU2xGS1lUZDBZbE5xUWxOVk5IYxAB",
+            "text": "This was hands down one of the worst dining experiences I’ve had. The service was unacceptable. One of the staff members clearly didn’t want to be there. Full attitude, zero professionalism, and a look on her face like serving people was the biggest inconvenience in her life. I will post a photo of her below. If you hate the job that much, maybe it’s time to do something else.\nShe didn’t explain the menu, didn’t check in, and acted like we were a problem just for sitting down. That type of energy completely ruined the vibe.\nThe food definitely NOTTTT worth the price. Combine that with the disrespectful service and it’s a no from me. I wouldn’t recommend this place to anyone. There are better spots where the staff actually treats customers like humans."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pobVZHTk1SalZFT1ZsMGNEZGtSMHg0Y1dKWU1FRRAB",
+            "text": "We started with the pulpo al pastor which we thoroughly enjoyed, it was juicy and flavorful! My husband ordered the branzino and had no complaints, I ordered their Baja fish tacos which were delicious and the sauce was amazing!! We also shared a lychee mojito fish bowl which we’d definitely recommend, so good!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGU2RWTlFjR3RMTkRGTlZtUllaekYzU1hSRmQyYxAB",
+            "text": "Ximena our server was very helpful and nice. Good portions, and the shrimp tacos were excellent. The outdoor seating had a great ambience!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204dExVUmtTV3BXVDNadVZsQlphRWxCTUhsTVNVRRAB",
+            "text": "I had a really good experience here. The staff was super friendly and helpful, and everything went smoothly. The place feels comfortable and welcoming. I would definitely recommend it to others and I’d come back again."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sR1dXMVlkMlZKWHkxRFVXWjBjUzFQVUVobFYyYxAB",
+            "text": "I absolutely love coming here. The atmosphere is amazing, the food is always great - portions are perfect and fresh.\nFinally good Mexican on ditmars."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWeFVXZExTVTVvTFY5c2FtUTFVbWRLWnpoWllWRRAB",
+            "text": "Great local spot! The quesadillas and appetizers were delicious and we can’t wait to come back to try more of the offerings. Vibes were good and it wasn’t crowded."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNNVZETTBVVTFOY0RWMk1sTnVZWGR5ZW1GdGFuYxAB",
+            "text": "We went there for my mom’s bday and service was great very accommodating and I didn’t have any problems making reservation's! The apps were delicious, we got queso fundido with chorizo (yumm) and the flautas were delicious as well ! Can’t wait to have another celebration to go back!"
+        }
+    ],
+    "reviews_count": 82
+}

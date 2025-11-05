@@ -1,0 +1,663 @@
+{
+    "name": "Red Chilli",
+    "place_id": "ChIJt-UGtURfwokRZnsc5yCn8jU",
+    "grid": "QN3",
+    "address": "76-05 37th Ave, Jackson Heights, NY 11372, USA",
+    "rating": 4.8,
+    "user_ratings_total": 801,
+    "phone_number": "(718) 541-6978",
+    "reviews": [
+        {
+            "date": "14시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SNmFFNTJUbWRPZW5vdFJYSkhkR1U0WVd4VGRWRRAB",
+            "text": "Been coming here consistently for the past year and each time has been a wonderful culinary experience. I’ve tried something new off the menu each time I’ve gone and it’s all been a hit especially their infamous biryani! Love the drink selections as well, I personally go for either the piña colada or mango lassi which pair perfectly with all their dishes. The staff here is so attentive and kind. Any concerns will be met with full attention and is resolved swiftly. Overall a lovely place and plan to continuously visit."
+        },
+        {
+            "date": "14시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swNE5WRjZaM1E1T0ZoWGNteEJORmxMTkVOTlZsRRAB",
+            "text": "Unintentionally became a regular!! Delicious food, absolutely wonderful service. I wish it was a little bigger, but they’ve done a beautiful job with the space available to them."
+        },
+        {
+            "date": "17시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKaGJWUlZWRFZ3YkZOSFYyRTNNMjkyT1RaRU0zYxAB",
+            "text": "My beautiful fiance wasn't feeling well. Her server rushed to concoct a bespoke medicinal cocktail which immediately helped.\n\nThen we had one of the most delicious meals!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tObFpXTTNUSFozU1daSE16SjZhelF6YVVsRVpYYxAB",
+            "text": "Great Food and service would recommend it"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GcVdHUmhiVkZVZFVWU05VeGxNVk4yUnpnelRIYxAB",
+            "text": "Ok food is ok but from all the Indian I had this would be the worst nothing person"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0MVdqQm5TR1ZqVFUxbGVXczVURjl4YW5kSE1uYxAB",
+            "text": "Really great food with great service! Will be back\n!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWGRGSnJiSE54VUVNMFVUZDVTMUp1YWw5T2ExRRAB",
+            "text": "Everything was delish. We got pain puri, lamb biryani, saag and butter chicken - all was fantastic!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Veldsa3diSGRqYkdVd00wNTBUMmhzYjBScWIzYxAB",
+            "text": "Fantastic dinner and the service was amazing!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GeVptdHdSbk5YV0hGa2NIbGpOV3gwZWtoNFIwRRAB",
+            "text": "Absolutely delicious. Everything was delicious, but I especially loved the palak paneer which was so fresh and delicious without feeling heavy. And our server Ani was attentive but not intrusive. Great experience. Can’t wait to go back!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kd2VGbFBhVzVoTmxKWlFqZERaamRZTUVORWNtYxAB",
+            "text": "Went with some friends and the food and vibes were great. I got the Palak Paneer and it was super yummy. Enough food to bring home leftovers. The chili garlic naan was my favorite. 10/10!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWFlXcG1TV3gxZEdGV2MxOTNOMDEyYlRWSWFVRRAB",
+            "text": "Absolutely loved the service, the waiters are extremely sweet and kind!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KVmVDMW9jMUZ0VjNkM01rNXpialZWUzI1RWMyYxAB",
+            "text": "Cool vibe. The food tastes delightful. I could even come here for drinks."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOcGRUbDNWa2wyVm5sSFYzQXpOalpVT0ZGUFYxRRAB",
+            "text": "An was great food was great"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSSFFtdENZMEk0ZFRkeWVWUkJXVTFwYWxOMVYzYxAB",
+            "text": "Great environment, great service, even better food!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkd1UzUm9ZWEZ5TnprMFJVOUxaMUZ5VUVwTlpGRRAB",
+            "text": "First time here and everything is great. Had the lamb korma and butter chicken and a side of chili garlic naan. The only thing is the chili garlic naan could be spicier but other than that, food was great. Our server AJ also explained some of the food we're not familiar with, and suggested to make the butter chicken spicier since what we ordered are both sweet, which was a great decision. Would definitely come again"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5UmNGb3pURTAyU0VJNU5rTlBSbFIwVDAxUWRuYxAB",
+            "text": "Great food! Very close to back home! Great and friendly service!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oQ1IwMXdhbWREWTFSbWVXbEVSVUpmYms1dmRuYxAB",
+            "text": "Visited for the first time and had a very good experience. The food was all made fresh and arrived in reasonable time considering how busy the place was. We mostly ordered non-vegetarian food and everything was well seasoned and the spice levels were exactly as ordered. The service was excellent and they even served tea complimentary. Ambience was pleasant, the seating area and restrooms were clean. Overall a great experience, would definitely consider this place if nearby."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nMVdUVnZRMmc1UVZVNExVNXVUVmxTVGtkeGIxRRAB",
+            "text": "Amazing service,  amazing food, amazing atmosphere"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FMVVHdGhlVXRaYnpKNWIxOU9iMVpUWVZGcGJYYxAB",
+            "text": "Really delicious food prepared by Chef Kamal. The environment is very nice and the service is friendly. I highly recommend trying all their items. Every dish is so delicious. The Chicken Jalfrezi, a tangy flavored dish, is especially amazing with Jasmine rice."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjeE56SkdRVzVuYWsxVVZYWmhMV1JwUmtzMGRXYxAB",
+            "text": "The restaurant was very beautiful and the cleanliness was up to standard. The food was amazing. I enjoyed it a lot. The staffs were very nice, they recommended some food that was great. I enjoyed my experience here."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WTmVraEZPWE5GVkhZMVIzVkZSSFZEUTAxT1pYYxAB",
+            "text": "Really great food. Definitely recommend. Would come again for sure."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5dE5ESlJja1puVFV4NVExOWFUamhwTFhWNk5sRRAB",
+            "text": "We loved our visit! Our meal was delicious! The service outstanding! A shout out to AJ for his attention to detail. Highly recommend!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTlgwTmZjMEpETFdWRk0zcERNVkZzYUZWR05VRRAB",
+            "text": "Excellent choice. Welcoming atmosphere, great food, top notch service and all at reasonable prices. The food was fresh and delicious and the menu was varied to cater to everyone."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOaE9GQXdWVUpMUjJGelNHaENkMUE0VkdGb1owRRAB",
+            "text": "beautiful decor, ambience and food!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSNGEwZFJNRUk0Yld0ZlNtRlRXV3AyWkRoT05IYxAB",
+            "text": "Walked in for lunch and Anirban got us seated on a cozy table. Fresh interiors, light background music, noise levels on the lower end, and a pretty welcoming host.\n\nOur order consisted of an extremely delcious Chicken Manchow Soup ($7.99), a very masaledaar Chicken Biryani ($21.99), and a rather spicy Chicken Angara Kabab ($20.99). The angara kabab was just spice forward and did not really have a unique taste to it, but the chicken was well cooked.\n\nService was relatively quick and food arrived within 25 mins of placing the order. Overall, a very pleasant experience and a great option in the neighborhood!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SNU9YZDRTblJSUW5Wc09VMUxaelZXU1RGS00wRRAB",
+            "text": "The Malai Kofta is goated"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnMFMySTVlazFHWlRGa1QyeE1UVEkxVFdsdGRVRRAB",
+            "text": "Fantastic place to eat. I would highly recommend this restaurant if you’re looking for Indian food. For the record, I’m a vegetarian and I had plenty of options to choose from. I ultimately decided on the gobi Manchurian, samosa chaat, pav bhaji, malai kofta, and garlic naan. All of the food was delicious and brought in a timely manner. The wait staff were nice and attentive. I never had to ask them to refill my water, nor did I have to wait too long for them to come to my table to write my order. The atmosphere is warm and cozy, perfect for date night or for lunch/dinner with family or friends. It is slightly on the pricy side, but I think it’s worth it. I would definitely come back to eat here."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjdGFGVjJTMFZIYTJad2JIVmtUbmx3UWpObGVrRRAB",
+            "text": "had such an amazing experience here! The food was absolutely delicious, the atmosphere was beautiful — elegant and warm — and the staff were incredibly kind. It felt like a fine dining experience in every way. I’ll definitely be coming back!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205SFNsZGhiRTF4Uld4a1pIWmFNamxDTVhNMmNWRRAB",
+            "text": "Came here without a reservation, got seated within 10mins. The food is amazing, service top notch, they are so attentive. Highly recommend"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21odGVtSlBhVmg2YldWa09UbDRSV0ZrTW10Mk4yYxAB",
+            "text": "Food is amazing, staff is so kind, Anuj is the best!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xseWJVTkliekpsWmxoMmVUbGtkM1Y1T1RCNmRsRRAB",
+            "text": "Anuj was great! The food was well priced, flavorful and the portions were good!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxdmNqaG5RbVpGU1hjNVJEY3lSVmR0VjJsa1gyYxAB",
+            "text": "They are absolutely amazing! Such an incredible taste, etiquette and service."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toNU1EZGZNVWRmZVRKdlNXNVZPRkpoY1ZSMlpYYxAB",
+            "text": "Delicious food and great service."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twb1VpMXVSR3R6YVVzMVpFb3habHBVUVVGV1NWRRAB",
+            "text": "Aj is the da best and the food is legit!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sc2QxQnlWRzk0ZUZsWGIxbEhORlZTV1U1SFZWRRAB",
+            "text": "Delicious food and fantastic service. I highly recommend eating here."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxTGFXMUhVSE15V21VNU5ERlVYMWhpUXpaSVQwRRAB",
+            "text": "Very delicious! Great service as well :)"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poR1dHUmFablZSZFY5eU5EWm1SazFaWlVOUVFYYxAB",
+            "text": "The restaurant was beautiful in decor and the food was delicious, portion size was great too. However, the service was a major issue. We were seated for over 45 mins and not a single waiter came and provided us with tap water until we asked. Food took almost 45 mins to come. The waiters aren’t as attentive to customers, not sure if it was because they’re are understaffed. No one came around asking us if we needed anything either."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205NFdIbEVMVFJ2Y0c5NGVWSmtiMmxGYlZjMlZYYxAB",
+            "text": "The Resturant is beautifully decorated and the staff is very welcoming. Anirban attended to us and answered all our questions. We really enjoyed the samosa chaat. Good flavor. Butter chicken was a bit tough to chew but the flavor was good as well. Entree portion is good as well for the price. Enjoyed our time here."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGMGRVcHhZMEpvWlU1bVFscExPVjgxVWxVM2IwRRAB",
+            "text": "The staff and atmosphere are all fantastic. The food though—it’s why I keep coming back. The naan, the butter chicken, the lamb korma, wow! Just wow. Highly recommend."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kRE0yRkZRVmx2U0hoZk9GbE9PVmxmVFhCWE1YYxAB",
+            "text": "Very good food.  Very good service.  We had a great experience and we’ll be back!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kRVprWTBTVzQwVDNCZlRITllOVmt6VUVkQ1pGRRAB",
+            "text": "Loved the food"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kWVRrWkdSV05FVjI0MmQzbE9NR05ZWVdSdU5FRRAB",
+            "text": "The food was delicious. Tried the amritsari fish, chaat and Kadhai chicken. Everything was phenomenal. The service is impeccable."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oYWRVaEVNMWxvTVhwNlExOXpUbE4yVjJ3NGVtYxAB",
+            "text": "Very good food! We love the place!!\nServices are great!\nAJ is very nice and attentive."
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOWEoyc2llNXBPSVh3EAE",
+            "text": "Had a great experience dining at Red Chilli. The quality and temperature of the food was excellent and it was a very good portion size. The design and decor in the restaurant were beautiful. Our servers were friendly and attentive. The chef also came out to greet us and all the customers. Highly recommend having a meal at Red Chilli!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20weVJXcEVTM0pTTjJKcGRTMXFMVXQzZFdZMmNFRRAB",
+            "text": "Great atmosphere. We patiently waited for our food, 9 people. The dishes were delicious. The veg options were great and non veg was also nice. We will definitely come back again."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tObVVtWmlXVzFXU1dvM1RUVXhPRmxhVjI1aGNtYxAB",
+            "text": "Food was amazing! Thank you Ani for the incredible service!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aWFlWbFpWR1pSWWxCV01Vc3RlbTVzWkVvMVkyYxAB",
+            "text": "We had a party of 4 and ordered several dishes and everything was delicious!!! Food fantastic, Service phenomenal (thanks Ani and team) and beautiful atmosphere! Don’t wait to try it!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVGRVMTROVEpaUWxsR1IzWjFUbk5PVUY5Wk5rRRAB",
+            "text": "Beautiful interior and delicious food! Ani was our waiter and he was delightful and incredibly attentive. I got the goat saagwala and it was AMAZING."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjM05qUmhOWGN3ZGpoNmJFTjVja3BmYlVvMlZsRRAB",
+            "text": "Everyone is so nice and the food is SO good. I’m vegetarian and gluten free and they were so kind about my allergy. Veg dishes are all marked on the menu."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKWFNVaE1UbWR6U2kxdGFFODRVRUpKYVVSUmVrRRAB",
+            "text": "The food was really good and the service was outstanding"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWdk9GTnFRWFpIZGpCTmMycFBhemxmTFV0QmJsRRAB",
+            "text": "Come with me to Red Chilli in NYC\nIt has opened its doors with a promise to deliver an exceptional culinary experience that blends traditional flavors with modern twists.\nDelicate flavors expertly combined to bring you an authentic taste of India. Extensive menu of Northern Indian fare and beloved Indian favorites. Red Chilli offer a robust wine  and has a full bar serving classic cocktails.\n\nThe restaurant's interior features a large dining room with sleek, clean lines and sparkling surfaces. The tables are dressed in crisp tablecloths and decorated with fresh flowers.\n\nWe tried\n🍸strawberry daiquiri\n🍸Mango tango\n🍴Delhi special Dahi Bhalla papdi chaat\n🍴Chicken 65\n🍴🍢 Red Chilli Spl Mixed grill\n🍴Chicken Kali Mirch\n🍴 Bhuna Gosht\n🍴Chicken Parda Biryani\n🍴Dal Makhni\n🍴Peas pulao\n🍴Garlic naan & keema Kulcha\n🍨Rabri falooda\n🍨Moongdal halwa\n\nIt is the ideal place to head for celebrations, romantic dates, and experiences to remember.\n\nIt is a great go-to for New Yorkers in the mood for modern Indian cuisine.\n\nMust visit"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VLelhfX1d2aHBHOTJBRRAB",
+            "text": "We recently dined at Red Chilli and had mixed feelings about the experience. While the restaurant itself is very clean, quiet, and has a lovely ambiance, the food didn’t quite meet our expectations. The taste was average – we’d rate it around 5 out of 10 – and the portion sizes were surprisingly small considering how expensive the menu was. Unfortunately, the pricing doesn’t match the quality or quantity of the food. It’s a beautiful place to sit and enjoy a peaceful meal, but we were hoping for better value and taste overall."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURveXR2U2tnRRAB",
+            "text": "I can’t recommend this place enough!!!\n\nThis is such a great addition to the Jackson heights neighborhood & a true gem!\n\nThe interiors is absolutely breathtaking and giving upscale vibes. Who needs to go to Manhattan now that we have places like this in queens?\n\nThe food is phenomenal and the staff are so friendly and accompanying. You truly feel like royalty. My husband and I tried the butter chicken, lobster tandoori, lamb shank, dum goat biryani & loved them all! They perfectly pair with the chili chill guava drink or rupee Indian beer!\n\nThis place is perfect for date nights, celebrations, private events and so much more!\n\nSuch a great spot!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poT2QwOU9lR2wzWTFkUVNuSkJValF4VUVGVVVGRRAB",
+            "text": "Words cannot describe how incredible the food is here!\nWe ordered the Chicken korma, samosa chaat, chilli chicken and palak paneer.\nThe Samosa chaat was such an explosion of flavor with every bite, it was simply perfection. The chilli chicken was delicious. The chicken korma and palak Paneer were the best we’ve had. This definitely marks my favorite Indian restaurant in NYC. Highly recommended!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SRmJHdHhiVkV4VDFoYVZHSXlkbWREWVRkWFJXYxAB",
+            "text": "Our first time to try this restaurant due to my sister’s insistence that we should. No regrets. The overall experience was very satisfying. We enjoyed everything we ordered particularly the chicken biryani and my all time Indian dish, chicken tikka masala! The chilli chilled guava drink was something I’ve never had and it was so refreshing. I wanted a mango lassi but the guava drink didn’t disappoint.\nNow on to the superb service…Our waiter, AJ was very attentive and personable. He definitely knows what exactly is on their menu and made recommendations which we gladly followed and didn’t regret. Our dining experience at Red Chilli’s was positive and will highly recommend the place to friends and family. We will definitely be back. Thanks, AJ & the rest of the crew for your awesome service and compliments to the chef!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJWEIySmFsODV5SDdRRRAB",
+            "text": "Everything was amazing, from the gorgeous interior, to the wonderful staff (thank you Rana), to the delicious food! I highly recommend coming here if you love Indian food. We loved everything we ate but want to highlight the aloo tiki chaat, the tandoori lamb chops, the palak paneer, the garlic naan, the lamb korma, the mixed grill and the onion bhajia. Desserts were very nice keser dessert if u like less sweet and gulab jamun if u like sweet sweets."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRejRYSktBEAE",
+            "text": "This is a great addition to JH. The decor is cute, nice ambiance created perfect atmosphere for our anniversary. The food was very tasty, paneer pakora was divine. Tandoori mushrooms were so well seasoned. Lobster masala was delish but a little chewy. Mango walnut salad didn’t have avocado in it and raita to my taste was a little spicy. Drinks were good. Our waiter Rana was attentive and knowledgeable.\nOverall we had a fantastic dining experience, and will definitely be returning soon to try other dishes!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twd2VFSXRUekJtVERCb2JFcERaa0V3TjNGcVQzYxAB",
+            "text": "I love the vibe of this place and the food was on point! Beautiful decor perfect fit for special occasions and Instagram worthy pics. We had the butter chicken and chicken tikka masala. Good size portions of the curries, we had leftovers. I would come back again"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3ejlXVnRnRRAB",
+            "text": "My family and I visited Red Chilli in Jackson Heights last Sunday for a late lunch/early dinner, and we had an amazing experience!\n\nThe atmosphere of the restaurant was incredible—modern, cozy, and vibrant—and the food and drinks were beautifully presented. The service was excellent, with our waiter going above and beyond to ensure we were happy. He was attentive, checked in regularly, and even encouraged us to share honest feedback about the food, which we really appreciated.\n\nFor appetizers, we had the samosa chaat and gobi Manchurian. My family loved the samosa chaat, though I personally found it a tad too sweet for my taste. However, the gobi Manchurian was a standout—it was so delicious! As someone who’s usually a picky eater and not a big fan of vegetables, I was pleasantly surprised at how much I enjoyed it.\n\nFor the main courses, we ordered naan and butter chicken, which was good but leaned a bit on the sweeter side; the chicken parda biryani, which was flavorful and tasty; and the chicken malai kebab, which was tender and cooked well.\n\nThe drinks, though, stole the show for us. The mojitos were fantastic—our favorites were the strawberry mojito and especially the guava mojito, which was so refreshing and light.\n\nOverall, Red Chilli was a great dining experience. While the food could use a little fine-tuning to balance some flavors, the amazing service, stunning ambiance, and delicious drinks made it worth the visit. We’ll definitely be back for those mojitos and to try more of their menu!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWbU1EbFNOMng2Um5KUE5IbFVkalo1YWs5Qk4wRRAB",
+            "text": "For modern day indian cuisine this place really hits the spot from appetizers all the way to desserts. If you come by make sure to check out the chilli chicken and chicken milai kebabs then finish off with their milai kulfi. Be sure to tell the staff about your spice level preference and they will not disappoint. Overall enjoyed the experience with the family and plan to come back with friends."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ObFVFWnNja2s1VkU1d1YxY3haakJoY1dsZlYyYxAB",
+            "text": "Love love love this place! Highly recommend. The food, the ambience, and the service was excellent!!! Our waiter, AJ, was very friendly and informative. Some of the food we ordered - dahi puri, chana masala, naan, tandoori shrimp, etc. The plating and presentation of the food/drinks were also top notch! Will be back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveGN6SEJnEAE",
+            "text": "Had an amazing meal today! I tried the butter chicken and goat biryani both were absolutely delicious. The butter chicken was rich and creamy, and the biryani was full of flavor with perfectly cooked, tender goat. On top of the great food, AJ and Rana made the experience even better with their warm and friendly service. They were welcoming, attentive, and made sure everything was just right. Definitely coming back again!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkM1RHSm9ielZRT0cxSk5rbGlNbmRtZWtsWFdrRRAB",
+            "text": "I’m stunned by the poor quality of food given their reviews and premium positioning as a restaurant!\n\nThe chicken 65 we ordered had a handful of excessively dry and not even chewable pieces and almost 40-50% of what came was other veggies generally used in chilly chicken.  The menu said it comes with hot sauce but we weren’t paying for a bunch of dry chicken pieces and a Chinese sauce!\n\nI live in Manhattan and was told food in Queens is great. My first time here and I’m so terribly disappointed!! There’s so many cheaper options in the locality this is in but I came here hoping for quality food and ingredients which this clearly wasn’t! Photos are of what we just ended up not eating! So you can see how little chicken and how much more of everything else it had."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3aDY3ZE13EAE",
+            "text": "Love this new upscale Indian restaurant in the neighborhood! The food was incredibly delicious & came out in a timely manner. I went for Iftar for my family and I would defend recommend reservations as it got packed QUICKLY. There’s a ton of options for every type of eater, vegetarian, pescatarian, meat lovers, etc. Great variety and good quality food. We got the gobi manchurian, shrimp biryani, fish molly, and the red chili mixed grill, and a side of garlic naan. Everything was great. The space is also beautiful, love to see how they styled it. Will definitely come back and try different things!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJS3V2NU84MjRDWHRnRRAB",
+            "text": "A fantastic addition to the Jackson Heights dining scene! As you step past the red roses and into the restaurant, you’re welcomed into a trendy, clean, and bright space — and greeted warmly by the friendly staff. AJ, in particular, is personable, chatty, funny, and incredibly knowledgeable about the menu.\n\nPro tip: Make a reservation for Friday night dinner — it gets busy!\n\nThe menu offers a great variety of both vegetarian and non-vegetarian dishes, all clearly labeled. For appetizers, don’t miss the Dahi Puri — little crunchy clouds filled with yogurt, sauces, lentils, and topped with pomegranate seeds. Be sure to eat them quickly before they get soggy! The steamed chicken dumplings are another excellent choice.\n\nFor entrees, you can’t go wrong with the Lamb Parda Biryani — beautifully presented in a pot, baked under a layer of dough, and dramatically opened tableside by your server. Other must-tries include the goat curry (on the bone) 🌶️, the lamb shank in a rich, flavorful sauce, and the red chilli special Chicken Angara Kabab.\n\nHighly recommended for a delicious dinner!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oRmJHbzJjVWh1TjBneFdVeFlVMXBxWVd4WWRWRRAB",
+            "text": "The food super delicious and fresh, with great flavour in every bite. The staff is welcoming and attentive, making the whole experience enjoyable. The atmosphere is cozy, perfect for both family dinners and casual outings. Definitely a spot I’d love to come back to!”"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrMVlrZG5WM0psYUUxR2FGTmhNa1EyVXpWdlpFRRAB",
+            "text": "What a delicious meal tonight! My amazing friends and I ate at Red Chilli this evening.This place is a lovely spot with great food. Please come see for yourself."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWllVSldjRmRDUzA5R1lYZEtUMGRMUVcwMVJFRRAB",
+            "text": "If you find yourself in Jackson Heights—whether you're a local, on a food crawl, or just visiting—this spot is an absolute must-try. I’ve already been twice and have recommended it to family and friends, all of whom raved about both the food and the inviting ambiance.\nThe restaurant is spotless and beautifully designed, creating a comfortable and aesthetically pleasing dining experience. Portions are generous and well worth the price.\nThe Gobi Manchurian is a standout dish—truly a must-order. Even my friends who typically avoid vegetables were shocked to learn it was cauliflower after devouring it. We also tried the lamb chops, which were perfectly seasoned and incredibly tender.\nService here is top-notch. The staff checked in on us regularly to make sure everything was to our liking. Special shoutout to AJ—he went above and beyond. When I wasn’t a fan of the drink I initially ordered, he graciously made me a new one, and I truly appreciated the gesture."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paTlJFeDBNMGxwUTJsbVdHUlJSMFJMTmxFMmVVRRAB",
+            "text": "Happened to come across Red Chili by chance as we were looking for a spot to satisfy our craving for Indian food. Inside the restaurant is beautiful, appropriately lit, and elegant. We enjoyed the decor and ambiance before we even decided what to order. For drinks, we got the blue lagoon and the lime refresher. Both were great. My husband ended up getting the chicken kali mirch, while I chose the lobster dish (I forgot the name, but it came in a gravy that contained white wine, which I asked our server AJ if it could be made without it and he confirmed it could). We also ordered a butter chicken to share and the chili garlic naan. I really appreciated that you can customize the spice to your preference, as a lot of Indian places cater to  the “western” palate of more mild seasonings. I really enjoyed the lobster dish; it was flavored and spiced perfectly. It came with mushrooms, and although seemed out of place for this dish, it actually was a great side; seasoned nicely and had great texture. My husband loved the chicken kali mirch; we ended up taking the remaining gravy home so he could eat it with the leftover naan/rice. The butter chicken (not pictured) was the only thing that fell short of my expectations. It had an unpleasant sweetness to it and the gravy was not velvety or creamy. It was the only thing that was a disappointment, especially since it’s such a mainstream and popular dish. Service was perfect; our server was knowledgeable on the menu items, very polite and amicable, and you can tell he truly cares about providing his guests with an outstanding experience. We would definitely return to try the other items next time!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Zd2RWbHBNRFJaU0ZKTk4yWmxWVUl4Y0Vwd2JYYxAB",
+            "text": "Such a great experience! Service was so warm and attentive. Food was so flavorful and fresh. Definitely coming back again! So glad we stopped here for dinner."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poMGRGaHdkMU5RUTI1VFgwZGpTVXAzWldKVFgwRRAB",
+            "text": "We started with pani puri for our appetizer and it was delicious!\n\nFor drinks, we tried the mango lassi and the Chilli Chilled Guava—both were refreshing and flavorful.\n\nFor our entrees, we had the butter chicken and Achari Chicken Tikka with garlic naan, and everything was so tasty.\n\nWe were served by AJ, who was welcoming and attentive throughout our meal. The restaurant itself is elegant and intimate, creating the perfect atmosphere. Highly recommend!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGbGRrdzNRVlZLTVV4S2RucEtSMXBWV21vMFpVRRAB",
+            "text": "I would recommend to try their fish and mango tango drink, they are so good. Their esthetic goat i ordered was undercooked. The mix grill was good too. Sweet corn soup was ok. The setup is so amazing. Bougie."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVmNGUk5hR1F6TjBoamNERkxTbkV5TUd4Q1NIYxAB",
+            "text": "Great food! Great people! Will come back to try out other items on the menu. Anuj is highly invested in his role and knows the menu by heart and has been a great help."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWRU5HNTBNMVJ2V0c1emJXMTVYMDVHZFU5bGNYYxAB",
+            "text": "Best desi food I ever had. Mango salad was 💯 and goat madras was on top in flavor. I will surely recommend it. Must try all drinks here🤩"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNeXRwbzdtanRibjl3RRAB",
+            "text": "I really love everything about this place. The food was really good. Butter chicken was actually melted in my mouth like butter. I had The chili garlic fry shrimp, Prada goat biriyani, Butter chicken, garlic naan, piña colada and mango tango. Like the drinks they were not too sweet. And our server Rana was amazing."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4c1QwOTRlRXRPTXpJNFVGVXplalZZUTNJNVNIYxAB",
+            "text": "Came right at the tail end of dinner on 4th of July and were the last guests. The food was really top tier Indian food and the vibe was lovely. The staff were super courteous and chatted with us throughout. A fun and elegant date night!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxa1p6ZFZXVmRNU1U1U1FrWk5Ta3cxUjB0ek5WRRAB",
+            "text": "Food Ordered: Samosa Chaat, Angara Chicken, Paneer Bhurji, Dal Makhani, Butter Naan.\nDrinks Ordered: Lime Refresher (Nimbu Pani), Mango Tango\n\n(Curries include a side order of rice)\n\nService was quick, friendly and very polite. Ambience is great for families but also for couples. Food was fantastic and portion size was great. They also ask for some of the dishes what spice level we would like and nailed it. Drinks were delicious though I do wish you got a larger portion."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJRGQtTnJEZ0p5SnZ3RRAB",
+            "text": "We had a lovely dinner at Red Chili in NYC. The ambience was warm and welcoming as soon as we walked in. Anuj and Rana took great care of us and explained everything so well. We loved the spicy frozen guava mocktail and Rupee beer with the flavorful food. The gobi manchurian was crispy, and the mango walnut salad was fresh. The butter chicken masala, lamb chops, and dum goat biryani were all full of rich, bold flavors. The tandoori platter had a great mix of kebabs and shrimp. We finished with dal halwa and rose falooda kulfi—both were delicious. Highly recommend this spot!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWlpIbG9ZWHBYVTNkcVNYQkNWMkZPYTJKYU4zYxAB",
+            "text": "I love the atmosphere everyone is so friendly. I have a Service dog and they agree to get him in… love the food taste is top notch love it alot gonna come again for sure🤭🤭🤭 thank you"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjelNXWkNVUzFPZHkxUGRDMUNRVFkxVEdJdFpGRRAB",
+            "text": "Brought my daughter here for her first time eating Indian food! I found Red Chilli’s on Yelp, and it was everything the review said! The ambiance added to the delicious food and the service from Kumar and the rest of the staff was stellar. I don’t think I’ve been to a restaurant where everyone was helpful. There were times I’d need something and any of them were willing to assist."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNk1UQmNREAE",
+            "text": "Great experience!!! Came here for my siblings birthdays twice. And food hit each time!! Service is great like wonderful the waiter is wonderful !!! We ordered the butter chicken and tikka masala chicken because last time we got the butter chicken and it was really good and this time we couldn't choose one over the either, but both of them came out as a banger but this time I personally liked the tikka masala chicken a bit more or maybe it was just like the color it was so rich and the chicken was a bit more tender and the chili chicken was spot on. It was absolutely delicious. However, the nan had a kind of weird but not bad aftertaste but I still really enjoyed it. I love this place and I can't wait to come back for the chili chicken and tikka masala."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJcS1pNURxOXZmVVBREAE",
+            "text": "A fantastic modern take on Indian cuisine right in the heart of Jackson Heights. The flavors were bold, balanced, and deeply satisfying—clearly made with care. Portion sizes were just right, and the stylish interior created a warm, inviting atmosphere perfect for a casual dinner or a night out. The staff was genuinely friendly and attentive throughout the meal. Just a few blocks from the train, it’s super easy to get to. Truly a neighborhood gem—highly recommend it to anyone craving fresh, flavorful Indian food with a contemporary twist."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OclF6bFBkR3hzTjNveFQyVmxORTlSV1dJMllrRRAB",
+            "text": "Loved the chicken tikka Masala and the lamb chops also everything was halal which was great 10/10, beautiful ambiance. Also the gobi Manchurian apps were delicious ✨ and mango lassi and guava drink 💯"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfeHJfaWt3RRAB",
+            "text": "Red Chilli is a true hidden gem for modern Indian fine dining! The food was nothing short of incredible, bursting with rich, vibrant flavors that showcase the best of Indian cuisine with a modern twist. The beautiful interior decor creates an elegant and inviting ambiance, perfect for a special night out. Our host, Rana, went above and beyond, providing outstanding service and spot-on menu recommendations. This place deserves all the recognition—Michelin-quality food in every bite. Highly recommend for anyone seeking a memorable dining experience!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVVZVZFJWako2VkZoM00yWlZNMnRPTm01T1lWRRAB",
+            "text": "Everything is on point. Ordered a fish curry, & mixed grilled. Both tastes 10/10. The ambience is cozy, modern & beautiful!\nAsad is a great server! ⚡\nHighly recommend this place to everyone!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3a0tEVVhBEAE",
+            "text": "Our server, Rana, was very knowledgeable about everything and overall amazing. Definitely recommend the Gobi Manchurian (not pictured) as it hit the spot. The biriyani with the naan on top was pretty cool to try and the butter chicken was good too. Portions are good as well. Drinks pictured are blue lagoon and mango lassi. They're both refreshing, but I'd definitely recommend the mango lassi more with the Indian dishes."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdFRGUlhNMnhUYUVWd1QwOXBPSE5mY0ZSNmMxRRAB",
+            "text": "Absolutely amazing. Every bite was packed with flavor nd beautifully presented. I tried a few dishes, and each one tasted like it was made with real care.I left the restaurant full, happy, and already planning my next visit. It’s rare to find a place where the food, service, and hospitality are all equally outstanding. Highly recommended!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNROTR2NVdBEAE",
+            "text": "I almost want to gate keep this place! Red Chilli is such a lux restaurant with the perfect Indian spices. This is my 3rd time visiting. I love how the restaurant is articulated as it does cater to what many people look for when it comes to fine dining while enjoying cultural food; however, the best part is the food’s delicious. This is such a gem of a find, the ambience is great for birthday’s, anniversary, or no occasion at all with loved ones or alone. I have tried way too many of the items from the menu to list them all. My top favorites are the steamed chicken dumplings, their butter chicken which I usually ask to be made spicy and they deliver. I pair that with the blue lagoon drink. The afghani kabab is so succulent and always cooked perfectly. Lamb shank soft and seasoned well. Staff are a 10/10 each time have been AMAZING! I really hope they keep with the high expectations they set to their customers."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfNThqbHhBRRAB",
+            "text": "We were thoroughly impressed with the exceptional service we received at my friend’s bridal shower dinner. The staffs attention to detail and dedication to ensuring our needs were met made a truly unforgettable evening. Highly recommended – give it a try!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVmR6QXdTbWhoTjJJelpsaDNWRTlqVTJkS1pVRRAB",
+            "text": "The food is amazing also with the price , staff have a good service mind , would love to come back again for sure ❤️"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xQk1VTmhWakpzWTFkSk5uSndOREZ5ZWxZM1VFRRAB",
+            "text": "We came here for the first time for a friends birthday, and I can say the ambience was amazing. The food was great and our server AJ was very friendly, knowledgeable and very funny. We would come back again."
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2X2N5a0tBEAE",
+            "text": "The ambiance is very nice and clean. I ordered mango salad with walnut,  the dressing was so refreshing. My entree was fish curry served with rice. ( add extra garlic Nan ). It is great. The service was top notch 👌 I definitely going back soon."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOTEd6YVQ0MHE2TldREAE",
+            "text": "Amazing staff and delicious food. I especially loved the chilled spicy guava mocktail. 😋. Definitely will be back. It’s a gem 💎 in the neighborhood"
+        }
+    ],
+    "reviews_count": 93
+}

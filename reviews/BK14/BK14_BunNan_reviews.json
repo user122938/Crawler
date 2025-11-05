@@ -1,0 +1,572 @@
+{
+    "name": "BunNan",
+    "place_id": "ChIJlVzs58FbwokRYzF37CBJeEM",
+    "grid": "BK14",
+    "address": "1248 Flatbush Ave, Brooklyn, NY 11226, USA",
+    "rating": 4.9,
+    "user_ratings_total": 546,
+    "phone_number": "(347) 365-3676",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5a0xXaFZNR3BsY1hGUlUwb3hlWHBIVlY5bmVIYxAB",
+            "text": "Jimmy was an absolute delight! Very professional, kind and welcoming. Food was fresh and delicious. Will come back."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGTVJuYzRhbDlCU1ZsUk1HWlNZMUZNVGkwMVoyYxAB",
+            "text": "Jimmy was wonderful, food was fantastic as well! Must visit"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psQ2JVVk1la2gyVmw5SGMzbFBkek5vYVdGQ1ozYxAB",
+            "text": "I had a nice time. The food was great. Jimmy was a great host. I can’t wait to come back."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5c2EyWnJlV2R0UVdoUGJUZHZTVFZ4Y20xaE9HYxAB",
+            "text": "Fantastic food at very affordable prices! The plantain sandwich was delicious! Jimmy was a great server!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21STFNISlVNVkY0V1VzemNtVTRlWE5tTldRMFJFRRAB",
+            "text": "JIMMY is the MAN! Who ever the chef is I’m sending you ten thousand kisses! I will be back on a regular."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taWmVGQjZNVXM1U0Zsd2NtRktUbFpKYzFsZmRYYxAB",
+            "text": "Thanks to Jimmy & Grace for the awesome service. The food was terrific!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGYU1sQjFkMVV3YjFaQ05scEdlVWgyYWpRMlRYYxAB",
+            "text": "Amazing food. Amazing vibes. The waitress Haiti was informative, patient and gave excellent customer service. The entire experience was a 10 out of 5"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201MlNVMUtNMFpXVjFwdE5GUkNXVVo0Ums5SFUzYxAB",
+            "text": "Very good but around $8-10 overpriced"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoeldGUnpORGR0UnpkTllqSjNjblJXT0ROWlIyYxAB",
+            "text": "First, shout out to Nicolas Nuvan! Traveled from Midtown to enjoy the amazing food. I tried the Jerk Chicken Slider, Oxtail Plantain Sandwich and a Chicken Patty for the road. Everything was phenomenal!! Can't speak highly enough. Lastly, thanks to Jimmy and Race for the hospitality."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jNFlrNHdVWFY2ZURSTlNHZ3lXVUl3YzIxSFEwRRAB",
+            "text": "Food was amazing and Jimmy was the perfect host!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxNmIxUnZlRlp3TUY5bFIwbzVURzVOT0V3eU9WRRAB",
+            "text": "Food was great! Thanks Jimmy for treating us so well :)"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WUFN5MW1TRzlVVFU4NVEzZE1WRzR0Wmw5dkxYYxAB",
+            "text": "The food and service are flawless! Best authentic Caribbean food I’ve ever had. Absolutely delicious. Friendly and kind Staff as well. Highly recommend."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWbFQwRkxRbE5QT0ZWUlpGQXhaemx5TWtkdmFrRRAB",
+            "text": "I teach a Haitian history course at NYU for first year students and I always plan a food experience for them. BunNan was the perfect spot for this! The service was incredible, the food was delicious, and all the students felt welcomed and catered to. Thank you to Nadege and her team for putting together a curated meal for all 18 of us! Your restaurant is the perfect size for an intimate gathering for folks who actually want to engage with Haitian culture: from the food to the decor to the music - we could have easily been in Ayiti Cheri! We will definitely be back. My students all raved about the food and for most of them, this was their first time eating authentic Haitian food. We can't say enough - thank you Nadege for your vision and the way you create space for us to celebrate Haiti!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wNFZFdzJkMDQwWVRCb1dUZDBPSEpWWkROaExXYxAB",
+            "text": "Our waiter Jimmy was wonderful kind and respectful. Our food was great well done and so tasty. Love this place and will be back."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sQmQzcFlTRk5tZDNrMVRqVm5hMng2TjBkaGFWRRAB",
+            "text": "Run don’t walk!! I am still thinking about the incredible jerk chicken plantain slider 🤤 ! Not only was all of the food 5 star but the service was over the top and the owner showed us the true meaning of hospitality! Highly recommended!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjemVHMUdUV3M0WjJVdFZuSlVaVFZCWms0elRXYxAB",
+            "text": "Truly stellar food. A beautiful blend of authentic Caribbean flavor and refined, modern presentation. We were treated to a tasting by the owner, and every dish was thoughtful, bold, and balanced.\n\nThe standout was the jerk chicken slider served on a smashed sweet plantain with marinated shredded red cabbage. Absolutely unforgettable—the smoky heat of the jerk, the caramelized sweetness of the plantain, and the bright crunch of the cabbage came together perfectly. That one bite alone is worth the visit.\n\nThis place is also ideal for catering and events. The dishes hold their flavor and structure beautifully and present with real style. If you want food that people will remember and talk about, this is it. Cannot recommend highly enough."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoVWFVNVJkVFp3Vm5RM1dHVmljRUpwVERSdlNuYxAB",
+            "text": "My wife and I met some friends who live nearby as they had recently had a meal there and wanted to share their experience with us. Didn’t disappoint at all. I am not a regular consumer of Caribbean cuisine but we know a bit of the basics. This was Creole meets West Indies meets Soul food. We shared several dishes that all delivered: a chic-waffles dish that had infused plantains in the waffle. The syrup had hints of rum and citrus.  It was such an interesting twist. The smoke herring and eggs-biscuit was a hit. The braised oxtail was as savory as could be. We actually met Nadege, the owner, who lives in the heart of Little Haiti and has built this special spot just a few minutes walk from the B-train. She and her staff were kind and helpful. I’d go back and certainly recommend that you try this place at least once. Warning: the bread pudding will force you to come back for more."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NM09ESnpibVk0YUdGVU1rdHVOVEpwZFMweE5sRRAB",
+            "text": "BunNan is an absolute gem! The oxtail and pulled chicken sliders, as well as the smoked herring, are simply incredible. They are bursting with flavor, perfectly cooked, and truly unforgettable. The atmosphere is welcoming and filled with good vibes, and Nadege’s energy ties everything together. You can sense that she pours her heart into every detail, from the food to the service. If you’re seeking incredible food and an even better experience, BunNan is the place to go!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5T05UUmZNbVpqWTJsV2NsSlNURWhCZEcxUFNVRRAB",
+            "text": "If you are looking for a can't miss evening in Little Haiti Brooklyn, make your first stop at BunNan. Nadege"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVWVUTlRjMWs1ZFZOT05URk9VMHBJVkVKeU1WRRAB",
+            "text": "You must get the oxtail and pulled chicken sliders… amazing!! Nadege’s energy is contagious and added to the great experience!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSa09EUmZiamxKTms1UlpGaGxkRmhFU1VsWE0zYxAB",
+            "text": "Friendly, authentic and delicious. 10/10"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RMlZYaERPV2t6T1ZsRFRUSktSRWhsU21SRlkwRRAB",
+            "text": "Wow! This was amazing. I’ve not had a lot of Caribbean food but everything I had was phenomenal. Do not leave without trying the bread pudding- it’s amazing."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paaVlqVm1UVk4wZGt4blVUSnlkMkV0VEhWcGVuYxAB",
+            "text": "I had dinner at this Haitian restaurant for my birthday. We were a party of 4. I had the red snapper rice bowl and the bread pudding for dessert. Although the food was a bit pricey, it was well worth it. I am Haitian-American and the food was on point!!! I highly recommend this spot. It’s conveniently located on Flatbush Brooklyn, a descent place that you can invite someone to, to enjoy a meal. Great ambiance! Nice staff! A win-win!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSUlpWZFZUMGN4VFZFNU1UbG5TVmhYY21sSGJFRRAB",
+            "text": "One of the best Haitian food I ever ate. Jim, Race, and Victoria service went above and beyond. All star team with the food being the MVP!!! Will be back soon!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGalRrOUxTbmxQVVVGdlgyTk1SVUUyUkRaTmFVRRAB",
+            "text": "Excellent excellent food and friendly service  highly recommend"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WWmJEUTNjMlJUUmxCTWFXUm5XbEZOV0dkeVpuYxAB",
+            "text": "Race, Jimmy and Victoria were excellent. We appreciated their suggestions on food and drink options. They were very attentive. The food was amazing. Would definitely recommend."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wT2RFaDFWbGxuZFY4eGRWWk5kR1owTmxWV1dsRRAB",
+            "text": "Big shoutouts to Jimmy, Race and Victoria for making our experience so wonderful. The food was great and the service was excellent!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poaVNsbDNWbGxOYkRZdFNVNUdNbmQwVFhVNVNrRRAB",
+            "text": "Great place. Not cheap but excellent nonetheless. The plantain lasagna was delicious. The mushroom bowl was really good, and the rosemary biscuits were to die for.\nAgain. You’re not going there for their rock bottom prices, but you’ll still leave happy."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKbWMwWnFiakJSZEd4Q2NXOVdWVlJmY2xsVE1WRRAB",
+            "text": "Race & Jimmy & Victoria were such a great delight! The service was pretty good and the plating is pretty. The griot was fried hard. The flavor was good and still there but over fried and hard. The red snapper was our favorite, but the best dish was definitely the soup joumou (only served on sunday). I'd definitely recommend."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxcmNVcEJWMlZpYjJ0alpteERhWGxSUzNsQk1tYxAB",
+            "text": "Loved the food and jimmy was awesome."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toMGRrWkJhRWhPVXpKU2VUaHFMWEptUzJkcFMyYxAB",
+            "text": "Jimmy was superb. I was welcomed with open arms."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkbWMyVnpTWEUyU1dVMFpqRTBTR1pzZDJWWmFGRRAB",
+            "text": "The vibes were immaculate. Jimmy and race made sure to check on us and were funny too! The food was top tier! The Gran manje platter is a must try, the fish was seasoned down to the bone! Thank you for the great food and service"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKUlRWWnpTRGxWU25NMlpUUXhTR2hUVkhOWlIyYxAB",
+            "text": "Exceptional service! Our servers Jimmy and Race were amazing and made the whole experience even better. The atmosphere was so fun, and the food was great. Definitely try the fried fish!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWd1dYSlpkRjh4YkhCRGQwMUpNMjkyVWkxQmNXYxAB",
+            "text": "It was my first time coming and I will definitely be back. The food is so good and Jimmy was so amazing. He made sure I had an amazing solo dinning experience"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sclUzVnBXazVEWm5ob1JHb3RiRXRFZEVWU2IwRRAB",
+            "text": "I got the red snapper rice bowl, a red snapper slider, and a mushroom slider. I also got a passionfruit lemonade. The service was speedy, and The Staff, Jimmy and Race, were really helpful with explaining the menu. The snapper was a little overcooked for me, but it was still seasoned really well. I really enjoyed the sliders, and they were very filling and flavorful."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsMVRrSnRTa0Z1VW0xM2MwUktjak00VEVwaFNsRRAB",
+            "text": "Place was very nice, such great flavor in food. The atmosphere was super lively. I came from Queens so It was a bit difficult to get there, but it was worth it. The only thing I would say is, I wish they had macaroni au gratin."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjelowZzBZMFJyYkVGNE9WUmlWRkZDTmpoTlNVRRAB",
+            "text": "Has an amazing dinner tonight! Thank you to Nadege our gracious host and our server, Race. Best Haitian food we’ve ever had! The bread pudding was out of this world!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFd01FZE5WblkzWjFsSkxYRnBNRlZ1YjJnd2RFRRAB",
+            "text": "Jimmy was very\nKind and professional an food was amazing"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGTFdWRnZWRzlwVmxoTFNXUm9UQzF5UWs5Sk5GRRAB",
+            "text": "Quick service and Jimmy was a very friendly server. Food was absolutely delicious! Can’t wait to try the other menu options."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4bmJqWlBNblEzV2tvM2FVcEZWa1l6ZURZMVgzYxAB",
+            "text": "Thee food was authentic and delicious. Had the red snapper rice bowl and akra. Very flavorful and filling. Will dine in again"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWV00yVllPV3hDUW10ZlpXUmpNSGwxTlhSdE0zYxAB",
+            "text": "Ten across the board!  Jimmy was our service and was exceptional"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aeU5XUXdTMHB2TUc0emVFa3dlbkpRU2xob1ozYxAB",
+            "text": "Jim was amazing & provided great customer service."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSMmNtOHlUVXR1WW1kb1VFUlVXSE15ZUZab1VXYxAB",
+            "text": "Amazing food and the service complimented it perfectly. Thank you to the entire team for making us feel welcome all the way from London."
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWeFFXRkZjbnBRU1hSUWQwczNZVzlMU2t0U1YyYxAB",
+            "text": "Food was delicious and authentic!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4Q2VXWlJaVVJaZEhSM04wcE5lWGxPTWpsaE5rRRAB",
+            "text": "Food here is bussin’"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0RU0yTnVkWGxpVEVac2VVaGtWRko1YlVGMGJsRRAB",
+            "text": "My experience here was very nice pleasant nice restaurant clean aesthetically nostalgic like a vacation. Staff were friendly. Jimmy was my server he was very attentive and friendly. Recommend so much but only have one stomach so i couldn’t get everything lol so I’ll definitely be back. The Haitian hot chocolate was so good. Food was excellent flavor was definitely there. Can’t wait to come back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oQmRrWm5iVTg1WDBGNlRWWnZSR1ZsZUc5NVoxRRAB",
+            "text": "Food was so good, Race was a great server, could not ask for better service. I ended up taking a lot of food home because I was too full. This is a great place!!!!! Would definitely recommend!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkRGJ6RndWREJNWTBKNE4xWllTbk5OWTBWbmFWRRAB",
+            "text": "EAT HERE ASAP!!! My friend heard about this restaurant on Tiktok and took us there on an NYC daytrip. I’ve had Hatian food before so I was familiar with the slice and flavor and thought this would be a simple lunch outing.  Jimmy V, our waiter, was super patient and attendant—helped us pick out appys to try as well.\n\nOne friend got the Full Size Ti Boush Platter, one got the mini Ti Boush, and my other friend and I got the djon djon rice bowl with jerk chicken. The DJON DJON RICE bowl was so phenomenal, I had to peek into the back kitchen to see who was cooking. I had to PHYSICALLY stop myself from clearing the bowl in 10 minutes. A nurse at a nearby hospital had told us to eat here as soon as we could, because by lunchtime everything was sold out. It did NOT take us long to understand why… To top it all off, the owner came out and spoke to our friend who found her restaurant and we ended lunch with such a nice conversation. BUNNAN 10/10 — Incredible!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xreExUVk5XVXBuUkZKRVRsa3hkVVZoYkU5d1MwRRAB",
+            "text": "Phenomenal experience! Nadej, the owner, was extremely welcoming and warm, along with our host and server, Jimmy. Great food and certainly coming back for more."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210NVdrY3plRk5sTUc1V1duZHdTMlJZWm5veE1HYxAB",
+            "text": "The food and the service was phenomenal. We came for my dad’s birthday. Our server Race Knew a little bit of Creole and he was great at taking care of us. I will definitely come back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkck5tYzRkRnB2VGpSdExVbHVMV1I1ZERVNVVWRRAB",
+            "text": "We had a great experience with our waiter Jimmy. Very warm and welcoming  and most of all accommodating. Will definitely be back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twSE9XOXZRM00zYlUxcWRWQmxNVlJGVTAxYWJXYxAB",
+            "text": "I had such a wonderful experience at BunNan, thanks to Jimmy and Race! From the moment I walked in, they were welcoming, attentive, and made me feel right at home. Their energy and professionalism created such a warm and inviting atmosphere. They went above and beyond to make sure everything was perfect, and their genuine hospitality made the visit memorable. The service was seamless friendly, efficient, and thoughtful. Jimmy and Race truly embody what great customer service should be, and they made my dining experience outstanding. I’ll definitely be coming back and recommending BunNan to others because of them!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twVVRsOHliWEJhZVUxUFNqTndTa1JKZEZVMVZYYxAB",
+            "text": "I had the sweet plantain sandwich with jerk chicken and it was AMAZING, 10/10!!!! My server Jimmy was great and he also told me about the events Bunan BK offers (i.e Sunday dinner, game night and kareoke night). Will definitely come again!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOVFdEQTJkVUkyU0hKNmRETjVTWEZhVmpGSVIzYxAB",
+            "text": "Don't walk but RUN here. All of the food is sooo good. And the staff is incredibly friendly. We had Race as our server on Saturday and he was amazing. We had the griot fritay, griot pizza, plantain sliders, and plantain bread pudding. 1000/10."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oRVEzaEJjVTVDTTNGaVowNUtZWGRsUlVGcFgzYxAB",
+            "text": "Food was absolutely amazing, service was also 10/10, Rex was the absolute best and made my experience. He explained everything super well and I loved it"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSZk0zQnZhMHRHZVdOTVdUaE1Nek5MVEhvd1dYYxAB",
+            "text": "Nadege did it again! Amazing as always! Came here on a weekday evening after work and had the “Ti bouche”fritay platter. Let’s just say it should be called A “Gros bouche”platter! It can easily feed 2-3 people. Everything was cooked to perfection- succulent morsels of goat and pork accompanied by acras, marinad, fried plantains and sweet potatoes.To top everything off customer service was at its best. Kudos to my sever Papo who was such a delight! If you haven’t been you need to go now!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wM2FXdFZUbUZSVWs5U1lrOVdMVU5hY0ZCa1JsRRAB",
+            "text": "Jimmy is an excellent server. Very welcoming and courteous. The food was crazy good. Definitely recommend it, especially the jerk chicken plantain sandwich"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTmJGcHVkREJJUzNWak1FazNhRWRsTlY4MGNuYxAB",
+            "text": "Jimmy and Papo were very nice and respectful. They went above and  beyond to make us feel at home confortable we are definitely coming back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kRllWRkJXa3h6Y0ZSeVJXZDJOMHR3UW1Sb1lYYxAB",
+            "text": "My older sister and I was hunting for a good brunch meal this pass Sunday, and as always we love to try new style foods and try to support black owned to the best of our abilities. We came across this place because another Haitian cuisine recommended it. The food was very good and flavorful, great spices and presentation.  There was only one server, a light skin, tall gentleman with glasses, that made our experience worth it but unfortunately due to the colorism, prejudice, and unprofessional practices from the female owner, we will not support again or would recommend this establishment. We watch the owner, who has locks with a tapper haircut on the sides, greet a party of 7/8 who was all her culture, a single dining, and 4 tables of double persons with smiles, conversations, laughter, you name it, the caucasian couple got the most hospitality and warm greetings and check on the frequently. Unfortunately, I guess when it was our turn, my sister and I was greeted with the most reluctant bitter \"Y'all alright\" that I ever experience. It was so fake that I was in shock of her disposition towards the so-called Black Americans that just supported her restaurant was disgusting. Before we tip our waiter we asked him, are his tips shared with the house. NO ONE deserves his reward for his excellence for how he handle the front of the house without help until the very last minute. Oh how could I forget that our order was extremely late coming out due to a mixed-up but the other 3 double tables of 2, I mentioned got there food before us although they came in quite some time after us. All we got from are server was honesty of the delay and a sincere apology. Like I said, he made up for everything‼️💐💐\n\nRule of thumb for the owner or owners you never know who is in the building or who's that person is connected to, your customers is the lifeline of your business, treat ALL the same way even if they're not your culture."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVNFoxRlZhVU5EYW5aTlNHZDNValkyZGxsRFFVRRAB",
+            "text": "Great food! Fantastic service! Jimmy our host was welcoming and quick service was provided."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aek9GZHZTVkJhWjA5SVpqZDNRMlJCTnpWdWQyYxAB",
+            "text": "Food was great and service!  The service was polite and funny. Our server Jimmy, he was right on time with our food. He was very funny and welcoming. Very nice guy. Very good service overall."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tveVprSnVVMVJoYm5KMlRrTjVUa1J3TFVwYU9YYxAB",
+            "text": "This place is incredible! The atmosphere, food, and service are all top-notch! Jimmie was fantastic, and I can’t wait to return! Overall, it was an unforgettable experience!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4cGQwWmthMXBoYldacFJYRnBVREZ1WjFSUGNsRRAB",
+            "text": "AFFORDABLE! That’s the key word here! The food was affordable and it was delicious! The vibes at the restaurant were dope! We attended game night, there were games already on the table ready for us to play and engage with other customers. We loved our server Jimmy, he was very attentive and sweet.\n\nEdited\nAlso wanted to add that we met the owner Nadege! She was sooo friendly and so happy that we enjoyed our time at the restaurant. It was our first time there and I told her we will back for brunch."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OcGNFOVZSMFF0UTNCV05XaDJSbFZDZW5adVprRRAB",
+            "text": "First off can I say the food was absolutely AMAZING!  The service provided by Paolane and Jimmy was simply off the CHARTS.  If you are a fan of Haitian Cuisine or just a foodie in general, BUNNAN is place that should seek out for your food fix."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWdVFtUjNSMWRtVERCWU4yeG1SR2xOTWxKc2VXYxAB",
+            "text": "The service was exceptional, and the food was absolutely delicious! A special thank you to Jimmy, our attentive server, who made sure our dining experience was fantastic. He was knowledgeable about the menu and offered great recommendations that truly enhanced our meal."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOVE1HdHhZMHc1YmxKQlVXNWtMWGxJYkdFdGVYYxAB",
+            "text": "An amazing experience from start to finish. The rice bowl and the breakfast biscuit.. WOW. They are my new current obsession.\n\nJimmy and Race were extremely attentive and did not hesitate to check on me and answer my millions of questions. Their hospitality truly made me feel welcome. I can’t wait to come back and enjoy more goods !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213NGFYaEhUemxTVDAxdlZVNWxiR3MwYVhwaUxWRRAB",
+            "text": "Stepped in with my mom unexpectedly, and was impressed and thoroughly pleased. Food, service, coupled with the music; chef's kiss. The owner came by and spoke to us; she was just the sweetest. I'll be back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twaGFHUnlURWQwUTNSTlIweE1hMVIwVFdKSlJHYxAB",
+            "text": "My brother and I got together to get lunch. When ai arrived I parked on the street nearby. I walked in and was greeted and we sat. We were served by John and he nice. We ordered:\n\nPassion Fruit Lemonade\nJerk Chicken Plaintain Sandwich\nGoat Rice Bowl\nRed Snapper Pizza\n\nThe food was delicious and my favorite definitely was the pizza! I had a good experience all in all!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONE9ERnlla2h2UkRKeVRrMWthekp4VkRrMGVtYxAB",
+            "text": "My wife and I visited last week and the entire experience was amazing. As a Haitian American I’m very familiar with the culture, and my wife loves the food as well. Upon arrival the restaurant was busy so we were offered a seat at the bar by super friendly employee named Ray or Roy sorry if I mess up. Once seated jimmy greet us as with plantain chips in hand and menu’s.\n\nThe excitement he spoke with about the food, drinks, and job overall felt so sincere and genuine. Food was 10, service was a 10, ambiance was a 10. Felt good drinking my native cola again.\n\nThank you all for a wonderful time, we can’t wait to come back.\n\nPeace!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OUlJYaFFRalpUVTJKNGVYcG9YMVo2UWt0TVkxRRAB",
+            "text": "Thank you BunNanBK!\n\nOur Server Jimmy was great (Keep learning Kreyol!)\nwe had the back to ourselves and enjoyed a good family dinner. We also got to meet Nadege!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsM2VWQmZhVnBpT1hGTVZreFVVa3BJV0d3NFFuYxAB",
+            "text": "Exceptional service and food. We also had the opportunity to meet Nadege the owner, who was beautiful and kind . WE FELT VERY AT HOME. The wait staff was helpful and professional. You must eat here,!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CblMydGpVV0ZXVGtFMVJ6aE5ORTlWY25kUWJIYxAB",
+            "text": "Food was good 10/10 recommend. Jimmy provided great service very nice and helpful"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gd2VHNUpWMFF3ZDFKS2MwcDVjblprU25oMGFIYxAB",
+            "text": "Its a wonderful restaurant and I encourage residents and visitors to eat here!! Jimmy was a great waiter"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkSFYwSjVUMnhFUkdjMGVYcHJPRXc0TVhGWE0yYxAB",
+            "text": "I highly recommend trying this restaurant! The food and service was so good. Perfect for my party of four. Our servers Jimmy and Race were very attentive, and explained the menu and different items well. Excellent service and excellent food! We tried the red snapper sandwiches and they were flavorful and very filling. Definitely worth going here and seeing for yourself."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSNVNUWmhPVWh0VlVwbllWWlRVVTlzWmpORVRHYxAB",
+            "text": "Food was really amazing ! Jimmy was very attentive and the service was fast. I ordered the griot sandwich and passion fruit lemonade and I was extremely full! I will definitely be coming back !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWR2JucFNVbkJ6UjNoR09WOTFhakpSWkROWmJWRRAB",
+            "text": "The food was excellent and our server Paolane was awesome. She was attentive and accommodating. This is must do place to go and have a fabulous meal. The bread pudding with cremas was the icing on the cake."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200MVMwNTZiR3Q2UlZodU9XMW1kMjFLYkhwalUzYxAB",
+            "text": "Stopped in for a quick girls’ lunch date with my aunt and had a lovely experience. I ordered the griot sandwich lunch special, which came with a side salad and a drink. Everything was flavorful and satisfying. Paolane’s service was warm, attentive, and efficient. Would definitely return!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxcFJtaEZOa0pCWjAwMk1rSTNSMngxUm5CWFZVRRAB",
+            "text": "First time going here and it's not just the amazing Haitian cuisine I loved. The owner is so down to earth and a people person. She loves to see her customers happy. The restaurant really embodies the community. Everyone who comes in is so friendly and welcoming. It honestly is great to go to a restaurant where you can enjoy the food, experience the culture and the people. Love it! Thanks for doing this for the Haitian community."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paTFFrWktkbk5oZUU5UU1GRkxTbEJtWDJoaVFuYxAB",
+            "text": "Our server was Jimmy and he was awesome . The food was delicious."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoUE9YbGtkRXB1UzBsdE5IZzVRM1ZqWlhBdGMwRRAB",
+            "text": "So happy we came here! Service was wonderful. Jimmy welcomed us with a smile, he was knowledgeable about the menu and served us promptly. Plantain was perfectly prepared. Everything was delicious and satisfying. Authentic Haitian food! YES!!!"
+        }
+    ],
+    "reviews_count": 80
+}

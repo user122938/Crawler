@@ -1,0 +1,481 @@
+{
+    "name": "The Skillman",
+    "place_id": "ChIJrd9lxn5fwokRMc-BPh3sCV8",
+    "grid": "QN2",
+    "address": "45-20 Skillman Ave, Sunnyside, NY 11104, USA",
+    "rating": 4.5,
+    "user_ratings_total": 350,
+    "phone_number": "(718) 406-9048",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214WFN6bFFXbTF6UTFZMGFFVTNOMk50YTBOWlNrRRAB",
+            "text": "My order seemed made with pride in the kitchen. You'll find the environment captivating. I enjoyed the fresh ingredients, excellent seasoning, and skilled cooking. Workers provided perfect service! This place has secured our repeated support."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWcExVUk9iMlI1ZGxWNVJUbGxUbXBXVEU4MFJuYxAB",
+            "text": "Food is delicious! Drinks are amazing! Thank you."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RemNtdHRlSHBQUVdOemEyOXNWbmQ2YnpKdU9YYxAB",
+            "text": "The burgers (special fish burger and skillman burger) were not seasoned well and super bland. It has plenty of outdoor seatings and very chill to have a drink but not sure I want to come back for food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMFFYa3lOV0l0WTFseFZIcG1Sa2d0YTJaek5VRRAB",
+            "text": "Only drank and watched a game here but all good!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSdE1tbE1NakJVYzNaTFgyTlVRMmxKT1V4WlMwRRAB",
+            "text": "My last visit was disappointing. The roast beef sandwich was a letdown —it came on a burger bun and the meat had a gross flavor and the texture was odd. The wings were also dry and needed more sauce. Sadly, I don’t think I’ll be coming back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KeGRsSTNSemRJWTNacVMzSmxlazVvTTNWMGNYYxAB",
+            "text": "Cute spot. I didn't eat but the smells and the look of the food had me drooling."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CVVlUUnRhR3BzYW5ZMmNqaEJNVmQxTVdkV1dHYxAB",
+            "text": "Very nice place, great service and food"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5QmRHMU9jMWhDVVRkNWFXeHNkVXBOV0VsbExWRRAB",
+            "text": "I always going there for dinner or brunch with my friends , today I was alone  . When  I place to order I only get appetizer he forgot my main order and I double check with him later but he never served the food and funny part he never asked me second drinks he just dropped me check . They were not busy . Won’t be returning …"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPNTdTcHlRRRAB",
+            "text": "Average American meal.. nothing to write home about but no complaints either.. a solid 4 out of 5!"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOLWV5NFN2NS1DelJ3EAE",
+            "text": "Demasiado rico todo y nos atendieron súper bien ! Volveré"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZOGFDTTNnRRAB",
+            "text": "The food was absolutely amazing. Atmosphere was a vibe, definitely sit on the patio when you visit. They also had live music."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPU2ZfTldEdDhmQVBnEAE",
+            "text": "The buffalo chicken flatbread is really good!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvaTRqdUZnEAE",
+            "text": "Yes - 5 Stars All The Way & Cheers to Patrick, professional & personal"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJemRXeXNnRRAB",
+            "text": "Stopped by after long walk with family, great happy hour & delicious food. Came early afternoon and outside was just perfect"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJc0llSnR3RRAB",
+            "text": "Perfect for an outdoor brunch on a warm spring day. The food was great, I love this neighborhood l and I brought my dog to hang too."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3NHJLMnN3RRAB",
+            "text": "First time here and wow the food was soooo good. Service was attentive and very polite! Drinks were also solid. Will def be back!!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRM016a05BEAE",
+            "text": "Just disrespect for food to go. Got both specials for Today's st Paddy's day.  Corned beef  and cabbbage and bacon with cabbagge. Card board container no broth dried out just not what is expected for a 60 dollar order.  Maybe in house was better. But what \"chefs\" send that out?"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMVktOTlRRRAB",
+            "text": "What a gem! The Skillman offers an intimate dining experience. A group of us former Queens residents wanted to get together in our old neighborhood to catch up on old times. The food was delicious. We had fish and chips, burgers and shepherd's pie. Everyone loved what they had. Dessert was just as tasty. Cheesecake and lava cake were perfect. The prices were very reasonable too. No need to travel to Manhattan. The Skillman has it all. The next time we're in Queens to visit relatives, we'll make it a point to come here."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQeXBQRTF3RRAB",
+            "text": "I love this neighborhood restaurant. Nice decor with a warm ambience,  delicious dishes with varieties make us want to come back soon."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzdkpPVkV3EAE",
+            "text": "We look forward to their brunch because their pancakes are amazing!!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDaGJIcWFBEAE",
+            "text": "Great drinks, delicious brunches and friendly staff!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYbE1pTUxREAE",
+            "text": "Not Great.\nGreat Corner. Sitting outside is a pleasure. Vibe is good for what it is. Food barely passable.\n\nPlastic Solo cups served with my dine-in meal...on my plate no less is unforgivable even for a pub."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYNGMzVThBRRAB",
+            "text": "Ordered a steak medium rare I got it well done. I paid 33 for it,  I should get what I ordered for at that price."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYMG9TNzZBRRAB",
+            "text": "If you want the \" flair\" of a Manhattan restaurant without the \" hustle and bustle\", try this great venue in Sunnyside, New York.  They prepare great drinks, that'll get you primed up for  some good eating! And you'll love the service and the prices!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURudHYzLUhBEAE",
+            "text": "Service was slow and the burger was not cooked to the temperature I requested (it was well done, but I requested medium)."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURua3JLdnJnRRAB",
+            "text": "La comida estaba bien preparada y suficiente."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNib1lTNE13EAE",
+            "text": "I just to go to the Skillman  with my husband\nLike 5 years ago I went back twice like a year ago\nMenu is the same Food is not bad\nCustomer service is the worse.  The waitress   Wasn’t that professional and I have to keep asking for napkins i did order a\nDrink the first one was good but the 2th drink looks different and taste different. The bar attendant was nice to change\nI hate to do this but the owners needs to improve. Better service .\nI just to love this place !!!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6MHRuRnNBRRAB",
+            "text": "Nice neighborhood bar and grill. Reasonable value and good food. Worth a stop if you are looking for a bar and grill in Sunnyside but not worth a trip to Sunnyside to visit."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6aDVXLUZ3EAE",
+            "text": "I wanted to like The Skillman, the space is very cute and it has great outdoor sitting. However, there's a few things that leave me short from even liking it. Been here for brunch on a Saturday and 2pm on a weekday. The menu is different, their brunch didn't include many vegetarian options. There's no coffee or non-alcoholic section in the menu for the lunch menu in the weekday menu. The website's menu is misleading than the one they have in the place.\nI will say the staff has always been nice and I do like the space, as well as the music, yet not been able to order consistently, and having low options for vegetarian's is not enough for me to come a third time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6dVBUTW9BRRAB",
+            "text": "I specifically gave instructions for a burger cooked well-done because I am pregnant and pregnant women cannot eat undercooked meat. The burger arrived red inside, visibly very undercooked. I called the restaurant to explain and the woman on the phone was EXTREMELY RUDE. She told me, “I’m sure the burger was cooked well-done.” This was literally after I explained to her it was not. Well, look at the photo, since you don’t believe me. Instead of apologizing to a customer and trying to rectify the situation, you chose to gaslight me. TERRIBLE CUSTOMER SERVICE."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUOE1qOTdBRRAB",
+            "text": "In October of 2023, we had my daughter's wedding reception at The Skillman.  From the start, the owner Gary couldn't have been more receptive.  He was patient as he answered all of my questions and concerns as we began the planning process from a distance, as I live in Florida but my daughter and her husband live in Queens. He was up front about pricing because he didn't know what the market would be when the time came to prepare food but gave me an estimate which was spot on.  We personally met Gary about 5 months before the wedding and he was was warm and gracious. On the day of the wedding Gary was available to us and couldn't do enough for us. The food served was delicious and his staff was gracious and couldn't do enough for us and our guests.  The ambiance that The Skillman provided us was bar none.  It was a very special evening that my family and our guests still talk about to this day.\n\nWhen we are back in town, we will make sure to stop in The Skillman. Thank you Gary for your exemplary hospitality."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqcl9qV0lBEAE",
+            "text": "Absolutely delicious food with great staff! We go the steak tips, curry fries and panchetta mac n cheese and they were all superb!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqMDRPb0F3EAE",
+            "text": "Always great service. Very good lunch deal Burger/fries + beer $20). Busy for brunch."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEcVplQlpREAE",
+            "text": "Nice little pub with decent menu and selection of food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5aFptMlZREAE",
+            "text": "I love the place and the fish tacos. The atmosphere is great and cozy."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkaDllTXB3RRAB",
+            "text": "One of my favorite restaurants. I particularly love the shepherd's pie and the steak and guinness pie. Every meal I've had here I've enjoyed. Sometimes there's really nice live music at a comfortable volume. In good weather the outdoor seating is great as well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkX1libDJnRRAB",
+            "text": "Great drinks with amazing staff. #patrickstheman!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0dXR1UGF3EAE",
+            "text": "Delicious food and nice little spot"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxc2Q2LWRnEAE",
+            "text": "Lovely place for food and drinks.  Nice atmosphere."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4eGNIQ1JBEAE",
+            "text": "We love the Skillman. Perfect atmosphere and ambience. We always love the food here. Drinks are great also. 👍"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxZ29uU0h3EAE",
+            "text": "I liked the space.  It reminded me of an old fashioned Tavern.  I didn't try any food because I had read on line that they had Shrimp Scampi and that's what I had in mind to eat.  They have a good happy hour.  The bartender was nice.  I might go back at some point and try their food."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWbDlXSi13RRAB",
+            "text": "Excellent addition to the neighborhood. Great burger, fantastic fries, beer at the right Temperature and friendly service"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWdTh1ejl3RRAB",
+            "text": "We have been before and food is good. Great Sunnyside spot.. I had  the tacos.. ok . My wife had the fish and chips... Loved it. Service great as always."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGNFkzSlpBEAE",
+            "text": "This place changed the inside. Food is ok, service ok. They need another person as it gets very busy."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGbXFLR3hnRRAB",
+            "text": "Bougie vibes but foods seemed very mediocre with a pretty high price. If you’re looking for good food, there’s probably other better options in sunnyside (so many). It was bland and very basic (especially their pastas!)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1dnNhRWF3EAE",
+            "text": "They have an impossible to beat lunch special: a sandwich and beer for $20! The deal included my favorite local beer, Alewife Downtown Blonde. Tons of food and drink options. Huge outdoor patio space."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwM05PMHhBRRAB",
+            "text": "Just about everything about my experience was great, but the outdoor dining table I sat at was way too sticky. I still see myself going every once in a while."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDb0p5S1ZnEAE",
+            "text": "This place is always so delicious with super friendly and attentive staff. Their current menu is great for the summer and outdoor dining. Their steak tidbits with garlic Mayo is TO DIE FOR!!! I had their Spiked Mint Lemonade too and it was so tasty, just the right amount of each ingredient.\n\nThey have outdoor seating on the sidewalk but also have a nice backyard space that has 5 tables that are under umbrella’s. On certain nights they have live music too which is really nice.\n\nPlease also check out their brunch menu which has great food and drinks too!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZMk1mZUJ3EAE",
+            "text": "My family loves this staple of Sunnyside. It used to be The Dog and Duck. Now, The Skillman it's even better. Completely remodeled and with a new menu it's one of the top spots again in the neighborhood. Check out my photos. Absolutely delicious food, great beverages, and kid friendly. I love this place."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoMjlhZjFBRRAB",
+            "text": "Nice neighborhood pub to goto for St. Patrick's Day. Has a traditional Irish pub feel but also has a huge wide screen TV that they show sports on. Everyone was friendly and chatted it up with one of their regulars(more than enough reason to come back). The kitchen was open later this time and I ordered the Sheperd's Pie which was great.  It came out right out of the oven, hence why I included a short video so you can see for yourself."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZdDZpcHNnRRAB",
+            "text": "Brunch here is amazing. Loved my egg sandwich. Our server Chance was awesome and a cutie 😉…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNb1k2dC13RRAB",
+            "text": "What a great local restaurant. First off, their service was wonderful. Second, food and drinks were amazing. I highly recommend ordering the Apple cinnamon mule. DELICIOUS!! Heads up, might want to call ahead for a reservation."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSNDh2d3pnRRAB",
+            "text": "Walked by and felt like I was transported to London when I saw\nthe restaurant. Had to try it and so glad I did. The mussels were amazing. Service is friendly and excellent. I highly recommend it!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyNnQ2dmdnRRAB",
+            "text": "Cute spot to stop by for brunch! Has outdoor and indoor seating, reasonable prices, and good food selection."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5X0xDUk5REAE",
+            "text": "Decent meal, and service. I'd come back here if someone else suggested it but it would never be my first pick."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKLThtTTBRRRAB",
+            "text": "Good atmosphere and nice outdoor seating. We had brunch and ordered the veggie bowl and breakfast flatbread. Overall, pretty disappointing and mediocre. Supposedly had curry on the cauliflower but couldn’t taste it. The standout was the crispy bacon. If you need a user friendly menu and outdoor  seating in the area then it’s worth swinging by, but order something simple like a breakfast sandwich and just manage expectations."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCdk1TWWZ3EAE",
+            "text": "I just said if you are looking for a place quiet, nice and with good food and drinks… this is the place!!!! And even better if you come on Mondays!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwcXRMbVR3EAE",
+            "text": "Went to The Skillman for Brunch on Sunday. Very enjoyable. I sat outside on a nice sunny day and ordered the sausage links and the pancakes - very fresh and delicious! However, my only complaint is the drinks. They should've offered a complimentary drink with a brunch entree' - pretty cheap of them to charge you for it, a lot of Brunch places offer a free drink with any brunch item.\n\nAlso, the Bloody Mary was only sub par - I've had better. It was also missing the green olive garnish."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXdXY2amhRRRAB",
+            "text": "Stopped by for lunch midday on a Monday when nowhere else was open. I was very pleased with my shepherd’s pie. Prices are reasonable. The server was very sweet, and even brought over a beer she had mistakenly poured and offered it to us on the house. Will definitely be returning to try the wings!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzd292bTR3RRAB",
+            "text": "Great neighborhood restaurant with good drinks and delicious food. I had the steak and guinness pie, which was wonderful!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvOS1iUmF3EAE",
+            "text": "Im always satisfied with their food and service, great drinks and food!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJa3ZXd0VnEAE",
+            "text": "Went to the restaurant for the first time. Had such a blast! Wonderful food! We got flat bread, soup, beet salad and pork chop for the main course, and every single dish was tasty. The waiter was super friendly and checked on us frequently,…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4bDRiMWRBEAE",
+            "text": "Great places for food and drinks! Been coming here for about a year and have ate countless meals yet I’ve never had a bad one. Fantastic salmon and steak dinners. The owner is extremely nice and so is the staff. As we deal with this pandemic I pray they can make it with all the bs rules being put in place.\n\nThey are literally doing their best to serve us and stay open so go out a support! Thanks for staying open we appreciate the value you add to the neighborhood"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4bk5yVEhBEAE",
+            "text": "Drinks were good….food was very bland.  Had a burger, fish and chips, and a Caesar salad. All of it was under seasoned and tasteless. Also, the fish batter was almost slimy. I don’t think the oil was hot enough for the frozen fish."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ4NzRQcDR3RRAB",
+            "text": "Had a delightful cocktail tasting with a friend. We tried nearly all of the $8 summer cocktails on the menu (try the mint lemonade and the aperol spritz and the classic margarita) and for just a bit, we forgot about the problems of the…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvb2FiRF9nRRAB",
+            "text": "Went there for brunch and had the celery cream soup with home fries and mimosa. Great tasting too. The soup was delicious. Went there to catch up with friends and weren't rushed. Will be going back for sure. The decor is kick azz."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpN3JPb0l3EAE",
+            "text": "First restaurant I visited in 2020. Picked the spot for a first date and I am happy with my choice. Staff is very pleasant and attentive. Food was in great portions and tasty. Atmosphere was homey and place wasnt loud. You can choose to be outside or dine within, plenty of space between different customers. Will definitely come back."
+        }
+    ],
+    "reviews_count": 67
+}

@@ -1,0 +1,509 @@
+{
+    "name": "IHOP",
+    "place_id": "ChIJ5Z4FUOJcwokRJeG0wYDX_jw",
+    "grid": "BK18",
+    "address": "11000 Flatlands Ave, Brooklyn, NY 11207, USA",
+    "rating": 4.2,
+    "user_ratings_total": 3371,
+    "phone_number": "(718) 257-4467",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aU09IUnBhM1V3Y1doaGVsTTNXVmQyZUMxbFRGRRAB",
+            "text": "Excelente todo .. superrecomendados"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205cWRXWnVkRlpsVEVGQ2VFMVlXbnBTZG5OUlIyYxAB",
+            "text": "Lucy was great thanks for the service food was great"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OT09XY3daSGcyY3pOUVZYZElWVlZUUVd0MU1sRRAB",
+            "text": "Bernaud was amazing, he was so nice to us. Thank you bernaud for always checking up on us"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aT1oyRmFibGw1TkRWdU1VRjZTR2hsWWtFNGNGRRAB",
+            "text": "Southern Fried Steak with eggs and gravy. The gravy doesn't have sausage in it anymore but it was good."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxMFJHOVVhMGxSWWxKVlRWSjFRVFpIWkhoeWVuYxAB",
+            "text": "Awesome"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSV05uQm5hRFp2ZFUxNVduVlVTVTlMU1hKbWJVRRAB",
+            "text": "Nice experience from start to end."
+        },
+        {
+            "date": "수정일: 4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214ZmJIRjRjazF2Ymkxb1FVOHRWVEJzUW1OMGFIYxAB",
+            "text": "Great place💖💖💖💖💖💖💖"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21od2JuaDNUMnBRTkdrdFYwaFhabWRNTm01TVdsRRAB",
+            "text": "The steak 🥩,wow nice"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aeVR6QXhUbmRHZDBoS1NYbGZTakpDVEVaSFRIYxAB",
+            "text": "Un buen lugar y el personal excelente, la chica que nos atendió Karlina de Nicaragua muy amable"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSZk5sWlBNREUzV2t0aExYQm5PWGxIYlcxNlJYYxAB",
+            "text": "The food was good, we ate it all. But what bothered me was that the tip was included. I know places when it’s more than 6 they automatically add it, but it was 4 of us. We ordered a meal and a drink each. Just a quick lunch. The server quickly said ‘sign and the tip is there’ charged 18%, he lost out a bit, because we tend to leave 20%. Can it be that people don’t tip or give leave a small amount, and he decided to include it in the total. It didnt say suggested, it was added."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paUk4wUXROV0Y0WlhCV1ZtNVlWR3RUY0hwMVkyYxAB",
+            "text": "Pancakes taste great. Has the back in the day texture. Soft and fluffy not tough and stale"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRd2FGaDRORVZtWW5aeFdsaDFNVFJYV0RSTlpXYxAB",
+            "text": "Food was good and hot.. The bathroom was dirty and nasty looking ! Its really a small ihop so dnt expect alot of space!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Rd2NEQjBRa1IzT0RNM1MyTmZRekpMVEZoeVZXYxAB",
+            "text": "Went to this Ihop and was totally forgot about . Other couples came and was seated before us . When i approached the guy who took my name (mind you no one else was waiting to be seated) he grabbed two menus and put us in the side room at an undesirable table. We immediately left and he had the nerve to ask if everything was okay? Today i was off from work and we decided to patronize this Ihop. With this type of treatment we wont be back…..sorry."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkUFNqQlhaelZ6UkRkR1VYaGtNVU4zYzFGVlZWRRAB",
+            "text": "Pleasant and respectful wonderful."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZNWJ6TmFNM1UxUkVSWVJFRTBUaTEzZGpObVVFRRAB",
+            "text": "Food was acceptable.\nService is slow , the waitresses are too busy to handle their customers properly..\nAverage time to get food on your table .. about 10 to 12 minutes.\nThis would not be my favorite place to have breakfast. However it works out ok ."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkMlVtNWxPVXBWUWtWaUxUZERUVXBCYTFOdWIyYxAB",
+            "text": "Nice place to have lunch but not the best"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SlJrOHdkWHBqYmpSSmFuWkhjRkV6UlZkQmJrRRAB",
+            "text": "a great place for a snack"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkcWR6Wk9SMk4yTmpaSU1DMXFlVTlyVmpJd1ZXYxAB",
+            "text": "I decided to write this review because this is at least the second time and coffee was very bad. it had no body almost like water with coloring. my mistake was i did not ask for a new cup. also found the waitress slow to the point where we got up with the bill to pay in front and then she came. Even though it is convenient to eat there after church but i dont think i will go to that ihop again because the food is about the same at all locations. please spend some funds on better coffee since now you are charging $4.50 for it."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkR2NsQTFhMVpYWkhNMlVtZEhSSE55V0c5ZlVsRRAB",
+            "text": "Great service, very friendly staff. Got a veggie omelette and it was delicious!"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRNk9PYXpRRRAB",
+            "text": "Great experience and good breakfast"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRNWRHZEZhRzlpZFdoTmNVZ3pRVTlZZFVGa1ZFRRAB",
+            "text": "It was a good experience customer service may need to be a little more better( as far as checking on the table after awhile to see if we needed extra napkins refills etc.)  Other than that great place to eat no matter what time of the day. Food was cooked really well plates were hot on arrival love that. I recommend"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOaWEwOW5SbUV5ZVdsaFgwOTRNblpsUVhNMFRFRRAB",
+            "text": "Taisha H was fabulous. So friendly, kind and very efficient with our orders. She listened and accommodated all our amendments."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVNFVrcFlSRFJ4TldKRmVGWTNaR3RpV2tsR01HYxAB",
+            "text": "Waitress spill coffee on me and had an attitude when asked to wipe table from previous patron ."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xONE9FOU1aMXB2UlZoRFEwMWhiR3M1VjBsb2RtYxAB",
+            "text": "Christian was an awesome  server.\nExercised patience and happily assisted everyone."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKNzl1NDl3RRAB",
+            "text": "I had an amazing experience at IHOP thanks to our waitress, Andrea. She went above and beyond in every way. She brought my veggie omelet out first so it wouldn’t get cold while waiting for the other order  I’ve never had a server be so thoughtful! She also brought extra napkins  without us even asking, kept our coffee topped off, and even asked if we wanted to take our leftover coffee to go (a first for me!). On top of that, she made sure we had water to take with us when we left.\n\nAndrea’s attention to detail and genuine care made our visit extra special. The IHOP is always good, but Andrea made it outstanding. She truly deserves employee of the month."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sd1MxTTFXbmgzYTAwNFkwaDRhMHg2YjFwTU1uYxAB",
+            "text": "Take out meal. Very good.  Quick preparation."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5cUxUUnhkM05YYjBnM2EzVTNVVGh4UVdsNGVFRRAB",
+            "text": "CHICKEN QUESADILLAS TASTED LIKE PAPER, THE FRUIT ON THE PANCAKES WEREN'T EDIBLE, HOWEVER THE BEST PART WAS THE ICE COLD WATER THEY SERVED AND THE HOSPITALITY OF THE WAITRESS AND THE HOST."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWS01VNUhTR3BxUlRCRWEzY3plRUpNYlZsamQxRRAB",
+            "text": "Nice local place to eat. Staff well trained, friendly, professional. Managers always available and attentive to customers."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkV1JrOUpWa1YwT0RWWGVsY3hZbVZmY2xKTWFuYxAB",
+            "text": "Its ihop...it is what it is lol...went there for family send off after they came to our wedding"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GaWNGTTRaMGhHVlhoTVNGRTFSV0poU1RKckxXYxAB",
+            "text": "Worst ever"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSWldUZEhWMjlYUjNreWVVOHlaR1p6TkdaZlIzYxAB",
+            "text": "Denied me to dine with a service animal"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1dy1fR3NBRRAB",
+            "text": "Great food and a wonderful team of staff"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXZ3ZMRHJRRRAB",
+            "text": "Very Empty at the time we went"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSUE4yMXBhVzVZUzNnMGRHYzRNaTFIZVVOeloxRRAB",
+            "text": "For a decent breakfast in the neighborhood IHOP fits the bill ."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsUVIyeElSRkZpVm1weGFuSmpSRXB6ZUZKV09HYxAB",
+            "text": "Always our go to at least 4 ti.es in a week.  Love the pancakes"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMFQwWmFWVFZoUkVoaWNVdHBNVWxMWDB0UmJYYxAB",
+            "text": "Food seem like it was already done didn't take long for it to come out...\nI asked for a medium well steak and got a well done steak...not what I wanted but ok"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJa3J5SXZBRRAB",
+            "text": "Great pancakes, great everything pls visit Ihop on flatlands Ave."
+        },
+        {
+            "date": "4달 전",
+            "language": "hi",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VNdWZuWkRkdlBmMjN3RRAB",
+            "text": "Sub par"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paa1dFY3ljVmxHTjFkaWIxSlVTUzFRVlMwM1QyYxAB",
+            "text": "Took my kids here, waitress was patient and awesome with them."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VQbUt3WXVRdzVfUDBBRRAB",
+            "text": "The opening time is perfect for people who go to work early in the morning"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRdVBHRFpBEAE",
+            "text": "Had a great experience at IHOP! The food was delicious, especially the pancakes — fluffy and perfectly cooked. The staff was friendly and attentive, making sure we had everything we needed. The restaurant was clean, and the service was quick. It’s a perfect spot for a cozy breakfast or brunch. Can’t wait to come back!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3aHJMNkJnEAE",
+            "text": "The food was really good!!! Myself and my brother and sister in law loved the food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYbU9ETDl3RRAB",
+            "text": "This IHOP is better than the one on Ralph Avenue. It's bigger, it has more seating, the staff is friendlier, and they actually have different flavored syrups, which is the main reason I even go lol.\nThe food was good, will definitely be back."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJbzZqOWt3RRAB",
+            "text": "Apparently they don’t know the difference between pancakes. I can’t even bananas but was sent banana pancakes twice. I can’t make this up how do you confuse, strawberry cheesecake pancakes with banana zoster? Please tell me how. They refused a refund after they made that mistake twice. I’m tired of this . Hopefully I get my money back."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQNG9MMk53EAE",
+            "text": "Got me a breakfast sampler delivered, everything was good. The pancakes were so soft and fluffy…so delicious!! Only downside was my food was a little cold. But it was cold and raining and my delivery was not the only one. Definitely plan on ordering those pancakes again before my holiday ends."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURub2JfZ3pRRRAB",
+            "text": "A great place to do brakefast  what a great customer service I highly appreciate there friendly environment it's our second time me and my wife visits there and we love it our host help us to chose what to eat and Its great place to be at brakefast we love the food it's nice clean big  parking spot and all the staff is really nice i must say place food everything is top noch and hygienic clean recommended 100% to everyone that's place is amazing"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzclBHOFd3EAE",
+            "text": "My family and I frequently visited this location and it's a new experience every time. I asked for ice coffee carmel latte she said they don't have of any kind but yet still I was there last Thursday n got it .. I said I need the same as what the others were having (strawberry lemonade)but somehow our waitress brought plain lemonade for me. She wasn't welcoming, no smile, it was like she didn't want to be there( probably it's that time of the month) anyhow. My taco was bland n soggy, fries were oil soak, cold n salty."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIcDZ5NnN3RRAB",
+            "text": "Lovely food and atmosphere. Customer service was top knotch for me. My family loved it and would definitely go again."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNab3NXRTdnRRAB",
+            "text": "Very lively over the labor day weekend. I took my three teenage nephews and they had a blast. Unfortunately, I did not get to taking photos of their meals until after half eaten. Sorry about that 😐"
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnNnUzaXFnRRAB",
+            "text": "The place is empty on this Wednesday night. The restaurant is clean and well organized. The parking lot is being renovated and the IHOP is actually being expanded to make it larger.  The food looks delicious. Good service. Manager very pleasant. Love the pancakes!"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvbmNxZlVREAE",
+            "text": "I had a great experience by far one of the best locations if i do say so my self.  I recommend this fine 5 star like establishment to anyone, family friendly with endless possibilities.  All you can eat pancakes and a brand new soul food based menu.  Bravo to the staff who had everything hot to the touch and in a timely fashion.  Nothing less then perfection."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VOYjR3ckQxdVB2aVF3EAE",
+            "text": "I ordered fried shrimp but the 5 shrimp were popcorn size with a lot of breading.. I expected at least medium size.  I spoke to the manager.  He was polite and professional.  He brought me 4 nice medium-sized shrimp.  The shrimp was visible, breading was a coating not a covering over shrimp.  I will eat there again."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURadHRfLU93EAE",
+            "text": "I had an amazing experience at this IHOP! And I don’t remember ever having this experience at this location before. The food matched the menu precisely. No false advertisement. The service was great. All of the workers were on point. The manager also played his part well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUNnAtZmNREAE",
+            "text": "Had an amazing time. Took my daughter's mother out and our baby. Being a first time father is amazing. I love the family life, but back to the food. I had an omelet with the Pancake of the month. Pancakes with white chocolate chunks and Raspberry 😫🥹. It was amazing. Taste so good #Pause. The staff was amazing, even on a busy day like mother's day."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURveEotWHp3RRAB",
+            "text": "The atmosphere was pleasant and the waiter Was informative when I ordered the chicken with the biscuit she said that it would fall apart which it did. I  Suggested that the chef should prepare it with a potato waffle to have more stability when eating. The only thing I did not like , a worker came to sweep where  I was eating I don’t think it is   hygienic although I do understand why they want to keep the place clean."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWazV6QnRBRRAB",
+            "text": "I arrived and was seated. A waitress came to me about five minutes later to tell me she'd be right with me. Then she came back about five minutes later to tell me she'd be right with me and she apologized, I said it was all good. Ten minutes go by and I realize I've been sitting at a restaurant for almost 20 minutes and I don't even have a drink lol. So I try to find the waitress, but she's talking to some dude near the kitchen. So the manager finds me and I tell him I don't want to get anyone in trouble, but I think I'm forgotten. He says she'll be right there. Nobody comes. I left. I wanted about half an hour of my life I'll never get back. Prices also went up, just find a Denny's or something."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXNVpXcXl3RRAB",
+            "text": "Normally I go to IHOP on Livingston st in Brooklyn, but today we were driving and with no parking at that location we decided to visit the one on Flatlands Ave which I never knew about but it's ok to try different places and with ample parking even parking for folks with handicapped parking permits this might be my new spot .So we were greeted with a smile and seated only after showing our vaccine cards, first time after covid I realized things  have changed you can now scan the menu and the actual menu has changed as our hostesses Miss Lashanti had to make about 4 or 5 trips to our table as I sat with my single menu my mind drifting off I had to ask my husband if were at IHOP or the waffle house. Where was my folded menu with the colorful pictures that opened my appetite that made me feel I could eat everything on that menu I felt confused lost i could not decide and because of that Miss Lashanti had to keep coming back but always with a friendly smile and a heart that felt it was made up of patient just for me to decide I got my Swedish crepe and ex large tea everything was ok but I really miss that folded menu. Ok so the food is still delicious, the inside was clean even the bathroom and sink area there are 2 toilet in the women's bathroom but they have a 2 seater if you have to wait just outside. We will be back in the future I really love going to IHOP and this location might end up being my favorite location."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQydFBlYVVBEAE",
+            "text": "Dont go here please, go to the one on Ralph Ave. This location is horrible, a bunch of youngins that do not have good work ethic. I've went about 6 times because i give places a few chances but only once did i have a good server, i dont remember her name but yes she was young but did well and carried herself well (light skin with glasses). Any other time i had to get the manager to service me. often you get seated and then forgotten about for a good 25 min before someone comes and checks on you (if they even come and check, ive had to get up myself n go to the manager and then he would take my order) and even when its dead somehow your food comes out cold. 6/6 times ive went the food was always cold and had to get sent back. Presentation goes a long way too, workers walking around with Bonnets and Durags is not professional... Also ladies stop trying to force edges, the install was poor get some of ya money back."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZNktHZ3N3RRAB",
+            "text": "I've always loved this location, and it looks like they're expanding the premises. Great staff. It's cozy but still great. Never had an issue with the food."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLc3RMa3VRRRAB",
+            "text": "Great place to have your breakfast. Our waitress Carolina was great help gave us some of her opinion on the food and ended up with some finger licking food.The service was great coffee nice and hot the orange juice on point.I would def have breakfast here.Thanks you Carolina for making us laugh and have a great breakfast"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEcEtmcjB3RRAB",
+            "text": "I loved the atmosphere here. My waiter Nardia was perfect 🥰. Food was on point😋 and my niece had a ball 😊"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYLTVLMnR3RRAB",
+            "text": "IMO the food in the IHOP on Flatlands Ave is somewhat better than the one in Georgetown. Otherwise the meals were decent and fairly tasty."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLdmFmSDZnRRAB",
+            "text": "For to-go orders, the food takes a while to come out.  Great place to pick up breakfast fast.…"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwb3JTWll3EAE",
+            "text": "Being that this is the closer out of two IHOP restaurants near me I frequent this one more. The issue I get is every time I go it is an issue 🤦🏽‍♂️. Todays problem is the time it took to make three pancakes 🥞 and the amount of orders that went out yet mines to eons. Gotta do better with the service, a warm greeting isn’t enough.\nUpdate-\nStill long wait for food every time I come it’s crazy I feel bad for the employees because they have to be impacted by bad reviews. This time though the manager there the entire time and did nothing to speed up the abnormally long wait and was terribly rude told me to not come if I have an issue with the wait. Also BRIAN IS AN EXCEPTIONAL WORKER AND IF I RETURN IT WILL BE BECAUSE OF HIM"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvc3JHR21nRRAB",
+            "text": "We come to this IHop often. Been coming for over 5 years. Every visit thus far has been great. I hope the service and the experience continues. I have 3 other IHops closer to me but I take the 40 minute drive for those reasons listed above"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXbDdDczBBRRAB",
+            "text": "The people are awesome very caring very attentive food fresh delicious and served fast recommend recommend this IHOP 👌  To everyone"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlbExDc1J3EAE",
+            "text": "Love the pancakes and crepe especially the strawberry flavor. I was disappointed for my birthday though. I visited and got the jolly birthday song from staff and a dessert but as I dipped my first spoon expecting a sundae, which I was told is the usual birthday treat, it was just a plate/bowl of whipped cream.\n\nI informed my waitress and asked her where is the ice cream this is just a plate filled with whipped cream and chocolate drizzles on top. She was kind enough to bring one scoop of ice cream which I wasn't charged for.\n\nI will visit ihop again on my next vaca as I like their breakfast but I surely wouldn't be going there for my birthday again as I expected better. Should have gone elsewhere."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHeV9UeFpBEAE",
+            "text": "The food was prepared well but the service was lacking. All the servers were bunched up in one area not really paying attention to customers. I had to walk up to them to ask for assistance"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVNGJMNGlRRRAB",
+            "text": "Stop in to try something other than breakfast. I ordered the burger with fries. The drink was seltzer water instead of mountain dew mix.  Always checking before leaving.  The food was great. The service was good and the staff was friendly."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNncVBidXl3RRAB",
+            "text": "Eating at different IHOPs the service is usually hot or miss. Today the service was AMAZING!!! The server Yahaira was very friendly and attentive throughout the meal from the beginning to the end when she thanked me for coming as I walked…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwdnBuaUhBEAE",
+            "text": "Food is always amazing and customer service is a professional and family friendly"
+        }
+    ],
+    "reviews_count": 71
+}

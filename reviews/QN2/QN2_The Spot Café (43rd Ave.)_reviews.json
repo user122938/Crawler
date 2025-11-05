@@ -1,0 +1,453 @@
+{
+    "name": "The Spot Café (43rd Ave.)",
+    "place_id": "ChIJSfkoYm9fwokRIWBty33ZKk8",
+    "grid": "QN2",
+    "address": "43-24 43rd Ave, Sunnyside, NY 11104, USA",
+    "rating": 4.7,
+    "user_ratings_total": 118,
+    "phone_number": "(917) 396-4036",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xac1NUUm1Na0pUWDNOV2NIbHNlakYwT1haWlQyYxAB",
+            "text": "This is a staple of the neighborhood! I always walk by it and wanted to go in and when I finally did I was not disappointed. The food and service was 10/10 and I am definitely coming again ♥️"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rdFQxRlJkazVRTFhkV2FYVnhlVjlvYjIxSFJuYxAB",
+            "text": "Everything was perfect from start to finish."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WbE0wVnphRTR4TURGTVNVbDBPRzlUTWtGcVgwRRAB",
+            "text": "Longest wait time on simple dishes"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psdVRubG1aVGxFWTJZM1RqQmtUVzk2Y2tsR2JGRRAB",
+            "text": "I’d give this place 6 stars if I could. I’m visiting from out-of-town. The breakfast sandwiches here are the best I’ve had anywhere. The cold brew is also the best I’ve ever had. Truly amazing."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkSmRtMWlYMnB6UjNjM1VYQXlPVzV2WWtOV05rRRAB",
+            "text": "Best Iced Mocha ever."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0T1YxQlZlVFl3ZW1RNFVrWnRiM05KV210VVRIYxAB",
+            "text": "The bagel with cream cheeses are the best 10/10"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSlNWTmFlVzFhTXpsWFdUVkNMVTU0ZGxsNFZtYxAB",
+            "text": "Their food is good, but they kind of just keep you there sitting while someone makes their choice instead of taking someone’s order if they’re ready, the food takes pretty long. I went into order two eggs not on a roll. They wanted to charge me five dollars but yesterday when I ordered those two eggs in a roll, they charged me 3.50. Does that make sense? The person explaining it to me, couldn’t even give me a reason as to why two eggs would cost more by themselves than on a roll. Just “this is how the pricing is” I work right around the corner me and all my coworkers would usually get from there, but I won’t be going back :(."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvMGFYTTFWSEE0WDFKUlFWVk1MV2RFY213d2VGRRAB",
+            "text": "Love this neighborhood spot! My smoked salmon omelette with toast and hash browns hit the spot (no pun intended!). Great portion, great price, and friendly atmosphere"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKRlVYaHZaRVV6VVV4Wk16UlZMV3hqVkVkTlZFRRAB",
+            "text": "A sublime cold brew.\nThe California egg wrap is my Sunday brunch"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPSEp5cnF5N2JqbkJnEAE",
+            "text": "Yummy and so reasonably priced!\nHefty portion, and lots of options.\nCoffee was delicious!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLYjRwYTNIOS1PclZREAE",
+            "text": "good fresh food and drinks all the timeeee! my partner and i love this place sm we go here on the regular 😋"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPZTB6LXpZMFpQZXZ3RRAB",
+            "text": "I love the pio pio sandwich on bread. It tastes super fresh, healthy, and filling. Looking forward to trying other items on the menu!…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VLNnh0cFNOM2VPYktnEAE",
+            "text": "I CALL A FEW TIMES SERVICE IS VERY ONPROFESIONAL\nTHE PERSON WHO ANSWER THE PHONE NEED TO BE MORE FRENDLY"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLTzE5UE9GcnVDNFd3EAE",
+            "text": "I’ve been ordering from spot cafe for the last 3 years. It’s conveniently located close to my workplace. I love their coffee, wraps, sandwiches and omelettes.  The food is always great and wrapped carefully when delivered.  One of my favorite places for lunch."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMM0Q5NnJReEstRnJRRRAB",
+            "text": "Food is great and fresh always! Claudia is the best!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPT21qcl9FM1BDQjBRRRAB",
+            "text": "Best bagels in Sunnyside! Gracias 🙏🏽"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvN0wzbHBnRRAB",
+            "text": "classic neighborhood deli, has all kinds of sandwiches, wraps and even burgers. The food came out quick and was piping hot, very satisfied!! The cashier was lovely too, highly recommend this place for a quick bite!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3OXZLNkN3EAE",
+            "text": "The Spot is a great example of the kind of place we all need to be supporting right now: a small, neighborhood, one-of-a-kind joint with a huge menu. The staff is kind and polite! The food is delicious. You have to wait a few minutes for your order, because it's made fresh for you. Worth the wait! Try a burger, or the pasta with meatballs, both hit the spot (lol). If you are looking for coffee, theirs is excellent."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBczRtMTB3RRAB",
+            "text": "Good sandwich but cold enough inside the place that I could see my breath."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlc2NPTjRnRRAB",
+            "text": "I was visiting NY in June and I still think about how good this place was. Food was amazing and the staff were super friendly"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiajZLUUJnEAE",
+            "text": "The best sandwiches in this area. Hands down. I am trying their sandwiches 4 days in a row. I can feel that they are using fresh ingredients. Love their smoothie and coffee too."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUbzgzLTVRRRAB",
+            "text": "They have good food and it’s so good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqMm9lY2VREAE",
+            "text": "Delicious! Great breakfast wraps. Very friendly bi-lingual staff. Open early on a Saturday too which is a nice plus"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROc19TaVlBEAE",
+            "text": "Wow. Thank you. Happy Tot"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROcnVqY0F3EAE",
+            "text": "I love this place , stuff nice but it does not matter who takes my order , they always had it wrong"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoMzhmUEF3EAE",
+            "text": "Edit: Used to be better before they started messing with the menu and hours. A pickup order now takes 30-40 minutes even though they tell you 15 minutes over the phone.\n\nFood is still top notch but the service has dramatically declined in quality and I rarely order from here anymore.\n\nGreat food and amazing value, it doesn’t get better than this! I come here 3-4 days a week for lunch while working from home."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGNnFqakpBEAE",
+            "text": "I've only tried one sandwich and it was good. A little too overpowered by the Arugula but will try other and I'm sure they be very good!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1NlBHZVJBEAE",
+            "text": "I go here often to purchase some breakfast, sometimes lunch and I always order the same thing. El Club Wrap ‼️. it’s a good wrap a very good choice. My only problem with this place is that they state they open at seven and don’t actually open exactly at seven which is a problem when you need to be at school early"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaOVplMDJRRRAB",
+            "text": "Ordered hot sandwich for lunch and it was incredible! Coffee is ok, better than random grocery"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaOThLeVpREAE",
+            "text": "food is always phenomenal and the staff is the sweetest"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNadkxXQllBEAE",
+            "text": "My wife and I are regulars here. The coffee, smoothies, and sandwiches are all consistently excellent: you can tell it’s made with pride.\n\nOctavio and his team are wonderful: so kind and professional. Grateful to have this place in the neighborhood!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwa3B5VEZnEAE",
+            "text": "My favorite place in the neighborhood. The prices are great and food is delicious and I really appreciate all the healthy options. A varied menu and excellent service too. Everyone is so nice and friendly. Highly recommend! (Some of my favs are the Wake Me Up smoothie, the cold brew, the Natural burger, and all their salad options!)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4al9Ed0xREAE",
+            "text": "The best sandwiches in Sunnyside! We’ve ordered so many items and each is more delicious than the last. Affordable, hearty wraps. Some of our favorites are the Maple, Chicky Ranch, and El Club. Customer service is always on point, as well!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4Mlk2RnhBRRAB",
+            "text": "Very tasty and reasonable priced!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4cWN6Vkh3EAE",
+            "text": "Excellent"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4b056VHVRRRAB",
+            "text": "My new fave spot! Great smoothies🙌…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSNmRQc3BBRRAB",
+            "text": "Best sandwiches in the neighborhood!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSeTR2WkFnEAE",
+            "text": "Place isn't really cafe ambiance - no seating, lots of packaged treats like a Bodega. I got the nachos - jalapeños were replaced with avocado bits and Pico de Gallo with double sour cream - very boring. If you don't have all the…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSanJhbXhBRRAB",
+            "text": "O the best"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSdHZHWjRBRRAB",
+            "text": "Awesome food! ❤️❤️❤️❤️❤️\nAmazing customer service! ❤️❤️❤️\nJust needs more seating space, maybe soon when the weather/season permits they can let a lot more people to experience how delicious the food in this café."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoNXRmb1VREAE",
+            "text": "Delicious sandwiches, and I don’t usually say that easily!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtN2YtNlVREAE",
+            "text": "Cozy spot. Very tasty bagels and smoothies, fast service."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQydEp6MUt3EAE",
+            "text": "Love the Spot. Great smoothies, sandwiches, and late-night bar food."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtLXFYUEx3EAE",
+            "text": "I don’t write reviews but the chicken quesadilla and fried cauliflower made me write one , so good ."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtdXBuZlJ3EAE",
+            "text": "Spot café is always a go-to in my household! They put a lot of care and work into what they do, presenting a clean, orderly space, and their food is consistently good; their formula makes sure that even a sandwich is an elevated experience…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlN2MyeG9RRRAB",
+            "text": "Great service and amazing food. The women who works there was extremely friendly and helpful. The food tasted good."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlNmMycWd3RRAB",
+            "text": "I can have Califonia wrap every single day!! I’m so thankful this cafe is in Sunnyside."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlZ3A3NlJBEAE",
+            "text": "Best bagel sandwich I've had in Queens. Staff is really welcoming and friendly. Delicious bagel. Steaming hot and melty cheese. Seasoned bacon. Will definitely be visiting again!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlME5XMmN3EAE",
+            "text": "Service - 10\nFriendliness - 10\nQuality - 10\nSpeed - 10\nTaste - 10\nAmbiance - 10\nCleanliness - 10"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1aU03V2VREAE",
+            "text": "Went to get smoothie late in evening. I have reflux and heard papaya helps. So I ordered the GOLDEN SUMMER without pineapple and it was really really good. Gracias al senior que me atendió!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQybGRHS2FBEAE",
+            "text": "One of the best places to get your sandwiches my favorite is the pio pio ask for Abraham and tell him to make it Abraham style the best"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhczhmb0NnEAE",
+            "text": "A great addition to the neighborhood. A small grab and go spot for delicious pastries and a nice cup of coffee or tea. There is also an assortment of chips and nibbles to choose from.\nThank you for your service"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyM2Y3cmJnEAE",
+            "text": "Staff is very nice, helpful. Great prices, lots of options. Excellent juices and smoothies. Great find in the neighborhood!\nUpdate: ordered breakfast here for the first time. I have to say it was delicious! Fresh, big portion and as I said before, great prices!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXay0tdXVRRRAB",
+            "text": "Soooooo good! The sandwiches were hot, huge, and delicious! The smoothies were fresh, natural, and yummy! Their iced latte was smooth and decadent! I can’t wait to order from here again!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtN2N6U2h3RRAB",
+            "text": "Awesome neighborhood cafe. Hulk juice was my favorite and I tried their sandwiches too amazing and really fresh. Try their ginger shot amazing. Great staff and thanks for being so awesome. That is a kind of service I expect. Great job"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXNXJMZm5BRRAB",
+            "text": "I really wanted to like this place, but everything I tried tasted meh, except the iced latte, which I enjoyed. The sausage and egg sandwich lacked flavor and the chocolate croissant barely tasted like chocolate. It used some kind of cholatey paste, rather than any real chocolate, which I was disappointed by."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyMG9mR3pnRRAB",
+            "text": "Horrible! SUPER overpriced. $8 DOLLARS FOR A SMALL SMOOTHIE?! Didn't taste good, in fact didn't want to finish it. And the most surprising thing was that there was tons of plastic in my smoothie. Would not recommend."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtanJ1X3pBRRAB",
+            "text": "Best smoothie I’ve had in a long time. So yum!! And their sandwiches are always made fresh. Definitely worth the wait"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2a2VXeGNREAE",
+            "text": "Very tastful little cafe nestled in Queens, with a nice view of the neighborhood. Not a lot of room, but the perfect place to share an early morning coffee with your friend, Classic New York experience."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLdXFpak5REAE",
+            "text": "Excellent Coffee, and Delicious Pastries!!!\nFirst time after a long year of not eating Tom Cat Bakery Muffing.\nThey Are back to the neighborhood...\nThe Spot Cafe Sunnyside\nFive ⭐️⭐️⭐️⭐️⭐️\nMy Muffing, “My Spot” 😋"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtdl9DUWRREAE",
+            "text": "Not only is the food quality amazing and one of the best I’ve had as a native New Yorker, the customer service is great which isn’t something you can say too often! One of the best cafes I’ve been to in Queens 👏🏽👏🏽…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2bzZ6UmlBRRAB",
+            "text": "I just ate their bacon, egg & cheese on a plain bagel and it was honestly one of best ones I’ve had in NYC. So darn good!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHOU9MZm13RRAB",
+            "text": "I’m so happy they have turkey bacon with turkey, sliced apples, and Muenster cheese! All on a grilled whole wheat bagel. Dee-lish."
+        }
+    ],
+    "reviews_count": 63
+}

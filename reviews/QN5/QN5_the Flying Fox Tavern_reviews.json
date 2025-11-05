@@ -1,0 +1,481 @@
+{
+    "name": "the Flying Fox Tavern",
+    "place_id": "ChIJFx8CfmdfwokRqkASz4HkLk8",
+    "grid": "QN5",
+    "address": "6-78 Woodward Ave, Ridgewood, NY 11385, USA",
+    "rating": 4.8,
+    "user_ratings_total": 180,
+    "phone_number": "(718) 673-6384",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213M2JEWlJZWE4xZGxWT1VGSldUMk5zTlRWTmRtYxAB",
+            "text": "The fried tofu sandwich was absolutely delicious and the decor in the bar is so fun. Great staff."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsVGFreDZiRXhuWWxKaVozZ3pNbEZ2TkhGeFMzYxAB",
+            "text": "Simply the best burger in NYC with the nicest people 🖤"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sb1ZXbGpWeTFxVkc1UGVWcHVWa1Z4ZVU5c2RHYxAB",
+            "text": "Best Burger in Ridgewood hands down! Been coming here since I moved to the area 2 years ago. Food is consistent, staff is friendly-as can be, and the movies/music are fantastic ! They host an array of weekly specials and events likely comedy and trivia that you don’t want to miss!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twdWRVVmtjVEpRVEZkYU9FRlRRM0F5VldJeVFuYxAB",
+            "text": "If you love Horror and humor, then this is your bar. Every detail is considered, from the wallpaper to the drink menu. It’s adorable. Not only do they serve great food and drinks, but they have interesting events every week. Find out or Dr Spooky is! Or The House of Know! My only critique is that some bartenders are in outer space and I wish the food menu had more options for those with tree nut allergies"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214Q1dGbHJjVlJPYm5Sak9VOUZjbFZxUWpobmNrRRAB",
+            "text": "Perfect burger & great music for all my goth lovers!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJMk1VMURjWEJhT0dsNGNVUlJPRXh0TXpNMmNrRRAB",
+            "text": "Calling all spookies. This is the hangout you have to try. Seriously the goth decor, the drinks named after Universal Monsters, cool food names, festivites yes I said it, theres always something going on! So much fun. Try it and thank me later! (HALLOWEEN ESPECIALLY OMG)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOeVMwWnVkRXB2ZG14d2NITm1ZWFJUWkdoNldsRRAB",
+            "text": "This bar is a jewel of ghastly delights. The atmosphere alone is to die for. The food options are amazing, especially the vegan options. Even if you’re a ghoul whole comes out at night, I highly recommend"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaa00zbHhVbE5sV0c5amJIbFdZVXBTVDB0dE0zYxAB",
+            "text": "Amazing as always!! Adorable cups for $10 martini night! Thanks so much!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGQlVGSjFYMWQ1WW1VM1lXOXlUa0V4UjBaUFoyYxAB",
+            "text": "Great food, fantastic staff, great vibe. And they usually have a little events now and then to break up the monotony. My only complaint is it's kind of small, and for things (like bringing in a DJ) they should make a dance space or something around 10p and promote it more. But I always have a lovely time. X"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKVFMySnZlbUZMVDNkSmREWk5OREZpVURWUVNGRRAB",
+            "text": "The friendliest goth bar! Casper is a regular here. 👻 Had a totally unique & punchy mezcal-hibiscus-lime-sake cocktail. I’d like to come back to try the food!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wSFVtVlVOa1YxTkVkWE1FVmxVSGhvV0ZoUlgwRRAB",
+            "text": "Yeah the Linden Burger is legit. Well worth the stop. Thick yet melted, and that goat cheese was special. One of the most memorable burgers in the city."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KNGRrWnlhMU5EWTNkQ09VOWlRak5SYmpBNUxWRRAB",
+            "text": "FOLKS… the linden hill burger is the best damn burger I’ve ever eaten. My boyfriend and I went to Minetta Tavern for their burger a few weeks ago and honestly, it doesn’t hold a candle to this beauty. And this was less than half the price. Thick 8 oz patty, salty creamy goat cheese, the tanginess of the green chile. It is heaven. Drinks are affordable and the vibe is just fabulous. Love this place! Get their burger!!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psalJYZDVUWFJmTUdOUGNHdFFRMnRPYTNwTlVVRRAB",
+            "text": "Awesome gothic themed bar, very friendly staff and great cocktail menu."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taQlVGWmtObTEwUjNZd1puTkRhR3hZWDFVd1ZWRRAB",
+            "text": "Good food and friendly staff. Best bar in the area."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GR1RFWlpVRlkwTFd4TGFHcHVTMkpVUzNFeGJXYxAB",
+            "text": "Cool little dive bar with sort of a rockabilly, horror theme. The service was good, the drinks were good. The staff was pretty attentive.\nThe bar was sort of uncomfortable to sit in for very long because it was a warm August evening and they dont seem to have any AC or even a fan inside. It was kind of sticky and sweaty and dark inside.\n\nThey don't have many options regarding food. I had the burger which was surprisingly good. It came with an arugula salad and chips. Fries instead of chips would've been a game changer.\n\nIt doesn't seem to be a particularly friendly place. I wouldnt say its a great place to strike up a good conversation with strangers or meet new people, but it seems more like a cliquey hangout for local gothy art school hipsters, and horror punks.\n\nOverall it's a decent little place with a horror/ gothy sort of vibe and decent bar food.  This place is probably best enjoyed in the late fall and with a few friends."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0MlJrcFJWR0phVFdWMFNqWlNka1JWWTBOM1RrRRAB",
+            "text": "Stopped in here before a show at Knockdown Center a few months back on a whim and had a great time. Bartender let me know happy hour almost up and I ended up ordering off of that - good price, incredible sandwich. Vibe here was killer, the owner Tracy was really nice, drinks were good and food was good. Looking forward to going back next time I'm around."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGWWFGSlpNMmcyVERoUWNGSjJZa3BGYXpsTFZFRRAB",
+            "text": "Amazing! Great vibes, awesome staff, wonderful theme!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUFdVZDRaM1JDTkhGc2N6RmZPVlZ5WVZaamRXYxAB",
+            "text": "The tofu sandwich here was a nice change of pace. Almost had a fish like texture that you don't see often in vegetarian food.\n\nGreat atmosphere and leans into the horror theme that helps them stand out from other bars."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oU2JsaHFVR3RQVkdwcGVtUnFYemhUWTFWSU9FRRAB",
+            "text": "We ordered food and 4 drinks and we’re not impressed by anything."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWdmFHOHlNa2hEYVhocE5IUTJZVWh4WnkxWWQzYxAB",
+            "text": "Great place to relax and get a drink. Full of character and the staff are nice and fun to talk to.\nGET THE DUBAI CHOCOLATE MARTINI!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkbVRVaFhhRmRsZWkxb1ZVbE9kbFIzU0dGUE9FRRAB",
+            "text": "The vegan egg Benedict special was AMAZING! Will definitely come back every time they have it! 🖤"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvaWFxSld3EAE",
+            "text": "A cool neighborhood bar and restaurant with a welcoming and unique vibe. Kid friendly, affordable and tasty food. The staff is incredibly welcoming, striking the perfect balance between attentive and laid-back, ensuring everyone feels at home.—perfect for a unique and enjoyable outing!"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRaE1pNWt3RRAB",
+            "text": "One of my favorite places in the city. Great food and terrific staff! The Linden Hill Burger is one of the best in town and I always have fun and feel welcomed here. Love the Fox."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJNUszOHBnRRAB",
+            "text": "Great food awesome atmosphere"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNReC11M3J3RRAB",
+            "text": "Phenomenal green chile cheese burger! Other dishes good, too. Chill atmosphere dedicated to the macabre. Great service. Nice selection of beer."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnbi1xenl3RRAB",
+            "text": "Great drinks, great food, greats folks."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBOHZfT3pRRRAB",
+            "text": "The worst cocktails I've ever had!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBX2NUMEVBEAE",
+            "text": "The bar maid was super friendly.   The drinks were really good. And my highlight is that they have drinks that are vegan. I'm definitely going back. The food was good too."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfX1ktNUt3EAE",
+            "text": "I've been to Flying Fox a couple of times before and have enjoyed myself. But last night was a major letdown.\n\nWe went to to experience their Burns Night celebration. (It's a holiday in Scotland celebrating their national poet, Robert Burns.) First, even though we had a reservation, we were seated at the bar. It  was crammed and uncomfortable—not the kind of seating you'd expect when you plan ahead.\n\nThe space was so loud that we could barely hear the music, which was supposed to be a big part of the night. And the food was overpriced and underwhelming—$22 for vegan haggis?!\n\nThe whole atmosphere felt chaotic and poorly planned. It should have been festive and enjoyable, but instead, it was stressful and disappointing. I wouldn't come back for an event but might consider coming back for just drinks."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfZ3NqVVp3EAE",
+            "text": "I loved the aquatic themed drag show however the bathroom under the right circumstances may cause me to feel like I was painted by H.R. Giger"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfdUtHTG9RRRAB",
+            "text": "Great surprise! Stopped in for a drink, stayed for hours. Great vibe, horror movies playing while DJ pumps out the tunes. We didn't eat, as it was last call for the kitchen, but the items I saw looked good. Drinks were large, strong, and reasonable. Staff was great, everyone was so friendly. Good  crowd, no issues. This was my first time stopping in, but not my last!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmMFA2cVR3EAE",
+            "text": "I stopped in to the Flying Fox on a whim after looking for some spots to have dinner a couple friends and was blown away. The atmosphere inside is SUBERBLY horror/vampire themed in a way that feels a lot more authentic than some similar places. The drinks and food were delicious and I would recommend their brussel sprouts, burgers, and their fried fish sandwich. If you need a great place to hang and watch some old French b-horror movies, on’t miss this spot!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmeXRDbE9nEAE",
+            "text": "Fun place\nGreat service\nFun drink a\nGood food\nHappy hour too\nThe water closet You must see for yourself"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2enNLSHFnRRAB",
+            "text": "Cool spooky ambiance. Friendly staff."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzd1BlQ01REAE",
+            "text": "Went with our grandchild for special Halloween Party. Fun was had by all."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYdU9UeHBRRRAB",
+            "text": "The place is interesting, the Bartender is very friendly and the food is good, a great place to go in the neighborhood!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuNHF6S2FBEAE",
+            "text": "RUN, do not walk, to Flying Fox Tavern for their vegan stuffed French toast. The day I went, which was a few weeks ago, was Peaches and Cream. This was the best French toast I've ever had. It's basically this gorgeous block of the lightest fluffiest French toast. The size intimidated me at first but I had absolutely no trouble finishing it. I've never had French toast served this way but I can never go back to the regular kind. It's light, airy, and delicious. AND VEGAN. They have really great vegan options here. My fiancé, who is not vegan, had their breakfast sandwich which she really liked. Plus the service was so friendly - our server was super kind and made our experience so nice. We will definitely be back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuLTZQRWFREAE",
+            "text": "I can't say enough good things about this place. We've gone here for dinner (the food is amazing and there are tons of vegetarian / vegan options) and drinks (cocktails are all good and they have a good beer selection), we've brought our seven year old for brunch (coffin shaped grilled cheese sandwiches!), we've taken friends here for drinks, and we've gone later to watch horror movies and play \"Blood Bingo\" hosted by Unkle Spooky. Everything about this place is perfect. The staff are really nice too - it's got a very welcoming community feel to it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNudS0zRllnEAE",
+            "text": "Very nice vintage horror movie atmosphere. Nice large bar with nice table seating setup for groups. The food options are great. Love when a spot has actual vegan options of appetizers, main courses and even desserts, other than a salad. The staff are welcoming and helpful. My friends love coming for their mixed cocktails and I come for the food every time I'm in the area."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIOThyNnVRRRAB",
+            "text": "Sweetest bartender, an amazing 5 dollar happy hour deal, and a cute tavern bar vibe, but truly the most mediocre flavorless burger I've ever had. And for 16 dollars.\n\nIt was tofu sandwich, it kinda tasted like plain tofu, a few pieces of plain cabbage, and a sauce that somehow tasted like nothing more than salt. I'm truly confused how little flavor was in it. Served with arugula with no dressing or sauce and some ( delicious) fresh potato chips.\n\n(I believe my tab before credit card fee was 22, I left 26 assuming cc fee removed for cash, the bartender even asked me if I needed change so I assume I counted correct. If this is wrong or I made a mistake please include a venmo or otherwise so I can tip. It was never, and never has been my intention to not tip or undertip,\nThe service on all counts was nothing short of friendly and attentive)"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMcE12ZXhnRRAB",
+            "text": "Best burger I've had in NY, hands down. I've eaten one over a dozen times, and it's never been short of excellent. All their food is excellent, though. I don't drink so I can't comment on those, but I think it says enough that I'd go here for food any day. And they have brunch!\n\nBut seriously, this place is weird. And weirdos go here. Really weird weirdos."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3N29mUXNBRRAB",
+            "text": "Great options for vegans, pescatarians, etc. fairly priced 🧛🏻‍♀️🖤"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3NTZuVWVnEAE",
+            "text": "The best burger in Ridgewood! Also kids friendly for brunch."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUcUxyWE1REAE",
+            "text": "A cool old horror movie bar to visit. I enjoyed the burger, but the house chips were extremely salty and tasted a little soggy when they came. The drinks were good."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUZ0xhdG13RRAB",
+            "text": "This is a great bar with outstanding food. Oh wait, it’s a very good restaurant with outstanding cocktails. The back yard rules!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqNmNfektnEAE",
+            "text": "I don’t often review, but after being here three times in two weeks and having exceptional food and service all three times i feel like I have to.\n\nThe food is surprisingly good, by that I mean that items which read simple on the menu show up and exceed your expectations.\n\nEverything fried is done in tempura.  Nothing is overly bready or heavy and everything is delightfully crispy.\n\nHighly recommend the fried fish sandwich which comes with a side of homemade chips and arugula.\n\nThe fried artichokes were so good you want to slap your mom.\n\nHad mine with the vegan cashew dipping sauce.   Also, if you are not vegan the Shepards pie was delicious.\n\nThe staff is kooky, welcoming, and attentive in a way that immediately makes you feel at home.  10/10 highly recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0Nk9md1F3EAE",
+            "text": "Love!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0MEptOFpREAE",
+            "text": "First time here. Will be back. Should've ordere more food!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWMjhic3Z3RRAB",
+            "text": "Literally one of the best kept secrets in all of New York. Food, drinks, staff, music, and the horror decorations are all on point. This is legit one of the best goth bars I’ve ever been to in the world. I can’t recommend this place enough. Once you come here, you’ll keep coming back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURscGNldnNBRRAB",
+            "text": "Friends of ours suggested we try this place.  Man were they right One of the best burgers in Ridgewood . Cool menu plus prices were really good . Drink were on point .Staff very friendly.  It felt las if we  been coming there for years .Thank you.Which is not always the way  it is when dining in New -Ridgewood .\nWill be returning there for sure ."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNocGZ1NkVBEAE",
+            "text": "Plenty of times you check out a place online, go there and it just falls short.   Not this place.   As soon as we walked in we were in love.  They had the Munsters playing on the TV (the theme song is my ring tone) so happy about that.   Our waitress was friendly and engaging. She was awesome, I forgot her name cause I'm terrible but we were there on the 16th.  We ordered burgers, juicy and perfectly cooked,  haggis, vegan and delicious and mussels which also were spectacular, the chef is a keeper.  I thought I was done but then I was told about the chocolate truffles.  I didn't think they could top the food until I bite into that rich, dark, smooth truffles.   I'll probably be dreaming about that all night.\nMy pic is off the truffles and my haggis with a shot of scotch."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlaFBMdFVnEAE",
+            "text": "What a find! Tucked away in Queens is the coolest horror tavern I’ve ever seen, and one seen … ONE! And this is it!\n\nThat but no means takes away from this gem’s niche clientele and atmosphere. Inventive drinks, delicious food and friendly staff are just a few of the things that sets the Flying Fox Tavern apart.\n\nI had the Linden Hill Burger cooked medium rare and it was one of the tastiest, juiciest burgers I’ve had in recent memory. I used up several napkins, and that’s a good thing!\n\nThe music was not too loud, and I did not feel like I was being rushed out, which is something smaller taverns like this often do.\n\nAll in all, a wonderful experience, I just wished I lived closer."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXdGVfaXNRRRAB",
+            "text": "The Fox is a lovely goth pub with meat and vegan friendly offerings. I’ve been multiple times and each time has been a delight. Best scotch egg I’ve ever had. They do specials for holidays. You can get a bottle of Prosecco for $22, a mixed drink that changes colors, or a very legit espresso martini. The apps are stellar. Their most recent addition of oysters are always super fresh."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUQyeGJOUhAB",
+            "text": "What an experience! This is one of the places that you get dragged in right from the door because it looks so cool! (They had me at $1.50 for super fresh oysters). My husband and I went there for dinner, we felt immediately welcomed by Ellie, who escorted us to this really nice booth table (she used a very cool word to describe it, which I very sadly can’t remember), she told us the night specials. We started with their deviled eggs and fried artichoke (both aioli and cashew sauce are great). For our mains we have shared their Brick Chicken, I have never thought that a chicken leg could taste that good, right on point with a crispy skin, also their Grilled Market Salad with fresh catch grilled fish. Everything was so good that we decided to also try their Fish sandwich and OH MY GOD! 10 out of 10, nice tempura fish sandwich on the softest brioche bun. Highly recommend! Their desert menu is also really great.\nTheir cocktail menu is very intriguing, the names are great. We had the bela (Prosecco and gin cocktail) and a The Christopher Lee, both great, but let me tell you about their “the nandor “ expresso drink - my goodness!\nWe had a really great experience tonight at the Flying Fox, and we can’t wait to go back to Bruch on Sunday! Glad to have them so close to home"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1cXNDeHFBRRAB",
+            "text": "They put effort into coming up with non-alcoholic versions of two drinks on their menu, the Count (butterfly tea, lemon, simple syrup); and the Nandor, espresso, cinnamon syrup, and dark chocolate.\n\nI got the Count but it's just lemonade since butterfly pea tea doesn't have much of a taste but it was tasty lemonade.\n\nThey were out of the potato cakes so I got the broccoli croquettes. They were pretty flavorless and while kept their shape they were a little too mushy. There wasn't much broccoli in there. I was thinking about ordering a burger but the croquettes really turned me off.\n\nTldr: better places for food in the area but the food they do have is very vegetarian /vegan friendly and the alcoholic drinks are fairly priced."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlcjZldTVRRRAB",
+            "text": "I am a big horrorhead and a former chef. This place is awesome on both sides of that evaluation. It's a cool horror space with amazing ambience, a bunch of cool decorational set pieces, and constant horror playing on all the screens. I got to discuss with strangers at the bar the influence of \"The People Under the Stairs\" on the genre, which is a cool vibe to experience.\n\nFor the chef side, I've been to gimmick spaces like nerd bars, D&D bars, trekkie bars, and almost always food is an afterthought and overpriced dishes are pushed as themed nostalgia-bait. The vegetarian dish I had here (haggis) was legitimately well-seasoned, roasted, and excellently composed. The sauce and seasoning were excellent, and everything was from scratch. My friend had the sandwich on special which was very solid with house-made chips that were seasoned with a spice mix that is delicious.\n\nBartender, Ellie, was super nice and made some killer mixed drinks that were equally well-designed and not just sugary pre-mixed horror references.\n\nOh, and use the bathroom, the one that is \"watching you\". You won't be disappointed."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXMDZEd1dnEAE",
+            "text": "The \"colorado\" burger (I cannot remember the name) is delicious, one of the best I have had so far, highly recommended. The staff is very friendly, and attentive. I love how they have the Mocktails (cocktails without the alcohol). Also the have vegan/gluten free items on the menu. Definitely going back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4cWRtM1pREAE",
+            "text": "All the drinks were delicious. The burger was nice and juicy. Potato appetizer was delicious."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXa2FmS1VnEAE",
+            "text": "Scottish eggs, vegan haggis... this place is dynamite. Goth dining to the max...\n\nUPDATE: The Burger 👍🏼👍🏼👍🏼"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwNmUzTHd3RRAB",
+            "text": "The food was good and the drinks were alright. The atmosphere is pretty cool and does kinda have vampire vibes. What I don't like is it seemed expensive for small portions of food. We got two plates that left us both hungry and 2 drinks…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwajQ3RVlREAE",
+            "text": "I haven't tried the food yet but if you're into the spooky stuff this whole bar is about it. Major win on atmosphere."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtMDdfR1NnEAE",
+            "text": "I have been here a bunch of times and keep meaning to leave a review. This is an awesome neighborhood bar with a great horror theme! Friendly staff, delicious food, well crafted cocktails, good selection of beers and spirits. One or both owners are often on premise and they are down to earth and sincere. I wish I lived closer just so I could pop in more often. Definitely check out the bathrooms! Super cool design you have to SEE for yourself!!!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlbDUzQmZ3EAE",
+            "text": "Awesome place! The atmosphere is cool, the staff is friendly and the drinks and food is spectacularly good! 👌\n\nEasily worth the drive from Manhattan 👍"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4OVpmMG1BRRAB",
+            "text": "Had a great time here with my mom visiting over Mother's Day weekend! We ate from the brunch menu so we can vouch that the salmon benedict is perfect, great hollandaise and amazing eggs. The vegan breakfast sandwich was a smaller portion than I was expecting but honestly I was relieved because I didn't want a huge roll, it was a good size and came with home fries and a salad, and my boyfriend had the burger med-rare and it is maybe the best burger we've had in the neighborhood.\n\nI'll repeat that: maybe the Best Burger in the neighborhood! Will be back soon! I'm sad we slept on this place when they first opened."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXb3BDcUdREAE",
+            "text": "Coolest place I've eaten in a while! The decor is amazing as was the food and drinks. Fried artichoke hearts were the delicious surprise of the night (who would have thought to fry an artichoke? )\n\nThe icing on the cake was that everyone working there -waitress, bartender, owners, was extremely nice and welcoming. I'm looking forward to coming back."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNobmJXSkJREAE",
+            "text": "Enjoyed a brunch for my daughter 20th birthday. We sat near the door, with a beautiful decor booth ! I was very impressed with all the horror themed . My daughter loves the theme and it was perfect! The services are amazing and the food was awesome! Definitely, will go back for a dinner seating !!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXeVpHOFNREAE",
+            "text": "Great decor and friendly staff.\n\nThis place has just opened so there is a lot of room for growth or decline. Liquor license was just acquired so that is something to look forward to.\n\nThe food selection is small but I'd much rather a place do a few things well than a large menu that's trash.\n\nQuality is good but portions are a bit small.  As several others have mentioned, the burger (Linden) is the best thing in the menu but come on guys,  you can't serve some fries with it?!"
+        }
+    ],
+    "reviews_count": 67
+}

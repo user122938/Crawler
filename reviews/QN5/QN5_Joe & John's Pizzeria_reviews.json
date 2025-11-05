@@ -1,0 +1,544 @@
+{
+    "name": "Joe & John's Pizzeria",
+    "place_id": "ChIJd9zJklRdwokRfiSIb-LkvJM",
+    "grid": "QN5",
+    "address": "59-10 Myrtle Ave, Ridgewood, NY 11385, USA",
+    "rating": 4.6,
+    "user_ratings_total": 803,
+    "phone_number": "(718) 497-0078",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210dFNYTkRiVnBtWTE5WFdGZDZhbTF3UzAxWFZIYxAB",
+            "text": "Everyone is nice, the shop is run efficiently which is always a plus for busy people. Any pizza you get is fantastic! The sit down restaurant area is nice and also has a semi romantic atmosphere with several TVs showing sports games, which for my husband and me is a huge plus."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSdFprNVpWWG8zY1dKelZWUndVMnh0U1ZScGQwRRAB",
+            "text": "Delicious pizza!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWbmVWTk9WRXR5TUhsMFZIWm5aMWcyWkUxNlMzYxAB",
+            "text": "I love coming here. Everything I’ve gotten from here is so good. You can’t go wrong with the pasta or slices from here. Everyone is so friendly too."
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCVmJsZFJNbE5pTW5wdFoyVjJSemR1WW5KVWFIYxAB",
+            "text": "Owner and staff are some of the best people in town. Making you feel at home. Food was to everyone's liking. Was here for dinner with a group of lovely friends. Had a great time. Will be returning when in town."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aaFdrZDZUMTh6ZUZwWFFrRnBOR2R5UmxONWNWRRAB",
+            "text": "Love this place, we come here every time we're in Ridgewood!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSSE4xbHljRzk2YXkwNU1WWlpOVTk2VkVWclZuYxAB",
+            "text": "Horrible.. stay away! Rude staff. Pizza sits out for a while and they pack that up and send it to you after slightly warming it up. This is not the way to do business. Extremely pricey as well. Do better!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GWk1qTTViMlp0UVdWdFlWVnJPVFZLV2tzdFFXYxAB",
+            "text": "Here to express my deep disappointment and concern regarding an order I placed earlier today. Shortly after eating the food, I began vomiting and experiencing severe diarrhea. This has never happened to me before, and I’ve been a loyal customer for quite some time.\nThe chicken pizza I received looked unappetizing and was extremely hard, almost like cardboard. The buffalo slice was falling apart before I could even pick it up. The overall quality of the food was far below your usual standard and certainly did not match the premium prices being charged.\nOn top of the poor quality, I also felt pressured to provide an additional tip even after tipping once which added to an already frustrating experience.\nI am extremely disappointed and in pain from what feels like food poisoning. This experience has left me questioning your food safety and quality standards. I expect a full refund and a serious review of how this could have happened."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GNmRGaGhaVVJ4WTB4SVoyUjZSbloxVWtKQldWRRAB",
+            "text": "I know that the remodeling was nice and place is much bigger and putting so much into the place but the quality of the pizza definitely has been a drastic change.Also, ordered the garlic knot chicken  sandwich I don't suffer from acid reflux but that messed me up pretty bad,never again plus some thin sliced chicken cutlet that was honestly so sad more bread crumbs than chicken.Service and customer service great per usual but definitely pizza quality has changed.Also, got really cheap with the pepperonis on the slices man."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNNVNsTXpMWGgyT1VsQlduUXhWa0puV0hkQ05YYxAB",
+            "text": "This place is overrated, the vodka sauce is definitely not made for order the pizza was so stale it was like chewing cardboard and their vodka panini was just ok also their delivery guy refused to come to the third floor and told me \"papi come downstairs no parrkiing\""
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poYVJrdHhkRkZoZWxGMk9XbFdVa0pMWXpselZtYxAB",
+            "text": "My new fav pizza spot"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5Tk5sQTJWR3hvTkVOUk4zazRXRkpFTTI5aFZFRRAB",
+            "text": "This has always been my husband’s and my go-to spot for pizza and family events. We’ve been loyal customers since they opened, usually coming every week or every other week and spending about $70–$100 each visit with how much we order.\n\nHowever, our most recent visit was extremely disappointing. A young employee wearing a blue Yankees cap got our order wrong. Instead of apologizing or correcting it politely, he caught an attitude. He shoved the box toward us and said, “here you go, thanks” in a rude tone, without a smile, as if we were inconveniencing him for asking to fix his mistake. His energy basically said, “get out of my face.”\n\nI even told another employee about this experience so it could hopefully be conveyed to the manager, but I don’t even know if the message will reach them. As a business owner myself, I always stress to my employees that good customer service is essential — smiles and kindness go a long way. To have to experience the exact opposite here today was honestly heartbreaking.\n\nAt the end of the day, I’m not going to spend $60–$100 just to catch attitude from an employee. After being loyal customers from the very beginning, this experience has us reconsidering if we even want to return. There are plenty of pizzerias in the neighborhood, and unfortunately, it looks like they may have lost a customer."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsc1ZrOW9ZalJVUm5Sck1GOUtMVlYzYUVOU1lXYxAB",
+            "text": "Really good pizza and service ,many options of different slices. always stop buy for a slice when I'm in the area. real new yorker review who visited hundreds (202) to be exact of pizzeria's in nyc and joe & John's is quality pizza everytime"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sWmVsVnBTMEZVVDJ0b1Rrb3dSalpTU0dRM01HYxAB",
+            "text": "Pretty good. Typical greasy NY style pizza, open later so good fir late night takeout. Won’t win awards but won’t disappoint and definitely consistent."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4R1EzWnZUVlF3UkRCc1FWWnFURUV5TjE5Nk9GRRAB",
+            "text": "Amazing food, awesome staff. I asked him to reccomend some dishes and he was very friendly about it. Highly reccomebd"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWcU5sRjRaVUV0WjFCTGNUZGlSalJvUjBjeVIyYxAB",
+            "text": "Loveeeeeeeee the vibe and the cheese slice"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oeVJqZFBXVEJDYkU0NGJFcEJiRlIxT1hkcmVHYxAB",
+            "text": "Awesome and creative pizza.. plus super friendly and welcoming employees. I'll definitely be back next time I'm in the area!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sS05rZFlabmxQUkVkM1dsZHZNbVIyVFVkcVVWRRAB",
+            "text": "Pizza pin wheel was so good! And the worker Justess is an amazing employee!  Very kind and attentive!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wck16QnRaalY2ZFRkSk9ERlVRMjAxV1ZWTVpYYxAB",
+            "text": "Pizza to oily for my liking"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWQ1RVZGpkblIzV2pGWFpFZEdUVTFTTVhGclFrRRAB",
+            "text": "Shout out to Victor! What a great guy! Food as always Amazing!!!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsS2JVVm5SUzFYVld0RlVtWjJPR0ptZG5KVlRVRRAB",
+            "text": "Fancy place with passable pizza"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSclMwOUVVRTFHVVhoT09FZEhRblY1TWtvMldYYxAB",
+            "text": "Changed half of the time my pizza is burnt"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xscU5TMXJVMTg0Tkd4dVMzcDNhbFpPY0VRMWFHYxAB",
+            "text": "We ordered 1/2 trays of chicken bruschetta, vodka sauce, eggplant parm., rigatoni siciliano, and mixed green salad. My wife and I had gone there to eat before and we were very impressed. We have tried their pizza and I also had their linguini and white clam sauce. Everything was outanding. The food was delivered on time and was red hot. Everyone we dealt with was courteous and helpful. 5 stars is not enough!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SVRXVmlVSGRXWm1KTmRGcEdNRWR6VjBGelJIYxAB",
+            "text": "Been going to Joe and John's since I was a baby. Grew up there in the 80s. The famous sauce has always been spot on. ALWAYS went in and got the upside down slice which we always ordered as a sicilian. For the first time in my life i went in and ordered also a chicken slice. Almost 6 dollars for the sicilian that doeant taste the same and 7 for a chicken slice that was horrible and horrible attitude there. Not the place i spent 45 years of my life going. No more. Corato's from now on."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Kb1ptSnpTVWhYWjBsS1JHNVhSSEZ0V2w5YVlYYxAB",
+            "text": "Company ordered a pizza lunch from them, I found a disgusting fingernail in my pizza. Absolutely disgusting. I usually love this place but that was so gross and unhygienic."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBMFFrcFBkVUpvYkVwUVZIQjNUbXd5TmpKeFVFRRAB",
+            "text": "Pizza is excellent! Their pizza isn't as heavy as most and the specialty pies/slices are some of the best!\n\nTheir best slice:\nUpside down Sicilian (Pretty in-line with L&B)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poSWJFaFNiVFJ4TTJVM2FIbDNRMU4xY0VGUk5YYxAB",
+            "text": "Got a whole pie and the pizza wasn’t that good. Individual slices tend to be better."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOaWJIUlFURlJpYm5oVGNXUmFkRll3TkZCeFlYYxAB",
+            "text": "The pizza I had here was phenomenal…I have not eaten great Italian pizza in a very long time. Mr James was so polite and so amazing.And as a courtesy he gave the children their home made chocolate chip cookies which is to die for. Mr. James thank you for our wonderful experience.."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kTE9HWXlkMVowVFVOVFZ6TlZWblF4U1VaWVZtYxAB",
+            "text": "I always love a good tasting Italian pizza. it was rich in flavor. The crust was thin but delicious... We had James who greeted us and ensure we had the best experience...."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xScGNUZG5NRmR4ZFhnNVdtRnZjekZaYW5VdE5YYxAB",
+            "text": "Easily my favorite pizza place in NYC- and I've been here for 14 years!. I've been to some of the legendary pizza spots... If I had to choose where to get pizza from in the entire city, there are about 5 places I enjoy enough to go more than once, and this might be 1st place! Bonus points for many vegetarian options, friendly ownership, and a really nice atmosphere inside. (Personal opinion- their square slices are what really beat out the competition!)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGR1prTTNhemhZWjBSMVRVTmpPR3BxYVVsVk5rRRAB",
+            "text": "Your classic, neighborhood pizza salon slice shop. Great specialty slices!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201MGNWTTFPRmRXWW01SmMzQlRPR1ZyT0d0a1EyYxAB",
+            "text": "I will never be able to say enough positive things about Joe and John’s! I love their pizza- the flavor is insane and so good every time."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GcmVWSnBZbk0zVUhWNVNuTnZaMGxCVDB0TlUxRRAB",
+            "text": "Best pizza spot in Ridgewood!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoSFR6aFlWVkJWVkdWdGFIWlFhREpCZUdaSVpFRRAB",
+            "text": "Was invited to attend a Birthday party at Joe and John's and the food was amazing! We had salad, chicken parm and penne a la vodka. We also tried a pepperoni slice as well as an espresso and cookie. Great attention to the party while also servicing their regular customers!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WSVIxaFhWbTltVW5GMVNuRk5Oa1JHUmw5Zk5XYxAB",
+            "text": "Bueno"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOelMwNWtZV0ZSUVVkVUxYWnhaM0p4UjAxbVVsRRAB",
+            "text": "Fantastic food. Pizza is always yummy. Love the penne a la vodka, caesar salad and spinach role. Can’t go with anything on the menu."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210V05tdFlOV0o0YlUxSU9IRnZibmxZVDB0bGNYYxAB",
+            "text": "Delicious pizza"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkQ1VFZFBVVEZEWTFaV1pHRmxZMDh5YW5jNFVWRRAB",
+            "text": "Pizza was awesome!! Owner was a great guy!! Will be back!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKbFduZHBNV0pQVUhBMVgzVkNWRll0U2t4NGRtYxAB",
+            "text": "Best gluten free pizza in the area!! Crust is thin and flavorful, not like a typical cardboard tasting GF pizza. This probably one of the largest GF pizzas I’ve had- more of a medium size and less of a tiny personal. I ordered online and chose chicken, tomato, & eggplant as the toppings; the staff called and informed me they were going to cook the chicken and eggplant from scratch for me so there was no breading. I thought this was so kind of them! They could’ve made me reorder, I really appreciated this attention to detail. The pizza also comes uncut with its own pizza cutter to avoid cross contamination!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204MFMzaE1NRVZqVG1aMU5uSmxlRmxGWkdWTmNGRRAB",
+            "text": "I used to eat here when I lived in the area. I just revisited this pizzaria two weeks ago and was disappointed. While the restaurant was enlarged and remodeled, the pizza was not as good. They did a great job on the decor, but I found the pizza very oily. The sauce lacked flavor. I was disappointed."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213elJrRmlWVjg0TUc1S01rUjRNSEkyUTJWSFFWRRAB",
+            "text": "Friendly staff, clean spacious environment, and best of all wonderful pizza.\n\nI already want to go back tomorrow!"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WR2JWUjRlbE5JVkRseVdESjVSM0V0TW5FMVZXYxAB",
+            "text": "Muy limpia y Mucha variedad para elegir."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SclNrdHRlVEkzTUV0VFZXSnRWSE5IZWtsUVdIYxAB",
+            "text": "This is the BEST pizza shop in the neighborhood. Everything is delicious and the staff is super friendly and accommodating."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5RVZVUmtlRUpxYUVkbFRqQlZjME5pYzFoNVUzYxAB",
+            "text": "I had just one vodka slice and it came out to $6.24. when I got the slice after 5-6 minutes, the pizza was kinda warm at best. I wouldn't recommend it if you're looking for a quick bite to eat"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJT285OVByaVpUSS1BRRAB",
+            "text": "First time eating here. I ordered the BBQ chicken pizza. It was delicious! The restaurant is clean and has a really nice ambiance. Definitely a great staple to the neighborhood. If you want great pizza in Ridgewood, come here. I hope Joe & John's Pizzeria stays around for a long time. I will be back again soon."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPX2poN1A2amVub3RRRRAB",
+            "text": "One of the best pizza places in the area. They are even better after remodeling a year or so ago."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLN1h6dDJZd0pPaGx3RRAB",
+            "text": "Lovely place very clean and great hot fresh food all the time I eat there every weekend"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214MVQxUnhTbEJIVEZobVUzUmhSbTF3ZVZGRmJsRRAB",
+            "text": "Great pizza but they are lacking with customer service"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNbnBfb21Vd3JLa3F3RRAB",
+            "text": "Very clean place and nice pizza 🍕"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VPbUYycFQ0NXNDN0dBEAE",
+            "text": "Friendly people running the front. Plain slice too chewy to become my go to spot"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBMVRtZEpkbE5xYkdod2VYaE5OMnR5VkhSTldXYxAB",
+            "text": "On lunch while working construction. The owner Sal has an old-school Italian respectful demeanor and the pizza was one of if not the best upside down slice I’ve had. Beats the hell out of all LI pizzerias. The place is clean, food is delicious and management and employees are great."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJdTZYLVZREAE",
+            "text": "Joe & John's Pizzeria is hands down one of the best pizza spots around. The crust is perfectly crispy yet chewy, the sauce has that authentic tangy flavor, and the cheese is always melted to perfection. Their specialty pies are creative and packed with flavor—definitely try the buffalo chicken! The staff is friendly and the service is quick, even during peak hours. The atmosphere is cozy and welcoming, making it a great place for both families and casual hangouts. If you're a pizza lover, Joe & John's is a must-visit. You won’t be disappointed."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3cnRIVHN3RRAB",
+            "text": "Joe &John's pizzeria was really great. I had a grandma 's Sicilian this time around and It was awesome. The renovations is so nice too. This will be our pizza spot going forward. I recommend this place for sure!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzcWZQcXF3RRAB",
+            "text": "I love this pizzeria because the dough always feels very soft and fresh and you can just tell that they use high quality mozzarella cheese for the pizza, the mozzarella sticks were very stretchy and delicious.  The staff is just lovely, the girl working the register is very sweet and always smiling. The guy who make pizza are very courteous and kind, allowed my picky kid to get his way, which almost never happens. Thank you."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYbW9HY05REAE",
+            "text": "If you're in the area and want some amazing food, don't think twice and stop here. The new seating area is very elegant and the food is just absolutely delicious. I will say I liked the Sicilian pizza more the the regular slice but that's my opinion. The service was also really superb, very friendly. Everytime I come to New York from Florida it's a must stop."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3aklXR1pnEAE",
+            "text": "Hands down one of the best pizza places in NYC.\n\nThe vodka sauce pizza and the grandma are delicious.\n\nI think this places is very close in quality to L’Industry (if not better maybe).\n\nThe place is amazing. You can eat your pizza inside and there is space and nice seating. The staff is super friendly and are open to give you recommendations.\n\nThis is definitely a 5 stars pizza place."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNib1BhYm5RRRAB",
+            "text": "Got vodka and mushroom square pizza. Vodka was too cheesy and barely tasted like vodka sauce. Not impressed with that slice. However, the mushroom and carmelized onions pizza was enjoyable.\n7/10 will return to try a pie rather than slices. Service was excellent and staff are nice."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnN3ItQktnEAE",
+            "text": "Before they started describing their pizzas I had decided on getting a margherita. After they talked about some of them I added a spicy sausage. Best pizza I've had in New York for sure during my visit. Wish I had time for more of this pizza. Didn't take any pics of the food, these guys made the visit the best."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkOGRpbFFnEAE",
+            "text": "Absolutely the best pizzeria around! The pizza is incredibly tasty, with perfectly crunchy and delicious slices. The recent renovation has taken the place to a whole new level, and the crew is hands down the best in town. Don't wait any longer – missing out on this amazing experience would be a mistake. Stop by right away and treat yourself!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuN0llcENnEAE",
+            "text": "My firm in the Empire State Building absolutely loves the food from Joe & John’s for our weekly lunches.  My employees are especially impressed by the variety of options they offer. The chicken frances, penne allá vodka, and shrimp scampi are some of their favorites. This is the second time we order from them, the delivery is always seamless, and they’re generous with their portions. I would recommend them for any office catering needs!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUOE4zQUh3EAE",
+            "text": "Top notch!!!! I'm super happy to know how the pizzeria has grown and mastered their menu to bring our community fresh and delicious food.\nThe prices, pizza(my fav Hawaiian), salads (house salda with extra pepperonccini) and sandwiches(Italian of course) are fantastic. High quality ingredients, friendly service, they keep the restaurant clean and organized. Once again thank you for your services, for caring about the residents and maintaining a level of humbleness. They started small, now they have expanded beautifully. I'm proud of you guys, the new employees are amazing too. Keep up the great service."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNabzRpeUZBEAE",
+            "text": "It's been many years since I've been to this spot. Loved the renovation, but miss the old school pizzeria vibe it used to have. The service is phenomenal. Felt so welcomed and I wasn't rushed to pick what I wanted. I had a sausage and pepper Sicilian slice and a mushroom and onion slice. Crust was good but toppings on the sausage pizza slice were too much and the mushroom and onion pizza slice was oily and too many onions.\n\nCost of these 2 slices and a bottle of dr pepper was just over $15. Pretty overpriced in my opinion."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2dkppVjlRRRAB",
+            "text": "The Sicilian slices here are the star of the show easily. Very complex flavors and the crust is crisp and on the thinner side. Absolutely loved the upside down Sicilian slice"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfa3RpOXR3RRAB",
+            "text": "Top notch restaurant!  This wasn't on our radar, and we happened upon it because it was close to the bank.  Lucky us!\n\nYou walk through the front door and can smell the goodness cooking.\n\nThe service was great, and we were greeted by everyone we made eye contact with.  Very friendly staff.\n\nThe place was well lit and clean and had big tvs to watch football.\n\nI had the baked ziti, and she had penne with vodka sauce.  Both were rich and flavorful.  They made an excellent dinner and lunch the next day.\n\nI also had a bowl of pasta fagioli that was simple and satisfying.\n\nI will definitely return for another delicious and affordable meal."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyeGZUTVpBEAE",
+            "text": "Best pizza in Ridgewood! You’ll never go wrong with anything here! I love their Grandma Slice, Vodka, Sausage and Broccoli Rabe, Cheese Slice and Upside down Sicilian. Chicken wings and Fried Ravioli are great as well and they make really good salads and pasta dishes as well. Nice guys and staff as well!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKN3ZiWi1RRRAB",
+            "text": "The upside down corner slice is probably the best crispy , flavorful slice I ever had in nyc. I’ve been here 41 years and joes and John’s saves me a trip from going to manhattan . With an orange pop soda to wash it down. The caramelized onion and vodka slice are equally amazing . There is definitely something in the sauce lol I came back 3 days in a row . Great place for pizza connoisseurs to congregate"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoNTgzQ0dREAE",
+            "text": "I came once, before writing a review was possible. I ordered a Sicilian slice and it was delish! First time for me, too! I remember seeing some old gentlemen serving and behind the counter before. Nice people. I went a few days ago, and ordered a pepperoni and sausage Sicilian, and a regular pie. Let me tell you....delicious! And the good thing, was the slice are thin, not much flour, but bursting in flavor!. The young blonde man, was nice and patient, and the young man in the counter was cool, as well. I ate my pizza in peace with no bother at all. I would definitely return!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiMlpDazVnRRAB",
+            "text": "I ordered directly to the restaurant and I specifically said that I need the driver to come up because I have a baby with me. The driver called and argued with me stating that he couldn't come up because he had other deliveries to drop off.\n\nThe shrimp scampi was scattered all over and the aluminum plate was crushed, and the house salad was completely destroyed.\n\nI called to see if i could get a new salad but they refused to send one.\n\nI end up throwing the salad out, it looked so gross."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpeFo3bnBRRRAB",
+            "text": "Marketing is everything. I went to this spot just b/c of T.M.N.T. This is my first pizzeria in the vicinity. The food was tasty. Good sauce. It wasn't crowded. The prices were reasonable. It's good spot to bring the kids. Teach them about a classic cartoon."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtaUpIOE9BEAE",
+            "text": "I found this spot by accident. We were literally eating Thai Food about a block away & this pizzeria caught our eye. It had NYCs favorite turtles painted outside. So, we had to check them out! Even though we just had Thai food!\n\nDecor: Outside is totally awesome. Interior not as awesome but clean & you get the typical pizzeria vibes. Nice and clean.\n\nStaff: super polite. Smiling. Greets you as you wait.\n\nFood: Pizzas looked amazing. Sadly, one that I saw from a photo was finished & it was near closing so - I’ll be back for it! We had a pepperoni square, vodka slice, and sausage and rabe. They were all super yummy. The vodka sauce was delicious! The pepperoni square was great. Loved the crunch on the pepperoni. The sausage slice was good but the rabe was bitter. Not their fault.\n\nPrice: standard pizza joint prices\n\nWe definitely will be back to try their other slices.\n\nParking is rough around here."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2dm9tRlF3EAE",
+            "text": "Absolutely loved this place! Such delicious pizza & even better customer service. I recommend to try their pasta as well, won’t disappoint. 10/10 would recommend!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJNzlMZFZ3EAE",
+            "text": "The only pizza my Italian wife has nothing negative to say about.  5 stars all day."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMcTR6WjN3RRAB",
+            "text": "This is a best in class local chain! Everything on their menu is high-quality, and the service is friendly and efficient. The chicken Caesar salad pizza and mushroom + caramelized onion pizza (pictured here) are my favorites. Highly recommended!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJSFV6T0w2ck11UlVREAE",
+            "text": "Listen, If I could give 10stars to this establishment I would!\nEverything from the pizza to the pasta are\nGreat. We are never disappointed. We just ordered the Baked lasagna and were blown away by the taste! These guys are serious about creating really great food! Love this place!! You guys rock!!\n\nSean - Maspeth"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURweFpYVEdnEAE",
+            "text": "Let me tell you about Joe & Johns…This has to be some of the best damn pizza/pasta I’ve ever eaten and I promise you I’m a connoisseur of both and that statement does not come easily! After visiting New York I was told that this was a spot I absolutely couldn’t miss and boy was that true. From the staff greeting you when you enter and helping you choose the right dish for you, to the overall welcoming environment, I had to stop myself from going back twice in one day! Long story short, this is one of the best restaurants in NY and I look forward to returning!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlMV8tek13EAE",
+            "text": "Decent experience.\n-staff was really friendly and kind.\n-prices are reasonable, you get what you pay for.\n- Something positive that highlighted the most is how staff tried their best to keep surface nice and clean as each customer left a table.\n- Overall the food was really good and tasty.\n- Would give 5 starts but I ordered a 18”Margherita, and if it wasn’t that I found a hair on a slice of pizza I would’ve had a more pleasant experience.\n(Would go again)"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLNU92eXVBRRAB",
+            "text": "We are eating right now and the pizza is fresh and delicious. The beAll yhe guys here are womderful, friendly and kind. When we come they treat us better than family. The pastas and pizzas a re excellent. This is a must for the best pizza…"
+        }
+    ],
+    "reviews_count": 76
+}

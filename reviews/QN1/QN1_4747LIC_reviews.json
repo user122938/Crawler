@@ -1,0 +1,607 @@
+{
+    "name": "4747LIC",
+    "place_id": "ChIJpS3XyMVZwokR-SdzYO1dDlk",
+    "grid": "QN1",
+    "address": "47-25 Vernon Blvd, Long Island City, NY 11101, USA",
+    "rating": 4.8,
+    "user_ratings_total": 522,
+    "phone_number": "(718) 734-2415",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wNE56SlZZbkJtVEVOSU5uUlVYMDR4U0VWQ0xWRRAB",
+            "text": "Merlyn is the best! So friendly and efficient."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paaVdWOHRPR1JHZDJGdFJVNDBjMVJwY1ZWRVpFRRAB",
+            "text": "Merlyn is the best server ever!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCR1pVWlhNM0pJYTFWa2FGODNWbTVWWWpkd09WRRAB",
+            "text": "The food was so fresh and didn’t feel too heavy, which sometimes brunch can feel like a lot. We did the bottomless brunch which was so worth it. Our waitress was Gianna and she was so lovely and friendly."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201b1J5MVJTakpqVTBoa1dteENPRFl0U1VaS2MzYxAB",
+            "text": "Very nice experience. High quality of the food and excellent service. Super recommend by an Italian 😉"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xab2JFVlFaMDB3VkhneFJVUnlVWGhaUjBOS1NsRRAB",
+            "text": "Maybe we caught it during shift change or something but the server was pretty inattentive and there was no one inside but us and a couple people outside. The food was just okay, especially considering the price. Wouldn't come back."
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swelkwOWhNVWRCTlhScmEyeDRXR1Z0T1MxQ1NFRRAB",
+            "text": "Food was decent but not memorable and given the high price tag I expected more (I loved the former Bellwether in the same location more. )\n\nOyster was not very fresh: one in particular tasted quite fishy\n\nBurrata was nice and delicious\n\nCauliflower this time was too oily (I had better ones last time)\n\nBeef short rib was decent but not memorable (especially given the high price tag)"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OWk1EaDJVbU40YlVaUVJuUTBXVGRPTjFCVmJXYxAB",
+            "text": "My husband and I have visited several times for brunch and went for dinner last night. It was a great decision! Everything we've eaten and drank here has been delicious, the service is exceptional, and the atmosphere is fantastic. We'll be back!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VllreEtabTVHZW5STlJETk5aMk5xT1d0MmFVRRAB",
+            "text": "Merlyn was super kind and professional. Their service truly made a difference. Thank you for the excellent attention! 🌟"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GdlYyNDBkV0Z6UldaR1IxTXpkbWhtWTJSeWFXYxAB",
+            "text": "Merlyn and the other staffs were super friendly."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRd1J6QkxhVUZRTnpOaGIxZHZNRlpsTlRVNWNGRRAB",
+            "text": "Great service and great food. Have been for brunch and dinner and both were excellent."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BelZEbERiak5zZUdoc2IyZG1kVmQ1Y0Y5YVVuYxAB",
+            "text": "The food was great ! And the service was even better with Merlyn as our server. Will definitely return."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WaVZIZDRORmR2TURGSVoyRXlaSGhuUm5OTU0zYxAB",
+            "text": "Absolutely delicious! Each dish has unique flavors and completely fresh. We’ve been here a few times, but had the pleasure of Merlyn as our waitress this time. So thoughtful and attentive. Can’t wait to come again and hopefully for brunch!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213emVIUm1TRE4zY0hadmFsQklYelJPYUd0WFNIYxAB",
+            "text": "Shout out to Merlyn!!! 🥂"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUWVGbGFUbVp2ZVRGWVFrOU9iRWhtWXpsNFRrRRAB",
+            "text": "Yum!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOQ09VTktWMUpDYjNCWllVUm5iMmxMTVVGa2FsRRAB",
+            "text": "Overall wonderful experience! Merlyn was a fantastic server."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210eVYzYzNTSG80U0RaMlZ5MDNZbWx0UW5Gb2FVRRAB",
+            "text": "Merlyn was a lovely , kind, attentive server with great energy !"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xReVdrWXplbnBwZEVOVFpYaE9NelpwZDNSQ0xXYxAB",
+            "text": "Such a nice restaurant! The chicken and waffles was a 10/10 (the salt in the breading 😮‍💨🙌🏾). Our server Gianna was amazing! Highly recommend and we’ll definitely be returning"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKdWFXbEJYMlp6T1hvMVpFbFhkMjF0Y3pkWmFtYxAB",
+            "text": "Great food and great service ! Can’t wait to come back!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WUk0yWk5kbkZpTkhGNVpsWmpPWGQxWDJoU2VWRRAB",
+            "text": "Gianna was very welcoming and helpful. She stopped by the table often and got us everything we needed quickly. We would definitely come back!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205WFpEWk9USGRYT0hsbFRrdzNWbTl2VWxaMlZYYxAB",
+            "text": "We came here for late brunch on a Saturday afternoon. Our party of 5 was seated quickly. Meryln our server was prompt, courteous and always had a smile on her face. The food was delicious I had chicken and waffles, the portions were just the right size and it was cooked to perfection. We had 3 kids with us and the kids menu worked out great for them. Will def come back to this spot in LIC. Def a must try in this area."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CMFRESkVOblk1VEdjdFRVVlBSWFpzWDNBd1FWRRAB",
+            "text": "My daughter and son-in-law were married at 4747 this past weekend, and it was absolutely the perfect choice for their special day.\n\nFrom our very first conversation, owner Pasquale worked tirelessly and patiently with us over several months to bring our vision to life—a casual yet elegant, modern celebration with exceptional food, beverages, and deeply personal service. The result didn't just meet our expectations; it exceeded them in every possible way.\n\nThe handcrafted cocktails were extraordinary. The food was plentiful, creative, and utterly delicious—so impressive that my friends joked about the impossible task of choosing from the menu because they wanted to try everything. The service was impeccable, and the setting was simply gorgeous.\n\nPasquale was present throughout the entire event, ensuring every guest felt taken care of. Water and wine glasses remained perpetually filled, passed hors d'oeuvres circulated generously so everyone could sample each offering (several times), and every course arrived with perfect timing. His attention to detail transformed an already beautiful day into something truly magical.\n\nPasquale and his team provided an event that exceeded our wildest dreams and made this milestone genuinely unforgettable. We've always loved our brunches and dinners at 4747, but now we can enthusiastically say: we highly recommend them for any special event. They'll make your celebration extraordinary."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GaU9IWjNTV2xZU1djeFozVTBTMDlqT0Vkc1lsRRAB",
+            "text": "We have been regulars for both brunch and dinner at 4747LIC for quite some time, and I can't say enough good things about the quality of the food, service, and atmosphere.\n\nWhen my now husband and I were brainstorming ideas for our wedding, 4747 was one of the first things we thought of. From the moment we approached the owner, Pasquale, about hosting our wedding at his restaurant, he worked tirelessly to bring our vision to life. Over multiple months of planning, he was always responsive and incredibly accommodating regarding the restaurant layout, menu selections, indoor/outdoor space usage, and flow of the ceremony, cocktail hour, and dinner. He was also excellent about handling food allergies and dietary restrictions.\n\nThe wedding day itself exceeded our expectations. Pasquale and his team were ready for setup and handled any last-minute adjustments seamlessly. Guests raved that the cocktails were among the best they'd ever had, especially for a wedding, and the passed appetizers during cocktail hour were equally impressive. For dinner, we served family-style appetizers and personal entrees—everything was absolutely delicious and came out piping hot despite serving 65 people at once. The portions were incredibly generous, and the quality was superior to most restaurants, let alone typical wedding food (many guests raved about the baby lamb chop, in particular).\n\nThe waitstaff were exceptional—attentive, thoughtful, and efficient throughout the evening. Multiple guests commented on the high quality of service. Even after the wedding, Pasquale's thoughtfulness continued: when we picked up our decorations two days later, his team had neatly packed everything for us, saving us considerable time.\n\nThrough it all, Pasquale and his team were attentive to everyone's needs without adding any stress on what can be an overwhelming day.\n\nI highly recommend this beautiful spot for brunch, dinner, or any special occasion. Thank you, Pasquale and team, for everything!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xUlFYSndhRTkwUzNkNVdVZEJhRXQ0VDA1S1RHYxAB",
+            "text": "Thank you Howard, He was super sweet and attentive made great conversations!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FdE5qTTBjR2g0YXpkSVIyTjRVVWROTlhOdVpVRRAB",
+            "text": "Real maple syrup and bottomless brunch! Gianna was so nice and super attentive. Highly recommend the blood orange mimosa and chicken and waffles."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WdWRsQlliamhqWVdGRk9GTldRM294TW5WR2JIYxAB",
+            "text": "brunch was delicious! ambience was perfect for a beautiful day and our server Merlyn was amazing , very attentive and kind. will be back, thank you."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsek1DMU1lRVJGVkhwek0xVjBPRUZ1WTNOQlZWRRAB",
+            "text": "Merlyn is super attentive and friendly. We had a great time. The song was chill and the atmosphere was great."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWR1FsRkRYMGwwY1RKRmJIWXROV3RZWVROeU5uYxAB",
+            "text": "Merlyn the best service! We love her!! The food was delicious so fresh! We were a group of 7 and had a great time!! We definitely recommend this place!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTlpsUjROR1JsVkVwT2RtUmxZVGhoT0dnNU5IYxAB",
+            "text": "The experience was great!! Our server Merlyn was incredible!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214eloySjNabm8zUXpCVFZsbHBlbUZhTm5Wd2FYYxAB",
+            "text": "Merlyn our server was great!! The food was delicious!! We had a great time during brunch!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psUlZWVTNjVU00T1RoV1pHNU5TRGRLZDB0Q1RHYxAB",
+            "text": "Merlyn was very attentive"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poRE5reFZUMUZ6T1dSMWFEUlFXakZWVG14eVVuYxAB",
+            "text": "What a find. Absolutely delicious food, great atmosphere, and wonderful service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKa00wUlNRMHBuVERBemExVk9TVkZTUkMxNE4xRRAB",
+            "text": "It was amazing experience! We ordered steak and pasta. These are so tasty more than I expected. I strongly recommend this restaurant. Thank you for all ur service:)"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIdE8tM2xBRRAB",
+            "text": "Pasquale is great. Always better to sit at the bar. Been here several times, it never disappoints.\nFood is GREAT!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMVZVUktlbXMxVEV0Q2JGZERXVWc0UVVKNGMyYxAB",
+            "text": "Amazing food and great service. Gianna was so sweet and helpful with food recommendations."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWWlNVUmtOWGd4V214MWMxZE9hVVo2UTJseWRGRRAB",
+            "text": "Had the eggs Benedict and Gianna was an excellent host! Restaurant ambience was lovely. Sitting by the window in the fall season felt cool and relaxing"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGQk1WUXRWamxFY2pCUU5HNXRVRXhPVDAwMFVrRRAB",
+            "text": "My favorite spot in Long Island City. Highly recommend a nice dinner here. Great cocktails too."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKSldWaFJWMlpQUm5kUVQxUk5NVEpwYUd4UU9VRRAB",
+            "text": "Delicious first meal experience at 4747!! We loved everything we ate (Burrata, Short Ribs and Lobster Special).\n\nMiguel is a great server! We enjoyed our time here and WILL be back soon!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tacFJqZEtRemhKV1hZM1VuRjBPSFJWWm05UkxXYxAB",
+            "text": "Merlyn was an amazing server!! Great customer service! Food was amazing. Lobster roll was flavorful and the dressing on the market salad was perfection"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KZlFXUTFVR3R5VmpOa1pVZEtjVlp5ZWtzd1UxRRAB",
+            "text": "Merlyn was an amazing server."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210MlVuTmFjR1p0WmpGeU1GZzFla2RPYW5kQmRWRRAB",
+            "text": "Loved the experience.  The food was great.  Our server Gianna is so welcoming and nice."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1WFoxTkNXR1kzUkRSeU5rcDZiV0ZuVVY4eWFIYxAB",
+            "text": "We absolutely loved our visit! Gianna took great care of us and has such a lovely energy. The music was a vibe and the oxtail brunch sandwich was very tasty, definitely would recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wRVRHRnNhM2hUYW1wdGFUWTFkSEZVVkcxdlVuYxAB",
+            "text": "Had a lovely experience coming to brunch. Gianna was the sweetest!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKeFQybFZYMHBvYkVZMFIzazVPRGwyYUV0aWNXYxAB",
+            "text": "The food was delicious and our server Gianna was so kind!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKV2Ntd3RTRk5rWVU1WlNWQTFTVmM0VEZObWRVRRAB",
+            "text": "Gianna was great!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKM1h6SlFjVEV5VjFOb1ZtMVphblU0WW1kT1MxRRAB",
+            "text": "Everything was great!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oR09UUlNXRlpCVUdoMVIyWmhXa2xtWjJwSWRVRRAB",
+            "text": "Gianna did a phenomenal job with service at brunch today.  Communicated well, was timely, and made sure that we got everything we needed.  Great place - great service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkTWVuVnlkM05FU1ZkVmJrbHVVMTlhYWxSb1lWRRAB",
+            "text": "Incredible food and service! Good vibes, good music. Will definitely be coming back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VFZsQTRZMnhHTTNoV05IUk1Oemt3ZWpNdGIyYxAB",
+            "text": "Gianna was our server today. She was very attentive and has a very nice demeanor. Killer tattoo sleeve too!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVU1ESjFhMnMxZWxsSWFFRjZTRXBKVldSdGJIYxAB",
+            "text": "Great food and great service (Gianna was the best)!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOcVFXWk5WR2xrVlZWV0xWQnNha1JSUjFNdFJsRRAB",
+            "text": "Merlyn is the best server! Made our brunch experience the greatest"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqenRIT0xBEAE",
+            "text": "맛도 있고 분위기도 좋고 깨끗해요"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCaFNuSlJaM1ZIT0VadVFVaEZaM0ZpTVZsbWJuYxAB",
+            "text": "Very nice spot for dinner! It’s in a lovely area of LIC. They have plenty of seating indoors and outdoors. We tried the lamb chops and chocolate lava cake and loved them! I want to come back and try their brunch."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kM1drWnRNV2cxZEVGMlJ6SXlSRE5yTm5FNWFXYxAB",
+            "text": "Wow. This is a top 3 (at least) brunch spot in NYC. When you spend the whole meal with your partner discussing how delicious, well made and even how pretty the food is, you know something special is going on. That is a kitchen that is currently taking a lot of pride in their work and it shows. I could go on and on about the one dish I had (the grilled pork belly which I highly recommend) but all you need to know about the quality of this meal is how perfectly cooked those eggs are. I mean just look at them. That level of consideration for the humblest ingredient on the plate speaks to the absolutely stellar heights this place takes its food. Balance, flavor, quality, with everything cooked perfectly; I can’t speak highly enough of how good this was. On top of all this: incredible service and amazing ambience dining al fresco in the heart of Hunters Point. I was already planning my next order for my next visit when the check had arrived. An absolute masterclass in brunch."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMQ214c0RxejlEYm9BRRAB",
+            "text": "From the moment we walked through the doors, we knew we were in for something special. This restaurant isn’t just a place to eat—it’s a place to experience. Every detail, from the warm welcome at the entrance to the final bite of dessert, was nothing short of exceptional.\n\nLet’s start with the food: wow. Every dish was a masterpiece. Fresh, vibrant ingredients expertly prepared, each plate was bursting with flavor and creativity. You can taste the passion in every bite. The balance of textures, the thoughtful pairings, the beautiful presentation—it was all absolutely flawless.\n\nSpecial mention must go to the chef, whose artistry and vision truly shine. It’s rare to find someone who so clearly pours their heart into their craft. The flavors were innovative yet comforting, bold yet perfectly balanced. You can tell this is someone who doesn’t just cook—they tell stories through their food.\n\nAnd the hospitality? Impeccable. The staff were warm, attentive, and genuinely kind. They made us feel welcome from the first smile to the last goodbye. The service was seamless—never intrusive, always there when needed, and full of thoughtful touches that elevated the evening.\n\nThis isn’t just a meal—it’s a memory. I can’t recommend this place enough. If you’re looking for world-class food, a talented and passionate chef, and hospitality that makes you feel like family, look no further. We’ll absolutely be back!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3aU5EQ1p3EAE",
+            "text": "This place is truly the gem of LIC, from the service to the ambiance, to the food, every single thing exceeded my expectations. The drinks were amazing, we had the rum espresso martini which was one of the best we’ve had and the Bloody margarita which was both tasty and flavorful. They even made me a spicier one afterwards with a tajin rim which I loved. We started out with the oysters and they were perfect. Their raspberry mignonette added the perfect touch, I would highly recommend. To save the best for last, their 24 oz ribeye steak special was to die for, served at medium temperature with a perfectly crispy exterior and that chimichurri sauce…. the perfect dinner meal!!!!\n\nI’ve been to a few restaurants in the area but whether you’re having dinner alone, meeting some girlfriends, or going on a date, this is the perfect place.\n\n(Last photo shows how we felt about the ribeye)"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZdXAzSmd3RRAB",
+            "text": "We arrived at 4747 LIC and were promptly greeted and seated. We ordered the French toast and a $32 steak. While waiting, a booth with a better view and more comfortable seating became available, and the staff kindly offered to move us, enhancing our experience.\n\nWhen our food arrived, it was beautifully presented. However, the steak was nearly well-done instead of our requested doneness. We informed the staff, and they immediately apologized and had the kitchen prepare a new steak, which arrived perfectly cooked and delicious.\n\nThe swift resolution and exceptional service make 4747 LIC stand out.\n\nI highly recommend this restaurant for its great experience and commitment to customer satisfaction. 5/5 stars proof that a place is exceptional when they correct mistakes and deliver excellence!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VQV3U3SzZ0bDlHWk9nEAE",
+            "text": "Pretty good brunch food include the pork sandwich with egg and avocado. Thought it could use a bit more seasoning but that could be a personal preference. Poached pear burrata is admittedly tasty and unique and worth making space for. Outdoor seating was nice on a warm day!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0eWNYSmphSFkwT0hWaVoySllZbGhDWkdGaVozYxAB",
+            "text": "We had reservations at another place that fell through and I’ve never been so happy, because we found this gem.\nI’ve seen some pretty negative reviews and I jsut can’t believe it’s the same place.\nThis place was everything I didn’t know I needed. The food was phenomenal and the service was top notch.\nThe food may have taken a bit of time but it was worth the wait and you really can’t rush perfection.\nOur servers made sure we were taken care of so the wait was no issue.\nI can’t wait to go back!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kc2FrTjVOVjlPT1hOaVZUUjFkSHAwUlVwNE5XYxAB",
+            "text": "Came for brunch with a friend for the first time and definitely won't be the last! Duck confit was delicious and the seafood platter - such a great selection for the price! Drinks and service was also great!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZZ2ZQR2ZBEAE",
+            "text": "Our server Gianna was wonderful. Very friendly & personable, attentive, & helpful. She made us feel very welcome & did not rush us. We did the bottomless brunch cocktails (Bellinis). Gianna made sure our glasses were never empty. The food was delicious (Chicken & waffles, Pulled pork & oxtail, Grillled pork belly, Creme Brûlée French toast). Everything we ordered, we’d order again, especially the grilled pork belly. The Creme Brulee French Toast we ordered as a shared dessert, which was ABSOLUTELY AMAZING!!!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMeDZpS0ZnEAE",
+            "text": "4747 is fabulous! My wife and I go all the time and love it. Sit outside on their chill deck under the shade and have a romantic dinner or brunch with a view of the Empire state building. Elegant yet laid back atmosphere good for families, couples and groups of friends. A real neighborhood destination not to be missed! The service is amazing! And especially Gianna!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6aXJ1Q1dREAE",
+            "text": "Food was amazing, when I tried the burger I can tell the amount of love put in it. Everything was well seasoned, prepared to perfection, and nicely plated.\n\nThe drinks were perfect! God selection of cocktails, beers, and hard liquor.\n\nService was very friendly and attentive. All of them were helpful and always smiling, great team!!\n\nThe spot was cozy and perfect for a date or to take your better half for dinner.\n\nThe price was just right!\n\nCome check it out, and thank me later 😀😀😀"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kcGJpMVllbEZWVW10b1lXRkJYM2RMUzNFd1MwRRAB",
+            "text": "The service there, it’s amazing. I went in with my family for brunch and let me say, the server Miguel was a great server. He was checking in and making sure we were well accommodated and always asking if everything was okay. The food was great for brunch I had steak and let me mention the drinks that were served at this place they were REALLY good. I definitely enjoyed brunch with my family at this place and I would definitely recommend it!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNibWJQa29RRRAB",
+            "text": "We recently dined at a fantastic new American restaurant that brilliantly combines delicious Italian food with inventive twists. It's evident that the chef pours a tremendous amount of effort and creativity into the menu, making each dish a unique experience.\n\nThe standout for me was the burrata with red-wine poached pear. The wagyu burger was another highlight; it ranks among the best burgers I've ever had, with its succulent patty and perfectly balanced flavors.  We had the pleasure of chatting with the chef, whose passion for food is both inspiring and infectious. His commitment to using the finest ingredients from Italy, his hometown,  and his enthusiasm for exploring new flavor combinations really shine through in every dish.\n\nIf you're looking for a memorable dining experience, I highly recommend this restaurant to all my friends. It’s a gem that stands out for its creativity, quality, and the sheer dedication of its chef."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0cXQ2ckpnEAE",
+            "text": "FOOD IS AMAZING!!! We wanted to try their food for a long time and our experience was great! They were able to make us omelette with our modifications which was really lovely and it was delicious. Friese salad and burger were worth trying. Bartender did an amazing job and we heard they have happy hour every weekday from 5-to 7 (only at the bar) definitely worth trying!\nThis place just became one of our favorites!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyOU9xSWZBEAE",
+            "text": "Honestly love this place and did not hesitate to give 5 stars to food, service, and atmosphere!\n\nBeen here a few times and the food still impresses us every time we go. My favourite is the steak & eggs. It is soo perfectly cooked and the fries are top-notch. Everything else (see photos) is amazing too!\n\nA must-visit for everyone living around LIC!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURycUpiTUZ3EAE",
+            "text": "Had the egg Benedict with salmon with salad for lunch, and have to say it was a lot better than I had expected. Just a delightful mix of flavors, a little sweet from the brioche and apple slices, a little salty from the caper berry, and a little savory from the egg and salmon, all supported by cool fresh greens. 5 ⭐.\n\nThe iced latte with oat milk was also quite nice, especially on a hot summer afternoon."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUa3QzUHV3RRAB",
+            "text": "The restaurant was empty when we walked in on a Friday night at 8pm so we were a bit nervous but the food was great! Good portion sizes, interesting and well cooked food for 45 a person.\n\nWe had 2 appetizers and 2 entrees for 3 people and we walked away very satisfied!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyLV9qQ3d3RRAB",
+            "text": "Really loved the food, it was absolutely delicious! 😋 And they also have a great variety - from seafood to pasta to juicy steak. It’s also super kid friendly - crayons, coloring and great kids meals options! 🖍️ Next time we have to check out their brunch!\n\nWe had:\n1️⃣ Burrata with poached pear 🍐 🧀\n2️⃣ Grilled octopus 🐙\n3️⃣ Grilled beats salad - our fav 🥗\n4️⃣ House made pappardelle 🍝\n5️⃣ Rib-eye steak special 🥩\n6️⃣ Wagyu beef burger 🍔\n7️⃣ Kid’s chicken fingers and fries\n8️⃣ Lava cake and pistachio cake dessert"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSWVdrRnJVa1UwV21kT2RXNHpSWEpUYVdGdFozYxAB",
+            "text": "Best dinner service we had! the food was delicious and came out quick . Miguel our server was very attentive to our request. Made sure that our table was good. The drinks were so flavorful. Probably the best drinks i’ve ever had. Would highly recommend coming here if Miguel is your server 👌🏽"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2cmMyMWhRRRAB",
+            "text": "This is a great spot for brunch on the weekends. The food was delicious and the service was nice and friendly. The cocktails are on the pricey side, but they have an unlimited mimosa deal for 90 minutes at a reasonable price which I did not take advantage of (maybe next time). I definitely recommend the Eggs Purgatory (but maybe without the anchovies since the fish flavor can be a bit overwhelming) or the salmon Eggs Benedict."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURudHVpNTVnRRAB",
+            "text": "Came here on Saturday for brunch, ordered decaf latte, egg Benedict and french toast. For the price, food portions are definitely on the smaller side. The egg Benedict only had one egg and one slice of toast, the flavor of smoked salmon overpowered everything. However, the french toast is PHENOMENAL!!! It’s something I’d come back for!! The toast is so soft and melting in my mouth. Pairing with light whipped cream, banana and roasted hazelnut, it’s a bite that takes you to cloud 9."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2NjRYOXBRRRAB",
+            "text": "Ordered rib eye for brunch. Delish, did request for medium rare, but got medium. Otherwise, food is great! Tasted French toast- delish. Tasted pork- flavorful. Definitely will return again."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4eVlDR2J3EAE",
+            "text": "Great new restaurant in Hunters Point. We sat outside (pet friendly) and didn’t have to wait for a table. The staff were very friendly and attentive.\n\nWe ordered the half dozen Oysters, Lobster Roll and Eggs Benedict with Salmon. It was all fantastic and came out quickly. We will be coming back."
+        },
+        {
+            "date": "2달 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SeU1UTmpSR28yVmtGT2NHZEVTMnRpVXpOUmVWRRAB",
+            "text": "サービスもよく、食事も美味しい。ここら辺にしては少し高いが、雰囲気よし、店員さんの対応よし、美味しい、のでよい。BGMもよい。"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnemZ5djB3RRAB",
+            "text": "Healthy & Delicious Eats at 4747 LIC\n\n4747 LIC is a cozy spot that offers a fantastic selection of fresh and flavorful dishes. I am always looking for healthy and satisfying options. This place did not disappoint.\n\nThe tacos served in crisp salad leaves were just perfect. Light and flavorful, packed with a generous amount of crab. It was a burst of color on my plate. The house lox sandwich was another standout. Silky lox on flatbread  paired with a yogurt sauce was just something I was looking for. The burrata with pear in a savory red sauce was an unexpected combination but it was absolutely delicious.\n\nI’m not typically a dessert person, but the French toast with berries and roasted pistachios was exceptional—light and not overly sweet. It was the perfect way to end the meal.\n\nHighly recommend 4747 LIC for anyone looking for delicious, high-quality food."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQYXd0cy0yODhtU2VBEAE",
+            "text": "The service was amazing! I planned a small surprise Brunch for my wife and the staff was incredibly accommodating and made the occasion perfect! Gianna, our server, was friendly and took great care of us. The food was delicious and perfectly priced. We will be back, for sure."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQLUxLal93RRAB",
+            "text": "I had a nice evening with friends at the bar here a few weeks ago, so decided to try 4747 for Thanksgiving dinner. A treat for several reasons: First, they offered both a holiday menu and their regular dinner menu. We ordered from each. Apps were a refreshing grilled romaine starter and a nice, crispy turkey hash. Entrees were Cornish hen and a miso-basted turkey with a side of Brussels sprouts and bacon. The turkey was served — and stayed — perfectly moist. Our server, Eye, was the right degree of attentive. The ambience was what I usually seek out: Lower volume, with some room between tables. Just a different vibe from some of the good, though flashier places on Center. Thanksgiving night had some families earlier and couples as the evening went on. Look forward to going back."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3d0ttdFBREAE",
+            "text": "Everything was excellent! I will definitely be visiting again! Bottomless brunch and the food was beyond expectations. Thank you for a great experience!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKTmVGaGZTa1pyTjBRM1l6WlNla1pmWkZKMFMyYxAB",
+            "text": "We had the most amazing experience here tonight. Our server, Merlyn, provided incredible service and gave 10/10 recommendations since it was our first time at the restaurant.  The other members of the team were also super attentive and friendly. We ordered the shrimp cocktail, beet salad, lobster roll and short ribs. The seafood was extremely fresh and the dressing on the beet salad was delicious. The short rib was very tender and savory. For dessert Merlyn recommended the lava cake and it did not disappoint, it was served with homemade gelato and a toasted marshmallow which was the perfect sweet treat. The food was great and the service was even better. Thank you Merlyn for a wonderful evening!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1N0x5QnBnRRAB",
+            "text": "Recently we had dinner with friends at 4747 and this place excess our expectations.  Cozy and comfortable ambience, welcoming staffs and very decent food.\nThe Lump Crab Lettuce Cups was a refreshing appetizer, we liked it a lot. The Grilled Octopus Venere Black Rice, and Braised Oxtail Fried Polenta were absolutely delicious.\nOn entrees, we had Beef Short Ribs with Brown Butter Parsnip Puree and the special for that night a 22oz Ribeye Steak. Tasty short ribs, perfectly cooked and flavorful ribeye. We also tried the Bronzino (debone).\nA nice restaurant with good food in LIC neighborhood, we had a great time and really enjoyed it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUMUluTnB3RRAB",
+            "text": "Food and drinks are always great! The Malfatti Pasta is my favorite. They make the pasta in-house! The service is very attentive and polite. Miguel made the best bloody mary margarita. Will definitely visit again."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZMk5xb25nRRAB",
+            "text": "Went here for brunch and it was alright. Overpriced for what you get. There are other restaurants that are more affordable and better in the area. I got a vegetarian version of the Eggs benedict, which cost $26 💀 One of the poached eggs was basically a boiled egg. I would expect better quality for such a price. They were able to bring me another set of eggs which was appreciated. The flavor and taste was just okay, nothing to write home about. My fiance ordered the Eggs in Purgatory which tasted very fishy to him, not in a good way. The cocktails were basically manhattan prices, on average $19. Definitely on the pricey side, especially for brunch. Overall, I wouldn’t go back and wouldn’t recommend it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3eGZLZU5nEAE",
+            "text": "if you’re in the mood for something sweet the french toast is sooooooooooooo good. it’s not overly sweet at all, i was scared about the caramel but it was so good and had more of a sweet and salty profile. the frise salad was also super good! also loved their americano! overall great experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5WWEyRjBTMWxpY21kb1pGZzNSa05rU1VFemJuYxAB",
+            "text": "Food here is tasty though on the pricey side for what you get - pretty simple preparation, stuff you could make at home. Unfortunately the service is really lacking. It seems like all the servers were brand new and didn't know who was doing what. I had to ask for water three times, as one example. The restaurant was fairly empty on a Friday night."
+        }
+    ],
+    "reviews_count": 85
+}

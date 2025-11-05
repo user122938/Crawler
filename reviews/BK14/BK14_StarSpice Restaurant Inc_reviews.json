@@ -1,0 +1,460 @@
+{
+    "name": "StarSpice Restaurant Inc",
+    "place_id": "ChIJu4PZ4KZbwokRgtDAJrMHoO4",
+    "grid": "BK14",
+    "address": "1501 Flatbush Ave, Brooklyn, NY 11210, USA",
+    "rating": 4.6,
+    "user_ratings_total": 152,
+    "phone_number": "(347) 410-7570",
+    "reviews": [
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTlIxVm9MWFpQTFVKVVVEZEdSRU5wZFU5aWFXYxAB",
+            "text": "Great Jamaican spot-curry chicken with pea rice and cabbage was excellent."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxNFYwUkVNazEyTFRSWmRtSXlSSGw1ZURscmVIYxAB",
+            "text": "Great food, great vibes."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4NVNWbHhTRzFGU0hoTk5pMTFUamhyVTNreWFrRRAB",
+            "text": "The food is always tasty and fresh. And breakfast always hits the spot"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCMWFsRlRhMVZxWnpnemJsbE9OMkYxT1hwR05rRRAB",
+            "text": "The absolute best Pattie’s! The oxtail patty and salmon patty are delicious. They’re well filled, and the crust is seasoned and crispy."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4TFNsaE5SbWRGT0VobWFsUjBUWGxUUlUwdGNGRRAB",
+            "text": "So happy I came in! Idk why it took me so long to try this spot. Very friendly service and food is so good! Will def be back"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVFQxQm1iMmxyZVZoWE1XRTNRMDFHTkZSU0xYYxAB",
+            "text": "I walked in on a Saturday around 12pmto get oxtail and their customer service was amazing. I got oxtail, rice &peas with oxtail patty. They were both really good, the patty was very flaky and sweet. I sat to eat and the oxtail was really good , they used a balsamic rice and I loved every bite.\n\nI’m really tempted to go again and I love in New Jersey"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaQldWbFJRMmhqYWxGSFpVRlhSVmc0ZUZSbVQyYxAB",
+            "text": "Four years ago, just before starting my freshman year at a nearby high school, I had my first meal at Star Spice—and it was love at first bite. The jerk chicken was tender and juicy, with crispy skin and a perfect blend of smoky, sweet, spicy, and umami flavors. The rice and peas, cooked al dente, soaked up the rich gravy and paired with the soft chicken. The sweet, steamed cabbage balanced the heat of the jerk chicken, while a flaky, buttery patty tied the meal together like a ribbon on a gift. Over the next four years, the friendly staff, good prices, and consistently delicious food kept me coming back. Now, as I prepare to move out of state for college, I say a bittersweet goodbye to Star Spice—a staple I wholeheartedly recommend to anyone."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvbHJHb0NBEAE",
+            "text": "If I could give Star Spice 10/10 Stars I would!\nI have been blessed to have had the opportunity to frequent this restaurant for several years. Every Friday I would look forward to trying their Curry Shrimp, yet as I began to explore more of the wide variety of Food that is available, truthfully I can say that their Menu has yet to disappoint me. If you are seeking to eat delicious food that is highly flavorful and made with Love, then surely you must pay a visit to Star Spice. The Rice & Peas is simply phenomenal! Try the Jerk wings & you will find that the meat slides right off the bone. The Cook-Up Rice is also VERY Nice. Their Rasta Pasta is A1, and as someone who is a Patty enthusiast, Their Freshly baked Patties are easily some of thee best I have ever had truly.\nThe Staff here is just as amazing as the food! I can go on & on about how thankful I am to have discovered this restaurant, I highly recommend! to any & all in the Flatbush Junction Area. Thank you Star Spice !!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRMkpqT0pREAE",
+            "text": "Oxtail patty was the best I ever had must try!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnMjVmNndBRRAB",
+            "text": "Hands down one of the best oxtail I have had ! Rice and peas is seasoned so well and you gotta try it with the homemade hot sauce . Thank you for a amazing meal."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfaHRIZVBnEAE",
+            "text": "Exceptional staff even better food"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfNUlTbG1BRRAB",
+            "text": "Every time I go in they greet me with a smile !! No matter who’s on shift. I appreciate their kindness as well as their delicious food!! It’s so rare to find a spot who still serves $5 plates. I hope they never close !!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfOElUejNBRRAB",
+            "text": "Food is delicious and consistent. Workers are really kind and helpful especially AJ and Josh. Would definitely go back!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfazkzWUhnEAE",
+            "text": "The food is literally amazing and they offer a $5 dollar lunch special yall highly recommended to foodies and folks that enjoy great taste"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfX3RhZ2l3RRAB",
+            "text": "Always clean! Food is amazing reasonably priced and staff is welcoming. One of Flatbush gems"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfX3ZMZy13RRAB",
+            "text": "We’ve been to  Star Spice and  the food is great.AJ was very professional and courteous, I would definitely recommend Star and Spice restaurant."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfdnZydm1nRRAB",
+            "text": "Everything is absolutely delicious"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfdnJ6LUV3EAE",
+            "text": "The best patties and fried bake in Brooklyn!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfM3NIM3NRRRAB",
+            "text": "Great customer service"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmdDZXWGVBEAE",
+            "text": "The food is delightful the environment is friendly top tier customer service and always get the bang for your buck"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmdllIUm9BRRAB",
+            "text": "I live in the area, this is a wonderful place to clear mind, eating good food and engage with great people. 10/10 ❤️"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2dzdHeGZBEAE",
+            "text": "The Atmosphere is Always amazing When I Come To McBeans / Star Spice . Come Get Ya Good Up Foodd -Aubrey"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2d19Lb1RnEAE",
+            "text": "Good food, good service, good people 👍🏾"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2OWUyY1VBEAE",
+            "text": "There isn’t one thing that I have tried from this place that doesn’t taste good, the rice and peas, the jerk chicken and the soups are my go to, I recently tried the stew chicken and it’s the most delicious thing ever as the customer service is always on point."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2N3ZYQVBnEAE",
+            "text": "Staff is very nice and professional."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2N3ZLTFlBEAE",
+            "text": "It's always a nice experience when visiting this restaurant"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2OXJQZUVREAE",
+            "text": "I love this place! The porridge always tastes consistent every time!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dXFfdzNnRRAB",
+            "text": "Amazing service and the food speaks for itself ! Always a pleasure eating here"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2NVBmSmt3RRAB",
+            "text": "The lunch special is a great deal and the jerk chicken is excellent."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2cEtuRGdRRRAB",
+            "text": "Food was delicious"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2cE1uNURnEAE",
+            "text": "Nice spot in my neighborhood support local business!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2cFBpMHd3RRAB",
+            "text": "Some of the absolute greatest staff I’ve ever encountered at an establishment! From Ownership to Cashiers and Cooks. They all treat everyone so well. And the food is 🔥🔥🔥🔥🔥🔥🔥🔥🔥"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2eEx6Rkh3EAE",
+            "text": "Great food, great people, great prices always helpful definitely 10 out of 10!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2aU9xVlFREAE",
+            "text": "Came for Black cake, left with an order for Sorrel cake. Never tried this before but it tastes fantastic. Definitely would recommend trying their cake selections!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2a043TWVBEAE",
+            "text": "Best spot for lunch for me. Stew Chicken is the best on the Bush"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWdjVmSFd3EAE",
+            "text": "Food is soooo good And reasonably priced!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2b0tuRXV3RRAB",
+            "text": "Best fresh food\nGreat customer service very professional\nI love it here"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2b1BxeVl3EAE",
+            "text": "I love their food. Every morning I get my babies and salt fish and a porridge to go"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2b05yRXRRRRAB",
+            "text": "I love the roast bake\nI eat it actually every morning for breakfast.."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2d00yeDd3RRAB",
+            "text": "Great family environment. Very patient and stay true to their kind hearts. Love this place."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuMTVHQ2ZBEAE",
+            "text": "Came in for the 4.99 lunch deal, friendly staff and good food. Will come again"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNINTRYTVZnEAE",
+            "text": "I love it is very clean. They’re very respectful and they move quick. I go there on my break and the food taste like back home."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNicW96OU5REAE",
+            "text": "I recently stopped by this place for lunch and was created by to very polite young men. One stepped from behind the register to assist me so that I didn’t have to way inline. I ordered a Medium Oxtail with white rice and they told me the price ($18)it make sure that it was okay with me. I was sold with the signage outside that read “Known for the best jerk chicken.” In that area that’s a very bold statement to make. The place was well maintained inside. I tried their strawberry lemonade, I don’t think it’s a fixed item. One of the servers mentioned to me that they periodically switch up the flavors. The I’d rate the drink a 5/5 and the Oxtail a 3.5/5. It wasn’t terrible, I just expected a lot more. Next time I’ll go for what they’re known for. They also have a huge selection of various cake slices, I didn’t try any but I certainly plan on trying it in the future. Atmosphere I’d give them a 4.2/5 and a 5/5 for customer service"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxck9hcmtRRRAB",
+            "text": "This restaurant is right in my neck of the woods! Used to be called McBeans, but now rebranded as “StarSpice”.\n\nThe other day I was given the curry chicken and fried rice and it was pretty decent. The rice was very good and carried the meal it alone I would give a 8/10.\n\nFrom trying that I was eager to go inside and try more. I went recently and saw that they have jerk pork (which I love), but only on Fridays and Saturdays. Ironically it was a Friday, so I was lucky. The restaurant itself was very clean and there is some seating so you can sit indoors.\n\nI've also been looking for a place that sells Chow mein as well and I was glad that it was sold here. I got the jerk pork, Chow me in (had to pay extra) and salad. The portion was very generous. They packed it up tight and added condiments. I even got to try a piece of their sorrel cake, and it was GOOD. The jerk pork I would give an 8/10 and the chow mein a 7/10.\n\nUpon getting home, I was anxious to try it. With the first bite, it was very tender and fell off the bone. It was well seasoned and tasty. I took it slowly because I didn't want to finish it fast. The Chow me in was okay, I feel like it needed a bit more seasoning.\n\nOverall, I would come back here! And did you know they have a $5 lunch special?!? From Monday - Saturday?! That's amazing!\n\nThank you for having me StarSpice! Until we meet again!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSel9pV3ZBRRAB",
+            "text": "The food here is absolutely Delicious. With a capital D. I was in the area, and I was looking for a quick bite. I’ve never been to that side of Brooklyn before, so I was unsure of the type of food they had in the area. Then I saw this place, and I had to go inside. Super clean, and so much light. Even on a gloomy day Starspice lights up.  The women dishing out the food, was so nice and friendly. I could write all day of how friendly everyone was in this restaurant. But my review is about the food. And let me tell you. The food here is super delicious. It definitely doesn’t disappoint. You can tell  it was fresh food that they made that day. All of the season and spices aligned. I wish I lived closer so I can order everyday. If I’m back in the area I will definitely be returning. Because this place is definitely a treasure. Oh and If you’re Guyanese it has all of the great dishes from Guyana. And it’s 100% authentic."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtcjlDT1Z3EAE",
+            "text": "Alrighty these two plates would have been $5 each, if I came 15 minutes earlier 😂\nLunch specials are from 12pm-2pm so keep that in mind. Lunch special includes White rice, Fried rice, Rice & peas, Curry chicken, & Stew chicken only!\nI paid about $15 for these two small plates.\nFirst time here and the food is good! but just not my personal fav. Overall, I’d come again for the lunch special :)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSblp2alpBEAE",
+            "text": "It was that kind of morning that I needed good food to bring me joy. I was so happy to stop by at Starspice. I had liver and okra over plantains and dumpling with a fried dumpling on the side. The food was scrumptious! The service was lovely! I’ll definitely be back here again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6NjVxVVlnEAE",
+            "text": "I would often order breakfast from this restaurant. Today, I ordered Fried Dumplings and gave one to my toddler. As I was helping him consume it, I saw what I initially thought was uncooked dough. It was the finger portion of a latex glove. To say I am furious and disgusted is an under statement. I will never patronize this restaurant again, because I cannot trust them. Eat here at your own risk."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKbm83MHN3RRAB",
+            "text": "StarSpice provides consistently tasty food, friendly service, at a great cost. We tried their stew peas with pig tails and beef, which was fantastic with a Jamaican Kola. Shamine and Erica have a wonderful vegan food selection too. We had pumpkin, kale & spinach, chick peas curry, okra with black eyed peas, ackee and butter beans, all with rice. It was absolutely delicious, we especially loved the pumpkin! StarSpice is the perfect option for any vegan or vegetarian looking for a flavorful, filling meal."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiNTk3QTNBRRAB",
+            "text": "I came in here about 30 minutes ago. I ordered the jerk chicken lunch special and a piece of fish. The rice and pease has a very unique flavor to it that wasn’t my cup of tea. Now let’s talk about the fish. It’s undercooked. A fully cooked porgy has white meat. It’s very much pink and has that look of undercooked fish. I’m very disappointed as this was my lunch break and I can’t even go back smhhh."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGejdLOGdRRRAB",
+            "text": "Food Is Absolutely Delicious Great Options Fresh Taste And Lots Of Different Veggies"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiNll5OE1REAE",
+            "text": "My family and I came from Canada and wow the food was amazing. I had the curry chicken lunch special and it was amazing. The juice they have is good, i had the pineapple ginger. The drinks are made with no artificial flavor, all natural stuff. This is a place I would definitely come back to when I get to come back to new york. The service is excellent they interact with u and give you recommendations on what to try and what's good. There just wasn't a lot of seats in there so I'm guessing they just opened recently, the prices are not bad it's very reasonable. Overall yall need to go check it out!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxMG9MVXJ3RRAB",
+            "text": "Great customer service, best fried rice in Brooklyn, the jerk chicken was 🤌🏽 excellent! pineapple patty… man all the patties. Amazing!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxMFBheV9nRRAB",
+            "text": "I ordered the Stew Chicken, with Rice and Peas  (oxtail gravey) + Okra with Black eyed (could of used a little heat).\nNot sure if the use Jasmine Rice in their Rice and peas. It was a different…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0OHVINWp3RRAB",
+            "text": "The most delicious Guyanese beef patties I have ever tasted (and I've had many). They also have the tastiest rice and peas. It taste like they cook it in coconut water. Is always flavourful."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6bGMzUGhRRRAB",
+            "text": "The lunch special is such a great value!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWejZld2h3RRAB",
+            "text": "I always come for the chicken soup and it is very exquisite. The portions are great as well, you get what you pay for! Also very nice and attentive staff!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROXzkyTnZRRRAB",
+            "text": "To be honest the best thing they have is the pigtail/ beef red bean soup.\nThe quality has fallen off a bit in terms of taste. Everything seems to have a generic fast food blandness to it"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWLThEck93EAE",
+            "text": "I come quite often because the stew chicken, Guyanese patties, and sorrel  are DELICIOUS!!! Star Spice is such a staple and wonderful restaurant in our community."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWc19YbjN3RRAB",
+            "text": "The food is good, salt fish is good and the saurel cake tastes good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsOFkzMWpRRRAB",
+            "text": "I live in the neighborhood and have been going to this restaurant since it opened the quality of food has gotten better,  prices are competitive and staff is awesome!!!\n\nWhatever you have you will enjoy"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtNUphc3BRRRAB",
+            "text": "The food is absolutely amazing! Every dish is seasoned to perfection. If you're in Brooklyn you need to eat here!!! Best Lunch special I've had in Years  ."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoak9EYndBRRAB",
+            "text": "This place is the worst, workers got attitude and it’s expensive, they change the name of restaurant higher up price, order a large soup they charge me $11 just for broth and one pc chicken and pc corn. People walk half block to 1489…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6dlluM3NRRRAB",
+            "text": "Everything about this restaurant was on point I loved the oxtail and they have specials definitely recommend to anyone who wants that soul food experience"
+        }
+    ],
+    "reviews_count": 64
+}

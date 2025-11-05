@@ -1,0 +1,565 @@
+{
+    "name": "Verdure",
+    "place_id": "ChIJR5pnRMJdwokRHLgR4vOthlg",
+    "grid": "BK18",
+    "address": "7804 Flatlands Ave, Brooklyn, NY 11236, USA",
+    "rating": 4.6,
+    "user_ratings_total": 371,
+    "phone_number": "(347) 673-5954",
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxeGNFeEJSM1ZGYkU5TWVqRkJibWg0YTFSS2VIYxAB",
+            "text": "Great vegan options. Marisia’s energy is amazing!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1elYyaGxkRkJWUjNSaVkxTjNlWGRMU2xsQ1RIYxAB",
+            "text": "Delicious, healthy food and nice people. I Love this place!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GeFVVdFNZM28wVURoMlUwUnphbUY0UVMxTVpIYxAB",
+            "text": "Great food! CLEAN space and geeat vibes!!! Food that is good for you and makes you feel great!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psZlFVSTNSR0YzZDJWcmFGZDNVbDgyTVY5dVdGRRAB",
+            "text": "A wonderful little vegan restaurant with tasty delights."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psc2JtdDBUVFl3TUZsUldsbHdOa05KVjBac0xWRRAB",
+            "text": "Absolutely horrible service. Dismissive and unkind. The server acted as though that me ordering was a bother....."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xscVJUSXlNWG96UkZCcU1sTXRNMUpLTmxodlgxRRAB",
+            "text": "WHAAAAAAT?! Oh my goodness, the food here is so tasty. You must try the jackfruit, and don't forget to ask for the bbq sauce. Their mac & cheese is probably the closest thing to traditional, southern style mac & cheese I have ever had since going vegan. Please treat yourself to this cruelty-free goodness."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQdlcxYlR3MmJicmNnEAE",
+            "text": "Best vegan desserts ever. All food is plant based & good"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJdHV2LVVBEAE",
+            "text": "Ordered soup today as it listed \"red beans soup\". When I got to my destination to have red bean soup it wasn't soup, only got a few ochro, melted pumpkin and green banana with the skin on..food at location is great but, not everyone wants green banana skin to eat.  Have correct soup listed please."
+        },
+        {
+            "date": "7달 전",
+            "language": "ru",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3Z2RTT1h3EAE",
+            "text": "Еда не особо вкусная но сервис отличный"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3MGFTWXFBRRAB",
+            "text": "Great spot with kindhearted staff. The food was superb. Especially the crispy and flavorful fried dumplings. Worth every penny. I would definitely come back.\n\nJonathan Archie\nRealtor"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3NVB2anJnRRAB",
+            "text": "My neighborhood vegan restaurant.\nI’ve been here a few times, and ALWAYS enjoy my meal. But that’s not all, the service is absolute superb! Literally from the walk-in you’re warming greeted. Tho I’m not a regular, I admire the interactions with staff and those who frequent.\nNow the food, if you’re transitioning or just need a break from meat, this is the best place to satisfy your craving, while getting your health dose of veggies.\nFairly priced, great vibe and ambience.\n\nI shall return !"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRdXQyZXF3RRAB",
+            "text": "Exceptional food. A bit pricey but absolutely worth it."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBbHFTSFN3EAE",
+            "text": "Food is great"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmbjV2Q2xBRRAB",
+            "text": "We love the nourishing food and the fantastic result"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2NmEyZWhBRRAB",
+            "text": "Great service and food!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzaExqbnlnRRAB",
+            "text": "I live in New Jersey & I can’t wait to visit again! The space is really nice, small but spacious(if that makes sense)Even after 7pm the staff was kind & courteous. The food was rich & tasty, even the drinks were absolutely delicious. I arrived at 7:30pm & there wasn’t much left, but I left with filled trays of what was left. I can’t stop thinking about going back(early)& trying their other dishes. Lastly, the chocolate cake was sooo moist & decadent, even at 7pm..Highly Highly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYaWRMVzRRRRAB",
+            "text": "Love this place sm. Best everything"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuMTZEWUpREAE",
+            "text": "Great!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNudVBXbEF3EAE",
+            "text": "This restaurant food is so awesome, the travel fr Jersey is worth it"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIN2EtZUJBEAE",
+            "text": "Love their food! I stop here every time I'm in the neighborhood! Love the ackee in particular!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiOWFyWGtBRRAB",
+            "text": "Excellent food!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyaEwyNDhBRRAB",
+            "text": "I touched down in New York on Thursday and came straight to Verdure from the airport. Miss the food immensely. Since leaving, I haven't found any vegan options as tasty and conveniently located near me. There's nothing like coming back home to the food you know and love ❤️. Just about everything on the menu is a hit! I miss getting breakfast every Thursday morning. 😩 If I were staying in Brooklyn, I would have gone back for more food. Best believe, EVERYTIME I'm in Brooklyn, I'm coming through!!!💯 🫶🙌🔥😋😋"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyek0yeVhnEAE",
+            "text": "Great little spot for the yardie vegan! Customer service was incredible, the stew peas & rice & pumpkin stew very was tasty & not overly salty & the taste of tropics smoothie was refreshing & smooth. And they have a parking lot!!, when you’re in Brooklyn that’s so important.\n\nNot only are they health conscious, but they are environmentally conscious and containers were biodegradable. I will be back!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUMWNldkR3EAE",
+            "text": "This place is absolutely incredible! The cuisine is phenomenal, the atmosphere is charming, and the staff is exceptionally friendly and accommodating. We’re eagerly anticipating our next visit to sample everything we didn't get to try. You should definitely check this place out."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUd04yM1F3EAE",
+            "text": "Don’t look any further. Fresh and delicious 😋 this someone who is very picky with food."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqbmZ5SFRBEAE",
+            "text": "Every time I am in Brooklyn USA I don’t leave the borough without stopping at my favorite Jamaican Vegan Restaurant.\n\nWhat is a Jamaican Vegan you might ask? As with all Caribbean Islands there are unique eats specific to the natural harvest in that region. Jamaica is known for its national dish called “ackee” which is technically a fruit since it has a seed but must be cooked before eating. Traditionally it is served with saltfish and boiled green banana, fried sweet plantains or breadfruit for breakfast. Well Verdure puts their own spin on it with mixed vegetables instead of the saltfish and you don’t miss a thing! Deelish. They have a fabulous okra stew, warm porridge and fried dumplings. I’ve also had their vegan fritters (which run out fast) so get there early. I love their pumpkin soup with carrots and okra, curry chick peas, rice and peas or some ital red peas stew with veggies and ofcourse fried sweet plantains for the authentic Jamaican experience. The variety is impressive! Never oily  or salty with the perfect blend of traditional Caribbean seasoning in every bite. They have a host of natural drinks made fresh daily, along with herbal teas and amazing muffins. Their vegan carrot cake is a must grab before you head out the door. They even offer “no salt” added options for select items like their curry chick peas. Sweet!!!\n\nIt’s a la carte so you buy per serving which I love because it allows you to create amazing combination platters, depending on your taste buds that day. You can seat yourself and stay as long as you like or take it to go. As they say in Jamaica, “no worries.”\n\n*HIGH FIVE! Their take out containers are 100% Bamboo, 100% compostable with no trees harmed in the making of these containers  and the bio-lining of the containers are made from plants. Thank you Verdure for making  this commitment to our planet and your customers. It does not go unnoticed!\n\nAs a fellow Jamaican I am proud to frequent this hidden gem every chance I get. The service is always outstanding and ample street parking which is a miracle in this part of Canarsie Brooklyn. Cheers to continued good eats!!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5X2VyU1N3EAE",
+            "text": "The food is good. Staff is friendly"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkN1ByU1RnEAE",
+            "text": "Hospitality, well lit, clean, and the food is very, verily good. No soy in the food wish is a +plus.  Overall A+"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0NGFUbDJ3RRAB",
+            "text": "This place is AMAZING - we can't wait to come back and try everything we missed!! The food is out of this world, the ambiance lovely and the people who work there are so friendly and helpful! Definitely give this place a try!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNONnVLdFNREAE",
+            "text": "Great vibe\nTell a friend to tell a friend to tell them girlfriend"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxbzhiZUJ3EAE",
+            "text": "I took the drive to Canarsie to try out Vendure. It popped up on my insta a few times. They have a juice section and a food section, the juice section was busier. I ordered wild rice (which is priced more than the other rice options) and stew peas with fried cauliflower brushed with BBQ sauce. The cauliflower was excellent. The stew peas had too many 'spinners' and was missing that real stew peas taste with the tyme and pimento flavor.\nThe strangest thing is their pricing,  everything is priced individually and added to your plate versus the traditional way of meal pricing."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWMWFEa19nRRAB",
+            "text": "Bwoy, I went to this restsurant and was blown away. The presentation was great so I wanted to get everything. I thoroughly enjoyed my choices.. Oh that mushroom dish was off the chain.. I can't wait to visit NY to go there..."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWNmVxSm13RRAB",
+            "text": "Five star ⭐️"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsMWVlTXN3RRAB",
+            "text": "Good service and food, but it is just too expensive"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsMGVHZ0hREAE",
+            "text": "Love it!  Just stumbled on to this place last week. No soy and the food is full of flavor.  Still trying everything but everything is good! My favs so far are the Mac and cheese, reggae pasta, and the Beyond beef and cheese patty.  Aside from theat, the service is great.  Their energy is good. They charge per item and you can choose to get half portions or full portions so it can get pricey of you're not careful but the food is worth it!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1dm9IVnZ3RRAB",
+            "text": "food is good, but prices have sky rocketed. There is another vegan spot that I go to in Bedstuy and would expect them to be more expensive but this spot is."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaa2ZXbHl3RRAB",
+            "text": "Yah be praised! Trapped in NY and need to eat, this place rose up like an oasis!!!! Yes I've been back 3 times in 7 days. When I say FANTASTICAL, I MEAN FANTASTICAL ❣️🎉🤸🏿‍♀️💃🏿💣🔥"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaOExTal9RRRAB",
+            "text": "The food is delicious. I highly recommend."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwcmJQYlNnEAE",
+            "text": "Everything was phenomenal.  We went when it was about to close and still great."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwOGNUZGVnEAE",
+            "text": "Food is always on point. I'm happy to see the menu expanding constantly. My only criticism is each item is sold separately so it can be pricey. But good ain't cheap and cheap ain't good. This is a Jamaican vegan restaurant that I wish well upon. In a world of carnivores they will stand out. Did I mention black owned also? If you're in the Canarsie area in Brooklyn go check them out. Tell them I sent you. You won't get a discount or anything I just always wanted to say that🤣"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVcXY3RmZnEAE",
+            "text": "Their smoothies are very tasty and their ackee Pattie’s are pretty good. However, the rest of the food is unappetizing and tends to be mushy/soggy and under seasoned."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwMG9QQ3BnRRAB",
+            "text": "They were very welcoming the store was clean and the food was amazing!!!! I love to support black business that have professional service with love and care for their community!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwNHVxMm9BRRAB",
+            "text": "The food is pretty delicious here and they have a decent menu selection too. And their prices are affordable as well."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNTM3RMUGVnEAE",
+            "text": "Amazing people, amazing meals, amazing service. Perfectly vegan options. Respect!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKaDZhcGNREAE",
+            "text": "The staff isn't the nicest.\nBut the food was food.\nNo menus available that socks."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKdXNDQ2VBEAE",
+            "text": "Hiding gem.\n\nI found this amazing and delicious vegan restaurant on my drive in Brooklyn. I gave this restaurant 5 stars but personally I’ll give them 10 stars.. The food is taste so clean, is not oily or too much salt or spices it is just perfect.\n\nThe restaurant is very clean and the service is excellent.\nI recommend this restaurant to vegans and not Vegan. Definitely come back again and again and again. 😋🤤😋🤤"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKcU5yV1ZnEAE",
+            "text": "I am SO HAPPY THIS PLACE EXISTS. The buffet I always wanted but as a vegan couldn't get. Everything from mac n cheese to ackee Patties and health tonics, this is a one stop shop to make a vegan happy. Cannot get enough. BIG UPS"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4b29PT1RnEAE",
+            "text": "Ordered through Uber Eats. I got:\n\n- BBQ & Jerked Black Bean Burger\n- Empanadas\n- Plantain Sliders.\n\nThe 2 Burgers we got are a sorry excuse for a good burger. They were very dry, looks like it was made by under 2 mins, the breads were dry. It’s the kind of burger I would eat when I’m drunk.\n\nThe plantain sliders are really good though, they’re very juicy & really like them. I would order them again definitely.\n\nThe empanadas are okay too, I like the beef inside, really enjoyed it.\n\nStay away from the burger, it’s a waste of money."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4bTlLaUNnEAE",
+            "text": "Vegan baby"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4ZzlQQ0V3EAE",
+            "text": "Renee was the loveliest host that you can possibly have. Great restaurant, great food! Would definitely suggest this place."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5ajlLTnJ3RRAB",
+            "text": "What an experience. I loved how clean the restaurant is above all. Color is added to black and white decor with the addition of fresh fruits, veg, food and teas.\n\nI love that we can try so many different things in one plate and their parking lot makes it easy to grab a box to eat in the car.\n\nThe rice and peas are beyond perfection. Tried the quinoa\nAnd didn’t love it.\n\nBoiled provisions are my fav. The steamed veggies are colorful and perfectly cooked. I got to add crunchy raw veg on top my plate at the end. Don’t forget to ask for plantain, I did :( my main was the chana curry which was soooooo good.\n\nThey had akee patty’s which I will try next time and my ginger tea was so strong, I went home and made three cups out of it.\n\nI waited a for a slice of Mac and cheese. It was good but DEF which needs work. there was not much flavor besides the top.\n\nVerdure is strong. Love it and will be back."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJdmY3bTlnRRAB",
+            "text": "I have been searching high and low for this vegan option for Jamaican food.  The ambiance is all too perfect. The decor is clean, complete with power outlets w/ USB charging outlets for customers dining in, there is cash and cashless…"
+        },
+        {
+            "date": "2년 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSLW9mN1RnEAE",
+            "text": "Ein ganz tolles veganes Restaurant. Es gab so viel Auswahl, wir durften sogar vorher etwas probieren. Die Mitarbeiter waren sehr freundlich, wir haben dann vegane Mac and Cheese genommen. Sehr lecker, schade das wir nicht noch mehr probiert haben. Klare Empfehlung."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHbWJMNVhBEAE",
+            "text": "The food was okay. One of the staff members seems angry when asked  what particular food was(Food had no labels). The other staff members were kind, respectful and didnt have an attitude."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1MzZ1aENnEAE",
+            "text": "Sophia great help and many VEGAN breakfast options that are naturally delicious.  You can't miss coming in here. Oh they also have healthy smoothies too"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoaVlLM3Z3RRAB",
+            "text": "I bought their Jackfruit, Quinoa, and Broccoli, and it was good, so I went back and got some Fried Mushrooms with Vegan Mac'n cheese, and all the food I tried so far was good. Even the Fried Mushrooms was delicious 😋…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyaHZEYU5BEAE",
+            "text": "Great place to eat!  All is delicious! It is hard to decide as there are so many options.  Juices and smoothies really good. Authentic Jamaican food and patties. Very good service! Friendly, respectful and attentive."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwaFlyZzNnRRAB",
+            "text": "A rather hip place to find good healthy eating options.  The soup, stew and the food options are really great. Price is reasonable."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwX0lmX2pRRRAB",
+            "text": "Great service. Brought food, when ready to my table. Friendly smiles and Extremely clean, pleasant atmosphere."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURjc3U3d21nRRAB",
+            "text": "I was starting to frequent here before the pandemic and missed them while they were closed . But man they are back and I loveeeeeee their food. It always looks and tastes So fresh and delicious best vegan food I’ve had! My mom is also addicted to there potato pudding . You’ll def love this place ❤️❤️"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTcDVqemF3EAE",
+            "text": "Everything about this place is wonderful, the tasty delicious food, the smoothies, dessert, the cleanliness, and the smell of the restaurant most of all the pleasant polite humble staff i literally drive a distance because of it all!  A+😋🥰 Thanks❤…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzaHZ1V1ZBEAE",
+            "text": "Went there for lunch for the first time, my co worker told me about this spot. Need to go back another time to really get the feel for it. I have to say the meal was awesome."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhLXRXQ293RRAB",
+            "text": "Amazing!!! Vegan!!! The “In Love the cocoa” smoothie was so delicious reminds me of the Wendy’s frosty without the dairy!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ4cGFYLWdRRRAB",
+            "text": "Excellent service. Very polite and attentive. Food was delish! New fav spot"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvNDlQcEhnEAE",
+            "text": "Great. Fresh. Delicious. Awesome addition to bklyn vegan scene!"
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzOWZ5dEJBEAE",
+            "text": "Delicious vegan food. I am so satisfied and you will be too after eating at this absolutely delicious vegan restaurant. Highly recommended."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHeXJUQzVnRRAB",
+            "text": "Found this place by accident but I will continue to patronize from this establishment.  Curry cabbage flavorful, Red Pea soup was delicious despite the absence of meat. Dumplings were not made with process white flour and they taste…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2bnJLRjFnRRAB",
+            "text": "Very pleasant staff even when help making choices"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXbFBXQ0hBEAE",
+            "text": "Food was good . So good that I returned twice in the same week . My husband goes here often but this was my first time coming myself . I did not appreciate the “customer service “ from the slim dark skin server with a low cut . She was very short with me and seemed annoyed when I asked her what was on the tray line . Fine, I let it go figured maybe she was having a bad day . However when I returned the second time it was the SAME attitude so therefore that is just her personality . Unfortunately she lives up to the stigma they have against us Jamaicans saying that we have nasty attitudes . I removed one star because of her . She needs to stay in the back if she doesn’t know how to be pleasant and it at least smile and act like she likes her job . Besides that I would return."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPeHVpTkx3EAE",
+            "text": "While their food is great, I wouldn’t recommend going to their store. They treat their customers very poorly, talking to them very unprofessionally, and gets very disrespectful, especially the managers. Even when you ask a question, they…"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtMWRINEl3EAE",
+            "text": "Service was excellent. Lovely people here!\nClean environment, very chic and cozy.\nMy food was too salted. But this was my first time, I'd go back and try again. Overall a good experience."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4ck5XWU9BEAE",
+            "text": "More modern West Indian vegetarian restaurant. Bright, airy and helpful service with very tasty and fresh choices and parking is readily available. Only issue is that they charge you per choice($7) instead of set options like 3 choices for a small etc. so it can get very pricey. So 4 stars."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvMHNIX2xnRRAB",
+            "text": "I really enjoyed the food. The decor was cute and modern. The place looked clean and well-managed. The prices were fair. And the customer service was really good. Can’t wait to go back to try some other things on the menu."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvd0pyOHN3RRAB",
+            "text": "The food is always good here. A lot of it I'm getting used to but I love everything I've tried so far. The staff is just great all the time just like the food. Definitely check this place out and get your plant base eating on"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlX2NLR0FnEAE",
+            "text": "Some of the workers just rude to the people who be ordering the food. You have the big dumpling’s (dark skin girl)like to give little bit food people and you spending your money there. Than you have the other dark skin tall girl with hair (ponytail) have a deep voice she like to hang up on people they so rude. Other than that the food is excellent."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSLS12X29nRRAB",
+            "text": "Very nice vegetarian food and juices, nice clean place, but I give a one star, I was there yesterday and came across a very unpleasant server, if you need to upkeep this business please speak to some of your employees, attitude was not welcoming and encouraging to come back and buy. Otherwise very tasty and nice food."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNZdUk2X1VREAE",
+            "text": "Cozy spot and super friendly staff!  First time here and definitely won’t be the last.  Must try their Curried Cabbage and their Pumpkin soup.  They also have a juice bar on-site,  the charcoal detox was amazing!!!.  FYI - They have a different menu for different day of the week which is so cool!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoeDl2emh3RRAB",
+            "text": "Good food. Awful customer service from 1 slim dark-skinned lady; other staff are polite. Several complaints of her rudeness yet no decision to bench or retrain her on chivalry, one must conclude that this represents the management. I’ll be boycotting them, and I suggest you do the same, for a few months until something changes (willing to update review on reform).\n\nP.S. Dear “rude gal”, I have no ill will against you and I know that only by love is love awakened. However sometimes love punishes repeat offenders so they can reform and be converted. We love you and look forward to your NEWSTART, with eager anticipation."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLNGJuSTFRRRAB",
+            "text": "I love food and I generally eat meat, HOWEVER this restaurant has changed my mind. The food is fresh, the flavors complement one another & I can not eat meat anymore. There's no need! Verdure is amazing! Make sure you get a juice (made to order) with your meal. Super tasty!"
+        }
+    ],
+    "reviews_count": 79
+}

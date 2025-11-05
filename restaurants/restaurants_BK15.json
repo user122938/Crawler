@@ -1,0 +1,402 @@
+[
+    {
+        "name": "The Bay Café",
+        "address": "2 Neptune Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJ3ZSKH81FwokRukZW2kJKZyE",
+        "rating": 4.7,
+        "user_ratings_total": 761,
+        "phone_number": "(347) 554-8811"
+    },
+    {
+        "name": "Randazzo's Clam Bar",
+        "address": "2017 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJU-MJFmVEwokRAbOSlHM0eRI",
+        "rating": 4.3,
+        "user_ratings_total": 2817,
+        "phone_number": "(718) 615-0010"
+    },
+    {
+        "name": "Patrizia's Of Sheepshead Bay",
+        "address": "1901 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJ2UhHPWVEwokR0BJF8eMs-1Q",
+        "rating": 4.5,
+        "user_ratings_total": 939,
+        "phone_number": "(718) 942-4848"
+    },
+    {
+        "name": "Sea Pearl",
+        "address": "2027 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJXWuLcXJFwokRjC6BXIvfFo8",
+        "rating": 4.4,
+        "user_ratings_total": 451,
+        "phone_number": "(718) 301-6100"
+    },
+    {
+        "name": "Opera Cafe Lounge",
+        "address": "2255 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJV3k7VXpEwokRL7EXkMSVFQk",
+        "rating": 4.4,
+        "user_ratings_total": 4517,
+        "phone_number": "(718) 676-2992"
+    },
+    {
+        "name": "Lokum Mediterranean Restaurant and Bar",
+        "address": "2027 Emmons Ave 2nd floor, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJ03zIjG1FwokR5EV8gcSurb8",
+        "rating": 4.6,
+        "user_ratings_total": 677,
+        "phone_number": "(646) 444-8777"
+    },
+    {
+        "name": "Burchak Pide",
+        "address": "1614 Sheepshead Bay Rd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJU1QBADtFwokR5MG-u7dC6tg",
+        "rating": 4.8,
+        "user_ratings_total": 668,
+        "phone_number": "(315) 207-7080"
+    },
+    {
+        "name": "Oda House Brooklyn",
+        "address": "2027 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJJ1Y0dv9FwokRlwdFP_s3az0",
+        "rating": 4.4,
+        "user_ratings_total": 610,
+        "phone_number": "(347) 312-4909"
+    },
+    {
+        "name": "Rocca Cafe & Lounge",
+        "address": "2712 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJ-WNqdnlEwokRWxGplgQpZ-o",
+        "rating": 4.1,
+        "user_ratings_total": 3209,
+        "phone_number": "(718) 769-2525"
+    },
+    {
+        "name": "Roll N Roaster",
+        "address": "2901 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJyZn7GXlEwokR8z0rpM0kTUU",
+        "rating": 4.4,
+        "user_ratings_total": 5340,
+        "phone_number": "(718) 769-6000"
+    },
+    {
+        "name": "Wheeler's",
+        "address": "1705 Sheepshead Bay Rd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJwUxdRGREwokR4XaeRzDcmak",
+        "rating": 4.5,
+        "user_ratings_total": 1293,
+        "phone_number": "(718) 646-9320"
+    },
+    {
+        "name": "Terra",
+        "address": "1716 Sheepshead Bay Rd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJjYSZSGREwokRtnAzLYJ_UwU",
+        "rating": 4.3,
+        "user_ratings_total": 462,
+        "phone_number": "(718) 675-3939"
+    },
+    {
+        "name": "LOFT by Hot Potato",
+        "address": "109 Oriental Blvd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJqRckGmxEwokRaB3c19QfFPY",
+        "rating": 4.5,
+        "user_ratings_total": 753,
+        "phone_number": "(718) 975-7990"
+    },
+    {
+        "name": "Clemente's Crab House",
+        "address": "3939 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJmTYGDINDwokRhrrbU8mJWsY",
+        "rating": 4.3,
+        "user_ratings_total": 1516,
+        "phone_number": "(718) 646-7373"
+    },
+    {
+        "name": "Level Restaurant & Bar",
+        "address": "2775 Coney Island Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJO8HZqcRFwokRDgSJh5IdCdY",
+        "rating": 4.4,
+        "user_ratings_total": 809,
+        "phone_number": "(718) 684-4300"
+    },
+    {
+        "name": "Mouette",
+        "address": "2635 Ocean Ave, Brooklyn, NY 11229, USA",
+        "place_id": "ChIJk61FahhFwokR9z9no06PU9I",
+        "rating": 4.4,
+        "user_ratings_total": 247,
+        "phone_number": "(929) 410-2299"
+    },
+    {
+        "name": "Next Door Restaurant",
+        "address": "2005 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJFR_OLWVEwokRjaUNttE1zxs",
+        "rating": 4,
+        "user_ratings_total": 343,
+        "phone_number": "(718) 942-5870"
+    },
+    {
+        "name": "Qugale",
+        "address": "1788 Sheepshead Bay Rd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJNW-Q-RpFwokREbWiuB7XrWg",
+        "rating": 4.4,
+        "user_ratings_total": 216,
+        "phone_number": "(347) 462-3383"
+    },
+    {
+        "name": "Baku Palace Restaurant",
+        "address": "2001 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJP_S9LmVEwokRiSurUE00y9g",
+        "rating": 4.3,
+        "user_ratings_total": 1191,
+        "phone_number": "(718) 615-4700"
+    },
+    {
+        "name": "Wildberry Cake",
+        "address": "1715 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJgarb4sdFwokR52YQD5n-9mY",
+        "rating": 4.2,
+        "user_ratings_total": 525,
+        "phone_number": "(347) 312-5197"
+    },
+    {
+        "name": "Trend Restaurant & Lounge",
+        "address": "2011 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJLVfsCv5FwokRo_bTMCkoJhc",
+        "rating": 4.4,
+        "user_ratings_total": 43,
+        "phone_number": "(646) 512-1199"
+    },
+    {
+        "name": "Liman",
+        "address": "825 Surf Ave 2nd Floor, Brooklyn, NY 11224, USA",
+        "place_id": "ChIJKRjfeXlEwokR3J4oX2oLdOk",
+        "rating": 4.4,
+        "user_ratings_total": 1466,
+        "phone_number": "(718) 769-3322"
+    },
+    {
+        "name": "EXIT 9",
+        "address": "2771D Knapp St, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJQ9CfQyZDwokRwTdQfyQSU4U",
+        "rating": 4.7,
+        "user_ratings_total": 146,
+        "phone_number": "(718) 707-3543"
+    },
+    {
+        "name": "Yiasou",
+        "address": "2003 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJn2f0E2VEwokRv0P7A7sijqE",
+        "rating": 4.2,
+        "user_ratings_total": 474,
+        "phone_number": "(718) 332-6064"
+    },
+    {
+        "name": "Pjs on the Bay",
+        "address": "3041 Ave V, Brooklyn, NY 11229, USA",
+        "place_id": "ChIJs0Mg5HFFwokRmG92Yjd0h5o",
+        "rating": 4.6,
+        "user_ratings_total": 151,
+        "phone_number": "(347) 462-1747"
+    },
+    {
+        "name": "Anyway Cafe",
+        "address": "1602 Gravesend Neck Rd, Brooklyn, NY 11229, USA",
+        "place_id": "ChIJ7ZocMopEwokRzTvApUJd62Q",
+        "rating": 4.6,
+        "user_ratings_total": 947,
+        "phone_number": "(718) 934-5988"
+    },
+    {
+        "name": "Buckley's",
+        "address": "2926 Ave. S, Brooklyn, NY 11229, USA",
+        "place_id": "ChIJXdjy7JtEwokRwbQj1okUKEY",
+        "rating": 4.6,
+        "user_ratings_total": 544,
+        "phone_number": "(718) 998-4222"
+    },
+    {
+        "name": "Masuta Japanese Fusion",
+        "address": "1712-1714 Sheepshead Bay Rd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJk_6VWDZFwokR4rxb93ADuLw",
+        "rating": 4.6,
+        "user_ratings_total": 552,
+        "phone_number": "(718) 368-3255"
+    },
+    {
+        "name": "Masal Cafe & Lounge",
+        "address": "1901 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJW_RgPGVEwokRK86Fj9uQ0kM",
+        "rating": 4,
+        "user_ratings_total": 1893,
+        "phone_number": "(718) 891-7090"
+    },
+    {
+        "name": "Nargis Cafe",
+        "address": "1655 Sheepshead Bay Rd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJdZ_Q6F1EwokR_N8wFMX7W3o",
+        "rating": 4.2,
+        "user_ratings_total": 2950,
+        "phone_number": "(718) 872-7888"
+    },
+    {
+        "name": "My House Burgers and Shakes",
+        "address": "1650 Sheepshead Bay Rd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJyUdAF2REwokRoTmU1dknGYs",
+        "rating": 4.2,
+        "user_ratings_total": 1601,
+        "phone_number": "(718) 934-0400"
+    },
+    {
+        "name": "Manhattan Beach Food & Beverage",
+        "address": "760 Oriental Blvd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJHYZMl_xFwokR1XUIqF8E21c",
+        "rating": 3.6,
+        "user_ratings_total": 11,
+        "phone_number": null
+    },
+    {
+        "name": "Signature",
+        "address": "2007 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJL4x9MmVEwokR8KZ37VNEAjc",
+        "rating": 4.2,
+        "user_ratings_total": 329,
+        "phone_number": "(718) 332-4040"
+    },
+    {
+        "name": "WISE Bar & Grill",
+        "address": "35 Neptune Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJKVsgyu1FwokRJjtJMGRb0fk",
+        "rating": 4.1,
+        "user_ratings_total": 1525,
+        "phone_number": "(929) 466-9229"
+    },
+    {
+        "name": "Kosan Asian Fusion",
+        "address": "1657 Sheepshead Bay Rd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJ2ykkbalFwokRUCVTZxlQs0Y",
+        "rating": 4.5,
+        "user_ratings_total": 144,
+        "phone_number": "(718) 872-7770"
+    },
+    {
+        "name": "Munchinette",
+        "address": "1738 Sheepshead Bay Rd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJ61qZTWREwokRRRlV6mmZ4Mc",
+        "rating": 4.7,
+        "user_ratings_total": 293,
+        "phone_number": "(718) 332-5463"
+    },
+    {
+        "name": "Perry's",
+        "address": "3482 Nostrand Ave, Brooklyn, NY 11229, USA",
+        "place_id": "ChIJQ3UnfYNEwokR8rFaOXrL4DA",
+        "rating": 4.3,
+        "user_ratings_total": 908,
+        "phone_number": "(718) 934-9800"
+    },
+    {
+        "name": "Masakari Japanese Fusion",
+        "address": "1631 Sheepshead Bay Rd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJpTlrDWREwokRHgA5iB-AsqA",
+        "rating": 4.3,
+        "user_ratings_total": 790,
+        "phone_number": "(718) 332-3899"
+    },
+    {
+        "name": "Seaport Buffet",
+        "address": "2027 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJNYTM2HpEwokRfetwZ8ARQk4",
+        "rating": 4,
+        "user_ratings_total": 2647,
+        "phone_number": "(718) 368-3388"
+    },
+    {
+        "name": "Breva",
+        "address": "3145 Brighton 4th St, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJK3nUPsBFwokRqZf1xtqZtf4",
+        "rating": 4.7,
+        "user_ratings_total": 312,
+        "phone_number": "(929) 470-4133"
+    },
+    {
+        "name": "Golden Leo",
+        "address": "1794 Sheepshead Bay Rd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJ8Zw6oWVEwokRoLjGjVlR4-k",
+        "rating": 4.5,
+        "user_ratings_total": 253,
+        "phone_number": "(718) 332-7777"
+    },
+    {
+        "name": "Loqma Cafe",
+        "address": "1509 Voorhies Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJl_eRHhFFwokR701tuKDR498",
+        "rating": 4.2,
+        "user_ratings_total": 272,
+        "phone_number": "(718) 872-7255"
+    },
+    {
+        "name": "Vanka Cafe",
+        "address": "3810 Nostrand Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJAdncnoBEwokRtpRh7EFR6mQ",
+        "rating": 4.5,
+        "user_ratings_total": 533,
+        "phone_number": "(347) 702-4023"
+    },
+    {
+        "name": "Tete-a-Tete",
+        "address": "2601 E 14th St, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJK5rdymZEwokRL7kuAxyK0OU",
+        "rating": 4.3,
+        "user_ratings_total": 1224,
+        "phone_number": "(718) 676-0783"
+    },
+    {
+        "name": "Omakase sushi by hiro",
+        "address": "1328 Sheepshead Bay Rd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJsWBSJBZFwokRG9zEnwSvRg0",
+        "rating": 4.8,
+        "user_ratings_total": 241,
+        "phone_number": "(718) 758-5888"
+    },
+    {
+        "name": "Chateau Capitaine",
+        "address": "2570 Coney Island Ave, Brooklyn, NY 11223, USA",
+        "place_id": "ChIJrZDn21dEwokR0N9Hys1N1HI",
+        "rating": 4.4,
+        "user_ratings_total": 601,
+        "phone_number": "(718) 339-2800"
+    },
+    {
+        "name": "Emmons Palace",
+        "address": "2265 Emmons Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJ2akOU3pEwokR0uWU5kuORyw",
+        "rating": 4.1,
+        "user_ratings_total": 793,
+        "phone_number": "(718) 616-1272"
+    },
+    {
+        "name": "Tenda Asian Fusion",
+        "address": "1734 Sheepshead Bay Rd, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJg5TDTWREwokRexqz63GQzZE",
+        "rating": 4.3,
+        "user_ratings_total": 482,
+        "phone_number": "(718) 368-0222"
+    },
+    {
+        "name": "Hayashi Sushi",
+        "address": "2901 Ocean Ave, Brooklyn, NY 11235, USA",
+        "place_id": "ChIJ4XeB6WJEwokR2aR2fMRp8pA",
+        "rating": 4.4,
+        "user_ratings_total": 392,
+        "phone_number": "(718) 368-3668"
+    },
+    {
+        "name": "Little Istanbul Restaurant",
+        "address": "2007 Avenue U, Brooklyn, NY 11229, USA",
+        "place_id": "ChIJt8aDXDtFwokRjEDZlZ9W0z0",
+        "rating": 4.4,
+        "user_ratings_total": 488,
+        "phone_number": "(718) 313-5755"
+    }
+]

@@ -1,0 +1,558 @@
+{
+    "name": "Art of Grill",
+    "place_id": "ChIJFY8Fzt9fwokRNHY3npt1BnE",
+    "grid": "QN6",
+    "address": "97-13 Queens Blvd, Queens, NY 11375, USA",
+    "rating": 4.6,
+    "user_ratings_total": 327,
+    "phone_number": "(718) 997-7779",
+    "reviews": [
+        {
+            "date": "16분 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMGVVc3dSV1pzY2pOTVUwbGxla1ZxTms4M00wRRAB",
+            "text": "Amazing food. Excellent service.\nReally enjoyed it"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOeVJtUjNTbmhDWTBFNGVXeHFNMFZmVTJ0S1JtYxAB",
+            "text": "The food was good,there was dj, service was very good and fast"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKcE5FMWxaVFk0YjNScFJraDZZbXRGYmpsdFRGRRAB",
+            "text": "Love the food here! And the decor is beautiful!"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSR1NGcGhRbGRJYW5Sb1YyVmxlQzF6UmtkS2FuYxAB",
+            "text": "Excellent"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wMVowWTBUbGgyWmtGNVlrd3lNWEJtVEZOR1NtYxAB",
+            "text": "So much fun, great food. Order all the skewers!"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rM1RXOXVXRlJXVURkR2FFOTJaVk5VWTFaWmNuYxAB",
+            "text": "Love the Ambiance! The DJ was such a wonderful addition. Food was delicious music was awesome! Couldn’t ask for a better evening out!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aTmVGRmFkbk4wWVdWb1VESlBORXRsWjJwNE9VRRAB",
+            "text": "Steak is #1 glatt kosher in queens, the booths you see with curtains on the pic may need reservations but i love a good dinner with private conversation, so make the reservation for tge ideal experience."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4SlExYzJSSE5sVEdWUFRHVkRURk40TjE4emVVRRAB",
+            "text": "Amazing food with great prices! If you are looking for an authentic Bukharian experience (including the vibes)  - this place is for you!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kaFRrUXlTVE5CZUdkc2FrY3RVVE5HUld0Q1ZtYxAB",
+            "text": "Veary good place recommended for bucharion food"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NdE5ITllNSHBEUVdWbFVIQm1URk5aWms5dU1IYxAB",
+            "text": "I love this place so much it’s amazing and the food is amazing"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJeGFsbGFaazVRT0VOUVNrVTBWRkIwUlc5dlIzYxAB",
+            "text": "Лагман был очень вкусный, шашлыки очень сочные! Сервис классный, менеджер Анель помогла решить все вопросы. Обязательно вернемся❤️"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205SmRtTTJUMU5HYjBGcFEwdzNUazFTZGpOUU0wRRAB",
+            "text": "Dj yoni bumping the best music all night"
+        },
+        {
+            "date": "1달 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tocVYxSm5UbXh1V1ZadWRXeE1RVzUwYlhwa2RIYxAB",
+            "text": "אוכל מעולה, שירות מצויין ואווירה טובה מאוד"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCVlUyOXRUbGRrY21oM05TMUxjalp0UnpoMFpXYxAB",
+            "text": "Beautiful atmosphere with authentic food!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taRVprazJNM1pPZGxoSFFsTjRVRFp6VjJFd1QwRRAB",
+            "text": "Great service and even better food!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsbmIzVldTRWRKTVc1RlEyaHpWbU5MT0ZkQlpXYxAB",
+            "text": "Love this restaurant, such good vibes, food is delicious, the fries, the avocado salad… delicious. Service is great, vibes are unmatched. Live music after 7 pm"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVek1tVTFVWGx3VG1kVlNIVkdaVEp1VmpaalEyYxAB",
+            "text": "Delicious food, large portions, reasonable cost.\nThe fish was perfectly cooked with yummy sides, beautifully presented."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kYVJ6UlBXVWxmZEZsdldISmFXbXcyY2prd09XYxAB",
+            "text": "Great restaurant, food was delicious and great portions."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wdVgweFBaVGcyZW5CamFVVTJhbGR1UW0xcUxXYxAB",
+            "text": "We came here for our anniversary. The food was excellent and came out at a timely fashion. The weight staff was very pleasant and courteous. The atmosphere is great we really love the decor. We definitely plan to return."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sMVlWVllOamhYZURSSVpUTnZMVGxXVTBkUFVXYxAB",
+            "text": "Great place with awesome vibes!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvNFZYcGlSVTlYUWxSdFpYUjZjRTB6Vm01ck4zYxAB",
+            "text": "Best service and yummy food with hookah and live DJ"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwdlNuWk5VV2xqWTNONk5WOHdiVFZaU0hGT1puYxAB",
+            "text": "Great vibes great food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWE9FMXZOMGR1VkhSdlUyMUJhRkZ0ZEhwdk9FRRAB",
+            "text": "Amazing food!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWcVMwVmpNRE14T0U1cU5FdDRaVXB6VmxSNVZrRRAB",
+            "text": "Great place beautiful restaurant"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poV2FsZFRiVkoxT1RWUmEwVTRTaTFyUkdOZlpIYxAB",
+            "text": "Best Music, best"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSS1lXUlRXRWxRY1hweWNGOUdOa0o1TW1JMGMxRRAB",
+            "text": "The place is amazing the vibe is right. Service is amazing plus the food wow."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWc01GQkpjSEo2UkdVMVREVjJiMkpoUjFCblZXYxAB",
+            "text": "Great vibe, music at night. “Art of grill” salad amazing! Mashgiah present and answers all questions"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOUFh6QjBja1o1YzBOSVZ6WkZNa3hGWlZSU2RtYxAB",
+            "text": "The decor is lovely and the food was great and delicious"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdGF1NDZ3RRAB",
+            "text": "Excellent food. I love the authentic Bukharin food!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CaFJEWjVSbVJqT0hRM1dYcFhRVEpoT0daNlRsRRAB",
+            "text": "Amazing food. Very reasonable prices. Awesome and unique experience! Highly recommended."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wUlUydFFjRGhWWlRoUWRtVjVRVkJrT0RGbmNrRRAB",
+            "text": "Absolutely loved our experience at Art of Grill! The staff is warm, attentive, and truly makes you feel welcome. Outstanding service that perfectly matches the great food – can’t wait to come back!❤️❤️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xVWIydHJTbE13VkZOZmMxTkZjMTluUzFkalVGRRAB",
+            "text": "Fun great food 10/10"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1M00zTnNhV3h2UkVGQmJGRm1MWEJvT0VkNVdrRRAB",
+            "text": "Very fun restaurant. Great food. Can be quite loud."
+        },
+        {
+            "date": "2달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGZllrTnZUa00xV2pCM1kwbElhVmN6WTJVNVZtYxAB",
+            "text": "Хочешь хорошенько пожрать и бухать? приезжайте сюда! Просто класс, ресторан сделан для гопников 😎."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oaFVWZ3liM2RXT0V4a1VGSXlVRVpEWkVWa00wRRAB",
+            "text": "Awesome loved every moment"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BeFdHMVZXbTlITm5Jd1VscGliV2QxVURjM2JXYxAB",
+            "text": "Really delicious! I've never had plov before, but I definitely want to have it again! The art of Grill salad is also fantastic"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sWlJYWlNXVmRsWkZkRk4yTTFORmw2TVhSbU4yYxAB",
+            "text": "Very beautiful atmosphere, central Asian style and courteous staff, clean , warm hospitality and beautifully served dishes and salads and delicious food… do recommend this place to everyone"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOaU56Y3RSSEJ5T1hKdVUyTjJOVEF6Wlhvd2NVRRAB",
+            "text": "This is a great restaurant in Queens, with a cozy atmosphere and delicious food. The staff is polite, the service is fast, and the ambiance is pleasant. Our server Khamid was very attentive and friendly.\nHighly recommended!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkYVZ6QlZjazlhVEVSWGRuTk1SRVJEV1ZSeVJWRRAB",
+            "text": "Great food, great vibes!!!😊"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsM2FYTkJaMGRqWTFOS2RWOWxRbkJmZWpCQ05XYxAB",
+            "text": "Great place and fresh"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkU1IzUjBRMlUwTUZkWVUwMW1VbTlKVldWRFUyYxAB",
+            "text": "Delicious food. Amazing service. Good price for kosher steakhouse."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1R2MxUklObTVqVm5ndFNGWlZWbFZCVGtVMlQwRRAB",
+            "text": "We ordered a few things. The lamb was flavorful and perfectly cooked and The plov was delicious. The service was pleasant and attentive. Great ambiance with dj and cool decor. Definitely would\nLove to come here again!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVk1qbFpNV05tU3kxUlRYcDZYekY0Y2xWV1VrRRAB",
+            "text": "The tastiest food anywhere. Most wonderful meat dishes. We loved it."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsbVYwZGlUM0pzUW5jNVFtaHlaakJXVDJVd04zYxAB",
+            "text": "Very good place with lots of yummy options"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWk4wSkRjazlJZW1sQlVUSXdSelpEV2xGcVkyYxAB",
+            "text": "The service is amazing and the music is fire. I would highly recommend 🔥"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twTWIxaFFMVU5FUm1KU2JEYzRhVll4Ynprd1VHYxAB",
+            "text": "Very nice ambiance delicious food"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5cVZUY3RZWGxCYkVwME1sWmZWRU5tVmtsUFNGRRAB",
+            "text": "The food was amazing.I would come back. I recommend this place."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGSE5sUjNjbGxhUW1sdFkzUm1YelZhYVRaWlFVRRAB",
+            "text": "Amazing food and service! Highly recommend"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SeVpXZzNWMHQ1UVMxTldFODFWMEpmTFdkZk4zYxAB",
+            "text": "Food was amazing !"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Wbk4zYzNNaTFzY0RSTVJXOVhjRUpVV1RscU1uYxAB",
+            "text": "Absolutely beautiful and delicious place with great service. Will definitely come back"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVFRsa3hURXByYlVjMWRXc3hTWFZsWW1oQlJYYxAB",
+            "text": "Delicious and reasonably priced. Beautiful silk road style design.  The meat in the soup was so tender and the dumplings were outstanding.  Bukharian food, with grilled meats and sushi options.  Kosher."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3aTRTNXNBRRAB",
+            "text": "Straight-up fire! The moment you walk in, you catch the vibe, super chill, super welcoming. The staff isn’t just polite, they actually look like they love what they do, always smiling and making you feel at home.\nService is fast as hell, but not in a rushed way. Even when it’s packed, they keep things moving without making you wait forever. The lagman is next lever, just perfect. The meat is always fresh, and if you’re picky, they’ll make sure you get exactly what you want. Also every night there’s a DJ, so the atmosphere is always on point. If you’re looking for a spot with fire food, good vibes, and a place to just chill and enjoy, this is the spot."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzbTdXTktnEAE",
+            "text": "Yes, it's Kosher, and it was an amazing experience. The food was absolutely delicious—everything from the tender steak to the juicy kebabs.\nThe portions were generous, and the prices were very reasonable for the quality. The staff was super friendly and made me feel right at home. The atmosphere was warm and welcoming, making it a perfect spot for a casual meal. I can definitely see why this place gets such great reviews, and I’ll be coming back for sure! Highly recommend it to anyone craving authentic food."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQQ3R2ZENudHZubW9nRRAB",
+            "text": "This place is the best! We had a party for my friend here before he got married, the food was amazing and I made a special order for them to bring out a beautiful dessert platter. They brought it out with fireworks and the DJ hyped the place up. Excellent service, excellent vibes, excellent food. Great experience I would recommend to everyone!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtNHItY0FREAE",
+            "text": "Was just there celebrating a birthday. Food was awesome.The ambiance, the decor  was great. Burger is a must try, mix grill was yum. Everything we tried was good. Thank you for an awesome night."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPenR5T0JBEAE",
+            "text": "I went to Art of Grill with my wife earlier today for the first time and wow! I'm impressed! It was very aesthetically pleasing - I especially love when a restaurant matches its food theme to its decor. I was so impressed with the way this place looked, that I did have a thought in the back of my mind that the food would not match up.\nBut thankfully I was wrong! We didn't order much, but whatever we did get was so good. The food was fresh, but more importantly tasted great.\nWe ordered 2 soups (lagman and shurpa), garden salad, Lola kabob and bone in chicken (they had run out of meat sticks 😔), French fries with garlic, manti, and half a leposhka.\n\nFood highlights: bread was fresh and warm, a perfect combo of soft inside and crispy outside.\nFrench fries had the garlic mixed into it which I really appreciated. I don't like when restaurants just plop some crushed garlic right on top, so this to me is going the extra mile! The two skewers came with grilled veggies and the tomato was fantastic! I'm not a big fan of the Shurpa soup, but my wife really enjoyed it. I enjoyed the lagman as it was delicious and generously portioned.\n\nThere was also a saxophone player for a little bit which was a nice added touch.\nI definitely will be visiting again very shortly!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210SFJYQkJhVWs0VVhrd1EwNVJOVkJsY0ZGa1NVRRAB",
+            "text": "The best place. Best experience ever lol"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twNVVqZG1UR2hWTFZWWFduUXlVWGxIYVVjNFZrRRAB",
+            "text": "Came with my elderly parents and spouse. The service and staff were especially attentive. The food was delectable. Highly recommended."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kRFJHSlBhMVZ2ZUU1c09UWldOemN5WVRCTlpYYxAB",
+            "text": "One of the best Kosher restaurants in the area amongst many Art of Grill stands out to me for their quality and variety.  So far everything we have tried here from the Samsa, plov, salads, chicken dishes have been exceptional.  Highly recommend trying this restaurant out.  They also have a very nice lunch and wrap special we order often.  Great place."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPcElpMTd3RRAB",
+            "text": "This kosher (under VHQ) restaurant is an upscale, white tablecloth place. It describes its cuisine as Central Asian and Mediterranean cuisine.\n\nThe dishes served are similar to many of the Bukurian restaurants in the area. They focus on samsas, kebabs and other heavy meat meals. There are some fish dishes but that doesn't seem to be its main focus. It's not a place to go if you are not very hungry, but if you are, the food is great. Service is also very good. The staff does a good job of explaining the various dishes on the menu.\n\nThe decor here is amazing, similar I imagine,to a Central Asian tent. There are elaborate rugs and other decorations. The restaurant has recorded and has live music .  A visit to Art of Grill is a unique experience and is highly recommended."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtbG8tMTdnRRAB",
+            "text": "I was in the neighborhood today and I stumbled upon an amazing authentic central Asian  glatt kosher restaurant.\nThis place has the true essence of the silk road implementing various cuisine’s…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4cEt1SlZBEAE",
+            "text": "Amazing Bukharian food that heals your soul. I had a beef borscht, godfather burger and fries. Service is great as the waiters know that not every newcomer knows what every dish is. The atmosphere is filled Bukharian fabrics, designs music and more."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJenVqaHZRRRAB",
+            "text": "Amazing food!\nGood service\nPrice is more than fair, you get big portions for cheap prices.\n\nFor me, the down side of it is the music. It’s very loud music, I can understand that it’s the place vibe but for me it really ruined it. We couldn’t hear each other across the table"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBemJxaDZRRRAB",
+            "text": "I love this place. Incredible atmosphere! The music was hit after hit! Thankfully, they have space to dance. The food was fresh and perfectly cooked. Great place for a large party, but they also have intimate booths for a private date night. Highly recommended!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwNU5VaEZXbUZzWVhOV2FrbDNkRGROZGtaek1YYxAB",
+            "text": "Impeccably attractive, super fresh food at a reasonable cost.  The herring melts in your mouth and everything is superbly flavored.  We will be back for more."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZd1ZWaDNkVXA2YmpsYVVGQnFRemh1YVdjMVZuYxAB",
+            "text": "Delicious food! Loved the herring, sea bass, and manti. Presentation is good and service is friendly."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKNExmcTV3RRAB",
+            "text": "I recently had the opportunity to dine at Art of Grill, a Bukharian restaurant that offers an authentic culinary experience. Before delving into my review, I must acknowledge that cultural differences may influence one's perception of this establishment, as it adheres to Bukharin cultural norms. Keep in mind that my review might not reflect how others perceive the restaurant.\n\nLet's start with the food, which I found to be absolutely fantastic. The dishes were incredibly authentic, delicious, and prepared with fresh ingredients. From the first bite to the last, I was impressed by the quality and flavors of the cuisine. I would rate the food a perfect 10 out of 10.\n\nHowever, there was one aspect of my dining experience that bothered me, as well as many other patrons—the choice to hire a DJ. Unfortunately, the music played by the DJ far exceeded an acceptable noise level for a restaurant. Numerous patrons requested the DJ to lower the volume, but he would argue with them, claiming that the music wasn't too loud. This constant back-and-forth made it difficult to relax and enjoy the meal. The music was painfully loud, to the point of hurting our eardrums. I personally approached the DJ and politely asked him to turn it down, but his response was far from satisfactory. He asked me how much he would be paid to do so, which is not the kind of reply one expects from a professional in a restaurant setting. Throughout the evening, the patrons had to lower the volume themselves around 15 times while the DJ was absent, only to have it raised back to an unbearable level upon his return.\n\nAnother incident that troubled me was the presence of hookah smoke inside the restaurant, especially with children around. Although I'm not intimately familiar with New York City laws, I'm almost certain that smoking hookah indoors is prohibited in restaurants. However, Art of Grill allowed it, which was both surprising and disappointing.\n\nFor these reasons, I regretfully have to give Art of Grill a poor score. Despite the excellent food, the overall dining experience was marred by the constant battle with the DJ over the music volume and the disregard for the rules concerning hookah smoke. It was a challenging task to truly enjoy ourselves at the restaurant. I hope that the management takes these concerns into account and addresses them to ensure a more pleasant atmosphere for future patrons."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaX3RTT3NRRRAB",
+            "text": "Delicious, fresh meats, good hooka, very hospitable owner, and great vibes. They play music worth a live singer for you and your family to dance to"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfaW9YWURREAE",
+            "text": "We went here for the first time last night.  The restaurant set up allows for privacy at the table. You do not feel crowded or that other people can listen in on your conversation. The food was delicious.  Portions were large. Tender meat full of flavor.  We had the mezze platter as an appetizer – I couldn’t get enough of the cucumber dip – light and refreshing.  The bread was amazing.   Our steaks were cooked to perfection.  Definitely going back and trying the lunch menu."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vMFdURjNNRGxvZWtkTVMyZDJPVlpoYXpkM1dtYxAB",
+            "text": "The place smelled bad the second we walked in. Food was disgusting – no taste, poorly cooked, and felt old. Service was beyond rude and careless. I wouldn’t come back here even if it was free. Stay away"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPaE1IRDFBRRAB",
+            "text": "Several things: fresh & delicious food but very expensive, slow service, no need for the saxophonist to blow at your ear and automatically add 20% gratuity to the bill?? Not worth the money. We got their chicken & beef kebabs. Honestly, for the area, there are similar restaurants for much less. First & last time!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3anJLRkFREAE",
+            "text": "This is my daily stop to grab a bite. Waiters are absolute legends, and the steak is to die for. overall great experience. But if you want to make your day special, come in the evening when the DJ takes over the entertainment."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3N00tdmx3RRAB",
+            "text": "I wanted to celebrate my girlfriend's birthday by sitting at a private curtained table but they wouldn't allow us to because they said it was reserved even though we were the only ones in the restaurant during our dining... The soggy fries were  decent but seasoned well."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5WWFrUnRNbTlQVVRJelVXSmxOSE5vYjFReFZIYxAB",
+            "text": "Me and my family love this place, food is great, service is always welcoming! בטאון😊"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoc2FfdVdBEAE",
+            "text": "If you're in the mood for exceptional food and a lively atmosphere in Queens, look no further than Art of Grill. This restaurant truly lives up to its name, with expertly grilled meats and a menu full of creative dishes that will tantalize your taste buds.\nBut what really sets Art of Grill apart is the fantastic ambiance. The lively atmosphere is enhanced by the skilled saxophone player, who provides the perfect soundtrack to your meal. You'll find the service is also impeccable, with a friendly and attentive staff who are happy to make recommendations and ensure you have a great dining experience.\nAll in all, Art of Grill is an exceptional dining destination. Whether you're in the mood for a romantic night out or a fun evening with friends, you won't be disappointed by the fantastic food, great mood, and lively entertainment. Don't miss out on this gem in Queens!\n\nBest part it’s byob!!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtMWRtMjN3RRAB",
+            "text": "Awesome service excellent food\nVhq!\nBronzino out of this world\nSamsa (not pictured) delicious\nPlof we ate and then pictured\nThe lamb Shashlik was a home run!\nThis is my new spot"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJenBTbFlREAE",
+            "text": "A friend had a birthday party here. the staff were very helpful and the music was great (a bit louder than I prefer) really nice vibes."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmeG8td3F3RRAB",
+            "text": "Good food great service and good prices"
+        }
+    ],
+    "reviews_count": 78
+}

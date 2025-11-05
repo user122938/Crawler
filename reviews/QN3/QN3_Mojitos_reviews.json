@@ -1,0 +1,656 @@
+{
+    "name": "Mojitos",
+    "place_id": "ChIJJ1gMKadfwokRZHzqWJeEf0I",
+    "grid": "QN3",
+    "address": "81-01 Northern Blvd, Jackson Heights, NY 11372, USA",
+    "rating": 4.8,
+    "user_ratings_total": 2053,
+    "phone_number": "(718) 350-9861",
+    "reviews": [
+        {
+            "date": "수정일: 2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toR09XaHlaa1l4WVVsWWJ6UXpVRTVpYUZGSFFYYxAB",
+            "text": "Special thanks to server sebastian he great\nAttention and his courtesy and the bar tender for the great drinks\nThe food was amazing and delicious\nexelent ambience loved it.\nWill definitely try this again."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5UVFXUmpRa05TV1djMWF6SkhXbk51T1dZMVZFRRAB",
+            "text": "Jorge and Jean Paul were amazing , best service in the area hands down."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paelNUaEpSVXN3UVRSRFJHTXlZMlpsUVVWeFFrRRAB",
+            "text": "Jorge was the best ! Jean Paul best bartender EVER!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wMmJVVXdURTVUWjIxRk0wNU9XRVZTYjFkTmJtYxAB",
+            "text": "Food was amazing and Jorge was amazing ! Jean Paul was the best bartender !! Definitely a good vibe :)."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRFpHTmFUVU10WjNCbWJVbFZNMGw0VGpGUE0xRRAB",
+            "text": "So good, totally worth it!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21obE1IUXdOM3BqY3pJelpreDFVRmN6UlcxaWVWRRAB",
+            "text": "My wife and family stumbled upon this beautiful restaurant and we immediately went in . We was greeted by a nice guy named Sebastian who guided us through the menu and everything we order was amazing!!!\nDefinitely try the passion fruit mojito it’s amazing !! We’ll be back soon !!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sd2QxQnhOV3RITmpkTlR6TlpTRFJoTTJ0RFUzYxAB",
+            "text": "Food was delicious, the guac with chicharrón is amazing, the churrasco was seasoned well and the drinks were on point. Santiago helped guided us towards the best selections and his vibe is everything. Will definitely be coming back!"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOM2VXcE9PVkpVTkZkUllrdDRVbW95ZDFadVRHYxAB",
+            "text": "Servicio siempre es bueno. La comida vien rica y la atención al consumidor siempre excelente. Recomiendo siempre y Sebastian también tan amable como siempre"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVM2JEZEJjMms1WW5wVk1qVnNkMm96Y2sxa1QxRRAB",
+            "text": "Sebastian siempre nos atiende. Fue tan amable!! Siempre regresamos por la atención que nos dan aquí"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sMVlURnZhVGt3YW5jNFFYTTFUbFZVWXpWaFRWRRAB",
+            "text": "Que gran lugar !!! Del tiempo que tengo en NY es la primera vez que lo visito y me encantó. Gracias al mesero por su hospitalidad y a la Hoster a la chica de la entrada por ser tan amable, querida y empatica. Volveré 💕"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWM2NuUjVOV3BVYjA5SU1EUTRTVlI2YWpCbVNsRRAB",
+            "text": "I had two amazing waiters, Sebastian and John Paul 😍 all I can say is amazing and food was more than expected. Service A1 lo\nMaximo I will definitely recommend to my friends this place 💜"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoRlgyMW5ibko1VEZCV05VSk5WazFLU2xCM2EzYxAB",
+            "text": "I had such a great time at Mojitos. The food was delicious, the music created the perfect vibe, and the service was top-notch. Janpol was friendly, attentive, and made sure we had everything we needed. Definitely one of the best dining experiences I’ve had in a while."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkaWVtNHRabVYzWkRSblRUVlZWa05uTWxjNGFWRRAB",
+            "text": "Buenisima atencion, y la comida también. Hay muy pocos restaurantes que te ofrecen algo extra para una atención especial y ellos siguen teniendo esa atención y amabilidad. Sebastián excelente trabajo!!! La margarita strawberry especial estaba deliciosa"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pocE1HOU1jMWxvUVhVdE5USk9XbFl3U21Vd1pYYxAB",
+            "text": "Excellent place with delicious food!! Sebastian was very accommodating and provided great customer service!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZM09XaEZkMUkzWDA1S2NqUjVVa1ZVVm5odmJFRRAB",
+            "text": "Sebastian was amazing !! La comida estuvo muy buena y el servicio muy muy bueno también !!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOQ1RGcEhhVWhFV0dsa2JUVm1UM1ZtTkVoYWJHYxAB",
+            "text": "Delicious steak & vibes - Sebastian is the best"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210R1VtNWZiR3hVTFZOTGJUVndSVVZNV1U1R1IxRRAB",
+            "text": "La comida y el ambiente estuvieron espectacular. Francisco y Katherine hicieron que el servicio y las bebidas cumplieran todas las expectativas. Súper recomendados"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkaVRXdFZMVFYyTkhaT01HcEhWSFZhTms5UlVHYxAB",
+            "text": "Santiago was amazing. Thank you."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxbU9XSnVNVTloVEcwelRHOVpZV3N3ZG5aQlgxRRAB",
+            "text": "Muy agradecido con el amigo santiago. Muy buena atención y siempre está atento"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsRFNrSjBiVzE1ZUd4VFkydDRhV3RqYmtGRFpuYxAB",
+            "text": "Santiago en el Servicio muy excellente"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21STk1VWTNNRFp3VTFKMlNHdHdNMll3UzNsbGNGRRAB",
+            "text": "Santiago en el servicio muy excelente"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4SVkxVktVeko0WjNCSWJsbHFTMkl5TFdoSFdYYxAB",
+            "text": "Recomiendo que vengan a comer a este jugar, no se van arrepentir. Jeann Paoll da muy bueno servicio, me encantó aquí!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sbGIybDBhMnRTUkhFM01WUldhbXA1VHkxTmFYYxAB",
+            "text": "Been coming here for the past couple of years.  Never disappointed with the food or drinks.  Service is good , friendly staff. Jeann paoll great bartender and staff.  No complaints!"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVVdXbzNhRFF5VFhCc2VFOVJRelY1V0d4bWJXYxAB",
+            "text": "He venido varias veces, primera vez que me encantó. Creo que tiene que ver con el servicio hoy, Jean Paul fue excelente. Volveré de nuevo."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxb1IzQllhM2xqTW5OWlQwOVBiVWxDUkRWdFEyYxAB",
+            "text": "as always,  the moment from 2 minutes to 3 or 4 or 5hrs.... well, amazing time to spend in here, so caring people, all the crew knows how to make us feel that we are feeling the vibe, the vibe of The Mojito!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twaFJFZDRSa3MzTmpKVGQzcHRiWGxLYTJ4aFNsRRAB",
+            "text": "Sebastian was an amazing waiter. Great hospitality"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sd1gwcHdjRE5IT0hkNlZUQXdhVXAzVTFsTVdYYxAB",
+            "text": "Sebastian amazing  omg best food ever"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aR1VrdGZNM1pHUlVOdVMyRTNZV3gzTW10b1kxRRAB",
+            "text": "Muy buen servicio el de Jorge y Santiago, ellos fueron muy amables. Sobre todo Sebastian  que nos atendió al inicio y nos dio opciones para quedarnos, apesar que el local estaba lleno. Les recomiendo el restaurante. Buena atención y la comida deliciosa y ni hablar de los tragos. 10/10"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJMVoyTjJhWFJRVkV0bFp6WkphRTlIYkdORVRsRRAB",
+            "text": "La atención de Jorge,santiago y Sebastián espectacular buena calidad de personas muy amables 100% recomendado el lugar ☺️"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oblRqVlBTMWQzZFZNMFdEWjRiRkprT0RRNVZVRRAB",
+            "text": "Santiago, Jorge y Sebastian, su atención estuvo bien, excelente servicio, la comida estuvo muy buena, les recomiendo el restaurante ☺️"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GNllYQnlSVkZCY1hjMmNWaEdaVGswVEdST01FRRAB",
+            "text": "Sebastián fue muy atento y respetuoso con nosotras"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscldrcG9NbEZtYTJOdllqaFBlRGhmY2xCd00xRRAB",
+            "text": "Sebastian the waiter ever. Very attentive and super nice. I give this restaurant a 5 star rating"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWbVZETnhZMlF5VkV0MlZtOVFiSGRVVjBSUU9XYxAB",
+            "text": "Sebastian y Jorge nos atendieron muy bien el servicio la comida y las bebidas todo 10 de 10 el precio estuvo bien para dos personas 👍"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oRFRscEVYM0IzWTJObk0wTmFURkJ0UjFCWmRtYxAB",
+            "text": "La comida es muy rica la atención genial"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KQ01sRXdabmR1TURWb1UxQmFNRU52TVdScE5XYxAB",
+            "text": "Jorge, Sebastián y Eddie nos hicieron pasar una noche inolvidable, primera vez en mojitos y la pasamos de lo mejor.."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pseFoyUkZXREp3TUMxeU0xRlhTVnBpUjNCSkxWRRAB",
+            "text": "Muy buena atención, Sebastián presta un gran servicio"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVU9XRlVjeTFxUlhoRk0ycHdZbE14ZFMwdE1rRRAB",
+            "text": "Sebastian the manager gave us the most amazing service. It was ouur first time. All staff is amazing. The mágican is amazing too. Love it will come back."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrM1pYaExZVmhzYVc5UE5reFVhRmh5YTNvMGNFRRAB",
+            "text": "Food was amazing! The manager Sebastian is awesome! Overall, great place."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWMlJGaFZkMjh5ZFdJMVRXdExNRWxKT1U5d1VHYxAB",
+            "text": "Muy buen experiencia"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WeVRXdG5Ta3RMVUU5bVlUbGtkMTg1YlRabFMwRRAB",
+            "text": "Excelente servicio"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210cU5uQjNWakl0VlhkdGR5MTFNamxuYUdaRE5HYxAB",
+            "text": "Excelente servicio. Sebastián muy bien empleado muchas gracias!! Muy buena comida"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaNWVIQktlVkl6T1ZoVVZGOTJjbFJYY0dOZlZVRRAB",
+            "text": "Desgraciadamente no era lo que esperaba el lugar buena decoración pero la comida terrible el plato estaba más caliente que la comida y los plátanos estaban quemados y carne 🥩 super mal parecía que no sacaron de una lata muy decepcionada aparte que espantamos más de 30 min por los aperitivos y casi una hora para la comida para revivir eso no era justo y se cobraron 18% de propina sin dar un buen servicio y la comida pésimas"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205SFRIZEhjMEZRZEZWaVJ6bHBSVGg1ZDJkQlUxRRAB",
+            "text": "Excelente servicio de parte de Santiago la comida súper rica 100% recomendable"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SFNVbFFSVTU1VTJKUlNHMURUa1JrU1RKd1gwRRAB",
+            "text": "One of the best restaurants overall , great customer service ! Amazing food ! And a great vibe . big thanks to Sebastian the manager . You made my friend6 birthday so special ."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xWVNHMU5RbWhDVEc5b2FISllVM053U25CUVoxRRAB",
+            "text": "The food is delicious and the waitress Jorge was very impressed good service wow wow I celebrate my birthday oct 17"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kWmVGWnlhakl0ZDFRNVIwdzBSRFZTTUZkTVRsRRAB",
+            "text": "Great experience. We celebrated my friend’s birthday. Jorge did an amazing job attending our table. 100% recommend it."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJM09XWmhSbVphYm01TWFGWkpZbXRCU2toQlVuYxAB",
+            "text": "Gracias a Jorge que nos dio un excelnete servicio! El Tiki mojito un exito."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGM2RFdGxhVGxXWDBObFgwVmFWMWxsU0dwbmMwRRAB",
+            "text": "Jorge was a great waiter and the food and drinks were crazy good 10/10 would recommend making a stop here for sure!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SNllucE1OVVZqTXpKQ00xQnpiWHBqT1dsQ1UyYxAB",
+            "text": "Atmosphere here is great for a date night or casual lunch. Came here for a lunch date with friends and had a great meal. Jorge was our waiter. He was friendly and attentive to our table."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSM2FucFlNRzgzWkZsdGVXWm1UVmQ2ZVhGdU5YYxAB",
+            "text": "Great service and location"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214M1VsQkxlRVJJTlVsQlVXY3RaRVYyV25WSFprRRAB",
+            "text": "This is the restaurant in our neighborhood.  Came here with my husband and daughter for the first time. The place is nice and they have just put up the Halloween decorations. Our server Francisco was very attentive, and as well his colleagues Sebastian, and Kathleen.  They came to check on us often to make sure everything was okay. Food was excellent and tasty, especially the Cevichito al Limon. We ordered Picada (this dish is huge) and Nacho to share. For the main course, we had Bandeja Paisa Mojitos, and Penne alla vodka with shrimp. Everything was delicious!\nWe definitely will come back again and will bring our family and friends."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGU2RFSkJaVmROZFRacFMxSmZOMEpRY21Od1NYYxAB",
+            "text": "Food was amazing!!!! Drinks were good as well. Place was very cute, very nice atmosphere, they have a magician there that comes to the table to entertain which was actual pretty cool...small but cozy cute spot. The Service was annoying, had to ask the waiter 5x for everything. He seemed very overwhelmed in such a small place . Overall place was great and we will be back."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4eE9UQk9OVlYyWjFKWU9WaHBPSE5VTUdseGNVRRAB",
+            "text": "I had an amazing experience at Mojito! From the moment I walked in, the atmosphere was inviting and vibrant. Our server, Sebastian, was incredibly friendly, attentive, and made sure everything was perfect throughout our visit.\nI ordered the Mojarra Frita, and it was beyond delicious — perfectly crispy on the outside, tender and flavorful on the inside. I also tried their lychee mojito, and wow — easily one of the best cocktails I’ve ever had. Refreshing, well-balanced, and absolutely delicious.\nI highly recommend this place if you’re looking for great food, amazing drinks, and top-notch service. I’ll definitely be coming back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1WWFVeENjWHBTUzNsbldWaFpXV2Q0YTBveE9IYxAB",
+            "text": "Mojitos Restaurant Bar is one of those places that makes you forget you’re still in Queens — it feels like a mini vacation. ✨ The food is consistently delicious (I still think about their beef ribs and stuffed red snapper), and the drinks are unbeatable. With over 25 mojito flavors, there’s always something new to try.\n\nThe staff is friendly, the music is lively, and the energy is always high — perfect for birthdays, group dinners, or just a fun night out. Prices are fair for the quality and portions, and you really get a full experience, not just a meal.\n\nIf you’re looking for great food, strong cocktails, and a place that knows how to set the vibe, Mojitos should be at the top of your list. 🌟"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KWFZITnlZWFJNVjNCM2VYQjVWazlDYUVWb1VGRRAB",
+            "text": "Had such a great experience at Mojitos Bar Restaurant! The food and drinks were absolutely amazing, and the atmosphere was perfect. The staff made us feel so welcome, and a special shoutout to Jessica who was fantastic in coordinating our visit. Highly recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOTVFrTTBYM04wUkhJM2JUVkNUVXhTYzNKU05GRRAB",
+            "text": "First time visit and eating at this establishment and I am very impressed and absolutely loved the food. It was so delicious. My passion fruit margarita also tasted so good!\n\nEddie the Magician was a nice touch! Amazing entertainment"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVeWJ6aFJVMU01Tm1abWVraG5SMjVKTWpSMVYwRRAB",
+            "text": "I tried the steak with cassava and it was so delicious. Well done, juicy and easy to cut. At that moment I didn’t drink alcohol. But have a nice variety.\n\nThe restaurant concept is a fusion of different foods. Focused in Spanish foods. Absolutely recommend.\n\nMenu is digitally, you can access to it through the QR code provided."
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aNlYwVjBPRk5yYTJvNWVsRXdlSE0wYVdkSVVGRRAB",
+            "text": "El mejor mojito del área, rico y bien presentado. Los calamares frescos y abundantes, la comida muy sabrosa. La atención excelente, amigables desde la chica de la puerta la hosted hasta el mesero y barra, gracias Jorge, Francisco y Sebastiá por la atención y por excelente servicio. Si están por el área no duden en venir a este lugar"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGcE5EVTJjRzlOTkhWT1drWkNOVzFuTFRobFdGRRAB",
+            "text": "The calamari and nachos were 10/10 and the passion fruit mojito and margarita were amazing. Santiago's service was very good and he gave us blackberry shots on the house that were great. We will definitely be returning!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKUGVYUnFWR0ZpT1VOWmVXeG1kMmQzVVVWM1NXYxAB",
+            "text": "Francisco was really thoughtful and attentive in the service.\n\nEveryone including the other staff was really nice and very attentive.\n\nFood was delicious.\n\nFun vibes"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213MllYVktWSEV6VlZSdFRIcHdjWGxPV21oWVEwRRAB",
+            "text": "Came here today on a rainy wet wednesday afternoon..had this place in mind to try and glad i did.\nSebastian our waiter/bartender (he was doing it all) was great! Food was very good and drinks fantastic! Will be back soon to check out the vibe on a friday night and brunch on a saturday."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkSk1rdzFaemhCZEVZd01ubHBka1I0T1UxSldGRRAB",
+            "text": "Everything was 5 star. Do spend your money and taste buds wisely at Mojitos. Ask for Sebastian he will take care of you, no doubt. Try the coconut/passion fruit fusion mojitos.\nThe food is well portion and tastes better than others' Latin fusion restaurants around, including Astoria and Forest Hills, and I have dined in lots of them."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oMmFVOUJjRmxJVkhoTWJtMVplSGcyZEROUFgxRRAB",
+            "text": "Mojitos had very attentive service and delicious food. Sebastian and Jorge took great care of our group during their happy hour."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OMmExaDNUa05wWm5KSFNHSmlVamRMUlRkbFYyYxAB",
+            "text": "Service is awesome. Very respectful.  Enjoyed eating outside. Chose this location at the last minute. Happy i did. Worth another trip here. The watermelon mojito and the virgin Pina colada are great."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBM2RqRmxNVEprZFUxa05rdHplSFZoZVhoR1dWRRAB",
+            "text": "This place is soooo beautiful & Sebastian was great!!! Super accommodating and very friendly friendly!!!? I will. Dedicated  Ve coming back!! Presentation is a plus!! My mother in law was so happy for her birthday dinner. ⭐️ ⭐️⭐️⭐️⭐️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFMWRGUjNlVUpXWmpReGNUQjVheTFCYW1oNGRrRRAB",
+            "text": "Stumbled upon this great place as I continue celebrating my birthday this week. Me and my husband started off with the chicken empanadas they were so flavorful and the three dipping sauces they give you with them were so delicious. I normally never drink mojitos but I'm so glad I decided to because the frozen coconut mojito was so good and then I had the frozen blackberry mojito which is now my absolute favorite. Now for our entrees. I had the Bandeja Paisa, the skirt steak was charred grilled to perfection and the beans so flavorful which made the fluffy white rice taste even better, the chorizo had the perfect amount of spice and the chicharron was crunchy and delicious. My husband had the Mojito burger and he which was flavorful and grilled to perfection. Our server Sebastian was an absolute delight, so welcoming and so nice. He definitely knows his way around making delicious cocktails. He was very attentive and made our dining experience a pure delight. He was so sweet. We definitely will return and hope Sebastian is there when we do. A must go place for delicious food and drinks."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMT0tzNUhLc1BpRndnRRAB",
+            "text": "I love Mojitos!! From the drinks to the fresh food, everything is delicious. I loooove the complimentary magic show! Also, Natalia and Sebastian provided amazing service! Very hospitable and friendly. We even got shots on the house!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3a0tMbjhBRRAB",
+            "text": "Let me start off by saying hands down this restaurant is a must have, must go to, must try !!! We celebrated my mothers birthday, the staff was more than welcoming and comforting, the food was presented fashionable, the drinks were tasty, the music was on point, the vibe of this restaurant is just everything you could ask for and more. The restaurant staff had happy birthday balloons on the table before we could be seated, helped us pick out different foods based on their recommendations. The dessert was delicious, the best churros I've ever bet had. I know that my family and I will come back to this restaurant more frequently. And after our dinner they even had a magician come and preform a show for our family at the table. I left tonight feeling like I was treated by family. I have only good things to say and wish you all could try it and see what I've experienced with my family. Love this place, love the stuff, thank you for such an amazing night !!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OSk9GSklMVzQzZGpCTFpHbFNNRXRSZUMwNU9FRRAB",
+            "text": "I had an amazing time at this establishment, we originally had a 7pm reservation but with the constant rain we arrived an hour later and were still seated without a problem. Our server Sebastian was very pleasant and assisted with any questions we had regarding drinks & food. Towards the end of our meal he came out with birthday desserts on the house, as well as a round of shots that were so good! Overall we had a great experience and would definitely go back and recommend this place to friends & family."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0eVpuVmFjblp0TkdKSU5raHROa1o2ZEU4ME1XYxAB",
+            "text": "La comida estuvo deliciosa, cada plato con un sabor único y muy bien preparado. Se nota la calidad y el cariño con el que cocinan. Además, quiero agradecer especialmente a Kathy por su maravillosa atención: siempre atenta, amable y con una sonrisa que hace que la experiencia sea aún mejor. ¡Definitivamente un lugar al que volveré y recomendaré!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sd2IxQlpkV0kzVlhCeWRuaFhWMjlVVTFSMFZGRRAB",
+            "text": "Sebastian was our server and he was such a delight! It’s an aesthetically pleasing spot so my friends and I decided to grab a drink. We ended up getting food which was great, the Chaufa mixto was definitely the best dish. Will come back again 🥰"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnekxMVWRBEAE",
+            "text": "The service here is great and the food was amazing. Although I had to wait a while for the fish to come out, it was worthwhile! My partner and I were one of their last customers and they did not try to rush us out which I truly appreciate. At the end, our waiter gave us complementary shots."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLWG85N20wbGFIYzh3RRAB",
+            "text": "Awesome customer service and tasty food! The shots were so good, and the waiters kept the vibe super friendly. Honestly, one of the best restaurant experiences I’ve had! Worth every penny!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KNVVrazNRemR5VEc1dWEyc3dhVGt0UTBGVlVtYxAB",
+            "text": "The food was amazing! Sebastian and Kate were our servers and they were very polite. I highly recommend coming here for food and drinks :)"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJZ0lfRTNnRRAB",
+            "text": "Natalia was excellent! Was very knowledgeable and helpful with choosing menu options . Kathy made our drinks were exceptional. Definitely will be coming back"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SeWFIVkRVbTVPZVVoRlEyUjVYMloyYVhob1pHYxAB",
+            "text": "Came here for Saturday night dinner and got the tamarind margarita, friend got the mango marg— very good both for $12 each. We got the seafood pineapple which was big enough for both of us filled with seafood and was basically paella with pineapple. Nice music playing and fun ambiance with amazing Halloween deco. Santiago was very nice and attentive! Also some birthday celebrations going on very fun!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzNS1iNEVBEAE",
+            "text": "The restaurant are great service! The food is so delicious and best! Sebastian gives us a free shot by 3 times even that is unexpected for real during we are deaf and waitress are patient with us when we tried communicating with them. There are smooth communication and everything really GREAT! Sebastian is a great service and he also checked on us to make sure that we are good!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVGRXUTBlRWxzY0hWdVJucENNWEp5UkZreFoyYxAB",
+            "text": "I had an amazing experience at Mojitos! The atmosphere was vibrant, the food was delicious, and the drinks were perfectly made. Our server, Janpol, went above and beyond to make sure everything was perfect. He was attentive, friendly, and gave us great recommendations. I will definitely come back and highly recommend this place to anyone looking for a great time."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GMGMyeHJibmhTYlZSRE5EQjNXRXhDUlZSRloxRRAB",
+            "text": "⭐⭐⭐⭐⭐\nThis place is a true community gem! The food was fresh and full of flavor, the service was friendly and attentive, and the whole atmosphere felt welcoming. The magic show was absolutely incredible—fun, engaging, and added something really special to the night. Highly recommend in Jackson heights! You can tell they care about both the quality and the people they serve. Can’t wait to come back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nNVRrTnhPRTFSTjJzdE1tSnVVamg0VUdwMmJuYxAB",
+            "text": "Catherine and Francisco were amazing! Very attentive. Kept the drinks coming. I had the Guanabana frozen margarita and the Bandaja Paisa Mojito, The churasco was cooked to perfection. Please try the Croqueticas de maduro was perfect, Sweet and cheesy with raspberry sauce, I never tried before and it worked perfectly. Will definitely return. Thank you!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGU1VUazJMVGxYVUhoVVFUZzRPVUpVY3pGcWRrRRAB",
+            "text": "I was recommended by a friend. The tables are too close to each other. We were seated by the door. Everyone coming in and out kept walking in between my table while we were eating it was very annoying. The food was ok. The fried red snapper was flavorless. My Husband ordered the seafood food pineapple rice that was good and had a lot of flavor.\nI ordered the mega pineapple mojito it tasted like pure liquor. Our server Francisco was very rude and not once asked us if we needed anything. We wanted to continue ordering drinks but he never came to our table. Instead after sitting there for 20 mins after dinner Francisco gave us 2 shots and the bill. I will never return to this restaurant."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkR2RtUkpkR0l0WkY5VE0weHdNMnRoYzNscmFGRRAB",
+            "text": "Omgg this place is great wonderful great service wonderful people so helpful full of live. Music was 10/10 food was 10/1000  seating was fast and nice"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oSExYcEhlazlYVFdodmFXVm1ibVZRTm1KaFduYxAB",
+            "text": "The best that u can get here it’s the drinks, like the name said mojitos are really good, food have beautiful presentation but not really tasty, the prices for the drinks totally worth it but for the food a little bit expensive."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KQlFsUmxiMmhyWmtSa1RqZEJUa054UjFsUlRGRRAB",
+            "text": "Went for my friend’s birthday and we had an amazing time. Sebastian gave us a great experience!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OS1ZVeDFaR0YxVjA1UmVGTTRRbkZaY1dzNWNuYxAB",
+            "text": "Came here and had the best time ever. Sebastian’s service was incredible. He made sure we were taken of the entire time we were here. I have already texted all my friends to make our next night out happens here. 10/10 experience. Come here and everyone is amazing you wont regret it,but also ask for sebastian if available!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVU5GVndjakYxVVRGcFpqZENhM0Z3VmpoV01VRRAB",
+            "text": "Good is delicious. Week day happy hour ends at 6pm; drinks are delicious."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfck9XRXhRRRAB",
+            "text": "I highly recommend this place, it has a great variety of seafood, the best Octopus with chimichurri I have ever eaten, I must also congratulate the management and owners of this place because they have Sebastian, a very high level waiter, excellent service that he gave us, very kind and polite, he made us feel at home and gave us very good recommendations about the menu, also thank you because they put some balloons on our table because we had a special occasion, a friend's birthday! The drinks were excellent, I recommend the frozen passion fruit margaritas, we had an excellent dinner and I will definitely return to this place, I must continue trying more of their dishes, to the chefs who prepared the different dishes everything was great! Keep it up, it has everything you need in a good place, good food and excellent table service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wWU0zb3llV1YxYWxoU1JXY3lSWEZ5T0Y5alJXYxAB",
+            "text": "Sebastian was our waiter. The food here was amazing definitely a full plate worth of delicious food. They often time bring out complementary free shots on top of amazing drinks . I definitely recommend"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvaDhuR1Z3EAE",
+            "text": "Great dinner date with my husband! Service and food and drinks were well made!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmcXF1MUVnEAE",
+            "text": "Jorge was great. Ambiance was great. They had a magician Eddie, he was AMAZING. He had us jaw dropped. Everyone was excellent. The food is 10/10 🔥🔥.. Make sure to tip them all!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJeE1YYnJ3RRAB",
+            "text": "Came to celebrate my sons birthday. First time here. Definitely recommend. Staff was super helpful and friendly. Food was great"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiNlAySUVBEAE",
+            "text": "Came here to celebrate my birthday! Food and service was great! They provided attentive service. Our server Sebastian and Kathy did amazing!"
+        }
+    ],
+    "reviews_count": 92
+}

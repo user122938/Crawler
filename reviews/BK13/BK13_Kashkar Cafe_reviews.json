@@ -1,0 +1,488 @@
+{
+    "name": "Kashkar Cafe",
+    "place_id": "ChIJOylZ2WtEwokReXuxLMxwlQ4",
+    "grid": "BK13",
+    "address": "1141 Brighton Beach Ave, Brooklyn, NY 11235, USA",
+    "rating": 4.3,
+    "user_ratings_total": 1099,
+    "phone_number": "(718) 743-3832",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxaU5tZzVkMGRSTkVGd1EwWklWa05TZGt4eFNYYxAB",
+            "text": "First time trying Uyghur food and it was amazing. It had the taste of other central asian cuisines, with its unique ideas, like pepper and pak choi in soup. The kebab was insanely good and juicy. Also the tea was poured into bowls, which felt nostalgic. The atmosphere was lovely with traditional music and decorations."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aT2JteG9YM2hQZFdsM2NFUjBZMDlqY1ZscmJYYxAB",
+            "text": "Came here with my Kazakh friend, very good food."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rellWaDNNMDV6YUdWS2FGVmlNekF0WkVobVNXYxAB",
+            "text": "It was one of the most delicious meal during our stay in New-York, even one of the year. After a day at Coney Island, on November 13, 2024, a meal to remember. Uighur gastronomy is at the crossroads of different cultures. Sublime discovery, thank you."
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "bg",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pObldGVjNhSEkyUVVSNWNHVmhNVmhrU1RkS1NsRRAB",
+            "text": "Super Kafe"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxdVEwSjVObVpRTTB3dFZHZ3hXbkV0UlhWcWFGRRAB",
+            "text": "Food here is always excellent, and I have known and respected the owners for the past 17 years. Unfortunately, a new waitress has been very rude. She brought my food and spilled it, used curses, and even had a conflict with two other customers in front of me. I have great respect for the owners and the restaurant, but this waitress is making the experience unpleasant."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kNWRVbElNMWxLUVRoTlJEZzRaV28wTTE4eVdYYxAB",
+            "text": "Ordered online, got only half of order … had to ask for refund. Out of 5 items , 2 were missing…\nFood is good … but service terrible . For over 50 dollars order you expect something good…"
+        },
+        {
+            "date": "1달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KVFkxYzFlVFpCZFU4MGMzcG5RVWR3YUhWdlVsRRAB",
+            "text": "Es war sehr interessant, hier einmal uigurische Gerichte auszuprobieren. Wir wollten das unbedingt mal testen und waren gespannt. Für unseren persönlichen Geschmack war das Essen etwas zu fettig, da vieles in viel Öl gebraten ist. Trotzdem war es eine interessante Erfahrung und auf jeden Fall mal etwas anderes."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aQmRGQmhUVTlFUTBoS01DMTNTMmczTUc1TlJVRRAB",
+            "text": "Really good food, terrible service. The server was extremely rude. And she forgot to put in half of our order so there was a 20 minute intermission between the first few dishes and the last few items we ordered."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21odk1rdHlVRWRDTVZWNlFrSkhRa1l3U0dsaWRtYxAB",
+            "text": "The lamb kebab was notably juicy and flavorful. The bosu lagman was good too, as I was would expect from a standard fried noodle dish. Funny enough, my favorite discovery was trying the Natakhtari pear carbonated soft drink."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xacVRFRXRUMEZDUkRrNWJVcFBOVkV5VHpaeWJIYxAB",
+            "text": "Came with two people wanted to order one dish so we can share but they refuse"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SRVNscFViVGxYUldkMldtRldTM1JXV0VGR2EyYxAB",
+            "text": "Very good service! Delicious food! We had a great time with my family!\nThank you!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WQmFGaFZVRGh6WlZodlJFZFFaMGRsZWxKNlVXYxAB",
+            "text": "Guys,\nIf you are looking for really special delicious food made with love,  come to this place. Small but unique place to taste  special food from midle Asia.\nVery nice and polite service. From the first moment you feel like the special guest. That's all. Any additional words are unnecessary..."
+        },
+        {
+            "date": "1달 전",
+            "language": "ru",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wRFVWcGhObHBqV0dsQlVtaHRXRFUwU1RjM1NHYxAB",
+            "text": "Качество еды 0% цена как золото"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsemJsbGFNRXA1TjE5NlVURnlSMDAzV1ZoMk9WRRAB",
+            "text": "This place is SO good!!! My friends and I wanted to try Uyghur cuisine during a trip to Brighton Beach, and Kashkar did not disappoint. The restaurant is peaceful and charming, and our server was welcoming and delightful. There is a lot of choices on the menu, and all our dishes were delicious. Our favorites were the jujava dumplings, bosu laghman, and polo."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOd1dpMUtiSFJYTlRGbk9UUTNSR3ByTVd4b1YwRRAB",
+            "text": "How does it have 5Stars?!?$ may be locals supporting local businesses, food is horrible, bland, table next to us got up and left with plates still full! We should've left right away but stayed. Beshbarmak was a disaster. Soup was salty! Kebabs drowned in cumin!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCQlZqWklSMmQxZDA1RGRVdENRVGROYmpVdFZWRRAB",
+            "text": "I would give 10 stars if this would have been possible. Unbelievable delicious food, super friendly service, very nice people and atmosphere. Recommend everyone who wants to check out Brighton Beach to stop here and get this unbelievable experience. Thank you so much!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKeFZFMWZRbmhzUm5jNGVVUkpPRzVqTkZVellYYxAB",
+            "text": "We have been meaning to try Uyghur food for a while.\n\nLooks like Brooklyn has a bunch of restaurants.\n\nKashkar is a cute place. Compact, but has some panache.\n\nWe added the Bosu Laghman after checking with the person attending and lamb soup.\n\nBoth were quite good. The pulled noodles, being what they are, may feel a bit chewy, but we realize that is the idea.\n\nSitting outside on a Sunny day was a good plus as well."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jeWRXTkRaa0ZPWkhWSGNqSm1VVnBEV1VSVWVWRRAB",
+            "text": "Everything was so nice, i missed those foods already"
+        },
+        {
+            "date": "3달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FeVpVaDNOM0ZZUzFsTlNWSlhNSE5ZVEhKWk5GRRAB",
+            "text": "Еда очень  вкусная,  нам понравилось, мы рекомендуем."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxU1VYUnVWelF5T0ZGTFdtcFZObWh1TTFwWU9HYxAB",
+            "text": "Incredible food in no frills spot. Quick service."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKSmRWcFRTazFmU0ZkWVUwRjNORVo2VHpOT1NFRRAB",
+            "text": "Family run business providing superb Uygur food. Everything is super fresh and delicious. The small and humble restaurant fills up quickly for dinner so make sure you come on time! Service can be slow because every dish is made with love by a husband and wife duo in their small kitchen. One of my favorite places in Brighton for a delicious and cozy meal."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOTVJrNUxSbVJZYWtKT05qRjBla0pqWVhGalFsRRAB",
+            "text": "great food and atmosphere!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VNE1XaDNXR2xzUlZkdWJraEZOVEZ6VERCcloxRRAB",
+            "text": "Absolutely delicious food! Loved the different Lagman noodles and the meat pie. Friendly service. Cozy restaurant very close to the Brighton Beach train station and beach boardwalk. Street parking is tough in the area. Definitely worth traveling to. Will be coming back again soon!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wS01ETXpRVzVETWpaVVJXdFBXSGRWVlMxbVRrRRAB",
+            "text": "very authentic and kind, friendly service. they sell yutaza (best eaten w/ stew, not alone!), which is a rarity to find. the meat is cooked excellently, just how it should be. it was a hot beach day, so we got compote, samsa, lampeng, and kawap (aka kebabs or shashlyk) in true Uyghur style. Pro tip: ask for the condiments (vinegar and lazajan) if you see it missing from your table! my family has been eating here for years, and we’re happy to see it’s still standing."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRd1kwcFBSVEJmTkdSTlYwTjZZVEJ4T1ZSamVVRRAB",
+            "text": "The food was delicious and although a little bit away from the boardwalk definitely worth the walk. I would definitely recommend coming here and getting loads of appetizers."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnLUlxWmpnRRAB",
+            "text": "Ate at one of the few Uyghur restaurants in NYC with friends last night in Brighton Beach, Brooklyn.\n\nThink of it as a hybrid between Uzbeki and Chinese, but 100% halal. Service was fantastic. Got free street parking right there immediately. Total cost $135 including tax and tip. Note: they don't write down that there is a service charge included in the total or that there's a cash discount; I had to ask.\n\nIt was very different from what we ate in Providence last week at a Uyghur restaurant.\n\nNot pictured: pitcher of compote."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLbVN0dE9HNzQ3cWpnRRAB",
+            "text": "Wow. Just… wow. I've been searching for authentic Uyghur food like a desert nomad craves an oasis, and folks, I've found my culinary Shangri-La. This isn't just good; it's so good it makes me question every life choice I've made up until this point that didn't involve eating here.\nLet's talk fried manty. These aren't just dumplings; they're crispy, savory pockets of pure joy. I'm pretty sure angels sing when you bite into them. And the langman soup? It's like a warm, comforting hug from a kindly Uyghur grandmother who also happens to be a Michelin-starred chef. The noodles are perfect, the broth is rich, and I'm convinced it has magical healing properties. My only complaint is that I couldn't swim in it. Yet.\nThe service is what I'd call \"charmingly efficient.\" There's literally one waiter, who I suspect is also the owner, the busboy, and possibly moonlights as a secret agent. Despite being a one-man show, he's faster than a gazelle on a caffeine rush and surprisingly delightful. You'll feel like you're eating at your cool aunt's house – if your cool aunt ran a killer restaurant.\nThe atmosphere is pure neighborhood gem – casual, unpretentious, and exactly what you want when you're about to dive face-first into a plate of deliciousness. Don't expect white tablecloths; expect to be incredibly comfortable and ready to get down to business with your chopsticks.\nJust a heads-up: they prefer cash, probably because their credit card machine is still trying to process how much flavor they're serving up. But they do take cards, so don't sweat it.\nIn summary, if you're looking for an authentic Uyghur experience that will make your taste buds do a happy dance and your stomach sing praises, run, don't walk, to this place. My only regret is that I can't give it six stars. And that I have to leave. I'm already planning my next visit and debating whether it's socially acceptable to just move in."
+        },
+        {
+            "date": "5달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNYnh0NGFHNWFxUG1BRRAB",
+            "text": "Наелся до отвала, принесли быстро, судя по обстановке, гости становятся постоянными клиентами."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLdmJqby1TZ2RxcTJRRRAB",
+            "text": "Exceptional dining! Try their fried potato lamb dumplings. Delicious and will be back for seconds. BYOB"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJSHU0T2FTaXBTZ2N3EAE",
+            "text": "Delicious and authentic Uyghur food!! My family had a lovely time at this restaurant. Strongly recommend!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPLWw4WWJfdkpuTm13RRAB",
+            "text": "we came in late on friday and ordered gusht non, gyuro lagman, manti, herring, bread, kebabs, and cabbage. everything was delicious! the staff were welcoming, the food was fresh, and we enjoyed every minute. absolutely a must-visit."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKclA0X2F4bVlQdGlBRRAB",
+            "text": "Delicious!! Came here after a Cyclones games. The kebabs, dumplings, pickled herring, lagman and bread with meat inside were all big winners! Can’t wait to come back"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPaVI0N3lBdzVHQjl3RRAB",
+            "text": "If you crave something different, this is it. Harty and interesting."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQUElnWVB4MXVlMVlBEAE",
+            "text": "Good food"
+        },
+        {
+            "date": "5달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJdURzS2pnNEtTY2NBEAE",
+            "text": "吃得我眼泪直流"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvNjdMOVBREAE",
+            "text": "Everything was delicious"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvc2ZDY2t3RRAB",
+            "text": "We visited on a Friday evening and the place was packed by the time we left. We enjoyed the egg plant salad, the fried hand pulled noodles, and the kebab trio. A cozy spot when you’re in the mood for Xinjiang cuisine. The music playing was unique but went well with the flavors of the food."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvcjYtZ1pREAE",
+            "text": "Had seen an infatuation article about Kashkar; a friend moved around the corner so we decided to give it a try. I was happy to support local - the restaurant has a very family run feel - they do not rush, are very kind and friendly. But prepare to be at the restaurant for at least 1.5-2 hours.\n\nFood - highly recommend the noodles w / vegetables. Fresh, thick noodles. The samsa is also VERY hot on the inside - I badly burned the roof of my mouth on the minced meat inside of the samsa.\n\nVery affordable. Lots of food for $60."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvaWY2cnh3RRAB",
+            "text": "I will go out of my way to visit again, what a privilege to have been taken here and look forward to sharing with others."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJaEptczVBRRAB",
+            "text": "They added water to my seltzer when I went to the ladies room and ruined my seltzer"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3NTZpQkZnEAE",
+            "text": "Great atmosphere! I tried the lamb Lagman with hot sauce, and it was incredible. This was my first time experiencing Uyghur cuisine, and it absolutely did not disappoint. I’ll definitely be coming back."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJMU1QT21BRRAB",
+            "text": "Amazing food. Absolute gem."
+        },
+        {
+            "date": "1년 전",
+            "language": "tr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYeWJtSVlREAE",
+            "text": "Uygur yemeklerine aşık biri olarak burayı çok sevdim diyebilirim. Yemeklerin tamamen helal olması gönül rahatlığıyla yememi sağladı. Salata çok lezzetliydi. Pilav ve etin lezzetine gelince pilav tane tane et kıyıl kıyıldı. Çok güzel pişirmişlerdi. Lağmen(makarna) efsaneydi."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIaFB5X19nRRAB",
+            "text": "A real local place. Great for after a beach day. The food is flavorful, deliciously seasoned, and cooked with warm love. The vibes are friendly and comfortable. 10/10 all around, can’t wait to go back. We loved the lamb kabobs (both lamb and lamb ribs) and the noodle dish. Also, the compote juice is delicious and the pitcher is a right amount for 3-4 people."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEdFpDeXdBRRAB",
+            "text": "My first time playing ever having Central Asian food (and it did not disappoint!) They’re not lying when they say they have the best kebabs in the city. Their chicken kebab was fantastic and I very much enjoyed their beef dumplings. On top of that, very friendly service and a very chill and traditional atmosphere. Definitely a place to go to try something new!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3cmJlMzF3RRAB",
+            "text": "A HUNDRED STARS FOR THE FOOD!! We drove all the way from New Jersey, rain on the way, spent 20+ minutes to find parking, ordered right away after seated, waited for the food to come. AND THE FIRST BITE, SOOOOO GOOD! I don’t care what they said about the service, I don’t care how hard to find parking, the food here is absolutely worth it!! It’s like the anime Chūka Ichiban background music blasted out from the back of your head when you taste super delicious food. That was so so so worth it for us to come at the late night all the way from across the river. Definitely will come back again and again!! Dumplings were good! Chicken and lamb skewers were super good! Plov was super super good!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCb3F2QVRnEAE",
+            "text": "I went to this place last night (12/19) with my boyfriend for dinner as we always wanted to try Uyghur cuisine. The food tasted really good and flavorful. However, the service was absolutely terrible. if we could give minus five stars, we would have done so. We ordered several various items from hot appetizer (dumplings), to two main courses and beef kebab. The server never told us upfront that there is longer wait time for the kabob to be prepared. It wasn’t until we finished the appetizer and main courses (which came before the dumplings appetizer), asked for the check and for a doggy bag about 50 minutes later, when the server said the kabob was coming. At that point we told him to cancel the kebab. But, to our utmost bewilderment, the server ignored us and brought the kabob in a to go container with the check, that included the kabob. The server proceeded to try and force us to pay for the kabob in the rudest possible manner. A verbal argument and a totally awkward situation ensued to the point, that all 4 tables were staring at is. Finally the couple at the table in front of us stated that they would take the kabob, deescalating a totally unacceptable and unnecessary situation. There was also no other servers or a manager on hand at the time to intervene with the server’s rudeness and zero customer service skills.\nEven with the food being decent, I would never recommend anyone visit this terrible place and put themselves in a totally unacceptable situation like that.\nAnother tip, be aware of this restaurant cheating people with misinformation. The prices on their site are MUCH LOWER than the actual prices when you walk in. This is how they lure you in. We spent over $65 for all the food we ordered for 2 person dinner."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURINnVtdUl3EAE",
+            "text": "A simple, no-frills, family-run restaurant with delicious authentic Uyghur food. I ordered the aubergine salad and plov and was happy with both. The owner was really lovely and friendly. I hope to come back to try more of their dishes."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4c1pfU0JBEAE",
+            "text": "Yummy Uyghur foods! First time trying the cuisine and thoroughly impressed. Came because of a school assignment but would try again on my own time.\nHot steamy tea and soupy & crispy mantis (dumplings). The food does take a while to come out but the kitchen wasn’t run by a team of people so it’s understandable."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5cEtmTmt3RRAB",
+            "text": "Food was delicious! Owners were lovely. A great neighborhood place! I hope people make their way to Brighton Beach to support local businesses like them."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGMnRpLXdBRRAB",
+            "text": "A very lovely Uygur family restaurant. It's very homemade. I deeply believed its food doesn't excite your taste buds as much as other similar restaurant because lacking of MSG."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuNFpDZjF3RRAB",
+            "text": "I recently ordered from this Uyghur restaurant and was disappointed with the food. I ordered both the fried and boiled mantu—while the dough was nice, the filling was lacking. The meat was almost nonexistent, replaced by a lot of white fat and onions. I also tried their samsa, which was just okay, nothing memorable. Overall, the flavors were bland, and I definitely won’t be returning."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsaUwyenB3RRAB",
+            "text": "This place gives off cozy and old/historical vibes. Food wasn’t so much of a taste. But the best part is the food is HALAL and cooked by Muslims. The Pollo/Pulov had so much oil that we extracted in another plate. It is very expensive with a very small portion of food. The service is very good though. It would get 5 stars for all the down sides. Parking is not easy but if you are lucky, you’ll find parking in the streets. The kebabs are a small portion as well but tasted better."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3cmJxZHRnRRAB",
+            "text": "The food is pretty varied, and tastes fairly good. The lamb dumplings were my favorite, juicy and gamey. The staff was very attentive, and the food is inexpensive."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOeUl1TWhnRRAB",
+            "text": "I came on a weekday night for dinner. The food was delicious and flavorful. I enjoyed all the dishes we ordered. My favorite was the tsomyan. The fried dough reminds me of flat, wide noodles in a square shape and pairs well with the lamb and veggies. The fried manti and kebabs were bigger than I thought. They were savory and cooked perfectly. I’ve never tried Uyghur cuisine before but I will definitely be returning."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURudVBHcVhBEAE",
+            "text": "relatively good place, but please change your waiter, he is not like a living person, shouldn't he be the face of your establishment. The food is not bad, but the fried lagman is dry, the flatbreads are hard although they said fresh. Rating 6/10"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnN09XNWlnRRAB",
+            "text": "This place serves Halal food only.\nThey don't sell and don't allow to bring alcoholic beverages with you (I don't consume such drinks, just witnessed with other customers).\nEverything is incredibly delicious 😋\nThey make delicious lagman, plov, manty, samsa, shashlyk. they don't sell alcohol.\nIt's a small restaurant, but very cozy. Has outside seating area. They are usually crowded whenever I come.\nStaff is friendly.\nI come here whenever I'm in the area.\nRecommend this place if you are  looking for halal uzbek/uygur cuisine."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtLUtIVUdREAE",
+            "text": "Halal Ughur food in Brooklyn! Count me in. The ambiance outside the restaurant isn't the best. However, inside is a cozy spot. I believe they make their own noodles - so that was unique.\nThe food tasted fresh and newly made.\nIf they'd increase the meat portions in their orders then the food would be balanced. BTW you should definitely try out the fried dumplings. Just remember that they automatically add a service fee when you dine in there.\nI will be back to try more options."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtcnJxOGR3EAE",
+            "text": "This was my first time trying Uyghurs food, it was absolutely Delicious 10/10. The food was full of flavor, everything freshly made so take a little time, great service and cozy place. The painting and cultural decor on the wall gives the…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoMkktdFVBEAE",
+            "text": "Loved the restaurant! We tried the fried noodles (bosu lagman), and chuchvara soup, both of which were amazing!\nWe also got the steamed manty as an appetizer, which was really good and the meat was flavourful.\nAnd then to finish off we tried the lamb rib skewers, which although tasted and smelled great, was grilled with too much oil for the fatty cut of meat it was.\nAll in all, a wonderful experience with polite and helpful waitstaff in a restaurant with a cozy interior and some traditional Uzbek art and textiles on the walls. We will definitely be returning!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCNUtmcmFnEAE",
+            "text": "Deliciou😋😋😋\n\nFirst time I tried Tatar restaurant and I liked all the foods that I have ordered.\nI started with Mantı, then Çiğ Borek and last kebap.\n\nService was very quick and did not wait to bring all foods at the same time. My orders come one by one, hot and fresh.\n\nIt is small but cousy place."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaek55R3BRRRAB",
+            "text": "Wow. I wasn’t expecting such good food at this hole in the wall restaurant.  They have maybe six tables and their kitchen is smaller than mine but boy can they cook good food.\nIt’s best to go with a larger party so you can order a lot of dishes and share.\nBe adventurous! Try Uyghur food here !"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxeVBmMjJBRRAB",
+            "text": "At my third and most recent visit to Kashkar, the uniqueness and incredible flavor of the Turkic & Uighyer cuisine has blown me away again. The immense and diverse flavors that quite literally explode in your mouth with each bite is a fun and enjoyable experience. The hosts were welcoming, for our Muslim folks the food is halal and there is also a small prayer space in the basement that they kindly allowed us to use, and the service was fast on a busy Saturday! Pictured here you'll see:\n\n1. Manty - dumplings that are definitely the BEST dish on the menu, steamed with lamb to perfection\n\n2. Fried dumplings - incredibly yummy and filling\n\n3. Logman noodles - fried pasta with lamb (only fried noodles on menu) that were really flavorful\n\n4. Samsa - a baked good filled with lamb and onion."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBeDlDeF9nRRAB",
+            "text": "Очень уютная обстановка и вкусная еда. Самса была особенно вкусная. Лагман ,нарын ,плов ,салат все приготовлено в самых лучших традициях уйгурской кухни. Очень гостиприимные хозяева . Спасибо, рекомендую."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxcl9pNDJRRRAB",
+            "text": "This place is a real gem. Located down in Brighton Beach, it’s a small but effective restaurant. Super authentic Uyghur and Uzbeki food. The flavors were incredible and the prices were fair. The service was classically…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSN0wtRDJ3RRAB",
+            "text": "One of the best spots for Uyghur cuisine. Their dine in space inside is cozy, but limited - specially if you are going during dinner hours. Loved every single item we ordered. Food was finger-licking delicious and I would certainly go back to this place. We ordered the lagman, non-qourmasi, meat naan, and some noodle soup. Non-qourmasi came with naan topped with lamb and vegetables and it was one of the best things. Their meat is so tender and juicy, and just melts in your mouth.\nFood takes a little time, but it comes out hot and fresh so its fair enough.\nOur server was super polite and overall, the portions of the food are big! The prices are reasonable for the portions served."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHZ2Z1cVZREAE",
+            "text": "Best Uyghur food I've had in NY so far!!! So fresh and delicious. We ordered fried manti, lagman noodles, and polo. Warm and authentic atmosphere. We came over an hour away and it was totally worth it."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1dVlPNFh3EAE",
+            "text": "This place feels intimate, and you get the feeling that the customers who sit at the tables are carefully assessing your presence as an outsider. The older people who are native to the Kashkar culture are very wise and traditional people. They drink from porcelain tea pots and speak comfortably at their tables with other members of their group. Their bathroom is kind of in need of some repair, but overall the place is welcoming and warm. The food is incredible tasting, well seasoned and well cooked. My only small complaint is that the food amount vs. price ratio is not very well balanced. You’d expect a larger portion for some of the food plates but that’s ok, because it’s not a buffet and more of a cultural gem to behold and savor. Feels very authentic, a bit humbled but very accommodating and friendly service."
+        }
+    ],
+    "reviews_count": 68
+}

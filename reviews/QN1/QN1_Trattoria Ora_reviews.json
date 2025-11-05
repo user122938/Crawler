@@ -1,0 +1,502 @@
+{
+    "name": "Trattoria Ora",
+    "place_id": "ChIJTUW3105fwokRTUXSiiya0gg",
+    "grid": "QN1",
+    "address": "18-01 Astoria Blvd, Astoria, NY 11102, USA",
+    "rating": 4.7,
+    "user_ratings_total": 197,
+    "phone_number": "(718) 433-9680",
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGbmRsbEdRekp2WkcxSU5qTlVRelIxUW1JeGNYYxAB",
+            "text": "Excelente atención, precios muy convenientes, la comida es excelente"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNMFFXVXpOVEk0U25GVFptOU5iRjlLYzFOQ1YxRRAB",
+            "text": "Both incredibly tasty food and great service will be bringing us back when we are looking for Italian American food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkU1QzcFNSa3BzVDBscFNraFFWbnBrUjNWalgxRRAB",
+            "text": "Good"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMV050STJvN1lxd0RnEAE",
+            "text": "The restaurant is amazing and the staff is very friendly and professional. The food was delicious."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNekxnZEtldjlPOERBEAE",
+            "text": "This place has the best food in Astoria hands down. The grilled lamb and goolash stew over mashed potatoes were amazing. Def coming back."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvOC1PZ3BRRRAB",
+            "text": "Overall pleasant experience. Nice neighborhood   restaurant."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJenAyUUNREAE",
+            "text": "Went there for my birthday dinner. The food was amazing!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJbU5hNVpnEAE",
+            "text": "QUALITY food in a comfortable environment. I’ve been 2x now and love it. The best risotto you will ever have. Broccoli rabe cooked to perfection. Pasta that holds up against the best."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3M0puQm1BRRAB",
+            "text": "We traveled to get here ..a reservation we made a while ago..and when we showed up there was a private party and they said they canceled all reservations....however we were never notified.  Very unprofessional and unfortunate for us wasting all our time. Oh well!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRN3MyVGxnRRAB",
+            "text": "I visited this restaurant based on the reviews and tried the Chicken Ora. While it was very tasty, the portion size felt more like an appetizer than an entrée. The Chicken Parmesan had a great presentation, but the taste didn’t quite work for me. The atmosphere was okay, but overall, I didn’t feel it was a place I’d return to or recommend. It just wasn’t for me, but others may have a different experience."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnd1BlekhBEAE",
+            "text": "Amazing service and amazing prices. Astoria asset!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBOXUzc0JBEAE",
+            "text": "The ribeye is amazing, definitely get it. The tiramisu is freaking delicious too. Even if you don't have the space for it you'll probably want another slice anyways."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfMHBMZ2J3EAE",
+            "text": "Took my girlfriend here on a date.  We had the grilled kalamari, the steak, and the shrimp Diavolo.  It was perfect.  The atmosphere was romantic, the food was really good, and the service was amazing.  I would def recommend!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmci1HNkRBEAE",
+            "text": "The food here is always amazing! Fresh ingredients and great portions."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2dmVmc2VREAE",
+            "text": "Always a great experience"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQXy0zYnF3RRAB",
+            "text": "Delicious food and service! Best in Astoria!! The rest are all fakes. Please support this beautiful restaurant! Love them!"
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHaGNMT1l3EAE",
+            "text": "If you haven’t been, you MUST go to Trattoria Ora in Astoria. This secret gem is just a short walk from the N train and brings you to a super cozy, romantic, rustic restaurant with a sleek white banquette against exposed brick walls. The…"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQOEpueldREAE",
+            "text": "Dinner and drinks were so good.  We came in a weekday and were a party of 11.  The staff was great, very attentive.   They even let my grandkids play on their piano.  Felt homey and relaxing."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzNktHbHN3RRAB",
+            "text": "An amazing, cozy, homey Italian restaurant with a few Baltic and Eastern European options too. Went here with my family and enjoyed it thoroughly!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzczlfLVZnEAE",
+            "text": "Great music selection and the food was excellent"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYaWNhWHR3RRAB",
+            "text": "Yummy food and great service. Small quiet space. Perfect for any gatherings whether intimate date or family dinner."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURud2FIbkp3EAE",
+            "text": "Stopped by and this place did not disappoint. A+ service, vibes, and food!! Will be back!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNudlp2cFV3EAE",
+            "text": "Great food\nGreat service\nFood is so delicious\nHighly recommended"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNudmF2QlB3EAE",
+            "text": "Very nice cute local spot with excellent food."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNianZ5MUl3EAE",
+            "text": "I’m new-ish to the neighborhood and was looking for a place to enjoy a glass of wine and delicious Italian food at a place that felt like “home.”\n\nThe staff is kind, the food is fresh as well as some of the best I’ve had, the desserts are all made in house, and the space is warm and inviting.\n\n5/5 recommend!\n\nUpdating to add a photo of the tiramisu. Best I’ve ever had!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIN182VlB3EAE",
+            "text": "A lovely, cozy restaurant.  Delicious food: perfectly cooked branzino, great sauces on the orrecchiete and calamari.  Wonderful bar and gracious host.  Perfect for a romantic evening."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIMmRES1NREAE",
+            "text": "Cozy with a character food delicious can’t say enough great owner and service"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIMnJYbkh3EAE",
+            "text": "Good times with family enjoyed  my time there."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3NXV6andBRRAB",
+            "text": "Lovely experience all around - the food was amazing, the service top notch, and a good price point. Happy to have a place I can walk to in my neighborhood that is nice enough to bring any of my guests. Grazie!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3c3VmMmRREAE",
+            "text": "Excellent neighborhood spot! The food is fresh with great service and ambience. Perfect for a date night or a dinner with friends and family. Will definitely be back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3d3B1ZU1REAE",
+            "text": "I live across the street and I went there for the first time like 3 days ago… everything was fantastic, great food, great customer service, I’m definitely going back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3LU0zeDVnRRAB",
+            "text": "Do yourself a favor and go. Seriously, just go!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiOS11dERnEAE",
+            "text": "Love this place. Super nice waiter, delicious food, quality music, great wine. Highly recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNialBhZWhBRRAB",
+            "text": "Great mayonnaise :p"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNydmN2Skd3EAE",
+            "text": "We had a lovely dinner here with my grandparents. Food was delicious , fresh and classic. They made anything we wanted off menu and the service was amazing. Highly recommend this little spot that’s been around for almost 10 years! They even split our dishes on plates bc we were sharing which was so nice!! Penne vodka amazing also the tiramisu!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6OXBQdGFREAE",
+            "text": "Highly Recommend.\n- Happy Hour every day 4p-9p! (see pic)\n\n- Quiet Saturday night, chill crowd, friendly staff.\n- * Locals endorse the place (they have been known to make things from previous menus)...so much so that while having my beer a couple had me Taste A Sample of Their Meal (Veal Tartufatta) to prove how good it was... Now I have to come back.\n\nFeels like a living room. Good date spot. Open since 2018, so they're doing something right."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUM3RqWnNBRRAB",
+            "text": "The food and service were amazing. Such a cute neighborhood spot. The happy hour is also phenomenal (and through 9 pm!)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUN2NhdElBEAE",
+            "text": "Went to the spontaneous drinks. Arian went 1000 extra miles! Thank you so much! Highly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqdG9ERVFnEAE",
+            "text": "Fuimos recibidos por su dueño, muy amable y agradable. La comida muy rica y de calidad, disfrutamos mucho. Volveremos,"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqNjd1azBRRRAB",
+            "text": "Very good if you want a cozy dining with light meal.. everything is light"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqbHBLdVh3EAE",
+            "text": "Hidden gem 💎  outdoor seating I truly cant say enough about this place a perfect place ambiance hospitable service food your crazy not to try it seriously"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqc1ByZFh3EAE",
+            "text": "Te recibe el Sr Ramo con mucha amabilidad y respeto. Excelente la comida y buen ambiente. Muchas gracias."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5aTlycVZREAE",
+            "text": "Trattoria Ora is our new favorite Italian restaurant in Astoria. My fiancée and I first tried this amazing place on Valentine’s Day. The service was top tier and the environment in the restaurant is so inviting. Since then we have ordered take out and delivery from here and the food is simply amazing. It really tastes homemade and not something you’d get in any generic restaurant. Every dish we have tried really was made with love. We will continue to eat here whenever we crave great, homemade Italian food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5bnRUZHFnRRAB",
+            "text": "Live music. Cozy place."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5Z1A2UElnEAE",
+            "text": "Great local spot with a homey vibe"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkNXF2a1NREAE",
+            "text": "Absolutely recommended! Exquisite food, 10/10 customer service, and wonderful atmosphere.\nWe loved 😍 🥰 ❤️!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROMnI2SVBREAE",
+            "text": "Un lugar tranquilo y agradable,la comida muy deliciosa,y un excelente servicio."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxem91N2ZnEAE",
+            "text": "Excellent food at excellent prices. I’m a critic and this place is amazing."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWdFlxdTd3RRAB",
+            "text": "The food was absolutely fantastic. The prices were a little steep, but well worth it. I would definitely go there again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWXzh1Q3BRRRAB",
+            "text": "Hidden gem, nice ambiance and good pasta will definitely come back to try other delicious menu items."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCaTd6N0lBEAE",
+            "text": "We had a great time at Ora. The service was great, the ambiance was good, the decor was nice, most importantly the food was amazing. If you looking for a nice affordable Italian restaurant then you must come here and check them out. We had the calamari, the Rigatoni Buttero, &  Rib Eye Steak. Everything was delicious."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtZ0xmbVRBEAE",
+            "text": "Run don’t walk if you want old school Italian food that’s well-made. This is the place to go. Their menu was concise. They didn’t do anything too flashy but everything was delicious. Everything is reasonably priced as well quality A1."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCdWNuRlJnEAE",
+            "text": "This was our second time here. Service is so attentive and food is delightful! Highly recommend this neighborhood spot to anyone looking for their authentic Italian fix."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnbk4yWGNnEAE",
+            "text": "HIDDEN GEM: This is a must try! I have been on two occasions now and both times have been incredible. There aren't many great restaurants in 'West Astoria,' so this is a really nice addition and is now a regular favorite for my wife and I.\n\nThe first time I had the squid ink seafood pasta special which was incredible. Second time had the rigatoni buttero--it arrived very hot and fresh, the pasta was perfectly al dente. They start every meal with complementary parmesan cheese and bread (I have to say the bread is horrible, but hey it's free and the cheese makes up for it!). Decent selection of wine at reasonable prices. Total for 2 entrees, an appetizer (the beet with goat cheese salad was wonderful!) and a bottle of wine was under $85, which is amazing! For some reason it's been pretty empty both times we've been, hopefully this will help convince some more people to give it a try."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBNDUzaXFnRRAB",
+            "text": "Everything tasted very good and the service was prompt, polite and welcoming! ♥️"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNldTRtWDRnRRAB",
+            "text": "The food is great. I had the goulash which was absolutely delicious.   We ordered the veal which was equally as good. Everybody was happy with their meal.  The venue is well designed a lovely place to spend with family and friends.\nYou won't be disappointed"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSbG9YbUtBEAE",
+            "text": "Great tasting food, and comes with extra sides of salad, breads, and even a post meal cookie! Side note, I was very pleased with the management. I called to place a take out order and noticed one of the third party delivery services had lower prices listed compared to their in-house menu. The person on the phone (owner?) mentioned that those prices were incorrect because that third party website hasn’t updated the menu.\n\nAnyway, the person on the phone still offered to honor the lower price listed on a separate website even though they weren’t obligated to do so! Would have happily paid full price, considering the food was amazing.\n\nI would definitely return here to dine in. Great place and good portions."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSenNLWnNBRRAB",
+            "text": "We came in on a Saturday night for a party of 5. There was a large party taking up majority of the restaurant. I thought for sure that we would be told there was a wait but the manager went above and beyond to make accommodations for us. He…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKdXBIQ3hRRRAB",
+            "text": "I walked in with my family yesterday for the first time & I was truly impressed.. the service is absolutely impeccable, heartwarming old Italian ambiance where you just feel like you walked into a place in Italy. The food was absolutely perfectly executed in the proper technique  (Kudos to my colleagues in the kitchen as I, myself, am in the industry for the last 15yrs)\n\nWill DEFINITELY Be Back For More 🧑🏻‍🍳🙏🏻"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCaWI2V2F3EAE",
+            "text": "What a beautiful little place. The atmosphere would be great for a first date OR a party.\nThe owner was charming & very attentive & even made adjustments to accommodate special requests.\nThe food was EXCELLENT! Cooked perfectly.\nDon't sleep on this place, it is GREAT & certainly worth repeat visits."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKOXZlOS1BRRAB",
+            "text": "We went here for the first time last Friday based on the reviews. The service and the people were very nice. For a Friday night, this place was empty. The food was not good and for some reason, they had the back door open and there were so many flies inside the restaurant which were on our food, water glasses etc. It was disgusting to eat there with all the flies. However, people were very nice! The grilled calamari was not good at all! Won’t be going here."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtd3BHT3NBRRAB",
+            "text": "This restaurant is a nice place. It offers a relaxing, comfortable environment and the people that provide the service are very friendly and professional. The food is SUPERB whit affordable prices. It was  a very positive experience shearing a meal with my family.\nExcellent service!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKNkxqZWNREAE",
+            "text": "We arrive for dinner and there were not music and only one table besides us. The waitress was on a rush and didn’t care to check how was our main course, they turn off the music and we have to put our own Italian music from our cellphone to get some ambience due the waitress was talking all the time on her cellphone so so loud that we need another sound besides her voice. The food was ok but not excellent and with the feeling that we got from the waitress we rush to try to finish our main courses and leave. We will never come back here, it was NOT a good experience at all. I don’t know how this restaurant has the evaluation of 4.8 with the kind of service that the waitress gave us. Very very disappointing for a dinner that suppose to be special."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRcXRLTW5nRRAB",
+            "text": "Very nice restaurant, calm, and the food is delicious. I really recommend this place."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKNHJ1OUd3EAE",
+            "text": "We went there early on a Friday, and the place was almost all for us. The service was super nice, they greet us with warm bread and some olive and cheese. We ordered Bolognese pasta, which was super creamy.\nReally nice atmosphere and"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPaU9Ualp3EAE",
+            "text": "Really great service.\n\nFood was amazing. We ordered grilled squid, Mediterranean salad and risotto el pesto with shrimp. Everything was so good!\n\nWe’ll definitely be back! We also had a pour of grappa on the house before we left, thank you!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURobHJpRXFRRRAB",
+            "text": "It was listed as being opened at four pm. It’s What was on the website and on the front window of the restaurant.\nwhen I happened upon an open door and went into the kitchen there was a drastic change the appearance of the restaurant from our last visit\n\nthe staff was very confused as to who was coming who is in charge and when there would be people there to serve. The floor space was also for less inviting and the ambience has deteriorated quite dramatically.\n\nRestaurant cannot be honest in its hours is a no go in a world swimming with restaurants that deserve your patronage"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSLTZuYl93RRAB",
+            "text": "Can’t say enough positive things about this place.  Every dish at the table was delicious. The waiter/host was the best we have ever seen.  There was never an empty glass or wine glass at the table, he was so attentive. We all can’t wait to return"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4MmFQbDF3RRAB",
+            "text": "Neighborhood Italian bistro with decent food but they have a long way to go on service. Menus were illegible since they were printed on paper and smeared.due to water marks - First impression is everything, waitress was not pleasant at all, believe her name was Elena. Calamari was overdone. Ribeye steak was ordered medium rare and came out extremely well done. When I mentioned it, I was told she would mention it to chef. Also, never even offered a steak knife, had to request it!\nReally shocked that they did not try to make it right. This was my second visit but don't think l'll be going back unless they try harder to keep my business. At the very least, I wasn't even offered desert or coffee for the lackluster experience. Hope they'll get their act together soon."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhcXRfVDdRRRAB",
+            "text": "Everything tastes good. We liked the zucinnie, the lamb chop, the steak, fish, mash potato with beef stew. Especially, the veal with truffles cream. However, the Ora chicken was a bit salty. It's a Saturday night, but not many people. After 10, live music started and people came in. We had a good time there."
+        }
+    ],
+    "reviews_count": 70
+}

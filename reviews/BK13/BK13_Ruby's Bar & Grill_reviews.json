@@ -1,0 +1,453 @@
+{
+    "name": "Ruby's Bar & Grill",
+    "place_id": "ChIJa3PknWpEwokRP2g9em4QTPs",
+    "grid": "BK13",
+    "address": "1213 Riegelmann Boardwalk, Brooklyn, NY 11224, USA",
+    "rating": 4,
+    "user_ratings_total": 795,
+    "phone_number": "(718) 975-7829",
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSMGMxVmZSbkJmZG5nME0yaE9TUzAxVDAxYVRWRRAB",
+            "text": "Très bonne expérience chez Ruby\nOn reviendra"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WSlgySklZVXMwZDB0SGVVNUVkV2RrUlY5WU1VRRAB",
+            "text": "No comí allí. Pero se portaron de muy malas maneras. Tienen el Zoltar de la película BIG. Pusimos dinero en la máquina para hacer un vídeo con las palabras que iba diciendo y desde el restaurante subieron la música de forma escandalosa (cuando llegamos no tenían ni la música puesta) para que no pudiéramos grabar bien el vídeo. Nos pareció una falta de respeto. Cuando nos fuimos bajaron el sonido."
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wd2NWTlBORkZDVmtsTVVXczNhM0ZwVlZGeE1IYxAB",
+            "text": "Hans down best Funnel Cake ever! I love it too much! The cheese burger and waffle fries are really good too! Also, the ice cream is great, perfect for the hot days! Love the atmosphere, is right by the boardwalk, the summer vibes & the vintage decor! The staff are always friendly & helpful! There is indoor & outdoor seating!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5RVRUSjNXa2R4YVd0TWIxUjJVekJyVlV0eVJtYxAB",
+            "text": "Small portions for fish and chips,"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKQ1drSm1TRk5xZG5oWWIzcFdaMmxvTFdKVFdIYxAB",
+            "text": "Andres is the best bartender ever!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KYWVFSjBjRU5rVUhaamNERmhZMjkwUlZCNVVVRRAB",
+            "text": "Epic bar."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsSFEzQTRYMEZOZFRObU5YQjFZME5IUzNKbGVrRRAB",
+            "text": "I lost my phone here and one of the people working was kind enough to hold it, and give it back to me. The ice cream was delicious and the customer service was amazing!"
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGTmFIbFBRbXRvWkU5YWRqQmxSRWRKYVdnM04yYxAB",
+            "text": "Luogo iconico a Coney Island! Abbiamo mangiato un Lobster Roll 🦞 e ci siamo riposati dopo la passeggiata sulla spiaggia. Consigliato!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfODVQVGJ3EAE",
+            "text": "High prices. Weak owners that in trying to please everyone let's jerks into the bar that he to please everyone the owner guy does not boot them out so loose lots of good customers.\n\nIn trying to please everyone false-nice pleasers end up pleasing nobody and get a terrible reputation plus loose all the many good customers."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjNWFUVlRWWEJMVHpac2VXbHplRzQ0TW5KZkxVRRAB",
+            "text": "Low rating by the girls serving behind the alcohol bar. These women don't know how to talk to a customer. Avoid this place. There's a place nearby where you can also buy alcohol."
+        },
+        {
+            "date": "2달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twcFZVTnRTMFY1VGpSVE5IZFdNM2xsUlZZeVQwRRAB",
+            "text": "Das Ambiente ist einfach sensationell. Das Essen und der Service waren top. Hier kann man gut essen gehen!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFd2VVMVZlVGQxV1U1Zk1YSkRSbTh3WmtOdlRXYxAB",
+            "text": "You gonna love the atmosphere plus the food and the vibe is soooooooo welcoming!!!!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OUllWUlNXWE5UVW1aVWNUQnVPVmRPWVRRd1lsRRAB",
+            "text": "Un lugar acogedor y muy al estilo americano. Con gran tradición y lleno de historia (la tercera generación actualmente). Tan sólo hay que ver el interior con las fotos y recortes. Un sitio realmente famoso.\n\nMáquina de tocadiscos (cds), buena comida (hamburguesas, perritos, etc) y bebidas (refrescos, copas, cervezas, etc). También helados, postres y granizados. Y muy buen ambiente. Hasta el dueño es un tío simpático y buen conversador.\n\nLo hacen un sitio recomendable para ir. 10/10 en todo. Si te quieres sentir como un Beach Boys, échate una cerveza aquí.\n\nAh, y tienen una máquina de Zoltar como en Big, jajaja"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sRVpIUkVXRzFvWkd0Q1kyNDBWbGszYTJ4dWMzYxAB",
+            "text": "Ruby’s soft-serve ice cream is different from the other stuff - it’s almost like ice-milk. Had the chocolate vanilla twist and it was delectable!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJNWFEWnJlVWhSTFRWWWFWSnhTMGxoUXpnd04wRRAB",
+            "text": "Service was great. Didn't order food but did see more than half of tables with food on them. Boardwalk bar and grill with really good service. Bartender was flying solo n managed to keep up with just about everybody within minutes and was attentive. We kept changing beers and drinks to try different things. Then we were told of local brewery that features their beers. Awesome suggestion for us since we like visiting local breweries. Stop in for a drink. Best Boardwalk watering hole.."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25relYwWnViVVp4UVVJd1JFOHpha00yYWxCbFpWRRAB",
+            "text": "Good choice, tables, area clean. Happy friendly staff. Good portions. Middle of the boardwalk."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsRFkyUldTV3RLYjNWZlJHeFdNMU5vU201MFFWRRAB",
+            "text": "Great food and the jukebox works!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOVVpGcE5UV2RvTUVGUmFXVjBTVVJ5YUdoTU5sRRAB",
+            "text": "Great place on boardwalk"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pndGRsWmpjbmhzUlRWblVtZDRlbFpMU25vMlEwRRAB",
+            "text": "This place was a great, casual spot to hang out after watching fireworks. Drink prices were very affordable and the bartenders were friendly and efficient. Food order also quickly came through for me. Great spot on boardwalk."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xObGMyNXNWMk5IYmtGck9Ea3RVblYzV0ZsemJIYxAB",
+            "text": "Top american bar!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KQ1NVVTBURkE1VWxSSGRucDVVSFpXUlU1T1NVRRAB",
+            "text": "I ordered a lobster roll to go and I’m certain it wasn’t lobster at all. It was more than likely imitation crab in its shredded form with an almost identical taste and texture of a Kani salad you would order from a Japanese restaurant. I have never had a lobster roll in which the meat was completely shredded and bathed in mayo. Not one single chunk of recognizable lobster meat. I wasn’t able to come back and voice my suspicion or concern as I was headed to the aquarium with my family. That being said, I wouldn’t give this place a second chance."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTFZFMVNkSFpxUlhCRlpVeGhXSE5KYTAxRVdGRRAB",
+            "text": "Come here every time we hit NYC."
+        },
+        {
+            "date": "3달 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNMVdGODRhSFJpU1hkUmMxTnlSbkprYkY5TmFuYxAB",
+            "text": "Fomos num domingo a tarde de verão e não estava cheio. Havia lugares cobertos para sentar e o peixe estava MUITO bom. Tem uma grande variedade De comidas e bebidas além de sorvete."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxek9DXzZRRRAB",
+            "text": "Once again the owner is still standing around like a mob boss taking account of who is eating what. Get over it, get over yourself, people eat different food on the boardwalk and we pay to eat yours as well as others. If you don’t like it and can’t handle it, shut down your restaurant and move to a private location."
+        },
+        {
+            "date": "3달 전",
+            "language": "ca",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSbmMwRnNORFJLVkdOTFZWUktXWEJJWmpCYU5IYxAB",
+            "text": "Bar de batalla.\nFregits.\nCervesa cara.\nAixò s, al bell mig de Conney Island"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMVpHVnpYMjlaYkVzNU5XTlRTMGxvTkRWcllWRRAB",
+            "text": "Where the Coney Island OGs hang out."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOUVpIaFpOVFp5ZWpaTlkwZGhkVkZTZGtKQllYYxAB",
+            "text": "I have been wanting to go to this place for quite some time, but it is usually always packed. I finally got my chance this past weekend to stop in for a couple of drinks while it wasn't too busy.  I didn't try the food, so this review is based on service, vibe, and beverages.\n\nI sat at the bar, and the drinks I was served were good. Place has a really cool vibe, and I didn't realize they had quite a bit of indoor dining besides the bar and outside. Prices for the drinks weren't too bad. Pretty standard for the area.\n\nBesides food and drinks, they also sell souvenir shirts, tank tops, etc. This spot should definitely be on your list to check out as this place is a landmark on Coney Island."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCRk9GbzRZbEIxYkdVMGRISkdNM05aYzFsMVgzYxAB",
+            "text": "I like my cheeseburgers without paper in them and not the price of 13 dollars, but today there is paper in my cheeseburger. Why. Do you see how depressive the burger looks already. Imagine how the cow that died for this feels ✌🏾"
+        },
+        {
+            "date": "4달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25neVkxaE5kbmxEU21zelFtNDRObWMwTkVGWWIwRRAB",
+            "text": "Molto gentili e disponibili"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2Xy15LWR3EAE",
+            "text": "It's a coney island  must do"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Gc2FVUlhXVkZPTlZnNVdtMU1WRzQzTFhsS2JsRRAB",
+            "text": "The personal pizza is reused slices, I think."
+        },
+        {
+            "date": "4달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKRlVEVXlUMDA1TFZkc2EyNHdUMUZ0ZWprNE5rRRAB",
+            "text": "Съела вкусный хот дог здесь"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJbXgxZVN6NFBpX3RnRRAB",
+            "text": "Crazy busy! The one bar tender is spectacular! She takes good care of the bar as the customers come and go with their demands! She is terrific. It would be helpful for her as well a bit more comfortable if she had a second person with her. I wanted another beer as i sat at the bar but too many customers crowd ing me as they ordered. But there was plenty of room, i dont get it. I went outside, didnt order a second beer. Didnt eat either. $9 a beer at all the restaurants, not happy about that. But, Ruby’s is fine."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMQ05qWU9HM1lEXzdnRRAB",
+            "text": "I didn't eat there, but it was a great place with great service!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPLTd2SnFSelo2UWlBRRAB",
+            "text": "The service was fantastic, really lovely people! I had a great time eating calamari, sitting in the sunlight, and listening to music on the boardwalk — all great vibes!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VKU2l5Y2VSOWZMdzNRRRAB",
+            "text": "They weren't rude but they weren't pleasant either. Didn't expect much to begin with. Food was greasy and gross (fish & chips). Avoid this place if you can."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZNXV2TnpRRRAB",
+            "text": "Ruby’s Bar & Grill, a Coney Island staple, exudes nostalgic charm with its vintage decor and historical photos lining the walls. The menu offers classic American fare like burgers, hot dogs, and seafood, alongside refreshing drinks like draft beers and frozen margaritas. The lively atmosphere, paired with its iconic boardwalk vibe, makes it a perfect spot for a casual, fun-filled meal by the shore."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZaUwzTFJnEAE",
+            "text": "Great food, magical vibe, and a jukebox with awesome music. A must-stop for a fun and laid-back experience"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvaUpfZzRnRRAB",
+            "text": "Friendly staff, relaxed atmosphere. Ordered the corn dog and funnel cake. Delicious!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3NE96UmRBEAE",
+            "text": "March in Coney Island isn't really the time to visit, but I just loved Ruby's! Friendly, historic, great jukebox, fried food and even the out of season beer list was excellent."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmdWJlTW5nRRAB",
+            "text": "Service was friendly and pretty quick. Atmosphere is cool, they have a lot of historic Coney island stuff. Food was not good. I think the grease was too cold, the shrimp were saturated with it."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "it",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIaXViSjBBRRAB",
+            "text": "Mi aspettavo da un momento all'altro di vedere apparire Fonzie ed il suo amico Ricky Cunningham, vista l'atmosfera anni '50/'60 del locale, con quella sua grassa aria prettamente statunitense da compiaciuto \"sogno americano\" e quella prosperosità illusoria degli Happy days. La sensazione che si prova in questo luogo è quella di un benessere di plastica così come nell'intera Coney island con quel suo lungomare falso-vintage ed il suo luna park finto-nostalgico. Si ha l'impressione di stare all'interno di un set di una sit com: tutto troppo artificiale come in una scenografia"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6c2NLYy13RRAB",
+            "text": "We visited Ruby's Bar and Grill for lunch when we went to Coney Island recently. We tried their fish and chips and veggie burger along with some cocktails. The food was very tasty, although I would say that the portion size is a bit small for what you pay. The drinks were amazing and were just what we needed on a hot day. They have indoor and outdoor seating available and are pretty quick with service."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSemJXTnFnRRAB",
+            "text": "Es el típico restaurante a la americana, es muy auténtico: mesas de madera, suelo de madera, una parrilla donde comer Grill y cosas a la a la parrilla.\nMuy americano todo. Está al lado mismo del Luna Park, con lo cual es cómodo salir, comer alguna cosa y volver.\n\nA mí me ha gustado bastante por la decoración y tal como está todo."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBalBTeWxBRRAB",
+            "text": "Great location! Average fried food fare. I got a knish and a corn dog...the knish was great. The corn dog was a corn dog. My fiancé rolled the dice with the fried clams...and didn’t get sick. And they were as advertised. My future mom-in-law got a cheeseburger. Which was undercooked. Beer was served ice cold in a plastic cup."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNub2JHdHpnRRAB",
+            "text": "Coney island....what a vibe...\nMust visit!\n\nRuby's bar and grill is a very old place...still running lavishly.\n\nFood is 3/5. Drink options are good"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1ak92RWhRRRAB",
+            "text": "Absolutely amazing atmosphere. The two older gentleman working the bar were quite polite, and did a great job pouring drinks. They would have improved addressing customers as they came in and waited in line but I am empathetic because that place gets quite busy. I caught the subway from Manhattan to Coney Island just for a corn dog and a beer and Rudy’s did not disappoint. Great selection and good old American food"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSb1pPOGNnEAE",
+            "text": "Great traditional restaurant on the boardwalk. Great atmosphere with good food. Pleasant staff too. The interior is best part, jukebox with everyone favorites is amazing."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4eXNxSkF3EAE",
+            "text": "THE fun bar along the Coney Island Boardwalk. A must stop if you're thirsty and looking for a good time. Great people watching, plenty of room in the back along with a popular jukebox! Bartenders were friendly, we stuck to beer but plenty of other options. Basic menu of typical bar food, which seemed ok! Enjoy!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlMWR5cE1nEAE",
+            "text": "We came here for an early lunch after a stroll along the beach. We thought the decor was pretty cool and the old time photos of the area during summer was crazy! We both ended up having chicken tenders and fries (didn’t like the fries that much) although the chicken tenders were nice and crispy! Wish we came later in the day to indulge in some of their cocktails but a little to early at that stage!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURibko2MnFRRRAB",
+            "text": "Saved by Ruby's team tonight. The only bar we saw to open it doors wide to let us sodden masses into your dry haven.\nA true Noah's Ark in the storm.....thank you for your hospitality and coffee. Followed by beer and food x"
+        },
+        {
+            "date": "6년 전",
+            "language": "fr",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM0c2FIUUd3EAE",
+            "text": "Nous nous étions arrêté boire un verre... C'était pas mal, en terrasse, face à la mer, même si les boissons (bière pression et Limonade en bouteille) n'avaient rien d'extraordinaires.\nNous avons choisi de nous arrêter de nouveau pour manger car trop d'attente chez son voisin... Le regret.\nEffectivement pour prendre la commande c'est rapide, pour la recevoir c'est autre choses !\nEt une fois reçu, du pain et une saucisse pour le hot dog, du pain et un steak végétal pour le burger végétarien... Pas très recherché, heureusement les sauces sont à disposition pour donner un peu de goût à tout ça !\nMême les onions ring n'ont pas relevé le plaisir."
+        },
+        {
+            "date": "2년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwc2U3MDRRRRAB",
+            "text": "Mi è sembrato ti tornare in dietro nel tempo. Locale suggestivo per la presenza di molte persone del luogo, gioviali e cordiali.\nServizio veloce, cibo ottimo."
+        },
+        {
+            "date": "2년 전",
+            "language": "de",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaM3BXOFdnEAE",
+            "text": "Sehr minimal gehaltene Portionen. Aber direkt beim Lunapark und somit am Meer.\n\nWenn man Hunger hat geht es schon, aber unbedingt aufsuchen muss man die Bar zum Essen auch nicht"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURhcmNPVGhBRRAB",
+            "text": "Average food, visited for historic ambiance. I was traveling with a teenager so of course the cheesy fries and fried chicken tenders were more his stead.\nThey do have a functional juke box that I absolutely loved."
+        },
+        {
+            "date": "1년 전",
+            "language": "fr",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6bDRDYl93RRAB",
+            "text": "La carte est simple et le service rapide si le serveur ne passe pas son temps à trouver les clients des commandes prêtes. Les portions sont simples et petites, cependant le grand espace à l'arrière permet de se poser à une table à l'ombre avec de la bonne musique et une décoration reprenant des vieilles photos de la créations de Coney Island."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwbmJqZEJnEAE",
+            "text": "My favorite Coney Island bar. Good food lots of outside tables. Mike and the staff is amazing"
+        },
+        {
+            "date": "2년 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaX3V5T3lnRRAB",
+            "text": "De passage à Coney Island, nous nous sommes arrêtés ici pour prendre un funnel cake et deux boissons à emporter. Les prix sont dans la moyenne pour New York et le funnel cake était plutôt bon. Le service au bar, en revanche, était plutôt désagréable, on avait l’impression de déranger."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtcW9lWnlRRRAB",
+            "text": "One of my all time favourite bars ever.  Great jukebox, fantastic people watching, good bartenders and all with Coney Island as a backdrop. We were lucky to be there on a surprise open day off season, pure magic."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwNHYtQTZRRRAB",
+            "text": "the place is here since 1934, and has some history to it. The food offered is mostly fried, I sampled waffle fries and they tasted good. Has always lines to order food, really busy during afternoons. It's right on broad walk, so one can enjoy the food with the view, as there is sitting available on the deck as well as inside."
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRbDRIdTJ3RRAB",
+            "text": "Not much to say about this place. It's like any other spot on the boardwalk, if you happen to be there on the right day and time you'll enjoy it. Other times it's packed and full of obnoxious people. And when that happens, like it did once,…"
+        },
+        {
+            "date": "3년 전",
+            "language": "cs",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1bktXbGFBEAE",
+            "text": "Točený pivo, IPA, Ale do kelímku. Za 12€ + tax. Hamburgery a krevety do misky. Omáčky si přidáte při vyzvednutí na jméno."
+        },
+        {
+            "date": "6년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvd3ZpR2VREAE",
+            "text": "Si pudiera, le pondría 7 estrellas o 20. Estuve allí el día 1 de enero de 2019 celebrando en Annual Polar Bear Club (sí, esos valientes que se bañan en el Atlántico en año nuevo) y no me lo pude pasar mejor. Un Santa Claus motero borrachuzo…"
+        }
+    ],
+    "reviews_count": 63
+}

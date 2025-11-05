@@ -1,0 +1,474 @@
+{
+    "name": "Luna's Kitchen & Bar",
+    "place_id": "ChIJ4yQIT2RfwokRC8BJtt0I-O8",
+    "grid": "QN3",
+    "address": "77-02AA, Roosevelt Ave, Jackson Heights, NY 11372, USA",
+    "rating": 4.4,
+    "user_ratings_total": 164,
+    "phone_number": "(347) 448-6113",
+    "reviews": [
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RM2VtNUdjMDVPYTBzeU5uRlBlV3RmYWpJNVduYxAB",
+            "text": "It was a unique experience"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toNGVUVldXRFo0WmpKVGNsQnJaMjFuZUZsNldWRRAB",
+            "text": "Reasonable prices for beers and drinks"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfenYzY0ZBEAE",
+            "text": "Now its a nightlife bar but a great place to hang out for some beer"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6cDVMRENBEAE",
+            "text": "Best Pina colada ever!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5dUpUZjFBRRAB",
+            "text": "La comida me encantó esto en verdad está delicioso tienen que probarlo"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkeUtHaFhBEAE",
+            "text": "Arrived for a 12:30 reservation to find the establishment closed."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURsLUxxWkZREAE",
+            "text": "Era un lugar excelente servicio\nExcelente comida cuando fui acá otro vez después de ir años este lugar nada que ver un servicio pésimo no se que les paso alo mejor el dueño lo vendió es otro dueño ahora se ve que es solamente un bar regular de la Roosevelt.\nEstábamos de 10\nY ahora 0\nMuy sucio igualito los bares actuales de la Roosevelt"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsX3VhdUlnEAE",
+            "text": "Hours are incorrect came here at noon to find the place closed. So much for a great brunch spot."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwcjZPYmJ3EAE",
+            "text": "A great spot for brunch, very friendly staff. A little tight on the seating but overall everything was great. If you get the Eggs Benedict be aware the sausage that comes on it is spicy."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKbmE2WGt3RRAB",
+            "text": "Un lugar super agradable para disfrutar todo los ambientes. Super recomendado."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4MzhqNk1REAE",
+            "text": "The food is okay but 2 stars just for the state of cleanliness. The fork had food stains and as though that wasn't enough my home fries came with a strand of hair. Won't be returning here and I am just hoping the owners take note of this issue."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4aGRyVWRBEAE",
+            "text": "When with my kids here place is nice feels good my server was great food was good we come for the brunch and I get my mimosa my  kid get huevos rancheros  they look happy with the food I like the place and people"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSOWVySXNnRRAB",
+            "text": "Great food and the staff was really friendly and accommodating."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSazdUNjl3RRAB",
+            "text": "Exelente"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSNE0zVTZRRRAB",
+            "text": "The food is good. Service is on the slow end since they are busy. I would still commend it. Just have patience when it's busy."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoM2ZlNHNBRRAB",
+            "text": "Se la recomiend0"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoeVliZUJ3EAE",
+            "text": "Me encanto la Atención ! La verdad es que hay muchos restaurants a los que aveces vas con algo como que extra o diferente que quieres cambiar del menú y muchas veces es como que “NO no tenemos eso” o “No eso no podemos hacer” y siempre e pensado que si puedes hacerlo like WHY NOT? You know like Para hacerte pasar un buen momento, porque a eso vas a un lugar a comer y muy aparte de la atención la comida estuvo buena a un excelente $$, tenía ganas de comer algo natural jo tan procesado y las fotos de los reviews, me hizo llegar aquí y no me equivoqué, las porciones son muy buenas y la comida está muy buena también !!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNobzZ6NGt3RRAB",
+            "text": "Impressed with the delicious food and the server was very attentive. Had a comfortable dining experience."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoamNhaDNBRRAB",
+            "text": "We had brunch at Luna’s and ordered the French toast with coconut flakes I substituted the blueberries with bananas and strawberries it was amazing. My husband also enjoyed his food. The service was top notch. Luna’s is a wonderful establishment we are so happy we found this hidden gem."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCbGF5MXZRRRAB",
+            "text": "Recomiendo este lugar."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQteDZqZU93EAE",
+            "text": "This restaurant has no respect for people ,\nThey play loud music at 1 am!!\nThere are residential apts around this restaurant."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtMi1tLXhRRRAB",
+            "text": "Great salad and shrimp pasta (very tasty and filling). Guacamole was a bit bland however."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtcTUteW9nRRAB",
+            "text": "Highly recommend the Luna special salad. Best salads in the neighborhood. Very fresh, amazing dressing.  Shrimp pasta is good too. Good portions. Guacamole is only ok, does not have much taste, needs a bit more lime."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlcDhDRHhnRRAB",
+            "text": "The food was good, I particularly liked the berry salad. The coffee wasn't that good, it tasted like diner coffee. The place was kinda loud, and it was weird to start Sunday brunch with the news on the TV."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlLXF1ODVnRRAB",
+            "text": "Excellent service and attentive staff. Good portions and affordable price"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1MTZxQkJnEAE",
+            "text": "Small restaurant with good menu. I went there for brunch and the food was amazing they also have vegan options. Plate size was huge and presentation cool. The prices are cheap according to the quantity they serve"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1bzdLTmhRRRAB",
+            "text": "First off! The service was amazing ! We came in today 8/4/22 around 3:15-ish Our Waitress/Bartender was very sweet and accommodating! The food was AMAZING! Will be coming back"
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPbXNIRzRRRRAB",
+            "text": "Como siempre buena comida y calidad y buen servició y celebración de cumpleaño"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPbUtfYk1nEAE",
+            "text": "Service was great"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPX2ItWWZREAE",
+            "text": "If you happen to be in Jackson Heights spot by  to have a good drink and a good meal come here you won't be disappointed. Especially happy hour 3-7 Monday-friday. Great staff, fast service and always treated like family. Can't wait to be back again"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPX2FfX2RREAE",
+            "text": "Been here 3 times, the staff is very friendly. Family owned restaurant in jackson heights, the drinks are phenomenal and happy hours slamming. If you are looking for a nice and quite spot with amazing food and drink, get off at 74 walk to 77th and make a right and you won't be disappointed."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyMzdYbEpREAE",
+            "text": "The French Toast and coffee was really good.\n\nOur waitress was very rude. She got our order wrong twice and was becoming very annoyed towards us especially since we talked to her very nicely during this whole ordeal. She would rather stand there and argue with us than fix the order and argued with us saying we ordered something else. I am not sure how it is a coincidence that she got 2 of our orders wrong. Towards the end, she stopped coming to our table and sent another employee to assist us. She also stood by the bar and stared at our table while talking with another co-worker. Not sure what they were saying but it seemed odd they were talking and staring at out direction. Food was good but Bad service."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXajVPRlZ3EAE",
+            "text": "Great drinks and love the people and the ambiance. Good for happy hour and dinner."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXOXQ2dE5REAE",
+            "text": "Staff is really friendly and food was great. Overall an amazing experience ! Truly a hidden gem in Jackson heights!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtd3Y2YTBRRRAB",
+            "text": "So charming, great food with great service and reasonably priced. Go check it out."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHdzVucWFREAE",
+            "text": "First time great food and service thank you Luna's kitchen"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHNUwtUG9RRRAB",
+            "text": "Everytime I come, I always get the Penne ala Vodka pasta with Shrimp. Extremely tasty!\nBurgers are also a huge highlight. Always a clean environment, warm hospitality, Chelsea's Mule is also one of the best I've ever had, highly recommend"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHLTR1R3NnRRAB",
+            "text": "Cheap drinks and great food. Free first drink with brunch! Love."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHMHBpZGN3EAE",
+            "text": "I absolutely love their carribean French toast that is definitely my go to. The staff is always so friendly and accommodating, the food is always fresh. Sometimes they would have live music a girl was playing the sax last time and it was the perfect touch!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHM0lpRnJ3RRAB",
+            "text": "Came here on a summer night and had tacos here. Awesome food and even better personnel. Great customer service and amazing food. Good vibe on roosy and good food? What else can you ask for?"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2eWJ5VjdnRRAB",
+            "text": "Awesome spot in Jackson Heights. Delicious food, big portions, and super friendly staff. Highly recommended!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2bnV2clhnEAE",
+            "text": "Love this place! My go to spot for brunch and friends. Love their chilaquiles when they are not too spicy!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2ei1ySXRnRRAB",
+            "text": "Not for everyone, hot beers 8$ dollars x a corona , always vacío lol 😆, good luck 🍀\nI was here x 5 minutes…"
+        },
+        {
+            "date": "4년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2aTdtWjV3RRAB",
+            "text": "Sabrosa comida buenas atenciones lo recomiendo un lugar familiar"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2NGRuRlpBEAE",
+            "text": "Fantastic breakfast place! Excellent staff, the amazingly kind lady who was serving us, the cook who bought us food and everyone... Just wonderful experience. The food was delicious. My kids loved the pancakes!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURpdnYycGp3RRAB",
+            "text": "The staff was incredibly polite and helpful when we had questions about the menu. The Hulk smoothie and turkey panini were delicious! Other items in the photo include nachos, avocado toast, berry smoothie, and Mexican burger. We’ll definitely return for the happy hour and brunch offers!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDbXJUanZnRRAB",
+            "text": "This restaurant should be a lot more crowded than it is.  The food is fresh, visually appealing, and scrumptious.  Service is spot on, too."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLbzltUnF3RRAB",
+            "text": "Great service good food. If it's not on the menu he'll make it at your preferences."
+        },
+        {
+            "date": "5년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzbWF6eFRBEAE",
+            "text": "Délicieux huevos rancheros avec bottomless brunch on peux pas se trompait! Une vrai découverte!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5ajRpVG5nRRAB",
+            "text": "Fast service and nice atmosphere\n\nVegan salad was very filling after intermittent fasting"
+        },
+        {
+            "date": "5년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4Z29tMWNnEAE",
+            "text": "increhible comida.... muy muy rico... recomendado 100%"
+        },
+        {
+            "date": "5년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzam8tSFhREAE",
+            "text": "Las pastas en este restaurant son deliciosas, los spaguettis, los steaks,este es el lugar ideal para una cena formal y romantica con vino tinto mmmm!!!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzanEzZGFREAE",
+            "text": "Great brunch options, some unique to the hood. Carribean French toast is a must, with a side of bacon!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxbFpPTnBRRRAB",
+            "text": "I honestly don't know how this place has such great reviews, I was excited for brunch, but this place is not worth it. The prices are definitely elevated, the french toast with berries, literally included two slices of bread and  half of a slice of strawberry.  The one entree and one free beverage was not upheld. I asked for my steak medium rare, it was well done. I asked for my eggs scrambled, they gave them to me sunnyside up. I love supporting small businesses, especially during this time, but the food should at least be decent and the server shouldn't be so rude and know basic questions about the menu. I wish I would have taken pictures so people would see how the food really looks. I advise you to check your bill because I got charged for things i didn't order."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTanJUNzB3RRAB",
+            "text": "The food was good, went there for brunch on a sunday. We ate inside the restaurant becuz it was too cold that sunday. We had plenty of space between tables. I had the poet's eggs Benedict with salad and potatoes and a glass of sangria.…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpOXF6V0hnEAE",
+            "text": "Threw a surprise party for my boyfriend and they helped set everything up.The food was amazing! The NY strip steak is my favorite, the service was great! Sandy you are amazing. Thank you for having us."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURjd05pNWJREAE",
+            "text": "A true jewel tucked away on a side street just off Roosevelt!\nTHE BEST SPOT IN JACKSONHEIGHTS! Seriously we absolutely LOVE this spot! The brunch menu is delish! Try the Caribbean French toast it’s the best ever! Savory?…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzcXZhUmlBRRAB",
+            "text": "Came here for lunch today - the pesto pasta was very good. My family got burgers and chicken sandwich and they enjoyed them as well. Will definitely visit again!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVMDlMRzdnRRAB",
+            "text": "Food was absolutely incredible and at a reasonable price! Our waiter went above and beyond to make sure we were happy with our food. Would highly recommend!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzOVBhenBnRRAB",
+            "text": "Great food, great atmosphere, drinks during happy hour were amazing. Definitely coming back with the family. Had my infant with me and they were very accommodating."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDcV95ZjBRRRAB",
+            "text": "Was in the area looking for a quick bite and came across them. Placed my order with the young lady inside and food was finished quickly. Amazing service and great food!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxeUx6Q3NBRRAB",
+            "text": "The food, drinks and service were great. I was very pleased with the menu selection  and options. Super glad we chose to eat here."
+        },
+        {
+            "date": "4년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTLVp2UVhnEAE",
+            "text": "Las instalaciones están adaptadas para esta temporada posee una estructura en la parte de afuera en la que tienen calefacción, eso te permitirá comer en el mismo lugar, son muy amables cuando te atienden, el menú es vareado y de acuerdo a lo que elijas podrás dar tu opción del sazón de la cocina"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzMXBhdndBRRAB",
+            "text": "The best place in NYC. I live in and love JACKSONHEIGHTS. This is my favorite place for brunch! I am addicted to the Caribbean French toast! Do die for!!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0OEpfd2xnRRAB",
+            "text": "This is such a cute restaurant. The food was incredible. The service was great, I will definitely be returning!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSURTMFpnchAB",
+            "text": "The service was good the food good drinks good but made a reservation showed up late and they gave my table away not nice luna"
+        }
+    ],
+    "reviews_count": 66
+}

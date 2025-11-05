@@ -1,0 +1,418 @@
+{
+    "name": "El Diablito Taqueria 2",
+    "place_id": "ChIJ_UOvDftbwokRrxqtlvgOJEI",
+    "grid": "BK14",
+    "address": "41A Newkirk Plaza, Brooklyn, NY 11226, USA",
+    "rating": 4.7,
+    "user_ratings_total": 88,
+    "phone_number": "(929) 306-9881",
+    "reviews": [
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5R1JUWk1Rak5wV1RsaFNXODRRV1UwUTBrdFkyYxAB",
+            "text": "I am a midwood native and have been hoping for a good Mexican restaurant in the area for so long. I have to say this is absolutely the new spot. I haven’t gotten to try it since it was opened. However, I needed a good meal after work and ordered to go. The staff was exceptionally kind andthe food was ready very quickly. The true test is the taste. I got the Carnitas burrito bowl, it traveled well and was absolutely delicious. The meat was perfect, and even included a good scoop of guacamole. These guys know what they’re doing. Highly recommend."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SUFoxaENUWGxrZFc0d1dIaFFOVFZ1VjBwamRYYxAB",
+            "text": "Delicious shrimp tacos, great salsas, caring staff!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204MFVEZDRhVkpNYzBNMlFrMVJjVlpwV0dSc2JtYxAB",
+            "text": "Great tacos, guacamole superb"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JM1JHTldkbkJvYmtWUVVtZENTamQyYTFCaGVGRRAB",
+            "text": "this restaurant the food, the ambience, and the service… all 5stars. Authentic Mexican"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aNFpsODJRV1JUU2pZMFlWcHdjemh1UlVwRlExRRAB",
+            "text": "This has become my favorite place to eat!! Everything is delicious and so fast!! The staff remembers my order and are always so kind!! HIGHLY RECOMMEND!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5R2IzVkZPSE13WjJ4ME4wNVdhWGhvZFdSbU9FRRAB",
+            "text": "The best Mexican food"
+        },
+        {
+            "date": "4달 전",
+            "language": "ka",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kTVUwaEZURzF4TVRRM1dFSTNiemRVUmsxUGRVRRAB",
+            "text": "მაგარია სიმონ!!! მექსიკაში გამიგზაურებს გემოები."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPM1Z6SldtNnFHUURBEAE",
+            "text": "Great breakfast burrito and at a really good price"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLSFE0T2piX01TR3pnRRAB",
+            "text": "muy deliciosa"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VLM0ptdWZ2X3V1TjZnRRAB",
+            "text": "Food is mid tbh\nBut cheap so it’s a win I guess?"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPWEVrTjZpdjV2aHh3RRAB",
+            "text": "The food and service are awesome.  Will definitely be going back. My husband ordered the la lengua taco, off the menu, and it was perfect. Not too tender, just the way we like it. I hope they put it on the main meun so I can order it for delivery.  Everything was well seasoned and good portion side"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZd3RqRHRnRRAB",
+            "text": "The steak tacos were rancid  - i tried to get a refund from the restaraunt and explain what was wrong but they said nothing was wrong with it. If thats their standard just be careful not to order the steak tacos"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJaTVTeGZREAE",
+            "text": "I bring my kids in here to eat and they treat us like family. They make delicious coffee in addition to super fresh and flavorful Mexican home cooking. So lucky to have this wonderful restaurant in our neighborhood."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRemFERE53EAE",
+            "text": "Had a genuinely incredible meal. Had a good feeling about the place when walking by one day and it vastly exceeded those expectations"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRZ05MVEdnEAE",
+            "text": "10/10"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBemZELU1BEAE",
+            "text": "Amazing food and even better customer service"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBdUo3ZnJ3RRAB",
+            "text": "5-Star Review: Authentic and Delicious Mexican Cuisine!\n\nI recently had the pleasure of dining at El Diabilto Taqueria 2, and I can confidently say it’s one of the best Mexican restaurants I’ve ever been to! From the moment we walked in, the warm and vibrant atmosphere made us feel right at home. The decor was colorful and festive, creating the perfect setting for an authentic experience.\n\nThe food was absolutely incredible! We started with fresh-made guacamole and chips, which were perfectly crispy and lightly salted. For the main course, I had the chicken bowl, and the flavors were out of this world—tender, well-seasoned, and served with delicious homemade tortillas.\n\nThe service was outstanding! Our server was friendly, attentive, and made great recommendations. You can tell they take pride in their food and customer experience."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfNGJPekVBEAE",
+            "text": "Bought 5 tacos steak,chicken, and fish. All were dry, lacked flavor, and I specifically asked for black pepper/salt on the fish being that it was grilled and nothing! Waste of money if you ask me🤷🏽‍♂️…"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmaW9YaFp3EAE",
+            "text": "Tried this place for the first time and loved it! I got three tacos, Pollo, carne asada and diablito. They were good but diablito was GREAT, the flavor & spice was perfect! Next time I'm getting three of those. The service was great too, polite and fast. Took 6min to get my order. I'm DEFINITELY coming back"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQcDk3Wk5nEAE",
+            "text": "The food reminds me of home. It’s that good."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQeTRYUV9BRRAB",
+            "text": "Great burrito bowls"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQMmVMN3l3RRAB",
+            "text": "Love this place. We order from here every couple of weeks and it's always delicious. My favorites are birria tacos, pescado tacos, and the vegetariano burrito."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYdzhPcmpnRRAB",
+            "text": "Local spot, nothing fancy but with great tortas and tortillas. Service is good.  I will definitely be back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYNmNicW53RRAB",
+            "text": "Amazing huaraches"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYdTZMYVhBEAE",
+            "text": "The staff was very kind and the food was incredible. The carnitas tacos were some of the best we've ever had in NYC - way better than the other places in the neighborhood. I loved that they crisp the meat and add guacamole too.The quesadillas and burritos were also delicious and affordable and I can't wait to try more things on their menu. I should have come here sooner."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURudlpPRTVBRRAB",
+            "text": "service food good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3Z1pqRWpnRRAB",
+            "text": "Wanted to try it for a while and very glad that I did. Crisply clean dining area with friendly, not pushy staff. The al pastor with black beans and Mexican rice was great. Great service and good value too! Will go back and bring friends."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiOUkyR19RRRAB",
+            "text": "Best tacos in the neighborhood + lovely people running the place.\n\nPhoto: from left to right… shrimp, carnitas, fried fish, chicken.\n\nShrimp and carnitas were superb. Fried fish was also fantastic and had pickled cabbage that was super tasty. Chicken was good but not my favorite of the options.\n\nAlso, that guacamole on the tacos came standard without an up charge. 😍"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMX1pUUmR3EAE",
+            "text": "El mejor lugar para degustar la auténtica gastronomía mexicana. Sopes, tortas , cóctel de camarón mexicano. También tacos de birria, de pescado, camarón. Picaditas, flautas. Todo fresco y en su punto! El staff muy atento y amables los Chicos. Abren de lunes a domingo de 8am a las 10 pm. Tienen un menú de desayunos disponible hasta las 12pm."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6c3RTcG9nRRAB",
+            "text": "Fresh ingredients , chips are perfect, and sauces are dope :) Outdoor seating is pretty chill in good weather!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqbTVlYUtREAE",
+            "text": "I cannot thank the team here enough. My job was throwing a Taco party and I immediately recommended this place. Food tastes always fresh/good, people are very friendly and they are quick. If you are in the mood for good Mexican food, skip the other places and go here."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKOF9uY2FBEAE",
+            "text": "So the first time i came here i was really let down by the lack of meat in their steak burrito. However, recently I gave them a second chance and i was not disappointed. I got the steak tacos, chicken tacos, and fish tacos both fried and…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqdGRtWVR3EAE",
+            "text": "Worse customer service ever. Ordered take out from this restaurant. I asked for birria taco and birria burrito among other things. However, when I ordered I specified I wanted extra of the brown colored sauce you dip the birria tacos in for the taco and burrito. The woman on the phone said okay I will send an extra one, three in total. When my order was finally delivered I opened the bag to find not a single of the right thing was sent. I was given an 2 orange colored sauces and 2 green sauces. When I called back I was informed the “brown sauce” or consommé is only given with the three tacos and only in the restaurant by the same woman. She went on to inform me the “brown sauce” is a consommé not a sauce and that she sent sauces and I said none of which are the ones that come with a birria taco like every where else. I was also told they would not be making it right. After they made me pay for my food in cash and would not accept card and after I tipped the delivery girl (who was really nice) a 20% tip. Makes sense now why they only would accept cash. Would have ordered from somewhere else that would have brought the appropriate sauce/consommé. The only reason I spent the extra for the birria was for the dipping and wouldn’t have spent the extra. And the fact they would not rectify their mistake is odd. Not quite sure how they have 3.9 stars, extremely misleading. They must be paying for good reviews or  writing their own. Extremely disappointing."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5eUxXZkpnEAE",
+            "text": "amazing food! I had quesadida camarones. shrimp were freshly grilled, and tortilla was cooked to perfection."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5N3U3M1FBEAE",
+            "text": "The tacos were delicious! I had al pastor & pescado- I have been trying to find authentic fish tacos. The service was good, the food was fresh and came out quickly, and the salsas and fresh nachos were delicious. The jamaica was really good too! I also loved the vibe as soon as I walked in- the loteria theme was such a nice touch! I think i found my new spot."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkNzZ2RkZ3EAE",
+            "text": "LOVE this place. The food is really good and the prices are super reasonable. The interior is really bright and fun. Great tacos and I especially love their tortas."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkcDl2UzNBRRAB",
+            "text": "This is so much better than The Alamo Ale House"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkNEpUeXJ3RRAB",
+            "text": "I love this place right on Newkirk Plaza. I've gotten a variety of tacos there (diablito, cecina, carne enchilada, and chicken) which are all great. The seafood there is also really good. The only thing I've had that kind of sucked was the vegetarian burrito delivery. The burritos are huge but sort of flavorless and the delivery order didn't have any salsa with it. That was definitely only kind of bad thing."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxaGV5RVdREAE",
+            "text": "My go-to in the neighborhood—friendly service and authentic Mexican food. Delicious and affordable."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGMi1mZG9BRRAB",
+            "text": "Big fan of El Diablito 2. Delicious, fresh, authentic Mexican food from this clean, well-run gem of a restaurant. You can tell this is a family-run restaurant from the friendliness, hospitality, and pride they show the community. Eat in or call them directly for delivery or pick-up, you’ll be very happy. Don’t forget dessert. Great location in Newkirk Plaza."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1LTlualpBEAE",
+            "text": "One of my new go to places! Highly recommend."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURadnVuLXBnRRAB",
+            "text": "This place is fantastic.  The food is fresh and delicious.  The staff are super friendly.  The atmosphere inside is awesome but Newkirk Plaza can sometimes be questionable.  Nothing the restaurant can do about that though, but it can make sitting outside problematic.\n\nThis place is a MUST TRY!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURac3F1MEdBEAE",
+            "text": "delicious, everything was super fresh. grilled vegetables were delicious and birria was great."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNabF9yRFpREAE",
+            "text": "Wowie this place is awesome! We ordered el diablito enchiladas, chicken tacos, chips & guac and churros and everything was delicious! Generous portions and reasonable prices. Such a great addition to the neighborhood!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaMWFqRTdnRRAB",
+            "text": "Best Nachos in the Area & the place is always clean and the service do not take long at all"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNadWJMWXZ3RRAB",
+            "text": "Best Mexican food in Brooklyn! Everything is made fresh to order and the prices are affordable too! They also have amazing drinks  that taste great!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwZzRmc3pRRRAB",
+            "text": "Amazing tacos. Best I’ve ever had. Great service, very nice employees, didn’t have to wait long for food. Hidden gem in Newkirk Plaza!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKNzYydmx3RRAB",
+            "text": "I've eaten here twice. Both times every scrap of food I've tasted was delightful. This place has a lovely decor made from images from a popular Mexican card game. The effect is energetic, enlivening. The layout is more kitchen - heavy. There is outside seating, and five spacious tables inside. Service is always great, but if  Cadolina is taking care of you, you will experience bliss. She is passionate about making customers happy."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaaWRuSmdRRRAB",
+            "text": "BEST TACOS IN DITMAS PARK. Plus Tarot card paintings? It’s a chill, cool atmosphere. Awesome prices (I got 3 tacos for $10). The service is also stellar - our waitress was so sweet. They’re new to the neighborhood but had automatically become our New Mexican go-to spot."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKemVIczdBRRAB",
+            "text": "Excelente lugar comida Siempre fresca y a muy buen precio el servicio el mejor !! Se los recomiendo !!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKcUxiczB3RRAB",
+            "text": "I liked the food, excellent service, and good attention, place always clean and organized, I recommend it."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURweHJ6ZnR3RRAB",
+            "text": "Great addition to newkirk plaza!!!\n\nOffers free chips and salsa when dining in. The three salsas they offer are spicy and taste homemade. The horchata is made in batches. I watched then pour the batches. You can get a whole quart for $7. We got their special (3 tacos for $10). Great deal. This is the 2nd location to the original diablito location in Manhattan. I have been to the first one and that was great. I didnt realize until I read about this location. Now it makes sense as the flavors are similar.\n\nGreat for a quick meal, date, and everything. Service was excellent."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKemJ2RVV3EAE",
+            "text": "Newkirk Plaza has a new star! Great food, good prices, very nice staff. El Diablito Taqueria 2 has become my favorite takeout restaurant in the neighborhood. I can highly recommend it."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKanJYVWNBEAE",
+            "text": "im a loyal customer ever since the resturant opened, the food and service are always exceptional. Every single one of the wokers are very kind. One of thee best foods i've had in the area. I will be a loyal customer for a long time, i highly recomend."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKdGR5UWd3RRAB",
+            "text": "My family and I love coming here to eat. All the dishes are very good, the staff is very friendly and the place is very clean and the owners of the restaurant make you feel like you are part of the family."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKNWNXNmVnEAE",
+            "text": "The food is excellent, the portions are good and the service is good. Definitely one of  the best Mexican food  restaurants I’ve had in Brooklyn so far"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKbzU2TXVRRRAB",
+            "text": "I had an amazing torta and a great chat with the owners. The food was fantastic, and they could have not been nicer. Super recommended."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwNk5YdjdnRRAB",
+            "text": "Excelente servicio la comida es fresca y muy buenos precios...."
+        }
+    ],
+    "reviews_count": 58
+}

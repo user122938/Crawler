@@ -1,0 +1,684 @@
+{
+    "name": "Gulp",
+    "place_id": "ChIJzdIV2eNZwokRxSJvbX8IIZ0",
+    "grid": "QN1",
+    "address": "42-45 27th St, Long Island City, NY 11101, USA",
+    "rating": 4.8,
+    "user_ratings_total": 1888,
+    "phone_number": "(929) 789-8644",
+    "reviews": [
+        {
+            "date": "14시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aSFkxcEJWVEEzZEV4eVMxbHlRVEJSY1ZacGExRRAB",
+            "text": "Great food and service."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBdGRtUkZSVXBVUmt4TWFWVnNjbTgxTkVWS2VVRRAB",
+            "text": "Really great spot for a quick bite! Friendly team here! Vibes immaculate 👌 The food was really good! Got the braised pork over rice. All the sides especially the Taiwanese popcorn chicken, all time favorite."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KaVlqZzNaRGMyWDIweVh6Wk1VVEpYTFdKVVZtYxAB",
+            "text": "Very decent and authentic Taiwanese food! Must visit!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCUWJ6bFRaWFpEY1dWeFFVbFlTVUZsUkZsbmFIYxAB",
+            "text": "Chicken soup is very tastey!\nMake me feel warm🌟"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210WFpXcDVaR2MyTTFZNU1rNUxhRXBUVlRWRGIyYxAB",
+            "text": "Fast service and delicious!!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21walRHWXlOSEJrV2toVlUyd3dha3BIVWxjelQyYxAB",
+            "text": "Good and quick food"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201WlYwNURiVmd4UkRCTVRGaGxYek5vVGxsc2NWRRAB",
+            "text": "Had a lovely experience here! Food is amazing, I got the beef noodle soup set which was so good and filling highly recommend"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOdGQzQndXRWxuUlVNd1EwbGtVMlJXVlhCVVVFRRAB",
+            "text": "If you’re craving a hit of home — that deep, unshakable comfort that only Taiwanese food can deliver — this is the spot. The food slaps, the playlist’s got Jay Chou vibing in the background, and the staff? Cool as hell. You sit down, take one bite, and suddenly you’re not in New York anymore — you’re back at that night market where everything smelled like soy, garlic, and pure nostalgia. The vibes are immaculate, the flavors hit like a memory you didn’t know you missed, this is it."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFeVowRTVNVEJNZDFkMWN5MUtjbVV6YmxaclJsRRAB",
+            "text": "Delicious😋😋😋"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFM1YyVnNTbTFMZG5wT1NXUnBUbFJrUkMwNVlWRRAB",
+            "text": "Amazing spot for authentic Taiwanese cuisine."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWNk4wOXJWSEJOWHpWVk0wZHdhVWhNTFUxVldsRRAB",
+            "text": "Totally amazing! Every element of the combo was yummy!"
+        },
+        {
+            "date": "3일 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twd1RqQTJNalZqZDNkRmN6WnhXblZvWDNkbGIxRRAB",
+            "text": "台湾卤肉饭很好吃！！！"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCNFdEVlVTVE5XU1ZGSFoxcFVkekEwTlVKQ1ZYYxAB",
+            "text": "Awesome Taiwan comfort food that reminds me of Taiwan. Don’t forget to add their complementary picked vegetables to your rice or noodles!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwNlp6bENWVTlYYkUxdVlXeGlTM1ZwTVZwVk1sRRAB",
+            "text": "Cozy, yummy, friendly, what more could you want"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aU1JHTkpXVXByTFdGV2VWbE9VM0ZGYmxrNGEwRRAB",
+            "text": "Super quick service and yummy food!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210YU5GVXlNMTlyVVcwMGNHZzJkRzB5YkRoVlNFRRAB",
+            "text": "Good comfort food, beef noodle soup is very tender"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WT1dFSlBWRU5PV1VGaFpVOTVXRFJ4TUc5ZlozYxAB",
+            "text": "Great Taiwanese food and I’m a huge fan (and loyal customer). One small comment to the owner: for the scallion noodles, consider packing in a larger container (instead of jamming the noodles in a small container). Often times, it’ll arrive as a solid block and it’s nearly impossible to separate the noodles as it all sticks together like a giant hockey puck).\n\nOtherwise great food!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CMFIzUXhTbVpsYTBKWk1rNXRlREJDTFdGNmEyYxAB",
+            "text": "Decided to give this place a try because it was cold out. The cozy vibe and beef noodle soup really hits the spot on a rainy day☺️"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaMlVscHhNbTFFWlVwSVJYVXlUMmRHV1hGTUxVRRAB",
+            "text": "Ordered on uber eats, there’s free item with any purchase $40 and free item with Taiwanese minced pork noodles, please check it out carefully!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoZlZqSndRVGxIYW5NM1RUSnFhWE5DUm5SQldsRRAB",
+            "text": "I wish the tea eggs were soft boiled and it would make the meal 10/10"
+        },
+        {
+            "date": "1주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OSFNtWXhYMnRQYWtab1EwOUZjVGszWTFnMWQwRRAB",
+            "text": "好吃的 服务也很好的 价格不贵"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFNFZqTjNSRnBpTFdFMlZtZFFNMUZRV0dSbmRFRRAB",
+            "text": "This restaurant stands above all competition. Above all else, workers display authentic friendliness. The restaurant has proven itself reliable. Their servers and cooking consistently deliver. I appreciate the crowd-sourced suggestion."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kblkzSnNMV3BPWm1sVGFUYzNjM1l0YnpVeVRrRRAB",
+            "text": "small dining area but such a good food for a reasonable price!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Cek1GUlZaMTh5TWt0Sk9EVnBTMU4wU1VaTVNWRRAB",
+            "text": "Very cute store!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4b1dEQlBjbkpNVXpnd01qWnhOR2wyUWxkellXYxAB",
+            "text": "Great food for a great price!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twMlltaFBOR3d5Um5WQlRFTjBRbGhNUnpWM01WRRAB",
+            "text": "Small place but great for takeout and super reasonable prices!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0eE16TXdVbW8yYkhWWk1XUkVZamxTYVc5MmIxRRAB",
+            "text": "食物都非常台式！鹽酥雞超級好吃，大推鹽酥雞！！"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Wb2VTMUJkV3BFZEc5T01WaHhaWGxLVTI4eU5tYxAB",
+            "text": "Really enjoyed our experience overall! We got the signature beef noodle soup and pork over rice, which both come as a set.\n\nThe broth had a deep flavor and paired very well with the karaage and vermicelli side. We also got a little sugar marinated tomato as a free starter - would recommend!"
+        },
+        {
+            "date": "1주 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oT1FuUlBVMGhZYzI1UFlqUXhkRTlGYUhkSFdIYxAB",
+            "text": "我很少留評論 但真的好吃到必須來給五顆星！！！ 台灣人想吃雞排的話吃這間就對了 來美國一個月很想念台灣的食物 叫外送吃到雞排差點哭出來 超級好吃又香又嫩又多汁！！！"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOYU56SnpNM1p0WlRjMGJtWnFPVkl5Tkd0a1ptYxAB",
+            "text": "Seriously so yummy! Very unpretentious atmosphere. The wait may be long as there are only 5 dine in seats, but there is a bar in the back. You can grab a cocktail and wait for your seat to be ready. Highly recommend a combo to try a bit of everything."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oM1YxUXdhSEJXTTBaUWMySlRNa041YVVKbU1uYxAB",
+            "text": "i would definitely come back again! got the chicken and pork rice dish + the beef noodle soup."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GV1VIQnhaVUZtV2xsNFh6TXpOWFp0VG1nNU9VRRAB",
+            "text": "After moving from Singapore, I was really craving Asian food. It was perfect, I will be back often 😍"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWUFdVWjVUbXhmVkVGM2NreERjMHRhTUVsNFZXYxAB",
+            "text": "Ordered breakfast at the store and have it packaged todo and even tipped then I changed my mind and wanted to have two bites in store and was told I cannot because I ordered for takeout?! Then why do you ask for tip if I’m going to be rejected service later? It’s 9am on a Saturday nobody is here… never going again."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oVU4wMVRURTV4V1V4MFlrWmFOM3BQU25GcVVuYxAB",
+            "text": "This restaurant delivers food in its ideal form. The menu delivers quality with courteous staff. The staff provided outstanding service, being nice and consistently attentive. All the main dishes were incredible, visually stunning and carefully paired. Tasty menu options, helpful employees, and a pleasant environment throughout."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5VlJWOUVhMkV4WkY5UmMzRTFjV05HWTFWQ1EyYxAB",
+            "text": "Amazing food! Got the beef noodle soup and it was so yummy. Love the free extra noodles. Also the staff was super attentive and accomodating for us."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSSGJuWk1hMWhQYnkxWWMxRkdiVXhTYURoSFZGRRAB",
+            "text": "Licked my bowl clean!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FeVdqUnFiRFJFVUdrd05XNVJkM04xVkhkQ1dIYxAB",
+            "text": "Taste good."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VeFUyUldjRXh1U21SV1pHMVNlbTVDTFRGVVVFRRAB",
+            "text": "delicious！"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoWlRrRTFiVlJ1VFMxSFZHNU9SblYzWm5ZNVVsRRAB",
+            "text": "Really delicious beef noodle soup. I got the combo. The tea is fragrant and strong and the beef is so tender. Highly recommend!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKTU9Ga3lORmh2VjA1RGRYaFpha3B3WjJweWNYYxAB",
+            "text": "Great food and atmosphere"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poQ2FWaFFObFJRYVZSTVlqSkpZbEJYZEdsb1JXYxAB",
+            "text": "Loved everything about it. Amazing service and food."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xQ2NuQlFSMFZaVUU1T1JHbEROSFExVHpkd2EyYxAB",
+            "text": "Delicious"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NNU0yOHlkVVJpZGpka1kzQnhPRFZxVERKeU0wRRAB",
+            "text": "I order from this place and come to this place atleast once a week! The pork over rice is amazing!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4emFucG1XR2hOZG05M05FbHZlV3BGY0dVM1EzYxAB",
+            "text": "Amazing food and friendly service!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SU1NqSkZWSEJ2UW5abVlsOHphRVpqZVhrNU5HYxAB",
+            "text": "Authentic Taiwanese Chicken Cutlet! 雞排好吃！"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxV1ptMHpSbWhFVG1Rd01raHhiMGx4VjB3eFJIYxAB",
+            "text": "I don't eat meat, but they were very accommodating! I was able to get an appetizer (radish cake) and a drink"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WcmVFVnZkV3BrUVU1eFlWUndORVZTYlRkUFdrRRAB",
+            "text": "Excellent"
+        },
+        {
+            "date": "2주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xeVNrNVRVelZJUlVkMFkwdE9URTFsVjNweVJYYxAB",
+            "text": "饭菜好吃"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSNk56ZERWRVEyTkZOeGRURkRiVmhVUzBkTlYxRRAB",
+            "text": "Had to come at an off-peak hour, around 3, to get a seat quite easily. Their dine-in only seats around 5-6. Chicken and pork combo was great, popcorn chicken was seasoned perfectly, with nice noodles and picked vegetables as well. Price is reasonable, and pretty filling. They didn’t take cash though, prepare to use card."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkeGNsQllRMUJ3VkRjMGRuVjBURGwzTkZwQmFIYxAB",
+            "text": "Great food and must visit"
+        },
+        {
+            "date": "3주 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMWFtNW1PRkJhVjJGcVRrWjRSR2xOY25aaE5YYxAB",
+            "text": "맛은 있는데 양이 진심 엄청 많음 그리고 팁이 기본 20프인게 맘에 안듦"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNidlBQSGJ3EAE",
+            "text": "Beef noodle soup - it was sooo good. I felt like I was eating in Taiwan again! The owner mentioned their broth is boiled with healthy vegetables for 4-5hrs. I felt very nostalgic while eating this. Noodle texture / thickness, broth, tender beef, medium spicy, cabbage, popcorn chicken - everything was on spot. I would definitely come back for diff menus.\n\n우육면 유목민이라 차이나타운과 한국에서도 항상 찾아다니며 먹는데 여기가 찐이에요! 대만에서 먹은 맛과 가장 근접합니다"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poalkwSktXRUpFWTA0M1YyMTNVRGhrU20xU04zYxAB",
+            "text": "I came here for dinner with one of my friends and we both loved it. The interior of this space is pretty small (only 5 seats), so you likely have to get there early to put your name down on their waitlist (that's what I did). Fortunately, the wait for me was only about 20 minutes. However, behind their restaurant, they have a speakeasy that you can grab some drinks at while you wait!\n\nThe menu here is very simple, with only a few set items. If you are looking for more of their appetizers/dishes or even their new breakfast menu(!), it is only available for to-go (although their breakfast menu is a bit different). My friend and I ordered their beef noodle soup combo and we both loved it. The set came with pickled cabbages, popcorn chicken, tea eggs, and iced tea. It was so filling, huge portion, and very comforting. Loved it and I would love to come back to try their other dishes or try their expanded to-go menu!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GSmMyUTBTRGd5ZWpRMU1IWTFOM04yZURFek5FRRAB",
+            "text": "I was staying at the ALOFT near by and wandering around to find this place just opening up near a cute cafe. Lovely Taiwanese joint with fun friendly group of people running the place, with all the same dedication and friendliness that the Taiwanese are famous for. Smiles all around and excellent food. Why not eat here all the time? Made me feel like I was at my second home, Taiwan."
+        },
+        {
+            "date": "2달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSVGJHOHliV28yVUROWVYyVmZhekpWTmpCWVNtYxAB",
+            "text": "店內大約5個座位，大部分人都是外帶吧\n滷肉飯很好吃，肉汁浸濕白飯\n少了一點台灣的油感\n小菜味道偏清淡，可以再多些調味\n粉絲偏脆跟想像中的口感不一樣\n蔥油拌麵外帶的碗太小了不好拌開，建議用大點的碗，這點有點可惜\n\n因為外帶，沒有嚐到傳說中的酸菜\n不知道能否有機會用小夾鏈袋裝呢"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SmVIaG5ibVZSVG5kS1JEbFVlR3RJV0ZCQlFrRRAB",
+            "text": "Ordered the Lu Rou tie combo and it was delicious! Came with popcorn chicken, a small bowl of noodles and seeet oolong tea. Service was really fast and excellent customer service. Will definitely come back!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5T1FWRk9OblI0UlVRM1pXbzBOMnRKUzJGa1pYYxAB",
+            "text": "Tried the Lu Rou Fan (braised pork rice) combo and it was absolutely delicious. Along with the Lu Rou Fan, it comes with Taiwanese popcorn chicken, tea, and noodles/cabbage.\n\nComing from Texas, it's impossible to find Lu Rou Fan of this quality. The restaurant is small and can only seat 5 people at a time, but if you can wait, it's definitely worth it.\n\nThe service is top notch - they make sure to get your order out to you as soon as possible. Every time I'm in New York, I'll be making sure to make my way here. I recommend you do the same!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CblUzQkpZVU5DY2pOSFdrRkNabFpYTTJGcmRVRRAB",
+            "text": "Authentic Taiwanese restaurant. Seems like staff is mostly Taiwanese. Got breakfast since all main entrees aren’t available until 11am. Had the fantuan and egg wrap. Absolutely loved the wrap. It has so much flavor and texture inside, egg, lotus root and pork floss. Yum! Tiny place with a roll of bar seats. But very friendly and quick service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsUU5GUmpUemN3Vmt4bFUwOXVSbVZQVTFOUmRuYxAB",
+            "text": "Dined in today and love the open kitchen concept. The staff were really friendly and attentive. I ordered the Braised pork rice combo and the chicken and braised pork rice combo. Love the overall plating with the different side dishes and the portions. The made in house Tea that comes with it is my absolute favorite. Such delicate flavors and a hint of sweetness."
+        },
+        {
+            "date": "1달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKMllYaEZZelIyTUhZeE1VTXdNRmR1WVdVNGFYYxAB",
+            "text": "As a Taiwanese, I can confirm that their beef noodle tastes pretty authentic! Popcorn chicken that comes with the set also tastes very much like Taiwan’s. Definitely recommend!\n\n牛肉麵吃起來真的滿台灣的！看到白磁磚加上大同寶寶加店裡放著茄子蛋的歌我就知道這頓穩了，推薦！"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kck0xWnZOVlV6ZUVkc2RXeEVNaTFLZEV4UFgwRRAB",
+            "text": "The store was very compact, can only accommodate around 5-6 people by the bar table. The foods were insanely good and tasty, delicious and authentic Taiwanese style. Chicken cutlet defining highly recommended and the beef noodle  soup was amazing, one of the best ones I had in NYC so far. Price is also reasonable and affordable. Never had a chance to dine in since always with kids and don’t think it’s a kind friendly space. But that’s ok, take out is still worthy. Street parking is hard to find and actually the store was kind of hidden as well."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204Mk5FOVZWV1pvUzFWYVRGUm5Salk1TkdOWGJVRRAB",
+            "text": "To be honest, I've been looking for a American style Taiwanese breakfast for a long time, so I was really excited to see that this place offers it. I visited in the early morning and ordered a variety of items: a sandwich, an egg pancake (dan bing), hash browns, a rice ball (fan tuan), and soy milk. The food was decent but not really amazing. The staff tried hard to provide good service, but they seemed to lack experience. The store itself has a lot of thoughtful touches. I'd visiting again."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4NFJEZERPVFZXTm14aVFrbERWMUJaWWtrNVZWRRAB",
+            "text": "As an epicurian, I found peace when I found you. Call it maybe nostalgic, I would have never thought Taiwanese food could ever have anything similar with Venezuela but when I dine in with you I feel back at home, eating some fried chicken.  I love having the beef soup, they offer extra noodles as well. Their food is healthy and thoughtful, I always leave with a full stomach, they are always working on innovation adding more things for our appetite, I still haven't made it for breakfast yet but I have heard you guys will be in the city soon too. I wish you the best and look forward to trying more Taiwanese food. You won't regret coming in. They have amazing taste for the music too. Thanks again!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwNVRIaFNVRTVqUWtaWFZtZzBPVU40VDA5MGFHYxAB",
+            "text": "Cute little gem in LIC. Finally snatched a seat on a Saturday night ~8:45pm of all nights! They only have 5 bar seats so wait time is typically long if you want to sit down. Most people order to-go.\n\nIt’s a small menu but I love how the choices all come with a set w/ veggies, popcorn chicken, and iced tea. They have Taiwanese sodas Apple Sidra and Hey Song Sarsaparilla too.\n\nIt’s a little pricey for Taiwanese food but since authentic Taiwanese food is so limited in this section of NYC it’s worth it once in a while.\n\nService was fine- not the fastest but not slowest either. They gave water and a small pickled salad to get us started before main set came out.\n\nRecommend trying if you’re in the area and can get a seat! They also have a speakeasy in the back that serves the same food too. We see more people going in and out of there…"
+        },
+        {
+            "date": "1달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204NGJWbFFOVTA1U1dZeU1FaHpiR2wzYVZjM1EzYxAB",
+            "text": "这牛肉面太太太好吃了！！牛肉味超足，块块带筋，又香又糯！！盐酥鸡也很脆很有鸡味！！"
+        },
+        {
+            "date": "3달 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGWU9XcFphMnhFVGpKVWJtUmpiRFF4YWtwcVNWRRAB",
+            "text": "ホテルの裏にあって、評価が高いので行ってみたら素晴らしいお店でした。安くてボリュームあって美味しいです。\nただ、個人的にはちょっとボリュームがありすぎたかも…残った分はテイクアウェイさせてもらいました。\n奥に日本のバーがあるようなので、行ってみたいです！"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxclQyUTNXWFZOV1dOVmVXOVBlalF0WVRSMmJFRRAB",
+            "text": "First of before you walk in you notice the quaint design of the interior, which immediate brings you to a differnt time and place. The wait was reasonable considering there are only a few seats. The food also arrives quickly. 10/10 on taste and presentation. Make sure you add the preserved veggie condiment and their in house hot sauce. Would definitely be back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SNlZrRlpaMGhaUW5GUk0zSm1SekoyV0ZsU1QxRRAB",
+            "text": "Braised pork dry noodles are amazing here! Love the chicken and tea that comes with the combo as well. Also the marinated tomato appetizer was a really nice and refreshing surprise. Really great go to spot for a quick meal in the neighborhood. Will definitely be back!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4eFowaFRXbk5DUjBGbmVVMUNTazAxVmpsUVRXYxAB",
+            "text": "Good service, a little bit of crowded inside the restaurant.\n\nI ordered TOGO, and picked up before the estimated pickup time. I brought it back home within 3 minutes, however, the rice was all stick together. I don’t think the problem would be caused by me.\n\nIdeally, the rice for chicken/braised pork rice is such important. They messed up the important part so I was disappointed. 😔\n\nHope they can improve how they cook their rice.\n\n(Also oredered another Taiwanese bento box from other places with DoorDash, and I didn’t encounter such problems)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMNnZycVRlc1lQVERBEAE",
+            "text": "The best combo lunch deal! Each combo comes with a rice bowl / noodle with popcorn chicken, vermicelli salad and a lightly sweetened tea. Everything was delicious, particularly the marinated iced tomatoes they served as an appetizer. The restaurant itself only has 5 seats so  you probably don't want to dine in with a large party. Will definitely be back if I am in the area (the speakeasy bar behind the restaurant is also great !)"
+        },
+        {
+            "date": "2달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zeU4wTnBVbUZtVkc5RGFuRTFNMUY0V2paMWJGRRAB",
+            "text": "第一次來這邊真的好好吃啊，我都吃撐了！下次我要再來吃早餐，今天錯過了早餐時間🥳店員真的好熱情❤️感覺就像是在台灣一樣！完全推薦來這家店！☺️菜品也不錯都很新鮮！好喜歡鹽酥雞，還有牛肉！☺️"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWR1ZYQTFhekIxUjJGc2VYaEJNRTVIZFhWNFJuYxAB",
+            "text": "Absolutely phenomenal food. Seating is limited but just order for takeout. Still just as good.\n\nForgot to take pics of the food but took pics after I finished. Ate it so fast. So goooood."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rek1XTnVZVGxZUkVnd2QySnFha3ByVUhsMWMwRRAB",
+            "text": "Absolutely amazing Taiwanese food! Gulp Restaurant nails it with their flavorful dry noodles and incredibly tender braised pork. The combo meals are generous and delicious — perfect for a satisfying meal. Everything tastes homemade and authentic. A must-try spot!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KMmJERm1XSFU0Uldaa1gySTJVelJtTTFkeU9FRRAB",
+            "text": "Homey with 5 dine-in seats. Food very authentic and large in portion. Good price. Super kind and friendly staff prepping food right in front of you. Homemade sauces also great."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xweVpGTTJaWGRFZUcwdFlUZFhaV3BCVkRkcFFtYxAB",
+            "text": "A new Taiwanese restaueant in LIC! This Taiwanese spot is small and cozy, with just a handful of counter seats, so you might have to wait 20-30 mins during busy times. I went for takeout instead, and the food was flavorful, and satisfying.\n\nTaiwanese cuisine is hard to find in Long Island City, so I’m especially happy this place opened. Good food, and definitely worth checking out!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKUG9yNzdZdTZfcXV3RRAB",
+            "text": "I stopped by here for dinner and the food is delicious! I ordered the braised pork dry noodle combo and the entree was so flavorful. The popcorn chicken it came with was perfectly crispy and there were also a side of vegetables. I will definitely be back! I want to try their takeout menu!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toMmJuVkNXVEJpYVd4RU1EVlVkMnRDT0U4eE0wRRAB",
+            "text": "One of the best Taiwanese beef noodle soups I've had in NYC. The beef is extremely tender and the broth was delicious. Everything was made of quality ingredients and it would be hard to top this spot."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNVHAtZjJRLTZya1NnEAE",
+            "text": "We loved our Beef Noodle Soup.  Such a comforting flavorful broth!  To start, they give you some \"fizzy tomatoes\" which was a sour and sweet delight.  The beef noodle soup came  quickly with some fried chicken, a tea egg and some nappa cabbage and vermicelli on the side.  I highly recommend it!"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VQV2dvcTY2OE1mMFVREAE",
+            "text": "Small local Taiwanese restaurant, has about 5 seating. Busy during lunch time, but you can add your name to a waitlist if you want to dine-in. They gave us some pickled tomatoes while we waited, which were delicious and refreshing. They have a separate menu for dine-in and to go. We ordered the beef noodle soup and dry noodle. The dry noodles were really good, we added an additional bowl that costs only $3 more"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ocE0zTk1hVmhSVDI5aVdXZDNTSFpGVm5oNUxWRRAB",
+            "text": "Really cute eatery with authentic Taiwan vibes. We had the classic Taiwan beef noodle soup- incredibly tender beef. Highly recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjNVJscERSVTV0UTJKTFprOWFhVUZxUzJwTVNYYxAB",
+            "text": "Fast, friendly service. We ordered the beef noodle combo, and the pork rice combo and both were generous portions and absolutely delicious!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0S1RFWXlkRjh0UTNWVVlVdDNWbUkwT0ROS2VFRRAB",
+            "text": "Gulp is finally serving breakfast! Their omelet are made fresh to order, and the sandwiches taste just like home — the authentic flavor of Taiwan. Honestly, it’s so delicious. I think I’ll be coming back every day."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJNkpmY0R3EAE",
+            "text": "Delicious food and ate indoors. The staff are very nice and food was very flavorful and plated very nicely.\nWe ordered beef Noodle soup and braised pork over rice. The beef noodles soup was very flavorful, the noodles and beef were bouncy, very nice texture.\nThe braised pork had very umami flavor and soft to compliment the rice.\nGet the combo so you try the popcorn chicken, very good seasoning.\nThey also served complimentary tomatoes, very nice experience you wouldn't know it's tomatoes. Overall very nice"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSM1NHRTFSWGxuVEhoNFQwdGxhbkp4WlZKSU1YYxAB",
+            "text": "Very homemade,  small Taiwanese stall feel! 100% recommend and can’t wait to come back to try their winter offerings!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvenZ1NzhBRRAB",
+            "text": "Wow, this has got to be one of my fave restaurants here in NY. Authentic Taiwanese food that just hits the spot! You get a whole combo with your order. I ordered the lu rou fan (braised pork rice) and it came with popcorn chicken, noodle cabbage side dish, and tea. Plenty of food for one or two share if you're not too hungry. The space is really small, but the intimacy makes it vibey. There's also a bar in the back that you can check out after you eat or while you wait to be seated. Love this spot!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNTU2WVhBEAE",
+            "text": "This is a popular take out location. I was dine in because I was lucky enough to grab a bar stool there along the counter area.\n\nThe beef noodles were really good and the meat was so tender, flavorful and juicy.\n\nThe Moon Shrimp Pancake was unexpectedly good but I preferred it without the sauce.\n\nI tried the plum tomatoes side dish also. I'm not a fan of raw tomatoes but these have a sweet and candy-like taste. I really enjoyed them.\n\nI highly recommend this restaurant!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toRFlWUmtOR2xOZGs5cGVuZGhhamR6YmtwSk9VRRAB",
+            "text": "The food overall is phenomenally tasty and not greasy at all. Pickle is a must-add topping to flavor the dish even amazing!"
+        },
+        {
+            "date": "2달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Wa1JuWnhlRkJDY3kwM1ZFSXhNMWcxTlVFMVJGRRAB",
+            "text": "第一次来很好吃 我点的鸡卤饭 不腻很平衡很不错 会继续来～套餐里有很多选择 很丰盛 旁边可以自取的小菜和辣椒也很好！"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnbkl5U3VRRRAB",
+            "text": "Big Taiwanese flavors in a tiny spot. Don't be fooled by its small size, this restaurant packs a powerful punch of genuine Taiwanese cuisine.\n\nDespite having limited counter seats and a bustling open kitchen, Gulp LIC delivers an  authentic taste experience that keeps diners coming back from more.\n\nWe sampled the beef noodle soup and the braised pork rice, and both dishes impressed with their generous portions and rich satisfying flavors.\n\nThe menu is concise, it focuses on quality and delivers on taste.\n\nService is remarkably friendly and quick, even amid the constant flow of orders.\n\nIf you prioritize authentic flavors and don't mind a cozy, bustling environment, Gulp is a must try for a quick and satisfying Taiwanese food fix in NYC."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvaFB5WHNnRRAB",
+            "text": "I have been wanted to eat here for a long time and finally got a seat with my friend! They serves the food super fast and the service is great and friendly!\n\nThe food did make me nostalgic and very full lol. Come dine in and the food always come in combo set + appetizers!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oM01VOTBXakJQVmxReFZURjViamhOYjA5QmFtYxAB",
+            "text": "I tried Taiwanese food for the first time at Gulp, and it was amazing! I didn’t know what to expect, but every dish was full of flavor and surprisingly comforting. The sauces were especially good — I couldn’t stop eating. Definitely a place I’d come back to!"
+        },
+        {
+            "date": "6달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJcnFia0x3EAE",
+            "text": "I had a great experience at this restaurant! The food was delicious and freshly prepared, with generous portions and beautiful presentation. The staff were friendly and attentive, making sure we had everything we needed throughout the meal. The atmosphere was cozy and inviting—perfect for a casual dinner or special occasion. I’ll definitely be coming back and highly recommend it to anyone looking for a quality dining experience.\n\n我在這家餐廳的用餐體驗非常愉快！食物新鮮美味，份量十足且擺盤精緻。服務人員親切又細心，整個用餐過程都讓人感到被照顧得很好。餐廳氛圍溫馨舒適，無論是日常聚餐或是特別節日都很適合。我一定會再回來，也非常推薦給想要享受高品質用餐體驗的人！"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJMlptNUNlV3hKU2sxS04xQTRRMWRFYjFkUlIwRRAB",
+            "text": "Came here for brunch and dinner, both were really authentic looking and tasting but I really loved the brunch menus omelette and soy milk\n\nHighly recommend, they also have take out available since there’s limited seating"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kMWIwUjVTVEpGTUVWWFkyZFpibDk0UVU1TFJYYxAB",
+            "text": "UPDATE 09/22/25: Management did a great job of addressing the issues I had with my order and I went back to dine-in for a late lunch. I tried the braised pork dry noodles and was thoroughly impressed with the portion size and flavor of my dish! The pork sauce was very flavorful without being salty and the chicken remained crispy the entire time. You have the option to add on a second bowl of pork noodles or a pork chop for only $3 which is a fantastic deal for the quality and quantity of the meal. The staff was attentive and kind and I was very satisfied with my in-person experience. I will definitely be back!!\n\nUsually enjoy the beef noodle soup for takeout although lately I have noticed a decline in the portion sizes of their takeout orders. On one occasion, I was only given a few measly pieces of beef which was disappointing but did not think much of it. Today, I ordered the lu ro fan to-go and received an offensively small portion of pork. It was only enough to cover the outer surface of the pile of rice and the pork pieces were exceptionally small compared to what is shown in advertisements and from dine in photos. The flavors are good, I just wish I had more to enjoy. I would like to indulge in their bigger portions in person one day but after this experience I am afraid of risking another disappointment."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210TGFqVTBXbEp4WTJGU1NuUjJha0YxZERCaldIYxAB",
+            "text": "Very authentic Taiwanese food, especially their breakfast in the morning (love the FanTuan + Soy milk combo) and Bento Box ToGo for lunch. The place is small for sit-down dining (4 seats or so) but if you do get a spot during the week it's worth it. The dine-in price is slightly higher than the ToGo price for a good reason"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTWRYbElObnBXZUVwT1J6VmpablJYT0dkU2NsRRAB",
+            "text": "Cute little shop with authentic Taiwanese meals at a good price!  Some of the best Lu rou fan I’ve had in NY"
+        }
+    ],
+    "reviews_count": 96
+}

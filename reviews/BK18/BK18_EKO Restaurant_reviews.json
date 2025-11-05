@@ -1,0 +1,579 @@
+{
+    "name": "EKO Restaurant",
+    "place_id": "ChIJmXKfF0JdwokRscStlACtsKY",
+    "grid": "BK18",
+    "address": "11010 Flatlands Ave, Brooklyn, NY 11207, USA",
+    "rating": 4.1,
+    "user_ratings_total": 565,
+    "phone_number": "(516) 906-9619",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkc1JEWTVRM1psV25Cblh6TnNSa2h5WDFOUWJtYxAB",
+            "text": "Beautiful vibes! Great food!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5a01WRmlia1owUWtSYWRqUkZlbTluUkROVGMxRRAB",
+            "text": "Let me tell yall something this place was GREAT 10/10. Food was amazing . (I  cleaned the plate ) Service was impeccable. My new favorite spot . The server / Bartender Cheyenne was so great"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGMFJFMXNOeTFZT1VaTVluUk9ka0ZPV1dsbWVYYxAB",
+            "text": "I went here for a friend’s birthday. The ambience was beautiful and the service was good. Unfortunately, the downside to this restaurant is that they have roaches. I was sitting at the table when I saw one casually crawling toward me. Also, my sister found a large hairball in her food—it literally looked like someone brushed their hair into the plate. It’s very unfortunate because the food and drinks were good up until I saw those things. I will not be coming back here."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVldXVlhabmRpTVhwa1RVTnNTSFpWTVUxcFIwRRAB",
+            "text": "Red flags! Waste of money and time. Absolutely disastrous food. No taste just “Pepperish” and the smell of the food is awful."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwcU1GcFdWVkZOVUc4eWEyNTZiVnB0ZWxNMGJFRRAB",
+            "text": "I love this place !! Such great music great vibes and the service is out of this world 🖤. Definitely coming back this is my new favorite happy hour spot 💋"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVMmNIQjNSVTlyYTFWNGF6ZHNlVUZLWmxGSE5uYxAB",
+            "text": "5 stars across the board! Service, atmosphere, food. Can’t ask for anything better than EKO! Definitely will be back."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214blRUWlFhekZ4TURGTVVWODNTemRsZEY5aFJrRRAB",
+            "text": "I had an absolutely wonderful experience at Eko from Cheyenne & Louis … From the moment I walked in, the atmosphere was warm, welcoming, and beautifully designed — the perfect blend of cozy and upscale.\n\nThe staff was attentive, knowledgeable, and genuinely friendly, making us feel like valued guests throughout the evening. Our server gave excellent recommendations and timed everything perfectly.\n\nNow, the food — wow. Every dish was a masterpiece, both in presentation and flavor. I especially loved the  which was cooked to perfection and bursting with fresh, vibrant"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1cmJFcHJXRkJCVkVGbE5tWXpZMVpDWVVndGIwRRAB",
+            "text": "We came for happy hour from Cheyenne great drinks & Louis brought out the food and everything was amazing."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKS01WQjVlbWwyWlRGQlFWOXBTbXBEY1Rkbk5VRRAB",
+            "text": "Cheyenne and Mo are the best here come check them out! I totally recommend! Come check them out and ask for them! The service, the food, the hook, the vibes, and everything was a 10/10 !!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONlN6bEhUbFk1VTBkRGFUSlRaRFZ5TVdaNE5XYxAB",
+            "text": "Staff was kind, food is amazing, would recommend to everyone and i DEFINITELY will return!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5NU5tRlNObVJpTFhRdFJtdzJSREZ5WlRWaWVFRRAB",
+            "text": "Food was Seasoned Well (Ordered the Pasta and Oxtail), Loved their service and drinks. Their drinks were a 100/10!!! Make sure yall ask for Cheyenne, Best server ever!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKa1VXVlNUamMxZWxoTE5IUTVMV1ZYYkdZMWRYYxAB",
+            "text": "Service was excellent And fast my food was amazing and so was my drink. The drinks was made perfectly, and my food was a perfect portion for the price."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGZmVrVlFSVTVWV2xWTU9FUlZjWFJoY0haWlgwRRAB",
+            "text": "Flavorful food"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSeWVtaExTbWR2WVVkd1N6Vk9OWGhMU0hSMGMzYxAB",
+            "text": "Awesome place Must visit m. Highly recommend!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SWRVOVpPRFZUVUhOTVVGaHZVRUp2WmtGdFRFRRAB",
+            "text": "Pricey but good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aS1VVZGtkVVpCWmtwbVdIVkVibUU0UzBkWk5GRRAB",
+            "text": "We were seated at 9 PM and didn’t receive our food until 10:30 an hour and a half wait for a party of 2 . Unfortunately, when it finally arrived, my dish was cold. The only highlight was the drinks, which were genuinely well-made. Inside, the music was overwhelmingly loud, and even outside, the vibe felt more like a bar than a restaurant. Honestly, it might be worth reconsidering the concept altogether—this space seems far more geared toward nightlife and cocktails than a proper dining experience. The focus felt more on Taylor and the bar scene than on serving quality meals."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMVUzTk5ZbFJhVVdSUE1ETklRMUJNZFhscWFsRRAB",
+            "text": "Wow food is exceptionally good! The ambiance, the service, the team deserves more than 5 stars. Can’t wait to check more items on their menu. Today I had the escovitch snapper w/ Jollof rice. Yummmm!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkMGFWQkNMVVF6V1dwRk5Ua3dNVkZpYlRkYVMyYxAB",
+            "text": "Where do I start? We went here for my brother in laws birthday party. Clearly there was miscommunication between the team from the start because this was a surprise but staff kept coming in to the private room, almost ruining the surprise several times. It took 1.5 hrs for us to get out towers of liquor, 3 hrs for me to get my food - my first plate had a peice of plastic in it. After we placed our order, they were calling out orders like we were at an auction. After my sister gave the waitress feedback, she caught an attitude and we had bubble up our issues to the manager. The towers of alcohol were rum punch and margarita since 50% of the items that were on the menu weren't available 🙄. The liquor tasted so trash. I had one taste and that was it for me. They also served all the drinks in the wrong glass. How are you giving us champagne flutes for rum punch and margaritas?! A shot of whiskey was given in a martini glass. They need a LOT of training. They want to charge big prices for lack luster service. The food was seasoned well but I couldn't wait to leave because overall the experience was HORRIBLE. They never checked on us to see how we were going, cleared the plates way too late and I had to search for cups in order to get a glass of water. Hoping they take this and put some order in place."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SM1prRXdRbXBXUTFsdVJIRktaVTVVVms1WmNGRRAB",
+            "text": "⚠️ WARNING: Dine here at your own risk!\n\nMy sister and I walked into this place with high hopes and excitement, but left completely disgusted, disappointed, and frustrated. Let me save you the trouble — this is not worth your time, money, or energy.\n\nFirst red flag: the location. It’s literally stuck next to a Food Bazaar supermarket, sharing the parking lot. Not exactly the type of place you expect when you’re dressed up and ready for a nice evening out. But we didn’t let that throw us off. We stayed optimistic.\n\nWhen we arrived, we were seated right away (we were even early for our reservation). That was the last good thing that happened. From there, it was all downhill. The place wasn’t packed, but service was still painfully slow. The lighting was so dim we couldn’t even read our menus, and unlike other tables, ours didn’t have a lamp. We had to ask for one — why wasn’t that common sense?\n\nWe sat for almost 30 minutes before our waitress even came by to take drink orders. Strike one. Then, the drink I wanted (their so-called “Love in Top”) wasn’t even available. How does a lounge run out of their own specialty drink on a Saturday night? Strike two.\n\nThe waitress suggested another drink. Fine, I went along with it. Another 30 minutes later, the drinks finally arrived — and that’s when the night officially ended for me. Sitting on my glass? A bug. Floating inside my drink? Another bug. YES, TWO BUGS. Absolutely revolting.\n\nI flagged down another waitress because ours was nowhere to be found. Instead of apologizing, she looked confused, took my drink over to a brighter area to “investigate,” and then acted shocked when she saw exactly what I had told her. The solution? Not a new drink. Not a sincere apology. Not even a manager coming over to acknowledge the situation. No. The waitress casually told me they were “out of that drink” and asked if I wanted to order something else. Are you kidding me?!\n\nMeanwhile, my sister’s drink tasted like watered-down juice. At that point, we canceled everything — but apparently, our food was already being prepared (even though drinks took forever). When we said we didn’t want it, instead of understanding, they still tried to bring the appetizers out! Then they had the audacity to bring us a check for my sister’s horrible drink. No apology, no accountability, not even a small gesture like comping the drinks to make things right. Just a receipt.\n\nThis was beyond disappointing. It was disrespectful. A manager never came to the table. No one cared about how we felt. No one cared about how serious it is to serve BUGS in someone’s drink. That’s not just bad service — that’s a health hazard.\n\nI came wanting to support a Black-owned business in the community, but unfortunately, this was yet another letdown. And no, this isn’t a “bad night.” This was a total failure in service, cleanliness, and professionalism. Ruined celebrating my sister's promotion!\n\nI can’t rate the food because we never even got that far — the bugs in the drink were the final straw. Consider this your warning: eat and drink here at your own risk."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5alUwbzFTWGt5WDI4MmVqVTNVRzB3WTJWeWFHYxAB",
+            "text": "Very Good Food Good Customer Service Great atmosphere. Recommended 10/10"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200MldpMVpSemd0YVY5NVIyTjVTVzVmT0hkYWNFRRAB",
+            "text": "10/10 expierence always! Chanel’s service is always amazing. The lychee martins’s are always so good.. ❤️"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFNFJHNUtObm94T1c1bWNIaHpZV3RoTTNacFdGRRAB",
+            "text": "Eko Restaurant is truly a gem in Brooklyn! The food and drinks are always top-notch, and the service is wonderful--attentive without being overbearing. Chanel is the best server ever! She is warm, welcoming, and always makes the experience extra special. I have to give a special shout-out to their lychee martini…it is absolutely on point. Hands down, the best lychee martini I have had in NYC. Whether you are looking for a night out with friends or a place to unwind, I highly recommend Eko Restaurant."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGU05VNWZjekpXUXpSclFUbFBPWEZOVFVOSFVIYxAB",
+            "text": "This food is amazing! Bold flavors and a chill vibe. Chanel was our server and she made us feel like family l, ask for her!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkblVIWk5RV2cwWHpsNU1qUjFjekpDZEV4a09XYxAB",
+            "text": "We stopped in close to the kitchen’s closing time, but the staff failed to communicate what was still available. After placing our first order, we waited 30 minutes only to be told the kitchen couldn’t make those items. We tried again with a second order, but it was still met with confusion and delays. When the food finally arrived, it was served so hot it was barely consumable almost as if it was intentional, which made the experience even worse. Overall, a very disappointing visit. Stay away."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paV2NVbG9Sa3BoVFVkUGVtRlBTV3B5YVRGeWJFRRAB",
+            "text": "My experience at Eko on Saturday, 8/23/25, for my sister’s birthday was disappointing. While our waitress was very kind, the overall service was terrible. We waited about 40–45 minutes for our meals, which is far too long. I also noticed a large party celebrating a birthday that seemed to get most of the staff’s attention, while smaller tables like ours were overlooked. When the food finally arrived, it tasted good but wasn’t hot I ordered the Eko Pasta with oxtail, and it came out a little cold. For the prices they charge, I expected much better service and quality. The menu is limited, and everything feels overpriced. We ended up spending $400 and honestly couldn’t understand how the bill added up that high. Overall, the food was okay, but the service, wait time, and pricing left us really unsatisfied."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OVlJqUTFObkZJWkRsTmJUQlRObWszUlc5blNIYxAB",
+            "text": "My experience here was absolutely a pleasure (the drinks,  the food,  the music). I have found the best place in Brooklyn to make a sidecar (IYKYK). Monique was accommodating and Danny was inviting. Please visit you won't be disappointed."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214T2VFOTNVamRCTlZwUVRrSnpkREZmUlVkaVYxRRAB",
+            "text": "My experience at Eko was great! I celebrated my birthday here on a Saturday evening and it did not disappoint! The service, the food, the drink, the ambiance, the vibes - all amazing! The food is packed with so much flavor - from the apps to the main entrees, I loved it all. And the drinks - that Coconut Rum Punch was hittin'. Kudos to this establishment for bringing the good food and vibes. I highly recommend a visit."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoM0xWSjNRazVEZERGT1FuSnBYM1pCWkZoSGMyYxAB",
+            "text": "Nice venue, music way too loud. The food was very subpar and goat meat was full of bones. Overpriced. Wait times were very long. Was so excited for a new Nigerian restaurant but I recommend to avoid Eko and visit Festac Grill instead. Very disappointed"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oSmFVeGFXRTlsY1hWTFYzSmljRXg2U214amFrRRAB",
+            "text": "I had heard good things about this place. My friend and I booked reservations for 9 pm to enjoy the food and the vibes. I was excited for my friend to indulge in Caribbean/African cuisine being that I  am Jamaican myself. When we walked in the music was rather loud and opted for a table further away from the speakers to enjoy light conversation. Unfortunately it made no difference what so ever. Now don't get me wrong I love a vibe especially Caribbean music because I'll whine up myself, but there it a time for everything.\nWhen the server came over to take our order she had to bend over and lean in to speak to us. She struggled to get our order because the music was so overbearing. It was obvious that it turns into a party as the night progresses, but one would expect it a bit later. My friend had asked if it were possible to adjust the volume a tad. The server obliged and apologized, she mentioned to us several the other patrons also complained about the volume of the music. The two young women sitting at the tsble next to us shared they also said something about the music being too loud as well. They too had asked for the music to be turned down, but the request was ignored.\n\nThe server spoke to the dj and he looked over at us and completely disregarded the polite request. To add insult to injury he turned up the music louder. This was rather disheartening as this is not what the culture it about. The culture is warm, welcoming and joyful, but this was nothing like that.\n\nWe decided to sit outside as our order had come out just before that. The music was a bit lower at first. However after about 20 minutes or so the volume was elevated yet again making it challenging to have a conversation. We rushed through our dinner and left immediately after. I would've loved to stay to soak up the experience and perhaps dance too."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21scWFHOVpkMFp1VkRBd0xUVlRUVEYzVDJoQ2JuYxAB",
+            "text": "Food is overpriced. Service is not good. A wings platter for $70. Drinks are overpriced and inconsistent: one round is good, next round is a miss. After the food came out we still did not have silverware, plates, napkins or even waters. Asked for water and never received water. Waiter forgot to bring the water and multiple other struggles for what should have been a routine dinner of 6 people. Atmosphere is a C-"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kQ2MzaG5aMGRUY2tkeU1tNXJYMlE1WkU1SFExRRAB",
+            "text": "First they did it have about 3 things we ordered. They opened at 5PM. How is that possible? We got here at 5:47PM? We have been waiting for over 1 1/2 hrs for our food and still while I’m writing this review we still waiting."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2todU5IQkdiSGRtY0UxVFJEVkVkbTlKY1hsMGVtYxAB",
+            "text": "Ingredients tasted fresh and high quality."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paTlFrbE9UVTk1WWpWYVdUZHRabE56U0hOSlZtYxAB",
+            "text": "Food was mad nasty. I went my with my friend and the food that she received was cold & undercooked. For the price that I payed I should expect at least COOKED food. When I brought it to the manager’s attention, she dismissed me and showed no sympathy towards my situation and I still had to pay full price. DO NOT COME TO THIS RESTAURANT IF YOU WANT A GOOD EXPERIENCE."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOTFpYQTJNSE5tVW5WNVQwbEpPRkJ3ZVVZeGVrRRAB",
+            "text": "This is a nice little hidden gem in brooklyn, the atmosphere is nice and the service is really good &  also the food is bomb ofc! :)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aRVFtaHBjak4zTUZSQmVGQlVNWFozYjJGNGIyYxAB",
+            "text": "⭐️⭐️⭐️⭐️⭐️\nA Hidden Gem with Flavorful African Cuisine!\n\nEko Restaurant is an absolute gem! From the moment you walk in, you’re welcomed with warm hospitality and a cozy, vibrant atmosphere that makes you feel right at home. The menu is a celebration of authentic Nigerian flavors"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSR1EyWkhlUzExVVdVd01GVkdNRVE0Y1c5MWFWRRAB",
+            "text": "I celebrated my birthday at Eko Restaurant and Lounge last night and I absolutely enjoyed myself. The ambiance was beautiful, the food was amazing, music was bumping and the staff was superb. My entire crew was still talking about how much fun it was today. Oh and that rum punch was punching😁🎉 highly recommend"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205Q2EyZGZha2xhY0VOcWJIWXhNRkpUUm5Wd1YxRRAB",
+            "text": "The vibes here are niceee. Came here to celebrate my bestie’s birthday and it did not disappoint! Good music. Good food. The salmon sliders are 10/10. I highly recommend. The egusi and fufu is flavorful and filling. I got goat with mine but I think the egusi without protein would’ve been great too. Run! Don’t walk."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tocFVFZGtWVmx0UlY5eVgxWnBRVU5mTm5Jd1JXYxAB",
+            "text": "If you’re looking for a restaurant with good music, good food and good drinks this is the place to go! 10/10 recommend. The food was really good and the service was great as well. I came for my birthday and they made it a great experience. I loved the music they played and the drinks were strong and really good."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210bVoyeHZlVFpTYURSVWRpMWZORUpUV1RKbFdYYxAB",
+            "text": "Great atmosphere and great servers! Very kind and very attentive!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GaGFGcDNVRWx5Um1ScFltMVdaMUJKY3kweFFYYxAB",
+            "text": "First there is free easy parking & located right off the belt parkway. I had the oxtail jollof and it was really good, drinks were good and the staff here is very friendly"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ocWJYQXdPVTVmTmtOTlowRTBkVEZwUVRsemJrRRAB",
+            "text": "Fire everything is dope"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OcVJVaHphbUZmTjBvMmNHNXJlV2MzU2pCU1oyYxAB",
+            "text": "Delicious food and great drinks right in the heart of a neighborhood that you would expect it to be in… great local place for the people around there.. hidden gem"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSUFJuWmljMTgyVjI5c2NqQm9URkZEZDAxbFFVRRAB",
+            "text": "Pro's: Ambiance was very pleasing to the eye and ears. Was greeted with a friendly staffed and the music was top notch. My reservation for 10 was honored and seated very quickly.\nCon's: PRICE is nuts! $70 fish?! lol in what world? Food TAKES 4ever to come out literally spent 3 hours, in total, from being seated to paying the bill. No complementary water was provided once seated. Waitresses seemed inexperienced and over worked. Not to mention 20% gratuity is automatically added regardless of party size or service quality. If you want to charge 5 star prices begin with 5 star service.\n\nSuggestions:\n-consider immediately placing a pitcher of water on the table for large parties once seat (basics).\n-revisit the pricing structure for some items (sides and a few main) are ridiculously overpriced/not worth what is provided.\n-possibly reduce the waitress responsibility with a large party or add a bus boy/girl to assist and keep an eye on their table (s). Check up's were far and few in-between.\n-Hire additional kitchen staff or provide a complementary warm bread (example) to mask the kitchen staff shortage.\n-decent size cups for drinks with or without ice (ridiculous).\n-management need to work the room and introduce themselves to the patrons (it makes a difference).\n\nI love to support my BLK owned business and want them to win but we have to be for real. Aim to lead in the customer service dept. but will i return...TBD"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGak5reHpaRk0zWVdOa1duRjJYek5uUldoVWRrRRAB",
+            "text": "This was a great spot. Chilled vibe, good service, great food. It's definitely a spot to return, too. Happy hour mad good prices. The music was also nice."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQNnN2cTJ0MzZ6czF3RRAB",
+            "text": "⭐⭐⭐⭐⭐\nI’ve driven by **Eko** so many times and finally decided to stop in with a friend and I’m so glad I did!\n\nThis spot is tucked away, but it’s a hidden gem that’s *absolutely worth the trip.\n\nThe vibe when you walk in is stunning the decor is modern, sexy, and inviting. Perfect for a date night or a girls' night out.\n\nOur waitress was amazing super pleasant and funny (wish I remembered her name!). She made us feel right at home.\n\nWe started with the coconut rum punch, strong, sweet, and tropical. Just the way we like it.\n\nFor appetizers, we ordered the crab cakes and\nOxtail dumplings.  As an oxtail lover, I had to try the dumplings and they were incredible. It was less like a dumpling and more like oxtail wontons tender, flavorful, and comforting. The crab cakes were thick and hearty, though we wished they were a little less crispy ( they were fried to well done for us).\n\nFor my main dish, I went all in: jollof rice with oxtails. Let me tell you the oxtails fell off the bone, and the rice was fluffy, seasoned perfectly, and packed with flavor.\n\nI’ll definitely be back there are so many more drinks and dishes I want to try. And they serve brunch, so that’s next on my list!\n\nIf you’re thinking about trying Eko do it. You won’t regret it."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMcThwT0N4MzczcUxREAE",
+            "text": "Chanel was amazing this evening.  She was kind, patient, attentive and made sure that we had everything we needed.  I will definitely come back to Eli.  Hopefullly, Chanel will be the server again."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQbjdwdDZja2VPeVVBEAE",
+            "text": "Chanel was awesome!! Service was exceptional and she checked in on our party to ensure that we enjoyed our time at Eko!! Will definitely come back!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJRFFuOFdVdWVYb2hnRRAB",
+            "text": "Chanel was very helpful"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKVHF6T0haOWVTYXN3RRAB",
+            "text": "Some co-workers and I went to Eko after work. We had an amazing time. The drinks were on point!  I definitely  recommend  the salmon slider appetizers. The ambiance is beautiful. Our server Chanel was very attentive and was super nice. I can't wait to go back."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJV0NfZXF3NzczSzVnRRAB",
+            "text": "The venue is a nice ambiance music was great. If you like hookah you will like this restaurant. Personally as a non smoker, I wouldve preferred if the hookah was in the lounge area only.\n\nThe restaurant gets stars off for the food and service.\n\nWe got there around 6:45pm appetizers (suya and pepper soup) came quickly. The entrees (pasta with oxtail) and (fufu and goat ila alasepo) came around 8pm which felt a bit long.\n\nSuya- could be a bit dryer but was ok\nPepper Soup- flavorful but was not the classic pepper soup. Not an ounce of spiciness. Just call this goat soup.\nCornbread-complimentary tasted more like a sugary cake. It was way too sweet with the honey.\nPasta w. Oxtail- oxtail was tender and tasty. Pasta had rasta pasta taste, good\nFufu  egusi and goat ila Alasepo- ok but felt like it was missing something flavorwise.\nThe dishes we wanted to try like Edaikong and Buka stew were not available.\n\nPlease be mindful of your bill a 20% gratituity was auto added to the bill.\n\nIn sum, my Nigerian friend was unimpressed by the food here. It may be better at the Jamaican/ American dishes. For the prices, I also would not return as I was unimpressed with the food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYOWNUVllnEAE",
+            "text": "Loved everything about this restaurant. The food 10/10, the Rum punch was perfection, the staff were all so nice and attentive. Had the pleasure of meeting the owners….so sweet, so kind. I’m definitely coming back for the goat pepper soup and more. Please check them out."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuLTZDT1VnEAE",
+            "text": "The drinks were really good. The coconut rum punch was our favorite. Suya shrimp was our favorite along side the red velvet cake. The ambiance is beautiful. If you love dinner with entertainment then book a reservation for Eko After Dark on Friday and Saturday nights."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuLWJIN3dBRRAB",
+            "text": "I was a bit disappointed on arrival that they didn't have a place for a party of 10. After confirming reservations numerous times. The food was ok, i have had numerous Nigerian and Jamaica meals, and I would say flavor wise, very tasty, but authenticity wasn't present. It ended up being a party of nine, three people got their meals together, and the others had a long wait, plus the food was cold. Everyone meals should have arrived today.  Service was horrible. My party constantly had to get up and look for a waiter or waitress, too many servers assisting with everything,  my friends had to ask about them singing  me happy birthday. It took them at least 20 minutes to return credit card. Service needs training and more employees on the weekend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqNk9LbHNnRRAB",
+            "text": "We came here today the ambiance beautiful and the food real delicious I had the shrimp pasta my mother had joloff rice & jerk chicken and asun spicy goat and rice and peas simply delicious.we all cleaned our plates not salty just right .The service by Humphrey was exceptional. My coworker referred me and they were right the food is authentic and delicious but it’s the atmosphere I am definitely coming back. It was my mother birthday and they gave her the cake on the house."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIbmFxck1nEAE",
+            "text": "I came here for my 26th birthday party and happy to say I enjoyed myself fully ! The service was exceptional and they made sure to make my birthday feel special! The drinks were good and the food was delicious & wells seasoned. I will definitely return!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuOUtIZVdnEAE",
+            "text": "Eko owes me nothing !! Last minute decision to go out for my 30th birthday celebration. Aesthetics was on point very Afro chic, luxurious yet calm. The music and the vibes were lovely. And our server deserves all the praise!! Asides from the tasty food Zymani 🫶🏽 made the night so much greater and definitely worth spinning the block for! Thank you so much for a wonderful night. Staff is very well put, friendly and welcoming, you can tell they are a great team. Even when she had to let us down on our menu option she did so in such a fun energetic way. She was honest with the menu options/recommendation and babyyyy from the appetizer to the drinks to the main course to the dessert it was all a hit !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqcElMSWVnEAE",
+            "text": "This restaurant is beautiful! I’ll start by saying if you’re an atheistic person then you’ll be pleased to see the combination of styles and colors, especially in the lounge 🥹. As for the food it was flavorful but the lamb chops and the oxtail were not a tender as I would’ve liked. The mash potatoes tasted like …..mashed potatoes and that’s all. The jollof rice was good, but it’s not as spicy as I know it to be. The goat soup was wonderful!  However my biggest issue with this restaurant is that everything is overpriced. I couldn’t see myself ordering a cocktail for $20 and up. When seated, We were offered still or sparkling water, we chose still. I did not expect for it to show up on the bill as $8. So all in all for 1 goat soup 2 entrees and a side of plantain we paid over $150. Although I am not a fan of the cost I do love the elegance it adds to the community and the culture experience it provides to the customers. Keep growing!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGcVBqU3h3RRAB",
+            "text": "Reservation 9:30: it took 30 minutes to be seated. I placed the order, and it took an hour before the food arrived at the table; the lamb was cold, and fatty. It was served with rice because they ran out of mashed potatoes. Without checking to see if that would've been ok. The lamb spicy, and the meat was not tender. My daughter ordered jollof rice, which was very spicy. She was happy with the wings. The consensus of the table was that the fries were the best. My sister ordered the pepper goat soup. She said that it was good but spicy. The okra dish they said it was OK it’s okra. The pounded yam has pieces of plastic in it and could not be eaten. The service, you had to flag down someone pretty much in order to get a cup of water at the end. They brought my daughter a slice of cake coconut rum cake. I had to wait 30 minutes to get a bill. 930, we did not leave there until 1130 on top of that. We came straight from the airport to try out his restaurant. The previous reviews said I’d give them the benefit of the doubt; however, I was genuinely disappointed for three people. All in all, the total bill was $207."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3NmJTTmZnEAE",
+            "text": "Last minute brunch plans with my girlfriends at EKO on Sunday and it was absolutely amazing!\nThe green decor and ambience is a truly vibe. Terry-Ann and our server Amanda were very gracious and accommodating. The passion fruit mimosas were poppin and the food was slammin! The oxtail dumplings and salmon sliders appetizers are must haves! I had the oxtail with jollof rice for my main course which not as spicy as I hoped it would be but was very tasty. Only wished we could have finished it off with a slice of their coconut bailey's cake, which was not available.\nIn all, we had a wonderful time and will definitely will be back!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIbXEtSmZBEAE",
+            "text": "The first impression is the scenery of the space. The color combination is beautiful. The food is good and i enjoy the drinks.\nI would definitely come back to the location, especially at night."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzNVlIM1NREAE",
+            "text": "Beautiful restaurant. I had the pleasure of patronizing this establishment when they first opened. The food was delicious! The service was ok. It took a while for our food to arrive but they had apologized and we remained patient. I would recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUaFBHVEZBEAE",
+            "text": "Ivry was very attentive and pleasant. She checked on us and made sure we were good. Her service was really exceptional. She recommended one of my drink and it was really good. I had the lamp chops for dinner and drinks were passion lemon drop and the cheku which were all really good. I definitely recommend and will be back"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNENUlhRmpBRRAB",
+            "text": "@EKO RESTAURANT NYC is where it's at! If you live in Brooklyn, get ready for a unique blend of city vibes and Afro-Caribbean cuisine that will transport you to a culinary paradise. The food was nothing short of amazing, with bold flavors and creative twists that left me craving more. The drinks were super delicious, expertly crafted to complement the meal. And the music? Absolutely everything! The perfect blend of genres to get you moving and grooving while you dine. I'll definitely return to experience the magic of EKO again 🍴🎶"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaZzRpNEFREAE",
+            "text": "Went here with a friend last week. Service from the host was great& service from the waitress was good up until it seemed as though some friends of hers came to the restaurant and from there on out we were pretty much ignored and it was hard to get a hold of her. Ambiance was fantastic. Great decor, music& vibe. For drinks, we had a rum punch& lemon drop. Both were good. My friend had the jerk chicken and jollof rice. She enjoyed the jerk chicken and they were nice sized pieces. We both tried the jollof rice but it was inedible for us. She (who likes spicy) and I (who doesn't but have a decent tolerance) both thought it was extremely extremely spicy. I, personally, know some African food have a reputation of being spicy but I believe there should have been some type of description/disclaimer on the menu to alert ppl of the intense spice. I had the salmon sliders with mac&cheese. I enjoyed the sliders. The mac&cheese was ok. Had a subtle sweetness to it but I didn't mind. Also you could tell it wasn't freshly made/made to order, just a slice from probably a large pan. It was also on the menu for $10 but appeared as $15 on my check (alerted waitress and she changed the price with no issues). If they intend to sell the mac& cheese for $15, this is extremely overpriced for a slice of mac pie. Our bill came out to $121 including tip for 2 drinks, 1 entree, 1 appetizer and 1 side. All in all, our experience was ok. I don't think I'll be back though (maybe for a lunch special to try the pasta). I do appreciate them for trying to bring a luxury black-owned dining experience to canarsie which doesn't have many restaurants."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGOHBETExnEAE",
+            "text": "This place is new in the neighborhood. I love it. The food was delicious. The service was good. menu needed a little  tweaking  misinformation but terry made up for it , Other than that I had amazing time. The vibe was good the hostess made us feel special."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyanBETHN3RRAB",
+            "text": "Our reservations was at 7:30pm, got there 7pm and was seated.  They came over right away and took our drink order, even though I felt rushed.  The drinks were amazing and strong, at $30 for the wahalla drink. The food was good and spicy. We had the jerk jollof, which was oven jerk chicken, that was lost in the jollof rice.  My friend had the fufu platter consist of egusi and ila okra, which was also good.  Overall, the food was excellent, but the prices was off the hook expensive.  I mean $38 for jerk chicken jollof?  I'm glad I experienced it, but I don't think I would go back. I know it's a blend of Jamaican and Nigerian,  but the Jamaican was lost in all that Nigerian.  Yes.......I'm Jamaican."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNucWFlcTN3RRAB",
+            "text": "I recently dined at this restaurant with a friend, and while the ambience and aesthetics were impressive, the service and food quality fell short. Our waiter took a long time to take our orders, and when she finally did, she was careless with our drinks, spilling them all over the table. Unfortunately, she didn't apologize or offer to replace them.\n\nTo make matters worse, my meal was disappointing. I ordered the Jollof rice and oxtail, but the oxtail was mostly bones with very little meat. When I brought this to our waiter's attention, she simply stated that the chef said it was the last of the oxtail and that's all they had left. I was expecting a higher quality dish, especially considering the restaurant's promising atmosphere. Overall, our experience was subpar, and I hope the restaurant takes steps to improve their service and food quality."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkdV8teF9BRRAB",
+            "text": "I love Eko! This restaurant is so good, I enjoyed my time here. My friend and I made reservations for dinner, upon entering there was a man who welcomed us and had the door open. I was truly impressed. We ordered drinks first which were so delicious, then we ordered sweet chili wings as a starter. It took about 10 mins, for my main course I ordered pepper soup with jollof rice and oxtail. Everything I had here was a 10/10. I was so full, I had a lot of food to take home as left overs. I highly recommend this restaurant to others. I have even told my friends and family."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3MTRDWl9RRRAB",
+            "text": "The place feels a little tight with a lot of chairs and tables but not enough space. The waitress did a great job, but to me, it seemed like she was nervous and that it was her first time working. This was the type of energy she was giving off. The appetizer, an overpriced oxtail dumpling, consisted of only 3 pieces for $20—not even an even number. We ordered the wings, which were very delicious; however, the food was delivered lukewarm. The drinks were decent, but I had to instruct the waitress on how they should be made since the cost was $18 and up for an alcoholic beverage.\n\nThe entrées were good, but once again, the meals came out lukewarm, not piping hot. I felt like there was a lot going on in the restaurant and not enough waitstaff, especially on a Sunday when it gets really busy and the DJ comes in after 3 PM to play some good music. The food was delicious, but the prices don’t match what comes out of the kitchen. We paid over $400 for a total of 5 people.\n\nI definitely recommend that the food be brought out hot off the grill, not lukewarm from under a heating lamp.\n\nI would definitely come back when they work on the delivery of food to the table at a decent timeframe because the food was delivered warm."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKbG9LNUxnEAE",
+            "text": "New restaurant still getting off the ground. I really enjoyed my visit. The food was delicious. The Mac and cheese was a little sweet but I'm told that is unusual so will go back to verify. It starts to turn more into a lounge later in the day so I plan to check out the night time vibe as well."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOYjFtSlQ5d3ViX1dnEAE",
+            "text": "I heard about the restaurant from a friend & I decided to take my wife for our anniversary & I did not disappoint! My wife and I ordered the pasta with oxtail and it was delicious! The drinks were not bad either. Due to the amazing experience, I asked my server may I please see the chef & to my surprise it was a female chef! Who turned out to be Jamaican! No wonder the food was so amazing."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqMnZxbUlnEAE",
+            "text": "Mr. Humphrey was our waitress and he was awesome and great. The food was great, he was great and kept checking in with us throughout which you don’t see that a lot in restaurants. The food was also brought out on time, no long wait, i had egusi with goat meat and Iyan, and drinks was awesome. Also the atmosphere was awesome and everyone was friendly. I loved my time here. Thank you and will be coming back soon."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnc2JLbnpnRRAB",
+            "text": "The food was superb! Chefs kiss😋🥰. It was a perfect blend of Jamaican and African cuisine! The jerk chicken spring rolls were🔥🔥 and the Oxtail dumplings were so good! The jollof rice was the BEST I've had in a while. The music was a mix of old school reggae meets new school with a dash of Afro beats.The stafff was very friendly and polite. I gave the restaurant 4 stars because it was a little chilly, but even with that, Vibes on top of vibes! I will definitely be going back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvODRXN1dREAE",
+            "text": "This review is from me and my family’s personal experience at Eko (4/27/25)…\n\n- there was no one at the door/entrance to welcome and seat us. So we kinda wandered into the restaurant and had to inquire about what we should do to be seated.\n- our actual waitress was great. Very accommodating.\n- the food wasn’t bad but as Nigerians who came for the Nigerian food options, things could have been a bit better. Example, the pepper soup had no pepper in it 🤷🏾‍♂️. The egusi soup had no pepper in it also but it was cool.\n- the oxtail and rice entree *chefs kisses* although for $45 the portion was laughable.\n-best thing on the menu (imo) was the red velvet cake. Probably the moistest cake I’ve had in my life. Order the cake. I’d go back just for the cake tbh.\n- can’t speak on the drinks much as I only had one and it wasn’t really what I wanted/ordered. My sis had a strawberry mock tail that she liked a lot.\n- the music is veryyyyyyyyyy loud…makes it hard to have conversations. Also they mostly only played Jamaican dancehall music which is cool but as a fusion restaurant we wanted to hear afrobeats as well (which we had to request multiple times).\n- they have hookah as well fyi"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnbnJtLXVnRRAB",
+            "text": "A++ for Eko. Eko was an experience to be had! The service was amazing the food was even better. The goat soup, jerk crab cakes, fufu and oxtail did not disappoint at all! I will definitely be back. 100 percent recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIaXF1YWVREAE",
+            "text": "Went to celebrate my friend. Most say a beautiful atmosphere. Nice and cozy. I had pepper goat soup for appetizers and lamb chops with jollof rice for entree. Delicious and flavorful. Not to mention the drinks were pretty good too. Shout out to Abena and Terryann for coming through with excellent customer service."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5MnI3S2dnRRAB",
+            "text": "Pretty good fusion restaurant, unique spin on Caribbean and African cuisine. The atmosphere was calm, not crowd or overly noisy at all besides the background music. The service was okay. I had the oxtail egusi which was bursting with flavor (def recommend)."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNENHVUc2dBRRAB",
+            "text": "I went to Eko for my sister’s birthday dinner and I must say, this place was perfect. The ambiance was beautiful, the food was amazing but even more so the customer service was immaculate. Eko had a warm and friendly staff who are all extremely attentive. The DJ was popping and the whole experience was a vibe!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREdEttZjB3RRAB",
+            "text": "I would recommend this restaurant to everyone. Food was on point. Employees were very friendly. and have patience while taking orders.\nI was there to celebrate my birthday. I love music and everything. I had a great birthday celebration. I will be back soon.\nTo all staff continue to do a great job.\nThanks for everything. Me and my family left with a happy faces."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMZ01mLWtnRRAB",
+            "text": "Atmosphere is inviting, service is great, food is tasty, drinks is ON POINT!!!! If this lady in the pic ain’t at the bar then you’re missing out.. PERIOD!!!  I ordered the wahala drink and babyyyyyy🤤🤤🤤🤤 the food ugh mouth watering. I definitely recommend"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLcnQ1dnJvbHFlcXp3RRAB",
+            "text": "Listen, when I say these salmon sliders and oxtails were a straight-up blessing from the culinary gods, I mean every bite felt like home. Now the oxtails? Whewww. Fall-off-the-bone tender, slow-braised like Grandma used to make, Word is, the genius behind this culinary masterpiece is a female chef and Jamaican, just like myself. Sis, you did that. You didn't just cook; you told a story, honoured tradition, and reminded me why our food and our culture are unmatched."
+        }
+    ],
+    "reviews_count": 81
+}

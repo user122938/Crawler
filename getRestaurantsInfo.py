@@ -137,9 +137,9 @@ def get_max_results_by_tier(tier: str) -> int:
     """
     return config.TIER_RESTAURANT_COUNT.get(tier.upper(), 50)  # 기본값 50
 
-def parse_grid_info(txt_path: str = "girdInfo.txt") -> List[Dict[str, str]]:
+def parse_grid_info(txt_path: str = "gridInfo.txt") -> List[Dict[str, str]]:
     """
-    girdInfo.txt 파일을 읽어서 grid 정보를 파싱
+    gridInfo.txt 파일을 읽어서 grid 정보를 파싱
     반환: [{"code": "MN1", "name": "트라이베카, 금융 지구"}, ...]
     """
     grids = []
@@ -172,11 +172,11 @@ def main():
     ap.add_argument("--query", required=False, help='예: "restaurants in Seoul" 또는 "sushi restaurants near Gangnam"')
     ap.add_argument("--max_results", type=int, required=False, help="최대 결과 수")
     ap.add_argument("--output", type=str, default="restaurants.json", help="결과를 저장할 JSON 파일 이름 (기본 restaurants.json)")
-    ap.add_argument("--grid_mode", action="store_true", help="girdInfo.txt와 grid_tier.csv를 사용하여 자동으로 모든 그리드 처리")
+    ap.add_argument("--grid_mode", action="store_true", help="gridInfo.txt와 grid_tier.csv를 사용하여 자동으로 모든 그리드 처리")
     args = ap.parse_args()
 
     if args.grid_mode:
-        # Grid 모드: girdInfo.txt와 grid_tier.csv를 읽어서 처리
+        # Grid 모드: gridInfo.txt와 grid_tier.csv를 읽어서 처리
         print("Grid 모드로 실행합니다...")
         tier_dict = load_tier_info()
         grids = parse_grid_info()

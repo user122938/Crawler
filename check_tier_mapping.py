@@ -1,6 +1,6 @@
 """
 check_tier_mapping.py
-grid_tier.csv와 girdInfo.txt의 매칭 상태를 확인하는 임시 스크립트
+grid_tier.csv와 gridInfo.txt의 매칭 상태를 확인하는 임시 스크립트
 
 사용법:
     python check_tier_mapping.py
@@ -35,8 +35,8 @@ def load_tier_info(csv_path="grid_tier.csv"):
     return tier_dict
 
 
-def parse_grid_info(txt_path="girdInfo.txt"):
-    """girdInfo.txt 파일을 읽어서 grid 정보를 파싱"""
+def parse_grid_info(txt_path="gridInfo.txt"):
+    """gridInfo.txt 파일을 읽어서 grid 정보를 파싱"""
     grids = []
     if not os.path.exists(txt_path):
         print(f"❌ 오류: {txt_path} 파일을 찾을 수 없습니다.")
@@ -81,7 +81,7 @@ def main():
     grids = parse_grid_info()
 
     print(f"✓ grid_tier.csv에서 {len(tier_dict)}개 tier 정보 로드")
-    print(f"✓ girdInfo.txt에서 {len(grids)}개 그리드 정보 로드")
+    print(f"✓ gridInfo.txt에서 {len(grids)}개 그리드 정보 로드")
 
     # 2. 매칭 확인
     print("\n[2단계] 매칭 확인 중...")
@@ -143,9 +143,9 @@ def main():
 
     if extra_tiers:
         print("\n" + "="*80)
-        print("[5단계] girdInfo.txt에 없지만 grid_tier.csv에 있는 코드")
+        print("[5단계] gridInfo.txt에 없지만 grid_tier.csv에 있는 코드")
         print("="*80)
-        print(f"\n⚠️  다음 코드가 grid_tier.csv에는 있지만 girdInfo.txt에는 없습니다:")
+        print(f"\n⚠️  다음 코드가 grid_tier.csv에는 있지만 gridInfo.txt에는 없습니다:")
         for code in sorted(extra_tiers):
             print(f"   - {code}: {tier_dict[code]}")
 

@@ -1,0 +1,565 @@
+{
+    "name": "Marcela Cocina Mexicana",
+    "place_id": "ChIJw9KfeGNFwokRIg529dl1pfQ",
+    "grid": "BK10",
+    "address": "7121 Fort Hamilton Pkwy, Brooklyn, NY 11228, USA",
+    "rating": 4.6,
+    "user_ratings_total": 345,
+    "phone_number": "(845) 867-4209",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25odlVteGFXbmgwUkd0U2JVcDJNbTlXZGtGdFFYYxAB",
+            "text": "The flavors here dance circles around most other places. The dishes are filling and the prices reasonable. Their staff showed exceptional understanding of service flow. The restaurant offers quality ingredients, tasty seasonings, fair pricing, and kind staff. I intend to dine at this restaurant again."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21keWNXRmhjWFpVZFdVMVVHSk1TRTFwWDNCTFVtYxAB",
+            "text": "This has to be one of the best Mexican restaurants we’ve visited in a long time. From the moment you walk in, the atmosphere draws you in, warm and inviting, filled with the kind of charm that makes you feel like you’ve stepped into someone’s home. Every detail in the decor feels personal, from the handpicked accents to the nostalgic touches that instantly transport you to Mexico.\nThe food is just as remarkable. Every dish is layered with flavor, clearly crafted with care and intention. You can taste the depth and tradition in each bite, nothing feels rushed or ordinary. So far, our favorite has been the red Pozole, rich and perfectly seasoned, though we’re already looking forward to coming back to explore more of their menu.\nIt’s rare to find a place that captures both heart and flavor this effortlessly."
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTlpFUXhTVzFEWnpGbVREZENkMUJMZDNKd2MwRRAB",
+            "text": "Muy buen lugar"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WQlYwbFlkMFJMUWt0bFVFODBiVU5JWjJsRE5VRRAB",
+            "text": "What a great night!!! Loved this place!\nThe birria was delicious!\nThe vibes were amazing, and our server Thomas was the best!\nThe place was full so waiting for the food took long, but it was worth the wait!!!\nI will definitely be going back to try other foods & will recommend to friends!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkSWFHRlRaRll3VGtONWNWY3dhM1poVkhkQ1RYYxAB",
+            "text": "I can’t believe how good of a time I had here… literally the best Mexican food I have had in decades and the staff was incredibly kind and welcoming … atmosphere was perfect I immediately felt right at home. Would give it more stars if I could"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wNU9IWmZNR2hoTlV0V1RpMUtRMDVQTFRaNU9IYxAB",
+            "text": "The food, service, and atmosphere were perfect. Their staff notices hesitation and responds helpfully. They balance quick service with good cooking. They didn't hold back on food, with each course topping the previous. This restaurant ensures a good experience."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSVWVtZEVUVkpHTVRSSlVpMUhjakpwWlZoM2FsRRAB",
+            "text": "The place is cozy, the waiter was super nice"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGS1VrTjJOR2RHVFRnM1gzQktZVlozZUVGR1JGRRAB",
+            "text": "JJ is very attentive great service."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWZlNWbEhaR2hPVHpoNlpuRmlkRTFmUm1sYWVIYxAB",
+            "text": "Went for my birthday to get some tacos with my fam and it was great, the tacos were amazing and our server jayjay was amazing too, super sweet and funny!! He definitely made sure we had a good time :) will be going back very soon!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWUVIwcExRbWhNUjNaUlgySlNObU01ZEdSdGRtYxAB",
+            "text": "This place , employees and food are  amazing ."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WZlFsWXllbU5wWDNBeVUxbE5aVzVqY0dScVpFRRAB",
+            "text": "This place was great! I went for a coworkers birthday and I had tacos which were delicious, after 2 I was full! I had a nice hibiscus drink too! Will definitely be coming here again!"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCbVF6TkxNalEyTjNsSlgxUlZUbVJrUmtSV1dYYxAB",
+            "text": "Excelente experiencia en este restaurante, la comida me gustó, fue deliciosa y el servicio de JJ fue atento y amable, sin duda regresare nuevamente. 😊"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWSkxWOU5Ra2hMY0RNeE0wOVNUakJCZDFRNVpXYxAB",
+            "text": "Me pedí unas enchiladas tradicionales y estaban muy ricas, me gustó el ambiente y la atención y amabilidad de JJ fue excelente claramente regresaré"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGcFdWWlhValV3ZW1ZM01ITTBiRmRpVjB4dVJYYxAB",
+            "text": "Jay jay is the best bartender so far!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trdGVYSmlTRE10UTNZekxWaFJWbUZPU2tOTFNuYxAB",
+            "text": "Everything about this place was perfect – from the warm service to the cozy atmosphere. The food was absolutely incredible – fresh, flavorful, and beautifully presented. The tacos, rice and beans, mole, and appetizers were all bursting with authentic taste, and the drinks were just as amazing (served so creatively too!). We also tried the flan for dessert, and even though I forgot to snap a picture, it was the sweetest ending to such a delicious meal.\n\nA special shoutout to JJ, our waiter/bartender, who went above and beyond with his service – super attentive, friendly, and made the whole experience even better. Highly recommend this spot if you’re craving truly authentic and mouthwatering Mexican food – can’t wait to come back! 🌮✨🍹"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkRE5sTmZSbG94YWpGdVNXTk5UVzA1YzJkeGNIYxAB",
+            "text": "Came to celebrate a friend’s birthday! Birria entrees were amazing ! Delicious and tender! The staff was very pleasant and accommodating! Will return"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSNWFrdHNNamxZVERFMFFsaFhUVE00VURaUk0zYxAB",
+            "text": "Super awesome hidden gem! Great food, got the Carne Asada and birria burrito plus chips and guac – delicious! Also freaking loved the tamarind Michelada – so refreshing! JJ our server hooked it up and set up some tables for us to eat outside with our dog. Would absolutely come back and plan to. Great service, friendly, smiles all around, highly recommend!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CT1RsRndOM2swVGpCNWJqUk5WMncwUTB4WVVWRRAB",
+            "text": "Great place to go if you’re looking for tasty authentic Mexican food and strong drinks! Great atmosphere and the service was phenomenal."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNMWVXOXBWbkp1VWpFMWNVaExPRjlNZVZkUVptYxAB",
+            "text": "Tomas was an amazing host and bartender! Food was great! I would definitely come again"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205bWIxVmhVM0JLTTNRelpFWmxOV0pwTlRCcE9HYxAB",
+            "text": "Tomas was so amazing the food 10/10 service 100/10 deffinitely an amazing vibe thank you for your great service"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaUU9HMVdUa3R5VnpZeFlXaFJhRk5rV2xGV05YYxAB",
+            "text": "Amazing food and drinks! Tomas was a great host!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GRVJsSklTSG81VjNoNVJWbzBlbHBoVTJOVmVGRRAB",
+            "text": "My friends and I went to Marcela last night and we had an absolutely amazing time. Tomas provided top-notch hospitality and everything was a 10 out of 10 from our delicious cocktails to our quesabirria tacos. Highly recommend and we will be back!!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKQk5rRlFka3hxYkVsV2JFSnJOa3d0Uld0bldIYxAB",
+            "text": "My friend and I, recently moved to the neighborhood and were looking for a night cap in the area. We stumbled up Marcela and decided to go in for a drink. We sat at the bar and were greeted by the bartender Thomas. He asked how our night was going and gave us some menus. We ended up getting a Michelada and a Cantarito, along with some beers. Both drinks were amazing, the atmosphere was great, the music was to our liking and Thomas was super personable and kept the conversation going. He made us feel super welcomed, which we enjoyed a lot. Thomas ended up making our night super special and we will definitely be going back soon. High recommended checking this place out !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25saGFsSnpiVGxtT1RkbFNXVXlPRnBzVTJ0blMyYxAB",
+            "text": "Everything was wonderful!\nThe food was very tasty. Service was nice and pretty fast. Very cozy and friendly atmosphere."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Sck1ubFRNWEpvTkRsaVlVdERSVGhRWWxWdVozYxAB",
+            "text": "The tacos at Marcela Cocina Mexicana are spectacular! We ordered the al pastor and birria, and it's one of the best I've ever had. The atmosphere is warm, the service fast and very friendly staff. Definitely a place I'll return to with friends and family. Highly recommended!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zd1RqVnJZblowYzFobVNEZDJSMkZyYURGWlNWRRAB",
+            "text": "Came to dine with my friends after discovering this place on google maps, hidden gem! The food was amazing and the vibes were very chill. Definitely recommend coming here :)"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jM01uRTBOWGxXVjNodVdUVnFWalpPTm5ZNVNWRRAB",
+            "text": "Delicious food with good portions and excellent service. Definitely recommend stopping by for some good food!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOYWNYTlFUVFZ4WW1kb1VIUnhObXhsVVdsV2VFRRAB",
+            "text": "best mexican restaurant in brooklyn"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1T1F6WnpTeTFRTURNNGMwbE5PR3hQVFZKYVZYYxAB",
+            "text": "Great service, delicious Margarita, and the food too,"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nd2VuZEVaVFZVVEVGM1FuTjVOa05XTjNGVWJuYxAB",
+            "text": "Everything is freshly made so don’t expect to rush over your meal!  We had the chicken mole enchiladas, steak and shrimp,  huevos rancheros and guacamole.  Rice and beans were had by all and they were really good. Nothing really spicy and flavor was well balanced.    Food was nicely presented and there weren’t any leftovers!  The food is authentic!  Had the flan and it was very good - not too sweet!!  The service was super friendly and w enjoyed all the recommendations!  Cute decor and very clean spot!  We’ll be back!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oaE1IVm1jbDlKVVhZdFpEZzVRbG95UVZKcGFuYxAB",
+            "text": "10/10 service, food and atmosphere was great"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0WlR6bDBUSEY1Y0RnMVNrUnhaMGxoWjJoMmRWRRAB",
+            "text": "Ordered fish tacos: got white onions red onions red bell peppers and tomatoes in a tortilla. No fish.\nInedible for Me and refund wasn’t given.\nSteak nachos were good. Steak quesadilla was OK tasted like garlic bread."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xad2RuSldUSHBFTFdNeGREUmZaR3RuWldsWGRHYxAB",
+            "text": "I’ve been to this restaurant several times and was very pleased with the service when the owners were around. However, the last few times I visited, I was not pleased. There was only one worker, who was also tending the bar. He didn’t bring any utensils or water, and it wasn’t even busy. The food was just “ehhh” The drinks use to be bomb as well and this time around taste like water — it used to be much better. Very disappointed."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOQ1FXRkpaa05CYVZBMFFWZFZRV0kxYVdvM1FVRRAB",
+            "text": "Authentic, flavorful, and full of heart — this place blew me away. The tacos were perfectly seasoned, the guac was fresh, and the staff made the whole experience feel like home."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCRWRqRmlhMUYzY2xKSlJGcERkVWt6VlhJNVVFRRAB",
+            "text": "JJ was the best server I’ve ever had give that man a raise!!!!! 5 stars ⭐️⭐️⭐️⭐️⭐️"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paTGFqTlNkbFU1TVhSRVRHb3lkM05ET1VwcU5tYxAB",
+            "text": "JJ was so great to us! We loved each second"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKQmF6SmFhV0ZYZEc5RVZtczFZMUpXYkcxWVowRRAB",
+            "text": "Ask for JJ! Amazing service and great food!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCNk1reEVlWGN4VjA1VmVqTmZWMGx2ZEdKM1lrRRAB",
+            "text": "JJ was an amazing waiter. Music was on point!!! Amazing place"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCcmNGWk5jV0pvYWpSelJHMXNNREJPZFVseWJuYxAB",
+            "text": "Amazing experience! JJ was the goat!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKNk9FTk9SVnBoVjBaV1NuWmxNRGMyVnpCUGVtYxAB",
+            "text": "My favorite Tuesday spot. Delicious food and great drinks.  Try the chocolate Negroni.  Staff is amazing. Shot out to JJ. I love all things Barria and Mezcal at this restaurant.  Enjoy!"
+        },
+        {
+            "date": "4달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OblVWRTJiRFkzTVcxd1lWRXdaemQ1UWpSaU4yYxAB",
+            "text": "味道不错👌"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KYVowUkxMVjg1YmtKTmFFVlpVRlEyY0ZSVVQxRRAB",
+            "text": "We were in the area last night and decided to stop by with my husband. The food was a 10/10, and the drinks—oh my God! The espresso martini had this cinnamon flavor that was out of this world. Truly amazing cocktails. If you’re in the area, you have to check this place out. We live in Jersey, and we’re definitely coming back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPU19zOERZcHZiaDJBRRAB",
+            "text": "This is an AUTHENTIC CLASSIC in the neighborhood! The best Mexican food I've ever had this side of the Mississippi, as a Brooklyn native and a previous resident of Los Angeles, I can honestly say this is the best Mexican food I've ever had!!!\n\nThomas, Jay Jay and Edgar are incredible hosts and throw wonderful dinners that will leave you wanting to come back for a great night out in Bay Ridge!!! The atmosphere, food, music exudes the colorful hospitality of Mexico!\n\nThey are respected members of the community who only want to leave there consumers, relaxed, rejuvenated and happy! If you want a great date night or a drink at the bar these incredible people will provide it! You will not be disappointed!\n\nThank you Marcela! May you have many more successful years making great memories with the community! God bless!\n\nT"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOYlR4NWFQcWNqRmN3EAE",
+            "text": "Marcela has steadily become my family’s celebratory gathering spot. We always walk in with one direction; to have a great dinner together, and Marcela delivers to this occasion every time. From our server JJ and the kitchen staff - we were given the care we all know from home. We all eat something different and it’s always prepared well. Specific shout out to the Birria menu and the mole. Puebla is represented well with Marcela. A big thank you from my family to yours."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPN09fZWVGZ2F1NTZnRRAB",
+            "text": "This place has the best molé sauce ever! The birria quesadilla, tacos, burritos are phenomenal as well. If you are looking for great cocktails, JJ makes fantastic margaritas, my go to is the spicy habanero margarita, ridiculous. I almost don’t want to leave such a great review because i want to keep this place for me and my family but great things must be shared. Do yourself a favor and swing thru when in Brooklyn."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPakg1ZWFCai03OVlnEAE",
+            "text": "JJ gave us the best experience from drinks to hospitality. The food was incredible and we definitely will be back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMalExWkxaeU4zd2t3RRAB",
+            "text": "I came here with my family for a birthday celebration. Our server JJ was AMAZING. So attentive and charming and made sure everything was perfect for us. And the food was delicious. I definitely recommend this place."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toS2FXbENNMFJQTnpaU1ZGcDVTalV0VDFOeU0zYxAB",
+            "text": "Dining here was an incredible experience.\nThe food, drinks, service, and atmosphere were amazing. I would highly recommend going here, amazing restaurant."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKcU9vZFRoek9USWp3RRAB",
+            "text": "Love love love this place. 100% the place to come ton and ask for Thomas! Best person to order with and be with. Most natural and friendly person 💜"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GT1JYSmZRaTF1Ym14NFRuSnJNRFppWnprMmEyYxAB",
+            "text": "Amazing food and atmosphere. I loved the music and the servers were great. Couldn’t ask for better"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURveW9YZm1RRRAB",
+            "text": "*This review is only for the Elote and the Pastor Burger*\n\nMarcela Cocina Mexicana is a very cute, quaint, and warm restaurant with pretty decors and aesthetics that reflects the vibe of the culture. It has a nice setup for whether you prefer an intimate or a more social dining experiences. The staff was nice and friendly, but perhaps because it was during the afternoon, he was often nowhere to be found (i.e., I had to go to the kitchen area to ask for the check); not a big deal but definitely not ideal.\n\nNow onto the food which I am confident they are capable of improving:\n\nThe elote was perfectly charred, but the dressing on it was severely lacking as evident in the pictures below. Even after trying my best to spread the dressing all around the corn, a big portion of it was still just plain empty. So if you like eating a regular grilled corn, this may be decent, but I found it overly plain and disappointing since it wasn't like your typical elote where it was seasoned all around.\n\nThe Pastor Burger was also unfortunately underwhelming. The interior of the burger was quite dry and the waiter did not ask how I'd like the burger cooked, so it was served well-done. The beef mixture of the patty had some herbs in it but no onions, which made the interior very dry and tough. The al pastor on top of the beef patty was also tough and chewy, which coupled together with the dry beef patty required more effort into chewing rather than enjoying. The guacamole on top was also a bit lacking and perhaps adding some more on top could've helped with its dryness. The grilled pineapple was perhaps the best part because it was grilled with a nice and not-too-overpowering-char, but it also included bits of the core which provided a tougher texture compared to its soft and sweet outer fleshy part.\n\nOverall, this was unfortunately not the greatest experience and I was disappointed that I could not experience the pleasant experience other diners/reviewers were able to have. I cannot comment on the other dishes since I haven't had them yet, and they may very well be more flavorful and enjoyable. I believe Marcela Cocina Mexicana has the potential of being a great Mexican restaurant for locals around the area, and I hope they are receptive to my minor critiques on how they can improve the abovementioned dishes.\n\nThank you so much for reading and best of luck! (:"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzcWJEdFd3EAE",
+            "text": "Wow is this place a find. My husband and I love Mexican food and were looking for a new place but we are snobs about our Mexican food. Well this place is exceptional. I can’t eat gluten and most of the options are gluten free. The tortillas are homemade blue corn. DELICIOUS! The margaritas are strong and the host,Tomas is very welcoming. He owns the restaurant with his brother and they named it after their mother. It’s clear there is a tremendous amount of love put into it. I can’t say enough. This is not a fast food taco joint. Come in stay for a bit. I left feeling as though I had made a friend. We will definitely be back."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveE15NERnEAE",
+            "text": "the food was absolutely delicious, every dish perfectly prepared and beautifully presented. our server JJ was attentive and knowledgeable, making excellent recommendations. The atmosphere was elegant yet comfortable. I can't wait to come back and try more items from their menu thank you marcela staff !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUN1p6WjJRRRAB",
+            "text": "This place is so good. Went for Mother’s Day. What my mom ordered the chicken burrito bowl was excellent I had wish I ordered that. The soup I ordered was good but nothing special but for 5 dollars it was what I wanted. The main dish I ordered I was not fully satisfied. Unfortunately I ordered it with regular French fries and got sweet potato fries and at the point I got my food the restaurant was busy I didn’t feel like sending my food back. The burger I had ordered I was okay the actually burger part was so well done that it was kinda like a hockey puck. I would definitely come back to try this place out again I just would try something different and order a cocktail because they look good."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIZ3JHSUlnEAE",
+            "text": "Vodka on the rocks is just the beginning!\nStep into this lively spot and be transported to a Mexican fiesta. The bartender is a total rockstar, making sure you feel right at home. And the food?\nAbsolutely divine! Authentic Mexican cuisine that will have you coming back for more. Get ready for a dining experience that's pure ¡fiesta!\""
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvd3NhQWlRRRAB",
+            "text": "Walking in I immediately felt good. The restaurant was lively and the staff greeted me with a warm welcome.  The smell of the food made me hungry and they did not disappoint. One of my favorite places to go."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPdWI1SVBnMllTRzFRRRAB",
+            "text": "I live around the neighborhood and found about this spot recently because my friends always talk about this place so I had to stop by and see for myself. JJ drinks here is fantastic and have good vibes and super friendly"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREMUxpd0JBEAE",
+            "text": "Food was DELICIOUS! And the drinks were much needed after an Earthquake! My new favorite place! Can't wait to bring my mom. Thank you to the owner Tomas and his brother the Chef! See you soon"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMeml2Y0dzNWRxQ2RnEAE",
+            "text": "the food was amazing drinks were perfectly balanced not too strong or sweet and the people were so welcoming i would definitely come back!!👌"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKcUpXZWpBRRAB",
+            "text": "My husband and I came upon this wonderful surprise of an authentic Mexican restaurant. The best was when we realized they served breakfast! We were happily greeted and seated immediately. They have a pretty extensive Desayuno Menu-breakfast/lunch served from 9am to 3pm. Also a great cocktail menu as well.\n\nI ordered the Chilaquiles Platter with eggs, chorizo and green sauce. My husband ordered the Huevos Rancheros along with cafe con leche. We also ordered the flan which was so yummy and creamy. Every morsel of deliciousness was worth making a double u-turn to have an authentic Mexican breakfast. We also totally loved the personal family photos that were part of the decor. It added to the colorful atmosphere to make us feel as if we were on vacation in Mexico!\nCan’t wait to go back for some cocktails and dinner."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvaWZTYlFREAE",
+            "text": "Really yummy drinks and food! JJ is a very attentive waiter and was super nice!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYeWZfV1JnEAE",
+            "text": "Marcela is a hidden gem! The artisanal mezcal and tequila program is outstanding—so well-curated with unique selections that true agave lovers will appreciate. The interior is full of family history, adorned with furniture and decor passed down through generations, which gives the place an authentic, warm vibe. The cocktails are crafted with incredibly fresh ingredients, and delicious food that making each dish and drink a memorable experience. Bartender JJ makes amazing Margaritas that are so balanced and truly a must-try! Highly recommend for those seeking quality, culture, and a cozy, intimate setting!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4N2Nhd0hREAE",
+            "text": "A Mexican Gem in the Neighborhood: Marcela's Delivers Great Food, Drinks, and Vibes!\n\nMarcela's has quickly become one of my favorite Mexican restaurants in town. As a frequent visitor to Mexican cuisine, I was overjoyed when I discovered this gem right around the corner from where I live. Not only does Marcela's offer delicious food, but it also boasts an amazing atmosphere that keeps me coming back for more.\n\nOne of the standout aspects of Marcela's is the warm and welcoming staff. The Brothers, whom I have known since 2016, add a personal touch to the dining experience. Their friendly nature and genuine hospitality create a sense of familiarity that makes each visit special.\n\nLet's talk about the food! Marcela's never disappoints in this department. The menu features a wide range of authentic Mexican dishes that are bursting with flavor. From traditional favorites like tacos and enchiladas to more unique options, there is something to satisfy every craving. Each dish is prepared with care and attention to detail, showcasing the chef's culinary expertise. Be sure to try their signature dishes; you won't be disappointed.\n\nTo complement the delectable food, Marcela's also offers an impressive selection of drinks. Whether you're in the mood for a refreshing margarita or a perfectly paired Mexican beer, their drink menu has you covered. The bartenders are skilled in crafting delightful cocktails that perfectly enhance the flavors of the cuisine. It's a treat for the taste buds!\n\nThe vibes at Marcela's are simply fantastic. The restaurant exudes a lively and energetic atmosphere that is perfect for any occasion. Whether you're celebrating a special event or simply enjoying a casual night out, Marcela's sets the stage for a memorable experience. The lively music, vibrant decor, and friendly chatter create a warm and inviting ambiance that you'll instantly fall in love with.\n\nOn top of all this, Marcela's made both my son's 13th birthday and my 44th birthday truly special. The staff went above and beyond to ensure that our celebrations were unforgettable. They paid attention to every detail, from the decorations to the personalized service. It was an experience that we will cherish for years to come.\n\nIn conclusion, Marcela's is a hidden gem in the neighborhood that delivers on all fronts. The combination of exceptional food, tantalizing drinks, and amazing vibes makes it a must-visit for Mexican cuisine enthusiasts. The Brothers and the entire staff are dedicated to providing top-notch service that leaves a lasting impression. Whether you're looking for a casual dinner or a place to celebrate a milestone, Marcela's is the perfect choice. Don't miss out on this culinary delight right in our own backyard!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveExYVVVBEAE",
+            "text": "A hidden gem in the neighborhood. Our server/ bartender JJ is always friendly and prompt. The ambiance the food and attention to detail is great. Will keep coming back."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZMHJ1ZVNREAE",
+            "text": "I’ve been there a couple of times. And the service is amazing. Had the steak and shrimp\nFajitas and it was a great portion.  Tomas was a great host and server.  I usually visit this spot 2-3 times a month.  Super clean and fast service.  Music is 10/10 as well.  Kid friendly spot.  I usually go here\nwhile I wait for my son to get off from soccer practice.  Definitely recommend."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNneXZiSkFnEAE",
+            "text": "First time visit. Our server JJ was knowledgeable about the menu. Both food and drink. We will definitely be coming back to this neighborhood spot to try more of this great looking menu."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJckI2WS1lMi0zZDF3RRAB",
+            "text": "My mother and I were driving down the street and noticed this cute restaurant. We aren’t from the neighborhood but decided to stop in anyway and we are so glad we did! We started off with a hibiscus and tamarind margarita and both were delicious! We had chips and salsa with a side of guacamole. The salsa was delicious! Not too spicy but full of flavor. We decided to try out the carne asada and Al pastor tacos and both were amazing! We sat at the bar and Tomas was so personable and friendly! The restaurant is super cute and they offer such great varieties of tequila! We will definitely be back! We Love to support small family owned businesses and this one is top tier!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSNGEzRjhRRRAB",
+            "text": "Marcela is a new Mexican restaurant in the area of Fort Hamilton / Bayridge that is definitely a must try!!! The restaurant is beautifully Decorated in Mexican Pink which matches their most popular drink \"La tóxica\" (a must try!). So far I have tried the carnitas tacos, which were great! But I'm mostly fascinated on how good the Mole Poblano pepper was (another must try!).\n\nThe staff are very welcoming. The owner is also very welcoming, you will mostly find him at the bar, making those amazing toxicas and serving shots. He is very attentive to his customers asking if everything is good."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwcnRpUUFREAE",
+            "text": "Beautiful calm atmosphere! Food was super flavorful! I had the shrimp fajitas and my partner had chiles rellenos. Delicious cocktails and great selection of mezcal. Staff went above and beyond 🩷🩷"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJdkg1UEd6NUlHbE5BEAE",
+            "text": "I absolutely loved this place! It’s my first time here and the service and space was amazing! Jj serves you the best! The drinks were perfectly made :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3dDRDOWdBRRAB",
+            "text": "The service was excellent, and the food was fantastic! I ordered the Chile en Nogada and the Burger de Al Pastor—both were outstanding. I also tried the Molcajete, which was good but could use a bit more of a ‘wow’ factor. Of the steam. Overall, I had a great experience and would definitely return."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4eGZxR01BEAE",
+            "text": "This is a new Mexican place that opened up in the Bay Ridge/Dyker Heights area that's worth trying out. It's a hidden gem which has really amazing food, drinks selection and ambiance. My partner and I got margaritas and they are pretty tasty. There is a good selection of sides, desserts, and dishes. I got La Tóxica Margarita and the Lychee Martini which are the two most popular drinks. I got the shrimp fajitas which is a good portion for the price. The place already has people flocking to eat and drink. I would come back again and recommend to my friends."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveFBqTERREAE",
+            "text": "Everything was amazing; from the food, to the service. JJ served us, and was helpful all the way. I recommend trying the Enchiladas Suizas."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEMWFxTGpRRRAB",
+            "text": "Adorable and cozy new addition to Dyker Heights in Brooklyn, New York.  Delicious tacos, guacamole and chips and margarita. Friendly staff and nice atmosphere."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2cXNUVHR3RRAB",
+            "text": "Great service and great food!! The burrito and torta here is sooo yummy! If you are ever near the area, come check it out. Plus the hibiscus margaritas were delicious 😋"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJUDQ3Ti03ak1uMTZRRRAB",
+            "text": "Absolutely amazing. Came with my family to grab lunch and the owner was so sweet and extremely nice. The food was amazing and healthy as everything is hand-made. The atmosphere is beautiful Mexican vibes"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveFBXQmRREAE",
+            "text": "Margaritas are amazing, highly recommend the hibiscus margarita. JJ our server is very knowledgeable , plus hes a great bartender. Have been return guests for about a year, ideal for gatherings or for happy hour. Will be back soon!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2d09lXzhRRRAB",
+            "text": "Amazing food and amazing service! Everything from the main entrees to even the succulent rice and beans themselves to the churros were perfect! Thank you Jefferson and Tomas for this particular night!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSd0lpTVh3EAE",
+            "text": "This restaurant is truly amazing the food is top tier, the place is incredibly nice and clean inside and the staff is soo friendly! Highly Recommend anyone to go!!!"
+        }
+    ],
+    "reviews_count": 79
+}

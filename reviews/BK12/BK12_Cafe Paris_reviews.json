@@ -1,0 +1,502 @@
+{
+    "name": "Cafe Paris",
+    "place_id": "ChIJCYcjeCpFwokRAbDOv66Ptj8",
+    "grid": "BK12",
+    "address": "4424 16th Ave, Brooklyn, NY 11204, USA",
+    "rating": 4.6,
+    "user_ratings_total": 458,
+    "phone_number": "(718) 853-2353",
+    "reviews": [
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wVlFUVXlOWGQ2ZGxVelZXWjRRa3R0Ukc5TFYzYxAB",
+            "text": "It was very nice wonderful atmosphere and every  Delicious food and I really enjoy everything you have and I love every minute sit there and enjoy it"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FM2NWaGlja1JHUXkxTFlWaHljVTkxYjFaa04wRRAB",
+            "text": "Food was decent not great"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtbmFIRHNRRRAB",
+            "text": "Love this place. Very clean. Modern style. Food really nicely presented and very tastey.. Waiters professional and polite."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvMnJURXFRRRAB",
+            "text": "Great staff, delicious fruits, amazing pricing, the lady in the front welcomes everyone with warmth and a big smile and make sure everyone goes out happy"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJekxleVJnEAE",
+            "text": "Delicious food, best service."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2aW9pb2ZREAE",
+            "text": "It's a perfect place to go if you're looking for a nice, elegant lunch. The food was phenomenal, and the ambiance and service was above and beyond!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzdHZyQ2dRRRAB",
+            "text": "We a family event and it was stunning and delicious with super service!\nThank you"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNueU9LZzR3RRAB",
+            "text": "Good place"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIMnFTZ0lnEAE",
+            "text": "Great Kosher dairy food."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiNi1fcmFREAE",
+            "text": "Decent experience"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMMHFTcUtREAE",
+            "text": "Clean, bright premises. Good and prompt service. Food 3.5 out of 5 stars. I had a tasty and satisfying quinoa salad. Small portion. $27. Delicious sweet potato fries."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "iw",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUdXJIX2FnEAE",
+            "text": "I visited Cafe Paris, the service is the worst, the waiters are cheaters and have no understanding of customer service.  I was charged for products I didn't ask for, and I was charged for a service fee even though I didn't eat at the restaurant. I contacted the shift manager to understand the charges.   She told me there was no one to talk to and she got up and went outside at my request. A place without service and without honesty.  Save Yitzchak's soul from this place.\n\nJust a place to sting customers\n\nבקרתי בקפה פריז ,השירות גרוע ביותר  המלצרים רמאים וללא הבנה בשירות לקוחות . חיובתי על מוצרי שלא בקשתי ,וכן חיובתי על דמי שירות על אף שלא אכלתי במסעדה   פניתי לאחרית משמרת להבין את החיובים.  אמרה לי שאין עם לדבר והיא קמה והלכה החוצה בקשתי  .מקום ללא שירות וללא ישרות . שמור נפשו ירחק ממקום זה ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUNThhSWZBEAE",
+            "text": "This place is the best we took my sister here for her birthday 9 years old everything is perfect not many expensive but fun and tasty I would definitely come here again"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREeGRLbEx3EAE",
+            "text": "Huge portions. Reasonable prices. Delicious food."
+        },
+        {
+            "date": "1년 전",
+            "language": "iw",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5cU5QcG1RRRAB",
+            "text": "וואו קשה להעביר במילים כמה שהמקום הזה פשוט scam. מחירים הזויים למאכלים באיכות הכי גרועה שיש..הייתי עם חבר במקום הזמנתי פיצה אישית סטייל פריז(ככה זה רשום) ובפועל קיבלתי פיצה עם רוטב קטשופ וגבינה צהובה שהפרישה טונה של שמן והתפרקה מהפיצה במחיר של 20 דולר!!! וואו כמה שהמקום הזה נוראי.עדיף לאכול לא כשר מאשר כשר שם"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURka0xtRnV3RRAB",
+            "text": "Great food. Great service.."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkOFl6cFd3EAE",
+            "text": "I don’t ever leave reviews, this is my first and I felt obligated to leave one because I am in complete shock.. I usually dine at Renaissance Cafe when I’m the mood for dairy but I wanted to try something new so decided to try this place. First red flag was that my husband and I were the only diners there on a Thursday night.. literally not one person walked in the whole time. Second my eyeballs almost fell out when I open the menu and read the prices $65 for Seabass? That’s more than a steak at the loft! $30 for an arugula salad? I got the mozzarella basket for $30 which I was topped with sweet chili sauce for sure from a glass bottle. Horrible. then I ordered the arugula salad, but they had no arugula left, so I got it on Romain lettuce instead and my husband got the fettuccine Alfredo.. i honestly don’t even know what to say.. to say the food was horrible is an understatement.. i hope the owner sees this and if he does here is a word of advice; your prices are absolutely INSANE! You are a dairy restaurant with meat restaurant prices. The Loft justifies its prices by having the best meat restaurant in Brooklyn so in order to justify your prices, you need to be the BEST dairy restaurant. You offer very few options in each category and every single one needs to be the best and everything needs to be available at all times. Your restaurant was out of arugula and spinach, that’s ridiculous.. I hope you do take my advice because over priced restaurants don’t last long… you want to be one of those “I can’t wait to come back” places  not the “never again”"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWNzhUdldREAE",
+            "text": "Very busy and loud. Mostly, all women are eating at the restaurant, so if you're a dude, you will feel uncomfortable. Food is subpar, I was expecting better. Wouldn't come back again unless I hadn't eaten in a few weeks, and this was the only place open within 500 miles. 1 star, but the bathroom was nice and clean in the private section."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGN0phTWRBEAE",
+            "text": "The best kosher food in town!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaenJ6M0FREAE",
+            "text": "The food is very good and $$$ expensive. The service is not so good.  We had to request water several times.  We were a party of 10 on Sunday early in the afternoon.  There were not many other diners there, but the service was, as I said, not so good. Also, the entres were not timed well at all. So the ones that were the quickest to prepare were brought out first. The problem is that some in our party were  almost finished by the time the others were just starting.  The worst problem was one of our party requested no tomatoes in his selection.  However, his meal was loaded with them. To sum up food is good but expensive and service is poor."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKaDRyazZRRRAB",
+            "text": "Good food, not too long wait times, no alcohol menu though"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtMmJxU3p3RRAB",
+            "text": "The best salmon plate and waitress"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKeE9YbVhREAE",
+            "text": "It was a great experience!\nGreat service!\n\nA bit overpriced..."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKOXA3M1NBEAE",
+            "text": "Nice place. Good food can make parties over there gatherings but bit expensive"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCa3ZLdTNBRRAB",
+            "text": "Delicious food and beautiful atmosphere. The service here is incredible. Waiters are extremely patient and helpful. I loved everything that I ate here. Definitely would come again."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKNW9PS1h3EAE",
+            "text": "Beautiful party room"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4M29YNkFnEAE",
+            "text": "Beautiful ambiance and great food!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4bXMtM0VnEAE",
+            "text": "Had a Sheva Brachos there and it was absolutely beautiful,\n\nSushi and salads were prepared buffet style when you walked in, we then washed on delicious french baguettes with olive dip and hummus.\n\nAppetizer was portobello mushrooms with cheese on top, served with salad, then came a creamy vegetable soup and the main was a choice of grilled salmon, eggplant parmesan, or penne a la vodka, plus they put small pies of pizza on the tables for everyone to share.\n\nDessert was cheese cake and ice cream served with slices of pineapple.\n\nProfessional waiter service and everything tasted fresh and delicious."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSM3JQT1VBEAE",
+            "text": "in and out very quick"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNodzR1TXdRRRAB",
+            "text": "worst service ever food is old"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNobHF6dDlnRRAB",
+            "text": "The food is delicious but it takes way too long to come, first I thought maybe because it was full, then I gave it another shot one day when it was empty, and same thing… I waited 40 minutes for the food… and then I gave it another shot and same thing…"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpOGVPM1N3EAE",
+            "text": "Lovely food great service and a nice and relaxing place"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCdEtxYUJ3EAE",
+            "text": "Good food.  Reasonably priced"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCZ01PeGx3RRAB",
+            "text": "The best place ever I'm definitely going back"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCNjhYT1lBEAE",
+            "text": "Nice place. Great service and great food."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCd2U2VXRnRRAB",
+            "text": "Good food"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCb3FYeld3EAE",
+            "text": "Had an amazing experience. Food was great 👍"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCa01YUXF3RRAB",
+            "text": "Excellent food and impeccable service!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtckpQdC1nRRAB",
+            "text": "I went there for a dinner with my brothers family. We had a little family occasion. It was a Sunday evening so the place was kinda empty, but we were a large group. Like 8 of us and a baby.\nBut the food was better than I expected. It was REALLY REALLY delicious n fresh tasting. We ordered a bunch of different dishes and we all shared everything. And we all agreed that everything was very tasty n delicious.\nThe mozzarella sticks salad was YUUUM! the veggie pizza, the pasta, everything very very tasty, and we ordered a few different fish dishes they loved all of them.\nWith all the food we ordered, at the end there was almost no leftovers. The table was almost empty of food.\nI couldn't of been more satisfied with the meal we had here.\nThanks guys"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVbEpqa0lBEAE",
+            "text": "Ever since Cafe Paris came under new management I've been an avid fan of this place. For starters, their food is finger licking delicious. I've visited this restaurant multiple times in the last few months and they never failed to impress…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhMUxYczJRRRAB",
+            "text": "So firstly the service was EXCELLENT! and the food is right uo there as well! Will definitely go back!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3aV9IdjFRRRAB",
+            "text": "Nice ambience, good service, DELICIOUS food. (Best tuna steak I've ever had, and I order it often!)"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHeHI3OWtnRRAB",
+            "text": "Food was tasty. Presentation was nice. They have quiche, fish, pasta, salads, and desserts. Menu had plenty of options.\n\nThe restaurant was fairly busy and there might not have been enough wait staff. The wait staff weren't warm and welcoming but they were polite.\n\nThe service was pretty slow and we needed to check on our order a few times.\n\nIf visiting again, I would only do so at off hours. Staff would do well to smile and make customers feel valued even if they are in a rush."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLaHU3X1lREAE",
+            "text": "We had a surprise party for my mom’s 99th birthday. Staff was wonderful. Food delicious and the chef outstanding. He worked with us so the ones with fish allergies and gluten free diets were accommodated as well. Thanks to all for a wonderful evening!!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQweW92RmFnEAE",
+            "text": "Nice service and good food"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1MXBHcWRBEAE",
+            "text": "Food is good but portions are really small. For a $29 ravioli dish I expected more then 5 pieces. If you guys charge so much plus a gratitude fee you better give generous portions."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURrenJ5X1ZREAE",
+            "text": "Great place, excellent very tasty food, everything was frash hot and fresh a real pleasure to eat there\nHighly recommend it"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNeXJXc0tnEAE",
+            "text": "Very calm and relaxed atmosphere\nFood is HEAVENLY delicious!!! And not expensive pricing at all\nExtremely nice and professional service.\nThey gave me a free dessert because I by mistake ordered something I don’t like which was entirely my mistake and they really didn’t have to do this\nGreat place will return a lot more times"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURrbUpPNWN3EAE",
+            "text": "Solid Cafe. Nice clean ambiance and good service. Also, the food is good and affordable. If I had to make a recommendation to management it would be 1) Get a new recipe for the pesto pasta. I pictured a green cheesy sauce, but was…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtdXJXWDlBRRAB",
+            "text": "We asked for the mozzarella basket but they didn't have it so we settled on the plain one's, it was not bad but not something great either, the margarita pizza was actually delicious.\nThe linguine and white mushroom sauce was not the best and needed more mushrooms, and the ravioli was plain bland and heavy like a spoon of cement in your mouth.\nThe dessert was ok and the strawberry milkshake could have been better,\nOverall I would not go back there again."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNZOFpYMVR3EAE",
+            "text": "If you were here the last 5 years and you weren't satisfied enough it's worth a trip from all over to check out this restaurant under new great professional management they will make sure you are really satisfied…"
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJb3BlajhBRRAB",
+            "text": "The food is perfection.  Great service.  Nice atmosphere.  Nice prices.  We had a party there.  14 people.  Everyone said the food was really delicious."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlX002dXVRRRAB",
+            "text": "Behind the restaurant is a very elegant venue for smaller affairs.  Delicious food (dairy) and excellent service.  Our family has done affairs here several times, and each time was terrific. Highly recommended."
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBOGJiVnpnRRAB",
+            "text": "Walked in and asked for a menu.  Man looked at me coldly and said I shouldn't be looking around outside his restaurant (was looking for a menu). I explained some restaurants have menus outside.  He said, \"do you want to be the manager\",…"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBMGVpMVBBEAE",
+            "text": "From my experience,  I loved the food and specially the service,  beautiful waitresses,  without the waitresses the restaurant would loose their confident,  quality..  The waitresses are the face of the restaurant,  without them the restaurant would be just a regular place where you eat.  They explaining in details in what you are confused,  and making you to choose the best of it..  The only weird thing in restaurant is that,  the waitresses don't t get tips,  as if the tips are included once you pay the bill,  but unfortunately they don't t get tips,  that s why I suggest you all customers to pay extra cash and give them personally,  cuz the owners put tips in their own pocket,  again dear customers once you pay bill,  give extra cash tips to waitresses,  cuz they don't t get payed good,  or don't get the tips..  Sincerely zyatko"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPdE1hWlRnEAE",
+            "text": "My wife and I arrived at 2pm for an upscale dine in lunch experience, it wasn't that!\nTwo tables were occupied besides ours, safe to say, it was relatively quite and not busy. We waited for our food to arrive roughly 25 minutes, the staf seemed like that rather be someplace else...\nLets talk about the food, their pizza is made from PREMADE dough, and prepade sauce from a jar! Their sweet chili dipping sauce is from a glass bottle, o0ne of the name brands, saw it with my own eyes...\nBefore you go there, consider which type of outing you enjoy... I doubt this is a place for you..."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBaXVUbl9BRRAB",
+            "text": "Very relaxed and enjoyable atmosphere. You can get really healthy and tasty food at this restaurant. I had a delicious lunch and the service was amazing!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPckl5aFpREAE",
+            "text": "Quiet intimate beautiful feel. Generous portions. A personal fav for date spot. The hot chocholate there is delicious!! Taste so real! The pastas are tasty and delicious!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLdmFUbkJnEAE",
+            "text": "My husband & I LOVED them last year, but this time it was good, but simply not as superb as last time. I will say the sea bass isn't expensive & soft as butter which makes it amazing!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPbElhWm13RRAB",
+            "text": "I attended an event and I must say I'm impressed, the food was delicious, the setup was nice the waiters we're kind and with a smile, the ambience is perfect. Great place to dine!"
+        },
+        {
+            "date": "10년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnak5QcFJREAE",
+            "text": "Ive been to cafe paris a few times. The food is excellent. Lots of healthy, and not so healthy, menu options with interesting additions every now and then. The decor is very nice- feels upscale in middle of boro park. Service is good and prompt. Most importantly for me, its clean. Good food, nice place, nice people."
+        },
+        {
+            "date": "11년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBc0lUNTNnRRAB",
+            "text": "Besides the awkward feeling of being ignored, they are very understaffed. The chef forgets to cook and serve ALL your food to you and your guest. Complete nightmare. They brought the omelette without the toast, fries without the sandwich. Half an hour later after the omelette and fries are cold, I get a sandwich for sure. It wasn't the traditional grilled cheese sandwich.  It was a sesame seed baguette bread with little bit of mozzarella cheese -barely edible. They are pricy as well, 40.00 for an omelette and fries,  a coffee and coke. I guess the bread which arrived late was expensive. Also, they are NOT vegetarian. They serve to pescatarians and have fish on their menu. I do NOT recommend and we will not go back there. >_<"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtclpUOXVnRRAB",
+            "text": "Delicious food. The food took too long to come. Very noisy, but that's bc the food is so great so that's not their fault"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLdG92VmlBRRAB",
+            "text": "Friendly staff, reasonable prices, good food, quick prep time, nice presentation, classy setting, comfortable seating, pleasant ambience. What more can you ask for? 5 stars."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBM2FLTU9nEAE",
+            "text": "Love love love this place. Beautiful decor, beautiful people and unbelievably healthy and fresh food. My favorite is the rice, bean and vegetable plate with portabello mushrooms. Fingerlickin good. Every time."
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNROC1UZ1FREAE",
+            "text": "Really good food and wonderful service very calm and peaceful I definitely would recommend coming here"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtdDhPN2xBRRAB",
+            "text": "Great place great food if you don't have time dont go it takes very long for the food to come but if you have time it's worth the wait"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4dGYzN0VBEAE",
+            "text": "Real good food, nice place and friendly staff."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3a0plWnNnRRAB",
+            "text": "Great food well priced and awesome service"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4cTV5VGJREAE",
+            "text": "The place is immaculate, the food is simply delicious. Every dish that we tried was just perfect and the service is just outstanding."
+        }
+    ],
+    "reviews_count": 70
+}

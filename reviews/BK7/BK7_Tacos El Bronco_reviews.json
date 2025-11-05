@@ -1,0 +1,593 @@
+{
+    "name": "Tacos El Bronco",
+    "place_id": "ChIJA4IcJbhawokRcqZKwWCNxkI",
+    "grid": "BK7",
+    "address": "4324 4th Ave, Brooklyn, NY 11232, USA",
+    "rating": 4.3,
+    "user_ratings_total": 2636,
+    "phone_number": "(718) 788-2229",
+    "reviews": [
+        {
+            "date": "14시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pablZUaE1kWFExTVVGVFdqTlRTbnBUY0VFd2QyYxAB",
+            "text": "Great Mexican food 😋"
+        },
+        {
+            "date": "3일 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poYWVHSTNlVkU0YUdkYWIyeGxiMmRNZGtac2FYYxAB",
+            "text": "Me gusta mucho el restaurante, la comida es deliciosa y variada, aunque lo venden licor permiten si uno quiere llevar algo, el ambiente es agradable, tal vez falta un poquito de mayor empatía en algunas meseras, aún así, en general la experiencia es buena!!!"
+        },
+        {
+            "date": "5일 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nMWRreDFURlpEUmpNNFpsSnFTa2xHVjBSdFYwRRAB",
+            "text": "טעים מאוד, שרות מצויין , אוכל טעים מאוד\nמחירים שווים"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sdFRYY3hOMVprUW14ek1VOU5PVFJpTVdkbVIwRRAB",
+            "text": "Food was okay. Service was great. Salsa was average."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kSFVsTmFOM2QxZEZSUE9VSlpNVlozUWpJMmFtYxAB",
+            "text": "This is Hands Down My Favorite Spot in NY to get some Tacos ❤️\nThe Tacos Are Always Good EveryTime I  Visit 👍🏽👍🏽👍🏽👍🏽👍🏽"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxWWJYSlRVMlppV2tOa2RuRm1OVE42VjFoWlkzYxAB",
+            "text": "Great food and service 👌"
+        },
+        {
+            "date": "수정일: 4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNveUthZnV3RRAB",
+            "text": "I’ve been eating at this restaurant for the past five years. You could say I was a loyal customer who knew the servers. Recently they’ve cut the portions of the food on some of their menu items. Which I would understand due to inflation but also why would you want to pay the same price for a smaller portion? They no longer offer complementary chips, you have to pay for them now. They took longer than usual to bring out the food the last time I went. The servers were all new and weren’t sure if the menu items were the same. All they could do was apologize and understandably it’s not their fault. Honestly it’s just not worth going back for me."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsbmEweDVNV1ptVkcxWVpVVk9TelJCUkhCcFYxRRAB",
+            "text": "What an evil business! Everytime I go my wallet is emptied! I keep ordering something new each time... tacos al pastor, the pozole, and the tostadas, and I just keep throwing money into this place. (Es una broma, que fantastico)"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OMlMxaEJSbTlMV1ZsSExXUlJhbkIxUW1wWWNrRRAB",
+            "text": "Bad food, bad service, no atmosphere"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aT1pHdGFXREJOVUhreGFEUjZkV050Ulc5eVIxRRAB",
+            "text": "Been there twice and the food is great!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210YWFuY3hVRm93UVhGWFZFVkNjVVJ3VnpZMGFWRRAB",
+            "text": "Hands down Best tacos in Sunset park!! Family, and friends have been coming to this location and taco truck located on fifth Avenue for years and years. I definitely recommend these tacos!! First responder Friendly!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214aWJFeHpOMUJvWmpCSFFrVnZNRm8yVWtwa2NFRRAB",
+            "text": "Love their tacos and tostadas! Service is usually fast but sometimes there’s a wait for the food. Affordable prices, friendly atmosphere"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2MzRfTDV3RRAB",
+            "text": "Expensive overrated and  loud at 2 in the morning with their elecetric generators on their food trucks parked outside."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5ODZHOGtRRRAB",
+            "text": "I come here very often. Food always delicious and good customer service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGU1MxSjBRMXBRZVZWeU9ERXhTREo2Y2xWYVdWRRAB",
+            "text": "Overhyped, not worth it."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxc1dURTJNM2xWYm1kU1EwbEJUekJDU2pscWEwRRAB",
+            "text": "Excellent food at a great price with friendly service.   Highly recommend"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25waFZ6Z3hSblJNWW1GTGNVOVhWSE0yYURaVk0zYxAB",
+            "text": "Best best best"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prM1VGbGFjWFZyTXpKd1dsaGxNMnhKYzFFelpsRRAB",
+            "text": "delicious food. we got nachos without meat it was pretty good and flavorful"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWMmNYRTVPRXBtWVdwR2EyOWpWekYzVFhaamJWRRAB",
+            "text": "Food was absolutely great, but caution, don’t over order. I ate way too much and it didn’t go well but me, but honestly, not regretting it. The steak was fantastic and the tacos too!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCSE1tRndObHB3WXpjeFJsTjNRVlp4WkRsdGFGRRAB",
+            "text": "Order chicken quesadilla and here we go"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOMVFqaHZXVmhJTlRWbE1WbzRXVXRSVDJSR2VuYxAB",
+            "text": "Fav tacos !!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkMlpuWnJWRk54WTNkTFN6QXhORWx2YW1WME5uYxAB",
+            "text": "The food is so delicious !! Top tier tacos, hands down !!"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oSGQxUkZRM2xZZUZGcVZGbGZXakJHYlhOWU9YYxAB",
+            "text": "Solía ser uno de mis lugares favoritos, pero poco a poco todo está cambiando, ya no dan chips eso me sorprendió, los tacos ya no son como antes, ni modo a comer a otro lado.."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGaFprRXhTMFJXWjBWb1dUTjZaR0o0WVhKS05YYxAB",
+            "text": "La comida esta muy rica lo malo que no tienen bebidas como para acompañar,y tampoco dan chips al esperar tu orden. Pero en general estubo bien"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSSFExSnpWV1ptUzJKR1VtaDNUMkpOYWt0M2RXYxAB",
+            "text": "Buen lugar para ir a comer tacos de birria"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDak1Ib25RRRAB",
+            "text": "Great service Great food!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KYU0xUlZZV055YlVaa2VqaFZSa1pxTFVwcFJGRRAB",
+            "text": "I ordered steak quesodilla and got 3 deep fried tacos burnt to a crisp peices.  But the clearly have quesodilla on the menu pictures . Dont ever order this.. they will send you this.. WHAT THE HELLYANTI!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ScWJtZDFUMVpNVlVwMmRsUldkV0prT1ZKc2IzYxAB",
+            "text": "The best late night taco spot! One of the best taco spots in my opinion!"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvcl9ubk1REAE",
+            "text": "Fui a cenar y me pareció delicioso cada plato, desde luego los infaltables tacos."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ocGIzZG9lRlIwWlZSWk5GZHpXVnBQVms1QllXYxAB",
+            "text": "The most tasty veggie tacos! Consistently Great! And fairly priced! Hard to find nowadays"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkaFFYQm5ZVEpDUzJ4eVlWZHdPRkJDU0dKSFprRRAB",
+            "text": "Bonkers good"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBdGFVNVZTWFoxYW1SM2FIUjRRbGhQWDNsUGFsRRAB",
+            "text": "Ni idea papi soy de chile y estoy bastante aburrido en la madrugada, son tacos asi que deben ser re buenos 5 estrellas."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsQ1JFWTFkek5YU2poaldURjVRMUpxVjA1RlFuYxAB",
+            "text": "The food was great, however the portions were a lot smaller than what it used to be."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxaWNrRnhObEV6ZEY5Zk5HaGhWV3hHYTFFNVFWRRAB",
+            "text": "12 dollar for this tiny burrito thats not even filled up, such a shame this was my go to spot."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GV1dXRnlTRXBOTlhkdlNrTm5lbVZQUlRSSFJHYxAB",
+            "text": "This place is the best."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZM2NXSjFkRmhHVkc5Q1JWTkNjVkZLZW05TWVXYxAB",
+            "text": "Do yourself a favor and don’t get food from here. They have been in business for many years and at this point they no longer care.\nThey are not up-to-date with health department. Guidelines! Roaches everywhere"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKWmN5MUxMV1o1UzNSRFNXaG1ObFZJTm1VMVprRRAB",
+            "text": "Amazing food"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VNQ09tWmphLUxmaVNBEAE",
+            "text": "Mal servicio tarda demasiado y los meseros🤷👎…"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VKbXRuTlhtMGZTZUZ3EAE",
+            "text": "This is my go to place for food but recently they have changed so much, so many new staff members who barley speak English and the ones who do are at the cashier. Sundays are my usual days to order and two nights in a row they did not put my rice and beans! Once even a taco was missing! I do not call back to complain because I am at home by then."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VLT2MxcXZSa19ldWhRRRAB",
+            "text": "Some of the better tacos I've had in Southern Brooklyn can be found here. They definitely have shrunk some of the portion sizes in the last 10 years since I first went here. Beyond that, highly recommend trying every taco at least once!"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VPVzlvcFRkNFpLTUdBEAE",
+            "text": "Pésimo servicio, éramos un grupo de 5 y estuvimos esperando casi 10 minutos por el menú . Después de pedir por el menú Irma nos dio el menú y luego nos tomó la orden con una attitude. Luego una chica nos trajo la comida y cuando le clarificamos que habíamos pedido el guacamole alado nos rebiro los ojos . En ese momento ya se nos había ido el apetito con tal pésimo servicio. Si no van a tener paciencia no trabajen en un trabajo q requiere servicio al cliente. Nunca más volveremos. Un chico de rojo , y una chica joven flaca de rojo eran los únicos q atendían con calidad . Ahí las otra dos chicas Irma y la chica q sacó la comida , pésimo servicio. Y la comida estuvo más o menos .\n\n————\n\n-Terrible service, we were a group of 5 and we waited almost 10 minutes for the menu. After asking for the menu Irma gave us the menu and then took our order with an attitude. Then a girl brought us the food and when we clarified that we had ordered the guacamole on the side she rolled her eyes at us by this time we had already lost our appetite . If they are not going to be patient they should not be working at a customer service job. We will never return. A guy in red and a skinny young girl in red were the only ones who served with quality.  The other two woman , Irma and the girl who brought out the food, terrible service. And the food was so-so."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOYkMxdWU4bWFIOS1RRRAB",
+            "text": "Yo the burrito was soooo good, filling and delicious. Yes yes yes"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VNMmhtY3k2elBLS3dRRRAB",
+            "text": "Food was decent, but there was one disrespectful waiter/server, had a huge attitude when asked a simple question, will not be coming back here"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvMGYzNXdBRRAB",
+            "text": "I ordered here I always do because it’s the only tacos I like but I guess my luck wasn’t good today and I found a black hair with blue on the points of the hair it was so disgusting cause I was about to eat it thank god I didn’t"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvX2JpbllREAE",
+            "text": "Nice, good food."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5eEtHUWhRRRAB",
+            "text": "Excellent tacos. 🌮 This is a usual spot for us and it never disappoints here. The large tacos have guacamole in it and it also comes with an entire grilled green onion. Now, I hate onions. But I have no clue why I’m able to eat it here with the tacos… it’s that good. Opt for the regular tacos. The small size is fine but for just a dollar more you get more bang for the buck, literally. Very low key establishment. It isn’t festive. I don’t believe they serve alcohol either. But the tacos are amazing. And amazingly affordable! As always, better to eat fresh and dine in. The fajitas are good and the sizzling plates is nice…. but order the Tacos… when the restaurant’s name begins with Tacos, you better order the Tacos 🌮!!! 👍🏼👍🏼"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfbDdQaENREAE",
+            "text": "Great service, happy people, fresh food and improv music.\n\nThe service is great. Our waitress is always smelling and making our dinner so welcoming. She gave us extra salsa and chip.\n\nThere are lot of space for seat service and it wasn’t busy for our dinner time.\n\nFood is delicious. Someone else ordered fajita but I settle for a burrito. It’s filling and good amount of food. There are so many things on the menu and I need to come back.\n\nOccasionally there will be people playing music for tip while you are eating. It’s something to just accept."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmMzhTcklBEAE",
+            "text": "How can I put this: Everything is delicious!\nFood is authentic & prepared perfectly.\nService is attentive & prompt.\nThe atmosphere is undeniably Mexico.\nI'd highly recommend Tacos Bronco to you, to my friends, & family."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfemZMUk93EAE",
+            "text": "I recently dined here and ordered shrimp and fish tacos. While the fish taco was absolutely delicious, the shrimp taco fell slightly short of my expectations.\nOne minor disappointment was being charged for a cup of hot water without prior notification.\nOverall, I enjoyed my meal and would recommend this restaurant to others, particularly for their fish tacos."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZNXFUU3lBRRAB",
+            "text": "Went here for lunch and the service was stupendous!\nI love how they served everyone fast. The food was also out in less than 10 minutes. The servers and kitchen were on point. They automatically serve you chips and salsa while you wait and bring you water.\n(Some places you must ask for water, which I never understood)\nI enjoyed: 2 mini chicken tacos and 1 regular steak taco. They delicious.  The presentation of the food is a big plus.\nWill definitely come back!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlNk55YTZ3RRAB",
+            "text": "the quality has been consistent for the past year.  I read with great difficulty those who give these folks 1 to 2 stars.  They all admit that they have eaten from here numerous times, but then they got “disappointed.”  ???  Mind boggling.  People are just ridiculous lol\nAnyway, here is my full 5 stars because these guys do a great job at producing what is gourmet tacos.  I have tried over half their stuff.  Fantastic.  The tortillas never disappoint.  And the sauces are on point.  The fillings, flavorful.  The lines are always there, evidence that great tacos are made here.  I look forward to having their tacos."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNndjhHajZ3RRAB",
+            "text": "Pretty great tacos for very reasonable price. As others have said, the portions of the regular size tacos are pretty big. I got nachos as well which were very tasty and nicely arranged, perhaps with a slightly small portion size. The staff was also very nice and service was fast when I went (perhaps after the dinner rush)."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyeDRPUEhnEAE",
+            "text": "The tacos were good, but portions are really small and pricey. They messed up one of the orders and attempted to fix it, but second attempt was still wrong. It wasn’t what I wanted, but I take some fault for the miscommunication. Staff is friendly."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKaGJENXBnRRAB",
+            "text": "this place was really hyped up for me. the tacos were pretty okay but I wish they had more texture and flavors. The best ones were the tripe and shrimp and spicy pork, also had the beef and the tongue but they were all really just okay."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCM0p6dFN3EAE",
+            "text": "This is the best Mexican dinner I had in such a long time. Everything they fed me was so tasty. We got steak fajita, Mexican style shrimp with rice and beans and al pastor taco. Big portion, Free chips and salsa as well.\n\nI wish they have more tripa tacos available though. It is often sold out at both the truck and the restaurant 😂"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDcWMtQm1RRRAB",
+            "text": "One of the best tacos I’ve had in this state. I was skeptical of the guac on top of them all but it didn’t over power the flavor. The pastor is for sure a must order but the campechanos was also a highlight."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiM0ltazlnRRAB",
+            "text": "The BEST lengua taco (5/5) and carnitas taco (5/5) I've had in NYC. Rivals the ones I've had in Mexico. Super moist, tender, and extremely flavorful; and of course well priced. The shrimp taco is good (4/5) as well. Chips they serve at the beginning are good too."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtcGVyajVBRRAB",
+            "text": "My boyfriend brought me here and the food was incredibly tasty. Large portions for very fair prices. I ordered the steak enchiladas which were cooked perfectly and unlike a few other places, there was perfectly juicy steak pieces in every bite. Absolutely recommend this place."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNodkptQnB3RRAB",
+            "text": "I was recommended here by a friend who said these are the best tacos she knows. For sure, they are the most voluminous tacos I now know. The sheer amount of meat they have in the tacos make it worthwhile, even though it has raised its prices like everyone else.\nAs a disclaimer, I came here at night, close to 9pm. That was probably my mistake, since the meat is a bit dry in the barbacoa tacos by then. I ordered nine tacos also, and I was absolutely overwhelmed by how generously sized the regular ones were. I somehow managed to finish. I got the buche, suadera, and barbacoa. The buche was the best by far. It's pig stomach and remained tender and juicy compared to the other two meats. The food also came with tortilla chips and grilled green onion and cucumber, as well as red and green sauce. It was all quite the feast and satiated my taco craving for sure.\nThe server lady was very nice. It wasn't very busy in the restaurant half I sat in. The decoration is quite beautiful, with painted images on the walls of horses and verdant scenery. The location is conveniently by the 45th street R train station.\nOverall, it was a nice look at different tacos that didn't just make the usual meats in the mainstream. The prices are quite good considering how much this would cost you in the city, and I highly recommend it. Just, maybe come earlier than I did."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNZ29fRlpREAE",
+            "text": "The food was good but the service was not perfect.\n\nUPDATE - Ate here again yesterday evening around 10 pm. Still a great place to take out or sit down and eat. Service is slow as venues are still recovering from the pandemic but the food was 9/10 and horchata still very tasty 9/10. Six regular steak and salty beef tacos w guac, steak burrito and large horchata $38 and I have an $8 tip for the generous portions and friendly staff. They had a crazy amount of takeout orders as well!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1MUtYYlh3EAE",
+            "text": "It’s def the best tacos in New York! We had fish taco&three flavor tacos & Fajitas mixtas, everything just so fresh and delicious!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJa3R1UlBREAE",
+            "text": "We had a late lunch early dinner here and the restaurant was pretty packed. We did have to wait about 10 minutes for a table but it wasn't a big deal. Unlike some other reviews, our food did come fast and service was prompt so I'm not sure what the difference was because the restaurant was at full capacity during this time.\n\nWe received our first order of chips and salsa free but we were charged for a second order (which I saw on the receipt for $2.50); not a big deal but it would have been nice to be told.\n\nThe entrees were good. We ordered the torta, burrito, tacos, and flautas. I tried a bit of everything and all were pretty good. The tender beef really looked and tasted like pork which I thought was weird but it tasted good so I didn't really question it.\n\nThe only thing I would not recommend is the horchata; that was not very good and kind of watery-er than others I've had in the past. Just meh."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPX0t1VVRREAE",
+            "text": "Don't be fooled by how this place looks. It's super legit and such big portions & great flavors! I got the tongue, the pork, and steak\n\nEverything was delicious and I'll definitely come back"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDdjlEWnJBRRAB",
+            "text": "Best tacos you will eat in your whole life.... So delicious!! Service is great. They have outdoor seating as well. They have a variety of authentic mexican food.."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSNDgzT25BRRAB",
+            "text": "The night before I tried their food truck and was amazing, tacos campechanos taste exactly like in mexico and so does the agua de horchata, however enchiladas were not my fav"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURicVlfYndnRRAB",
+            "text": "Broncos has been consistently good over the past 5 years. It has incredible tacos and fajitas, and the staff are friendly and attentive!  I would highly recommend el pastor tacos and fajitas. Their cow tongue tacos are also great! Overall a great place to go and be at and would highly recommend for anyone in the area."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnbUpuVk9REAE",
+            "text": "The tacos are so delicious and cheap I don't know why you'd try anything else. The pastor tacos are delicious, but the chorizo tacos we're definitely my favorite. I should warm you that these tacos may encourage serious over eating."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPbHYtQVRBEAE",
+            "text": "These tacos are a great bang for your buck. The standout tacos were the pork stomach and tender beef. I wasn’t the biggest fan of the fish & shrimp tacos or the chorizo (it was really dry and crispy).\n\nThe service was also kind of slow but they seemed to be understaffed and it was extremely busy."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkMDQ3ZHZRRRAB",
+            "text": "Excellent spot. Highly recommend the tacos. The carnitas taco especially was tasty. Staff was very kind. Had tvs showing the premier league as well. Will be coming back soon"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtcGRuTTVRRRAB",
+            "text": "If I want a taco I come here and I live all the way in Astoria…so that should say something.\n\nExtremely cheap tacos (for NYC). They have two sizes, regular and large. Regular goes for $2.50 and large is $3.00 which includes guacamole. Honestly, the meats were SO well seasoned and juicy. The tortillas were so crispy and just the fresh cilantro with onion gave the meat a kick. We ordered 4 tacos and we waited for 20 minutes.\n\nI gave it four stars because the waitress sat us down and did not clean the table. We got a bunch of hand sanitizer and wiped off a lot of crumbs so it was taken care of but because it’s Covid times, I feel like the staff should be a bit more attentive to the common areas.\n\nAlso, they do give you free salsa and chips while you wait for your food. Best bang for your buck!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBcnZyR0ZBEAE",
+            "text": "One of my favorite places to get tacos. Tripe/tripa are my fav meat, but they always run out."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxazhPa01nEAE",
+            "text": "Tacos we're great. Very generous portions and guacamole.\n\nI enjoyed the the salted beef and cactus plate.\n\nVery long waits though for a Mexican place as they're so popular."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJOTZ2OUtnEAE",
+            "text": "Delicious authentic Mexican food! Had a steak burrito as well as a cow tongue taco. Food came very quickly and considering it was around 3 AM that’s a bonus. Wait staff is quick and nice. As for decor there are various TVs playing novellas. I recommend this as a late night food spot to anyone in the area. Affordable and tasty!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2NU1hZ09REAE",
+            "text": "We have eaten at this restaurant many times. We have even recommended it to others and have eaten there with family, friends on many different occasions. I always order Enchiladas Mixtas en Salsa Verde and my husband usually orders from the special of the day menu. At the restaurant the food is served neatly, rice and beans separate from the enchiladas, for example. We decided to order take out and what a disappointment.$32 for these 2 dishes- this was around 8pm on a Monday- it wasn’t a lunch special deal or anything like that. Just takeout dinner on a Monday night. I was so upset when I opened our meal and saw what was served- no side of hot sauce included. The enchiladas are all squished sideways in this small take out container with rice & a pinch of beans. The rice getting all soggy with the sauce- there goes the option of sharing my meal with my toddler, as I always do. My husband’s special of the day dish was, oh man- terrible. I mean- look at it. I started eating Tacos Broncos from their truck and going to the restaurant a few times a month became our norm. I’m not a new customer- I have expectations of a dish I eat each time I go to the restaurant. It should be no different for take out especially if the price is the same as dining in (chips & salsa not included of course). I called the restaurant, told them all of this & the lady who answered said she would let the manager know…..I guess it’s time to try a different Mexican food restaurant."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3X08tYTVnRRAB",
+            "text": "Tacos El Bronco offers fantastic, authentic food, served by friendly and attentive staff.  It is the place at which you will find the locals when the want someone to prepare homemade food for them.  It gets better with every subsequent visit!"
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtNW95ZGdRRRAB",
+            "text": "Excelento servicio, muy amable staff, ordené una tostada vegetariana, simple y rica. El agua de Jamaica estaba delicioso. Muy buena experiencia! Highly recommend"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1NWQtZk9BEAE",
+            "text": "The best tacos I’ve had in the entire city. Yes, even better (and much cheaper) than Los Tacos No. 1. What other place gives you free chips & salsa with your order? You can’t go wrong with any of their meat options, but the carne asada & al pastor are the sure-fire favorites. Their regular tacos come with a heap of guacamole. Their tostadas are also authentically delicious!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSURDc3Z4YRAB",
+            "text": "Awesome food I must say! But the service is horrible..The waitress was quite horrible.I had to ask over five times just for napkins and utensils to eat my food upon me asking ..5 times I had to get up walk inside to get my own napkins and…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1Z3ZldWNREAE",
+            "text": "Incredible tacos (pastor and bistec), far better than the average bland taco you get in NYC. Taste of LA, down to the handmade corn tortillas!\n\nSalsas were flavorful, service was very good, and food was EXCELLENT!!!! Must-visit"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5MUl6U2NnEAE",
+            "text": "Delicious, authentic tacos!! We had the spicy pork, shrimp, fish, birria, and goat tacos. We also got the green chilaquiles which we highly recommend. The birria came with consomme which was PACKED with meat. Everything was delicious. There’s a reason why they’re so popular here! Thank you Tacos el Bronco!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwaktmQ2x3RRAB",
+            "text": "I loved the tacos. Around noon they were very fresh and juicy. The staff was attentive. The price is great for the quality."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVbk5iX05BEAE",
+            "text": "My favorite tacos ever. I have seen them grow from the taco trucks to a storefront. The regular guys I go to are super friendly. They always remembered me from when I lifeguarded at Sunset park. Cheap tacos and the best I have ever had. I love tacos too!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1a3RuUDV3RRAB",
+            "text": "My first time here in my continuing quest for the best tacos in NYC. I took it as a good sign that there appear to be a number of Mexican restaurants and grocery stores in the area. And sure enough, this place is the real deal! They boast an extensive menu that I would love to explore but today was about the tacos. Ordered the bistec, campechanos, and carnitas. First off the corn tortillas - the foundation to any good taco - were on point. And they were all filled to the point of bursting and smothered with guacamole. All were delicious and served with a choice of green and red hot sauces. Of the three, the carnitas was probably my fave - nice moist shredded pork that had just the right amount of crispness to it. I’ll definitely be returning here."
+        }
+    ],
+    "reviews_count": 83
+}

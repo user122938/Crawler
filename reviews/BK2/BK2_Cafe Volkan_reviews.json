@@ -1,0 +1,523 @@
+{
+    "name": "Cafe Volkan",
+    "place_id": "ChIJB84FwlhbwokRo2vDprY6CIw",
+    "grid": "BK2",
+    "address": "85 Bergen St, Brooklyn, NY 11201, USA",
+    "rating": 4.8,
+    "user_ratings_total": 299,
+    "phone_number": "(347) 384-2239",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WdFEzbHZaMHByY1d3eE1XRlhkbnBCUzNwUFJrRRAB",
+            "text": "Lovely Cafe and service!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Gbk1HNVNha3RRWTFwMFExWnFkR1J6Y2kxTkxYYxAB",
+            "text": "Delicious, clean and very friendly"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kck56Wk5PRzlJZHpGUU1VRkhhRUpCZUdWcWMyYxAB",
+            "text": "Food was tasty. Seating area inside was tight, but at least they have indoor seating (unlike a lot of eateries in the area)."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xscFVFbHNOVTlGYURkWVgxWk9SRlJPWjNKYWNWRRAB",
+            "text": "Omelettes were very good, though modest size for the price. Coffees also good. It’s really cosy inside, seating for about 10 people in total. Good for couples but bigger groups won’t work. Space for about 6 more outside."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NNE9IUklOVUpLT0V0QlZWRjRNalIzV2xWS1ZtYxAB",
+            "text": "delicious cold brew ☕️ and egg n cheese bagel 🥯…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzd1RITkNTRzB5V0VNM04xTkJOakl4TW5kNWQzYxAB",
+            "text": "I ordered an iced Nutella latte with oat milk, and it was honestly terrible. First off, it was $8 (NYC prices, sure but the drink SUCKED).\n\nI’ve worked in coffee shops for six years, and now that I’m a retired barista, I still enjoy the occasional specialty latte. I saw that Café Volkan had great reviews and some interesting drinks, so I figured I’d give it a try.\n\nThe barista partly steamed the milk for my iced drink, I’m guessing to mix the flavorings, but that can easily be done with a spoon. As a result, when they poured the warm milk and espresso over the ice, it melted almost immediately. What I ended up with was a watery, room-temp $8 drink that tasted like nothing. I couldn’t taste any Nutella, and overall it was just super disappointing.\n\nI’m always happy to support small businesses and don’t mind paying higher prices when the quality matches the cost but in this case, it really didn’t."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OcFJHUlNjVzFMVFVRMk4waEtSbE5YWW05Mk9GRRAB",
+            "text": "My favorite place to have a cup of oat milk flat white.\nThe coffee is so delicious ! They also make their own oat milk, which is amazing.\nThe atmosphere there is always so calm and friendly. The stuff is extremely professional and helpful. If you’re not sure what to order they will absolutely advise. You always want to come back because you know that the experience is going to be extremely pleasant!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paYWFVcFdZVVp0V1UxUU9UbFRXa2R0TlRBeE4yYxAB",
+            "text": "One of the best cafes in Brooklyn! The relaxed atmosphere combined with the quiet side street location, outdoor seating options, amazing food and drinks and very kind servers make this place one of my most beloved spots. I couldn’t recommend it higher!"
+        },
+        {
+            "date": "2달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kSlRtaHBhVFpsVFZKUU1UQkhhSGN3Y1ZSd1NFRRAB",
+            "text": "Ein kleines, süßes Kaffee mit leckeren frischen Bagels und allem was das Frühstück-Herz begehrt."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GUVEzWkJNMVIwY1hSNGNYcHhOM1ZuY2s5UFZrRRAB",
+            "text": "On our way home from Paris, we stayed the night in NYC. Cafe Volkan's good was just as good as the food we ate in Paris! The atmosphere was quite similar. It was the perfect place to have breakfast because I was missing Paris so much already!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oVWFqWnhkSEYyWWpRd2VGaFJVbEpYTVd4YVRHYxAB",
+            "text": "We had omelette breakfast. Excellent. Espresso very good. Small cosy cafe Highly recommendable."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNelYzaFlZek5WTkRoR01HNXpkME5GZHpSZmExRRAB",
+            "text": "Great customer service and enjoyed the omelette. Fresh orange juice"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTWNVVkxiV1J0Y2xVdE0zWlpjWGM1ZG1saGVWRRAB",
+            "text": "Decent drip coffee."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSWlZsaFJRVk13YzBOTlZrNTRaVEJOV1RCd1UzYxAB",
+            "text": "Small neighborhood cafe with a friendly welcoming owner."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KbWFXWktiR1I2ZEVodFVYYzFTMUpCTFMxZk9YYxAB",
+            "text": "fire"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wMloyZFhSVUZGZUVKV09IZHNibWxMWjFkd1VIYxAB",
+            "text": "The acai bowl was very underwhelming, especially for the price. Watery, said it came with peanut butter and there was none. Overall just an overpriced coffee shop."
+        },
+        {
+            "date": "3달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WVmJFdGlYMDFFY0MxdVZuZEliMlkyYXpSVk5sRRAB",
+            "text": "Süßes kleines Café mit maximal Platz für 12 Personen. Das Essen und die Getränke schmecken sehr lecker."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5Q2QyNWhMWGx0UVRZeVpsSnhSM1JHWVdNNVVVRRAB",
+            "text": "The matcha parfait was surprisingly delicious. There’s a handful of gluten free options as well"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCWVJtWXlSWGRHUTJoMlZYUnZhSFJEY0c5RWNVRRAB",
+            "text": "Was one of the most amazing avocado toast I at the service was really great and the manager was so kind to give me and extra basket of sourdough I was so happy I will come back for sure"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25neFEyZDRTVVJvTVdsMVl6VnZOalF4VVVWcU5XYxAB",
+            "text": "very cute neighborhood cafe! great coffee and breakfast options, nice big windows for people watching, good gluten free bread"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdlJsUkxaR0pDU0dRM04yWlhORzFYYm1sZlJrRRAB",
+            "text": "Great place for breakfast/brunch. Tiny & cozy space"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkWFh6aHFVM2QwYjJSelkydGpSVkozV0dkTWVXYxAB",
+            "text": "I had the Norwegian omelette and my daughter had the plain Belgian waffle. The food is amazing."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSU1ZIbzVhMDFyTUVwNExUUlhja0pqY0ZOMmQzYxAB",
+            "text": "Love the vibe. Small, busy coffee house with intimate seating. Try the Turkish eggs, but be advised, they have a kick to them."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNR1YtX2JEOTZxYV93RRAB",
+            "text": "Excellent service, food and coffee was so delicious! Next time we are in Brooklyn will we visit again."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPWHZ5ZGpBeExxNVBnEAE",
+            "text": "Visiting from the Hudson Valley. With a quick search for best breakfast spots we came upon this gem!\n\nDelcious meals! We got the avocado toast and buratta toast. Licked both plates clean. Coffee was also delcious!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOdlp6cXpmdU9XYnJ3RRAB",
+            "text": "Great environment, friendly and professional customer service. The ingredients are first class and that shows in the taste of their products. Recommended A++"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZdnFfY1hnEAE",
+            "text": "A nice little spot!  The avocado toast and prosciutto egg sandwich were delicious!  Very nice ambiance.  There were a few tables inside to sit and a few outside as well!     Would definitely go back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcmVLZTVRRRAB",
+            "text": "Excellent coffee, the brunch was excellent too — the pesto burrata was fantastic. A little cramped space but cute and well put-together!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMGNEMkxREAE",
+            "text": "Good coffee in a cozy space, nice outdoor seating when the weather is good."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNGFmZ1JREAE",
+            "text": "Very cute cafe in the neighborhood. The food looks amazing and the vibe is cozy. However, do NOT order matcha latte. It’s too watery and no flavor at all and overpriced. Paying $8 for a tasteless matcha latte, I’d just buy a matcha flavor boba tea from Heytea or Debutea. Other than this, recommend this cute cafe."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvc3NxU2l3RRAB",
+            "text": "Nice and cosy place. Excellent sandwiches and acai bowls. Great service. A gem"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvaUpYXzFnRRAB",
+            "text": "What a hidden, little gem this time cafe is!!!! Kids and adults loved their choices & delicious food equally. Great vegan options & generous portions. Their attention to detail is admirable. We made sure to come back on our last day in NYC again! Thank you for authentic, good food, Cafe Volkan!"
+        },
+        {
+            "date": "6달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJMXNmdFZREAE",
+            "text": "2인 자리 2개와 카운터자리 3개\n정말 작은 가게인데 brunch menu 좋아요\nItalian garden toast와 woodland omelet  맛있어요\n다음엔 açai bowl 먹어보려구요\n커피는 devocíon에서 가져다 쓰는데 산미가 있어요"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJa3ZfRDFnRRAB",
+            "text": "One of my favorite coffee shop/cafes in the city. The vibe is super cute. The Turkish eggs are a must-try! The acai bowls are perfect. The owner is so warm and welcoming."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTcGVfUGZ3EAE",
+            "text": "Visited this cafe after a couple of years and updating my review! Honestly I felt the food tasted better when they opened some years ago (which happens all the time for new restaurants and cafes.)\nThe interior space is very small and busy with bunch of customers, plus they play loud music and the staff members keep running around bringing dishes, clearing dishes etc.. Personally I prefer self service cafes better so I can just settle down and read without interruptions. Should be ok for people coming with friends and don’t mind the busyness."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJenF5XzdBRRAB",
+            "text": "Cute cafe with an impressive number of items on the menu for brunch! There’s not too much seating so it could be a hit or miss with availability, and could be quite squeezed when you do sit and eat. The smoked salmon omelette was delicious and tasted very healthy (although needed a bit more salt)."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3azgtb09BEAE",
+            "text": "Simply just YESSSss. Give them a try!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3MmFfenJBRRAB",
+            "text": "Cozy Brooklyn morning cafe serving, among other omelets, exceptional Turkish eggs, made with Greek yogurt instead of labneh."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3eEszNGx3RRAB",
+            "text": "Fantastic food and service! We visited this morning for breakfast with our 11-month-old baby girl, and the staff couldn’t have been more friendly and accommodating. They kindly prepared a salt-free omelet with avocado for her, which we really appreciated. Everything we ordered was delicious, but the açaí bowl was a standout—highly recommend!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3d0x1bU5REAE",
+            "text": "Tiny place with friendly staff and excellent service. We had the prosciutto omelette, an acai bowl, and a waffle. Everything was excellent.\n\nYou have to get lucky in order to get a seat inside, but good weather means sidewalk seating will also be available.\n\nI had severe order envy when I saw the Turkish eggs delivered to the patron next to us and hope to be able to try that on a future visit."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3d3JtRHpBRRAB",
+            "text": "Cozy with delicious food, great coffee, and the nicest guy making our drinks! (My daughter has trouble ordering for herself, but he was very patient.) There was not really room for my family of five in there, but I'm glad we made it work anyway."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRNzlxS1ZnEAE",
+            "text": "A lot smaller of a location than I thought, but the menu is extensive, and thr service is very friendly and prompt."
+        },
+        {
+            "date": "7달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRbWNQNkxREAE",
+            "text": "Découvert  lors de notre première visite à brooklyn.   Coup de cœur pour le bagel au saumon ❤️. Produit frais et service de qualité.  A découvrir"
+        },
+        {
+            "date": "8달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnemJqT193RRAB",
+            "text": "Süßes kleines Café. Es hat uns dort sehr geschmeckt. 😊"
+        },
+        {
+            "date": "8달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnelpDQ1ZBEAE",
+            "text": "Richtig leckerer Bäcker 🤤"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnNWZTai1BRRAB",
+            "text": "Great local cafe. My family and I visited this local coffeeshop and has a great time. The owner Volkan is friendly, makes wonderful coffee and treats their customers very well. The food options were prepared with care and love, tasted delicious and were priced well. Although the coffeeshop had limited seating, it was maintained well and clean. Definitely recommend this coffee shop!"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREN3NIN1N3EAE",
+            "text": "Continuously lovely all these years"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBd0phNm9nRRAB",
+            "text": "Nice little cafe in Boerum Hill!\nSmall space so seating is hard to come by though, be forewarned"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfbjQtd0F3EAE",
+            "text": "Best Coffee i had in NY."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfLWJYcFNnEAE",
+            "text": "Super nice space and the mocha was a fantastic balance of the coffee being  sweet without being overwhelming with all the chocolate syrup on top"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmci1hYVdREAE",
+            "text": "The avocado toast and bagel with cream cheese were delicious. The cappuccino and English breakfast tea were fantastic as well. The staff was friendly, very accommodating, and the atmosphere was pleasant. They also had great vegan options."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxck5PcUpREAE",
+            "text": "A charming coffee shop with a cozy interior. Note the seats are somewhat limited indoors. I particularly enjoyed the nutty-flavored Turkish Coffee, which also came with a piece of Turkish delight. The cranberry oat scone was very good too."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPNzdHUktBEAE",
+            "text": "Delicious acai bowl and avocado toast. Both are rather large for me, so I felt too full after eating them. The white coffee was pretty good, but the Americano was neither here nor there in terms of flavor. Nice sidewalk seating on a quieter street just off Smith Street."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNabFBubkhREAE",
+            "text": "Found this gem on a recent trip to Brooklyn. Looking around for breakfast/brunch places and we're so glad that we picked this one. Had the buratta avocado toast and the truffle grilled cheese sandwich. Both were knockouts!\nVibe is cozy as well. Definitely recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYMG9mUENnEAE",
+            "text": "Attentive service, beautiful cups, open airy space, comfortable with nice seats. Sometimes we go into a space and theres so much going on, and all we wanted was a space thats easy and seamless to navigate. This is THAT space. You go in, they have an uncomplicated menu. You order. You sit down. You enjoy the experience.\nSimplicity is a wonderful thing. Especially in a city as complicated as ours.\nThanks for the moment CV 💜"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYOEtINVVBEAE",
+            "text": "Such a cute little cafe. Offers take out and indoor/outdoor seating.\n\nI ordered a matcha latte with oat milk and white chocolate and it was so delicious.\n\nAlso love that they are pet friendly!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoLTRfVkFnEAE",
+            "text": "4.5 / 5.0 - Cafe Volkan is such a cute neighborhood cafe. My friend and I stopped by for brunch after our barre class to try their avocado toast.\n\nIt is a very very small cafe, with limited seating inside and outside. Luckily, we were able to find a table inside, but many people were there to pick up coffee to go.\n\nThe Classic Avocado Toast ($11.50+) was absolutely delicious. Some places get stingy with their avocado, but this one had plenty of avocado on the toast—which was perfect for an avocado lover like me. Next time, I hope to try their Salmon Avocado.\n\nFor drinks, I ordered tea ($4+), which they had a nice selection of from Harney & Sons, from Paris to Ginger Tea.\n\nIf you love avocado toast, there may be a bit of a wait for a table, but I highly recommend you stop by and give it a try."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlM2VmLURnEAE",
+            "text": "I came here few times and ah such a nice little place for great coffee and delicious breakfast. I had Salmon Avocado toast that comes with capers, red onion. It's so so good, I love it. The service it's super friendly, they are so nice. Really recommended. 🥰"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2cWFXUUpnEAE",
+            "text": "Amazing coffee! Great cafe to sit down and chat or work. Atmosphere is great here and staff is super friendly. Had a croissant in the afternoon, which wasn’t great anymore. But overall still impressed."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKa2JlZXd3RRAB",
+            "text": "Really adorable cafe, small and cozy seating options. Not much indoor or outdoor seating but it’s really cute. Barista was amazing and pleasant + efficient. I tried the Turkish coffee here which I haven’t ever had before, overall really good! Some of the pastries seemed not too fresh or incredible but I appreciated the small assortment. Lattes are good here and I love that they have Devocion beans :)"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxeXJ1OFN3EAE",
+            "text": "This is my go-to cafe to work or read or write. I always get OJ and a classic avocado toast with Cholula. Betty is the best, and warms the whole place up. They have outlets which is nice. Best times to go are the mornings. Otherwise you’ll have the strong afternoon sun in your face. But even then, the vibe is the best."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPOHZiODlBRRAB",
+            "text": "Lox (salmon cream cheese bagel) was good. See many people order açaí bowl. Coffee was decent, medium light roast.\n\nStaff was friendly.\n\nThey have a few outdoor tables on a quiet side street. Great for a sunny day."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURELS0tdEd3EAE",
+            "text": "I had the Turkish coffee here which was not particularly great and it’s safe to say that I’ve had better. I went on sunny spring day so it was nice outside in the sun, in that aspect the atmosphere was quite nice."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqNVp2Zk5REAE",
+            "text": "The best coffee beans by Devocion here. That’s why I was there.I found this gem on Instagram and wanted to give a shot for bites. Sandwiches we had were so delicious but the coffees were frothy, not creamy:(((((  I absolutely recommend it for tartines and bagels."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqb3FUTzl3RRAB",
+            "text": "I had the healthy way açaí bowl and oweee was it amazing and filling! Very chill atmosphere and great quality ingredients def check them out and they have so many other great menu options that include vegan & gluten free!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwNktQTHNnRRAB",
+            "text": "Super adorable cafe— the decor is very homey and inviting, and they are definitely making the most of the space they have. We went on a weekday morning & it was busy with almost all the tables filled and a line to order, so it’s definitely a popular spot. We ordered coffee which was very good but the specialty flavors were not super strong."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUNFptNzJ3RRAB",
+            "text": "Such a beautiful tiny cafe, it was a peaceful place to sit and have breakfast. We need a place like this in Florida! I def recommend… the iced latte with white chocolate was delicious.❣️"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhalByb0VnEAE",
+            "text": "What an amazing place! The food flavors are out of this world. I had the health way acai bowl, berry banana waffle, and spinach & artichoke avocado toast. Highly recommended! We found something for everyone. This establishment is also pet friendly as they provide treats for pups. My new favorite place!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5LUliSDZnRRAB",
+            "text": "Wait?!!!?? Why haven’t we been doing omelette grilled cheese all along? I have to come back for this cool drink. My flat white was perfect but so many more interesting drinks on the menu. Wishing you much success."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNldUtMR3N3RRAB",
+            "text": "We come here frequently for breakfast and coffee. Both the food and drinks and service are great. We usually get the healthy way acai bowl and the gandhi bagel, which are good vegan options. They don't have any vegan pastries, as far as I know, but we'd be very happy if they did! There are a handful of seats inside and more outside. We haven't had trouble getting a seat, but some mornings it does get quite busy."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpaGNYZFVnEAE",
+            "text": "Small and cozy place owned by beautiful couple. Would be a choice to stop by for a coffee. Plus delicious lunch menu available. Turkish coffee is a gem! Would recommend."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaZ3FDb1R3EAE",
+            "text": "very good coffee and it is not expensive, even cheap for this area! very nice service, and the place is very cozy! I recommend it"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqbk1DblZ3EAE",
+            "text": "Good coffees, great 🥯, fair pricing, friendly owner and staff. You feel this is a place frequented by locals, it has a community feel to it."
+        }
+    ],
+    "reviews_count": 73
+}

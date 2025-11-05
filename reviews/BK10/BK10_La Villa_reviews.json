@@ -1,0 +1,551 @@
+{
+    "name": "La Villa",
+    "place_id": "ChIJHbRlaW1FwokRkXiBnAWtMdQ",
+    "grid": "BK10",
+    "address": "1529 86th St, Brooklyn, NY 11228, USA",
+    "rating": 4.6,
+    "user_ratings_total": 1153,
+    "phone_number": "(718) 256-3100",
+    "reviews": [
+        {
+            "date": "19시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taUGFXVXhjV2gwYUVjeVVrZDFXVGh5TFRKMVltYxAB",
+            "text": "Ariana and Javier were very friendly and attentive."
+        },
+        {
+            "date": "20시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxRGVsZHZjV28yZW10WE5HcFJNVkJmZUZkUGNXYxAB",
+            "text": "Ariana & Javier rock’s"
+        },
+        {
+            "date": "23시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1WlMyMU9iVXBLY2xwb1ZEaFNiazB3TUdKMVVGRRAB",
+            "text": "The food is always fresh and the service excellent."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WSE9HcFhZMWN3ZVZoelJuZGFWRkF6UTA0eFMwRRAB",
+            "text": "Merci and Javier excellent duo! Always attentive service from them. Food is just as awesome!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SbmRYWlFOWFV6T1ZkQmNIUllWVmhFV0VKRFoxRRAB",
+            "text": "First time here and I will definitely be coming back with more people! The neighborhood is very lucky to have this restaurant here. The food the service the atmosphere, they did not miss a thing. The staff was incredibly welcoming. Merci was a pleasure to have as our waitress, very kind and just the best!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201Q1RUVlJRamhCZVdZM04zYzFPSEppT1RBelkxRRAB",
+            "text": "Not only is the food amazing but La villa makes you feel like family."
+        },
+        {
+            "date": "수정일: 3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pST09FNTVPR0ZzUWtscFNWaDVTVE5hTFZCUlNIYxAB",
+            "text": "Javier and Mercy were terrific at service as usual , food never disappoints"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMFlVTlBRbVV0TVZwblltSXpabXh5TW5oRk4wRRAB",
+            "text": "A staple for us. Never disappoints. Everything is always delicious. I love the organic chicken and sauce."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWbFVqWnhPRkJrTjNWdkxWaFdia05RU21keGJXYxAB",
+            "text": "This place is very charming! Loved the fall decor. Our service Sam was great. She answered all of our questions and we had quite a few. Decided on the bolognese. It did not disappoint. Highly recommend."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWblJFZGlNbXA0YmtOdVgxTklSblUyVDFST1ZGRRAB",
+            "text": "Gotta pay little more but it is quality."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GVlQwVk1WRmxpY0hoeFZYbzFjV0Z6TXprek1WRRAB",
+            "text": "Shrimp pasta—always delicious!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swd00zbFFSVTVOVUhkYVRFcEZlSEZzVlRKak5IYxAB",
+            "text": "$4.70 for a square slice I took two bites I threw it in the street worst square slice ever"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CNFoyOVlWR3B1VEV3eU0yMWlNMGhwUlRjdFIwRRAB",
+            "text": "I was here with my family of 8 last night, Merci our waitress did a phenomenal job taking care of my family. Very friendly, knowledgeable and a very happy attitude! Amazing service and don’t get me started with the food! Management and owners have created a wonderful team and an authentic genuine place to get Italian food!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oRVQxOUxUbWd5YW5wT1ZHUkNUWGhOVW5aMlIzYxAB",
+            "text": "Fresh, delicious salad, baked ziti fresh and tasty.  Excellent service"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twS1NWSXpNRU5RYWtoYVYwaFNVVmd3Vm1kTGMyYxAB",
+            "text": "Awesome clean delicious fresh great service very professional this is our Sunday meal every week with grandkids even desert is so delicious such amazing service and the food is excellent from appetizers to pizzas to main entrees  to dessert"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGcWMwOWZiMVJ1VURJM1IyRkhjVTV1ZW1wSk1tYxAB",
+            "text": "This place is an all time classic and I’ve been coming to these locations all my life—the 86th street location is no different. Sam is an excellent server who ended up giving us another 5 Star experience."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWdFdsWlhRblJUWnpSRGJEUkRNWGxmUlZOS2QzYxAB",
+            "text": "Mercy was so sweet! Love this place"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wa1ZsWnlWVEJYWlZwR1oyMW9RVWxLZUhWTmExRRAB",
+            "text": "The food is amazing and always on point. You can tell every ingredient used is top of the line. What is even better is the friendliness and service. My experience with Christina and Merci was very professional, polite and attentive to our party. La Villa Dyker never disappoints!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOWWVGUlJWbVpuZURkck4yTmtjVVJ2T1hOMGNGRRAB",
+            "text": "A+ service from Christina"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aa04zUlFjMmhLUjFkelZtbHBkMGwxVEU1WFkyYxAB",
+            "text": "Service is horrible!\nI was ignored while making eye contact with one of the employees.\nThey didn’t ask for water or drinks until we made our order & I had been sitting there for 20 minutes waiting for a friend.\nI went on a busy Friday afternoon. Every table was white people except us. Seemed like my table was the least important.\nWon’t be returning.\nBooths are uncomfortable as they sink you in. The tables and seats weren’t properly wiped down. Our table had no napkins, oil or balsamic. I wanted a refill on my drink and ended up leaving without one because no one was around to get my refill after I was ignored once. I didn’t want a fountain drink and explained to the waiter if she had anything closed or maybe a can. She said only fountain to realize that they had Mexican coke in glass bottles serving the next table.\nJust really disappointed."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sRVMxVjZUak5IY1RVdE4zRlpOV1pDZFdSUE9HYxAB",
+            "text": "The food was very good and the waitress Christina was very nice and kind.We coming back for sure."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GeGRHSlZRWGRxZHpCUUxUbExaV1kwZVZKV1FsRRAB",
+            "text": "Christina was an excellent server, So attentive and great with suggestions. The food was so amazing! It was my first time here and I really appreciated the fast service and other attentive wait staff. Defiantly recommending this place to friends and family."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOT0xWTllZMUZCVlZVeU5sTXpNVTl4WTB0c2JXYxAB",
+            "text": "Excellent service - great location."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMmRqRjZZWGwwWWxWdlJqVmFVSFJHVmxBNVFtYxAB",
+            "text": "We really enjoyed the pizza — the Zucchini Speciale and Margherita were both delicious and fresh. Unfortunately, the service did not match the quality of the food. When we arrived as a party of four, we were told to wait to be called over, even though tables were ready. We waited about 15 minutes by the counter — clearly visible to staff. When I asked why we had not been seated yet, the girl in black shirt, skinny (black hair in a bun) responded very rudely and insisted we were supposed to wait “right here,” even though that is exactly where we had been standing. You don’t show your attitude to a customer who is coming to have good time.\n\nAfter we were finally seated, she continued to talk and laugh about us with another staff member, which felt disrespectful and unprofessional. Good food should be paired with good service, and I hope management addresses this issue so that the excellent pizza is matched by a welcoming dining experience"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSbU5USXlhemhrYW14bmFVWlVRMTl1WlRkbkxXYxAB",
+            "text": "I went here with a coworker who told me a friend of his said the pizza was good. The pizza was good. It looks like a very nice place to have a date night in as well. I believe they serve more then just pizza here, and the staff is very friendly and nice. I recommend this place to everyone who would like to relax and enjoy pizza, and to hangout with friends or enjoy with your family and love ones."
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0SVYzY3hRVGxqUlV4NmRFZHdiamRVWkVVMGJGRRAB",
+            "text": "No tenian bebidas del menu y la atencion del mesero muy seria."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxUVEzaFljR1JqYW5oS1J6Y3lZVVJHTW1FMFFsRRAB",
+            "text": "Food was great\nhospitality was beautiful\nLove it here for a neighborhood pizza/restaurant\nMost importantly kids loved it"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wMVRuZHRkbDlSVG5aVFdYWnlhRXMyUldwT2NrRRAB",
+            "text": "Great!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0SFJWZGpjbUpRWDFCVFIwNXFaRVJuTmxOR1lXYxAB",
+            "text": "The service was truly top-notch. Christina and Javi were absolutely amazing — so friendly, attentive, and genuine. They made sure everything was perfect from start to finish and went above and beyond to make us feel taken care of."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkbE5HVkdVVnBZWTFweWVVdzJXUzFsUXpKTWVYYxAB",
+            "text": "Tuesday night and they seemed to be out of vanilla ice cream, no whip cream, no apple Brown Betty, no honey and no ginger ale. And what’s with the farro in everything?? Come on guys, I know you can do better?!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSblVqUXpMVzVHVXpJMWJtbFdWMmhuY2xVdFZWRRAB",
+            "text": "Christina was our waitress.  She was very friendly. And tentative.  This is my first time here. I would 100 percent come back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ObFNYQkdXVkpOVkZCck5sSmhPRXQyUTE5SFZGRRAB",
+            "text": "Christina and Javier were spectacular! They were very welcoming, attentive, and sweet. Highly recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxRUxYVkRXRUZpU0MxRU5tOVdTbDlFY2paWFIzYxAB",
+            "text": "Christina was a revelation. Service= unparalleled. Vibes = extraordinary. Chicken Caesar Wrap = Heavenly"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RmRXUjJhM0JpVDJKV05WWk5Oa1pvYkVONGJtYxAB",
+            "text": "The pizza was absolutely delicious and the staff were all very friendly and smiling. I definitely recommend this restaurant!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SYVZYVkRVREJEV0ZOUVFUSllhMlpRYjBNelRtYxAB",
+            "text": "Great service and good food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214Zk5uVklWVEZhYzNsa1JsQmFWVTVXYVdNdFkwRRAB",
+            "text": "Just tried the zucchini white pizza for the first time. DELICIOUS and one of my new favorites. Will be ordering this again. It was delivered fast and was hot and I love it"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nNFkwSjJTVU15YTFoYVdYUmpOemhzU0VaaVdGRRAB",
+            "text": "Went here for a birthday once the staff is incredible and is truly and authentic experience and spoke with the chef and had a great time, for an Italian family of 8 we definitely spent a lot as this place is quite pricey, but the taste is definitely there for it, the portions are also HUGE. I would recommend this as a fancy spot even for its price and atmosphere as the food is really good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pORmVVUnhSM2xUWWs1eFozcEhSSFUyY0hZNExVRRAB",
+            "text": "Food is delicious.  Portions are large. Service excellent! Bring a sweatshirt,  air-conditioning is high."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vekxXcDBTRzB6ZUhGVExUVXdaMUYxUVRoU2QxRRAB",
+            "text": "Food is decent. Restaurant is a bit loud. Staff is over worked and a bit inattentive. Menu selection is specialized and tries too hard to me trendy. The mix odd ingredients. Personally I did not find one dish without an odd and ingredient I did not want. Even the pasta had some unusual ingredients."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSFVWSldNV2htVW05bWVIUlRZbVpXWjBsd1kzYxAB",
+            "text": "Very good pizza. The squares are excellent, the cust for the squares are crisp and flavorful, excellent char and crisp. Plenty of space and seating available."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OSU4zUnFRMDlCYW10aWFFVTVkbTF0UlZka1JHYxAB",
+            "text": "I tried this restaurant recently and overall"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sbmQxQlhlRmh0WTBnelkzUkpSVVl0WDJWTWFFRRAB",
+            "text": "The best pizza I’ve had in all of Brooklyn! Their personal pies are just $16, which is very reasonable for how delicious the pizza is. The space has such a great vibe — tall ceilings, lots of light, and a spacious, open feel. Highly recommend!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkU2RVMVpTV2R0YVU5QlVYUkJOR2xuTnpaS2EzYxAB",
+            "text": "Grandma's pizza was outstanding\nI can't wait to be in the area to get me some more."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0Mk1tcENjRmhXYjJoUlVWUmxjbVp5Y0ZCRVpYYxAB",
+            "text": "Food absolutely delicious ordered delivery cacio pepe rice balls buratta pie and the Mac and cheese to die for always wanted to try this place and finally did didn't disappoint!! Free focaccia bread!! It was delicious as well can't wait to bring my niece here!!! Nice size portions as well!!"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnLU51aW93RRAB",
+            "text": "Good little place.. Good Chicken Cutlet Parm and fish specials however seems they use a different sauce for pasta.\nWait staff can get overwhelmed when busy, however very nice.."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taVlZtaGhUak00YTB0cE0xRjBWRkpJYVU1d1owRRAB",
+            "text": "Pizza is fantastic. Not cheap. BUT Management needs to realize something. “We won’t serve a glass of tap water” was their reply after I spent over $100 on 2 pizzas 2 beers and baked clams is ridiculous.  Literally just wanted a glass of water before walking home and they told me I had to buy a bottle. And spoke down to me as if I was asking a stupid question. I just spent $120. Seriously I can’t have a glass of water? Yea I know giving someone a glass of water isn’t NYC requirement. I own a food business.. But not everyone needs a bottle of Italian mineral water. But again. Ridiculous. Would you force someone to buy a bottle of Italian mineral water for a kid who wanted a glass of water? Even in Italy they give you a glass of water with an espresso. Besides this. Food is good"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoRU0xcFlhekpLV0hWbmFWTnZjbmhwTjJOclYyYxAB",
+            "text": "TLDR I’ve had two hygiene issues here and both were handled terribly. Add the racial profiling and passive aggressive treatment on top of that, and I’m done. Don’t waste your time or money here.\n\nI should’ve trusted my gut and never gone back here. The last time I ate at La Villa, I found a hair in my Italian mac and cheese. Gave them the benefit of the doubt. Big mistake — this time, it was a Caesar salad with another hair in it. When we pointed it out, the server brushed it off by saying they “use brushes to clean the grill.” First of all, it was a salad — it doesn’t touch the grill. Second, it was clearly a curly hair, not a bristle. Even if it was a brush bristle, that’s not the right way to respond. There was zero accountability. The server offered to remake it like that was the only issue — as if I just wanted a new salad instead of addressing the fact that this keeps happening and they were trying to make dumb excuses. Then they brought back a “new” one, but at that point, I’d already lost trust. While we were still eating, I noticed the two servers standing nearby, talking and glancing over at our table repeatedly. It honestly felt like we were being profiled — maybe they thought we planted the hair for a free meal or something shady like that (being that one of us was hispanic) It felt racist, and like a micro-aggression. To top it off, while I was still eating, one of the servers came and took my plate without even asking if I was done. Just grabbed it and walked off. When I called it out, she laughed and said, “Oh, I’m sorry,” like it was no big deal. That moment really sealed it.. felt like a passive-aggressive move as if they wanted us out the restaurant even thought they weren’t a full house."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKckxWcDVkbkZ5YkZKM1kySXRSRzFDUWtSelgxRRAB",
+            "text": "My day began as usual... just another day in the big apple. I was in the neighborhood bird watching, as I usually do. I spotted a red cardinal that day and just knew that my day would be delightful. My stomach began to rumble..... I was hungry. I called up a cab and said \"take me to the best Italian food in Brooklyn.\" When he took me to La Villa I stepped out the car and  cautiously walked in. I was greeted by a Nice man at the front who sat me down. My waiter approached me shortly after, he was handsome and built well. It is obvious that when he is not here he is at the gym! He introduced himself as David, and proceeded to introduce me to their specials and wines.. He displayed an impressive knowledge of the menu and wine. I asked for something red and dry and said.... surprise me. David brought out the best wine I have ever had in my life. For food i ordered a slice of La Villas famous Zucchini slice as well as their baked ziti. When the food arrived at the table.. the smelled filled the air like heaven. After the first bite i entered a trance, and awoke only when my plate was empty. I ended my meal with an espresso which was absolutely delightful. David made the food better somehow.. perhaps with his stunning looks or charming charisma...David spoke with me about his life in Brooklyn, outlining details of his inspiring childhood and upbringing. If i could give this place more then 5 stars I would.  After my meal, including a bottle of wine and espresso I visited the bathroom and was very delighted by the cleanliness and pleasant smell."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paUGVsUm1Na3RQUm04NFFqZHJaek5QVTFsNFNHYxAB",
+            "text": "El lugar es muy limpio"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VOdnVtSmVNb3FXYzhBRRAB",
+            "text": "I tried this restaurant recently and overall, it was a mixed experience.\nThe calamari was excellent really well cooked, flavorful, and definitely a highlight of the meal. As for the pizza, it wasn’t bad, but I wouldn’t say it’s the best wood-fired pizza I’ve had. The dough and baking could use some improvement it didn’t have that perfect texture you’d expect from top wood-fired pizza spots.\nI also noticed that my table didn’t have a cover, which was a bit odd, and while the indoor seating area seemed clean, the outdoor area could use more attention.\nOn the bright side, they gave me a free Coke at the end, which was a nice (and funny) surprise 😂\nThank you!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvdjhUbkFnEAE",
+            "text": "Delicious food every time I come here I always have a spectacular time. The pizzas are amazing. Staff are fantastic. Always very nice."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnb1p2U1B3EAE",
+            "text": "First time trying the food from this restaurant after someone's recommendation. Love the food. Ordered take out and delivery. the staff was very attentive with the order. All food came nicely packed from the rain. Nice staff and nice delivery guy. Service was great."
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNieGFudmRnEAE",
+            "text": "The Italian food was excellent at this Dyker Heights section of Brooklyn location.   They have several other restaurants with the same name.   I ordered the vegetable pizza pie and enjoyed it.  The vegetables included broccoli, spinach, mushrooms and peppers.   It tasted much better than other similar pizza at other places.  I also tried a variety of other individual slices that were all tasty including one with pepperoni.  The lasagna was excellent.   The sauce, layers of pasta with fresh ricotta and meat was well-prepared.   I was assisted at the restaurant by Jair who was very friendly, helpful and professional."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxMk5qZG9RRRAB",
+            "text": "I took my daughter out for pizza and decided on La Villa. Initially, I was going to get pizza only, but I had a change of heart. The wood-burning ovens give off a pleasant aroma. Upon arrival, I was seated quickly. The food was great! Everything was fresh and well prepared, and Portions were fulfilling. I recommend the Gramma pizza. They serve complimentary bread, which is fantastic. Service could have been somewhat better. I felt the busboys were more tentative than the waitress. I had to ask for everything: more napkins, another drink, clean utensils, etc. I took an entree to go, and the pasta was wrong. I still gave a 20% tip as she seemed young and possibly inexperienced. Overall, the food is phenomenal, and the ambiance is charming. I would highly recommend it to all."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURReVk3U2VREAE",
+            "text": "⭐⭐⭐⭐⭐ – Exceptional Service from David!\n\nI had the pleasure of being served by David at La Villa Pizzeria in Dyker Heights, and he truly made the experience memorable! From the moment I walked in, he was welcoming, attentive, and had a great attitude. He made sure everything was perfect, from recommending the best dishes to ensuring our order was just right.\n\nThe food was fantastic as always, but David’s exceptional service really stood out. He’s a true asset to La Villa, and I’ll definitely be back thanks to his professionalism and kindness. If you’re stopping by, I highly recommend asking for David—he’ll take great care of you!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5bTdqdnV3RRAB",
+            "text": "Ordered chicken ceasar wrap & deep dish personal pizza with few other things. This is only place I'll order either from. Absolutely the Best!! Staff is so nice & friendly. Fast and efficient. It's a great place! I've been to all locations and it's really a Brooklyn staple!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuLTZQaFZREAE",
+            "text": "A neighborhood staple, La Villa is a restaurant we return to over and over again. Anthony, our waiter, was so attentive, respectful, and polite. Their food is consistently delicious. I can't get enough of their grilled shrimp—they're succulent and perfectly charred. We highly recommend the spicy arrabbiata calamari, caesar salad, chicken parm, mini pepperoni pie, eggplant parm, and of course, their frozen bellinis (peach)."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmbHVmZ3R3RRAB",
+            "text": "Inviting and bright environment with appealing food and reasonable prices. Great service from the waiter David. Definitely will come back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGcFlDTWpBRRAB",
+            "text": "Love love love this place. Have eaten here countless times - genuinely some of my favorite pizza in NYC. Deep dish grandma slice and the small individual pepperoni pies are elite. Some other standouts are the rice balls, cesar salad, pastas, tiramisu... the list goes on.\n\nDining experience here is always a pleasure. Quick and friendly service. Space is clean and comfortable."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnOWJQaDNRRRAB",
+            "text": "Great place to have some Italian style dishes, you have different options to choose from, either its Pizza and either its Deep Dish, or Wood Fired Flat bread style, and not just that, they also have Calzone, Pasta, Salads, Sandwiches or…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoakwyTzZ3RRAB",
+            "text": "The experience my wife and I had here was great. The staff was friendly, attentive, and the food was spot on. Tried a small wood fired pizza along with two entrees and was not disappointed, will definitely come back here again."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQcHVhdVZREAE",
+            "text": "What a beautiful establishment and amazing food. They are so attentive and speedy and kind as well. I visited the Parkslope location and had no hesitation in visiting the one here in Dyker heights. 10/10 we will visit again!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKN2V3YWlYeFl6Rk5REAE",
+            "text": "Surprise random stop while in the area, everything was great.\nWaiter went out of his way to help us with questions, everything came out timely and tasted amazing.\nBrooklyn lager was a great addition.\nTook a lot of food to go and they did so good packing it up for us, real customer service."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKMUlINVVBEAE",
+            "text": "Do yourself a favor and visit La Villa ! The food is absolutely amazing – everything we tasted melted in other mouths. If you know Good pizza , you’ll know the sauce and cheese is what makes it stand out ! The service was very welcoming and staff were attentive . A family vibe which made me feel like I was back in Italy 🇮🇹 . Absolutely the best pizza I’ve had in a while .\nHighly recommend!\n\nRecommendations :\nNapoletana pizza ( deep dish )\nBianca pizza w/spinach (deep dish )\nLa Villa House salad\nSoup of the day\nFrozen Bellini\nBrown Betty !! With gelato 🍨"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURibGRhcDZBRRAB",
+            "text": "Really nice! Excellent food made with quality ingredients, service friendly and efficient.  Never had a problem with anything I ever ordered. Food is always fresh and delicious, worth every penny!"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4dDVmMFNREAE",
+            "text": "Very friendly and attentive staff. Went there on a whim as it is one of only a handful of places open for dine-in right now with plenty of outdoor seating. The restaurant is located in a shopping area with plenty of parking. The place was clean and the food is pretty tasty too, all dishes also came out fairly quickly."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxdG9qU2hnRRAB",
+            "text": "Went there today for my Daughter's First Holy Communion.. First off the Restaurant was Amaculate second the staff seated us fast and seen I was parched and got me A Glass of water with ice. Then when the rest of my party arrived I had  already put in the order for two Pizzas we ordered for starters Two Gorgeous perfectly made large Napolitano Pizzas then we all ordered our main dishes everything we ordered was on point and superb it was my brother's first time there and he loved everything we ordered and ate the food came hot and scrumptious. The waiter was named Pablo and he was so hands on my family drove him crazy but he was up for the test and passed with flying colors. Anyone that can put up with me and my family is golden in my book. My brother said he's definitely going back .. And so are we La Villa is a hit definitely a 5 Star 🌟🌟🌟🌟🌟 Restaurant."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJODlDZ3FnRRAB",
+            "text": "One of my favorite Italian spots, they serve the best drinks, best pasta and best pizza. Everything on the menu is great. Especially Steven and his workers are great. They are very kind, welcoming, friendly and attentive. They always take care of their customers especially the loyal ones.\n\nJust bring the frozen cocktails back please❤️  🥺"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlM3BTM09nEAE",
+            "text": "Waitress said they didn't have enough staff to open outdoor seats and didn't offered the bar when it was opened.  Service is slow. Other than that, food is good."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJenJPczRBRRAB",
+            "text": "10000/10 always a hit. Delicious food, great portions, excellent service - thanks David!!"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBNUwzdkVREAE",
+            "text": "I was invited to go as a group for the new opening. If you are a group of 6 or more it won't be possible to sit at same table.\nWe shared a number of items, I wasn't able to include photos of all dishes because the group I went with indulged before I finished photo taking!  I was able to taste some baked clams, rice ball (Arancini), sautéed Broccoli Rapa pizza, and Piadina.\nThe baked clams were tender and the bread crumbs were very flavorful.\nThe Arancini was very good. The textures were excellent and the frying was done to perfection.\nThe sautéed Broccoli Rapa pizza was excellent! The crust is very good, I would prefer less charring. The chew was good. The broccoli rabe was fantastic.  I added a small amount of the olive oil on the table which elevated it further! They sell the olive oil, we got some to take home it is excellent.\nThe Piadina, which means flat bread sandwich, was very good.  You get a choice of the meat you want.  I choose hot soppressata but they were out, instead I then choose speck  (smoked prosciutto). I enjoyed the flavors but I think I would just do pizza in future.\nNext time I'll try a pasta dish.\nI want to return to reevaluate service. I wasn't thrilled with servers but maybe they are overwhelmed due to recent grand opening. It also was quite busy for 12:30-2:00 time of day. All tables were full and others were waiting to be seated. I will definitely return and also get delivery."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3cU03dnB3RRAB",
+            "text": "Overall great experience, the atmosphere was great very clean place service was quick food was amazing  they were very attentive especially manager eddy! No complaints if you’re ever looking for a good spot for a first date this is definitely it!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyLU82LWV3EAE",
+            "text": "SO OVER PRICED for mediocre food. I would NOT return. $50 for a small pizza and arugula wrap- didn’t even come with a side. One server and the bus boys seemed rushed. Dont waste your money"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxdUpfVG1BRRAB",
+            "text": "Great place fresh food definitely recommend this place for a lunch or dinner with friends or family the only reason why I didn’t give 5 stars is the waiter was a little slow and I had to ask for napkins bread straws and cheese and pepper for the pasta but the food is fresh and great I’m definitely going back !!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0NnJHY0ZnEAE",
+            "text": "Very nice restaurant,  i loved the decor so clean and simple but beautiful.  Great food, service and atmosphere."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRNDVfeVpBEAE",
+            "text": "Don’t know how you could have topped the service. Then the food came out. Wow!! Great job! Food and service was perfect. Prices are medium to high, either way great food. Haven’t ordered Italian food this delicious in a long time."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQydmZEaVd3EAE",
+            "text": "Always a good dining experience here and the food is always on point. Little bit pricey but worth it. And props to the waitress on her body transformation 💪…"
+        }
+    ],
+    "reviews_count": 77
+}

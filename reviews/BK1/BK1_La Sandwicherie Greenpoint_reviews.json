@@ -1,0 +1,516 @@
+{
+    "name": "La Sandwicherie Greenpoint",
+    "place_id": "ChIJuQHR0fFZwokRsy0YbU9yXS8",
+    "grid": "BK1",
+    "address": "156 Driggs Ave, Brooklyn, NY 11222, USA",
+    "rating": 4.9,
+    "user_ratings_total": 445,
+    "phone_number": "(347) 987-4870",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CaFZWQk9ia0pVVHpKcU1qbHlVV2xWU1hWamFWRRAB",
+            "text": "Excellent food  and service.  Very friendly and again  the six of us had Excellent  food.  Highly recommend."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kbVJtUXhObkZ6WjJ0aFVVRXhhV0pvUTBrd1JYYxAB",
+            "text": "Amazing fresh food and top tier, friendly, service. Definitely worth dropping in!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kalYyaHFSVTV0TUVkWE9EZGtiSEIzTlUxR2NtYxAB",
+            "text": "Excellent Cappuccino, asked for a side of frothed milk. Tasty and sweet.\nThe turkey avocado baguette sandwich with the house sauce is delicious"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJMWFVNVNhREJXYUZsdWJreDZiMXBtWlVreFpFRRAB",
+            "text": "had a parisian sandwich — very good!\n\nowner is awesome!!!\nmust try the crepes and cappuccino!!!\n\nmy goodness, their truffle sandwich with the balsamic drizzle is soooooo good, i sometimes wake up just thinking about it…"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOT1RqaEJiVVIyWms1MmRVcEROV1owTjBWSVMyYxAB",
+            "text": "Pretty good and so cute, and actually French! I enjoyed Le Parisien."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204MlRrZENVa1JTYWpJM1RqQnNPVjlKVlhwbVVFRRAB",
+            "text": "Fantastic meal. Service was incredible. Compliments to the chef, the lamb sausage merguez sandwiche was phenomenal and the lemon crepe for dessert was perfect.\nThe iced Viennois coffee was refreshing and perfectly sweet. You can tell the owner loves to share his love of food. I’ll be back 100/10"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0MlFuWkRlRUZhZGpoSlpVczRVa2RYZDJoa2JHYxAB",
+            "text": "A slice of France in Greenpoint! You can clearly tell there’s a lot of thought put into not just the sandwiches, but the atmosphere itself. With exceptional food aswell as snacks and treats which I haven’t seen in many years, I was extremely impressed and will be returning! If you aren’t sure what to order, try the hot dog and you won’t be disappointed. Merci les gars!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WaWVITTFkbkk1U2pjemNUQkNaMWszUzBzMWFXYxAB",
+            "text": "Everything was delicious and service was great! I highly recommend it!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKUWQyWmlRMDFWTkRkcGFHSlBkbEI2WWxOdFVVRRAB",
+            "text": "great sandwich, great service, fun atmosphere. highly recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toeWJGZEVWbTEyWkRRdE4xTkJhVlZ2TjNodkxYYxAB",
+            "text": "Phenomenal spot, highly recommend d and will be back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poak9GUlNMVm8yWkVoRWNERk1hMVo2WkhsM2RYYxAB",
+            "text": "Nice selection of sandwiches but I got the quiche- It was delicious! Would try more food from their menu."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SVMxbEVNVVV5V25CbWFXVXRiMmxTVldKRlgyYxAB",
+            "text": "The purpose of this review is not to hate or harm this restaurant in any way, shape, or form. That being said, I hope you take this review as an informative review.\n\nAtmosphere: The decorations and everything is well setup. It is very clean and organized. The music also transports you to a little piece of france.\n\nService: Polite, friendly, and efficient.\n\nFood: I ordered the Turkey avocado and the onion soup. Both were pretty good. They had unique flavors. I was bit doubtful about the soup, but I ended up liking it.\n\nPrice: Honestly, in my point of view, they are a bit pricey. However, the flavors and quality compensate their prices. Therefore, prices are not much of a problem."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGSGFWVXlZak5PV1Rkd1YwNW9WRXhDTFc5Q1VWRRAB",
+            "text": "Unique sandwiches, excellent service"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsU2N6VjZiemhxYkZSV2QxbGlOVVZxWm1JNE5FRRAB",
+            "text": "Dumb prices for what you get"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pseGRTMXBUMmRpUVVOR2RteDVWRTF5WDFFeGRYYxAB",
+            "text": "bread is so tough i can’t even eat it nor rip it with my hands. ruins the entire experience"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25STFIyNDRlR2hSVUhGcFlVMTFSbXR1WkVreWRFRRAB",
+            "text": "This is a recent store in our neighborhood and decided to give it a try a couple of times. They sell crepe which I really like (it's a European thing). Crepe is good sized, but I noticed today (after I had paid for my order) that they took a premade crepe from the fridge and simply warmed it up on the crepe pan. I don't think that's how crepes are made. Never had before a crepe where it wouldn't be made on the spot. It literally takes 1 minute to make from scratch. As a a result, the crepe was too dry.\nSince I was going to this place mainly for the crepes, I don't think I will be returning anytime soon."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRMlEyWlVjMVZ0VTFSTWVUaEdRWEZ3TWxOdFpIYxAB",
+            "text": "Beautiful sandwich and friendly staff :)\nI got to sample their new menu that’s still in the works"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVNU5pMXJiVEJEUmtscloySmZUMk5hYzBOMFFYYxAB",
+            "text": "Really yummy sandwich shop! We tried their paninis (breakfast panini pictured) and loved them! Everyone working there was really great and friendly and we will definitely be back!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aVmVuUnJha0k0YXpOV1JqaHdTRVZ5UlRBMVprRRAB",
+            "text": "Walk in at 5pm. Door is open. Listed hours say they are open till 6pm. Guy behind the counter just says “we are closed”.  No explanation of why they closed early or attempt at customer service. Oh well. Kind of  a bizarre experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xscmFEWmhObll0TW1OVVJFMXJNSEF5YzNsc2ExRRAB",
+            "text": "Wonderful gem near McGolrick Park for straightforward, delicious food. Grab a sandwich and a bag of Brets chips for a perfect lunch!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GeVgzTjFMVzloT0dOQll6SjJlbTFRVVVWM0xYYxAB",
+            "text": "So cute, great attention to detail, fantastic cappuccino"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3MlkyaHJWbkZxUVZsTUxXaDFRbmxaZFV4RWNVRRAB",
+            "text": "I absolutely love it !!. As a native new Yorker who loves food its always been difficult to find and eat french food because as you know most french restaurants are pricy and need reservations I stumbled upon this place on my lunch break as I work nearby I got the Le parisian and it was phenomenal I love the price point ,staff and Overall expirence"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oeVowUnFjRVZXZG1aVGNtd3hZa3BFZGxsRlZVRRAB",
+            "text": "A little slice of France in Greenpoint. I stopped in for a quick bite and was delighted to find foie gras on the menu, what a treat! The shop is filled with French goodies that made me feel instantly nostalgic, and the owner was incredibly kind and welcoming."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkblZtSklZemxsWjNKU1dqQlhUVEkyU0haMlJFRRAB",
+            "text": "Simple and delicious sandwiches made of high quality ingredients apparently from France. I tried their le Parisian baguette which was very good! There's a couple of seats indoors. An in true European fashion, no A/C."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pobFJFZHRjR05YYlRsRU0yVlVVVWRSWlRneE1sRRAB",
+            "text": "Bought two sandwiches and the foie gras special. Perhaps one of the best sandwich spots in the city.\n\nBrought my French father who loved the merguez sandwich.\n\nI’m basic boy and got the Jambon beurre"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CcVVqTktVbFJqUVVObWJVWlpORFZwTjJjeVMxRRAB",
+            "text": "Wow the service here is amazing! Service is soooo good so I was really hoping the sandwich is too.. and it is :)\n\nWe went to get a sandwich to eat for dinner later in the day. It was sooooo hot and idk if they have AC.. anyway, while we were waiting they gave us ice and water 💕 and gave us extra napkins cus we were sweaty. We got home and ate the sandwich and OMG it was sooooo hot good. I heard their duck sandwich is usually sold out. Def will be back to try more..\n\nThere are tables to sit at and they sell chips so I def want to try some cus it’s not chips you buy at a typical grocery store."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sV2VsbGlNM1JPYTJoRFpVVmlNa3Q0U1ZCQlUxRRAB",
+            "text": "Amazing Sandwiches you truly can’t go wrong! French music is a vibe! French snacks are the chefs kiss!"
+        },
+        {
+            "date": "4달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SUVZsUjNlVkZDYTFwdGJFeHNaRWgyYjFOMldrRRAB",
+            "text": "Un petit coin de paradis “ du Sandwich."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poZlFsaHlOMUJ4VjB4UmNqVkdiV3hrYXpOSlVsRRAB",
+            "text": "We were looking for a quick sandwich place after our arrival. Our sister Googled it and saw that they were French sandwiches. The welcome was friendly, ooh my God, our sandwiches were perfect. He offered us chocolate and lemon crepes. The price/quality ratio is good. Thank you"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUGVUUTViVnA1VUZoVlNVaFlkVWxUTTAwMlozYxAB",
+            "text": "The Chicken sandwich and iced viennois chocolate were FANTASTIC.\n\nThis is a quaint small place with very personable people.\n\nTip from our server: Come in at 1ish PM on a Saturday to enjoy their freshly made beef."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJalpscnJfejRmYWRnEAE",
+            "text": "Loved the foie gras!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKWEd4SWZSbExPRHJnRRAB",
+            "text": "Ordered a le parisien and it was fantastic. I was a little dismayed at the price but every ingredient was quality so well worth it.\n\nThe man that rang me up, maybe the owner, even put free water in glass bottles out for each table. Restaurant style service here."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOaVFpc0RCay1Talp3EAE",
+            "text": "We were a group with several strollers and we stopped by today for lunch. Sandwiches were delicious but above all, the team there was amazing. Service and friendliness were impeccable. We had a great time!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VPYUlrZGJIbjl1OGlRRRAB",
+            "text": "Great looking place, food was good. Some days the sandwiches are portioned smaller then usual. Good experience"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPU1JzN2E5OW8yLXpnRRAB",
+            "text": "A gem of a place! We walked by it and decided to stop there. Great and cute ambience and both the turkey avocado sandwich and the three meat panini were extraordinary.\n\nStaff were so welcoming and friendly. You can tell they pour their heart into this.\n\nA true slice of the beauty of France, right in Greenpoint! Merci!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPekZtTkxMbHRpbHpBRRAB",
+            "text": "Really cool small shop, glad I stumbled in. Turkey avocado baguette was delicious. Espresso drinks were also on point and well-made. Service was excellent. Would return and recommend!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNdkRpb0dDMy1IVi1RRRAB",
+            "text": "Kindest staff in NY! Incredible sandwich and French accoutrements"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJWERqOWZIMWJXLTR3RRAB",
+            "text": "Best sandwich ever"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJR3A4NWZnbXI3blN3EAE",
+            "text": "Flame sandwich, got the duck breast with raclette."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKRFVtcGl5LWVpNkhnEAE",
+            "text": "That was honestly the best sandwich I’ve had in a long time. Totally hit the spot!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQYTY2T09TdUtPblpBEAE",
+            "text": "The man recommended a sandwich I wouldn’t have ordered but greatly enjoyed"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZb2RUSDhBRRAB",
+            "text": "Great sandwiches, many options!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZdXZlT2p3RRAB",
+            "text": "OMG, that merguez baguette was incredible!  The merguez itself was so flavorful and perfectly spiced.  The sauce was the perfect complement, adding a creamy richness without overpowering the meat.  Best merguez baguette I've had in NYC"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZaUxxbF9nRRAB",
+            "text": "Very very fine french sandwich\nSuper friendly staff\nBaguette experience guaranteed"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvOW8tYkV3EAE",
+            "text": "Very solid and cute French sandwicherie. The turkey avocado is great and super filling. That bread is delish! Super cute spot and nice people"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvOS16eDRnRRAB",
+            "text": "Great little French sandwich shop in Greenpoint. The sandwiches are real tasty and the owner is really nice!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvOTZ6OW93RRAB",
+            "text": "Great sandwiches and French cookies and snacks available for purchase"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvbVBXSnZBRRAB",
+            "text": "Always a delicious sandwich served with a smile. A little gem in the neighborhood!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJNjZ2SFVBEAE",
+            "text": "First time discovering this place ! I truly recommend. The owner greeted us as if we were family . We ordered the chicken sandwich with the curry sauce. We had the chance to taste also the merguez and lemon butter crêpe very tasty. 10/10. Will definitely come back when we come back to Brooklynn."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3MUpTeWJREAE",
+            "text": "These sandwiches were amazing. We got the truffle prosciutto baguette and the duck panini. Both sandwiches were amazing but the duck panini was the star. The service was also wonderful. The person taking the orders was so friendly and we really enjoyed our experience. The sandwiches were on the pricier side but it was worth it because we were full after!"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSaE5lWERBEAE",
+            "text": "너무나 친절하고 따뜻했던 뉴욕 속 프랑스 샌드위치"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlbl9YRzZ3RRAB",
+            "text": "조화로운 음식 맛, 친절한 직원들. 매우 만족스러웠습니다"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREb1lfSmlRRRAB",
+            "text": "I walked in here to get a quick bite to eat. I was pleasantly surprised by this cute boutique sandwich shop. The owner was extremely friendly and everything was super clean. I love the sandwich that I chose, but there’s many other options I would like to try in the future. There’s really nothing on this block to get something fresh so this place was really needed!. They had lots of yummy delicious croissants and crêpes on the counter that I would love to give a try also.\n\nThe food is really fresh, they use lots of fresh herbs, and the owners authentic French accent, just elevates everything!!!\n\nYou gotta try this place you won’t be disappointed"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEOE9UVUl3EAE",
+            "text": "So happy to have this spot in the neighborhood. We’ve been twice and both times the food was fantastic. It’s a small cafe so it might be tough to grab a seat to dine in. But with the park nearby to go orders aren’t a problem, (weather allowing of course). Service was super quick. and all the to go orders are packed nicely.\n\nWe got the Merguez, Le Pate, and the French Onion soup. The sandwiches were fantastic and the French onion was the best I’ve had in a while. Better than the one I make at home for sure! We will absolutely be back to try other sandwiches."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROMTc2NW9BRRAB",
+            "text": "Cute place with delicious French sandwiches. Its a small place and there are only a couple of seat yourself tables, so expect to take your order to go. The staff was super friendly and obviously enjoy what they do. So many places make you feel like you should thank them for taking your money. This place makes you feel like you are family. If you seak French, it's an even better experience. From the soup, to the cappuccino and everything in between, we loved it all!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaM3NEVlZREAE",
+            "text": "The sandwiches are truly delicious 🥪 and sitting inside gave me Parisian café vibes. Pretty straightforward menu options overall but truly new tastes and flavors as far as depth goes. Also we tried their French Onion 🧅 soup which was also delicious, it will definitely be a go to on the next cold/chilli day."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSeGE2U2x3RRAB",
+            "text": "Stopped in this place for Lunch while I was visiting New York. Food was delicious!!!  Best paninis I’ve had so far. Sandwich came with a cute side salad with wonderful flavor. Shop has products like drinks, sweets, and other snacks that are unique to France. Hospitality was great and owner was very kind and excited for you to try his food! Would totally come back here again when I return."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmcDVlcDJRRRAB",
+            "text": "This is such a cute gem of a place. It’s a small cafe, but the decor was lovely, and the food was great. I got the Truffle Burrata and Prosciutto sandwich and it was amazing. Would definitely come back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoanE3V1JREAE",
+            "text": "This place was extremely authentic and delicious. The owner had a big smile on his face and was very friendly. The food was AMAZING! The buck panini was much different than traditional sandwiches and I am so glad we ventured to try it. The…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5d2ZyM2R3EAE",
+            "text": "I  feel like this spot is over looked. When they opened I came in and thought it would be just another overpriced spot in Greenpoint.. and being in Greenpoint my entire life (40 yrs) I’ve seen some things. But the truth is the food is phenomenal… I didn’t want to love this place and I do lol worth every penny.\n\nGet any kind of coffee for $3\nAnd it’s delicious.\nThe BEST French onion soup. And the staff and service is alwasy excellent.\n\nPaninis, try them all. The French vibe is so authentic and space is quaint and quiet."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKcjlMV1BREAE",
+            "text": "I must admit, it took me sometime to come here despite all the recommendations because every time I looked at the menu I’d say something along the lines of “how much for a cold sandwich!?”\nIf something like that has ever happened to you, respectfully, don’t be an idiot like I was. Yes it is pricey but you can also taste exactly why it is the price it is with every bite. Grab them to go, head to the park, and have yourself a lovely time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyckplTElREAE",
+            "text": "I recently visited Le Sandwicherie in Greenpoint and tried two of their offerings: the Le Parisien and the Truffle Burrata & Prosciutto. The Le Parisien features French ham, Brie cheese, tomatoes, arugula, and mayo, while the Truffle Burrata & Prosciutto includes fig glaze, tomatoes, arugula, olive oil, prosciutto, and truffle burrata.\n\nWhile I enjoyed both sandwiches, I found the Brie in the Le Parisien to be less to my liking. I believe substituting the Brie with goat cheese or Gouda would enhance the sandwich by adding a more savory flavor profile."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwMmRmRDdBRRAB",
+            "text": "Feels like you are walking into France when you come here.\n\nBaguettes sandwich was fresh!\nA ton of snacks on the wall, and very fun decor!\nThe French TV channel really makes it feel authentic."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSaHB2bS1RRRAB",
+            "text": "I had breakfast this morning with a friend and it was delicious. He had the Duck sandwich and I had the Tuna sandwich. Both were very yummy. We also had 2 espressos and they were very solid.\nThe place is super cute, it reminds me of the little shops in the south of France.\nService was very friendly.\nA great addition to the neighborhood.\nA+++"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwMWR2N21BRRAB",
+            "text": "I went in looking for a classic jambon/cornichons/beurre sandwhich which was not on the menu but the man behind the counter said absolutely and made me a delicious sandwich! Definitely worth the price, stuffed with quality ham, French butter, and great cornichons! Also the interior was so cute! And yes, the staff speaks French! :-)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNodVBTNEt3EAE",
+            "text": "I’m not French so I can’t properly rate an onion soup but it was buttery and satisfying.\n\nThe sandwich was the montanyard. It had enough duck and it was satisfying too. Came with salad.\n\nLots of cheese. Not for everyday! But good on those days you feel cheese cravings.\n\nNo water fountain.\n\nWith tips it came to ~30$ which is fair for the area.\n\nThe space was cozy. Not many people when I arrived around 3pm. It was enjoyable."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4aXNpNGZREAE",
+            "text": "Nice new addition to the neighborhood!\n\nThe baguettes are super fresh. We had the turkey avocado and the truffle prosciutto baguette. It’s a great little French cafe to pick up and take over to the park across the street for a picnic !\n\nThere’s also seating inside and right in front outside too."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMcWRIU25RRRAB",
+            "text": "Absolutely love this place! Very friendly staff! Delicious food and really care about you!\nSome seating is available both inside and out! If not, Mcgolrick park is a block away :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuNGYtSXJ3RRAB",
+            "text": "The Jambon Beurre de Paris is exceptional, so buttery and delicious. The employees are very kind here and the menu is extensive. I will be back soon to try many more sandwiches :) Can’t wait!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXdWVMckVREAE",
+            "text": "I won't lie, I thought 5 stars looked pretty bogus. Turns out it's just only found by a happy few.\n\nThey serve French style (I think?) Sandwiches but the portion was good and the guy (I forget his name, first time I've heard it) put so much attention into it. Kinda felt like a scene from Ratatouille, which I guess is fitting.\n\nI've only had one sandwich so far – the veggie one I think – but it was REALLY solid. Very good. Usually veggie sandwiches are kinda cruddy and all the same. Not the case here.\n\nTo get a better idea of what he offered, I also got the French cheese puff snack – that didn't last more than 5 minutes and was a decent amount unlike normal American snack bags – and a drink with some sort of syrup flavoring. Was also yum. Also some sort of arrowhead-shaped lollipop that was also nice. I think all that was $25, definitely not $30. Great deal for the quality of what I got.\n\nVery pleasantly surprised, I'll definitely go back, I'm craving it just writing this.\n\nApologies for my messy desk – but hopefully this proves I'm actually excited about this place and not some guy who already knew them.\n\nEdit: It's Massire! Just saw the name in the description. If you're reading this, thanks again!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHMUo2LUdREAE",
+            "text": "Amazing authentic French sandwiches with a variety of tasty fillings. My favorite is the Merguez. The baguettes are always insanely fresh too! Lucky to have this food truck local in Williamsburg."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyckl1N25nRRAB",
+            "text": "Perfectly crafted sandwiches made with love by the nicest guys. The bread Is the best baguette in Brooklyn and the ingredients clearly high quality. I just always want to go there. Merci les gars!"
+        }
+    ],
+    "reviews_count": 72
+}

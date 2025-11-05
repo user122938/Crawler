@@ -1,0 +1,544 @@
+{
+    "name": "Boeuf & Bun",
+    "place_id": "ChIJsduzTQVbwokR1hwkQgTyJQU",
+    "grid": "BK8",
+    "address": "271 Kingston Ave, Brooklyn, NY 11213, USA",
+    "rating": 4.4,
+    "user_ratings_total": 1646,
+    "phone_number": "(718) 221-8900",
+    "reviews": [
+        {
+            "date": "수정일: 5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psbE0ybExXREJXYjFaeU9VMTJjelpVVldSRVFWRRAB",
+            "text": "Got french fry dip and 🥤…"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4eFZuRndlakp6WXkxMVVIQTNjelZrYm5CR1NVRRAB",
+            "text": "$27 for a burger with no fries is pretty high"
+        },
+        {
+            "date": "1주 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Wd1VHaFlkSHBuYlRWa01VaHRkazAwVUZCclZYYxAB",
+            "text": "הגעתי עם אשתי למסעדת 'בוף אנד באן׳ ויצאנו ממש מרוצים. המסעדה ממוקמת בסמיכות למרכז חב\"ד העולמי בית חיינו - 770, על שדרת קינגסטון.\n\nהאוכל היה מוקפד, טעים ומלא מחשבה. לאחר קבלת פנים (כדאי לשמור מקום מראש) קיבלנו כחלק מהשירות מים קרים ופופקורן. לאחר מכן פתחנו עם שלושה באנים. כל אחד ביס מושלם בפני עצמו: באן שניצל קורנפלקס היה פשוט מעולה. קריספי, מתובל בדיוק במידה ועם תוספת של כרוב וגזר שהוסיפו רעננות נהדרת. באן ההמבורגר היה קטן אך עשוי היטב, עם בשר עסיסי ורוטב מאוזן בטעמים. באן הבשר המפורק הפתיע בעומק של טעם, רך ומתובל, רוטב עשיר שהשלים את המנה בצורה מושלמת.\n\nלצד זה הזמנו סלט עשיר עם בשר מפורק. מנה צבעונית ומלאה, השילוב של ירקות טריים עם בשר רך נמס בפה היה פשוט מעולה. למעלה היו ג׳לפיניו ממולאים מטוגנים שהוסיפו קראנץ׳ וחריפות קלה שהפכה את המנה למיוחדת.\n\nגם המנה הנוספת, פרוסת לחם קלוי עם בשר מעושן ורטבים מעל, הייתה מדויקת ונדיבה. לחם פריך, בשר איכותי, ורטבים שלא השתלטו אלא השלימו את הטעמים.\nהשירות היה נעים ומהיר, האווירה במקום קלילה וביתית, והמנות יצאו חמות ומוגשות יפה.\n\n*להעיר: עם זאת, חשוב לי לציין כי הכיסאות במקום לא נוחות ויש המון רעש. אך, בכל זאת, אין ספק שזו אחת המסעדות הבשריות היותר טובות באזור. מקום שחוזרים אליו בכיף!"
+        },
+        {
+            "date": "1주 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSbWFtUlpiMlp1TVhSVGQwNXhOM2d4Tm13MlZHYxAB",
+            "text": "בוף אנד באן – מקום מעולה! הזמנו שלושה באנים מושלמים: שניצל קורנפלקס קריספי וטעים בטירוף, באן המבורגר עסיסי ובאן בשר מפורק עם רוטב עשיר. הסלט עם הבשר המפורק היה מדויק וטעים, והכול מוגש יפה ובשפע. שירות מצוין ואווירה כיפית – לגמרי נחזור שוב! החיסרון היחיד היה שהכסאות קטנים וממש לא נוחים. אבל אם נשענים אפשר להסתדר"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VmNVdFpVM1pmZFhVdFJWZElSV1UyYUhZNGVrRRAB",
+            "text": "Great restaurant. The food was very good, nice size portions at a very fair price. Waiters were very nice and knowledgeable, and atmosphere was perfect."
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5Nk9DTkVnEAE",
+            "text": "Consistently great food and service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUmExWjJPRkZQY0c1Tk5IaE9hR054YWtkaGFuYxAB",
+            "text": "I wouldn't go back. The metal chairs make it incredible loud. The burgers are meeeh, too big and too pricey and they don't come with any sides. Fries are really good but also too big. I never knew who my waiter was, I had to stop anyone who walked back. The hot sauce is a glace..."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kS09YaDNSRWxIUm5Kc1UzZFFTSFp4Y0VkMk1XYxAB",
+            "text": "So so grateful they have tons of gluten free options and that actually taste as it should! Everything was fresh and the chicken bites are heavenly!!  Great service too 👍🏻 this is a forever staple spot for sure"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJemQxTnpTMUowTTFoRVVIVmxNa2w0UzFSalZYYxAB",
+            "text": "Worst service. We had to walk out. There was nobody in the restaurant. We waited over 15 minutes to order and asked the waiter several times. In a very rude way he screamed saying he is the only one working and had to wait for a package. Since it was lunch hour we could not wait more and had to leave"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpeGY3OVdnEAE",
+            "text": "Every item on the menu is a winner. Been here multiple times and they keep me coming back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKQlRqRXlYeTAxVWpsc2JEZ3pTM0ZWY3paMU0xRRAB",
+            "text": "Food was superb. Perfect and staff is so pleasant.\n\nMust try and enjoy monthly"
+        },
+        {
+            "date": "1달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5V01tTnhaMnRLYVVzNWVIQjBkR2ROV0V4elkzYxAB",
+            "text": "Exelent que des bonne mémoire"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25odGIwVk9ja2d6UXkxWk5XaDNXbGQ1WldwT1NsRRAB",
+            "text": "Great restaurant, delicious food, good service.\nGot a little pricey recently but…."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWMlFXaHdVazlyTkZJeWRrZHRPVUpJYkdzeVNuYxAB",
+            "text": "The flavors here are delicious! The burgers were very good and the fries were excellent. The knockwurst was just a hot dog I was thinking it might be something more creative and for the price. Speaking of the price, the price is very high and not a place that can become a regular lunch spot. The portion sizes are also small, the smash burger is more of a smash slider size, not a full burger size. That said the flavors were great!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4WFpXUllUVXhaTFVwVldXVldhVTVsY0U1U2VtYxAB",
+            "text": "Delicious food! A fun and popular ambience"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGV1dGaHVTVGhTV1hadmRrNDJUM1kwTTBvM1YwRRAB",
+            "text": "I went with my friend and the Service is terrible. I would advise to stay away if u like service. Guy at the front was rude and there were many tables opened and he wanted our party to wait for 30 min lol... This place is a joke and needs a…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214TFdVdEJURFE0WWpWbWRrUTVkVXRyYlVabmJtYxAB",
+            "text": "Service is terrible. I would advise to stay away if u like service.  Guy at the front was rude and there were many tables opened and he wanted our party to wait for 30 min lol... This place is a joke and needs a real manager or host at the front. Stay away"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKc2FHME1REAE",
+            "text": "first of all, i went to this restaurant quite a few times already and really liked there food, but i have to say, the food is way over priced at this place,\n\nbut the last time i was there i ordered a classic burger, besides that the burger cost over $20 that's way to pricy, but the worst thing was, that the burger was not even close to the burger i ate already a few times there,\n\ni told the waiter about it and actually send back the full burger that i would not eat it, but they refused to give me credit even when my bill was $300 for 3 people including a kid,\n\nand on top of that is the awful service, i came in and there was maybe 5 customer's sitting and eating, i waited for over 20 minutes that a waiter should come take my order, but instead i saw 3 waiters standing and just playing with there phones, after 20 minutes i called them out they finally came to get my order, that really bad service,\n\nthat was really bad service and i don't thing i will be going back soon to this place, and would not recommend this place again for friends."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPN2QzSTNRRRAB",
+            "text": "go early or later it's busy with kids for dinner , very noisy bit food is the best part . love the onion rings"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSlRFSTFTa1JEZFV0MlkxRjJVMlZKWlc5bVIxRRAB",
+            "text": "Literally, one of the places with the biggest gap between the high-quality food and a terrible service.\nGiving you a feeling they’re doing a favor that they’re servicing you, zero apologetic about the reservation I’m not being respected, and needing to wait without a time estimate for a table.\nFood is amazing so it makes you feel a little better, but as they rush to take away your plate because they wanna wrap up and close- you leave with a bad taste.\nExperience the same thing three years ago yet gave it another try, but will probably take a few more years till I try it again."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSYWRFdGFaSEJFYTFGMFVURnJkMUprZVRGM1FtYxAB",
+            "text": "This is one of my favorite restaurants whenever we visit Crown Heights/Brooklyn area- their pulled beef sandwiches are the best!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUVNYaFRjVUprUlhSalMwcHVaemRtVEY4MGVrRRAB",
+            "text": "The food was just a bit to kosher with the amount of salt in the food"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxblVqZG9aR3h1TTBObE5VcGliMUphT0VOV2MwRRAB",
+            "text": "Food took 45 minutes to arrive"
+        },
+        {
+            "date": "4달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aRVQxZFlRa3MzZGxoVlZWWlhSSEZsTmt0Zk0wRRAB",
+            "text": "Tout été excellent\nTrès bruyant\nOn a reçu les repas au fur et a mesure c t très long"
+        },
+        {
+            "date": "4달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wV01VMVllVFkxYmtONVpGOU9OMDVWVTFadlZVRRAB",
+            "text": "Tout est excellent\nOn a reçu les repas au fur et a mesure c t un peu long\nBcp bcp bcp de bruit"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwOVlHaDlBRRAB",
+            "text": "Delicious food and very good atmosphere"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLakxxTnYzMnJXUm1RRRAB",
+            "text": "Great"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPcXVvSlRQLVB1X2hnRRAB",
+            "text": "Definitely 5 star\nGreat food 😋\nGreat vibe 🍸"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VQaV8zYkMtcF8zTllREAE",
+            "text": "Portion size on some items was a little weak"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJNnkzcW1Eak5xSWNREAE",
+            "text": "Great service. Nice seething. And great pricing"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLYkYxT3ZHeTdPTlVnEAE",
+            "text": "Food was great"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZbE5mLU1BEAE",
+            "text": "Went for dinner to this kosher burger spot in Brooklyn and it did NOT disappoint! Truly 10 out of 10. Will definitely return and recommend to others.\n\nThere was a brief wait (about 15 minutes) but then service was fast. For the price, it's a lot of food.\n\nI ordered the Down South, a pulled brisket sandwich! Delicious!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcS1fdGhBRRAB",
+            "text": "This place is great. In addition to the nice ambiance and great food, their service is top notch and very professional."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvdmNxckdBEAE",
+            "text": "I’d avoid if possible. The food was ok. But the service really wasn’t. Kind of felt like more of a bother than a guest. It was also pretty empty, so no need for poor service.  A bit pricy too for what it was. Also pretty expensive, especially without having alcohol."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvbXVIX2FnEAE",
+            "text": "The absolute best for lunch or dinner"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvd3J5YWF3EAE",
+            "text": "I've had the best burger here. I highly recommend it."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvMHRmWWxBRRAB",
+            "text": "Hours are wrong. Closed when I tried to dine in."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJeVpIdTJ3RRAB",
+            "text": "We had a power rice bowl with grilled chicken and a plate of appetizer ribs. Was plenty for 2 people, great flavors and we enjoyed the ambiance."
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnM3VhOHB3RRAB",
+            "text": "⭐⭐⭐⭐⭐\n\nI never thought I’d see the day when people choose to come to Crown Heights for the food—but here we are. My family and I made the trip, and let me tell you, it was worth it.\n\nWe started with the truffle fries, and they were excellent—crispy, flavorful, and a perfect way to kick off the meal. I had a smash burger, my son had a high-stack burger with a brioche bun, my daughters had chicken and waffles, and my wife had something with truffles. Every dish was executed perfectly. The chicken cutlet in the waffles? Not overcooked like so many places do—it was just right.\n\nNow, I expected a long wait. It’s New York, it’s busy, and I saw them cranking out Uber Eats, Seamless, and Grubhub orders. But somehow, the food came out shockingly fast, and our server was beyond attentive despite the crowd. You could tell they run a tight operation.\n\nBeing able to see into the kitchen, I assumed there had to be an army of chefs. But no—it was just a handful of them working with insane efficiency, and the quality never suffered. I was so impressed that I had to personally compliment the manager.\n\nA few notes for anyone coming here: Expect street parking battles—it’s Crown Heights, after all. Also, like many restaurants now, gratuity is built into the POS system, so check before tipping extra. And most importantly, this isn’t just a “kids' place.” Yes, you’ll see big families from all over the world, but that’s part of the experience—hearing the different languages, feeling the energy.\n\nAs someone who’s been eating at restaurants my whole life, I don’t throw around five-star reviews lightly. I write about my real experiences—good or bad. But this place? It’s an easy five stars. The food, the service, the experience—it’s all there.\n\nWould I go back? Without question. We’d make the trip just for this spot. Highly recommend!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRdzk2VzRBRRAB",
+            "text": "Extremely rude and disrespectful staff. Came in and sat down and the waitress had an extremely rude attitude. We simply got up and left. Not a good look at all."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRNFlLS2F3EAE",
+            "text": "Amazing vibes and best food!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRcW9MSWRREAE",
+            "text": "Great Tasting Food"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURndnFUWmlRRRAB",
+            "text": "The food was ah-mazing. We all loved everything we ordered.  The plating and presentation was simple and yummy looking.  The portions are generous. I wish there were a few more gluten-free items."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxNkxXTzBnRRAB",
+            "text": "The food is amazing. Service isn't the best but worth it for the food"
+        },
+        {
+            "date": "8달 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBcGEydTJRRRAB",
+            "text": "מקום כשר וטעים, מומלץ בחום!\nמוזמנים לראות פרסומת מלאה בבלוג hamburgigi"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBNEx1d0lBEAE",
+            "text": "Always the best!! No other kosher wings or burgers like this in the tri-state area."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtNy1pdVlnEAE",
+            "text": "Great place with really great (kosher) food. The waiters were very kind. The concept of the complimentary popcorn is brilliant.\nEverything was tasty - the burgers, the chicken wings, the deserts - and everything was \"eye-tasty\" as well.\nVery recommended overall!\n\n(I was there in early October 21')."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2enBxRWZ3EAE",
+            "text": "The food arrived late and was very low quality. The fries are burnt and soggy, the buns were smashed, and the burgers were overcooked and in a puddle of liquid. I asked for a replacement and they refused and acted very unprofessionally"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlNjVldXBnRRAB",
+            "text": "Food isn't bad but pricey. Service leaves much to be desired. Waiters never brought cutlery, we had to keep asking. And when we got on the waiting list for a table they told us they'd call but didn't. They later said they tried a bunch of times but we had no missed calls... Something fishy here"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGaHZ6NUl3EAE",
+            "text": "Summer updated review:\nWe came to try their summer smash burgers menu. I think it's a good burger, but missed the mark unfortunately for a Boeuf and bun menu item. This almost feels like a fast food or sport stadium burger. The smash burgers are tiny, but also not rightly smashed, because there is no crunch from the smash burger. It also is missing your freshness you're looking for in a summer menu, e.g add a tomato or something else. Also don't take out the caramelized onions from it. All in all, I still highly recommend b&b, just not their smash burgers.\n\nOriginal review:\nI've been a regular at Boeuf & Bun for a while now, and every visit has been consistently outstanding. This place truly deserves a solid 5-star review. The burgers are hands down the best I've ever had, and they never disappoint. But it's not just the burgers that keep me coming back; it's the entire experience.\n\nTheir selection of dips is incredible, and the beer choices are always on point. During my recent visit, we decided to indulge in their chicken wings, flatbread, and fries with that delectable truffle topping. And let me tell you, it was a flavor explosion! The onion rings were exceptionally light and airy, and the chicken nuggets were a delightful addition to our meal.\n\nNow, here's the secret weapon – the deep fried Oreos. You absolutely can't leave without trying them! The jam sauce drizzled on top of the ice cream is pure perfection and adds that sweet finishing touch to a fantastic meal.\n\nBoeuf & Bun is the go-to spot for burger enthusiasts and food lovers alike. The combination of superb burgers, delectable sides, and that sweet ending with deep fried Oreos keeps me coming back for more. This place consistently hits the mark, making it a 5-star gem in the world of burger joints!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNbnNIbVVBEAE",
+            "text": "Had a really nice birthday dinner here with a group of friends. The food was amazing.  Perfectly cooked and seasoned dishes. Great appetizers. Forgot to get a dessert but they looked really good too. It was a little crowded when I went so try to be patient cuz the food is definitely worth the wait."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQeWJtM3hnRRAB",
+            "text": "One of my favorite restaurants in NYC. The chicken waffles and truffle fries are amazing. Can’t go wrong with a burger here as well. Very well worth the price"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4eXJ5NDV3RRAB",
+            "text": "Great service. The food came extremely fast.\nVery tasty. We came here with a group of four people and all really enjoyed!!!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNOWVEUUt3EAE",
+            "text": "Fantastic experience. We opted for just appetizers. We got virtually every app on the menu. Each one was better than the next. Great experience, great food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3ajZPUkVnEAE",
+            "text": "The food is delicious, great staff, very friendly\nThe chicken, tender is a must\nWell priced"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzMmZQQnJBRRAB",
+            "text": "Wow! Amazing food and beautiful atmosphere! Highly recommend.\n\nWe ordered the Rib Eye Tartare, Truffle Fries, New Yorker Burger, and the Baah Baah Burger. The tartare was very soft and smooth, and paired very well with the crunchy bread slices, egg yolk, and sauce. If you get it, I recommend eating everything in one bite. The truffles fries were some of the best fried I’ve ever had! Nice and crispy on the outside with a nice, soft and hot inside! They were clearly flash fried in very hot oil. Well seasoned with salt and garlic. We asked for some horseradish mayo on the side and that was an incredible addition.\n\nThe burgers were also incredible. Although in pictures it appears as if the burgers come with too much bun, this couldn’t be further from the truth! The bun was not overpowering at all. The New Yorker packed an acidic punch that paired well with the smoky flavor of the pastrami and the juicy richness of the burger. The Baah Baah Burger was perfectly cooked and had a nice flavor of lamb. Sometimes lamb burgers have off or weird flavors, but the taste of this one was actually reminiscent of lamb chops. It was served with a cumin sauce which complemented the lamb and added complexity to the burger.\n\nThe ambience was also great. The restaurant is lit warmly to complement its beautifully polished wooden tables and chairs. The dishes were presented fabulously (especially the tartare).\n\nOverall 5/5! If you want a good burger and a nice experience please give Boeuf and Bun a try, you won’t regret it!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNROGVxZWFBEAE",
+            "text": "This is a amazing place, the quality of there food make this place unique. If you love meat, a clean place with a nice record, superb customer service, this is the place. It is a kosher place but put to Shane a lot of the non kosher similar style around town. Short ride in the 3 train."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4NVpyOTZRRRAB",
+            "text": "Mixed experience. The free popcorn appetizer is a nice touch, and the decor is clean and inviting. The menu itself is well thought out and unique. But, it's quite expensive. Every burger is $20+, a la carte. We ordered two burgers. One burger was decent, but the patty of the other burger was burnt beyond what's edible - I ended up canceling it as we were not having a good experience. The first server we had was somewhat rude and inattentive, despite the place being nearly completely empty. The other server was better, and a runner from the kitchen seemed nice. I first thought the automatic gratuity was a little strange (it applies to anyone, regardless of party size), but I realized it might be because many customers weren't tipping at all. So, I understand that, although others have complained."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwMFpyVUdnEAE",
+            "text": "Went when it was not crowded. If you're willing to spend a lot for delicious small portions I do think this would be your place. Overall I did enjoy."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXaGJ1eXF3RRAB",
+            "text": "I don't even know where to start. This place is a gem in the center of crown heights. The food is amazing. Some would consider it pricey. But, for portion size, taste, and creativity it's worth every penny.\n\nI had a a froze which is a mix of strawberry puree and rose slushie and it was soooo good!\n\nI ordered beef chilli fries (refer to pic) it was so good I tuned out my lunch dates conversation. Lol I also ordered a grill chicken sandwich to go and had it later on in the evening cold. It was so delicious I didn't need to warm it up. I'm going back there today because I'm craving and still thinking about how insanely delicious everything was."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURncmZUVjF3RRAB",
+            "text": "Amazing restaurant- great burgers cooked to perfection. We all got rare and they were outstanding.  Reasonable prices $7 draft beers"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaN3JXZTlRRRAB",
+            "text": "I’ve lived in the neighborhood for a few months now and had been meaning to try this place out.\n\nI had their Morning Scramble burger ($26) which included no fries. It was overall good, but nothing special.\n\nIf you want to try something new, go for the beef ‘bacon’: it was surprisingly good for faux pork.\n\nThe overall feeling is that it’s overpriced: I should not have to pay $50 for an ‘OK’ burger + fries."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5NmRuTzRnRRAB",
+            "text": "Food is as always great and consistant!\n9/10 would highly recommend!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwNXBXT0ZREAE",
+            "text": "Food was delicious and service was great 👍🏼 definitely going back."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVNzRDek9REAE",
+            "text": "The food came very fast! The food was amazing! Service was very nice! Great place for kids too!"
+        },
+        {
+            "date": "6년 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVOUlYdmNnEAE",
+            "text": "מסעדת המבורגרים בקראון הייטס.\nאוכל ברמה ממש טובה! מוגש בצורה יפה.\nשירות נחמד ממש! רק חבל שלא היו עובדים דוברי עברית כשהגעתי לשם, אבל יש תפריט בעברית נראה מראה קצת לא מזמין... אבל יש בו תמונות של המנות ככה שיותר קל לבחור, הייתי מצפה ממסעדה באזור כזה להשקיע בתפריט בעברית שיראה לפחות כתפריט.\nמיד כשהתישבנו ניגשה אלינו המלצרית והגישה לנו כוסות מיים קרים ופופקורן.\nהמנות שלנו הגיעו אחרי חצי שעה מאז שהזמנו אותם...\nהמקום עמוס בערבים בלי כיוון!! אבל בצהרים הוא ריק!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvNzlYZGVREAE",
+            "text": "Came here after noon time with a friend.\nTable service. They have many items to choose from on the menue. Ordered the downside brisket salad. Salad was fresh and brisket was in sweet bbq flavor. It came with free homeade fries and a drink. Overall good service."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnaXBPMV9nRRAB",
+            "text": "The food was great, drinks not so much. No reservations but we didn't wait long but some other people did. Also there will definitely be kids and it's noisy. I would not necessarily recommend for romance/special occasion, better for a casual dinner."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfLThmZi1BRRAB",
+            "text": "Had an OK experience. Food was alright. Very expensive for just a burger (fries not included). Service was slow and to be honest not very friendly. We were in the area for the Brooklyn Children's Museum and were looking forward to eating out nearby. Saw the good reviews and we were really looking forward to dining here but was underwhelmed, especially for what was being charged. We were also told you cannot feed a baby from a bottle while there - not even asking if it was formula, etc. - so just felt a bit unfriendly from the start. Saw food being left out by the bathroom handwashing area - had to wash my hands around it. Also not a big big deal but they had kids menus on every table, only to say that's only offered during the week at set times (not sure why they're left on tables on the weekend then)? Bit disappointed overall."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVa2FEdE9nEAE",
+            "text": "I ordered truffle fries that had no truffles...they were just regular fries but they were more expensive than the regular fries !! And I ordered Jalapenos poppers\n14$  for Jalapeno poppers (4 halfs) so 2 peppers  the description said that they were stuffed with beef and wrapped with \"bacon\" .... it was barely any stuffing and the fake bacon was some raw and hard chewee cornbeef of some kind deep fried with burned batter... honestly gross! Absolutely not worth the price... my glass of red wine was hot and to top everything up they charged me for the tip.... (I dined alone) since when restaurants charge for tip ?? I come from LA and no one includes tip in the bill for less than 6 people...\nI think it's so rude to include the tip... I always always tip 20% but since they included 15% for the tip  it was there loss...\nThe waiter was nice and they give you popcorn and cold water when you arrived... that was nice."
+        },
+        {
+            "date": "3년 전",
+            "language": "iw",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1ekxiZHZBRRAB",
+            "text": "אחלה מקום\nממש מומלץ!!\nהגענו וישר הגישו לנו עם התפריט מים ופוקפורן\nהמחירים סבירים\nוהמבורגר טעים\nאני ניסתי גם את הפיש בורגר פחות מומלץ!!\n\nחשוב לציין בחשבון הסופי זה כולל טיפ ולכן לא חייב להוסיף בסוף"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNick9qQ2NnEAE",
+            "text": "The place is clean and quiet. The food is tasty and the service is good. The burgers are really good and tasty.\nThe price is affordable, especially with the lunch offers.\nThey have popcorn as a welcome snack for the guests.\nThe car barking is available off the street.\nThey have a takeaway option.\nIt worth trying!\nYet, it is not a good option for vegetarian people."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvby1yRWtRRRAB",
+            "text": "We where the only black people in the jewish kosher resturant. People steered at us a little, But we didnt care. The burger was delish, the wine was nice"
+        },
+        {
+            "date": "4년 전",
+            "language": "iw",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5czVpbWRREAE",
+            "text": "נתחיל מהנושא המרכזי של המקום, ההמבורגר...\nהוא מצויין, עשוי מעולה, עם כל הדברים הנכונים שצריכים להיות בפנים,\nלא עמוס מדיי, הביס מענג,\n(אני ניסיתי את ה\"מורנינג בורגר\"\nביצת עין, פטריות ורצועות בשר פריכות),\nאין ספק שביחס למחיר ההמבורגר מספק!\nובוא נדבר על זה, הצ'יפס!...\nהצ'יפס הזה ניצח מסעדות גדולות וטובות, הוא מדויק, (עם קצת שום כתוש מלמעלה, טוויסט מצויין!) פשוט ממכר.\nממליץ על הצ'יפס בטטה למי שמשעמם לו מהרגיל...\nהשרות חביב, המקום מזמין, והמחיר שווה לכל נפש (ביחס לרמת המנות וגודלם)."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3ajhldnRRRRAB",
+            "text": "One of the best kosher restaurants I ever been to\nThe food is amazing !!!!\nLittle bit overpriced\nBut very high quality\nDrinks were good also\nStaff is very friendly and helpful\nVery clean place\n4 stars earned"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNMEp1bVh3EAE",
+            "text": "Opted for this self declared kosher \"Burger Lab\" since it was walking distance from where I was staying - and I sure am glad we did. The quality of meat and the service was excellent. I opted for the Morning Scramble - sautéed mushrooms,…"
+        }
+    ],
+    "reviews_count": 76
+}

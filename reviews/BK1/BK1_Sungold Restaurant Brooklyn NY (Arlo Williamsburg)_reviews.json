@@ -1,0 +1,621 @@
+{
+    "name": "Sungold Restaurant Brooklyn NY (Arlo Williamsburg)",
+    "place_id": "ChIJ7foAEE1ZwokRuCUXXm3WxGs",
+    "grid": "BK1",
+    "address": "96 Wythe Ave, Brooklyn, NY 11249, USA",
+    "rating": 4.8,
+    "user_ratings_total": 890,
+    "phone_number": "(718) 408-7251",
+    "reviews": [
+        {
+            "date": "14시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VeGNEUnNORXhRYkVwVU0xcERNVXR2TFhwTWJFRRAB",
+            "text": "The place is great! The team are so kind and i wanna to say thanks to Cadhla specially."
+        },
+        {
+            "date": "18시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wcmJVWjBZM2wwTURSMFVFaEhZa0ZUYTNkaVpVRRAB",
+            "text": "Cadhala was incredibly welcoming and prompt from the very moment I walked up to the bar. I appreciated her checking in on me throughout to make sure my experience/needs were met during my time at the lobby bar. Looking forward to coming back!"
+        },
+        {
+            "date": "19시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKaVEzSm5UWE40YTFWWWJUWnhXVm93WWtZMGFtYxAB",
+            "text": "Cadhla was wonderful. Super friendly, very helpful."
+        },
+        {
+            "date": "19시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taTGJEVlRkMDluTjNkV2FWUk5WSE10ZG00MVpFRRAB",
+            "text": "Cadhla took great care of me from the moment I sat down , crafted a great mocktail and great suggestion for lunch . She is amazing !!!!"
+        },
+        {
+            "date": "20시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kMVMyWm5UVk5aYTBkYVpUaFhTbUV4TWtGTVpsRRAB",
+            "text": "Casual was very friendly and knowledgeable about the menu. Would recommend."
+        },
+        {
+            "date": "20시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSWmVrcFBZV1pIVVhFMmQwRk1YMjlpVjAxWFEzYxAB",
+            "text": "I recently had the pleasure of being served by Cadhla at Sungold, and it completely elevated my afternoon. From the moment I sat down, Cadhla’s warm energy and intuitive sense of hospitality made me feel instantly at home. She recommended a cocktail based on just a few details of what I liked—and it was spot on, perfectly balanced and beautifully presented. Beyond the drinks, it was her genuine attentiveness and effortless charm that stood out. You can tell she loves what she does, and that passion translates into every pour and every interaction. Cadhla doesn’t just make cocktails—she curates an experience. I’ll absolutely be back just to sit at her bar again."
+        },
+        {
+            "date": "21시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kQk1YUXdNemR6UjNOaVlXSTNYMVk0T0Rjd1owRRAB",
+            "text": "Great place and nice people. Cadhla made our stay even better by her helpfull and kind attitude. Great bar to be in :)"
+        },
+        {
+            "date": "23시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5MWFEaHhORjlCUTBocGJXVkRPV2cwYVVrNExYYxAB",
+            "text": "Stopped by for a delicious coffee and breakfast sandwich. Great vibes and service. Coming back for their thanksgiving dinner in a few weeks. Can't wait! Highly recommend"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCNFUxcEVZVXd3WVhOMll6RmxjVXczZGpKSlZtYxAB",
+            "text": "Excellent cappuccino, thank you Cadhla!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkdk5VbHlRWEpsY2kxaVoxWlJVMnh2WkdSRVUxRRAB",
+            "text": "Carlos and Juan were amazing！ Best service！"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214aFRrOXNkMEpLU0RSQmRFaGpVbVpXUTNSSlZWRRAB",
+            "text": "Juan and Carlos the best! They provided us the best service on sunday!"
+        },
+        {
+            "date": "1일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsMk9XdHFhbUYzT1RacmFYSmlaMkZsTVV4R2RFRRAB",
+            "text": "Carlos y Juan son los mejores! El servicio fue excelente! Brunch en este lugar es bueno, lo recomiendo!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTGFUWlNNVjl4UmpsR1NrNXdNbXBJUlZsNFZWRRAB",
+            "text": "Great spot to work over some snacks and bevvies"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paWU9IZGpNbUpNTUVacVpFaFNSbVpXUVhSUFJuYxAB",
+            "text": "Cadhla is so attentive fun to talk to. Great vibes from the restaurant and the staff!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210V1lrcG5MVE5FYVdsa2IxUkhaREZSY21wMWFuYxAB",
+            "text": "Great bar and above and beyond service"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUlNYbDVlbXB4ZFZkb1ZFaGtVRmhZWXpGeGVHYxAB",
+            "text": "Cadhla made an amazing and much need latte, very friendly and welcoming:)"
+        },
+        {
+            "date": "2일 전",
+            "language": "ga",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKa2RIaENkMUprU1ZWUlEwbHZkVEEzVWpSaVgzYxAB",
+            "text": "Love Cadhlacc!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5U05uWmhiakZSVTA5b1dIRm1jRE4zZW1aaVIxRRAB",
+            "text": "I came down to lobby for some early coffee and encountered some great service, cheerful conversation and abundant good will from Cadhla…the barista/bartender/arbiter of all good things in Brooklyn.\n\nThroughout a long weekend, my experience of the morning was repeated over and over during our stay.\n\nThe Arlo is a great place with a team of Superstars!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVFp6SkliSFIzVkdOTVVrVnlZek13YUcxb0xVRRAB",
+            "text": "I stopped by for a quick breakfast to go, and the bartender ( Cadhlac) was so polite and friendly! She helped me place my order quickly and made the experience really pleasant. Great service and such a lovely attitude—thank you!”"
+        },
+        {
+            "date": "2일 전",
+            "language": "ga",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaR1JIWnhOMEpvWm10b01uSjBOMHAzY2t4R1gzYxAB",
+            "text": "Cadhla was great!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWFptbHlNVE52VTNOd2VUVnJRVkpIVDE5d2FYYxAB",
+            "text": "Nous sommes venus dîner dans ce lieu très joliment décoré. Les huîtres de \"l'ami du patron\" au prix exorbitant avaient un goût de fond de rivière, la focaccia avait l'allure d un gâteau au yaourt bien gonflé au levain. Seul le plat de pâtes était bon. Cerise sur la focaccia : on nous dit que nos 2 billets de 100 dollars sont faux (billets acceptés par ailleurs sans probleme). The kitchen was not amazing but \"we are not accusing anyone\" !"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnMU1FbDRla0Z5TUMxWmVqZEpURlJpVEdkbFJIYxAB",
+            "text": "Came here for brunch with my friend and made a reservation just in case. The ambience is warm, modern, and perfect for a relaxed weekend brunch. Service was friendly and attentive the entire time. I ordered the mushroom sandwich with grilled chicken, which came with crispy fries and a side of spicy mayo absolutely delicious! My friend got the grilled chicken sandwich with fries as well, and we both loved our meals. To share, we ordered the brown butter maple old-fashioned pancake, and wow that was the highlight! Perfectly fluffy with just the right sweetness. We paired everything with lattes, which were smooth and creamy. It’s a calm spot to unwind, chat, and enjoy good food with great vibes. Overall great vibes. I’d absolutely come back again! ✨"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOQlYxcDBPVUYwTUc5dlZsSXdjWEF3TFdkd2NGRRAB",
+            "text": "Great place to have drinks and have a good time with your friends or partner. Definitely not a place to eat. The food is mid at best. Our server Hanna was fantastic!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWeFZtRnJRM1JtWjBoR05EUnNiMVoyY0RSQmFsRRAB",
+            "text": "Being close by removed any excuse not to try this spot. The food satisfies both taste expectations and hunger. This place impresses with location, staff attitude, and price fairness. I value superior treatment, and this place surpasses all standards. I'll revisit this restaurant soon."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wNk5EaHphMkpLV21sNk1tc3RTMHhIZEdwcFowRRAB",
+            "text": "I’m so glad I stopped by here after a nearly four-hour gig at Brooklyn Bowl. I was exhausted and very emotional. It happened to be the first day of Rosh Hashana and it brought with it a lot of feelings. I sat at the bar, ordered the chicken sandwich and a Cabernet Sauvignon, and kind of went inward (into that solemn space), and suddenly, I was greeted with a very warm smile and a compliment by (new, I think? bartender) Cadhla, who made me feel very welcome. And you know? That’s what I really needed at that moment. We chatted and gave me a glimpse into her world and I was able to release the thoughts that occupied way too much space in my mind. My chicken sandwich was very tasty, but I will say, it became delicious (for my palate) once I added Sungold’s flavorful hot sauce. Yum! Big thanks to Ramona and Cadhla for a lovely afternoon. We often go through life not knowing how and if we made an impact on someone. And they did exactly that—made my day."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJeWIybHBOMDlvUTBOeVdHYzRkbXc1Y1c1bVVVRRAB",
+            "text": "We went to this bar expecting a fun night out, but unfortunately had a disappointing experience. The bartender refused to serve us because, in his personal opinion, my friend “looked intoxicated,” even though my friend was fine and behaving normally. I’m more than capable of taking care of my friend, and I would never put them or anyone else at risk.\n\nI understand safety is important, but staff should base decisions on actual behavior, not assumptions. Instead of making unfair judgments, it would be better to communicate respectfully and recognize when guests are being responsible."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SdVpsTTBTSFJ6U0ROVFZUVjZTRmRSUzFRd1psRRAB",
+            "text": "The place was nice but the food was very bad. The pizza sauce tasted like canned sauce, the chicken parmesan didn’t had flavor, the “salad” were just sliced onions. The bass made my friend sick. Wasn’t well prepared."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKUE0zTjBWVEF0ZVhwSlVucEhOamN6UWpCWVlVRRAB",
+            "text": "My SIL was staying here as she visited me from out of country.\n\nWe came for HH. It was completely empty. The service was terrible. Took forever to place an order. My espresso martini had pieces of ice in it. The fries were actually okay. Was supposed to come with fortune cookies but didn’t. When we asked to have them they “couldn’t find any”. We were looking forward to getting pizza but of course “no pizza” available. We asked if they served food on the roof by the pool because that’s where we were headed after. And the server had no idea, didn’t think so (otherwise we would have just left to eat there… they certainly serve food up there) We were never offered water. We were the only people at the bar. Not hard to provide good service. VERY disappointed and will never be back. There are far better places to go in the area. Convenient if staying here - yes. But the overall service at the hotel was so sub par and disappointing so, not worth (even if convenient) imo."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZeGFVOXZlRkY1Tm5abU5EbFVXRGRvWTFWUmNYYxAB",
+            "text": "I wish I could tell you how the food was here, but after being seated and unattended for 20 minutes - me and my partner decided to leave out of complete humiliation.\n\nWe tried closing our menus, making eye contact & still nothing from the waiter. I would give you a name of the waiter but we were never greeted. Other tables were being actively served."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WSVJYbzBaR0pVY0dOMVZVNDVWRlpIUzBvMVRtYxAB",
+            "text": "Service was bad. They forgot to deliver a little cake I ordered for my brother’s birthday and didn’t bring my mom part of her order til after the meal. Totally careless."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paeFUxRmhPWFE0UkZCV05YZExlVVZ3VEdwWGRrRRAB",
+            "text": "Excellent burger and fries!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VGFXVjRWMVZuUWpKMU9WcE9UVXR0TVhGQ1YyYxAB",
+            "text": "Worth the visit!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xscFFrNWhValp1TmtKRVEzcGpXbTFpT1c5elVXYxAB",
+            "text": "Juan was amazing and Super attentive. Had the best brunch there this weekend"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNFEwbFBjWFZNVEZod2VWbENjVXh5WkhBd1FXYxAB",
+            "text": "Juan and Carlos were AMAZING. Funny and exceptional service! Will come back again!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRMlJsZHZiR3BVYUdkblJUWnVkRFZ5WTJNeGFHYxAB",
+            "text": "Carlos, and juan were excellent. Loved the service and food was delicious"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCYVNYcHZjR3BPUlZCSFZXWkRabGN4WTBWWVpVRRAB",
+            "text": "Great service!!! Carlos and Juan took great care of the table!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSlpsOVZPR3BhYlRremNrRkVTSEZJY1hoSVVIYxAB",
+            "text": "Carlos and Juan were amazing servers! Delicious drinks and great food. Bottomless brunch is a blast with friends"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SMVZXZEhUblkxWDI1Uk56WkNaazlzYzBkM0xVRRAB",
+            "text": "Carlos and Juan are incredible! Amazing service, great food, would recommend. :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GZk1YbERka3RRYkhwVlNVdDNWM2hMZEc5a1ZVRRAB",
+            "text": "Enjoyed brunch today with Carlos and Juan! They are the best :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3eU5YQkhhbEJzVldNeVVFNXlNamx5WlVKamVFRRAB",
+            "text": "Fantástico desayuno en el hotel! La comida y los tragos muy buenos ! Gracias Juan y Carlos!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKaWFUQnpaM1F5TldKZlNEYzFXblJ0YTBabVVsRRAB",
+            "text": "Loved brunch here ☺️, we had great service with Juan and Carlos. Will come back for sure"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psZk1sVnZYMm8xVWpaVGJFMDBabWwzVkdNNFduYxAB",
+            "text": "Carlos and Juan took well care of us.\nLooking forward to join again."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBNFpURjZWa05oVUdSTFkyeEtUbGN0V2t4dGEzYxAB",
+            "text": "Carlos and Juan are the best! Thanks guys!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psMFRHOXphVjlFU1hWZlNqUk9OV1o0ZURVNVQyYxAB",
+            "text": "Thank you Juan and Carlos all you recomend was perfect, we loved the bottomless drinks, just perfect."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OTGFqWjZURTF6WmxWV2NWRmlaRWR2Ym1FM2IwRRAB",
+            "text": "Everything delicious, Carlos and Juan are the best"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxNVlXRjVjSEZQUTNwblluSjVjMjF5TjNFNFgwRRAB",
+            "text": "Almost everything is fantastic! Lunch was not the best meal. Didn’t really like the mushroom and onion sandwich, seemed to be missing something. But everything else is over the top wonderful. Highly recommend scallops, pasta, salad, pancakes, chicken…"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Sa1NGbEJMVXRMV1ZGR2NISXRZMkUzVlV4SGJFRRAB",
+            "text": "Mediocre food overpriced"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twdGExbE5PRUU1TW1OMGVFazVlbEZHU2pSeGQyYxAB",
+            "text": "We had a great experience! Carlos and Juan were so kind, responsive, and great servers. Made our time here even more special celebrating our honeymoon 😊 highly recommend for brunch and drinks!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aV1NFczFZemRGYjNBMGQza3pORGh1TFdWdlUzYxAB",
+            "text": "My boyfriend wanted a bottomless brunch so we popped in to give Sungold (Arlo Williamsburg) a shot. We walked down the outside staircase and quickly realized we had to go behind the bar for the hostess. We were sat down almost right away in the open area with the plush, sea foam green booths. Really liked the elevated and relaxed atmosphere. There was a couple next to us and they had a dog. Very Brooklyn but good to know they’re dog friendly!\n\nJuan was our server and made brunch a smooth experience. He was quick to refill drinks and gave a reminder you can switch (mimosa to Bellinis etc). My favorite part was his friendly demeanor and creating a great balance or balance but also checking in on us. The food was delicious too. We opted for some sweet treats and Juan reco’d the pancakes, huge miss if you don’t have that or the babka French toast (1 piece only though). We also never felt rushed which was a bonus too. Whenever we’re in the area we’ll def be back!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wd1FsTmtPVXh4YzJ4NlVYcERibUZ2WVhKWmFXYxAB",
+            "text": "Carlos and Juan were wonderful! Great service, friendly, and delicious food."
+        },
+        {
+            "date": "3달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCRmNHZzFVRGQzVkUxQ1UxRjZhRFJKYzNabmNIYxAB",
+            "text": "Hangover sandwich와 pancakes 주문했어요! 팬케이크 레시피가 알고 싶을 정도로 정말 맛있었어요😁"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VLXzh4WXZXMDdyMGZnEAE",
+            "text": "The restaurant was ok  but the amount fragrance in this restaurant and hotel is unbearable and detracts greatly from the experience.\n\nIt is over powering and everywhere. If you have a sensitive nose avoid avoid avoid. To the managers of this facility please do not impose these scents on all of your guest, any scents such be extremely mild and barely noticeable."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQZi11T0hXMzdfd3R3RRAB",
+            "text": "I had an amazing time here! Came for Mother’s Day brunch and must say that it was delicious. Friendly service and very attentive to us. Mimosas and Bellini’s were delicious. Great atmosphere! Carlos and Juan were so great, attentive and friendly."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJcjlEN2xRRRAB",
+            "text": "Carlos and Juan were fabulous! They were super attentive and made our experience so positive! Carlos suggested we get the hangover sandwich as it is is favorite, and now it’s my favorite too! Definitely come and enjoy the atmosphere and wonderful service!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQM3ZLSUtREAE",
+            "text": "Very cute space with good lighting and the food is really fresh and feels like farm to table. Great choices and they have lots of options. I also got the espresso martini for drinks and it was fantastic.\n\nJuan and Carlos have an amazing team for us hosting here for brunch! Very attentive and provided good customer service."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfc3NYTzNnRRAB",
+            "text": "I was there couple of months ago for a dinner. I had a strip steak and it was one of the best i have had in my life. It was cooked so well, crispy on the outside and juice in the inside. I also had a choclate dessert that i can’t recall the name of it. Service was also excellent. I will definitely go back, hopefully with someone special next time :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0cVNsZG1XVU41TVc1T2JEVkVObGRZUXkwd2FGRRAB",
+            "text": "Carlos and Juan♥️ They are amazing! Thanks for the attention, the recommendation was incredible, the best breakfast ever"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIOUpfWnZnRRAB",
+            "text": "Came here on an impromptu excursion with some friends a few weeks ago and absolutely loved everything we had - anddd happened to catch the restaurant week menu at that! Our server was fantastic and I'm really sad I'm blanking on her name currently but the service was wonderful and we didn't feel rushed at all. There was plenty of space when we were seated for a busy Friday night and since it's attached to the Arlo I wonder if this is just a restaurant people don't notice since there are some very popular other spots just nearby - but would totally check this place out! We essentially tried everything on the menu - the tomato salad was great, the gazpacho too, the chicken parm and fish were well done, I could go on. The desserts were excellent too! Would recommend if you want a decent meal without the reservation crunch."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBc2JLejJnRRAB",
+            "text": "Carlos and Juan The They are excellent waiters, very friendly and warm service best thing about arriving at a place is always being greeted with a smile, thank you for the good service and kindness. The food is delicious and it is a good place where you always want to go"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYM0p6UkJ3EAE",
+            "text": "Absolutely LOVED Sungd and their fall menu full of veggie options including squash gnocchi and a squash main dish. Absolutely delicious!\n\nDon’t miss the rooftop before/after dinner"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2OWV2b1ZnEAE",
+            "text": "From start to finish, our experience was top notch and so personable. Mya was great from check-in, Tilliner was very professional and helpful, great dinner. I was surprised at how much I enjoyed the Cabernet and squash dish. I wish I remembered my servers name bc he was awesome. A special shoutout to Mario who took care of us at the bar day we checked out. He knew his craft well, gave us some great recommendations and taught us some things about our drinks. I know it’s hard to be personable with all your patrons but he gave us that experience and closed our experience perfectly. Thank you, Mario. And thank you Arlo and staff!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiX2FyNENnEAE",
+            "text": "I totally love the ceiling with the golden lights! The food was very delicious and they have good choices between burger and more healthy options with salmon and vegetables, so everybody should get happy there."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZLXN5alZBEAE",
+            "text": "Carlos and Juan took great care of us. Coming back definitely!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNLWd4ZF9EN01ES2ZREAE",
+            "text": "Great food. Great atmosphere. Me and the party was here for brunch and cant expect better!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CNFpXWjRRVUY0ZDFwNlFrYzVVRUpSVlVoNVVXYxAB",
+            "text": "Carlos and Juan were absolutely amazing. They took excellent are of us while we were dining and made sure that we were topped off on our bottomless brunch. Kind, courteous, and attentive I would absolutely eat here again and would hope we got Carlos and Juan."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0cE1VOVJaR3RZVlhVMVZqQlJNbWxHV0ZvNGFVRRAB",
+            "text": "Carlos and Juan were great and took care of us while we dined here. Went above and beyond to ensure I could eat with my allergies in mind.\n\nWould come back just for their hospitality."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQN3NqV1FREAE",
+            "text": "Had the best 1st breakfast as husband and wife and we couldn’t  have asked for a better location to have it. Service was 10/10 Food was 10/10 thank you so much we will differently be back soon thank you Carlos and Juan for an amazing experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OMmVuUjFOWE15ZW1sdlFscGlSV3hCUlU4NE9GRRAB",
+            "text": "Carlos & Juan were our servers and they were great! Always made sure we had our drinks filled and checked in for whatever else we needed! They provided us with a great experience. We will be back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkZldteDZPWEI0U1dwclRXZHlPQzFIWWtOUGVVRRAB",
+            "text": "Carlos and Juan made the experience one of the best Brunches I've had in the city. They were so attentive and made sure our bottomless brunch experience was constant. Highly recommend the Chicken Sandwich & the omelet! If you come please ask for Juan, he was amazing!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqcllLRkZ3EAE",
+            "text": "My lunch experience at Sungold was nothing short of exceptional. From the moment I stepped in, I knew I was in for a treat.\n\nThe fairy light ambiance, combined with the charming brick walls, created a unique vibe that truly captured the essence of Williamsburg. It was a dining experience unlike any other.\n\nI started with their renowned Dirty Caesar salad, topped with shrimp, which was an absolute delight. The flavors were perfectly balanced, and the shrimp added a delicious twist to the classic dish.\n\nFor my main course, I opted for their crispy chicken sandwich, and it did not disappoint. The chicken was perfectly cooked, and the sandwich was bursting with flavor. Not greasy or soggy.\n\nAs if that wasn't enough, I also tried their Bucatini, which was cooked to perfection.\n\nWhat truly impressed me, however, was not just the food but the overall experience.\nThe service was impeccable, with Martin, my server, going above and beyond to ensure my satisfaction. His knowledge of the menu and ingredients was impressive, and he made sure to communicate my preferences to the kitchen staff.\n\nOverall, Sungold exceeded my expectations in every way possible. I discovered this gem through an article, and I can confidently say that it lived up to the hype. I can't wait to return and experience more of their delicious offerings."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvNC1feDRBRRAB",
+            "text": "I had an absolutely amazing breakfast experience, thanks to the outstanding service provided by Carlos and Juan. From the moment I arrived, they made me feel welcome and taken care of. The food was delicious — fresh, flavorful, and beautifully presented — but what truly stood out was their attention to detail, warm attitude, and professionalism. Carlos and Juan went above and beyond to ensure everything was perfect. I highly recommend this place for anyone looking to start their day with excellent food and exceptional service!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURicnUzalp3EAE",
+            "text": "Had an incredible dinner here the other night where my friend and I ordered off of the restaurant week menu and some a la carte items. Highlights were the roasted Jimmy nardellos (stuffed peppers), chicken Parmesan (it was MASSIVE and the salad it came with was also phenomenal) and the pavlova (worth the wait). Great wine selection too!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3eTZpWEl3EAE",
+            "text": "My friends and i were searching for a breakfast spot last Saturday morning…. I did a google maps search of Williamsburg, and Isla & Co. had the highest rating via customer reviews.  Unfortunately for us, there was a huge private brunch there that day so we went to Sungold here which had the second highest rating (though with much less reviews).   We all ordered the same omelettes with cappuccinos.\nThe atmosphere is typical plain hotel breakfast area.\nThen food arrived…. The 2-egg omelet was the ONLY good thing on my plate.  The bread was hard, the bacon was hard, and the stale-tasting cappuccino was served in a small cup.\nLesson learned:  Stay away from hotel breakfast spots.\nI’m including photos of the bacon to show the discoloring of it.  I increased the brightness in the second photo so you can see the details.   It was stiff as a board.  I showed the waiter and he took it and returned with another piece that was warmed-up.   So, basically i spent $9 an egg."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRNktHT1dBEAE",
+            "text": "Juan and Carlos were very sweet and attentive. They made me feel right at home and accommodated my dietary needs."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNncHZpUEVREAE",
+            "text": "Different and delicious French toats, I love the beautiful, quiet place for breakfast and a pleasant time. The waiters Juan, María and Carlos were very friendly and attentive."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfNDViZDJRRRAB",
+            "text": "Juan was such a great server, he made sure we had everything we needed. Make sure to ask for him if you want a good brunch."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREemJIXy1nRRAB",
+            "text": "Definitely worth the visit. I stopped by on a weekday and there was still a nice vibe in the restaurant/bar. The aesthetic of the place is top notch. You can tell everything was super thought out. We ordered almost everything on the menu - it was too hard to decide when everything sounded so good! Do not skip on the focaccia and chive butter and the salted caramel gelato! It was delicious and worth every carb! I will definitely be returning."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQN3R5RHp3RRAB",
+            "text": "We were pleased with our experience at the Arlo hotel in BK - The breakfast was absolutely outstanding. Thank you to Carlos and Juan for providing incredible service as well. Will definitely be coming back! A staple for breakfast."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQc3IySXBRRRAB",
+            "text": "Juan was an expectational server! Attentive to detail and made us feel so welcomed and taken care off! Made our brunch extra special"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmdzRxQlhREAE",
+            "text": "One of the best pancakes I’ve ever had! I love them 😍 Juan service was amazing thank you! And the place is really lovely. I would definitely go back !"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNVFUxNHFYb05DMEdnEAE",
+            "text": "Juan and Carlos are the dynamic duo. They were friendly and attentive and provided 5 star service. The food was delicious and the atmosphere was great for my birthday brunch celebration."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJc2F1dDR3RRAB",
+            "text": "Very nice service. Drinks were great. Food was properly made.\n\nThe bar area was a bit loud with a social party going on.  But the restaurant was very good."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRNklDcG9RRRAB",
+            "text": "Great brunch in the Arlo. Carlos and Juan were prompt, attentive, and unobtrusive as I dined alone in peace and zoned out to a nice quiet meal to start a travel day."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205MmVuZHJibFJCZUMxbWEyUlBaRjlxVmxOa2NGRRAB",
+            "text": "Carlos and Juan were wonderful. very attentive and amazing waiters. food was amazing. love the service, food and atmosphere here. highly recommend."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsa1lrNURWVFZmTVMxZmJsZFFWM3BJTW1wV2MyYxAB",
+            "text": "The food was so good and the service was great. Juan and Carlos were amazing! 10/10 recommend for bottomless brunch or any other dining experience!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5Z3NQelh3EAE",
+            "text": "I am absolutely in love with Sungold. The Sunchokes were amazing and the Espresso Martini is literally one of a kind. Can’t wait to come back!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VMV0hnLVhFbGZxMDVBRRAB",
+            "text": "The roasted potatoes and fries were so so great. The rest of the food was okay, definitely not good enough to compete with these amazing restaurants that exist in Williamsburg.\n\nThe wait staff took forever for our food and for our dessert. We were never given sharing plates. We asked for the dessert cut and with a candle, that didn't happen. Then they brought the dessert over while the birthday boy (who is disabled) was in the bathroom (which is on another floor) and the ice cream melted as we sat and waited for him to come back.\nMy vegetarian brother was given a plate with bacon on it. When we sent it back, we received the plate back within moments which signals to us that they didn't respect his ethics and they just removed the bacon rather than making him a new plate.\n\nI would not return."
+        }
+    ],
+    "reviews_count": 87
+}

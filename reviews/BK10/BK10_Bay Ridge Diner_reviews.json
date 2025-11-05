@@ -1,0 +1,537 @@
+{
+    "name": "Bay Ridge Diner",
+    "place_id": "ChIJS_wigl5FwokRDeZ2VX9-KEg",
+    "grid": "BK10",
+    "address": "8017 5th Ave, Brooklyn, NY 11209, USA",
+    "rating": 4.2,
+    "user_ratings_total": 567,
+    "phone_number": "(718) 921-0266",
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkRE9IcEpZemxEY0dsUmNIb3dkemRXTUhKeE1GRRAB",
+            "text": "Good"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wdFJITkZiSFZmUkRFeVNtZFRjREZJZUZSSVRuYxAB",
+            "text": "Mike was our server and he took such great care of us. Friendly, attentive, and the food was absolutely amazing!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ac1h6ZzJjRUZyYTNkbVVITm5RMFJsVjBReWNrRRAB",
+            "text": "friendly. Good food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FM1RWZDVWRE00VEVWalYwTmxaMEZGVGtoYVZWRRAB",
+            "text": "We had breakfast, the Lumberjack and He-man. The eggs, ham, sausage and bacon were standard. The pancakes were awful - chewy, flat, and tasteless, as was the accompanying syrup. The waffle was also not very good. On the other hand, the service was exceptional. But, if I don't have good food, what's the point?"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOaU1FaGhaa2h3V2pKbVlrUkVPRWszVEZsSFNWRRAB",
+            "text": "Great food, fair prices, nice atmosphere. Planning on becoming a regular :)"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Oc0xUZFBNSEJ4YjBFelQxWmxjR0ZKUjJoNFVXYxAB",
+            "text": "Came with my family of 5 and 4 kids on our way to Delaware. We came for breakfast and ordered 5 over easy that comes with home fries and buttered toast. I was disappointed that it did not come with orange juice and coffee. The waitress was nice enough to let the cook know to clean the griddle as our food cannot come in contact with any type of meat. This could be a reason why it took a bit of a long time for our food to come out. The food was fresh and reasonable portions. Nothing beyond expected so we will not return. But if you’re looking for a regular diner experience this will do. I often compare all my experiences to a diner in Binghamton. The Binghampton diner had very reasonable prices with amazing portion of food! This everything else comes short of that experience.\nBill: there is tax and gratuity is automatically added. There are two charges if paying by cash or card."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFek1GODVNMHBIVEdnNGRHNWtUVjgxVjJ0QlYxRRAB",
+            "text": "Cozy little diner with quality food!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOek4wRndUbVEzTnpnMGQwczRSa1p2ZVRZeFMwRRAB",
+            "text": "Our go to food spot in the neighborhood. We usually have the Benedict options, lox or Florentine but decided to try to fish and chips. Watch out Long John Silver. Their fish and chips were slamming. Super crunchy outside, soft inside. The fish itself was seasoned. 4 beautiful big pieces."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JeVlWSkRRbXBxTUZJNGNqQnZiRlZET0ZWQ1ZYYxAB",
+            "text": "Great lunch.  Very flavorful.  Great service too."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLbXZ6THZtaVpxekVREAE",
+            "text": "The portions were very big"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZZ29ycjN3RRAB",
+            "text": "Food was great, generous portions. Friendly"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNveFpTcG93RRAB",
+            "text": "The food was delicious."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJcElYX0R3EAE",
+            "text": "Staff, food, and great vibe perfect to enjoy a good breakfast. I’m been here a few times now and every time that I have the food been good even though my order is always the same staff amazing from the minute you seat."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBMjZIMnh3RRAB",
+            "text": "had a cheese and ham omelette which was very dry\nwhite toast with butter slapped on it\n\nnot good at all"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfNEwtZnlBRRAB",
+            "text": "This post is for delivery just received. Nasty delivery man. When i called they said oh they don't speak English. Missing items from the delivery. Couldn't find my order to verify. Restaurants are struggling so they say. Have better customer service and follow instructions on the order"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEMU5yYXlnRRAB",
+            "text": "I absolutely love this diner! From the moment you walk in, you're greeted with a warm, welcoming atmosphere that feels like home. The staff is always friendly and attentive, making sure you feel taken care of. The food is consistently top-notch—whether I'm craving a classic breakfast or something a little more adventurous, they never disappoint. The pancakes are a personal favorite, fluffy and delicious, and the coffee is always hot and fresh. The portions are generous, and the prices are more than reasonable for the quality you get. It’s the perfect spot for a cozy meal anytime of day. I can't recommend this place enough—it's truly a gem!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2dU1PN3VBRRAB",
+            "text": "Excellent place to eat, they have all your hearts desire"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQcGJIbjlBRRAB",
+            "text": "Great food and service"
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzbUp1cGlRRRAB",
+            "text": "Food was great like always."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYMGQtbm13RRAB",
+            "text": "The Bay Ridge Diner, their Food, Service, and Prices are second to none. I cannot say enough of Good things about them. They are absolutely Total PERFECTION A+++++++++++++++++++++ Stefano LePore"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYaWNUR1lnEAE",
+            "text": "Hello everyone! My name is archie , I live on 5th Ave about 30 years ago , I remember eating at nicks diner it was amazing ! I remember one day thr diner was packed with people I couldn't find a seat , the owner looked at me and told me hold on I'll find you a seat , I waited thrn decided to just walk out bc it was packed , I walked about a half a block out the diner I look behind me and it was the old man the owner came to me and told me to come back , I'll never ever forget that , he was a greqt great man"
+        },
+        {
+            "date": "1년 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNueGVMWGJ3EAE",
+            "text": "Szybko, smacznie i dobrze. Bardzo duży wybór każdy znajdzie coś dla siebie."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIaThfblF3EAE",
+            "text": "The food was good. I like the cappuccino but it really depends on who makes it. Sometimes it’s perfect and sometimes it needs to be hotter. Food is always delicious."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3LXR1NlR3EAE",
+            "text": "Love the fish and chips."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3aXAtWXJ3RRAB",
+            "text": "So disappointed…. My coworker eggs were Burt 🤦🏻‍♀️ I had a BLT with avocado but since when they put cheese on a BLT SMFH!!! NEVER AGAIN AND THEY ARE VERY EXPENSIVE FOR FOOD THAT WAS NOT GOOD AT ALL!!! DISAPPOINTED!!!! I DO NOT RECOMMEND THIS PLACE AT ALL!!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURibjV6T3FBRRAB",
+            "text": "They were so kind, they are also accommodating. The food is delicious, fresh. The atmosphere is clean and cozy"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNieWItZUF3EAE",
+            "text": "Overcharged me $15 for waffles and coffee which are $6 (waffle)on the menu.\nWaffles were soggy and definitely not worth that price.\nRude waitress .. I’m guessing she only likes her regulars probably because no one else would ever return. 0/10 don’t recommend"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRdjVHUmR3EAE",
+            "text": "The food is great all the time"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNydlpQNktnEAE",
+            "text": "Great little place"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNycmZEbktBEAE",
+            "text": "I absolutely love this place. The food is amazing. Our waiter Johany was the Best!! He made sure we had the greatest dining experience. I love the fact that the food was super fresh, and we didn't have to wait long at all to get it."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZcUpfcnpnRRAB",
+            "text": "Nice neighborhood small diner."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUdi1leE13EAE",
+            "text": "Nice old school dinner."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUb19QQ2V3EAE",
+            "text": "This place is great. The service and manager are kind, considerate and very accommodating. The food is excellent and abundant. Highly recommended! A+"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUMGZhTGhBRRAB",
+            "text": "Nice little place in Bay Ridge food was extremely good I'm sad to say I was surprised lol I was expecting less but it came out perfect I asked for French toast with two scrambled eggs and well-done bacon with home fries on top the guy first gave me a little bit of a weird look but he said OK sir as you like it!  it was exactly what I wanted"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUOW9xX3NBRRAB",
+            "text": "The breakfast was so delicious that I immediately started recommending my friends and family to give this diner a try. The staff was very nice and attentive.I will definitely be coming back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUNElhVkxBEAE",
+            "text": "Old school diner.  Food, service, all good.  Love this place.  Food does not disappoint.  Enjoy"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqNVpPY253RRAB",
+            "text": "Top- Italian omelette\nBottom - Bay Ridge omelette (new favorite)\nOne of the best diners in Bay Ridge in my opinion! (I do extensive diner research)\nBig portions and infinite coffee ☕✨🥰"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqb3ZhT2RREAE",
+            "text": "Definitely trying to take down money,  I don't think they have a senior discount; thus they do not like seniors & 55 and older crowd. You have to worry if they have good service- they don't,  you have to worry about what food they are giving you - you'd better if you don't spend a weekend with food poisoning- I did. This place is a no goer. That coffee cup is a joke."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqeTl6d0NREAE",
+            "text": "I do like diners, especially in New York.  Though the interior is a bit tired, the food makes up for it.  My Barcelona wrap was immense, and the fries were crispy and not greasy.  Coffee was good.  If you find yourself in Bay Ridge, give it a whirl."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqdk56TGJnEAE",
+            "text": "Amazing food, the service always good!\nGreat Place 👍"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqM042RGtRRRAB",
+            "text": "A solid diner serving up classic diner food from pancakes and eggs to burgers and milkshakes. It is a little pricey though, so I don't go to often. But when I do the customer service is always consistently on point and so is the quality of the food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREMjhlQ2pnRRAB",
+            "text": "The Jalapeno poppers are on point, the muffins are huge and fresh. Pregnancy cravings approved. Back for a dinner try for sure."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREbHNURGZBEAE",
+            "text": "Every time I'm in Bayridge, I stop here .\nNice atmosphere, good food, great service,  I get meat lovers omelet and order silver dollar pancakes ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNENWVETnhnRRAB",
+            "text": "Food was ok . But mostly upsetting that we paid cash but they put Non cash adjustment $1.73 and also $ 6.73 tip already included in the bill. We left cash tip $6 . So for the simple breakfast from eggs we paid total $ 51.10 scammers! Felt that we were ripped off for $18 just for the eggs . I am not cheap but it’s nonsense. And when I asked the  bill to look at why it cost so much waiter was rude and said that it’s all because taxes and that we paid by card, meanwhile, we paid cash!!! So it wasn’t only taxes! Plus I got food poisoning. 🤢"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5elpIb0NREAE",
+            "text": "Friendly neighborhood dining . Family atmosphere."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5NXRDQUh3EAE",
+            "text": "Food is good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5NWRlTWlnRRAB",
+            "text": "In my opinion, every dish you order will be tasty. Johanny and Mike are very friendly"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkMXRXTVhnEAE",
+            "text": "Best diner in Bay Ridge"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkdU9qNVdBEAE",
+            "text": "Panini Santorini, Eggs Benedict and cappuccino are delicious!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNObVpfMHd3RRAB",
+            "text": "This used to be my go to diner for 2 years until the prices went up and they added a automatic Tip on my bill. I understand inflation but both of these things at the same time was ridiculous? Especially when I would tip generously already now I didn’t even have a choice. I won’t be returning but The food was always good and it’s a cute place."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2eWZIU05nEAE",
+            "text": "My husband and I decided to go to breakfast. The diner we were going to is located on a block that was having a street festival so we couldn’t access it. We used Google to find another diner in the area and decided to come to Bay Ridge Diner. We parked and came in and was greeted by friendly staff. They are practicing all the Covid-19 protocols and asked to see our vaccination proof, which is also posted outside. We were seated and welcomed again. They even let us try a soup we never heard of but in inquired about due to its name. The soup is called Avgolemono and they brought over some for us to sample. We didn’t ask for it but they did it so we now know what it is and even explained how it’s made. We ordered breakfast and it didn’t disappoint. Crispy bacon that wasn’t disgustingly salty like some places and glorious home fries! My husband had french toast and I don’t even like French toast but his looked phenomenal. Challah was definitely used and a good amount of cinnamon and a sprinkling on confectioners sugar so it doesn’t overpower the delicate bread! The coffee was great too! We are definitely coming back! The service was amazing and the staff is stellar!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2ZzVfbmdRRRAB",
+            "text": "Lived in this neighborhood for over 40 years & first time eating here, not sure why but it will be added to my regulars from now on. Walking along the avenue and decided to grab a bite, glad we did ! Food was absolutely delicious & the coffee was very good which is very hard to pull off for diners. Mike & staff were so welcoming, so attentive checked on us quite a few times which is really important to me when dining out. Beautiful weather & a fantastic meal is a perfect way to get yourself going !!"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNROTVDWDh3RRAB",
+            "text": "The food is delicious and service friendly and helpful. As you can see from the photographs the portions are huge and the seating is comfortable\nBtw they also deliver and are pretty quick after lunch And dinner hours.…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4cUpxSlVBEAE",
+            "text": "This is a nice little diner in Bay Ridge area. Very fast service and waiters are polite as well. Price is right and portion of food is big. You also get discounts on cash payment."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvNDhpTEF3EAE",
+            "text": "I've been to this diner twice with my bestie and absolutely fell in love. I'm a diner girl...love a nice diner to drink coffee and enjoy a delicious meal. The waiter is very nice (I like that he calls me Madame) and the food is delicious.…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2MXZ5RkRnEAE",
+            "text": "We've been coming here even before the pandemic. This Diner is definitely one of the best. The customer service is always on point. The owner and the son are both very friendly. Servers are polite. Place is always clean. The food is very…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCdWYyNHl3RRAB",
+            "text": "If I could put 0 stars I would. I ordered delivery and I would usually always get 2 eggs over easy with sausage and home Fries this time I decided to get a little extra. I have never had an issue until this point, I literally only received 1 sausage with my order and more potatoes than anything else. When I opened my other orders, I purchased similar but replaced the sausage with bacon & French fries. It looked like they sent the leftovers from someone's plate. To add insult to injury the eggs were runny and there was a plastic object in my pancakes. I called the manager who goes by the name of \"mike\" who told me I needed to purchase the sausage  separate from my eggs when it’s supposed to come with it. Ge was rude, obnoxious & downright unprofessional. If I were you, don't go here. It's a ripoff & definitely not worth it. If you need any suggestions, Stewart's Diner on 86&5th ave, & also Bridgeview diner on 91st and 3rd ave is definitely worth your time, money and appetite."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURodmREbnl3RRAB",
+            "text": "Ordered Chicken and Waffle wasn’t as I expected! Their waffle stuffed with ham which wasn’t good at all. I have to give credits to the staff they were friendly.  My order + cup of coffee cost me $32+"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpdV9qcjlRRRAB",
+            "text": "Great place to sit down and get away from all the noise going on. Can actually hold a conversation without screaming. Would recommend this place and coming here again to support local buisness during this pandemic. Manager was super friendly and nice. Just in my opinion, best pancakes in bay ridge!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZdzlmR21BRRAB",
+            "text": "Okay when I order online it's great and come so fast. So we went to sit down and eat and someone totally forgot to make our food. But they didnt say anything just had us waiting for 40 mins . Missed my movie and had to kill time for the…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtdmNlcG93RRAB",
+            "text": "Ordered Caesar Salad and Palmero Panini. Owner check your employees how they making food at your Diner. Check your Menu! Caesar Salad with tomatoes???? Seriously???? Then Palmero Panini read your menu and take a look whats on the picture. Where is fresh basil? Where is the pesto sauce? Where is sundried tomatoes????  They just put marinara sauce, breaded chicken and mozzarella thats it! When I asked the employee he said : \" ITS SUNDRIED TOMATO PESTO AND BASIL ALREADY IN THE SAUCE! THATS WHY COLOR IS RED\".\nIn the menu says: ..... fresh basil! FRESH!!!!!  Then sun- dried TOMATOES,     PESTO AND PARMESAN CHEESE!!!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNad1pxcmp3RRAB",
+            "text": "Good diner. The food is always good and the fries are excellent."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBeHZpb0ZREAE",
+            "text": "Great little diner for a quick bite. I recently had the Banana Walnut pancakes and they were phenomenal! Great flavor and the taste of the bananas are prominent. 👍…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtcHBMZU93EAE",
+            "text": "Quick service and great food. Came here during the week for lunch and the place was clean and inviting. I would definitely come back."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLNV9pZVFBEAE",
+            "text": "Me and my Fiancée were extremely hungry and happened to be in the area looking to get some diner food. Decided to come to this place and it very well hit the spot. We left full and satisfied that’s for sure. Worth another visit if I’m back in the Bay Ridge area."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4alp6VmJBEAE",
+            "text": "Great place, visited a few days ago with a friend, the owner very welcoming, and delicious food"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxa0tiMTlnRRAB",
+            "text": "Great experience, would absolutely recommend coming. Lots of food for reasonable prices and some delicious desserts. The vibe inside is very relaxed"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtcGR6S3lnRRAB",
+            "text": "ordered breakfast as a late lunch and it totally hit the spot.   Started quickly eating before grabbing a better food pic.  but ordered homefries well done + walnut banana pancakes.  Will order again."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBay11bkJREAE",
+            "text": "Decent diner with a huge menu that also has some creative items. The sweet potato fries were amazing! Thanksgiving special was also a good deal."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtaGRmNm5RRRAB",
+            "text": "This is what I got when I ordered their chicken parm sandwich for delivery. Let the picture speak for itself. Soggy yet dry at the same time. I can't believe they actually served this."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRd0o3cm5BRRAB",
+            "text": "Always a pleasure to be in bay ridge diner excellent and professional staff and the food darn good never disappoints"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4anFDckxnEAE",
+            "text": "There was a large selection of foods, however the prices seem a little ridiculous. A firecracker pasta for $30?? Seems a bit much, but other than that the prices seem ok."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWa3BILWFBEAE",
+            "text": "I came to this restaurant thinking it was a nice cute local dinner, boy I was wrong. First of all I ordered what I always order when coming into a new dinner, medium rare burger with French fries. Simple right. Well when I bit into my burger it was like the meat was talking to me. I’ve had never received a burger so raw and undercooked. I hope I don’t get a stomach ache later.🤢"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNac082VE1nEAE",
+            "text": "It’s overpriced for the food they offer. We ordered pancakes and they where chewy. It was like chewing gum 😫. We ordered eggs and avocado and the avocado was black. The coffee tasted old but well I didn’t expect better anymore from the place. The service was regular I think the poor guy at the register was having a bad day so I understood his face like he ate a sour lemon. The guy who served the coffee was nice that’s why I gave a star. I think you can do better."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxME1TdjVnRRAB",
+            "text": "I ordered a pastrami on rye and it came back wrapped in paper cut in half. That's okay but why was my right red toasted? I did not ask for that but I dealt with it. I had to ask for mustard he did not put mustard on the table or bring it with him nor ketchup with my sweet potato fries. You should not have to ask a waiter for ketchup or mustard if they serve you something that might need it. I also felt very rushed to order."
+        }
+    ],
+    "reviews_count": 75
+}

@@ -1,0 +1,572 @@
+{
+    "name": "L&B Spumoni Gardens",
+    "place_id": "ChIJ67MPr4JbwokRkmqWUXvYyTY",
+    "grid": "BK2",
+    "address": "46 Old Fulton St, Brooklyn, NY 11201, USA",
+    "rating": 4.4,
+    "user_ratings_total": 318,
+    "phone_number": "(718) 596-4646",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aWFRXUTNTMGhrU1Y5d05VWnBUM2t0WW5FeWEyYxAB",
+            "text": "Awesome pizza"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5VlRuWTJUeTFKTjI5T1VscEdiSGR1VTFCTGQwRRAB",
+            "text": "Best pizza and pasta in town !!! Awesome service"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wc1MxRjZWbXgzVWtKR01tWlBTMnRRVUd4VU5VRRAB",
+            "text": "The squares here absolutely slap! There's no better way to say it. Perfect crispy crunch on the outside and light fluffy flavorful inside. The sauce is a perfect blend of fresh, sweet, and savory. The cheese give it that body every pizza needs while staying gooey and melty. At only $4.50 a slice, this gets a 10/10 would eat again and again"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWZlpVZFlkVXhhZHpSSFIzQmZaREZtWlhCSVoyYxAB",
+            "text": "Amazing pizza and service! We ordered a bunch of pizzas for our wedding after party and our guests couldn’t have enjoyed it more. Delivery was on time and pizzas were fresh, truly the best!"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWUFRYTjFVR3haTWpkWWQxZHZWR0Y1UkdsaU1YYxAB",
+            "text": "Todo muy delicioso muy buena atención"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aYVltdFZjVk5FU0hobU16WkRTVEpJTWpsak9VRRAB",
+            "text": "Be careful of a scam there — they included three items on the bill that we didn’t order and refused to split the bill, so we couldn’t notice right away."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjeVJtNHRlVzlpVlVZMk1reEdXSFJ1TVRNMWNuYxAB",
+            "text": "Terrific food and service. They're always taking care of the locals. Great place. Highly recommended."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsaVJreDNWSFo1VUVRNWRYRjJkM05rU21SZk9XYxAB",
+            "text": "No, no, no.  Relied on 4.2 star review that made me decide to go here.  When we got there did not like what I saw.  All the pizzas on display looked like they were there for many hours.  My best friend tried one and did not like it, period, as I suspected.  So I went for the chicken parmegian.   Was not bad but I had much better tasting chicken parmegian.  The texture of chicken felt like it has been prepared hours earlier.  We found this location to be pricey and was empty most of the time.  Very disappointed.  I live in North Carolina but was native to Brooklyn 50 years ago and honestly can't recommend this one.  Sorry and hope you take this as constructive criticism to improve quality of what you are serving."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOamQzUnFhelY2YmpaNGNYaFBibXhGWTJGeVVtYxAB",
+            "text": "I have never in my life sent back a salad but this was bad enough to warrant it. A Caesar salad with absolutely no flavor, no salt or pepper or cheese or garlic, it was as if they smeared mayo on still-wet limp romaine. I wish I could say the entrees were better but the pappardelle with pork ragu and chicken sorrentino were nearly inedible, again with very little flavor, poor quality meats, and sauces that surely came from a can with no spices or herbs or seasoning of any kind. The slice of pizza we had was okay, there is so much good pizza in NYC this was passable. The staff was polite and accommodating but we had two servers double-waiting on us as it seems they were not clear on where their sections were. Truly one of the worst meals I’ve had in a long time and extremely overpriced for what it was. I wish I could un-eat it and go across the street to Grimaldi’s."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBMmRubFVUelkwY1VKMFJGZzNkM2RWUkVWUFZVRRAB",
+            "text": "2 dollar oyster special - awesome!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTmEzaE5lVTUyYTJOaGR6QlZMVFpaUzJaWVgyYxAB",
+            "text": "Food was fantastic.   Waiter was so kind and helpful with our post lunch plan.  We had  great service and he had great suggestions."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoa2JYVk1ZbGx1WjNaTFVHTnZOWFJqYlRSc1VrRRAB",
+            "text": "It’s a nice place and Louie was a fantastic host. The Sicilian pizza had great flavors, the pasta pesto with shrimp was also good and the Brooklyn beer tasted great."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOemNtc3hhMWRqT0dOVkxXVmlhbEpFVHpjemMwRRAB",
+            "text": "Had a wonderful experience our pizza was delicious and the service was high quality this is one of the best family owned pizzeria in Brooklyn"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOdWFsUlhSak15YmkxZmJDMHpYMWxyWjJWYWFuYxAB",
+            "text": "I am from Tucson, Arizona and this place was recommended to me. I took me and my 2 girls here along with a friend and we ALL loved it! The Sicilian slice was amazing 😋 the margarita slice was soooo good. I will never taste pizza the same. My friend could not do gluten but they had other options that were amazing as well. I wish I stayed longer in New York to try more items on the menu. I 100% recommend this place!"
+        },
+        {
+            "date": "1달 전",
+            "language": "de",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwNGJrazJjSEJ1TldzNFpFWlBNMVkyVTBSMFYxRRAB",
+            "text": "Wir hatten reserviert und kamen in ein fast leeres Restaurant. Wir bestellten und damit begann der Fail. Der Kellner hatte offensichtlich die Getränke schlicht vergessen (in einem fast leeren Lokal…) so das wir diese erst NACH der Lieferung des Essens und nur auf Nachfrage erhielten. Weiterer Fehler: Meine Frau erhielt ihr Essen während ich meines nur auf weitere Nachfrage erst 20 Minuten später bekam. Wir konnten also nicht mal zusammen essen da der Kellner auch mein Essen schlicht vergessen hatte.\n\nIch würde nichts sagen wenn wir hier von einem Stehimbiss reden würden. Jedoch ruft man hier Premium Brooklyn Preise auf und wirbt mit der „World Famous Brooklyn Pizza“. Wer solche Superlativen raus ballert sollte Benchmark liefern. Leider Fehlanzeige.\n\nDie berühmte Pizza entpuppt sich als typische dicke Teigpizza mit viel Tomatensauce. Nicht schlecht aber auch nicht „World famous“.\n\nAlles in allem sehr ernüchternd die gesamte „Experience“. Es gab übrigens keinerlei Entschuldigung. Ist offensichtlich völlig normaler Standard in Brooklyn New York."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWTmNtVlVkR05QYVcxTVJIWlZXazFSWTBGcFkzYxAB",
+            "text": "Legit Italian food, super friendly staff Seafood pasta to die for."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWMFVuRnNabUZOZUV4cmRDMU5ZMkl0UkhBeExVRRAB",
+            "text": "Yummy"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zdFduSTRjRzR5UjFWRGVVeHlMWEpWTFVsRE5XYxAB",
+            "text": "The spumoni was excellent but their Scicilian slice of pizza was nothing to boast about.\nIMO"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGd01tZExOMVpNY1ZjdE1WUnFjM3B0TTJscWNXYxAB",
+            "text": "Growing up, I spent countless weekends at the original L&B location on 86th Street—it's been a part of my family's traditions for generations. Visiting the new DUMBO spot brought back all those memories and more. They’ve managed to deliver the same classic pizza and spumoni that made L&B a Brooklyn icon.\n\nThe turnaround time on food was quick once seated, though there was a short wait for a table. If you're planning to visit on a weekend, I definitely recommend making a reservation to avoid the wait.\n\nThank you to the team at L&B for keeping the legacy alive. It means a lot to be able to share the same experiences—and flavors—with my own kids that I cherished growing up. Here’s to creating new memories while honoring old ones."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVVREUTFUWE5sV0U5U2EzRjFTamhvUmt4WFVYYxAB",
+            "text": "Put our name down at around 5 pm and were told it would be about an hour wait. No problem. Then about 20 minutes later we get a call from the restaurant letting us know the wait would actually be closer to two hours. This is double what they said before, so it’s surprising, but we say okay. At 7 pm, we call to check on our table and are told that it’s actually ready. Except no one called us and we had to call to even find out it was ready. We get there and multiple tables are empty, with people being seated right away. Clearly the guy taking the “waitlist” just forgot about us and was seating people off the street without actually honoring their own waitlist system.\n\nThe service was a bit lackluster. We ordered a salad, meatballs and a pie. We received the meatballs first then the pizza almost immediately, leaving us no time to eat the meatballs without having the pizza get cold. The salad then arrived after the pizza, which is again not ideal as the restaurant should know people prefer to have their salad first.\n\nThe food is overpriced, but that’s somewhat to be expected from a touristy place. Meatball “side” comes with 3 fairly big meatballs that were juicy and tasty, paired with very basic and somewhat bland marinara sauce. The salad tasted good. The pizza itself was fine, but it didn’t taste as good as the original L&B location. By the time we got to it after having the meatballs and salad, it was lukewarm.\n\nIn all, I would not recommend dining in at this place. If you want to try the pizza, just get a couple slices from their counter service and eat it at the bridge. But if you actually want to try L&B true pizza, make the trek out to the original location because this Dumbo location is not it.\n\nWe ended up spending $100 after tax. Granted, the pizza is big but it’s still way too much for what’s mostly considered a casual spot."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCeFkzcHpkbEEzTldObVRrWXRSa3g0Vm01YU5GRRAB",
+            "text": "The best spumoni ice cream"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wM1pVMTZTRzlwT1hNMlpVWnhVRXhOUzBaa05GRRAB",
+            "text": "Una buena cerveza de barril, bien fría.  La pizza excelente,  llena de peperoni."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1Uk5rOXNaM1ZpTlVWUGQybFZhbGR2T0hoUmVWRRAB",
+            "text": "I took my friend from out of town to get some pizza and Jack gave us the best service and made us feel very welcomed. Thanks for spreading love the Brooklyn way Jack (Jacques)!! :)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWFMwbHVSblJHUTJZeGVWbFdaREY1UVZsc2JsRRAB",
+            "text": "Wonderfully kind and very very delicious!! They were so lovely with our young girls and offered things before we even asked, and the pizza was delicious! This has become a new family regular spot 🥰"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204eFdsQmtWVUYyUlVwUWVtMDJOWFpVYW5RMVpVRRAB",
+            "text": "$14 for 2 slices. Service was really good but the pizza wasn’t impressive for that price. Way too small of a slice and they were rushed in the oven. Barely heated and still room temp. The ice cream and Italian ice are also unimpressive. They taste like what you’d find in a college or hospital cafeteria - shipped in from a supply facility in some other state. But thankfully they gave cup filled samples first, so we didn’t waste our money on that too. If the pizza was $3 a slice and the ice cream was better quality I think they’d get a 4 star."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWck1tNDBaV3RJYW1wMGFsZDBhRTlUTFRkSE4yYxAB",
+            "text": "I've only picked up the Sicilian pie, it's a must order. It's some of the best pizza the city has to offer."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBeGFsOVZaa1JxZW1SRFgxWmFNMUpDTjNOalFVRRAB",
+            "text": "After a beautiful day in Dumbo with my family, we decided to head to L&B for dinner. We were a party of seven (four adults and three children), and as expected on a Saturday night, the restaurant was packed.\n\nWhen we approached the hostess stand, the experience wasn’t very welcoming. The hostess seemed irritated and, when asked about the wait time, responded in a scolding tone: “If you don’t have a reservation, it’s going to be a while.” It left us feeling a bit uncomfortable, almost as if we had done something wrong just by showing up.\n\nThankfully, a waitress named Danielle walked by at that exact moment with a smile and reassured us it would not be an issue. She quickly got us seated, and to our good fortune, she was also the one who ended up taking care of our table. Danielle completely turned our night around — she was warm, attentive, and made sure both the adults and children felt comfortable. She even went above and beyond to ensure everything ran smoothly despite the crowded atmosphere.\n\nWe did notice the hostess glaring at our table throughout the evening, clearly unhappy that we were seated. At one point, Danielle even assertively but professionally reminded her to calm down and just breathe. What started off as a horrible, insulting welcome ended with an amazing dining experience, thanks entirely to Danielle.\n\nTo management: Danielle deserves recognition for her professionalism and hospitality. At the same time, I hope attention is given to the way guests are greeted at the door. First impressions matter, and we noticed we weren’t the only ones treated poorly by the hostess that night.\n\nThank you again, Danielle, for saving the evening and reminding us why good service makes all the difference."
+        },
+        {
+            "date": "1달 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tORFZtdFhZMUIxV0hkWVl6Tk9VVlZaVEc5elkzYxAB",
+            "text": "Super restaurant italien proposant sur place ou à emporter. Nous avons pris deux plats de pâtes en sauce excellent et très généreux voir trop 🤣. Large choix de plats en tout genre. Nous recommandons les yeux. Seul petit point négatif, le restaurant est un peu bruyant dû au monde mais ce n’est qu’un détail."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kUFRuZzFWRUZLT0dwT1RGTnVkMU5ZYVUxcVVXYxAB",
+            "text": "Da buoni italiani a NY abbiamo scelto un ristorante italiano. Pasta ottima (De Cecco), cottura giusta, porzioni importanti (quasi da piatto unico). Personale molto cordiale. Super consigliato"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWRE1tMXFWbE0yYTJNdFkydFhkRzVRVUc5c01tYxAB",
+            "text": "Pros : vodka by the square, super sweet staff, fast, and clean.\n\nCons : just a hair off in favor than the og on 86th.\n\nNot enough to lose a star but it’s not as good as the original.  Overall still the best square in nyc."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0R2JHMVdURWx4VDE5ZllsWmhiVFZXVmtSQ1ZIYxAB",
+            "text": "One of the worst. They charged me $64 for 6 slice pizza. Who in the world would eat a soggy veggie pizza for $64? The service member was so inconsiderate, she recommended ordering the all topping pizza without saying each topping is $8 extra. Please avoid this place. Better give your money to anyone needy people instead of eating at this place"
+        },
+        {
+            "date": "2달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5NFJtVTFZbnBRZVhaMVJYWk9WbUZTY0hOclVuYxAB",
+            "text": "굉장히 친절했고, 새우가 미친 맛이었어요."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201eVVVVkdUR3BUUjIwd1VEWjRjRTl0VFc1UVJXYxAB",
+            "text": "Lowkey disappointing… workers very nice, but pizza was burnt at the bottom, a bit lukewarm, and not as flavorful as I wanted it to be. Knots dry too"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGVFFVcGFRelprTVZSZlJrYzVhVkJzTjJGemVVRRAB",
+            "text": "Best pizza I had in a while! Sicilian slices are amazing and their fried zucchini and spring salad are awesome. Definitely worth a visit."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOME0xTlZlbEZxVW5CVWEyWjFjV1JqVjE5VFltYxAB",
+            "text": "I can’t say enough good things about this pizzeria! The food was absolutely delicious — fresh ingredients, perfect crust, and so flavorful. The garlic parm wings were amazing! On top of that, the staff was incredibly friendly and welcoming, which made the whole experience even better. You can really tell they care about their customers. I’ll definitely be coming back and recommending this spot to friends and family!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oTVIxcERPWEpLVGpOdFUyNUtPVFpYVUV4SWNGRRAB",
+            "text": "Food was ok, I like my l and B on 86st better. Luie was great"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205SExVcHVNbVJyU21oZlQyMXlWMnR1TWtSdmQzYxAB",
+            "text": "Muy recomendable. Luis nos ha atendido genial y nos ha recomendado platos acertando en todo momento con lo que pediamos. Repetiremos en el proximo viaje seguro"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kRlIwNXpRVlpyTTJSak0ybFNlRWg1YlRsTmFYYxAB",
+            "text": "Food was great, we had the famous Sicilian pizza and mussels, and the spumoni ice cream was amazing.  Staff was so great, had good advice on what we needed to try and made our time in the Bronx so much fun."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pScVV6QlRNWGcwUmxWRlRGZEpjbXB3ZDJ4Q2JHYxAB",
+            "text": "Awesome pizza!\nI went by mistake looking for another pizza restaurant that’s right in front but it was already closed, then I found this one and it was such an amazing surprise! Very kind staff and service. Although the Sicilian’s one is their most popular one and it was very good, their mergherita was just perfect!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aaE5taFVSRkpQUW5KbGQxaEZaV1ZHWjBOalVYYxAB",
+            "text": "Sicilian is the best of the 2 I’ve had. They’re delicious and affordable there’s nothing much needs to be said."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SSFFsVlZiMjFRWVVkUExYZ3pTRTFYVEhWR1JVRRAB",
+            "text": "I visited the original location and wanted to see if this one held up as it is much easier to access.\n\nThey are know for their Sicilian pie, or as the waiter informed me the “good one.”\n\nIt’s definitely up there with the best of them.\n\nFluffy thick pizza with cheese on bottom and sauce on top.\n\nDefinitely will be back to this location since it’s much closer.\n\nWait staff was friendly, and service was fast."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoWlNHMTJjVXBYWjJWTGJuSTFObXhLZWpkSVUzYxAB",
+            "text": "Very good food, would eat again. 😋😋😋😋🍕🍕"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZMFRqRmlNRE5JVW0xR2NtUkNWVmwzY1RSS1NFRRAB",
+            "text": "I think their pizza and pasta may have been among the best I ever had. 10/10 would recommend."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psSFdWTklhbmc1U2pReGQyYzNiWEZRT1ZWMGJtYxAB",
+            "text": "Muy buena atención, la comida rica, i imposible salir con hambre"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oTlZFVkdNakZIYjIxdlZURnNlRkZFYVZaT1FWRRAB",
+            "text": "Recently visited Spumoni and loved the pizza-\n\nWe were recommended Spumoni by a native New Yorker and were impressed. The pizza slices were exactly what we expected when we thought of a NY pizza. Rich, creamy, big in portion, and just filling. The slices did have a bit too much grease for our liking, but nothing that quick napkin pat down couldn’t fix.\n\nThis restaurants location also makes it easy for you to get a box and sit along the river admiring the Manhattan skyline. Truly an unforgettable experience. Would highly recommend."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxalgwdHRWazVrV21Zd1JFOVdWbUpPZEdKSGRtYxAB",
+            "text": "I haven’t been to Spumoni Gardens in the last 10 yrs but have good memories of them. Decided to go to the one under the Brooklyn bridge since my wife was in the mood for some Spumoni. 2 slices of square pizza and one Large Spumoni. Over priced and pizza was not good. Spumoni was excellent. Great atmosphere and service was quick and friendly. Line for the restroom was longer than the line to order. I’ll still go back but only for the Spumoni. Have to get myself back to the one by Marlboro Houses."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWaVdtVnVXbll3VWpkUE9HUndiVU5TYlRacVNGRRAB",
+            "text": "I recently visited L&B Spumoni Gardens and ordered a few dishes to try. The Shrimp Oreganata with linguini ended up being served last, about 30 minutes after the first dishes arrived. I’m not sure if it was forgotten or if it just takes longer to prepare, but the wait felt too long, and by the time it came, I was already full. Unfortunately, the flavor was just average—nothing that really stood out.\n\nThe fried calamari, on the other hand, had a nice texture and was cooked well. Lightly crisp on the outside and tender inside—an enjoyable appetizer.\n\nThe highlight for me was definitely the World Famous L&B Sicilian Pie. It’s exactly what people rave about—thick crust, plenty of cheese, a nice crunch, and a rich, satisfying flavor. I tried the medium size, and if you’re visiting with two people, I’d recommend ordering one medium per person for a full experience.\n\nThe ambience is casual and feels more like a takeout pizza joint, but there are tables if you want to dine in. If you prefer something quick, they also have a bar counter where you can enjoy your order right away.\n\nService was okay—nothing bad, but nothing exceptional either. Overall, it’s worth visiting for the pizza, but be prepared for possible waits and manage expectations on some of the other dishes. I’d rate my experience 3 stars overall."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GUE5GQlljak4xY0V0WlgyVmFaRzQzTmtwcFVFRRAB",
+            "text": "I have no idea what the food tastes like from this particular Spumoni restaurant, as they now back-to-back weeks canceled my delivery order from seamless after making me wait for almost 2 hours on each occasion! I don't know who is responsible for this gross incompetence, Seamless or the restaurant itself  but this was extremely disappointing."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TmRsOWFkV05DUTFJd1gwaEtXVTVOVkRoTWQxRRAB",
+            "text": "Truly amazing Sicilian."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aRFgxVXlTakZQYkZkRE1HcHlhVzUxYTA1amNYYxAB",
+            "text": "Very loud, horrible food, waiter changed wine bottle to somebody else's, poor service, crappy \"decor\""
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214SlVtaFJUWGhNUlVKWlJsVnhOWEI1Y2tGclYyYxAB",
+            "text": "Family friendly casual dining. Service is always very friendly. Came with different friends on each experience and they enjoyed all the dishes, where I found them to be average, and red and pizza sauce was more on the heavy concentrated side, so not good for my sensitive stomach. They enjoyed the Sicilian pizza, baked clams, Caesars salad, malfade with sausage ragu special. The pistachios spumoni was refreshing!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLU1B2NlR3NlB1aThnRRAB",
+            "text": "Pizza is awesome and never disappoints!!! But for the first time I tried the seafood and it was so fresh and delicious! We had the seafood salad and the mussels. The red sauce was sooo good and we also tried the artichokes. Dessert was phenomenal, the Spumoni ice cream and the tiramisu was delicious. We didn’t have one bad dish. I absolutely recommend. Dominic our waiter was the best!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNRGJ0b3lweGNLQjl3RRAB",
+            "text": "L&B Spumoni is a classic spot known for its legendary square slice—and in my opinion, the best white slice I’ve had. It was my first visit, though my husband has been raving about it for ages. While there’s seating available, we opted for takeout and enjoyed our slices with a park view. Service was quick and efficient."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwek1UZGlXWFl5UVU4M05qUkJaVmhqYmw5bFlYYxAB",
+            "text": "We visited this place and were absolutely impressed! The beer was amazing — fresh and full of flavor. The pizza was outstanding as well: perfectly crispy crust, rich toppings, and just delicious overall. But what truly made our experience exceptional was the service.\n\nA special thank you to Jack — he's the kind of person who doesn’t just do his job, he puts his heart into it. When people like him are working, you can truly feel the difference. He brought real energy and care to the experience, and it’s because of people like Jack that you can really feel the spirit of New York. Thank you so much — we’ll definitely be coming back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjNWJXdE1SWE40TjFZNFFqVnFUbFUzTVVOdGNIYxAB",
+            "text": "The OG location has been on my list forever, just didn't get the chance to go yet. After trying the Dumbo spot, might not happen any time soon. While the margherita slice is good, it is not worth the $7+ price. Still bit soggy after reheat, taste not that memorable and slice on the small side. Sitdown dining area was packed though."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLR0ZwY3Y2NWNtNnhBRRAB",
+            "text": "I love the Sicilian slices from this place and it's what they're known for and they have been in this location for years. The sauce is amazing, The cheese is fresh and the crust is perfect. When I go I usually walk up to the window for my slices and there's a separate window to order if you want a whole pie. They have outdoor picnic tables and also have indoor seating but I've never used anything other than the outdoor seating. Overall this is an actual place of visit if you're a fan of pizza and you like Sicilian slices too like me"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4ek0zQnBkbTl2Tkd0WGRHd3hiak4yYUVKWFpFRRAB",
+            "text": "Stopped here for what I thought would just be a slice of pizza until my husband decided we should order a whole pie! We did half tomato and cheese and half buffalo chicken. The size of the pie was unreal and definitely apt for more than two people! We ate it straight fresh out of the oven and the quality of the ingredients was good.\n\nThe service was not the quickest but you should see how busy these guys are! All the ovens are fired up and on the go, and the manager was apologetic and kept us in the loop. Definitely would recommend if you are in the area. There is a table service section and they do offer pasta dishes as well as pizza."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQaXo4dWlPaXNfYzJnRRAB",
+            "text": "Had dinner here last Saturday with my bf and really enjoyed ourselves!  It's a straight up Italian-American restaurant with New York-style pizza, the famous Sicilian pizza, pasta, seafood, salads, heros, and spumoni - and there's a takeout counter as well as an eat-in dining area.  We ordered a Sicilian pizza with half marinara sauce, half vodka sauce and pepperoni, and the fried calamari, and were impressed with all of it.  The calamari was fresh and not overcooked and the batter was wonderfully light and crispy.  Summery and fresh tasting.  I really enjoyed it.  I'd thought the vodka sauce on the Sicilian pizza sounded sort of like a gimmick, but it was delicious!  And I'm happy to say the regular Sicilian slice lives up to its reputation.  We were too full to get pasta or heros or dessert, but will be back for more!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4dVRsRkxSakZrU21SV1NrRjFPVkJZVjBkdVEyYxAB",
+            "text": "Review: L&B Spumoni Gardens\n⭐️⭐️⭐️⭐️⭐️\n\nI had the spaghetti and fettuccine at L&B Spumoni Gardens, and both were excellent—classic, hearty, and full of flavor. The pasta was cooked perfectly and the sauces were rich and satisfying. Service was absolutely perfect—friendly, attentive, and quick without being rushed. Overall, a great experience that lives up to the hype. Will definitely return!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKaU9VRnBWMVpuV0dodldtZHNOMUEzWkcxUGRIYxAB",
+            "text": "Probably the best service I’ve ever had in a pizzeria.  My party went to the other L&B and had to make the 30 mins trip to get this location.  The staff were kind, accommodating and understanding - seating me immediately, giving me cold water on a hot day and even offered to give me a slice off our pie early since I was hungry and waiting.  As for the L&B pie - a crispy, thick, rich crust with a simple tomato forward pie that ultimately ends in a balanced bite of cheese, crunchy side crust and a pillowy savory tomato bite - as good as it simple.  Highly recommend."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jeE9YZFVaWFZIU0dKRU9GYzVaWEJtVFhneWVHYxAB",
+            "text": "The food and service here were amazing! My girlfriend and I walked across the Brooklyn Bridge and made our way here for dinner. It was the perfect place to come while hungry. We arrived for dinner and were seated in seconds, with servers moving around tables to accommodate us with a packed restaurant.\nWe ordered the garlic bread parmigiana, 2 of the world famous L&B pizza slices, and the rigatoni bolognese pasta. All the dishes tasted delicious, and we were stuffed by the end of it! The pasta was our favorite. It had some of the best bolonese sauce I've had, and the dollop of cream on top elevated it to a top-tier dish!\nOn top of the great food, the atmosphere was amazing and felt like a true pizza shop. And the service was amazing! I dont recall our servers name, but he was awesome, friendly, and helped us pick out a delicious dinner. He was always attentive to our table and quick to help and take our orders.\nHighly recommend this spot for a delicious dinner!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBeHJQMHZBRRAB",
+            "text": "This new spot in Dumbo and second location of the pizza institution is incredible! Everything about it is delicious, warm, and welcoming, with a big space that’s great for groups. Shoutout to the kindest, coolest server Rodney! Their Sicilian pizza is insane. Thick and doughy, unlike any crust I’ve had before, almost half-baked in the middle like a great cookie. Their sauce is sweet and comforting and their baked clams were delicious. Of course, you’ve gotta get the spumoni ice cream for dessert - its marzipan flavor and crunch is unlike any spumoni I’ve had. Can’t wait to come back to try their regular pizza, a salad, and more of that spumoni.\n\n5 stars!!!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMlVIcEJaREprV2tjemVtRkdOMmc1UmxSV1lYYxAB",
+            "text": "We had a giant salad and rigatoni with garlic and broccoli excellent I really wanted pizza but didn’t have room we also had the meatball appetizer and of course spumoni for dessert."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoUFdrRmlkalZUTUVGdGJHMXRWR1pJTmtoS05WRRAB",
+            "text": "The best pizza in NYC!!! Get a square and some spumoni (thank me later). I grew up in Brooklyn and we used to enjoy the pizza and food at their original location. This location in Dumbo delivers the same quality of food."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNzVuUkd3EAE",
+            "text": "Yummy pizza with great service. Staff was really accommodating and nice. I wish the toppings were baked in vs just topped over the base for individual orders. Calamari was great with just a light yet crunchy batter. Same as the mozzarella sticks."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJeU0yb0RBEAE",
+            "text": "My first ever NY style pizza & I got to try both the thin slice & their square slice.  I preferred the square slice, but both were very good.  The whole pizza is the large round.  Super friendly & funny staff.  There wasn't a long wait when we arrived either."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMlZISnNhRTF6YkhWaWVFVnRSRFpxZW1ZM1dXYxAB",
+            "text": "The food was good but the quality has fell off over the years. And when I went today I was met with a hostile server, he was treating the white guests better and looking at me and my girlfriend like we didn’t belong there, we are poc. While eating we were stared at by the server which made the whole experience uncomfortable, its like he couldn’t wait for us to leave and the store wasn’t even busy it was practically empty. He wouldn’t let us sit in the dining area because it was for “table service only” but let a group of white people who got the same order as us sit in the dining area. Just an uncomfortable experience as I’ve been going to their other location for years and have never experienced this. Avoid if you are a person of color… and too much salt on the pizza the quality in this location is horrible… just like the servers racist attitude…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJbjVfUnlRRRAB",
+            "text": "Food & experience was a 10/10. I had tried their original world pizza various times at their 86st location, quality and taste was the same at their new location. Me and my husband were satisfied. Shoutout to our waiter Jerry who made our experience phenomenal."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNbXhfYXEycHFQcUpnEAE",
+            "text": "I've wanted to try Spumoni Gardens for a while. I'm a big fan of Sicilian pizza, any pizza really, and I've heard great things. This new location was much closer to where I was so I came here.\n\nI've never been to the original so I can't compare, but this was an excellent Sicilian! Service was quick and friendly and the quality was fantastic. I also really appreciate the small counter to sit and eat at if you don't plan on dining in."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2NmZtRkF3EAE",
+            "text": "My husband and I have been loyal patrons of the 86th Street location for years, and it’s always been our go to spot for the best Italian American comfort food, packed with all the classic dishes everyone love. We were so excited to hear about a new location opening closer to home and couldn’t wait to try it out.\n\nThe pricing is very reasonable, portions are generous, and the staff is incredibly friendly, you feel right at home the moment you walk in!\n\nSince this location is newly opened, they’re still finding their rhythm, so you might encounter some delays, a few minor issues, and a more limited menu for now. That said, I know how amazing they’ll be once everything is running smoothly, so I plan to give it a couple of months before returning.\n\nIn the meantime, I highly recommend to stick with their pizza, rigatoni with vodka sauce, and baked clams."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VLSzJ5cFNqbWJfcUdnEAE",
+            "text": "A wonderful addition to the Dumbo restaurant scene. We had a fun Saturday Lunch with a large family group.\nThank you all ."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJU3B4NF9Yak02UlhnEAE",
+            "text": "So happy to finally try their 2nd location after being a diehard fan of Spumoni’s since 2012. Let me just say this, they didn’t disappoint!  Took my best friend here and he remarked that this location was even better than the first one. The dude was in heaven with every soft, crunchy pillowy bite. The chef’s kiss in the end was obviously the Spumoni trio flavor dessert.  Now I can easily access Spumoni’s by ferry into Dumbo vs. a 2-3 hr trek towards Coney. LFG!!!  💪💪💪🍕🍕🍕"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2Z3UyMTd3RRAB",
+            "text": "Pretty wild that you cant add toppings to the slices. Went in just now and was told youre only able to order plain squares or plain round pizza slices. I’ll come back sometime to sit down for a full pizza but today was just looking for a slice with added sausage or mushroom etc. That’s a pretty bizarre policy to not allow toppings on the slices, gotta say. We did try a couple weeks ago just after they opened the plain square slice and it was really good.\n\nSecond visit: this place shines on a dine-in experience. The service is fast and friendly, seating is comfortable, everything is well lit. They have a full Italian food menu. The fried zuch and arancini were awesome. I think its best to dine in here. The takeout is fine too for slices. But again downside being you cant add toppings to any slices."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kcmRUVlpVVzVVYldjeE9UbFdSMEp6YjBReFpFRRAB",
+            "text": "The best square pie in NYC period. Perfect balance of crunch & airiness with every bite. Highly recommend and they just opened a new location on the other side of Brooklyn!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnNFVVWjNUbWh2UTJoMmRVOVJRMjFSUVdkdGFIYxAB",
+            "text": "Let me tell ya’ll somthin’! The famous L&B Sicilian pie is my roman empire that I’ve been thinking about for like the last decade since the last time I had it 😅 so when my friend and I went to NYC for my birthday today- WE HAD TO GO BACK! We made it to the newer location and from start to finish it was fantastic. First off- DANIELLLAAAAAAAAAA set the tone and made the experience a total mood!!! An absolute sweetheart as well as her dad who I’m assuming is the manager/owner of some sort- Making sure the whole experience was amazing and a fun personality. Our waiter was a peach too! Ty for letting us order last minute calamari w no judgement 🤣🤣🤣💖💖💖  TY also for the spumoni ice on the way out for my bday too!! Cant wait for the fam to eat the catering amount of food I brought home too 🤣🤣🥳🥳"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGM1Izb3pWa0Z1VDBGaVVHdDJaV2gyYUhCV01HYxAB",
+            "text": "I was in with my family on Friday night. Dom was our server. What a great guy and server. His service is top notch. His attention to detail and making sure all our food was coursed correctly and we didn't feel rushed. The dining room was packed and Dom made us feel like we were his only table. The food was outstanding. The penne vodka with the peas and mushrooms is a must. The halibut special they had that night was so fresh and delicious. We took a half tray to go since we didn't live close. I hope the next time we go back Dom is there. The place is done nice and modern. The only thing I suggest is to have something to absorb the noise from everyone else talking."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnNXB5aS13RRAB",
+            "text": "All the classics at this traditional Italian restaurant are great. Try the arancini balls, the chicken Marsala (to take a break from all the red sauce) and of course, their traditional Sicilian square. Pretty casual setting with a counter service on one side and full service on the other. Service was good when they actually came to the table. Something was going on that night that was very distracting to our waiter, so I'd give it another chance."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VKaWdvTEdGaFk3TklBEAE",
+            "text": "Pizza is fine. It does not compare to the original location unfortunately. The pies are underbaked and have a layer of undercooked dough right below the layer of cheese. Something has to be off with the ovens, if they left the pies in the…"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBNDhxRnZRRRAB",
+            "text": "I have been going to the original L&B since I was a kid and I’m SO happy that they opened a location in Dumbo so I don’t have to make a journey out of getting my favorite pizza. As soon as I walked in I was greeted by the kind staff who treated me like an old friend and even gave me a cup of spumoni while I waited for my pie. The pizza at this location is the exact same as the original location, and it’s my favorite pizza in NYC by far!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvbDZpNGR3EAE",
+            "text": "Fantastic legendary Sicilian pizza that is finally in Dumbo.\nI hope they get Italian ices for the spring/summer months. My only other suggestion for them is to offer half vodka and classic pies as I think that would be a home run."
+        }
+    ],
+    "reviews_count": 80
+}

@@ -1,0 +1,523 @@
+{
+    "name": "Brooklyn Bridge Bistro",
+    "place_id": "ChIJS7SXB0pawokRHgpV2LXWhBI",
+    "grid": "BK2",
+    "address": "63 Tillary St, Brooklyn, NY 11201, USA",
+    "rating": 4,
+    "user_ratings_total": 703,
+    "phone_number": "(718) 858-0007",
+    "reviews": [
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aQ1VYWlFibmhoZDBKWWJXbzViWFEyTXpkYVpVRRAB",
+            "text": "Very yummy food and great service!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prMlFuWndUVmcyTkRkNk5XNVFORWRvYUc5dVpXYxAB",
+            "text": "Brooklyn Bridge Bistro is a solid choice if you’re looking for a relaxed, casual meal near the Brooklyn Bridge area—especially for lunch or brunch. While it may not stand out as a top‑tier culinary destination, it offers comfortable surroundings, decent food, and a convenient location. If you’re after peak service or the best value in NYC, you might keep expectations moderate.\n\nEstimated Rating: ★★★★☆ (3.8 / 5)"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwMFgwVk9YMjlVWjFsbWVGQjVjRFZKVVU1eVozYxAB",
+            "text": "Our waiter Dave, was also the maitre'D, the cook and the owner.  A Friday night with plenty of diners, yet the restaurant ran smoothly and efficiently, some help called in sick.  The inside is very well done, plenty of room between tables so never sounds loud. All pasta is home made and yes, you can tell the difference.  Our food was plentiful and delicious. We ordered Fettuccine Pescatore and Fettuccine Salmone with calamari appetizer. Wine is offered only from a NJ vineyard, so Dave made us a very tasty sangria.  I would have brought my own had I known it was BYOB. The dining experience was excellent and we plan on returning."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205VmJWOHRXbFZMYlROVmExUTVPVWR5UjJoRFpGRRAB",
+            "text": "Good service, average food."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxT2EzRlpkMlZYV0hGUmRGaGpRWGxJZWxGMmQwRRAB",
+            "text": "Everything was Amazing. Food very tasty. Personal very kind."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjeE1FWlNSM1ZhZEU5eWF6UkNkV0l6ZFhGMWMxRRAB",
+            "text": "Unfortunately staff wasn’t particularly friendly, I felt very uncomfortable while getting a drink for take away.\nAlso, my drink was overpriced."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twVmMzZFFVM05VYkdKTGFuVlpWak5MTUdsU0xWRRAB",
+            "text": "Came here recently, my friend ordered the french toast and he received the avocado toast. The food I ordered was good though beware, it seems they are adding the tip baked into the bill, and other reviewers on other platforms such as yelp are reporting the same. There is a separate line for tip as well at the end and the bill is not itemized as including an included tip. The service was also very slow though I had come in the morning working hours."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGWGRHeHpiRXRmU0hWb1UxUnRkalJqVjJ4NlVtYxAB",
+            "text": "AMAZING STEAK AND EGGS, lovely service, great music! Thank you.  Large and amazing menu! A must to stop in!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwNGVtZGpjbk10Y1VSMk9GQTNhWE51Um5KVlZrRRAB",
+            "text": "Loved this place. The food was fresh, hot and very flavorful. The chicken sandwich is a stand out and the home fries definitely exceeded expectations with finely diced peppers and onions and spices."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WWlNWbFJVWGRqU0c0emVFdGFaa1o2TFVGcFRVRRAB",
+            "text": "My husband forgot his phone there. Staff helped us to find it.\nThank you again"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SSVRHcFlYM3BJT0VwUkxYaGpUM2RSYTBsNGMyYxAB",
+            "text": "horrible experience. had a few questions about their drinks and it was the end of the world for them. absolutely horrendous service and the owner should be ashamed of how their establishment is being ran. blatantly ignoring customers. all because i asked what grade of matcha."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201UmIybGpibVJQTUhWVk0wMXBURWRRVmpVNE1tYxAB",
+            "text": "The food delights consistently and service enhances the experience. The team was cordial and quick to address needs. It sits in a good place with a welcoming team. Their food quality exceeds expectations consistently. I plan to revisit and explore more menu choices."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205cGNHbHhaVFZWTFMxR2JETjFTa1JxWTB0TFVFRRAB",
+            "text": "Medium-sized restaurant with decent waitresses. Sofia, was very attentive and friendly. The food satisfied. The menu was small and the wings were not that great. The chicken sandwich was pretty good."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjMWRVdDVkVE5LVmtaTWR6UldXblJLU2s5R1NGRRAB",
+            "text": "Perhaps the worst meal I’ve ever had at a restaurant. I arrived around 12:30pm on a Tuesday and opted for the breakfast menu. Nothing fancy - scrambled eggs, bacon, potatoes, and toast, with an unsweetened iced tea. The ice tea arrived with so much lemon (which I did not request) that the first sip was lemon pulp, seeds, and water. After about 20 minutes, my food arrived. I’m assuming these were powdered eggs (they didn’t look or taste like real eggs) that arrived cold. The bacon and potatoes were thrown in the fryer - bacon was crunchy/burnt and the potatoes were crunchy on the outside and mushy on the inside. And the toast was coated in some type of oil (not butter, I’m guessing the oil they use for the grill). This lovely experience costs $25.99!! Based on the other patrons and location, I’m guessing they stay in business by being the only place to eat right at the end of the Brooklyn Bridge. Do yourself a favor, walk a few more blocks and find anything else."
+        },
+        {
+            "date": "3달 전",
+            "language": "cs",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSNU5sSjRSRU5UTkhsZlVsQTFTa055ZGpGemEwRRAB",
+            "text": "Jídlo perfektní. Mínus je Americký návyk - automatické započtení zpropitného."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sNFdISlJSMkZ6TjJNMGRqTkRWMU5VZFRSMFRsRRAB",
+            "text": "Our group just wandered in for a quick drink.   Two small beers, a glass of orange juice and two glasses of water and we ended up paying $50 for this.  They automatically added 20% gratuity just for bringing us these to the table.  Personally I\ncannot stand when they add gratuities especially for a 5min stay and hardly any service."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aRk5IQmhVR2d0Wm1GNWFXNUNTVUkyYW1WdFQzYxAB",
+            "text": "Receipt didn’t show itemized : it just show total and tip line  . As the total was too high, I asked itemized receipt; it included forced 18% tips and card fees but receipt didn’t show or never explained.  Terrible service and only total receipt with tip line even though total already took forced tips. Terrible service; coffee spilled but never sorry not clean; I was still drinking coffee but he took away after I asked water . no water service unless you ask. Just went there  because too tired after bridge walking.  Never recommend."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWUWNGbElibEJoTlZWbWJXaE1aV0ZpWDFoSlRIYxAB",
+            "text": "Loooove this place! Y family are regulars and there’s nothing you won’t enjoy!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GWE0xWlVZalppZUhsdFVGODBPRWt4ZWs4elRrRRAB",
+            "text": "They keep bringing out fountain cokes but don't say they are charging you for each refill $5. Also tosses in 18% gratuity and an additional 3% credit card fee"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5elZrUjVPVlUyUW1OSk9GQnRNM1pHT1VKQlJuYxAB",
+            "text": "This was the best, crispiest chicken sandwich I’ve had in a long time! I will be back many times"
+        },
+        {
+            "date": "4달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSFFrUlBhVmRCVGxseFZHWmFka1J4TWpoNlJsRRAB",
+            "text": "Cibo gustoso e di qualità! Se venite al ponte di Brooklin e avete fame, fermatevi in questo ristorante....consigliato!"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205SmIxOVZja295YjFkalkwZGxWMWQ1VDI1M1JIYxAB",
+            "text": "Tuve la oportunidad de ir en 2021 y fue lo mejor, el chocolate que venden es 10/10 los mejores, cada ves que iba al puente brooklyn pasaba a tomarte uno"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGV2MzcFRVR3BpV21WNVYwdzJablpWUlVabFVVRRAB",
+            "text": "Hands down the best French toast I’ve ever had!\nPerfectly crispy on the outside, soft and fluffy inside, with just the right amount of sweetness.…"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKajl6UGlpZ2RyTmp3RRAB",
+            "text": "Very nice place in Brooklyn. Food is great, coffee amazing, service is professional and very friendly."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNSGc3S1BMeXVuNmVnEAE",
+            "text": "First time here and I’m genuinely impressed! I had the Grilled Caribbean Salmon Bowl — the salmon was perfectly cooked, flavorful, and so juicy. Every ingredient tasted fresh and well-balanced. The drinks were a highlight too — super refreshing and clearly crafted with care. It’s one of those places where you don’t just eat, you truly enjoy the experience. Can’t wait to come back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VQNnN2Yi1BNk5hbW13RRAB",
+            "text": "They charge me for the ice! Dont go there!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQR1MtWUdOMlp6QmFREAE",
+            "text": "Love the food and the hospitality is even better! Great view of the BK bridge entrance too."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQWFZ6cnlKNWItNjRBRRAB",
+            "text": "10/10! The food was soo fresh and customer service was phenomenal! They consistently made sure my food and experience was good! The ambiance was very pleasant.\nPS: their chai latte is sooooo delicious! I get it with oat milk!!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURveGVLZWhRRRAB",
+            "text": "Cozy, warm. Good place to hangout with a friend you havent seen in a while."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvOXNDbUZnEAE",
+            "text": "Nice place, pricey but everything is fresh and made on premises!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdEpQVUNnEAE",
+            "text": "I've been here a few times now. The food is amazing. Honestly- one of the best homemade black bean burgers I've had in a very long time. I'm so sick of Impossible burgers at restaurants, so this was a pleasant surprise. The omlettes are also killer. The atmosphere is not my favorite, kind of feels like cafeteria meets restaurant but, outside of that, the service is super friendly and the food has been spot on each time."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJemUtclJBEAE",
+            "text": "Chai and fries are fantastic"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3cHJyLWN3EAE",
+            "text": "Today is Tuesday and they only serve breakfast from 1110am. The server lets us in around 1050am and we are able to order coffee first while waiting for the chef 😝…"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3LWVEZ3FnRRAB",
+            "text": "Maybe we ordered the wrong things, but this place was only so so. Toast made both plates bland, which would have been ok if it weren’t so pricy. Home fries were really just roasted potatoes, decent but I liked those more crispy. We were a party of 2 but they automatically added gratuity. Oh! Caramel macchiato was truly 3/5 stars. Not terrible, just no wow factor. Service was great though! They were very kind."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnbE5IRWdnRRAB",
+            "text": "The food here is amazing and the servers here are so sweet. I would absolutely recommend coming here it’s right next to the Brooklyn Bridge."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfNXRua193RRAB",
+            "text": "Nice"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmdzZYX1RREAE",
+            "text": "Every dish I’ve tried here has been incredible. The restaurant offers a cozy setting with great food and a fantastic drink menu."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmdzZqalpBEAE",
+            "text": "A delightful experience every time. The dishes are always well prepared, and the service is friendly and efficient."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmX2VmRWdRRRAB",
+            "text": "This place never disappoints! The food is always fresh and flavorful, and the service is top-notch."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmdFlYZkdBEAE",
+            "text": "From the moment we walked in, we were treated like family. The food was fantastic, and the atmosphere is perfect for a relaxed meal."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmdGVxZnFnRRAB",
+            "text": "This place is a total gem. The food is consistently delicious, and the staff makes sure you have everything you need. I highly recommend it to anyone!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmMWVIcHlBRRAB",
+            "text": "This restaurant is a local favorite for a reason. The menu offers great variety, and the food is always fresh and well-prepared. Highly recommend for any occasion."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmMVpUZ1d3EAE",
+            "text": "Fantastic food and even better service! The variety on the menu is impressive, and everything we tried was cooked to perfection. Highly recommend for anyone in the area."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmMWVDRnhnRRAB",
+            "text": "A delightful dining experience! The atmosphere is welcoming, and the food is bursting with flavor. The service is top-notch, making it a place I'll be returning to often."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmbFk3STVBRRAB",
+            "text": "Impressive and tasty. The dishes are well thought out and delicious. The flavors are vibrant, and the service is exceptional. Highly recommend the mac and cheese!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmbFpEU2VnEAE",
+            "text": "Always a great experience. I’ve been here multiple times and every time is a pleasant surprise. The quality of the food and the attention to detail never lets me down."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmc1pqOUx3EAE",
+            "text": "Had dinner at this wonderful place, very tasty steak and pasta, very attentive service, thank you for the delicious food and good mood, I will definitely come back! Thanks guys"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNma2NudzdRRRAB",
+            "text": "This place closes when it wants to. Showed up at 7pm and told the were closed when the hours said 8:30"
+        },
+        {
+            "date": "10달 전",
+            "language": "fr",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmd2Mtak13EAE",
+            "text": "ATTENTION LES FRAIS !!! 8$ SI VOUS PAYEZ PAR CARTE !! +45$ DE FRAIS DE POURBOIRE !! LA CARTE ET LES PRIX NE SONT PAS LES MÊMES !\nRESULTAT : 6 BURGERS 250$"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2XzVDbktBEAE",
+            "text": "I was hoping to have lunch here and finally I had to order my dinner in a restaurant nearby."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiM0xtRmtRRRAB",
+            "text": "While visiting the area a heat wave hit NYC. We have been multiple times and had never walked the Brooklyn Bridge. On this visit nothing was going to stop us. So in the blistering heat we started our trek across the beautiful Brooklyn Bridge. About half way across we ran out of water but kept on into Dumbo for that iconic picture but first we stopped at the Brooklyn Bridge Bistro!! We immediately ordered water and wings for the table. We immediately downed those cups of water. When we explained to the waiter that we would need lots more ice and water and that we would top well for the service they heard us loud and clear. The service and care they displayed was above and beyond! They even refilled out yetis with ice and water for our way back. My daughter also developed a blister and they had a bandage for her. If we weren’t so sweaty I would have hugged them all. But we gave them a loud thank you sooo much in our way out!  They food was amazing! The service top notch and they left us with an amazing memory!!! Thank you again guys! We appreciate you!  Lots of love from Canada!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3dnVhSzJ3RRAB",
+            "text": "The food is Absolutely delicious!! It's a laid back atmosphere, with great service. Prices are very fair. The kale salad is to die for, the mac n cheese is the best ever, and the chicken tenders are juicey and super fresh!  I'll be coming back :)"
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2bmRTY3pnRRAB",
+            "text": "Muy cerca del puente de Brooklyn este restaurante ofrece una carta con diferentes aperitivos y hamburguesas. Buen lugar para picar algo o comer aunque los precios me parecieron algo elevados para el tipo de comida y ese día nos dijeron que no podíamos hacer pago con tarjeta virtual."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3dzZETWFBEAE",
+            "text": "The atmosphere is very much a homey diner. The sparkling lemonade is well balanced where the sparkling water is not overly carbonated, and the tartness of the lemonade is sufficient.\n\nThe creamy chicken pasta is well-cooked, with the chicken texture being tender, and the noodles being well-cooked — not too soft nor too tender."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUR0NzdFZBAB",
+            "text": "The Buffalo wings were good. Loved the parmesan truffle fries. My colleague said the burger was really good.  Our service was very nice.  No complaints over here.  I'll be back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0cmJpTmFREAE",
+            "text": "An unforgettable experience awaits at Brooklyn Bridge Bistro, and it all starts with their iconic burger. The moment I sunk my teeth into their perfectly grilled creation, I knew I had discovered something truly special. The blend of premium ingredients, from the juicy, succulent patty to the fresh, locally sourced toppings, is a testament to their dedication to culinary excellence. Each bite is a symphony of flavors, leaving a lasting impression that lingers on your taste buds. The cozy ambiance and attentive staff complete the picture, making every visit a culinary journey worth savoring. If you're a burger aficionado seeking a genuine and exceptional dining adventure, Brooklyn Bridge Bistro is the undisputed destination."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwdnBXWWVREAE",
+            "text": "Overall, I had an absolutely fantastic time at Brooklyn Bridge Bistro. Everything about the eating experience was excellent, from the welcoming and cozy ambiance to the delicious meal and attentive service. Anyone searching for a fantastic…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMeDVyVzhnRRAB",
+            "text": "Awful service. Our spoon was dirty. We ordered flourless chocolate cake and waited for more than 20 minutes but it didn’t arrive. Other tables who came after us received their food but we couldn’t get our cake which didn’t require any cooking/baking. If you just walked over the Brooklyn Bridge and are looking for a place to eat, find another restaurant."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnNC1XeUdBEAE",
+            "text": "Good place to stop for breakfast after a morning stroll from Manhattan across the Brooklyn Bridge.  Very convenient location as you exit the foot of the bridge.  The wait staff was very friendly and quite attentive.  The place was clean and the food was good.  The french toast was yummy :-)"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNaHVLek5BEAE",
+            "text": "Brooklyn Bridge Bistro feels like a very special place, hidden away in the corner of an Brooklyn Bridge left side on the  exit .Once you enter, you're transported to a friendly NYC. The service is friendly and attentive, and the food is authentic and delicious. First time visit but very busy and popular ..."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZNnRDeFBBEAE",
+            "text": "Food was good, but very expensive. They charge 18% on the bill. On the menu it said cappuccino was $4,5 but when we got the bill they charged $5,50. When I asked about it, they just said “ah yeah think we changed the prices so yeah ...” breakfast was $40 for the 2 of us..."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZdTlQRzhBRRAB",
+            "text": "Nice place to eat before or after the bridge. The pasta comes in a beautiful bowl, (there’s more than that) very delicious. My boyfriends pizza was soft for my liking."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtb3JHZDBBRRAB",
+            "text": "Stopped here before our walk across the bridge. At first just went in for directions from who ended up being a very helpful and friendly staff person. Ordered some cocoa for the cold NYC day. It was both beautiful and tasted AMAZING! Next time I visit NYC, will be sure to visit again."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJdzZ6cm1RRRAB",
+            "text": "I got the artichoke dip and it was good. The bread was hard but I like it, the service wasn't all that great. I'm not sure if the waiter was new but, walking back and forth like a security guard was annoying. He didn't check to see if I…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPMGRXWkJBEAE",
+            "text": "Lovely ambience, the service was excellent !!! The food was superb !! I don’t usually finish a burger but this one I hogged it like a beast ! The fries crisp on the outside and moist in the inside that’s how I like it .. the black bean burger was amazing with the fresh side salad .. I’d go again if I was in US !!  Thank you"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCM3FXdUtBEAE",
+            "text": "The food is delicious, the tea is comforting, it is seen that the restaurant is popular since there are many customers. I liked the chipotle sauce. I recommend it and I would go back for a mac & cheese"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZOTlhQlBBEAE",
+            "text": "The southern chicken sandwich and greek salad was amazing, but definitely ask for avocado for your salad; it will change your life. The sweet potato fries that came with the sandwich was one of the best sweet potato fries that i had in a…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXMTd6STJRRRAB",
+            "text": "I had Breakfast after taking a Walk over Brooklyn Bridge. Their food was amazing and staff were very friendly. Would highly recommend and I would defiantly be coming back again!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVc2NHM3ZnRRAB",
+            "text": "I was looking for a place for breakfast before I started my trek over the Brooklyn Bridge into Manhattan.  I came across the Brooklyn Bridge Bistro.  It’s conveniently located at the foot of the Bridge on the Brooklyn side.  The decor is very nice and different.  Now, the waitress was very sweet and kind.  I ordered eggs over easy and home fries with chorizo.  It took awhile for a simple plate as such to come out.  The eggs came out over well done.  And the chorizo was cold and a bit tough.  The home fries were pretty good and my white toast was a tad hard.  For the price you pay and the amount of food you get, doesn’t seem like a good deal.  But I will say the OJ was ice cold and pretty good.  I can’t speak about anything else on the menu, but I can think of a lot of other places in downtown Brooklyn for a much better breakfast.  It was ok, but not for what you pay for."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVa19fZ2pBRRAB",
+            "text": "This place was great. The area was clean/beautiful and the staff were amazing. My fiancé and I shared a charcuterie board and got a drink before hopping onto the Brooklyn Bridge, which the entrance was right out side.\n\nI highly suggest going here for a nice bite if you're looking to cross the bridge or just enjoy Brooklyn."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXM2Zud19BRRAB",
+            "text": "Nice place and nice service.\nBut a little bit expensive for the quality and quantity of the dishes."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNicS1mbG5BRRAB",
+            "text": "I found the food to be decidedly mediocre. I would not consider it a good value for the price. My $17 breakfast would have been a good value if it had cost about $7. I can accept bland if it's cheap (I love a good cheap diner), but it's frustrating to pay so much for eggs that are lower quality than I can make at home. The $8 latte in a tiny coffee mug didn't help, either.\nServers were decently friendly and that is a plus, at least."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3MXVYUTZnRRAB",
+            "text": "The staff are extremely kind and helpful. They open the door for you and help carry the children’s stroller up the step! On top of the impeccable service, the food exceeds expectations. Highly recommend."
+        }
+    ],
+    "reviews_count": 73
+}

@@ -1,0 +1,558 @@
+{
+    "name": "SCALINO GP",
+    "place_id": "ChIJ37V_SERZwokR6MN2ktjYBLQ",
+    "grid": "BK1",
+    "address": "659 Manhattan Ave, Brooklyn, NY 11222, USA",
+    "rating": 4.5,
+    "user_ratings_total": 442,
+    "phone_number": "(718) 389-8600",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Fd1UwcG9hRVF6Yld4bmVXaE1XVU51VlVNNGNFRRAB",
+            "text": "Great wine, but 14 a glass, bread was suprisingly lack luster considering the prevelance of so many amazing local bakeries, the olive oil is very bland, huge disappointment, olives are also very bland tho I wasnt charged for them! :) I only recieved 7 of them =( ,\nBruschetta was unfortunately 86d during lunch, which was the reason I stopped in and I was super excited for jersey tomatoes, ill be back to try !\nThe Artichoke was enjoyable, felt homey and rustic, only wish they'd consider the removal of Parmasean and add a little salt.\nUpon exit I asked if Bruschetta would be available for dinner, expecting to hear \"of course\" but they looked at me and said.. \"hard to say\" and walked away. Lol not the best way to keep anyone coming back. It seems the hospitality here is non-existent which left me feeling like more of a disturbance then anything else, sinceriest apologies, for the bother!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5RVFXd3pVSGRhZVVodk9WTjNiVTE0YWpsa1UxRRAB",
+            "text": "The line is out the door at Forma Pasta Factory, and you can just walk straight into this place. I’m selfishly hesitant to write this review and change that, but Scalino GP is legit!\n\nThe bolognese is one of the best I’ve ever had. Lamb shank absolutely killer. The broccoli rabe was the only thing I wasn’t a fan of but I was in the minority on my table!\n\nAnd the tiramisu, while not as wet as some (the sponge was on the drier side), was still absolutely delicious. Looking forward to coming back!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "lt",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psNFRETlpSV1pEWlVndFVrVlRjRXM0ZFVoMFUyYxAB",
+            "text": "Maistas tragedija! Pusgaminiai…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3MWJtbG1OalJwTlZkc1RYbzRjazEzVEZGMVJYYxAB",
+            "text": "Used to like this place and went often.. and thought it was run by good people, but won't be returning because of the way they brushed us off with a very confusing and unsettling interaction.\n\nUnfortunately they ripped us off tonight...\nI think online pricing should reflect (or be higher than) the price you get when walking in or calling for pickup. So I called to do an order instead of through an app, thinking this was also helpful to the restaurant for them to avoid app fees as well.\nHowever, when picking up, then charged us 35% more for the order than the price online. When we questioned it, they stated first \"those are old prices\". Then, only when I challenged them after stating that I could order right now at the lower price through their website, they changed their story to \"online pricing is cheaper, order there next time\".\n\nThey also didn't provide an itemized receipt. This just generally makes no sense overall and feels a bit sketchy and made us feel scammed. They could've easily seen the issue and chosen to correct the mistake on their side with a refund of the difference. Instead, they've chosen to lose previously loyal customers."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKeWIwUTNVRGRDUjBKRGRWVkZSMmh0VGpRMmExRRAB",
+            "text": "Excellent pasta quality and great service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204M2N6aDBYM2wyVmtod09XcHRiVWxOUTJoTWRuYxAB",
+            "text": "Stunning meal. Simple, no frills, Italian. Each dish was spectacular especially the Artichoke salad."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTE1sWm1NRTVNYWxSc1dESjVZV2RPUlZCS1oyYxAB",
+            "text": "Food is great. There are more upscale Italian spots in the neighborhood but Scalino is casual and the staff are fun"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWalRsbHRZMUZUU0VFeGFIQnFabEJyWTNsaVltYxAB",
+            "text": "Kind staff, incredible food, and warm atmosphere."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aeE4zWXdaMWt4ZGxBd0xUTnpWMmxJYkMxS1gyYxAB",
+            "text": "This place is Amazing food is excellent"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sSVVHbDFaVzlrYlhST1RVWkdkalo1YUhoNU9YYxAB",
+            "text": "Service and food 10/10, definitely coming back 😆"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWVkwVm9ka0U1V1VwUFdVSlhlWEZwYUMxbk9FRRAB",
+            "text": "The service, food, atmosphere was a 10/10 experience. Super underrated spot. Real authentic quality ingredients. Definitely will be back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toNVNtNXRkVFYzWTJ0UWFHeGZaVGhUVDNWMFduYxAB",
+            "text": "Food was AMAZING definitely coming back 🙂"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paMmRYbFhRamREUVhacE1EZDVSRkZtUjBJeVQwRRAB",
+            "text": "While I have barely had a small percentage of their expansive menu, I’m convinced there’s not a single miss in it. Every dish is just better than the last, with quite generous portions.\nFrankly, ever since trying Scalino I haven’t even thought about going to that other pasta place around the corner.\nAnd the service? This is the real “when you’re here, you’re family” the way everyone in there treats you as if they’ve known you forever.\nThe only weird thing about this place is that they give you the menu in an iPad? Not like you can order from the iPad, they just give you one to look at the menu, which is very off-putting but worth to ignore for everything else."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVVJsZDFTMWxHYmtkelQxaExVamxYYzFWeVdFRRAB",
+            "text": "Everything was so fresh and tasty, went to little Italy the next night and little Italy couldn't hold a candle to scaliño,'s"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vNU9FdDNkQzE0ZVRGMmMzbEdiRVpQVFdOWVJtYxAB",
+            "text": "Excellent and authentic Italian dishes!!! Everything is delicious here. Excellent service..! You have to come and experience it. I will upload photos. Stay tune ;)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200MldHWm1lSGxZYTNCb09DMDFXak5vWm5sMmRtYxAB",
+            "text": "Waited nearly an hour for 2 bowls of pasta and a salad. They said there was a problem in the kitchen after we waited 35 minutes with no food and asked where it was. Clearly they never put in our order. Super loud inside despite there only being 2 other parties. We saw people come in after us, get food, eat, and leave while we waited for our food to come out that was \"coming.\"\n\nUpdate: when finally got to eat the food, it was delicious, although the portion size was TINY. Really small portions. 2 pastas, 1 salad, 1 soup, and 1 bruschetta cost like $150 and there were like 5 bites worth. Very yummy but over priced small portions and bad service. Won't be back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwMU4yaEZWamQzTWxCalIxZHdNalZyYUVsTUxVRRAB",
+            "text": "Got dinner here with my family and was pleasantly surprised by the quality of the meal. The artichoke and arugula salad was fantastic, and the homemade gnocchi was some of the best I’ve tried. The decor of the place belies the great food inside. Also, the service was top-notch. I will definitely be coming back."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VNSGkzUHptN002WXl3RRAB",
+            "text": "The rice was raw and dishes were too oily, disappointed"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPMkZ0T212MHFlY2R3EAE",
+            "text": "SOOOOOOOOO good! I understand all the hype now. I love how cozy it is, a true mom and pop restaurant through and through. Their dishes are FIRE, all the pastas we tried were amazing (I’d say their gnocchi dish is the best I’ve had in NYC). Beats all the other fancier Italian places I’ve been to.\n\nOnly problem is it is super popular, so could be super hard or a long wait to get a table, especially during weekends. However it’s worth the wait for sure.\n\nDesserts were also very good, especially the panna cotta!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLVGJ2Sm5Lek9XbXRRRRAB",
+            "text": "Stopped by for the lunch special and the server and restaurant staff were so attentive and caring, even though I was dining solo. Pasta lunch special was delicious and filling!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VPLW1rTWlPN1liOGVREAE",
+            "text": "Delivery to mahs late"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VNZmF5cW40b05PYlZ3EAE",
+            "text": "Behave not good"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJV3Y5OVhnZ3RUT09REAE",
+            "text": "Very disappointing. Took over 45 mins for 1 sub-par pasta dish. Portions were very small too especially for how pricey the dish was. We ordered the truffle pasta and it didn’t taste anything like truffle, just felt like the poured heavy cream on top. Def better pasta places in the area"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMYUQyWnlFOTVEdXVRRRAB",
+            "text": "Absolutely loved this cozy little unassuming Italian restaurant. Such a cute vibe and very authentic Italian dishes. I got the bacon and tomato cream pasta which was delicious. We also got the endive salad, an artichoke salad (highly recommend) and the pasta with broccoli rabe and sausage. Good wine selection and it’s low key a Steelers fan bar!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvc3BEdUlnEAE",
+            "text": "The food and wine was incredible and service was perfect. This place is a gem"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJNkpQVmZ3EAE",
+            "text": "We went to Scalino because we were visiting our daughter in Greenpoint. It’s low key with great food, good service and a nice menu of food. I saw the pizza go by to another table and had to order it. Was fantastic.  I told the owner and he took me in the back to show me the pizza oven.  Very happy we went there!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJaksyZk9REAE",
+            "text": "It pains me to leave this review because the food was absolutely stellar, but our server absolutely ruined our experience. Our night started with our server berating a bartender and demanding she give me her glasses despite both of our very obvious discomfort and refusal. Throughout the night he continued to very loudly berate us calling my partner a “little girl,” “bambino” and other various inappropriate remarks. Even involving other tables in the restaurant and buddies he had at the bar with remarks like “look at this guy he eats like a little girl” etc making my partner extremely uncomfortable and offended- not to mention the other tables. I then ordered a top shelf amaro which he refused to serve to us until we had finished our food. Fully refused. I have never experienced such inappropriate and intrusive behavior from a server, it felt like we were on an episode of Bar Rescue or Kitchen Nightmares. These amongst other remarks and loud exclamations from our very hot and cold server left us with such mixed feelings as, had the service been better, I would have left a 5 star raving review. We will not be returning on any nights he is working."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dWRXZzJBRRAB",
+            "text": "Nice family kind of restaurant. Food was homey and delicious. I loved the homemade carbonara and eggplant parm. I’ll definitely be back!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRMEo3UmxRRRAB",
+            "text": "Nice place"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRM29IRzBRRRAB",
+            "text": "It's OK, Greenpoint has much better options for the price. The pastas we ordered felt flat, not bad or good exactly, but lacking in the attentive, layered flavors and rich textures that great Italian is meant to have. And it's far too reliant on lots of salt -- I've never had plain olive oil dip that's too salty before, c'mon.\n\nWhile the servers were mostly accommodating, our party witnessed the floor manager, presumably the owner, berate both servers in the middle of the dining room over the course of an hour meal. Judging from the other reviews here, that behavior is par for the course for him."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnbklMeFJREAE",
+            "text": "Went for Valentine’s Day and they were super busy, good for them! Food was incredible and owner/mgmt went above and beyond checking in on us throughout their dinner rush. Tiramisu for desert was a nice touch to wrap up our night. Can’t wait to go back."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBaEpfTVBnEAE",
+            "text": "The food was delicious. The service was ok but mostly because the food tasted like it was home-made so I'm sure it takes time to prepare some of the meals. Great experience overall and again the food was delicious especially the dessert."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmdDllcWZ3EAE",
+            "text": "I cannot say it's bad, but it's not good!\nNot worth it.\nYou can find much better price/quality in the neighborhood."
+        },
+        {
+            "date": "10달 전",
+            "language": "fr",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmdDZuZy1nRRAB",
+            "text": "Vu le rapport qualité / quantité / prix et vue l'offre de part et d'autre du restaurant, allez plutôt de part et d'autre. Vous serez mieux reçus, mieux servis et rassasiés.\n20 $ pour une assiette de raviolis, 25 $ pour une assiette de carbonara : non seulement c'est excessivement cher, mais en plus ça n'était pas bon. A-t-on déjà vu des oignons dans les carbo ?\nBref, passez votre chemin."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2MVlUT3BnRRAB",
+            "text": "You must try their gnocchi dishes!\nSo fluffy and a perfect bite.\nit is honestly the best gnocchi I’ve had in my life - i like it with the meat sauce.\n\nall of their pasta dishes were delicious.\nWe devoured them so fast.\n\nThe service here is great.\nI like how they have a menu with iPads and photos.\n\nDefinitely one of the most underrated Italian restaurants in town."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2bHFqNFd3EAE",
+            "text": "We recently had the opportunity to reunite with family and friends whom we hadn’t seen in a while. Initially, we had reservations at another location, but we decided to move our party of 10 adults 2 toddlers to Scalinos, knowing it would provide a delightful experience with delicious food.\n\nWhile we were enjoying our time catching up, our two toddlers, who are cousins, were being their playful selves. They found joy in playing with the laminated menus, enjoying their time together as only little ones can. Unfortunately, the owner of the restaurant, who had initially been friendly, abruptly snatched the menus from their hands and scolded us— they weren’t being bad, just being kid sitting and laughing playing with the menus. This unexpected behavior deeply affected our evening and left us feeling unwelcome.\n\nAt this point, our big party, felt trapped, as we had already settled in. Despite our disappointment, we chose to stay, hoping to salvage the evening.\n\nOn a positive note, our female server was wonderful. She understood the challenges of dining with children and provided excellent service, which we appreciated.\n\nIt’s disheartening to share this experience, especially since Scalinos was once a place we loved. The owner’s actions left us shocked and saddened, and I hope he reflects on how his behavior impacts families looking for a warm and enjoyable dining experience. After all, I’m sure their cheap menus are nothing compared to the $600 check we paid, which sadly supports an owner that doesn't value its patrons."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2eHBYelJnEAE",
+            "text": "my husband and I love this place. the staff is nice and the food is delicious."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2OV9lSG9BRRAB",
+            "text": "Best Italian place in greenpoint! They offer plenty of options to accommodate dietary restrictions including gluten free pasta and vegan, dairy free pesto. Service is always fantastic and the vibe is very cozy. Love their homemade gnocchi!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2bUw3MW5nRRAB",
+            "text": "This place is an absolute gem! Great pastas, the nicest people and a comfortable cozy wooden dining room. Perfect for a group dinner or just a quick lunch. The paperdelle with tomato cream and bacon sauce was tangy, smoky and particularly delicious."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQNXN2SUp3EAE",
+            "text": "The owner was incredibly rude!!! My husband and I walked in and asked for a table; we did not have a reservation. The place was pretty busy but there were two or three empty tables. We were told they had to hold them for larger parties (two tables were small fourtops). No problem. The owner said you can sit at the bar, we said sure, thanks. There was a large table opposite the bar with families. They left shortly after we sat and the owner said we could have a table once they cleaned up that area. There were two fourtops and a deuce, the deuce farther from the center of the restaurant (and ambiance) and nearer to the kitchen and just down a hall, the bathroom. We were directed to the deuce. In the meantime other tables in the main part of the dining room opened up. I said to my husband, in French, I hear the dryer from the bathroom. The bartender apparently understood as he asked if we wanted to move to one of the other tables - we said yes thank you, and he started to separate two tables. The owner came over and LOST it!! In response, we said, politely, we prefer to be closer to the action and not near the bathroom. He said: You're lucky to have a table! In Paris you eat in this much space, indicating a tight space. I said, Yes when there are no other options... and then he went on about his bathroom being the cleanest in Brooklyn. My husband was about to sit down where the bartender had made room, and I said no, I don't want to frequent a restaurant where I'm being YELLED at... and, bizarrely. the owner kept at it. He was saying how the restaurant was going to fill up in no time. No sense of service, or civility for that matter. It made no sense. We eat out often and have NEVER experienced someone so unhinged... completely irrational;  we were perfectly normal, polite, happy to sit at the bar (not relegated to the last table as if being punished). I thanked the bartender for trying to accommodate us. We've eaten there a few other times and the food was decent, but I will NEVER go back, and I will be sure to let\neveryone in the neighborhood know. And they said the French are rude. Also, Italian restaurant but nobody who works there is Italian. Just saying..."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQX09hUEdnEAE",
+            "text": "Came to Brooklyn planning to try as many different places as possible but still ended up eating here 4x in less than a week. Not proud, but damn it was good."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzeGRfT2pBRRAB",
+            "text": "Waited for 40mins and had a horrible pasta that’s not worth $20+ by any chance. We ordered black truffle pasta and the first try had no flavor but oily cheese. They then changed it with a different one and it’s only average level. The salad we ordered is only in poor size with plenty of oil."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzNzhpMDV3RRAB",
+            "text": "Went for another spot, which was packed so we came here instead. Very pretty spot.  Overall enjoyed the food. The menu doesn’t have a lot of non-meat options (for those of us who eat halal/kosher/no pork) and we were told the manager doesn’t like to swap proteins in means, I supposed to protect the integrity of the meals?\n\nEither way the food was good, service was good. We left happy and full."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYaF9IY0dBEAE",
+            "text": "My family and I wandered into Scalino’s after a long day of walking around Greenpoint, and we are so glad we did!\nThe staff was so attentive and friendly. The menu has a huge selection of fresh dishes that can accommodate many dietary needs. The food was delicious and the entire meal reminded us of being back in Italy. I can see Scalino’s becoming a regular dinner spot."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYck1iSDBRRRAB",
+            "text": "Walked in for a table of 4 on a Sunday on a long weekend. Literally taking the time to write this review over our last glass of wine and dessert. I can’t say enough good things. It’s uncrowded, no frills, incredibly attentive staff, makes you feel right at home or better yet at the local trattoria in Italy. Ordering 6 different dishes and everything was perfectly flavorful, cooked well, not a bad thing. Simple but lovely wine list. We’ll be back. Thank you!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYc05iZENnEAE",
+            "text": "Romantic spot with wonderful service. We had a nice date night here. My only note is that the food was almost perfect: for each dish it felt like it needed some salt or acidity to make the flavor complete and not flat. But, everything was fresh and well presented."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNubGJqVTlBRRAB",
+            "text": "I love this restaurant! The food is always consistently excellent. Prompt service. Best tiramisu (homemade) Reasonably priced. 😊"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwN2F5VGtRRRAB",
+            "text": "Underrated Greenpoint Italian spot! Food and service was great, would be an excellent place for a large group\n\nUpdate 9/22: I was super disappointed with my takeout order for the broccoli rabe and sausage pasta. I want to support a local business, but unsure why my takeout lacked compared to my in store experience. This pasta completely lacked flavor, and seemed like it was literally plain boiled pasta with sausage and broccoli rabe added on top. No olive oil, the small cup of parm on the side couldn’t save it. The arugula pasta was also the equivalent of half a bag of dry arugula with some slices of parm, which was extremely disappointing. Again, I want to support local businesses but I really am not keen on ordering this for takeout again if this is what I get."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuLUxpRFJREAE",
+            "text": "I give it 5 stars for the quality of the pasta. Apps and sauces were okay but the pasta itself was excellent."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIOXBLSHJ3RRAB",
+            "text": "Great people"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaelBLVzJBRRAB",
+            "text": "Great local spot with friendly service.\nWe stopped in early on a Sunday night and were seated immediately.\nWe started with the meatballs and each ordered a pasta (homemade lasagna and the lamb ragu). Super delicious and well priced.\nWe’ll be back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4Nk9felBREAE",
+            "text": "Went for an early dinner and so everything came out all at once.  The fried calamari I highly recommend, the batter was light and crisp and it came out perfect. The pasta was good, prefer this to the one I had around the corner. Overall everything was good including the service."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUMjRXYklREAE",
+            "text": "Last night was my fiancé and my first time at this lovely establishment, service was amazing the food was delicious. Unfortunately we didn’t have dessert which by the way it also looked just as yummy as the food was, but the portion of food was not what we expected so by the time we finished our dinner we really had no room for dessert. Honestly we were so satisfied with service food and atmosphere that we want to go back and try the dessert before actually eating food.🙂"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMcUxhVnBBRRAB",
+            "text": "The food and the service was amazing. When in doubt ask the waiter for recommendations, he knows best. The lamb ragu in particular is definitely worth a visit."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1a0l5Q3F3RRAB",
+            "text": "Very authentic, simple, family style Italian restaurant/trattoria, with a nice selection of colorful, delicious pasta dishes. The salad was tasty and refreshing, maybe I would have just been a little more conservative with the gorgonzola cheese which tasted quite salty.\nThe service was nice, attentive, never invasive, quite cordial, the portions very generous and the prices reasonable.\nBut what really conquered my heart was the olive oil that was brought to me to dunk the bread in. It was probably the strongest, earthiest, intense oil I have had in this country so far, it tasted like if it had just been squeezed out and barely filtered. I simply fell in love with it.\nIf you're around the area and looking for a quick bite, this is definitely the best place."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlMVl5RXNBRRAB",
+            "text": "An absolutly fantastic restaurant with authentic Italian cusine (Italiano vero!). We ordered two different pastas, the one papardelle with lamb ragu and fetuccini with butter truffle sauce. Incredible delicious!!! As a lunch special we have got two salads with gorgonzolla and with parmegiano reggiano. We were served by a nice gentleman, probably the owner, a native Italian who loves his cuisine, likes to cook and talks about cooking. It was like a vacation in Italy again. Thank you !!! This place is a real diamond on the Greenpoint food map. High recommendation!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsMklmZE5nEAE",
+            "text": "We came on Monday around 4:30pm, I had pappardelle with creamy tomato sauce, it was good and tasty😊  Food portions were right amount, the noodle taste pretty authentic 💯 will come back to try some other dishes again!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUMy15VW5BRRAB",
+            "text": "My family and I stumbled upon this gem and really enjoyed it. Vanessa was phenomenal with her customer service! Made great recommendations, had lots of knowledgeable about the products and menu. She was able to paint a picture of each dish with her descriptions. Everything was VERY good. My favorite dish had to be braised short rib over polenta."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzN04zTjJ3RRAB",
+            "text": "Came here for dinner on a Friday night. Was easily able to make a last minute reservation for 3 people. The service was very attentive. They have both a paper menu and an iPad menu so you can see pics of every dish. The carbonara was by far…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlOGN1ZWVnEAE",
+            "text": "I have to say I keep coming back here again and again. There’s something about the food and ambiance that keep this place on my list. The menu is small the dishes are simple but the taste is divine. I used to love the quirky staff that…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXXzdlc0xnEAE",
+            "text": "🌟 Best pasta I’ve ever had in my life 🌟 All the food (mussels appetizer, seafood risotto, and truffle white cream pasta) that we ordered was fabulous, both of server and the owner were very kind and friendly. I don’t live close to this restaurant, but I will definitely go again and try different dishes."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXMmFmMkt3EAE",
+            "text": "Came here with working team and I almost fell in love with the chef here! We were a huge team so we got to try out a lot of dishes.\n\n🍴I highly recommend their duck entree! The meat was well cooked with wonderful sauce and veg on the side.\n\nThe broccoli di rabe was good for people who want a healthy appetizer. And the fried calamari was delicious too, for ppl who want a classic start.\n\n🌟And desserts were super impressive that will be the biggest reason that I wanna go back.. their chocolate mousse was really really good. The tartufo was amazing too."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLd3FYU3hBRRAB",
+            "text": "One of the best Italian meals I've ever had - this is a true hidden gem local restaurant in Brooklyn! The food, drinks, service - all in all, what else more can you ask?\n\nWent for a dinner on Friday after my friend's casual Yelp find - we're looking for somewhere cozy and good without any time limitation esp during COVID times. So happy that my friend found this place and we decided to try it out! Not only Tim (our server but he may be the owner?) provided superb service throughout the night but the food itself was amazingly fresh and on point! I mean there're soooo many mediocre Italian restaurants everywhere, esp in NYC, but I'd say this is seriously by the far top notch tasty one in the city for sure!\n\nWe ended up having so much fun eating and drinking starting from appetizers to entrees to deserts and all the wines and shots...! Thanks Tim for amazing hospitality and having us - we'll def be back!!!\n\nDo yourself a favor and stop by to try one of their pastas and you won't regret! (And thank me for it) ;)"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1cTRLNUtnEAE",
+            "text": "WOW! Pappardelle with tomato cream and bacon was the best pasta I’ve ever had. Incredible authentic Italian restaurant with friendly staff and great prices!! Definitely a must if you are in the Greenpoint area."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNNzRYcmZREAE",
+            "text": "Decent food, portion is just good, and tastes so good and authentic.\nNo words to explain how good their variety of pastas, and Calamari was crispy without any soggy oil. The best Fried Calamari, even better than known for the best Greek style seafood restaurant in Astoria; Taverna Kyclades.\nCoolest owner ever saw.\nNever goes wrong with any menu in Scalino Gp.\nMUST GO SPOT."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoLU9XQzZRRRAB",
+            "text": "Nice restaurant in Greenpoint serving Italian dishes. Loved the blue cheese and zucchine tagliatelle.…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURodXRmd2NREAE",
+            "text": "Got pork chops (10/10) and paparadelle lamb ragú (7/10 - needed more salt, pasta was very good but sauce was nothing too special)"
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNndHNib1FBEAE",
+            "text": "Quaint rustic feel. Italian comfort food at its best. Small menu but tons of specials. You should definitely go in and check out the huge specials board. Do not base your decision off the online menu go in and check it out. Food was cooked and seasoned perfectly. Pasta was fresh and the sauce was perfect."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwNWNHOWlBRRAB",
+            "text": "With so many delicious food options in the area, it was hard to decide where to go. Glad we stumbled into here because the pasta was top notch 👌🏼. The carbonara pasta was on the specials menu and was one of the best carbonaras I’ve had! The pasta had an amazing texture to it. The meatballs were also a great side dish to share. Lastly, can’t forget about the bread and olive oil. The olive oil had a nice bitterness to it"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3dXV6VzB3RRAB",
+            "text": "Warm and cozy atmosphere with authentic Italian food. Had the meatballs and mussels and it was fantastic. Simple yet so yummy! The host was also very pleasant and kind."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLNmMyeDhnRRAB",
+            "text": "Stumbled in here looking for a place to eat with my friends and don’t know this area. Fairly unassuming looking place. Immediately the service was good and the menu looked incredible. Had a nice iPad with the specials and I eat with my eyes. Do yourself a favor and get the truffle butter fettuccini. My friends got it and was jealous. I had the spinach ravioli. Was just ok. Quite oily. I can’t stress enough how good the service was and this server had a hell of a dinner rush. Everything was super affordable and 10/10 want to go back and try so many dishes on the menu. Oh.and leave room for dessert. Had the crime brûlée and teramisu. Oh and I ordered the arugula endive and Gorgonzola salad forgetting that I don’t like Gorgonzola. I know… So my friends eat the cheese and I ate some of the salad but when I wanted to say is how I like to Gorgonzola that salad would’ve been amazing very large portion of the cheese and tons of arugula and great for the price. Oh almost forgot we had grilled calamari for an app. Was exquisite"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1N2VudUFREAE",
+            "text": "Best Italian in the neighborhood.\nHomemade & fresh flavors.\nChocolate souffle is worth coming back for a second time. Amazing."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSdi1YZjVnRRAB",
+            "text": "Great pasta flavors, loads of options, and loved the cosy setting! Highlight was the truffle butter pasta, could really taste the truffle!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtckw2MGhnRRAB",
+            "text": "The service here is some of the best I've ever experienced. The calamari was cooked perfectly and the sauce was a wonderful compliment."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwcE1TT2R3EAE",
+            "text": "They have a daily lunch special that includes a salad for $15. So worth it. I also got a glass of wine."
+        },
+        {
+            "date": "1년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxNXFhNkRBEAE",
+            "text": "Très bon restaurant italien, simple et rapide. Les personnels sont très sympas et efficaces. Ambiance très tranquille et chouette."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSNy16RVlREAE",
+            "text": "Like a classic Italian pasta place, no frills, delicious food. They have a cool ipad menu for specials."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJMThLTE1REAE",
+            "text": "was the best meal we did in NY. Homemade food, very tasty. The pasta is accompanied with a delicious salad and a homemade bread. Slowfood. Affordable for those who want to spend little and have a well made meal of Italian Cuisine"
+        }
+    ],
+    "reviews_count": 78
+}

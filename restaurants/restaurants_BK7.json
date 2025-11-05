@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Sunset Park Diner & Donuts",
+        "address": "889 5th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJ2ab6rMdawokRg4-Q2l2P05o",
+        "rating": 4.2,
+        "user_ratings_total": 1190,
+        "phone_number": "(718) 871-1037"
+    },
+    {
+        "name": "The King of Fish",
+        "address": "4515 5th Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJdQJ_njpbwokRaonvUhx4npA",
+        "rating": 4.9,
+        "user_ratings_total": 1555,
+        "phone_number": "(347) 227-8015"
+    },
+    {
+        "name": "The King Of Meat",
+        "address": "4408 5th Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJW9zq08tbwokRK2vbYUc7Qws",
+        "rating": 4.9,
+        "user_ratings_total": 921,
+        "phone_number": "(718) 489-9084"
+    },
+    {
+        "name": "Parlay",
+        "address": "4024 8th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJ-fScHM9awokRQQEHMNgrJYg",
+        "rating": 4.4,
+        "user_ratings_total": 671,
+        "phone_number": "(347) 987-4059"
+    },
+    {
+        "name": "Zona Sur Bar Bistro",
+        "address": "4314 4th Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJu2tlKbhawokRkz2dHlgxzUo",
+        "rating": 4.6,
+        "user_ratings_total": 508,
+        "phone_number": "(718) 788-1606"
+    },
+    {
+        "name": "Ocean Eats & Island Treats",
+        "address": "865 4th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJUQ_ItbtbwokRFA0IIpbuUwM",
+        "rating": 4.7,
+        "user_ratings_total": 117,
+        "phone_number": "(718) 808-8817"
+    },
+    {
+        "name": "Din's Kitchen",
+        "address": "5210 7th Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJ-Re2SS1bwokRIxlWv4yIqQM",
+        "rating": 4.8,
+        "user_ratings_total": 272,
+        "phone_number": "(347) 987-4596"
+    },
+    {
+        "name": "Cinco de Mayo",
+        "address": "407 45th St, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJHRZbKQtbwokRMno-DKCw0Ow",
+        "rating": 4.8,
+        "user_ratings_total": 318,
+        "phone_number": "(347) 384-2495"
+    },
+    {
+        "name": "Ba Xuyên",
+        "address": "4222 8th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJr42oxs5awokRzyJdj2zfdIc",
+        "rating": 4.7,
+        "user_ratings_total": 781,
+        "phone_number": "(718) 633-6601"
+    },
+    {
+        "name": "Yafa Cafe",
+        "address": "4415 4th Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJk6UAi79bwokRgb_Wkj3qhkY",
+        "rating": 4.7,
+        "user_ratings_total": 582,
+        "phone_number": "(347) 464-3999"
+    },
+    {
+        "name": "SLIMAK CAFE",
+        "address": "4110 4th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJfRifabhawokR_3_XhbNgcig",
+        "rating": 4.6,
+        "user_ratings_total": 548,
+        "phone_number": "(347) 689-3332"
+    },
+    {
+        "name": "Asea Fusion 嵐山料理",
+        "address": "4120 8th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJ42TQ4M5awokRtmdT9bCsAak",
+        "rating": 4.6,
+        "user_ratings_total": 736,
+        "phone_number": "(347) 889-5252"
+    },
+    {
+        "name": "Eat Street NYC",
+        "address": "887 5th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJLRvGUKxbwokRlK4-UxSWkQ0",
+        "rating": 4.8,
+        "user_ratings_total": 93,
+        "phone_number": "(347) 457-6175"
+    },
+    {
+        "name": "Kai Feng Fu Dumpling House",
+        "address": "4801 8th Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJG1_qo8tawokRjoeyM60U_Lg",
+        "rating": 4.5,
+        "user_ratings_total": 995,
+        "phone_number": "(718) 437-3542"
+    },
+    {
+        "name": "La Snackeria NYC",
+        "address": "5823 5th Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJbSgMJ-xFwokRvDN1T4XpirM",
+        "rating": 4.2,
+        "user_ratings_total": 244,
+        "phone_number": "(347) 799-2953"
+    },
+    {
+        "name": "Japan Village",
+        "address": "934 3rd Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJq6rqFL9awokR8nXMs5gOU3g",
+        "rating": 4.6,
+        "user_ratings_total": 4784,
+        "phone_number": "(347) 584-4578"
+    },
+    {
+        "name": "Rob's of Brooklyn – Sunset Park",
+        "address": "4201 7th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJQ341AFtbwokRwcwO6IC7Dng",
+        "rating": 4.2,
+        "user_ratings_total": 93,
+        "phone_number": "(347) 599-0179"
+    },
+    {
+        "name": "East Harbor Seafood Palace",
+        "address": "714 65th St, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJZVJwHU9FwokRBuD4swvPWjY",
+        "rating": 4.3,
+        "user_ratings_total": 2090,
+        "phone_number": "(718) 765-0098"
+    },
+    {
+        "name": "Cafe Nube",
+        "address": "940 4th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJkSr7yctbwokRFW7LWD1o_Oc",
+        "rating": 4.9,
+        "user_ratings_total": 275,
+        "phone_number": "(646) 226-3844"
+    },
+    {
+        "name": "Bamboo Garden",
+        "address": "6409 8th Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJkVz41khFwokRKan78-taHB8",
+        "rating": 4,
+        "user_ratings_total": 555,
+        "phone_number": "(718) 238-1122"
+    },
+    {
+        "name": "Momo Test Kitchen",
+        "address": "Annex Bldg, 80 58th St, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJvb4KpmJbwokRIw6ECgf3VU4",
+        "rating": 4.9,
+        "user_ratings_total": 93,
+        "phone_number": null
+    },
+    {
+        "name": "FRYING PAN BROOKYLN",
+        "address": "51 35th St, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJNTbYnr9awokRtA4BkZG87kU",
+        "rating": 4.4,
+        "user_ratings_total": 298,
+        "phone_number": "(646) 708-1814"
+    },
+    {
+        "name": "Pete's Brooklyn Eats",
+        "address": "5620 1st Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJd4fxZatawokR6sGd6OjMtlM",
+        "rating": 4.6,
+        "user_ratings_total": 199,
+        "phone_number": "(718) 680-5858"
+    },
+    {
+        "name": "Park Asia",
+        "address": "6521 8th Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJP5YFN09FwokRLyaJTlmWHs0",
+        "rating": 4.1,
+        "user_ratings_total": 1171,
+        "phone_number": "(718) 833-1688"
+    },
+    {
+        "name": "Maria's Bistro Mexicano",
+        "address": "886 5th Ave #1f, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJabtcqcdawokRGUYDWD2oQCI",
+        "rating": 4.1,
+        "user_ratings_total": 473,
+        "phone_number": "(718) 438-1608"
+    },
+    {
+        "name": "Industry City",
+        "address": "220 36th St, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJBzJseMBawokRVfGOLobHpJc",
+        "rating": 4.6,
+        "user_ratings_total": 8951,
+        "phone_number": "(718) 865-3740"
+    },
+    {
+        "name": "L’Wren",
+        "address": "4004 5th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJTzXw__1bwokRoqpZA9QFxGc",
+        "rating": 4.7,
+        "user_ratings_total": 254,
+        "phone_number": "(917) 909-1894"
+    },
+    {
+        "name": "George's",
+        "address": "5701 5th Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJW8J9NLNawokRJ2ze_3cmrG4",
+        "rating": 4.2,
+        "user_ratings_total": 1011,
+        "phone_number": "(718) 439-1403"
+    },
+    {
+        "name": "Tacos El Bronco",
+        "address": "4324 4th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJA4IcJbhawokRcqZKwWCNxkI",
+        "rating": 4.3,
+        "user_ratings_total": 2636,
+        "phone_number": "(718) 788-2229"
+    },
+    {
+        "name": "The River Café",
+        "address": "1 Water St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJ2QZOdTpawokRU_eN_EPJaX8",
+        "rating": 4.4,
+        "user_ratings_total": 2418,
+        "phone_number": "(718) 522-5200"
+    },
+    {
+        "name": "Frankies 457 Spuntino",
+        "address": "457 Court St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJm7uvMfZawokRNR0XRCotzWY",
+        "rating": 4.5,
+        "user_ratings_total": 1419,
+        "phone_number": "(718) 403-0033"
+    },
+    {
+        "name": "Mama Lupita's Bistro",
+        "address": "904 4th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJfUX4XqhbwokRngDYb_IkY0M",
+        "rating": 4.7,
+        "user_ratings_total": 208,
+        "phone_number": "(917) 909-0522"
+    },
+    {
+        "name": "Hometown - Industry City",
+        "address": "87 35th St, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJYfHLIxFbwokRtnz48KyOzEA",
+        "rating": 4,
+        "user_ratings_total": 367,
+        "phone_number": "(718) 576-3556"
+    },
+    {
+        "name": "𝗦𝘂𝗻𝘀𝗲𝘁 𝗣𝗶𝘇𝘇𝗮 (Brooklyn)",
+        "address": "4704 3rd Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJHxALM2dbwokRs0j284HSMmM",
+        "rating": 4.6,
+        "user_ratings_total": 174,
+        "phone_number": "(718) 576-3017"
+    },
+    {
+        "name": "La Flor De Izucar Café",
+        "address": "4021 5th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJW_Jxw8dawokRQaJ-4MagS4c",
+        "rating": 4.1,
+        "user_ratings_total": 317,
+        "phone_number": "(718) 633-1254"
+    },
+    {
+        "name": "Sahadi's",
+        "address": "52 35th St, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJL_QZ8pBbwokRcKbs9r49iOo",
+        "rating": 4.5,
+        "user_ratings_total": 581,
+        "phone_number": "(718) 788-7500"
+    },
+    {
+        "name": "Bangkok Bar NYC Industry City",
+        "address": "238 36th St Building #2, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJBxjAar9awokR18rabXFPpo0",
+        "rating": 4.4,
+        "user_ratings_total": 131,
+        "phone_number": "(929) 469-6455"
+    },
+    {
+        "name": "Big John's Coffee Shop & Grill",
+        "address": "876 4th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJSRnkncFawokRCuc27HPGcpc",
+        "rating": 4.6,
+        "user_ratings_total": 283,
+        "phone_number": "(718) 965-1808"
+    },
+    {
+        "name": "La Cabaña",
+        "address": "4503 5th Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJZ1jzkHpbwokR5FUcPFFH4-w",
+        "rating": 4.4,
+        "user_ratings_total": 244,
+        "phone_number": "(718) 972-2380"
+    },
+    {
+        "name": "Time Out Market New York",
+        "address": "55 Water St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJ9aMCWaxbwokRZHJGmTBxFtQ",
+        "rating": 4.5,
+        "user_ratings_total": 7084,
+        "phone_number": "(917) 810-4855"
+    },
+    {
+        "name": "Confidant",
+        "address": "67 35th St Building #5, Space #05-01-C29, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJr9xWar9bwokRP10s3t_iQ3o",
+        "rating": 4.6,
+        "user_ratings_total": 114,
+        "phone_number": "(929) 252-0205"
+    },
+    {
+        "name": "Sunset Park",
+        "address": "7th Avenue &, 43rd St, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJaXbNX8hawokRr7hHgliVAzs",
+        "rating": 4.6,
+        "user_ratings_total": 5358,
+        "phone_number": "(212) 639-9675"
+    },
+    {
+        "name": "Hainan Chicken House | 海南鸡记",
+        "address": "4807 8th Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJI0YyYNhbwokRrrCRyPRN6M4",
+        "rating": 4.1,
+        "user_ratings_total": 267,
+        "phone_number": "(347) 365-3864"
+    },
+    {
+        "name": "Yun Nan Flavour Garden",
+        "address": "5121 8th Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJi4z3xcpawokRiVFgIC56Y2M",
+        "rating": 4.3,
+        "user_ratings_total": 543,
+        "phone_number": "(718) 633-3090"
+    },
+    {
+        "name": "Pollo Campero",
+        "address": "4518 5th Ave, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJoV3EtbdawokRN7Kftf0JALo",
+        "rating": 4.6,
+        "user_ratings_total": 1916,
+        "phone_number": "(833) 226-7376"
+    },
+    {
+        "name": "Gravesend Pizza",
+        "address": "181 34th St, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJkXBrKvtbwokRvTa7AoOqOxc",
+        "rating": 4.7,
+        "user_ratings_total": 487,
+        "phone_number": "(718) 504-5800"
+    },
+    {
+        "name": "La Parada",
+        "address": "855 4th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJ61Lcm8FawokRzLKKtwEqrM8",
+        "rating": 4.2,
+        "user_ratings_total": 415,
+        "phone_number": "(718) 369-0115"
+    },
+    {
+        "name": "Judy's",
+        "address": "4022 5th Ave, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJKYq5lSpbwokR9bPB0okP-54",
+        "rating": 4.6,
+        "user_ratings_total": 367,
+        "phone_number": "(929) 337-6252"
+    },
+    {
+        "name": "Luigi's Pizza",
+        "address": "686 5th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJV__HFOZawokRBgRgfCsQ28I",
+        "rating": 4.6,
+        "user_ratings_total": 2266,
+        "phone_number": "(718) 499-3857"
+    },
+    {
+        "name": "Ayat Industry City",
+        "address": "274 36th St, Brooklyn, NY 11232, USA",
+        "place_id": "ChIJx-uXbWxbwokRgOqFfrEIEus",
+        "rating": 4.3,
+        "user_ratings_total": 334,
+        "phone_number": "(718) 831-2585"
+    }
+]

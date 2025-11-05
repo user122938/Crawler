@@ -1,0 +1,572 @@
+{
+    "name": "Frankel's Delicatessen & Appetizing",
+    "place_id": "ChIJLdFlUkRZwokR6UTdWztXjSI",
+    "grid": "BK1",
+    "address": "631 Manhattan Ave, Brooklyn, NY 11222, USA",
+    "rating": 4.6,
+    "user_ratings_total": 1194,
+    "phone_number": "(718) 389-2302",
+    "reviews": [
+        {
+            "date": "10시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKdGFuVTVWMWhDU1hsa2VuZFFhbDlWV25kQk5YYxAB",
+            "text": "Ok, maybe I shouldn’t have picked marathon Sunday to finally hit up Frankel’s—it was packed! But what a great spot. I love their creative breakfast sandwich options, and the vibe was pure NYC energy. I got the pastrami, egg, and cheese on a…"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201TmFVdEhRWGMyY2sxV1NFeFhXazFMU1habFoxRRAB",
+            "text": "Absolutely delicious! Hands down the best we had in NYC - very much through recommendation and we wholeheartedly recommend it on. Melt in your mouth meat and flavour running through. Lovely service too which I don’t always expect in highly rated, hype places anymore. Full of warmth and good humour - stand out stop for us on our UK to US trip."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGRFlscGZTRVJJU1cxTlFrOVJNVzVMUWxsa2VHYxAB",
+            "text": "I went here given the fact my last name is Frankel, and that I am part Jewish. I wanted to support a potential distant relatives business that they put our family name on. Not to mention, I love a good Jewish deli. The Frankel's #1 was excellent, and the Frankel's BLT(got it for my girlfriend) She said it was great. Going to go back for the Lox, Pastrami, and everything else going forward. I'll always support this place from now on, not only becuase I'm bias and a Frankel, but becuase it is genuinely very good, and the ingredients are high quality"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxVFUxbFdObkJPUVRSWVdEQlNRMDVsYWtWS1FWRRAB",
+            "text": "Delicious"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kRU56aENWRmxrU1dOSVgyODFWbWt5VG01UFYyYxAB",
+            "text": "Great food and excellent service! Thank you guys for making our first experience pastrami a truly unforgettable one!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SVVUwVjNhMFk0WVdWbk5HMWlZWGQ1VUU5VGJsRRAB",
+            "text": "Best bagel in Brooklyn. Always friendly service."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wSU56RnRaMFZ0UlVNNFFWOTZka3BFY1ROTGNHYxAB",
+            "text": "We did an overnight from Toronto to eat sandwiches in NYC and this (pastrami egg and cheese) was my highlight. Service was great and it's a cool place to sit on the street and watch the world go by. I'm going to be thinking about this until the next time I have it again. Must do."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKSFVFeDVZMnA2TkRWRlZWQkpZVk5aVTNBMFJVRRAB",
+            "text": "literally amazing!!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsblVWQmFTV1k0YmxaRVFsSmtiR3hTVmtKNlRXYxAB",
+            "text": "Very clean interior and lovely staff. I ordered the bacon egg and cheese on an everything and it was very tasty and packed full!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGNVdIZG9Sek4xZW1GWFRteDFZalIwWlUxUFJXYxAB",
+            "text": "Frankel’s hits the spot. The sandwiches here are next-level, fresh, flavourful, and super satisfying. I had the pastrami and egg bagel and it was unreal. Proper NYC deli vibes with a modern twist. Already looking forward to my next one!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwYWQycEJSa054YjJGRFVUUmZjbFpQZWtVeFFtYxAB",
+            "text": "The egg, greens and swiss sandwich was probably one of the best bagels I've ever had."
+        },
+        {
+            "date": "1달 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGdWVHaHlkR2d0Ymtkb2QyUjRjVlE1UlRORWVWRRAB",
+            "text": "Pyszne bajgle i miła obsługa :)"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiOUpHSy1RRRAB",
+            "text": "Always busy Always delicious Always closes early in the day. My go-to is the brisket sandwich when it's available the latkas are lovely and the hotdogs are great"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwT2FUUkRhMTlmZHpCMlJtNWplV00zVFZoalgyYxAB",
+            "text": "I love Frankels. The pastrami is incredible, dare I say better than Katz's😅... you can really taste the spices with Frankels!! The BECs and everything else is also amazing. Try it on Challah bread! Life changing! Also everyone there is so nice all the time!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGYVgzVTRkM3BoUzNKQ2FuUTVPRTlVZW1keGNWRRAB",
+            "text": "Every time I visit NYC I stop at Frankel’s"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKdU5UQmhaRWhsUTBSSmRFMXllV1ZuY1VoV1UwRRAB",
+            "text": "Updated review:\nI am SO glad I went back. I tried the heirloom tomato bagel and the salmon tartare bagel and both were 10/10!!\n\nOriginal review:\nI really wanted to love this place but my bagel sandwich was very disappointing. I got the pastrami egg & cheese on a sesame bagel, which was gorgeous but, unfortunately, completely lacking in flavor. I want to give them one more shot and try one of the more traditional bagel + lox sandwiches, which will hopefully live up to the hype!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twM05GRmlNMFJoVlhSU1dIRkdUQzE2WkcxRVVGRRAB",
+            "text": "Great bagel and cream cheese, my favorite coffee in this area. Super friendly and warm staff. Short wait and reasonably priced."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWNWN5MWxaRXBLT0ZRMWR6bHRNMmxTVjBzMlMzYxAB",
+            "text": "Everything here was amazing. From the vibes to cuts, Frankel’s Deli just made sense 🤌🏾. This was the pastrami sandwich on brioche..babe???\nChef’s kiss 👩‍🍳😘. Yummy, warm, and delectable!\n\n+ the staff was so fun and kind. They made my time the best. Can’t wait to stop by again!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwNVVtTnpXVFZwVW1rM1R6ZDVNbHBpT0RoR1NtYxAB",
+            "text": "O e of the best Lox cream cheese bagels I've ever had."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214bWExUk5WV0k1YTBGS1FtVlFWM1owVm5odVpXYxAB",
+            "text": "Hot brisket sandwich there is no flavor and for $26 to much for a flavorless sandwich"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGRVYweEdUbFkxYzFwMWNTMXJSWE5CUkhGZlZWRRAB",
+            "text": "Got the pastrami- egg challah, I kid you not, to die for. Worth the extra trip for this. Besides the pastrami being good? Lots of it in the sandwich as well. Tops many bagel places manhattan for sure\n\nBonus points:\nGreat babka!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poeGNXZHdhR1oyYzNoNmFHaHBWVzFXTlZWV1gyYxAB",
+            "text": "Best pastrami I've ever had"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNlZUQkRhVTVXY0dwRGQxTkZjbVZEWmtOWVdGRRAB",
+            "text": "No parking"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKblJWcDNNRmQwVGxGVFRuUm5ibk0yUjJzMFdIYxAB",
+            "text": "Fantastic hot pastrami sandwich. Great staff and nice seating outside."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNd01XRnRjMU13Y2poWFJuSmpaWGQxWTBWc1RGRRAB",
+            "text": "scrumptious"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aMFkwdzFRVzlUVkZGVlFXNWFSMUU0Ylc1emRsRRAB",
+            "text": "Make the trip here! It’s so worth it! Bagels are great no doubt but do not skip on the Babka !! I mean it’s going to really kiss your belly! Soft, chewy, buttery, fill with cinnamon kisses! They are super nice too! Grab a seat and look out the window! I ate so fast I forgot to take pictures."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tveFFqUmpTMjkzTFVaYVJHVkVTM0pwU0RRd09FRRAB",
+            "text": "Last good bagel place left in Williamsburg. Reasonably priced and great service, my new fav, wish I tried sooner"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oV2JuRTNZM05RVVRaWVZqQmpUalZmU2xwR1MwRRAB",
+            "text": "This bagel spot deserves all the hype. The lox on the \"Classic\" Nova Bagel is buttery and perfectly melts into the capers and red onions. The fillings are so generous that it’s sometimes hard to bite into the sandwich without the contents sliding out. And the sesame bagel itself is great -- crunchy on the outside, chewy on the inside and the right amount of dense.\nThe real star of the show here though is the Pastami, Egg & Cheese on a bagel. Talk about indulgence. The pastrami is juicy, and tender and melds so nicely with the melty American cheese."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoMlgyNWpaVUZ2TWpBeWNWTjRSMTh5YmpSalFVRRAB",
+            "text": "Pastrami ottimo veramente ma lo consiglio col formaggio e uova e senza monstarda ma il locale è abbastanza piccolo e chiude presto inoltre i prezzi sono troppo alti…servizio gentilissimo da parte della ragazza alla cassa e non troppo veloce…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zM1R6Z3phMGhLWVU1TWVTMDBWMHBET1VWSU1XYxAB",
+            "text": "Nice quiet spot friendly people"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twRU4xRmphMVZtUkhodWVFbFJiVU14TkhVeFZGRRAB",
+            "text": "The sliced Babka slaps! 👌…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVGFWaDVTbEo2TVdKSmNHUTJMVjlwTFdaeE1GRRAB",
+            "text": "I’ve been a fan of hot dogs since I was a kid in the late 70s. I’ve had a hot dog at various stadiums and arenas. I’ve had hot dogs in various countries. I consider myself a hot dog connoisseur. Frankels is without a doubt one of the BEST dogs I’ve had in my entire life. Perfect snap with delicious kraut. I see why this place is always busy."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjeGJtZHVhRmQyZVVWeFEyZDBZbXQ1YUdSaVNFRRAB",
+            "text": "Everyone is so nice and recommendations honest. Husband and I went for a breakfast date, shared pastrami egg/cheese and Brisket egg/cheese sandwich and babka slice. I understand why the pastrami is popular (savory and spiced right), brisket was a little sweet for my taste but they were both good! So perfect on a fresh soft brioche bun - chefs kiss"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4ME0ycG9RMjVaY3pSUVlXaHJURzlGUjFSeVpWRRAB",
+            "text": "Very impressive.  As someone who has pretty much only gone to Katz this is up there.  Dare I say it, potentially even just as a good given less of a crowded store and friendly staff. Must try."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213NFpHbG1SMHhSVm5Nd05HaGZPVk5UU0dFeWNHYxAB",
+            "text": "So,after seeing this deli on a foodie blog. Drove a hundred miles to try it.non typical Jewish deli, no knishes? The pastrami the best I had in years. Hand cut with a thick bark that was juicy top to bottom. Would drive again without a thought. Had leftover next morning with eggs,just as good, if not better. Worth the trip from near or far."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVM1QxUkpkWGhZY25SNVMzTkZSa0kzYkZKMk4yYxAB",
+            "text": "We placed a large pickup order from Frankel’s for our wedding's morning-after brunch, and it was perfect. Everything was ready on time and tasted amazing—bagels, lox, whitefish salad, chicken salad, cream cheese, the works. The pastrami smoked salmon is next-level. We ended up with fewer guests than expected (hello, wedding hangovers), so we froze about 50 leftover bagels and ate them for weeks—they held up beautifully. Frankel’s was easy to work with, affordable for the amount of food, and a huge crowd-pleaser. Highly recommend for event catering or stocking up on freezer bagels."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4dExXMVZWVW96Y21GRVNsQTJNWHBIYm5sZmEyYxAB",
+            "text": "Frankel’s came across my for you and I instantly started following them. Once I made it to NY, I made it a priority to check them out. Their pastrami egg & cheese is what caught my eye & I was not disappointed. Great spot. Definitely worth trying out when you’re in Brooklyn"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4UGRWVjVNMjlyVWxaSmFXWnBkMVV0ZFhGR2RXYxAB",
+            "text": "I got the whitefish bagel, and it was delicious. However, I was really disappointed with how little whitefish spread it had — I could barely taste it. Considering how expensive it was, I expected a much more generous portion. Tasty, but im not sure its worth the price."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wSVRWWmpaR1l6WjFwc1FWSlFVR3gwTldjMFVHYxAB",
+            "text": "$12 for bec. so expensive for what it is and the bagel sandwich was just ok- nothing special. my kid loves bec and he refused to eat it- probably because the egg texture was odd. He liked the bacon. The cinnamon raisin bagel tasted like a…"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1blpEbFNWbFJ2WVhkbk5VaERka3RhVkhoTVExRRAB",
+            "text": "So good 🤤"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOT1ptVmhZVVpsVm5SQ1MyWTJSVzVLUWxWdGVHYxAB",
+            "text": "Dry, hard bagel - inexcusable for $20 bagel sandwich. Everything else just ok. Good service"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204MFJraEpiMnhXTUhkdWEzSkJPWEJwU1VOeE1YYxAB",
+            "text": "Amazing Pastrimi, Egg and Cheese!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkTVJYbDFVVTQxY1RGUVZIbzVkR1ZDT1hFeGNsRRAB",
+            "text": "I’ve heard so much about this spot and yeah, never got around to it because they only open till 3 PM each day. Today I finally made it and it was well worth the weight.\n\nRelatively small establishment however staff is huge on courtesy. I tried their famous hot pastrami on rye with mustard and boy I was simply blown away. Each bite was super tender, juicy and so flavorful. I was also impressed the rye bread did not fall apart easily.\n\nDefinitely a must visit and it’s definitely a top five pastrami sandwich in NYC."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOeWFqVlZlVzV1Wm5CTGRGTmpNRlJuV20xRVpVRRAB",
+            "text": "Very warm, welcoming, and friendly atmosphere. Clean and bright. Food was fresh and beautifully presented."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkSWJDMHplRzlpV0dOdGIzcExRazlyZDE4d2FuYxAB",
+            "text": "I kept seeing the line out of the door for this place and I wanted to see what the hubbub was all about.  I. Still. Don't. Know. I got an everything bagel with tomato and scallion cream cheese. It was expensive and NOT good. This was like any blah bagel you'd get at whatever bodega. I was ready to be blown away, and I was wildly underwhelmed.  Despite being really hungry I even ended up throwing it away because it was such a letdown. Maybe something else is their specialty?  Bagels are not.\n\nService was good, spot is cut but the bagel did not hit. Can't recommend."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4M1VFRjBPWEZNV1ZKSmVtNHRWSFZNYmtOSlUzYxAB",
+            "text": "By the time I remembered to take a picture of my bagel sandwich I had already eaten almost all of it. This is how good this place is. Chill atmosphere, super friendly staff, delicious fresh food! Just had the smoked salmon on sesame bagel and would come right back for it. Perfect ratio of salmon to cream cheese to capers and onion. Nothing overpowering the salmon, just making it more delicious. Bagel was toasted just right and the sandwich was wrapped well and cut fully! Nothing bugs me more than fighting with partially cut wrapping paper and then fighting to tear it.\nLoved it and coming back for more!\n\nCame back a second time: same amazing experience just more people! This time took a photo! 😉"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RMGQxOHhTVzB5TXpjd1dEbHhVbGRtTjNObGJrRRAB",
+            "text": "Better than Kat's or any other pastrami you'll find in the City.  Kind personnel, no waiting line and cool neighborhood. Highly recommend!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aNFZXczFVRU4zWlU1bGNDMXBhbHBCYVRGTFJsRRAB",
+            "text": "Great service and cool retro feel, bagels were great but ever so slightly flat."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nMWFWQTNPWFJITFZoM1dFOVdSMnRaTkMxVFYxRRAB",
+            "text": "Extremely good. Perfected the cheese to meat to egg to bread ratio"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VlJubEJTV1Z1Um1GVWJWWnRTamt4TjFCUWIwRRAB",
+            "text": "Our breakfast sandwiches were amazing! Such friendly staff! Quick service. We will be back."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNcGZlZDFnRRAB",
+            "text": "아침으로 먹기긴 가격도 적당하고 맛도 좋습니다~ 그래서 한번 더 먹으려고 점심때 갔더니 7불이 더 비싼데 샌드위치의 사이즈는 동일해서 가격이 비싸게 느껴졌어요. G METRO입구 바로 옆이라 가기에 편리하므로 아침식사 할곳으로 추천합니다.. 엄청 작지만 화장실도 갖추고 있어요..."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzZ3ZHVmtRRRAB",
+            "text": "파스타라미 샌드위치 맛있네욥. 느끼하거나 과하지 않아요(제 기준). 약간 부드러운 육포 느낌의 파스타라미와 치즈와 빵의 삼중주!"
+        },
+        {
+            "date": "9달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfLXVyR1l3EAE",
+            "text": "우연히 들렀는데 넘 맛있었어요. 저는 프랭클 베이글 (everything) 이랑 커피 먹었습니다. 바 테이블이 있어서 밖에 구경하기도 좋고 혼자 먹구 가기 좋아요~ 먹는 동안 로컬도 많이 와서 브루클린 분위기 느끼기에도 좋았습니당 😊"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRMDV5YS1nRRAB",
+            "text": "맛있다! 여행의 마지막날 아침에 먹고 공항으로 떠났다"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDN3RxZXZ3RRAB",
+            "text": "핫소스 추가 가능하니까 추가하셔서 드세용 ㅎㅎㅎ"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toT2JEa3hUVWc0YUhSS1FVdFdSRXBMWjBoQ1ZWRRAB",
+            "text": "Great spot for delish, authentic bagels and the like!  I had the classic (Lox and all the fixings) and I was good till dinner!!  The staff were super nice and helpful.  I spilled my tea as I was sitting and they were quick to help me clean it up and promptly provided me a replacement!  Also... additional Kudos to the owner for not skimping on paper products!  The bagel comes wrapped in sturdy classic deli paper which is perfect for eating on the go!  Substantial napkins are plentiful and do the trick given the generous cream cheese servings! Frankel's was a great find on our weekend to Brooklyn!"
+        },
+        {
+            "date": "5달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNYmo1NHpsOHZ6VC1RRRAB",
+            "text": "Se vi piace il pastrami (e se non sapete cosa sia è un buon motivo per andarci),questo è il locale top.Il pastrami si trova ovunque a NY ma qui è veramente ottimo! Non è economico (come del resto tutta NY) ma ne vale veramente la pena. Anche se non è nella zona \"turistica\" di NY, il sandwich che mangerete vale la pena del \"viaggio\" (la zona è servita da una sola linea della metro) e non è a Manhattan (confine Queens / Brooklyn). Attenzione che fa orario solo mattutino (dalle 8 alle 15),noi siamo stati fortunati ad arrivare alle 14.45 per puro caso (abbiamo fatto una variazione fortuita del programma,in origine avevamo pianificato di cenare lí, dando per scontato che fosse aperto)."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJLUpodUd6Z2Z1LTNnRRAB",
+            "text": "Absolutely delicious! Every bagel has the perfect texture, made using a traditional recipe—and the fillings? Incredible. Thick layers of the freshest ingredients. I’m seriously obsessed. Total bagel heaven! 🥯✨"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNndTZheXpnRRAB",
+            "text": "Their heirloom tomatoes bagel sandwich is unreal 🤤🤤🤤 don’t know how they can turn even the skin of tomato to a buttery texture, but they can and they do! Love the flavouring oil they add to this sandwich, can’t get enough of it.. their salmon sandwich is also soooooo delicious, and the white fish is interesting\n(Have done only delivery, would love to try their amazing dishes fresh in person)"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfai1uODhnRRAB",
+            "text": "Lives up to the hype, retro deli with great food. Got the classic pastrami egg and cheese on an everything. Quick, hot, and delicious. Enough seating for a quick bite, all counter stools along the window. One of their better deals is 1/2 dozen day old bagels for $6."
+        },
+        {
+            "date": "4달 전",
+            "language": "it",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VMVFV6NXVLZ3EtRGh3RRAB",
+            "text": "Sicuramente un ottimo Pastrami in un ambiente semplice e molto pulito. Forse non è all’altezza di altri luoghi storici per il pastrmi ma è sicuramente un ottima alternativa"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfa2JHaEZnEAE",
+            "text": "Frankel’s is a great, modern retro Jewish deli. The pastrami is outstanding: unctuous, tender, great spice rub and an ample portion. We loved the Reuben along with cole slaw and horseradish beets! The service is efficient and the place is charming. There are maybe 8 counter seats along the windows and lots of takeout delivery people arriving."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLYWppWVRkcWZTMUZ3EAE",
+            "text": "great sammich shop in greenpoint! the pastrami and tuna salad sammiches were both great. a bit expensive but they do load the sammiches with plenty of ingredients/meat"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlN29xb0VBEAE",
+            "text": "I visit Frankel's Deli almost every time when I'm in town. Frankel's never disappoints.\n\nThis time I got the \"Frankel's #1 Bagel\" and a bacon egg & cheese on a roll.\n\nThe bagel itself wasn't the best bagel I have had in New York, but still pretty solid. The toppings though were A1. The combination of the pastrami salmon, scallion cream cheese and the dill cucumber salad worked really well.\n\nThe bacon egg & cheese on a roll is just perfect, 10/10! It's my alltime favorite bacon egg& cheese sandwich. I had it couple of times already.\nThe roll is the fluffiest roll you can imagine and the consistencies are on point. Crunchy bacon and gooey egg/cheese."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIeDdxNEl3EAE",
+            "text": "Lucky for us we got a hotel right down the road from Frankel’s Deli. This was on my list for must visit deli while in Brooklyn. It didn’t disappoint. We got the Frankel’s #1 Bagel Pastrami salmon,scallion cream cheese & dill cucumber salad on an everything Bagel, toasted. Simple but absolutely delicious. The service was spot on. Couldn’t ask for a better start to our visit to NY."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNucXJXMHFRRRAB",
+            "text": "Top tier open-faced bagels. Frankel’s is now one of my top three favorite bagel spots in NYC. I wish I lived closer to Greenpoint, but I’m willing to make the trek for these bagels.\n\n＊The Tartare w. Dill CC on Onion Bagel\nI don’t normally splurge on a lox bagel, but this one is worth every penny of it. Salmon tartare on bagel is a game changer and I’m still dreaming about it.\n\nYou can choose your own cream cheese for this bagel sandwich. I find dill cream cheese usually goes well with salmon and I highly recommend this combo.\n\n＊Heirloom Tomato on Sesame Bagel\nHeirloom tomato really makes all the difference — the sliced tomato is incredibly juicy and sweet. It comes with scallion cream cheese and herbs. Very fragrant and flavorful.\n\n＊Anita’s Hot Brisket on Griddled Challah\nMy bf gave his highest praise on this lunch sandwich. They really don’t skimp on the braised brisket — the sandwich is so hefty and thick! Meat is juicy and you can drizzle hot sauce for an extra kick of heat. The challah is well toasted and buttery."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwd3RMa0h3EAE",
+            "text": "The pastrami, egg, and cheese breakfast sandwich was tasty and filling. The place is has a simple interior with few seats and no restroom. It might be best to order out unless you're having a quick meal. I also like the fact that it's next to the G train and bus stops."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiOGEyNlNnEAE",
+            "text": "It's very tasty but I consider it overpriced (especially for Brooklyn and a place that mainly offers stuff \"to go\", since there's only a couple seats available). Katz's is more expensive but the experience is different (and it's in Manhattan)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0N3FTUmNREAE",
+            "text": "Best place to eat a scrumptious breakfast sandwich and people watch on a weekend morning.\n\nPerfectly cooked Egg and cheese!\nPastrami is salty and flavorful.\nThey have other treats too like the babka.\n\nIt does get pretty busy, so I would come early as possible"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLM2ZyVU9BEAE",
+            "text": "This is actually the best bagel place in Williamsburg/Greenpoint. Fresh ingredients, generous sizes, kind staff and decent prices. This is going to be my new bagel spot! Everyone else needs to step up their game!!!\n\nUpdate: I went back and they remembered me which was nice. Still the best bagel place. The pastrami bagel was 🔥🔥🔥🔥"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2bmVyWkd3EAE",
+            "text": "Frankel’s Fifty Dollar Flop for Two™️\n\nHot pastrami and a classic salmon nova lox bagel sandwich… both severely devoid of flavor. The design and customer experience inside the store was delicious I just wish the food matched. Love the tote bag and all of the merch available here.\n\nRegrettably we had to go home to season and spice up the food so it had some semblance of flavor. Not writing them off completely, but the price tag and reviews made me expect more from this prime location."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURENmVYLTBRRRAB",
+            "text": "Really good bagel. The place is quite small but you have some chairs in order to eat there. You can always order to go. The place is not in manhattan so you will need to travel 30’ on subway in order to reach the place. The service was really good. The only thing to mentioned is that you need to go early because if not some of the bagels are not going to be available. Great food quality."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGMGFYS0VnEAE",
+            "text": "Wait about 20 min on a stmaturday morning. WORTH IT. pastrami  and smoked salmon is incredible. We got the pastrami, egg, & cheese and the frankels #1. WOW DAMN. Also damn good iced coffee."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzd05DdVdREAE",
+            "text": "Best bagel sandwich spot in the neighborhood. The taylor ham egg and cheese has a special goey place in my heart whenever i am struggle bussing on a saturday or sunday morning.\n\nIts always busy because they are awesome so if you cant wait order ahead while you walk through the park, and dont go to late because they still sell out of everything sometimes."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQeVpIdkNBEAE",
+            "text": "First up on the list we had this Pastrami, Egg, and Cheese on a Challah Roll, absolutely loved it, it was soft, the meat was tender, and the eggs were so fluffy. The Frankel’s #1 Bagel has pastrami salmon, and the classic toppings, I would prefer less cucumber next time as I thought it took away from the salmon, but still a decent bagel. Lastly, the Pastrami Reuben was toasted to perfection, melty Swiss cheese, and and the pastrami once again was incredibly tender, warm, and juicy."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poak9EWnVWVWxQZG5OV1luUnViRnB5VkhacldVRRAB",
+            "text": "Cute little corner spot with amazing food!! My husband and I split the pastrami and walked away full and satisfied."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGNE1LZWRBEAE",
+            "text": "Pretty fire pastrami! Not too salty and good flavors. The pastrami egg and cheese on challah fell apart a bit while eating but that’s fine. Pickles were salty briny and crunchy."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyeS1mRGVREAE",
+            "text": "My go to sandwich place in the neighborhood. I love the pastrami sandwich (if I’m feeling hungry), the roast turkey (if I’m feeling healthy), and the frankel’s #1 bagel. The coleslaw here is great too. Pro tip: order online to avoid waiting in line!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6c0lqZGRREAE",
+            "text": "Mmmmmm . I have a thing for bagel sandwiches in nyc , and this establishment is not bad .\nThere’s always a line waiting for these bad boys and my husband couldn’t pass up another try at a bagel shop so here we are .\n\nThe prices are pretty steep , which usually bagel shops aren’t .\n\nBut the we got the pastrami (I think) and I can see why they had a high price tag .\nThe meat was Katz delicatessen grade , seasoned well ,succulent and juicy .\n\nPerhaps if I pass by the area, I’d come again . But I wouldn’t come all the way here just for a sandwich, esp given the price .\n\nBut overall tasty and worth a try ! And the cheese/meat pull 🤪"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxdGRQcUVBEAE",
+            "text": "Wow one of the best bagel spots in town. Soft warm bagels with the perfect amount of ingredients inside.\nThe marinated dill cucumbers were so refreshing."
+        }
+    ],
+    "reviews_count": 80
+}

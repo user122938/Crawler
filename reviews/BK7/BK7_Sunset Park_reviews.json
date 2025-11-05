@@ -1,0 +1,509 @@
+{
+    "name": "Sunset Park",
+    "place_id": "ChIJaXbNX8hawokRr7hHgliVAzs",
+    "grid": "BK7",
+    "address": "7th Avenue &, 43rd St, Brooklyn, NY 11232, USA",
+    "rating": 4.6,
+    "user_ratings_total": 5358,
+    "phone_number": "(212) 639-9675",
+    "reviews": [
+        {
+            "date": "3시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCeFltbDZWRnBaWTNnNFRXdHBOSEZoVUU5RlVYYxAB",
+            "text": "Good Times"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWbGVIRllablZaTkZWVllqRlZaV2hMWjI4NFNrRRAB",
+            "text": "Amazing View on Lower Manhattan from Inside the Park. Local People are Friendly & nice. Cuisine is ethnic Mexican & Hispanic of different Origins. Soccer Field is well taken care by the Parks Employees. The only negative part is illegal dumping in Park at the corner of 6 Ave & 44 St entrance by unknown People."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRdFVtTk9ZVXRNTm5aNVRIQkVkV1pSTjI1dmJrRRAB",
+            "text": "I know that summer has well passed, but during that time there is always fireflies at the evening and night."
+        },
+        {
+            "date": "수정일: 6일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRLS1QM0RREAE",
+            "text": "Great place to play basketball on the weekends, nice views of Manhattan"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSVVVVZGZjVWhUTTJJM1RtNTFYMWt4UjJJd1JrRRAB",
+            "text": "Perfect view of the city. I like to get ponchos juice and walk around."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNFckozUFV3EAE",
+            "text": "buen panorama"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KUVFURTNlaTFoV0VOeWVYaHBPV2RKVm5sU2FHYxAB",
+            "text": "Last Sunday was a Mexican Day of the death event,\nThe Parade was great, lots of entertaining  and delicious foods.\nWe are definitely visit this park soon..."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCU1ZXdFBWazFTUmxGSGVXTk1aREk0YzJkZldsRRAB",
+            "text": "Beautiful place with breathtaking views of manhattan, downtown Brooklyn, and Jersey city"
+        },
+        {
+            "date": "1주 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVVJqbDRVRk5UY1dwNmEwOUNhVGN4U0Vabk4wRRAB",
+            "text": "리뷰 보고 큰 기대 안 했는데.. 생각보다 평온한 분위기가 너무 좋았고, 노을 보러 또 올 예정!!! 이름값 제대로 할 듯~~"
+        },
+        {
+            "date": "1주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VMVZtZFNUMncwVm5nMFprSm9jSE5HTFhoTVpIYxAB",
+            "text": "从公园的高处可以看到曼哈顿天际线和自由女神像的日落景观，非常漂亮"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aUk4zbFpTM2R5TmtjNGJVZHNRbXB4TWpOb2NGRRAB",
+            "text": "Nice view and lovely squirrels!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ka2RHOVRWbWhvWmsxRGJtSnViazFyZWpOUldWRRAB",
+            "text": "Lovely park. Nice views of Manhattan."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GSGNIZE9WVTFWZFc1TE5raERhRWt5ZUZBNFZFRRAB",
+            "text": "beautiful and full of life at all hours"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21scUxUSktVMnBrWHpoRlJrSnllazFxTlhSd1IwRRAB",
+            "text": "Very good park i really enjoy walking and come often with my kids its close to our house and very clean environment."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oTk5IWklWM1J4WjBSbGRrZ3pjMngzYUd0U1ZuYxAB",
+            "text": "Beautiful location! It was quiet when I went in the early afternoon. The view is nice and you can really take in the sights here. I like the amenities in the area."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKclpXUk1NRnAyTVU1WWFGa3dObkZyWDJNdExWRRAB",
+            "text": "Muy buen lugar para sacar  el estrés  tiene una bonita mirada a manhattan"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twcU56SldZbkZUV21vMVZreHJRMGRUUm0wMmNrRRAB",
+            "text": "Amazing city views, better than from the cemetery."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQeUp5V01REAE",
+            "text": "Beautiful ❤️"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GbVpFbFNNVzVoTlU5a2VXcFBOWE5VZFdONk5tYxAB",
+            "text": "I rode through on the Transportation Alternatives century ride."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxbFpXOXNiV2g2UkdGS1MzTXdWWGhZZVZNdFRFRRAB",
+            "text": "Large neighborhood park with athletic fields and playground. A seasonal pool. And a few walking trails."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxOGRiTkl3EAE",
+            "text": "Huge park with lots to do. Multiple playgrounds, and ball fields. This place is always busy and in the heart of Sunset park. Highly recommend for anybody/family for a nice day out."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1ZmVqZFdlRkpLTTJNMWMxaHJSazFPZGtkNU9XYxAB",
+            "text": "Suoer genial para toda la familia"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aalZ6QnZZM1pmY1VFMmQxZG5PRm94ZEMweVVGRRAB",
+            "text": "A nice family friendly location in Brooklyn."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kWmJHWkJiRjl4TWpWNlNVVmlWSGhVZURWTmVIYxAB",
+            "text": "Beautiful park, a slice of peace within Brooklyn. I attend church nearby every Sunday and walk through the park occasionally just to get the wonderful skyline view of the city!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUFFtUTVVRzVVV1RoMmNGZzJRa2hUVlRoUFRWRRAB",
+            "text": "Great place to watch the sunset."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzNmJmS3ZBRRAB",
+            "text": "Buen lugar para compartir en familia"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25obmNHNVlXWFJ0TjE5VlMwdFhRemRTVDJOM2RuYxAB",
+            "text": "wonderful place"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xcVdqWkJiek4xVW14bmNGZFphVUZWUlZNNFFsRRAB",
+            "text": "It's a beautiful park with a nice view of the city from an elevated point, but it's not one of my favorites. Much prefer going to parks that aren't built around public schools since this one has a school inside the middle of it. It's also not exactly as spacious as some other parks (Prospect, Central, Inwood Hill) so I took off 1 star for that.\n\nIt is right next to Greenwood Cemetary which is also a plus (check out my review of Greenwood Cemetary in my profile!) overall NOT A PARK i'd keep going back to since i'm in Queens and the commute is already long enough but maybe it will be to some other people's taste more..."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wYVRXSldURXRIWTB4VlVHTXpVWE5UTWkwMVowRRAB",
+            "text": "Zona de recreo de Brooklyn. El verdadero pulmón verde se encuentra en Greenwood Village."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0UWJHNVpOVXQ1VmtWbFdrZHJabEJRVlZCbVZGRRAB",
+            "text": "Amazing park and good soccer teams"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25weldtSjVUMjF5V1dNMWNWZG9UMUYxUzJKb1dIYxAB",
+            "text": "A beautiful park in Brooklyn that my son and daughter-in-law showed us this weekend. Great views of Manhattan and just a nice down-to-earth place"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaWmNsOUphREpXYnpGb1dXMXRVbDgzV0VScFRtYxAB",
+            "text": "Muy bonito"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VMmEwcEhjemxvTTBsVUxYcEVSVkIzY2pSVGVGRRAB",
+            "text": "Hermoso"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paVGVXZDFlV3RMUXkwd0xYSmhkMnBzV2kxNFVuYxAB",
+            "text": "Una puesta de sol digna de su propio nombre !! Me encantó ❤️❤️❤️❤️❤️❤️!\nRecomendado !"
+        },
+        {
+            "date": "3달 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJMVEwVlBiSGhaUm14eGFHZHlXbkpvT1hKWFoyYxAB",
+            "text": "풍경 하나 보러 맨해튼에서 여기까지 오실 분들은 비추합니다.. 주변에 뭐가 없고 너무 머네요. 날씨 영향도 있겠지만 풍경도 그닥.."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUcnRuVzF3RRAB",
+            "text": "예전 창고가 멋진 상업공간으로 재탄생\n자유롭게 돌아다니면서 보고 음식도 먹고\n아주 좋아요"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWd1RGTTBkbmRLTm5aSWJVbzVkVTB0Y3pZMVkwRRAB",
+            "text": "Urban serenity place but with warmth and presence of community and life. It has a stunning view of the Manhattan skyline -- I took my time searching for the best angle. Actually this reminds me of a similar place on Manhattan, the Morningside Heights. A symmetrical place on the other side :)"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNUG4yTW4teGNHOURnEAE",
+            "text": "Sunset Park - the neighborhood and the park - is full of community. Within the park, you have stunning views of the Manhattan skyline alongside people dancing, children playing, sports games, dogs running, kites flying, and so much more. As the seasons change, Sunset Park does too. And it’s always worth a visit."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkWVEydE9WamRIYjIxYVlYcFJUblE0VGtGelVXYxAB",
+            "text": "Un lugar tranquilo, con gente del barrio disfrutando del césped, las canchas de deporte, los bancos... Se llena de personas de origen asiático jugando al Mahjong, gente haciendo deporte, sesteando, tocando la guitarra... Unas vistas de Manhattan súper especiales y un atardecer precioso."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oa2IwbDBkMlphTkRjemF6QkNhVEpITFVFeFVWRRAB",
+            "text": "Sunset Park – A Beautiful Hidden Gem in Brooklyn\n\nSunset Park is one of Brooklyn’s best-kept secrets, offering stunning views of the Manhattan skyline, the Statue of Liberty, and New York Harbor. The park is perched on a hill, making it a perfect spot to relax, enjoy a picnic, or watch the sunset—just as its name suggests.\n\nThe park has a great mix of green space, playgrounds, and sports areas, including basketball courts, a soccer field, and even a public pool in the summer. It’s family-friendly and always full of life, with locals enjoying everything from morning walks to evening gatherings.\n\nOne of the highlights is the incredible cultural diversity in the neighborhood surrounding the park. After visiting, you can explore authentic Mexican, Chinese, and Latin American restaurants just a short walk away.\n\nOverall, Sunset Park is a peaceful, scenic, and vibrant spot in Brooklyn—perfect for anyone looking to enjoy nature, amazing views, and the rich culture of the area."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GYWFWcFFaR1ZVT0d0alEwbHBSMnRCVVV4V2NVRRAB",
+            "text": "Amazing views of the Manhattan skyline and Statue of Liberty, especially at sunset! Peaceful, spacious, and a great spot to relax or take photos. Loved my visit to Sunset Park!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sweE9IWkRiR2s0V1RkRVNIRnlaR2x5TFc5UGMyYxAB",
+            "text": "It’s a great park to watch the sunset. Highly recommended. There is a playground, lots of grass and enjoy the rest."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNieUw3ZjVnRRAB",
+            "text": "This is the best park in NY. The views panoramic views of Manhattan and the statue of liberty are mesmerizing. And groups of cute Asian aunties do their dancing tai chi. Positive family vibes along with a lot of pets. Feels like home."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIdk12M1hBEAE",
+            "text": "One of the best views of the NYC skyline without anyone here, it is quiet yet not secluded. Perfect picnic spot; great for viewing the 9/11 tribute lights as well."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvaTRfek9BEAE",
+            "text": "Gorgeous park. There are lots of hills, so get ready for a workout, but it's perfect for picnics and workouts."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4NWJuSnNUV2RUTFdRMVpVVXpNMUZxV0ZWbVdtYxAB",
+            "text": "Amo este parque me conecta con quien creó todo incluyendome."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLYXItTm1adDlHNllREAE",
+            "text": "One of my favorite parks in Brooklyn, you can have picnics, fly kites, go to a playground which was renovated & is larger w/ a sand pit.\n\nIt's also very high up and you get an incredible view of lower Manhattan & Statue of liberty that you can't get any where else.  It's very surreal & most people are blown away.\n\nYou can play nearly any kind of sport here.\n\nThere's also a swimming pool in the summer."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnMFNrUkVZbWcyYWxwM00weFZaR2x0Y1drMldWRRAB",
+            "text": "You can see great pre-9/11 footage of Sunset Park in MF Doom's video for his song \"?\""
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGa2N2Tmd3RRAB",
+            "text": "Went to the park on a visit to NYC. Very busy playground with sand pit on w/e. Much quieter during the week. Great views of the Statue of Liberty and NYC skyline in the park. All kinds of activities on the weekend. 5th street below the park has a busy retail/flower sales/restaurants area."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kNk5sZHdWV1pLZVU5WmJuUTVWa05oVVRSSlRIYxAB",
+            "text": "I like the park. It is very community based. I watch the tai chi participants move in unison like the Asian elder dancers. Exercise and health is the foundation. Very peaceful and the is a lot of soccer and volleyball playing. Pool is excellent...."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyZ2RDakFnEAE",
+            "text": "Love this park, is huge with a beautiful view of the city. You won’t find security over there and there’s ppl smoking and gambling on the tables and spaces. Have amazing and fun entertainment section for kids, have water all over the park…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZNkxmcUdnEAE",
+            "text": "Culture, diversity, and community—three words that best describe Sunset Park. Sports, dance, and music are just a few of the vibrant activities you’ll find here. The glorious view of Manhattan is always a sight worth seeing, and the “sunset” in Sunset Park truly lives up to its name, its breathtaking. This park has it all. Surrounding the park are amazing food options and a strong sense of community that shines brightest in the afternoon but continues to shimmer into the night. No other park in the city has a community quite like Sunset Park. Whether you’re a tourist, a native, or anyone in between, I’d recommend this park to everyone."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5N01xa1lnEAE",
+            "text": "Pretty skies, good area. Very spacious and filled w people on a Sunday! Only thing was, park was not super duper clean, many leaves all over. But overall a nice stroll in the park ^^' and caught the sunset! 🌇…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKb3F2cGh3RRAB",
+            "text": "See it to believe. Experience it and you may just want to return. It is summer time in Sunset Park. Members of the Chinese community are out in their numbers seated on the benches, doing group dancing of many different forms on several of the paved open areas, dancing with swords on the groomed lawns.... This park boasts of a very attractively built playground with bars, slides, a sand pit and interactive stations. There are also full-sized swings for kids of all ages. You may see community members grouped together to clean the park. You can find several people walking their dogs, playing sports on the court or on the grassy area. There is an Olympic sized pool that is of course a summer favourite. The park is one of the sites for city parks free summer sports camp for kids."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4bU43ME5REAE",
+            "text": "Awesome to see everyone out at the park having fun. The playground, courts, open spaces were all being used! There were line dancing classes going on. We need to take this energy back to our home town!"
+        },
+        {
+            "date": "2년 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKdE5ESER3EAE",
+            "text": "Отличный парк, хороший обзор на нижний Манхэттен, Нью Джерси и даунтаун Бруклина, функциональная детская площадка, футбольное поле, лавочки всё в отличном состояние. Конечно лучше приходить вечером с пледом и напитками для созерцания великолепного заката, можно наблюдать за пролетающими самолётами из аэропорта Кенеди и Джерси"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURud3VMakVBEAE",
+            "text": "Este es un parque chiquito donde la comunidad diversa migrante de Brooklyn se encuentra. Es un gran lugar para ver el atardecer y comer cosas de todo el mundo alrededor. Un must."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4eGVpckNBEAE",
+            "text": "Sunset Park is one of New York’s hidden treasures.  Tucked away in the Brooklyn neighborhood that bares its name, this park is famous for its breathtaking vista.  Sunset Park offers, at sunset, and at all times, stunning views of the rugged skyline of Manhattan."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoeXRUa01nEAE",
+            "text": "Great large park. Highest natural point in Brooklyn I think. With views of downtown Brooklyn, Manhattan and the waters. Basketball court.  Volleyball. Dog park. Benches. People walk around. Swimming pool in summer and a city gym."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwNzhYMzJnRRAB",
+            "text": "Come alone, come with your friends, family, pets, dogs, cats, your main chick, side chick. You're gonna love it! One of the best picnic spots in Brooklyn.\nAlso, Tacos El Broncos is 5 mins away (:"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoenRfWW1nRRAB",
+            "text": "Sunset Park is a vibrant and diverse neighborhood located in the southwestern part of Brooklyn, New York.\n\nOne of the main attractions of Sunset Park is the park itself, which boasts stunning views of Manhattan's skyline and the Statue of Liberty. The park is a perfect spot for a picnic, a stroll, or to simply relax and enjoy the scenery. The park also features playgrounds, sports fields, and a swimming pool, making it a popular destination for families and sports enthusiasts.\n\nSunset Park is also known for its diverse range of restaurants, offering cuisine from all over the world. Visitors can find everything from authentic Chinese and Mexican food to trendy brunch spots and hip coffee shops. The neighborhood is particularly famous for its delicious Mexican food, with several top-rated taquerias and restaurants located in the area."
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaM2FrTk1aWE5EYlVwTlRWQk5OSFpVZDB4Q1RrRRAB",
+            "text": "Vue, piscine olympique, Green point et Prospect park à côté. Ombragé."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvLTZPSjRnRRAB",
+            "text": "Great Manhattan view. One of the best parks in NY"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKb2U3QnZ3RRAB",
+            "text": "Pretty cool park. There are cultural groups doing pretty cool stuff. Multiple different groups of people practicing dancing. Big soccer field for kids. Big area to take a stroll as well. Wish it was a bit cleaner, but it’s ok for normal outings."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKak9XSVdREAE",
+            "text": "✅Grandes Vistas!\n✅Se puede ver New Jersey y Manhattan a la vez que también parte de Brooklyn.\n✅Es un excelente lugar para hacer picnics.\n✅Presencia policial constante.\n✅Cuenta con área de ejercicios y canchas de volleyball, fútbol."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJbEtLcE1BEAE",
+            "text": "Beautiful park with a great view of the Statue of Liberty, overlooking Manhattan. I invite you to visit it."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURReG9IejVRRRAB",
+            "text": "Lovely municipal park in Brooklyn & quite picture worthy - clean & nicely maintained with lots of walkers including mothers & fathers with children. There are swings for kids as shown in my photos. There are also various artworks & a WWI…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyNFB2T21BRRAB",
+            "text": "Great place to chill and relax or even walk your dog. People are taking a nap, camping, reading, climbing trees, skateboarding, etc,. Close to Industry City, come visit if you are around. We haven’t been to sunset period, maybe next time."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvdi1UemNBEAE",
+            "text": "Great place to chill. You can see most of NYC biggest buildings and also sunsets are pretty good. There’s a pool open to the public during the summer so that’s a good spot to go swimming."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWE4zbFNaa3hETTNNM2FqWmpkVTR3YlhJM05GRRAB",
+            "text": "Sunset Park es uno de esos lugares que uno agradece tener cerca. Tiene de todo: una gran vista de Manhattan y la Estatua de la Libertad, espacios amplios para caminar, hacer ejercicio o simplemente relajarse.\n\nEl parque es muy familiar, ideal para venir con los niños, hacer un picnic o pasar el rato bajo la sombra de los árboles. También tiene una piscina pública al aire libre (que abre en verano), canchas deportivas, zonas infantiles, y muchas bancas donde uno se puede sentar a ver el atardecer —de ahí su nombre, y con toda razón.\n\nLo que más me gusta es la sensación de comunidad. Gente jugando ajedrez, otros haciendo yoga, niños corriendo y familias disfrutando el aire libre. Todo eso hace que el parque tenga vida y buena energía.\n\nAdemás, el área está bien mantenida, limpia y con buena iluminación. Es perfecto tanto para hacer ejercicio temprano como para dar una caminata tranquila al final del día.\n\nSi estás en Brooklyn y no conoces Sunset Park, te estás perdiendo de una de las vistas más espectaculares de toda la ciudad. ¡Totalmente recomendado!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlOGQ3bVZREAE",
+            "text": "It's the highest point in Brooklyn with great views of the Manhattan/NJ. There's plenty of families, playground for the kids, open fields for the doggos, and lots of other activities happening all around the park. Love coming here for the views and dog watching 🐶😍🌆…"
+        }
+    ],
+    "reviews_count": 71
+}

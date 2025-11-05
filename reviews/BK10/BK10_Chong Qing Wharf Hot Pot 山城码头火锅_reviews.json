@@ -1,0 +1,656 @@
+{
+    "name": "Chong Qing Wharf Hot Pot 山城码头火锅",
+    "place_id": "ChIJnb9yDJ5FwokRxvta_ABUFug",
+    "grid": "BK10",
+    "address": "6324 Fort Hamilton Pkwy, Brooklyn, NY 11219, USA",
+    "rating": 4.8,
+    "user_ratings_total": 3582,
+    "phone_number": "(718) 489-0333",
+    "reviews": [
+        {
+            "date": "14시간 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KV05VVmtWV2t0VlVGWE0xVlRUMUZyVUZOMFdXYxAB",
+            "text": "这家海鲜火锅店食材新鲜，种类丰富，汤底鲜美，尤其是海鲜的处理非常讲究，保留了原汁原味。服务热情周到，环境干净舒适，是和家人朋友聚餐的好选择！"
+        },
+        {
+            "date": "수정일: 15시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkTVdqSlNNbGd4U1dKSldUUTJNV3hMT0V0SVRGRRAB",
+            "text": "Wonderful food and service ! Love it"
+        },
+        {
+            "date": "15시간 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsMFpqRTBVak55ZFZCdmVUY3ROM0ZSUjI5bUxVRRAB",
+            "text": "这家海鲜自助一直都想来。但是住的太远了。今天第一次来，什么海鲜都有，而且很新鲜。出餐也非常快，而且小哥们很热情。点赞👍"
+        },
+        {
+            "date": "20시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nM1lWaFRkMjV5UmxvNGNTMUVlbTlIVjNSemJIYxAB",
+            "text": "The mantis shrimp was good :)"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kNFdGbHBhekZVWVdOSFNVTmpUMk5NUXpCWE0wRRAB",
+            "text": "Coming back"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjdE4xRXlTRXRZVm1SclVtZDRPVlJKUWxCRVUzYxAB",
+            "text": "So much delicious food! It just keeps coming. One of the most amazing unique dining experiences I’ve ever had. It’s like an amusement park for food!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWlR6ZEZPVGRNZDJGbVZFVmphMFZyUzBoeVlsRRAB",
+            "text": "fresh seafood, quick service, authentic hot pot experience"
+        },
+        {
+            "date": "2일 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCR1pFeFlVSGcxT1dkdVowTnZjMjE1U1ZWNWNVRRAB",
+            "text": "非常不錯哦\n都很新鮮，孩子吃的很高興！\n一定會再來的！"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOR09EbEdiR3hmZGxCeVdXcERkM1V4YTI5dlpYYxAB",
+            "text": "Great place, great food, and amazing service. The severs are so attentive and helpful. Variety of raw seafood and quality meats for hot pot. Second time here and planning to come more and more."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205T2NIRllaVGxPUVMxQlFXc3lkbVJaTTBSMVRHYxAB",
+            "text": "My favorite AYCE hot pot in nyc!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5bE5VbGxSbXhSUkd0dmVEZFNlVE5qT0RodE5VRRAB",
+            "text": "Food was very fresh! Lovely staff!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FNFRtNTFPVVJhU0drd1NsZEdNVFJUUkcxTGJtYxAB",
+            "text": "Best hot pot in town and service is excellence too"
+        },
+        {
+            "date": "3일 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WNFFqQkVRbkYyYkdnemNFSkRkMGxWYUdsclFsRRAB",
+            "text": "超级好吃！！！东西种类多上菜快服务特别好！！！都来！！！"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwU2FXWkViMVJDTlcxcVNITnhPRGRIWWt4TlNuYxAB",
+            "text": "so good"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sdk5tcGFZbGRUUzFwZlRqYzFZVnBuZHpKNVRYYxAB",
+            "text": "Clean and fresh seafood. Wonderful."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Od1FteHpkV2wxYVZOMGJVVnphR1YyYmtkQmJXYxAB",
+            "text": "Good atmosphere and food!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sWmRsUk5ORWxLTjI0MFZIVnNTbWxmU1dObFZuYxAB",
+            "text": "Service was quick and food portion was generous. Had a great time here"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poc2RqZG1WRXR6U2paUFQzVXljV1pWYzBkSE4zYxAB",
+            "text": "Highly recommended!"
+        },
+        {
+            "date": "5일 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkdVJHRnZWbFZMY2tsVlgzZ3lTVFJ1WlZkRFJrRRAB",
+            "text": "经常来吃 任吃榴莲和皮皮虾 吃爽了！再远都要开车去😆 开来法拉盛吧～～～～～plsss"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSc1pVNTNhRVZxZUZRNGNFb3hPR1Y1VlVaVVRIYxAB",
+            "text": "Very, very good"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rMVVVTlhTSGN5T0RNMlozUnhOSEIxVjNkVFpuYxAB",
+            "text": "Amazing value for seafood and hotpot. Lobster came out fresh and was delicious. Also good quality meat."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poMldEQkdYMjB3V0ZjMU9VdHllbTUzTjB4c1JIYxAB",
+            "text": "My to go place for hotpot, definitely the most selections. The service is top notch"
+        },
+        {
+            "date": "1주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GNVNIZG5RM0l4ZFVkeWQwOXNkVnBCVkRsc1VXYxAB",
+            "text": "好好吃海鲜好新鲜 皮皮虾和游水虾活蹦乱跳的"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prdGJUVldNVVJUV0ZneFNsVjRWWFpmUm14R01XYxAB",
+            "text": "The have the freshest seafood here with a great variety, I know I would be craving for this in the future already"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201SWRUZG5hRkF5U3pkRmFGRnJUVlV3TkU4MllYYxAB",
+            "text": "BEST HOTPOT IN NY! Super fresh seafood and i like the atmosphere. Lots of drinks and food options. Great service, MUST COME!"
+        },
+        {
+            "date": "1주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNdGJGbHJaMU5sYVV4Sk1qRjFUekptWVd0aE5sRRAB",
+            "text": "很棒很棒很棒真的很棒"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVGMyMW9lV0ZGVFZKblVYYzRTbk5LZEZWcVVXYxAB",
+            "text": "Decent food!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pobFpWcHpSVGROYW5oSFpGRXpWV1I0Y1dwNVFtYxAB",
+            "text": "Food is so good!! Great service as well stsffs are so nice!"
+        },
+        {
+            "date": "1주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wRU5VdFlhMDV6V1UwNGMydFJOMVZhY3pVM2RXYxAB",
+            "text": "纽约海鲜自助天花板，小哥哥小姐姐们服务非常棒！"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sSGFEaGhZVVF6YzNOSE1XbFpkRUZGUXpCTE5sRRAB",
+            "text": "Amazing hotpot experience! The broths were flavorful and well-balanced, the meat and vegetables were fresh and sliced perfectly, and the dipping sauce bar had plenty of options. Staff were attentive and refilled our pot quickly. Cozy atmosphere and fair prices — a great spot for groups or family dinners. Will definitely be back."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poRVZFSmFRa0phY2pSeWMwbEplR2xKWWxwUlRVRRAB",
+            "text": "Good all you can eat hotpot place! Good quality fruits and desserts as well."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFelIwRlpkVTVwZEU4eGJUWjJUMEppTlZaaWVGRRAB",
+            "text": "My family and I visited other Hot Pot locations in New Jersey. However, this is the first Hot Pot we’ve visited in New York. This was a very pleasant experience and while expensive, it was more than worth it. Highly recommend visiting!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psYVFYcGtPVWRWZVdaTFoyVktiR0ZIV205d2NXYxAB",
+            "text": "Everytime I join in waiting list on line when I leave my house. My house in flushing, but my wife really love this place, we almost be there once a week, so we know when we can get in line."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKU1JuTnZXbXhsU21SeFYwTXhVekF4WDNCRWNYYxAB",
+            "text": "The hot pot very delicious and the food so fresh. Services are really good and friendly. Highly recommend!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rMmRqRkVSa2hHTW1kUlZERlpZa1JVY1hOdk0xRRAB",
+            "text": "牛逼，虾爬子都有，这水平算是美国头子了👍🏻"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZeVh6RkljM0pDY1Znd1NtdENSa1ZUYlc1dmVXYxAB",
+            "text": "All you can eat seafood hotpot. Plenty of seating place including booth. Service was excellent, servers didn’t just accommodate their sole table but assisted others as well."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xacVQxbGxUMUpQZW1nM1QwMWlMVWRaVWpKR1QwRRAB",
+            "text": "Need to try this restaurant if you haven’t, best all you can have hot pot in New York City!"
+        },
+        {
+            "date": "2주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkUk5GVkdWa2ROYkdGTmVsbHRPSHB4ZGpKYWRGRRAB",
+            "text": "吃了N次山城码头。还是一样的给力。太好了。服务好。食物好。八大道火锅店的榜样。😊😊😊"
+        },
+        {
+            "date": "2주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaZk5EUlRSa3BvVFdKSmJGSnlTR05QZEZwUWNrRRAB",
+            "text": "食物新鲜，服务好，皮皮虾自由"
+        },
+        {
+            "date": "2주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0d1IwTXRTVnBSWTJwNVJqbFJNRTVHVVZKdFdXYxAB",
+            "text": "锅底真的一绝！麻得过瘾、辣得刚好，不是那种死辣，而是香辣入魂～牛肉片嫩得离谱，毛肚脆脆的，黄喉爽到飞起😋。连小料区都超讲究，芝麻酱、蒜泥、葱香油随心搭。"
+        },
+        {
+            "date": "2주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pabWEyOXVaRGRpVHpkS1JYTmZWMWxyUmtad2VrRRAB",
+            "text": "去了三次都体验的不错 现在有皮皮虾很新鲜 还都有籽 好吃😋"
+        },
+        {
+            "date": "2주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsR2JIUjJZVTg0TkZrMVZGb3RhazVYWjBodGQxRRAB",
+            "text": "吃过最新鲜的海鲜自助餐，还送龙虾，每人送一份甜品和饮料。强力推荐。"
+        },
+        {
+            "date": "2주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxNU16UnFWamhSWjBWdmVEQnFTVkZWVjJVd2RYYxAB",
+            "text": "服务很好"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvd2IyVnFMVnB1ZFUxTlkxTnpRazlyUmxCNlNrRRAB",
+            "text": "So great!! Clean, and the waiters are so nice. Everything is AYCE : including drinks, deserts, meat, sashimi , and more. Individual booths as well."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wdFNtMWxURVpOU0RSUFQxUTRRbnAyU25wT1FsRRAB",
+            "text": "Very clean and good location. Great seafood options, will definitely be back again soon!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkZmNXbzJSemcyVkdnM05USnFOa1YyTWtVMmNVRRAB",
+            "text": "Every good restaurant. Always enjoy having dinner tyhere"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSeVZrMHRXVzFxUVZkRFltTTNXSFpUYjB0dFJHYxAB",
+            "text": "Chong Qing Wharf Hot Pot was an excellent experience! The food was flavorful, fresh, and perfectly cooked(by myself lol). The broth had a great balance of spice and richness, we tried the spicy and the chicken fish as and all the ingredients tasted high quality. The staff was friendly, and the atmosphere was warm and inviting, definitely a spot worth coming back to for authentic hot pot."
+        },
+        {
+            "date": "2주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wNWMzRk5PWEp4UkRGQmRFNDVNVEZGTkhjeVprRRAB",
+            "text": "有机会一定要来体验一下这家火锅店！！！\n店铺环境非常干净，食材非常新鲜。\n周五晚上和周末可能会需要排队，但店员态度很好而且在等位时候有小点心。\n和朋友两人吃的很开心，就这个价位来说物超所值！！"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25abmMyRjBhbll4ZEdSWlYwcDRiMHd3V1hGRFJXYxAB",
+            "text": "This hotpot restaurant is a hidden gem. The broths are rich and flavorful, the ingredients fresh and beautifully presented, and the atmosphere warm and welcoming. Every bite feels like comfort in a bowl. The staff are kind and attentive, making the whole experience feel like dining with family. A perfect spot to slow down, share a meal, and savor the moment. Can’t wait to come back!"
+        },
+        {
+            "date": "2주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paalYybHBSazE0WjNGZlYwTkpWVmx2YTIxR05VRRAB",
+            "text": "食材很新鲜，服务很亲切，强烈推荐！"
+        },
+        {
+            "date": "3달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SRFpXNW5OV3RqVVRkMVMzbzBZWGRRVUUwMVZWRRAB",
+            "text": "인당65 무제한음식"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pobVp6RTFiWFkxT0hSc1lsUk1kMUpJWHpoeVpuYxAB",
+            "text": "Chong Qing Wharf Hot Pot is an AYCE hot pot restaurant that offers fresh foods from meats to sashimi to seafood to veggies, a great variety of unlimited drinks and most of all, excellent service!\n\nWe simply joined their waitlist on Google Maps and waited for their phone call that our table was ready. We haven't come for a long time but upon arriving, Tammy greeted us and immediately remembered us! And most special of all, she remembered our Baby! ❤️ Shows how much they value their customers 😊\n\nWe enjoyed all the different food options including fruits, meats, sashimi, seafood, veggies and desserts. They give you an option after you're seated between lobster, geoduck or a sashimi platter. Their price is more expensive compared to other AYCE hot pot places but we appreciate the freshness of their foods and the many options we can choose from.\n\nEveryone that works here are really friendly and works very efficiently. Every time we asked for something, we got it pretty fast. Ricky was one of the few people who took care of our table and they were great! We appreciate them making sure everything was good especially with our Baby throughout our dinner. As parents, we're super happy when any place shows extra care to our Baby. We had a great experience dining here and would definitely recommend this! 👍🏼👍🏼👍🏼"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUlZUUldUMmhZVXpGdFNrVnhia2x6U3paVVgxRRAB",
+            "text": "Chong Qing Wharf Hot Pot is an excellent spot for anyone who enjoys all-you-can-eat dining. The food was fresh and very flavorful, making it a great place to share a meal with friends or family. The seafood selection was especially impressive, with plenty of options to enjoy either cooked in the hot pot or eaten raw. The salmon, in particular, stood out—it was better than what I’ve had at most other places. Overall, I’d highly recommend this restaurant to anyone looking for a fun and delicious dining experience."
+        },
+        {
+            "date": "1달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GVWFYazFXREJQVFhsWVQyUjRkbGg1VFRWS1RuYxAB",
+            "text": "帅哥人炒好哦！服务积极又周到细致^_^\n海鲜很新鲜 榴莲很好吃😋\n好员工会给餐厅带来好印象哦 老板赶紧加薪加薪！！！\n帅t也nice 下次还来～"
+        },
+        {
+            "date": "3주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxRGIyczRRVUk0UjNsM1gzbzFiSFpRYzNORVdWRRAB",
+            "text": "这次来纽约就三天，已经第二次来吃山城码头了。今天下午再吃一次开车回外州咯。我家老大最喜欢的一家海鲜火锅。也是我们一家四口最喜欢的火锅店。海鲜新鲜服务也好。不过上次高峰期等很久2小时😅。今天4点多来不用等。"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNdGRIbDZWakZaU0RKc1RYZGlaMWswUVVwSVJWRRAB",
+            "text": "The food here is fresh and delicious. The staffs are very good. Everything is perfect. If I have a chance, I will definitely come back to use the service here again."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psa1dFUmhVVU5VY0dKbVNsWjRMVU5TY1hSUk5sRRAB",
+            "text": "Seafood was incredibly fresh, and the place was spotless and well organized. The staff were attentive and caring, and the variety of dishes was impressive. Highly recommend this spot for anyone craving authentic hot pot!"
+        },
+        {
+            "date": "2달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GbVkzQktkbVJTZEUxaVVrNXZlRm94YUVkQmRXYxAB",
+            "text": "好吃，推荐大家来尝试下！食物美味还新鲜，适合朋友们一起小聚～"
+        },
+        {
+            "date": "2주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoMFRIbHZUMHBXWWxCNllWZEtka0ZqY0dOUk1VRRAB",
+            "text": "锅底真的一绝！麻得过瘾、辣得刚好，不是那种死辣，而是香辣入魂～牛肉片嫩得离谱，毛肚脆脆的，黄喉爽到飞起😋。连小料区都超讲究，芝麻酱、蒜泥、葱香油随心搭。\n\n服务也太好了吧！上菜快、加汤勤，服务员还一直笑嘻嘻地帮忙换盘子，态度真的👍🏻👍🏻👍🏻"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SSFJ6ZGZjVXRQYm5FeVZtbDRUblZwU214bVlXYxAB",
+            "text": "Located in Brooklyn, this AYCE and AYCD spot is a hotpot lover's dream. This spacious restaurant has lots of tables and booths for parties of different sizes to enjoy hot pot together. You should also try to get your name on the reservation list ahead of getting here (you can do it online!) as it tends to have a wait.\n\nHere, you can get not only hot pot, but also skewers and sashimi. So you can bet that we also ordered skewers and sashimi. The skewers were juicy and huge portions, and the sashimi had a large variety and was pretty fresh. All of the ingredients for the hot pot were great quality and it was so good. There's so many options and premium seafood options as well. Love the desserts and appetizers that you can get too! Would highly recommend to anyone who loves hot pot."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLVEwzNUgtOS1IY3lnRRAB",
+            "text": "Great quality seafood and meats for AYCE!!! Friendly service and lots of drink options. They have a lot more variety than any other AYCE I've ever had. They even serve durian which is usually very pricey. 10/10, we will definitely come back again!! There is a 2 hour limit but they're not strict if it's not super busy."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxaU9VaHJNbFpNV0hGdVRETkZiMFJJTjNSdGVtYxAB",
+            "text": "Spicy hotpot is so good, very similar to local Chongqing style. Love it. The base is absolutely delicious, best in US. Really brings the whole meal together."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxME9UQmtOMGRaTTBVMlJGWnVlVFo0TkdsaWNYYxAB",
+            "text": "Awesome food, attentive staff\nIt might seem pricy, but its worth it.  Large selection of meats/seafood/sashimi/veggies.\nPay cash get extra goodies."
+        },
+        {
+            "date": "4주 전",
+            "language": "zh",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSWldHSXRiME5IZEhKTGNEUkdSMHBtZUZoS01YYxAB",
+            "text": "龙土鱼不新鲜也就算了，皮皮虾都是死的。上的第一盘就是死的，让服务员换了活的，来两次活的后面全是上死的，一次一个人就一只，主要我们吃的死的会过敏，煮了有味道，肉是软趴趴不能吃"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4elMxYzRMVzF1U1VJd2RVVkhNM1pDWTNSb1VtYxAB",
+            "text": "Really great customer service and a variety of meats and seafood. They were able to sit a party of 13 on a busy night which we so appreciated since we had a baby with us. I thoroughly enjoyed the unlimited durian :)\n\nAlso don’t sleep on this dessert, so good!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214alYzSkdUMFpYVFhaNlVEWm1ZV2xqUm1SR2JVRRAB",
+            "text": "I had an amazing dining experience at this seafood hotpot buffet in Brooklyn! The ingredients were super fresh, especially the seafood — the crab, shrimp, and clams were top quality. The variety of sauces and broths made it easy to customize the flavors just the way I like. The staff was friendly and attentive, and the place was clean and well-organized. Great value for the price, too. Highly recommend it if you're a hotpot or seafood lover!"
+        },
+        {
+            "date": "3달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWMVRtbFNlRVZ4YTJWSGRqWlZSMGx6TFRsalRsRRAB",
+            "text": "这次的用餐体验非常非常非常的棒！！！！！！！尤其我们的服务员小江！！！又帅！！他服务又特别好！！始终面带微笑，非常细心周到。还主动过来剥虾和雪蟹腿。不管是加汤、还是点菜，换盘子他都主动帮忙，还会贴心地提醒我们吃涮菜的最佳时间，让整个用餐过程非常愉快。小江还特别耐心，真的很专业。下次来还想坐在小江负责的区域！"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21acmNscFlaV0pWWDNGbU4wTXRhelp3VTFoWE5VRRAB",
+            "text": "Very fresh seafood and great service. I believe it’s the best seafood hotpot I had in NYC. If you are a super seafood fan, you can’t miss it. Found out the secret server in the restaurant, you will have special deshell service! Just remember to add waitlist to avoid the wait time!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUlMwTllOalkwU0dsUVVYaG5hVFJWZHpKbGRGRRAB",
+            "text": "This is our go-to spot! The seafood is always fresh, and we love that they offer free lobster and geoduck, it’s such a treat. The service is excellent, and Olay in particular is amazing: attentive, welcoming, and always going above and beyond to make sure we have a great experience. We truly enjoy coming here every time!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VMFNGUlBXV2cyTVdzelVuVndVMWd3TFVKVVZHYxAB",
+            "text": "We were in western Brooklyn to do some auto sport modifications and needed to pick up our car at 5pm, no chance of getting back into Long Island on the Belt Parkway at the Pinnacle of NYC's rush hour so we decided to wait it out and eat locally at a premium AYCE hot-poteria. The selections were very good and included one premium choice of lobster or geoduck. We had the geoduck sashimi, tiny, but fresh. The selections weren't exorbitant, but covered, seafood, meats, vegetables, boba tea (free, if you pay cash) and canned premium soft drinks. Our server was \"Ada\", ABC, BBC, extremely proficient, professional and courteous. She was the star of our evening here. The table wasn't ideal as we couldn't score a booth and the vents at our aisle table were pulling the steam directly into our faces. Still the food and drinks were good enough to overcome the constant steam blasts. $160 for 2 of us, all-in, cash. Yummy in Brooklyn."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMV1RnN2poeTVyNm1RRRAB",
+            "text": "Food is fresh and clean! Durian is my favorite and unlimited. Sashimi unlimited is great! Eating with my friends, the service is attentive and the atmosphere is welcoming! Will come back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paSk5WSjNhakYzYVhVeVkwZ3lhbU5oTlRaRFNWRRAB",
+            "text": "Loved this spot! Variety of options when it comes to seafood, meats, appetizers, and everything else. Everything was of good quality and fresh!! Had a great experience here and it is definitely worth a visit, even the deserts are a must try."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pac1VUWjBhV1JqVVc4NFgxTnRTMDlhYjJwbWFIYxAB",
+            "text": "super delicious and our server ADA was amazing!! everything tasted fresh and high quality. their dragonfruit coconut dessert was really good and their drinks too. this is now my new go to hotpot spot."
+        },
+        {
+            "date": "2달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wR1ZETkZjVk5HVG5Oa1dESnVUbnBOWkRoT2RsRRAB",
+            "text": "还是非常不错的 锅底和食物的选择的多样性 就是龙吐鱼不稳定"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4M1QzUnpVRkpaWDBwMlVIaDJka2x4Y1ZWSWRHYxAB",
+            "text": "The food was delicious, and the service was excellent. The staff was incredibly friendly and helpful, patiently providing us with information about the menu. Shout out to “Ellie” she was very helpful and friendly. We’ll definitely come back"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvOWVEbVZ3EAE",
+            "text": "If you’re in Brooklyn and craving an all-you-can-eat premium hotpot experience, look no further than Chong Qing Wharf! 🥢🍲\nFor just $63.95 per person, you get everything—rich soup broths, the freshest seafood 🦞, high-quality meats, appetizers, sashimi, vegetables, desserts, and even free fruit tea! 🧋 Oh, and did we mention the unlimited durian? 😍\nFrom melt-in-your-mouth sashimi to live shrimp cooked fresh at your table, the variety here is endless. Plus, the service? Absolutely top-notch! 🙌\nTag your hotpot crew and make your reservations now—you don’t want to miss this feast! 🍢🔥"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3a01qb3B3RRAB",
+            "text": "The experience was nothing short of extraordinary. The warm ambiance, thoughtfully decorated interiors, and inviting atmosphere set the stage for an unforgettable meal. Every dish on the menu was a testament to culinary excellence, prepared with fresh, high-quality ingredients and bursting with flavor.\n\nWhat truly made the evening exceptional was the service. My server, Selina, went above and beyond to ensure my dining experience was seamless. From offering insightful recommendations to patiently explaining each dish, friendly and attentive manner made us feel genuinely welcomed and cared for. Her impeccable timing and dedication to guest satisfaction elevated the entire evening, turning a simple dinner into a memorable celebration.\n\nI highly recommend Chong Qing Wharf Hot Pot for anyone looking to enjoy. I’m already looking forward to my next visit!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RWNWTkhWV2xLUWw5MlgwRmFWM1ppVm5WbWJXYxAB",
+            "text": "my must go place when i am in town！ i brought my friend here today, we came all the way from Boston and she loves it. This is my 4th visits and good as usual. I will recommend to everyone who loves hotpot and seafood.super friendly staff! Btw they have durian AYCE!! My favorite!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OZlUzaGlhV1pWVjBkWGMzVm9OMUZ2T0daeGNIYxAB",
+            "text": "服务几乎是bk最好的一家、食物也是最好的一家，服务员几乎都好细心 贴心 礼貌、培训的很到位👍 会再回来"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKS2RFcFVWMkZqWTJWNmIyOVVURWRMY21ZMk5rRRAB",
+            "text": "First time eating here since my little one was born. The food is as high quality as before. And it’s definitely worth the price. I would come back again, for sure."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GbmRIZFZVbTE1V1ZaWGJqQmhValJoUmxwUE9GRRAB",
+            "text": "✨ All-You-Can-Eat HOTPOT Heaven 🤯\n\nUnlimited meat, seafood, sashimi, drinks, desserts… yes, everything is included 👏🔥 From raw to bubbling to perfectly cooked — every bite was a win 🥩🦐🍲\n\nThis spot brings the feast with fresh ingredients galore: seafood, sashimi, BBQ, hot foods, boba, fruits, and desserts (they even have durian — my fave! 😍).\n\n📌 $63.95 per person | ⏰ 2-hour limit | 👥 Min. 2 people\n\nPro tip: Go for the lobster or geoduck from the premium selection — best bang for your buck! 💥🦞\n\nIf you love AYCE and variety, this one’s a must-try!🌟\n\nFollow me @foodie.elite on IG and TikTok for more!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMM3h5cWJVNjhYdi1nRRAB",
+            "text": "What an absolutely amazing hot pot. Here is the nitty gritty.\n1. Yes it’s expensive. At $62.99 it’s pricey\n2. Yes it’s worth it if you eat a decent amount of the super fresh sashimi and order lots of crab legs, fresh beef which is some of the best quality I’ve had and drink the really rich soup broth\n3. Yes there is a very long wait as they’ve gained some popularity. but it’s worth the wait\n4. Yes you can order fresh (frozen) durian as much as you want\n\nThe food was the star of the show. Lobster is one of the main specialties. You can order it once but you have a choice of\n1. Sashimi or sushi platter (skip this you can order that with your regular buffet as part of the ayce)\n2. Geoduck which honestly I don’t find to be all that amazing but hey. Who am I to judge.\n3. A few other specialty dishes but I can’t recall them.\n4. We went with the whole live lobsters.\n\nFood was insanely fresh. The beef is some of the best hotpot beef I’ve had. The broths were amazing. All meats and seafoods were of exceptional quality.\n\nAll in all if you’re looking to splurge at a hotpot this is the place."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMMno5Xy1Od0tDQ09BEAE",
+            "text": "Bustling atmosphere accompanied by a splendid variety of seafood and other hotpot delicacies. Waiters were very attentive, ensuring that you get your food on time within the 2 hours limit. Do wish there were performances, which would better spice up the dining experience."
+        },
+        {
+            "date": "4달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toNk1GaGpVRTFuYURCbU1IcFVjelZRWDFjemFGRRAB",
+            "text": "服务和食物都很新鲜非常好吃\n还有剥虾服务满分！推荐吃！"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZNE9iUFN3EAE",
+            "text": "Chong Qing Wharf in Brooklyn offers an immersive AYCEhot pot experience . This hotpot restaurant delivers both quantity and quality, making it a favorite among hot pot enthusiasts.\n\nThe wide selection includes various meats, vegetables, tofu, and even durian for the adventurous palate. My favorite aspect of this restaurant  is the complimentary sashimi platter or lobster offered with each hot pot order.\n\nChong Qing Wharf delivers a memorable hot pot dining experience characterized by a wide variety of fresh ingredients, flavorful broths, and attentive service. It's a must visit for hot pot aficionados in Brooklyn.\n\nCheck out my instagram @michellesinghh for more food reviews."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZa3EySS1RRRAB",
+            "text": "An unforgettable feast that left all four of us in a collective FOOD COMA in the best possible way. We came hungry, but clearly underestimated the sheer abundance this place offers. Between the hot pot, BBQ skewers, fried treats, desserts, and drinks, we didn’t just eat—we committed. By the end, we were full to the point of existential reflection.\nWhat truly made the experience stand out, beyond the wide array of delicious options, was the incredible staff. Warm, welcoming, and genuinely fun to talk to. We even asked whether they’d ever seen someone eat an excessive amount of durian （so curious), and they replied with stories of guests who come just for that. Legends👏\nIf this restaurant weren’t so far from home, I’d probably be here every week—though my waistline might disagree. Highly recommended for anyone looking to indulge without limits, laugh with friends, and temporarily lose track of how full a human can be."
+        },
+        {
+            "date": "4주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFMFIzUkVaMEp2VDJ0b1FWbzFlVkEyUmpsdFJHYxAB",
+            "text": "今天的皮皮虾非常好，有膏。虽然很繁忙，但是服务都很及时，点赞。"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGRlVtZzBObkpmWDIwdFRVVndZMGRyY0dGcWMwRRAB",
+            "text": "Phenomenal service and great food. All the seafood and meats were super fresh and the broth was perfectly spiced.\nAda, our server, is exceptional!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcGVINl9RRRAB",
+            "text": "Not your average Hot Pot. A huge selection of fresh seafood. The lobster was to die for. I enjoyed everything. We even stepped out of our comfort zone and tried a few different dishes. The staff was very nice and helpful."
+        },
+        {
+            "date": "5달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOYkV5XzM5bm9XMUhREAE",
+            "text": "非常新鮮的食材，蝦子甚至還在動，有榴槤吃到飽，也有飲料、甜點，外面有免費停車場可以停車"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NlkySnhlalJETFVNd1NUUnNObVl3U2xBdFVtYxAB",
+            "text": "⭐️⭐️⭐️⭐️⭐️ A Flavorful and Fun Dining Experience!\n\nWe had an amazing time at [Hot Pot Restaurant Name]! From the moment we walked in, the staff was warm and welcoming, and the atmosphere was cozy yet lively — perfect for a meal with friends or family.\n\nThe broth options were rich and flavorful (we especially loved the spicy Sichuan and mushroom broths), and the selection of meats, seafood, and fresh vegetables was incredibly fresh and well-stocked. The dipping sauces were customizable and made everything taste even better — there’s something for everyone, whether you like it garlicky, spicy, or savory.\n\nEverything was well-organized, clean, and the service was attentive without being intrusive. We never had to wait long for refills or help.\n\nIf you love interactive dining and bold flavors, this place is a must-visit. We’ll definitely be back — next time with even more friends!"
+        },
+        {
+            "date": "4달 전",
+            "language": "zh",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VOM25yWlhyOGVxb01BEAE",
+            "text": "出差半年，回来第一天晚上就来吃。说几点：1，推门而入臭味越来越严重，你们真的闻不到酸臭味吗。2，看看你的调味台和冰箱脏乱成什么样子。3，服务员端着还在滴脏水框去收盘子，为了躲避人群脏水都甩到我身上。但不不会因为这个生气，重点是那个框那么脏，为什么不冲洗一下再拿出来呢？4，客人当着服务员的面抽电子烟，这是被允许的吗？5，为了吃海鲜而来的，但是现在的海鲜真的是拿不上台面，这不是季节性问题。6，服务员来加水，可以一次到位，一会过来一个人加一点，几分钟又过来一个人加一点。频繁的加水换盘真的很烦。但是我知道如何拒绝。7，中国定制的密胺盘不值钱，破了没有必要再给客人继续使用。这种钱不能省。不知道是管理人员不作为，还是老板钱赚多了不在乎。现在是真的感觉山城码头很差很差。我不相信还是来的客人没有这样的感觉。现在开店股东和老板都不用来店里视察的吗？"
+        }
+    ],
+    "reviews_count": 92
+}

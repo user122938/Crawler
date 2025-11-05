@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Pho Table - Bath Beach",
+        "address": "1870 86th St, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJl7gBg39FwokReoeGvaSq-6I",
+        "rating": 4.7,
+        "user_ratings_total": 66,
+        "phone_number": "(347) 880-5351"
+    },
+    {
+        "name": "Mama's Noodle House",
+        "address": "1782 Bay Ridge Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJ077xDwBFwokR6Lm73BYnSG8",
+        "rating": 4.8,
+        "user_ratings_total": 102,
+        "phone_number": "(646) 897-3171"
+    },
+    {
+        "name": "Il Colosseo Ristorante Brooklyn | Italian restaurant",
+        "address": "7704 18th Ave, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJl8yb4RBFwokR4_39R9Q3FWg",
+        "rating": 4.4,
+        "user_ratings_total": 723,
+        "phone_number": "(718) 234-3663"
+    },
+    {
+        "name": "Pho Table - Bensonhurst",
+        "address": "6814 18th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJR83arAFFwokRHw_RxJ74xYk",
+        "rating": 4.7,
+        "user_ratings_total": 542,
+        "phone_number": "(718) 208-5148"
+    },
+    {
+        "name": "Villa Fiorita",
+        "address": "7720 18th Ave, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJq6QuHRFFwokRSESp64jqQOg",
+        "rating": 4.7,
+        "user_ratings_total": 154,
+        "phone_number": "(718) 837-7950"
+    },
+    {
+        "name": "Panino Rustico of Bensonhurst",
+        "address": "8222 17th Ave, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJtac_ZBJFwokRc653Sg_vh4E",
+        "rating": 4.6,
+        "user_ratings_total": 665,
+        "phone_number": "(718) 236-6343"
+    },
+    {
+        "name": "Tommaso",
+        "address": "6916 18th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJwdIYl21FwokRM5Co5S8jet0",
+        "rating": 4.5,
+        "user_ratings_total": 368,
+        "phone_number": "(718) 484-0028"
+    },
+    {
+        "name": "Ji Bei Chuan Noodles 季北川 BK 86",
+        "address": "2238 86th St, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJZWHpAQBFwokRsiCxH_eTMOA",
+        "rating": 4.8,
+        "user_ratings_total": 333,
+        "phone_number": "(718) 290-2677"
+    },
+    {
+        "name": "Si n'shpi",
+        "address": "2307 65th St, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJ8aNS0S1FwokR4XZ9l4e2N-I",
+        "rating": 4.7,
+        "user_ratings_total": 216,
+        "phone_number": "(917) 933-4579"
+    },
+    {
+        "name": "La Palina",
+        "address": "159 Avenue O, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJW0BC3-NEwokRCcguDYS9UbI",
+        "rating": 4.6,
+        "user_ratings_total": 658,
+        "phone_number": "(718) 236-9764"
+    },
+    {
+        "name": "King's Kitchen",
+        "address": "2051 86th St #3203, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJqdtPMQ9FwokRZFp_PTOW6E8",
+        "rating": 4.6,
+        "user_ratings_total": 1440,
+        "phone_number": "(718) 373-1188"
+    },
+    {
+        "name": "Cavatappi NYC",
+        "address": "8024 13th Ave, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJV5TfyihFwokRcDihkO3VeWo",
+        "rating": 4.7,
+        "user_ratings_total": 274,
+        "phone_number": "(347) 497-5212"
+    },
+    {
+        "name": "Arberia",
+        "address": "2325 65th St, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJNfnVkOdFwokR_t07IX7mT5Q",
+        "rating": 4.9,
+        "user_ratings_total": 204,
+        "phone_number": "(718) 676-4408"
+    },
+    {
+        "name": "La Villa",
+        "address": "1529 86th St, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJHbRlaW1FwokRkXiBnAWtMdQ",
+        "rating": 4.6,
+        "user_ratings_total": 1153,
+        "phone_number": "(718) 256-3100"
+    },
+    {
+        "name": "Ortobello's",
+        "address": "6401 Bay Pkwy, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJGVsYUuBEwokRHsFR2Poibfk",
+        "rating": 4.6,
+        "user_ratings_total": 518,
+        "phone_number": "(718) 236-9810"
+    },
+    {
+        "name": "Outback Steakhouse",
+        "address": "1475 86th St, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJGeRox21FwokRgpVd4uiY9co",
+        "rating": 4.4,
+        "user_ratings_total": 5964,
+        "phone_number": "(718) 837-7200"
+    },
+    {
+        "name": "Istanbul Bay",
+        "address": "2202 86th St, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJeXv2OgZFwokRuJrHz4Yl-Jc",
+        "rating": 4,
+        "user_ratings_total": 2050,
+        "phone_number": "(718) 714-4300"
+    },
+    {
+        "name": "New Ipoh Kitchen Asian Cuisine",
+        "address": "6415 20th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJVVWGhh9FwokRzrH8_6uA1Y0",
+        "rating": 4.8,
+        "user_ratings_total": 1000,
+        "phone_number": "(718) 256-0023"
+    },
+    {
+        "name": "New Ruan's Restaurant",
+        "address": "1955 86th St, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJgRGD6g5FwokR2mp0hLhkr-Q",
+        "rating": 4.3,
+        "user_ratings_total": 457,
+        "phone_number": "(718) 266-8888"
+    },
+    {
+        "name": "Positano",
+        "address": "10018 4th Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJL8K2QYZPwokRRq-qmhec19s",
+        "rating": 4.5,
+        "user_ratings_total": 1276,
+        "phone_number": "(718) 833-1313"
+    },
+    {
+        "name": "Chris's Restaurant - Polska Restauracja Brooklyn NY",
+        "address": "1866 86th St, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJGd98LwxFwokR9Bd6WPuXCmE",
+        "rating": 4.6,
+        "user_ratings_total": 485,
+        "phone_number": "(347) 462-3755"
+    },
+    {
+        "name": "Ajimi",
+        "address": "8500 18th Ave, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJczF55XBFwokREBe1W3QHGFI",
+        "rating": 4.3,
+        "user_ratings_total": 431,
+        "phone_number": "(718) 650-5588"
+    },
+    {
+        "name": "New Dyker Restaurant",
+        "address": "8505 18th Ave, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJCUJxyA1FwokRuvrcAXlb4lU",
+        "rating": 4.3,
+        "user_ratings_total": 238,
+        "phone_number": "(718) 234-1435"
+    },
+    {
+        "name": "Grotta Azzurra",
+        "address": "8505 21st Ave, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJf-rmUg9FwokRGk2hH0taSbg",
+        "rating": 4.5,
+        "user_ratings_total": 207,
+        "phone_number": "(718) 265-3659"
+    },
+    {
+        "name": "Dragon Garden",
+        "address": "8024 18th Ave, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJm4t36xFFwokRoxB9rUjretc",
+        "rating": 4.5,
+        "user_ratings_total": 171,
+        "phone_number": "(718) 234-8288"
+    },
+    {
+        "name": "Gus's American Grill",
+        "address": "7206 New Utrecht Ave, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJcQ5QERZFwokRyvZ84GqBHVs",
+        "rating": 4.3,
+        "user_ratings_total": 253,
+        "phone_number": "(718) 331-7573"
+    },
+    {
+        "name": "Hand Pull Noodle & Dumplings House",
+        "address": "7201 18th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJea0z2xlFwokR3-ADlptVfwM",
+        "rating": 4.2,
+        "user_ratings_total": 339,
+        "phone_number": "(718) 232-6191"
+    },
+    {
+        "name": "禧悦會海鲜自助火锅 XI YUE HUI HOT POT",
+        "address": "828 64th St, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJP0sZQQNFwokRVdWsljBVYC4",
+        "rating": 4.8,
+        "user_ratings_total": 1557,
+        "phone_number": "(929) 855-1666"
+    },
+    {
+        "name": "Lioni Italian Heroes",
+        "address": "7803 15th Ave, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJN2c0lBRFwokRBqUO1mQJ_uQ",
+        "rating": 4.6,
+        "user_ratings_total": 996,
+        "phone_number": "(718) 232-1411"
+    },
+    {
+        "name": "Krispy Pizza- Brooklyn, NY",
+        "address": "7112 13th Ave, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJFXKydz9FwokRnHG_4a9z8Gc",
+        "rating": 4.5,
+        "user_ratings_total": 2215,
+        "phone_number": "(718) 745-9618"
+    },
+    {
+        "name": "Annabelle's Pastaria",
+        "address": "717 86th St, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJVaKv92ZFwokRcHZGIuOZois",
+        "rating": 4.5,
+        "user_ratings_total": 298,
+        "phone_number": "(718) 836-9444"
+    },
+    {
+        "name": "J & V Pizzeria",
+        "address": "6322 18th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJ4TjsMiJFwokRih1T2YTQNQE",
+        "rating": 4.4,
+        "user_ratings_total": 728,
+        "phone_number": "(718) 232-2700"
+    },
+    {
+        "name": "Golden Palace",
+        "address": "1619 86th St, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJWcTlBUpFwokR44DlILVh3IA",
+        "rating": 3.8,
+        "user_ratings_total": 711,
+        "phone_number": "(718) 500-3188"
+    },
+    {
+        "name": "Fratelli’s Pizzeria",
+        "address": "7203 18th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJdzBE2xlFwokR57eLfAzO4kQ",
+        "rating": 4.6,
+        "user_ratings_total": 159,
+        "phone_number": "(718) 256-1222"
+    },
+    {
+        "name": "La Chacra Restaurant",
+        "address": "1928 Bath Ave, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJXzpErQtFwokRLeybEWiCbNM",
+        "rating": 4.3,
+        "user_ratings_total": 925,
+        "phone_number": "(718) 758-5488"
+    },
+    {
+        "name": "Torre's Italian Restaurant & Pizza",
+        "address": "6808 Bay Pkwy, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJeVkHBh5FwokR5GV1RQV2ObI",
+        "rating": 4.2,
+        "user_ratings_total": 327,
+        "phone_number": "(718) 232-3259"
+    },
+    {
+        "name": "Neta Shari",
+        "address": "1718 86th St, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJ7VOxKVBFwokRO4Zf1ESGNAE",
+        "rating": 4.7,
+        "user_ratings_total": 150,
+        "phone_number": "(347) 210-8438"
+    },
+    {
+        "name": "Buonissima Pizza Pasta",
+        "address": "7203 20th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJyalt5BtFwokRC9ef1w9-bnM",
+        "rating": 4.4,
+        "user_ratings_total": 312,
+        "phone_number": "(718) 236-4606"
+    },
+    {
+        "name": "Pescada New York",
+        "address": "1359 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJYZURPrlEwokRUn3XSSWYPhY",
+        "rating": 4.6,
+        "user_ratings_total": 998,
+        "phone_number": "(718) 766-2759"
+    },
+    {
+        "name": "Jin Jin Hong Kong Cafe",
+        "address": "6224 18th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJNTq51yNFwokRtdAsSDNH5ig",
+        "rating": 4.2,
+        "user_ratings_total": 639,
+        "phone_number": "(718) 232-6222"
+    },
+    {
+        "name": "DaVinci Pizzeria",
+        "address": "6514 18th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJDT7saSJFwokR4SzquhN44KY",
+        "rating": 4.5,
+        "user_ratings_total": 654,
+        "phone_number": "(718) 232-5855"
+    },
+    {
+        "name": "Dun Huang Beef Noodles 敦煌兰州拉面",
+        "address": "8421 20th Ave, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJG4rSDEdFwokRPWrevWTiFr8",
+        "rating": 4.2,
+        "user_ratings_total": 129,
+        "phone_number": "(929) 203-8998"
+    },
+    {
+        "name": "Papa Mikes Brick Oven Pizza",
+        "address": "7416 20th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJAY0fsxtFwokRACDMw9k9aO0",
+        "rating": 4.4,
+        "user_ratings_total": 327,
+        "phone_number": "(718) 513-3696"
+    },
+    {
+        "name": "Protein Dreams",
+        "address": "7615 18th Ave, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJAXEbuKRFwokRSfuhf8-UETY",
+        "rating": 4.8,
+        "user_ratings_total": 86,
+        "phone_number": "(347) 265-3207"
+    },
+    {
+        "name": "Olive Garden Italian Restaurant",
+        "address": "1684 Shore Pkwy, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJq4F_vUhFwokRv_mESIBUW1o",
+        "rating": 4.1,
+        "user_ratings_total": 2375,
+        "phone_number": "(718) 265-1019"
+    },
+    {
+        "name": "Washoku Kyo",
+        "address": "6221 18th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJNzipbF9FwokRxCZOzGjA4wI",
+        "rating": 4.1,
+        "user_ratings_total": 58,
+        "phone_number": "(718) 331-2799"
+    },
+    {
+        "name": "Bonchon Brooklyn - 86th St",
+        "address": "1965 86th St, Brooklyn, NY 11214, USA",
+        "place_id": "ChIJFabYZ1FFwokRaHv1ihG1tN8",
+        "rating": 3.9,
+        "user_ratings_total": 341,
+        "phone_number": "(718) 943-4200"
+    },
+    {
+        "name": "Istanbul Bay",
+        "address": "8002 5th Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJf8iznV5FwokRN0yuv7STdbw",
+        "rating": 4.3,
+        "user_ratings_total": 1184,
+        "phone_number": "(929) 292-2353"
+    },
+    {
+        "name": "Panda",
+        "address": "7323 20th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJ5SteuBtFwokRqj_WE3u23BM",
+        "rating": 4,
+        "user_ratings_total": 88,
+        "phone_number": "(718) 259-8868"
+    },
+    {
+        "name": "Living Room Sushi & Steakhouse",
+        "address": "192 Avenue U, Brooklyn, NY 11223, USA",
+        "place_id": "ChIJg2bexsZFwokRI8BYJIzraQw",
+        "rating": 4.5,
+        "user_ratings_total": 191,
+        "phone_number": "(718) 996-8900"
+    }
+]

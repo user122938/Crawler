@@ -1,0 +1,418 @@
+{
+    "name": "Super Pollo To Go",
+    "place_id": "ChIJM-jIwjddwokRODRFt36qZbo",
+    "grid": "BK5",
+    "address": "188 Jamaica Ave, Brooklyn, NY 11207, USA",
+    "rating": 4.5,
+    "user_ratings_total": 127,
+    "phone_number": "(718) 647-7800",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GUmVXdzRTbU14TlZoMWEyMWpaVGhpVkhOalprRRAB",
+            "text": "Every dish I tried was packed with flavor. The atmosphere was vibrant but still relaxing. The service was prompt and friendly. I can see why people love this place."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGb01FYzRlV1o2ZGxSdlFXSlJiSGhrVDNCMFpWRRAB",
+            "text": "Nice food"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aeWJYZHNURlJ1V1RsTE1sOUxWSEJETjFoSFNXYxAB",
+            "text": "Been here several times and they are consistent. Food is delicious! 🤤\n\nMy fav’s are:\nRotisserie chicken 🍗\nSweet plantains\nBeans 🫘\n\nSoup before meal given with lunch special- homemade taste so\nheartwarming 🥰\n\nNatural homemade lemonade 🍋👌🏽\n\nChaulafan (picture provided) 🤤 It has an Asian fusion taste that I’m craving as I type.\n\nCould be better:\nBreaded chicken breast:\nFlavor is on point but too thin and when you bite it, it doesn’t come off smooth.\n\nPersonally, the salsa for the chips I’m not crazy about.\n\nOverall, I love and recommend this place. I heard the seafood salad is a HIT 👏🏽🎯"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVelVGZE9kMUpDWTB0S2MxSm1XVnBLVURkaWMxRRAB",
+            "text": "This is an amazing place for every one.\nAs a tourist, I’ve visited here more than three times. People are friendly and foods are very delicious. 👍🏻👍🏻"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSWRIWjJZaTFpZW1wWFpHSjViMFJ0WkhCMVQxRRAB",
+            "text": "Very good food"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Zd2FEVllOSHBXT0RWS05raFlObkp0TTNFelQyYxAB",
+            "text": "I had Lomo, Churrasco and the Checken  and everything was great. The flavor in the 3 meals were excellent.  I will be returning as long as the 👩‍🍳 doesn't leave. Thank you"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGUWIyRjFkRzlCV1hZNFJrRlJMVFF3ZUdKNVFsRRAB",
+            "text": "The chicken and salad was super good. Service is great too!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poRFZUbGtNamRRZDI1dU1tUnJSRGgzYkVGQlFsRRAB",
+            "text": "Stopped in here during my shift for a quick bite, it wasn't quick but it was worth it for sure. I only ordered two empanadas. While I waited they offered me chips and salsa, v appreciative! I had not eaten breakfast. I'm usually not a fan of corn breading but the beef empanada was so good and the cheese empanada! never had a sweet cheese empanada but thank you for putting me on. I can't wait to try something else on the menu. TY! 🙏🏾"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sbVNETjVTeTFyWlhSdmMyNVVSR1IxT1UxZlIzYxAB",
+            "text": "ordered the Bandeja Paisa an empanada. was all great. the food came out quick and the service was on point."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pONlNrVjFhSEptZWtJeWMyNTRNVVZqZFhaYU1FRRAB",
+            "text": "Had food to go. Quick service. Food was delicious"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aWFprRm1MV3gwWmpaeGIwUlRiVGhzU0ZSS1lXYxAB",
+            "text": "muy rico pollo para llevar"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GcVFVeHRNRE5wZGtzd05GbERTWFZMVlVwRFVHYxAB",
+            "text": "I recently stopped here for a late lunch and was pleasantly greeted by the staff at this restaurant. I ordered the lunch special quarter chicken with rice and beans and it was excellent. The chicken was extremely moist, flavorful and cooked perfectly. I look forward to going back here soon."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaRFdIWTNSV052TUdweWFYQnVSMEZPUW1obFNYYxAB",
+            "text": "My boyfriend and I just had lunch here. Not only was the food amazing but the staff was so friendly and welcoming! I would return for sure."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5bmNFbGtjVTF5YTFwVGMwWTNUbVowWVhSNVkxRRAB",
+            "text": "Our plates were deliciously overwhelming 10/10. I recently moved to the area and was looking for Spanish food and this exceeded my expectations. The music selection was on point too. Thank you!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Ga1QxSlBTMHh1YTB0bGVUZ3liRkIxTW1OM1UyYxAB",
+            "text": "Amazing Ecuadorian food!! Food had a lot of flavor, and the menu had a large variety of food options. Chicharron (pork skin) and roasted chicken were the personal favorites.\nOur server offered great recommendations, and we even got some piña colada shots on the house! HIGHLY RECOMMEND! It'll be your new favorite spot!"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210WFowNVRTRnB1VEdsSlNtUnZOVlY1YTFkc1FrRRAB",
+            "text": "Loved their 1/4 pollo a la brasa"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKbmRqbDBTamczZVRsSWVqY3dZWHB6UW1KUFRIYxAB",
+            "text": "Food is excellent,  and staff very nice"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKSFZ5MVBRVmN5T1Y5cU5ISnFhSHBQVFcxdWFtYxAB",
+            "text": "Un buen ambiente con buena música y comida muy caribeña, excelente servicio de Johana muy amable y carismática"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxMFlUY3RYMjFYYlMwd1RFUmhSRFJLVUVKR1NHYxAB",
+            "text": "For me the food has been amazing and always delivered quick with great service. Probably the best restaurant in the neighborhood so far, can’t recommend enough!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzeVNVNHpjMjV1TVZFd2VtYzRXVWhMTURsdWMwRRAB",
+            "text": "Great little place to have a drink and food... very friendly staff.."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGaWIxVlZRWFpLVkhGSFZteHJjM3AzUjJWV1FXYxAB",
+            "text": "exagerado los precios\n\npedi medio pollo ,arroz y frijol\ny una piña colada\npequeña\n\nme cobraron mas 40\n\nno volvere a comprar en ese lugar"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VPU3pfb1AwczdYVHRRRRAB",
+            "text": "Order 8 empanadas on 6/3/25 . 4 chicken, 4 beef. The empanadas lacked flavor. The inside was mushy. I never had an empanada taste like that before. The inside of the empanada tasted as though it was uncooked. The only thing that was cooked was the outside. I wish I was able to return the food and get my money back. 23 dollars wasted. Why is the empanadas 3 dollars?"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNcnBuX1RMb056Qzl3RRAB",
+            "text": "I love the food"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMM0p3ZER5bnRTRWJBEAE",
+            "text": "The food was amazing,bathroom clean.atmosphere is clean,10/10 must try again"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMcW53dS1Cam9icTBBRRAB",
+            "text": "Food is good when i ate there. The delivery guy is weird for begging for a tip before giving me back my money for my order."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLMjRvcFQ3Z1lUWjRnRRAB",
+            "text": "The food was excellent and the prices were reasonable."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOelQzZnl5dGUyeEl3EAE",
+            "text": "El mejor pollo que he comido, el ambiente magnifico te hace sentir como en confianza y el servicio axcelente"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcDRyaTJ3RRAB",
+            "text": "Not easy to find a good restaurant in this district but pleased to discover Super Pollo. Staying locally we ate here twice. They were happy to allow us to share their larger size meals. Thank you."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvcTkzQmRnEAE",
+            "text": "I'm literally addicted to this food  so good"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvc2VURlJREAE",
+            "text": "Best pollo la brasa I had in a while white sauce is 🔥🔥"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJNHN6b2lnRRAB",
+            "text": "Chicken is so good I have to order my cat a piece just for her- and she doesn’t eat anything besides her cat food so that’s saying a lot and everything else they have is good!! The soups are always delicious and let’s not even talk about their salsa verde ….."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3eVlUQ1VnEAE",
+            "text": "Fried plantain was fresh. I enjoyed it."
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQcmJqdGJ3EAE",
+            "text": "Everything was good and just on time!!! Great food and great service… thanks"
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2MTQ3RjVnRRAB",
+            "text": "Me encanto el delibery fue rapido"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2aG9ueUFnEAE",
+            "text": "I mean, it all speaks for itself! Not only is the food and service great, but if you have a big appetite, they definitely have you covered! always satisfied!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2azVubUtREAE",
+            "text": "Great Food, Friendly Staff"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzcHNHSE13EAE",
+            "text": "I’m a Super Pollo SUPER FAN. Always such fast and friendly service. The portion sizes are amazing for the price of the food. I always feel like I’m eating a home cooked meal and their Green Sauce is so Yummy"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzZ05xeW5RRRAB",
+            "text": "Great food and great service"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzaE5ydTFBRRAB",
+            "text": "It was amazingly delicious 😋"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIdHVMSWNBEAE",
+            "text": "Somos clientes frecuentes , nos gusta mucho la comida de este lugar , pero el día de hoy nos vamos súper tristes porque el servicio y el desinterés por parte del chico que nos atendió el día de hoy fue súper desinteresado, la chica que siempre nos atiende es excelente, ojalá el servicio en el restaurante fuese estándar .creo que necesita aprender un poco más de servicio al cliente"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3OUlDb1dnEAE",
+            "text": "Great home style cooking and soup"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyLXFpM2x3RRAB",
+            "text": "Incredible food"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKd19xS0R3EAE",
+            "text": "I ordered the ‘Bandeja Paisa’ platter and I couldn’t be more happy with my order. The was so eager I started eating the food right away then remembered to take a picture lol excuse the little hole in the platter that was my spoon :) Even so, this dish was beautifully assembled and presented. The melody of flavors all work really well together for a satisfying, hunger crushing meal. Thank you for this meal. It was a pleasure!\n\nPedí el plato de ‘Bandeja Paisa’ y no podría estar más feliz con mi orden. Estaba tan contenta que comencé a comer de inmediato y luego me acordé de tomar una foto jeje disculpe el pequeño hoyo de mi cucharita :) Aun así, este plato estaba muy bien ensamblado y presentado. La melodía de sabores funcionan muy bien en conjunto para una comida satisfactoria que aplasta el hambre. Gracias por esta comida. ¡Fue un placer!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaM0k3dE1nEAE",
+            "text": "YES! Look no further, this is the only place to eat in Brooklyn. Visited on 26th July. My family flew over from Ireland and we were staying in Cypress Hills.  I am so glad that we stumbled upon Super Pollo- the waitress was beautiful and kind.  The owner as enthusiastic, welcoming, and grateful for our custom.  The chicken is succulent and juicy. No additives, all home made, FRESH food.  The avocado salad alone that comes with your meal is crisp and fresh. Homemade salsa with tortilla chips for the table.Big, generous portions, and yet you did not leave feeling that you over ate.  This goes to show how healthy the food is. My husband got a cocktail as well- delicious.  The next time we land in JFK airport, we will be coming here for dinner.  Thank you Super Pollo - and thank you for the tequila shots!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaX2REbjdRRRAB",
+            "text": "Food was absolutely incredible, portions were generous, and the chicken is 100% addictive - juicy, flavorful and with perfectly crispy and seasoned skin. We got a whole chicken, tostones, maduros, rice and beans and a salad, and let me tell you, the meal combos here are enough to feed a family. The young woman at the counter was extremely kind to us from the moment we walked in and even gave us free shirts! This place is a gem!!! We will be returning often"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUa2VLbHRnRRAB",
+            "text": "This is a ver small spot that only fits 6 persons with overpriced food and drinks. A basic lunch with a sangria is over $25.00. Imagine dinner? One person takes orders, cleansing table, answers the phone, cheapest, and checks you out with no help. She's obviously exploited and overworked."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1a2ZmUjJnRRAB",
+            "text": "He pedido pollo anteriormente y esta vez fui por un Cheescake y un Tres Leche, nada que decir, exquisitos estaban! la atención también muy buena y respetuosa. Lo recomiendo completamente."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5cmRmdGZBEAE",
+            "text": "Ordered on a whim, because I forgot my lunch at home. Had the best 1/4 rotisserie chicken and plantains! A new regular!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtOVlqRWVREAE",
+            "text": "First and last time$ in this place\nWorst place to eat first the prices are thru the roof,second they mix the food if you want too separate something they charge extra for doing that,for a mini leches cake discounting and $11 dollars, I was expecting for my salad and she tell me because I order plantains they did not gave me the salad, a can of soda $3.00\nA order of $14.60-$9.00 3 cans of soda-$11 for the tres leche\nI spend $36.00 dollars\nI went around the corner and I tried another place the next day and and that food was delicious and they separate my food with out a charge and 4 people eat from there and I spend only $22 dollars including the drinks."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoeDd1cHlBRRAB",
+            "text": "food warm chicken dry half burnt.i didn't eat. the small clumps of corn were dry and rock hard. stay away don't waste your time and money.not super pollo it's a horrific super nightmare.not reccomend even as pet food."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCZ01PZE1nEAE",
+            "text": "I love the food at this place!! excellent service and very good price.\n\nMe encanta la comida de este lugar!! Excelente servicio y buen precio."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5enVlT3RRRRAB",
+            "text": "Really good food, I enjoyed the chicken and the prices were good. I recommend the yuca"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREN1lDd0hREAE",
+            "text": "It was so good !!! I got the D combo with my friend and everything was just amazing."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4NXJfS3Z3RRAB",
+            "text": "It’s pricey but worth it. I always order a whole chicken. The chicken is juicy and the chicken breast is not dry."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtOWRqb1RBEAE",
+            "text": "I will not go to this restaurant never again price is to high for the quality of the food. And the actitud went I ask him about my bill was nasty. First and last."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4eTlEa29BRRAB",
+            "text": "Their chicken is superb and their garlic sauce is addictive. Will be coming back again and again!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSc092SDh3RRAB",
+            "text": "Amy is the best!  Gracias por todo ❤️\nFood was tastylicius as usual.\nGreat little place!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5enBMQ1dBEAE",
+            "text": "Delicious food! Great customer service."
+        }
+    ],
+    "reviews_count": 58
+}

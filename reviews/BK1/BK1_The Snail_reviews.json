@@ -1,0 +1,558 @@
+{
+    "name": "The Snail",
+    "place_id": "ChIJ3Vn-YGNZwokRKs9M6LiXVA8",
+    "grid": "BK1",
+    "address": "544 Manhattan Ave, Brooklyn, NY 11222, USA",
+    "rating": 4.5,
+    "user_ratings_total": 197,
+    "phone_number": "(646) 688-0022",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214aWFXaEZNalpMVFVwQlJ6UndlR3BJZFhZdFZtYxAB",
+            "text": "Snails and crudo were amazing. Strong martinis!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4MmJVZEtjREJVVWpCMFNERkVNWFl3Tm5kc1dGRRAB",
+            "text": "Unless there is a day special, the menu is rather standard, with rather expensive prices; the wine list is expensive, but there are few hidden reasonable options; the dining room is dark, there are outside (covered during winter) tables."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSU0wSldUblV5U1hWVFZEbE9VMGR1VmtWcWNtYxAB",
+            "text": "We had a mixed experience here. The food was definitely flavorful and well-prepared, and the staff were very attentive and kind throughout our visit. However, the steak portion was surprisingly small for the price — especially after checking photos online that showed much larger servings. It felt like we got half the portion shown in other reviews. Overall, good quality and service, but the value for money was disappointing."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxUk5uSktOalJsZDA1Nk5tMHlUa2h3TUhGalVHYxAB",
+            "text": "Came for brunch/lunch (no wait!). Our server was amazing and we took their recs on food. And it was all delish!\n\nCan’t wait to come back for dinner!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jMVRVeHNNMko2VlRCdk1FbDJjbU5yU2t4WlNXYxAB",
+            "text": "Best burger, even better chicken!\n\nThey’ve really upped their game since opening and it doesn’t go unnoticed."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sc1kwMVZMVXBhWmtZM2VscFljM3BKWmtSWGNGRRAB",
+            "text": "Absolutely delicious!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxelpFTlpRVGcxWXpBMmVHZE1iM1ZqVEVsblltYxAB",
+            "text": "pretty nice.\nthe cesar salad is gooood and the hamburger.\nwhoops forgot to mention the snails - they’re yummy!\ntheir pastas are unique and my partner seems to like them.\nalways way too full afterwards to get the dessert, but maybe one day…"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taVkxWQkhjbTFrYUhOWFExOXZRVEZOWW5OMGJYYxAB",
+            "text": "I went to The Snail for my friend’s birthday, and I have major food allergies, so dining out can be stressful for me. From the moment we sat down, the staff went above and beyond to make sure I felt comfortable and safe. Our server was wonderful and immediately had the head chef come to our table to talk through my allergies. Together, we figured out what I could eat and how to make substitutions for a few dishes the group was interested in, which made me feel included and cared for.\n\nWe ordered five different appetizers, and one needed a small modification for my allergies. Anytime there was even a question about an ingredient, they personally came to check. Our waitress joked that she’d be coming back often to “bother” us, but honestly, I thought it was amazing — it showed how much they truly care about their customers.\n\nEvery appetizer was delicious, but the standout for me was the Lamb Tartare. I’ve had tuna, salmon, and beef tartare before, but never lamb — and it completely blew me away. My friend across from me felt the same way, and we were both laughing about how we didn’t want to share with the rest of the table. The chips and ham were out of this world, and both the oysters and shrimp cocktail were fantastic.\n\nI can’t even pick a favorite main dish because everything looked phenomenal. When dinner came, I obviously couldn’t try everyone’s meals, but they all looked incredible. Mine was prepared with such care, and I couldn’t have been happier. The attention, kindness, and professionalism from the entire team — especially our server (forgive me, I forgot her name) and Austin — made this one of the best dining experiences I’ve ever had.\n\nThank you to The Snail for not only serving incredible food but for genuinely caring about your guests. I’m so grateful and can’t wait to come back!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWbFNIWnRiVlZRY0ZNd09ERllkVVZPZUUxVmRGRRAB",
+            "text": "The hype for this spot is definitely well deserved. Truly one of the best restaurants in NYC!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZdFQwTXhSa3RmTmkxNmNHUlZNbHBYUVVocWNWRRAB",
+            "text": "We were told 45 minutes for a table, we waited over an hour. Once we were sat the waitress acted like she didn’t want us there and overall gave zero effort. The food was great and the atmosphere was nice but the service left something to be desired."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CbFdUQm9jVWh6VDBOaVZucHJObFJ5WkZWVWJuYxAB",
+            "text": "The food is great. Nothing revolutionary, but everything on the menu is well made.\n\nThe service is…clinical? Idk how to describe it. Just not very warm and human. Drinks taken away without asking if we’re done and would like another (was not done, but would like another), check dropped without a word or asking if we’d like dessert.\n\nI’ll come back if I’m nearby and there isn’t a wait, but wouldn’t make an effort. Don’t think you need to either."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SMlVVUmxOVzh5Y21Gb1IyOXBhbEU0Wm5oQk5sRRAB",
+            "text": "I’m always a little skeptical of hyped places, but this place totally deserves it. Friendly service, fantastic food. Go a little early and you can get a table without a wait."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKNmExOTRRMEpNWmpSd01uY3laRlZSWVhkUVlWRRAB",
+            "text": "Don’t listen to the haters. This place is legit. Approachable menu. Great drinks. Friendly attentive staff. Crayons for kids. Yes, the line can be annoying but if they took resy’s you’d never get in like Lilia. Brunch is great too. Jazz band at 12."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxRFYwdDJlbkZMWTFwallUSXlVREpXUnpjMVYyYxAB",
+            "text": "Really great spot. Toffee pudding changed my life"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFeWFHUkhVVjgyWVZkTldrNUNNMkZEU1Vsa1JVRRAB",
+            "text": "Everything was so good, from top to bottom!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BMVN6bFFVVkpOYlZVMUxWOXhORk10VG5kc09XYxAB",
+            "text": "Have been wanting to check this place out for awhile and it didnt disappoint. The snails were perfect, love the ham& chips, crudo was delicious, flat iron chicken had pops of roasted garlic that were the best bite of the night, but the star of the show was the date cake and toffee sauce, havent stopped thinking abiut it. Taking off a star for service because our server left without telling us. Otherwise, excellent place, large portions, great place for friends to share."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOTFUxVnRVMXBTUlU5QmMzTmZZblptU2poTU1XYxAB",
+            "text": "By far the worst attitude I’ve ever experienced from a hostess — and it happened twice since there were two of them. Nothing about this place felt accommodating or welcoming. We did get seated, so this isn’t a complaint from someone who didn’t get a table. The issue was purely the attitude, which I found unacceptable and a clear reflection of the management. If you value good service, don’t waste your time here."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psUVpuWkxjM0ZPWjNCWE5qRXRkRVpLUVhaclFXYxAB",
+            "text": "Had the best meal here last night! Everything was delicious, ambience and music was very cool-looking forward to going back again!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaSloxODRSbFJHUVVndFNXTXlSVkpvTlVwbFJtYxAB",
+            "text": "Sunday brunch with live jazz was lovely! Waffle was delish"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5emVuVlRNV0pHT1RkMFpGaGZWVXA0YzA1M04wRRAB",
+            "text": "Small brunch menu but everything we tried was excellent. Cheeseburger, chips and ham, and the blue blueberry muffin were our favorites. Cocktails were very good too."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WQ1QyNTZlVTVXYmtJd01uWjVZbmxUUkdvMGMzYxAB",
+            "text": "Hostess worked with us to find a table for 2. Food and service exceeded expectations. Great addition to the area. Will be back"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OV2NrRjBia1J3VG5Ga2NrUjNXbVYyTkd4UVEyYxAB",
+            "text": "The dessert was the highlight of the meal for me. The date cake with toffee sauce is a mouthwatering, decadent treat. I would go again just for that."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaRVpWTnpjVlptUW1KWFpIZFlXVUpWYkdWV2RIYxAB",
+            "text": "Nice place to have dinner food is good drinks are amazing!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4cE1GaHFWME5wTURCbWQwUndSMlpQWVZkZlJsRRAB",
+            "text": "Oh My God!  Where do I begin!  The place is beautiful and inviting and the outdoor seating overlooking the park is magical.  The real star is the decadently delicious food!  Between the 4 of us,  we tried different appetizers and main courses. Two people had the burgers which they said were \"The best burgers they have EVER had in their lives!\"  The Bronzini was soft,  flaky and stunningly flavorful.  Each dish was delicately prepared to ensure a burst of flavor for the taste buds but also somehow invoked warm memories from my childhood.  The hot fudge sundae really did take me back to when I was 14 and my dad would take me to the ice cream shop.  The service was impeccable and even the music made me think of years gone by.  Wow!  Every other restaurant needs to stop and take some lessons from the owner of The Snail!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsSWFWWTFSM0pLVm1FMVJVVTRjbmhvWjJobFRXYxAB",
+            "text": "One of the best burgers in NYC\nGreat location too"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psSWNpMXZia1ZrZVdodFdFeEdabnByVEVjeVpYYxAB",
+            "text": "We got here around 5:30pm on a Friday and the weather was perfect. All the doors were open and the early evening sunshine spilled into the whole restaurant. Felt like being in Europe.\n\nI cleaned my plate, and my wife’s plate. All of the food is better than what you see online. The Caesar salad was unique (I liked the crumbled croutons, haven’t had that before), tons of parm. The oysters had all of their brine, they were from Maine - exceptional. Also homemade cocktail sauce and raw horseradish.\n\nThe scallop crudo was really tasty. Not usually a small plates guy but I made an exception on that one. Glad I did.\n\nThen the main course. We each got the steak frites. I’ve had a decent amount of steak frites in NYC and this was top two. Maybe even the best. It definitely was best peppercorn sauce I’ve had.\n\nThe fries tasted like In-and- out fries and that’s a good thing. Did they use beef tallow? Super high quality. Also homemade mayonnaise with the fries!\n\nTo sum it up, The Snail does the details right. From the mayo, to the cocktail sauce, to the cocktails, you can get a steak and fries anywhere but you’re not going to get it like they do it here.\n\nWill 100% be back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4amJXbE5ZbFExWTFOMFVHMHRUazQzV2psb04xRRAB",
+            "text": "This place is worth the hype - incredible service and our meal was delicious. The staff is very friendly and attentive and we really enjoyed the mushroom pasta, the steak, and sticky toffee dessert. I cant wait to come back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCZlEwTm1PWEZXT0hST05VeFBMVFp2TFhKdlVFRRAB",
+            "text": "The food’s good, but not quite worth the hours you may wait."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKWGVHaEJSbGhpWW1OcVYxWlJWVEZPVTJwWWFuYxAB",
+            "text": "Was dining alone while visiting the city, a friend had recommended I stop in here and I’m so glad I did. I came in around 8:30 and was seated at the bar right away.\n\nThe gin martini was perfect, the fluke ceviche was fresh and light and presented beautifully, and every bite of the morel scarpinocc was perfectly balanced with shaved moliterno chesse and morels, and the sauce was worth eating on it’s own. I also got a chocolate budino dessert that was fabulous (though rich, and definitely could not finish it alone, but so glad I ordered it).\n\nThe bartenders were attentive without hovering or being pushy, and knowledgeable about the menu.\n\nThis meal made me ache for the caliber of restaurants in NYC vs my hometown of Austin (which also has great food, but not THIS great)."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pod01WUlNWVmN3TlROUFJsSXlNRjltVEZocFEwRRAB",
+            "text": "This might’ve been one of the best meals I’ve ever had in NYC. I couldn’t believe how incredible everything was just wow. The service was insanely good and efficient. The drinks were top notch. The food was easily some of the best I’ve ever had in NYC. This place deserves awards of all kinds. Bravo."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xM00wRk1VRGhQUjNkb1Ntb3pkRlYxTnpZMFVVRRAB",
+            "text": "Good, but not worth the extreme hype. I would go here again if I lived in the neighborhood and went on like a random Wednesday. I would not wait in line. The burger, my favorite, was great but not worth the wait times. On the flip side I do think it’s reasonably priced"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSeU9GSlRTRVJ5UzBScFVVWkxVMVZsVFZWMWMyYxAB",
+            "text": "Had an absolutely fabulous dinner at the snail last week. The food was delicious and our server Carmen was amazing! Excellent recommendations, and even wished my partner a happy birthday with a cute little candle in this to die for toffee date cake! Ended the night with another fun surprise - mini espresso martinis! Amazing, will be coming back!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tveFZYVTNTMjFZWm05d1drUnRXVFF4TUV0Q2JWRRAB",
+            "text": "Pasta is microwaved like not fresh at all - drinks are good but expensive even non-alcoholic, got the ham and chips pretty decent. Sticky toffee is good but also way too expensive for what it is. Service is overworked. And like I said the crab pasta was absolutely nasty, like fishy and it literally tasted microwaved and the portion is small (thank god) we sent it back, not to mention $29 for 5 or so pieces of microwaved fishy crab ravioli."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCbFZIRkJSMm8yV2poTWQycFdabk50WkVOelVsRRAB",
+            "text": "I understand that restaurants have the right to enforce a policy of not seating incomplete parties (I had requested a table for three), but it wasn’t busy & there were plenty of open tables. So I was prepared to wait but I figured I’d ask. The hostess, with a noticeably cold attitude, told me I did have to wait & said, “You can wait at the bar.” It didn’t feel like a warm or welcoming start & I was so close to leaving but my friends were already OTW.\n\nThankfully it was nice weather out so I chose to wait outside rather than spend additional money inside. Finally got seated & the server wasn’t the nicest either… The food was okay but not memorable. My rating is based mainly on the service experience, do better."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210S1pYTnhXakJoUWtoWlkydEpkSEJLZEVGMFVsRRAB",
+            "text": "This place was super hyped and it was good! We got sat immediately for a 3-top (maybe easier than 2 or 4) but otherwise have been told 4+ hour wait times so be warned. Good food not insaaaaane but incredible martini with octopus!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aYWNHSmFPWFJSV0VvM1dUbHVTekkxVUY5Zk0xRRAB",
+            "text": "Incredible culinary experience. The cocktails wowed everyone in our party of 5. Spectacular food , great presentation and fabulous knowledgeable staff."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkeloxcDVSMHByUkRKWE5FbzRaVVpNWlZJd2IxRRAB",
+            "text": "The food is great -the staff is great - nothing but love for this place"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204d00yRk5WRGhEUldGQ2NVNWFNVEpIVjBsQlRGRRAB",
+            "text": "Favorite restaurant in Brooklyn."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSk0xUTNjWGxpVm5OTVdEZERiemhsTUdaWVJrRRAB",
+            "text": "I had to sit on this one for a while. The food is everything is shaped up to be and probably even worth their very snobby “we’ll maybe call you if we have a spot” approach to getting a table.\nTruly every single thing I had here was fantastic, from the most simple dishes like the chips and prosciutto to the escargot. The drink/wine list is also well curated.\n\nWhere this place falls, and where I debated if I would give it 3 or 4 stars, is the service. I understand this being a hot new restaurant the hosts and servers cannot be accommodating of everyone, but there’s truly no reason for every server to have such an attitude as if they were doing us a favor by letting us sit there. Maybe they were having a bad day, collectively, so I can give the benefit of the doubt—but it really left a bitter taste in my mouth for what was otherwise a near-perfect experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GVlNuUk1ka2RQWVZORGFHMUxhbWRWTTI1eWNuYxAB",
+            "text": "Love."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGaGEwOXpVa2cxYzFOWVZ6WnRjazA1VFVKQ1EyYxAB",
+            "text": "Burger was EXCELLENT. From the bun, to the condiments to the meat being perfectly cooked. This makes up for the overhyped boring burger I had at Rolo’s recently.  This burger is worth the hype. They serve it at brunch too which was great. Fries and sticky toffee pudding were fantastic. Savory dishes err on saltier side but I didn’t mind at all. Didn’t love the Caesar salad, it was kind of bitter. We had an extremely nice server and the vibe is relaxing and airy. Would definitely go back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJeU9XMVJiWFo1UW1JNGNEZElkM0JCYjJocFJIYxAB",
+            "text": "Omg. Literally was over and above my expectations. The food is delicious and original\nWhile I’ve been multiple times, the food and drinks are always consistent. The mushroom pasta is an absolute MUST.\n\nAnd don’t even get me started on the staff. Everyone is kind and helpful and you can tell they actually enjoy being there.\n\nHonestly the best dining experience I’ve had in NYC in quite sometime. The vibes are immaculate and I love the patio buildout that’s been added."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kT1kwOWZNazVmUjNRNExXNWZPVUk1ZGtGNVgzYxAB",
+            "text": "Food and drinks were amazing! Pasta with morels was one of the best dishes I’ve ever had!! We will def be back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrdExVNUVWVzFuUWxkUWJqTnVkakpzY1V0U1RuYxAB",
+            "text": "Place is not worth it.  Train your host to be nice."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxaWRqUmlXUzFpZVcxT1VqUTJXakZwYW5CV2RHYxAB",
+            "text": "Mostly very good but overall things were overly seasoned (too salty). The Caesar salad was very salty - expect a plate of cheese with a side of lettuce (8/10). Favorites were the burrata appetizer - the burrata was okay but the tomatoes were excellent (8/10)The black bass was probably the most disliked item (3/10). The snails were decent but we’ve had better elsewhere (4/10). All 3 pasta were a hit! We loved the corn (10/10) and the morels pasta (12/10)- very delicious and well executed. The crab pasta was also delicious if you like that flavor. The burger was decent as well (8/10) though the fries were a bit stale (could just be our batch tho). The carrots were delicious (9/10). We got the tiramisu choco cake (7/10) and the sticky date cake (10/10)."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKbWNIVlVTMEY1Tm5OQlVWQnlZbGxNWm1sRlZVRRAB",
+            "text": "Great burger, sticky toffee cake was highlight for me."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVlREWmpaWFJYVEUxWWJscEdhRWsxU1doa1JIYxAB",
+            "text": "Amazing food and good service. Wait time can be long but they got good drinks and vibes so not too bad, the food is definitely worth the wait though. The owner is cool too"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQQ2NfWWpfMC1ydGpnRRAB",
+            "text": "i had been wanting to come here for a while and was prepared to not like this place just based on the crowd/vibe. but i have to say - the food was outstanding.\n\nthe caesar & flatiron chicken were standouts. the chicken especially - i have never had nor even seen flatiron chicken on a menu anywhere. it was DIVINE.\n\nhad to resist the heavenly looking desserts but i will be getting one next time."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLV2dqY09fODltRW5RRRAB",
+            "text": "Food was exceptional! We had the cheeseburger which was a hard 10, the Caesar (don’t skip the anchovies), steak frites which was perfectly cooked and in a delicious au jus sauce, and a pasta dish stuffed with crab. Will definitely be back!!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPNnNtY3I1bHJMSGVBEAE",
+            "text": "they nailed it! i love it here"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLX2syYWVRdWJPY3d3RRAB",
+            "text": "Fabulous food and exquisite cocktails living up to all the recent social media buzz. I highly recommend the burger and any pasta. Overall a great dining experience made possible by their entire staff. A must visit if you’re in the area.\n\nWe got super lucky Saturday afternoon at 4:30pm walked right in zero wait compared to just a week prior having been informed at least 2hr wait."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3ejhqLV9BRRAB",
+            "text": "Excellent dining experience at The Snail.\nThe beet salad was fresh and well dressed with olive oil and a creamy cheese.\nThe scallop ceviche was 5 tasty bites and had a subtle unexpected kick of spice and tang. We were super pleased with the apps.\n\nWe ordered the mushroom pasta and burger for mains and were blown away. Perfectly simple burger with thinly sliced pickles and a mustard sauce. The mushroom pasta was among the best pastas we’ve ever had in nyc.\nThe date cake was a 10/10 - perfectly sweet and moist with a scoop of malt gelato. 💯💯💯💯💯\n\nSuper kind and friendly service that left us in a good mood for hours after eating.\n\nGot in line at 4:45pm on a Friday and were sitting at the bar by 5:15.\n\nTop notch dining experience. Will be back again very soon!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNM3c5OS1fM2IyejhBRRAB",
+            "text": "The snail is worth all of its hype.\n\nTo start, I called about wait time and Sofia was honest, courteous, and very friendly. Once we got there, Sofia remembered me (which hostess does that anymore!!) and made us feel so welcome and excited to dine at The Snail. After about an hour wait, we sat at the bar and had Cody serving us. He was a great bartender and had great conversations with everyone at the bar.\n\nEnergy was great overall and I’d recommend.\n\nFood by Chef Austin is always amazing and The Snail is the same. Definitely recommend the chip & ham, mushroom pasta dish, and obviously the burger and sticky toffee dessert.\n\nSo excited to go back in the future!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJNGRYSnVBRRAB",
+            "text": "It knows how to set a scene. Dim lighting, lively patrons, and a cool Brooklyn energy, all soundtracked by '90s hip-hop. No reservations here, which means playing the waiting game. The move is to show up early, give your name, and find something to do until your table's ready. I ended up at the bar—probably the best seat in the house for a smaller party size.\n\nThe tuna cracker didn’t win any presentation contests, but it was better than it looked—quality tuna, fresh avocado, a hit of jalapeño, and a crisp base. The beet salad followed with fresh beets, citrus, more avocado, and stracciatella tying it together. The agnolotti brought comforting flavors of brown butter, sage and walnuts. For a non-italian spot, it held its own. Then came the steak frites au poivre—the dish I was most excited for but the biggest letdown. The steak wasn’t the most tender, the fries were ordinary, and the sauce leaned too sweet, missing that peppery-creamy balance. Not inedible, just underwhelming.\n\nBoth the mezcal margarita and tokyo old fashioned were strong and well-made, something to sip on and savor. This place shines as a cocktail-and-appetizers spot—maybe try the burger everyone raves about. The vibe never falters."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvc04taEtnEAE",
+            "text": "Wow!  What an amazing night at the Snail.  Have been waiting to try and blew away my expectations!  The food was perfect and had to try all the delicious items I’ve been seeing on Insta from the Chips and Ham (awesome), sprouts (crunchy and delicious), fresh bread and fennel butter (incredible), then the steak frites (perfectly cooked in a yummy sauce), THE BURGER (a must try even if you split as a side WOW!), the mushroom pasta ( perfectly cooked FRESH pasta yum), the carrots (so good with an amazing crunchy topping Onino), and FINALLY the warm delicious date cake with ice cream topped it all off!\n\nService was incredible and SUPER friendly.  We loved the ambiance and atmosphere where they paid attention to every detail from the music to lighting down to the candles on the bar.\n\nCan’t wait to go back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZc3FuN0RnEAE",
+            "text": "We went on a Friday and had to wait 40 minutes to be seated. It’s walk-in only, so make sure to arrive early if you want to catch the first round, the restaurant seats around 50–60 people.\n\nRecommend:\n- The burger: Juicy and satisfying. I really liked the pickles!\n\nNot a Favourite:\n- The crudo: I love crudo, but this one was fishy from the first bite.\n- The chips: Homemade but too oily; the bottom ones ended up soggy.\n- Tuna: Felt like something was missing. The taste was pale, maybe it needed a citrus kick?\n\nIf I’m being honest, this place isn’t worth the wait. That said, the atmosphere is great - cozy, stylish, and perfect for a date. Maybe just go for a burger and a glass of wine and enjoy the vibe."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3LWNIQm1nRRAB",
+            "text": "Had a phenomenal walk-in dinner here. Highly recommend the double cheeseburger: I got it with garlic aioli sauce and it was very tasty. The caesar salad was perfectly seasoned with good amount of parmesan cheese and chocolate tiramisu was rich in flavor. Ambiance was cute and service was satisfactory; we felt a little rushed. Nevertheless, good experience."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvLWUzV3dRRRAB",
+            "text": "Lovely meal with stunning staff. The lamb tartar and cheeseburger were highlights. The martinis were perfect. Everything super solid here. The only feedback is that twice the bussers cleared food before we were done with it and without notice. Otherwise a lovely evening on the terrace!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3c09pN1FnEAE",
+            "text": "The restaurant is walk-in only, so I'd recommend arriving around 4:15-4:30 to wait in line. My party arrived at 4, and we were first in line. They only have 2 tables for large parties, so if you have more than 4 people in your group, definitely try to be at the front of the line.\n\nIn terms of food, the meal was decent but definitely did not meet my expectations. The oysters were mediocre and not cleaned well. Our appetizers were probably the best part of our meal. We got the brussel sprouts and squash. The brussel sprouts were very flavorful. I personally wasn't a huge fan of the chili oil in the squash, but some people in my party loved it. The burger was average. Though I didn't try the streak frites or crab pasta, the members of my party that did order then did not seem too satisfied (portion sizes were also small). The date toffee cake was fine, but some people thought it was too sweet. The chocosu was OK as well but a really dry for a tiramisu.\n\nOverall, while the experience wasn't bad, much was left to be desired. I'm unsure if I would return especially for the wait and prices."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VKRHh5Y0NXXzdLbzFnRRAB",
+            "text": "walking up to the snail on a saturday night, well no, it was only 5:19pm, so let's say late saturday afternoon, felt like flocking to festival gates, with all the rest of Williamsburg, and/or England, as the people in line ahead of us were, a group that we quickly struck up conversation with, as they too were wondering the same as us -- what's going on here? is this line to sit? is it just to put your name down? can we walk away and get one of those texts that asks us to be back within 15 minutes? what really happens here?\n\nthis cool vibe was just beginning. when we finally approached the host stand, it was clear that the two hostesses were excited about the spiel they'd been doling out to every group before us. they held a secret that everyone wanted to know. yes, it was first come, first served. yes, there were tables available right away, but no, they couldn't say for sure what would happen with the weather. eager guests turned their heads up towards the sky, worried and excited, then back towards their weather apps. and if it rained, no, there wasn't any guarantee of another seat inside. it's up to you. like the fate of some life altering decision was being dropped in our laps. would we risk it? or play it safe and add our names to the hour plus long list for an inside table?\n\nthe wind whipped the awning fringe around, rippling like waves, and the sun lumbered in and out behind dark clouds threatening rain. but the weather app chances of rain put it down at 30%, so we braved it, knowing that waiting an hour would just be too difficult. as it so happened, i'd done a 10 mile run earlier in the morning (in training for a half marathon), and coupled with my growing necessity for pajamas and the couch by 9pm at the latest, i knew we had to get in there asap and start chowing down.\n\nwe ordered pretty promptly: caesar salad, scarpinocc, double cheeseburger, and the flat iron chicken. (i will say, when i heard the waiter repeat to the next table over exactly what he'd said to us after ordering, \"you guys are great, i wouldn't change a thing,\" i felt betrayed, as we hadn't ordered the same things. which one of us was he lying to?)\n\npersonally, i order salads for the purpose of the extras. usually, croutons, cheese, and recently, roasted chickpeas, are my faves. this one, decently satisfying, came with snowdrift-sized mounds of grated parmesan that literally blew around in the windy evening air. crispy fried capers were another nice touch, but personally the amount of dressing was a bit overboard.\n\nthe negroni and hemingway daiquiri were some lovely, and at the same time 'just fine' cocktails that we had on repeat throughout the meal.\n\nburger was good, but not something that i'll remember much past the writing of this post. the chicken on the other hand, was definitely memorable. crispy top and tender underneath, with a jus that was probably a pinch too salty for my taste, but for some reason the scent of the dish has revisited my memories on random occasions maybe 3 or 4 times since the meal a few weeks ago.\n\nlastly, the scarpinocc -- served with morels which were the star of the dish probably, but i can never say no to a pasta that resembles a dumpling.\n\nand, as we finished the last sips of our last cocktails, signing the check as our pre-summer warm weather clothes flipped around at our ankles, we smiled, feeling just cool enough for one day.\n\nand then it started downpouring."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3a0xXWkZREAE",
+            "text": "Dropped into the snail as a party of four on Saturday evening.\n\nWe lined up at 4 PM and were the first in line - I'd say the sweet spot is arriving around 4:15 PM.\n\nWhile the service was great, the food was disappointing and I do regret taking the time to wait.\n\nOysters - Unfortunately nothing special. These were pretty mediocre and not cleaned well. Recommend skipping.\n\nSquash - Not for me at all. Others at the table liked this.\n\nBrussels Sprouts - One of the best things at the table. We all liked this.\n\nSteak Frites - Fries were great! The steak was  nothing special.\n\nCrab Pasta - decent bites, though a small portion\n\nBurger - a mediocre burger.\n\nDessert:\n\nDate Cake - super sweet, but in a good way. I enjoyed this, though party members with less of a sweet tooth did not.\n\nChocosu - Felt a bit dry. Not super flavorful"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3a09lcFd3EAE",
+            "text": "I'm down for spending a bit more for good food on a special occasion but left seriously disappointed and confused at all the hype surrounding this place.\n\nWe got the oysters, the crab pasta, the double cheeseburger, squash, the brussel sprouts, and the steak fries. I really only enjoyed the Brussel Sprouts -- I felt like I was let down at every other dish.\n\nThe oysters were not very clean, we could feel small bits and pieces left in each oyster. Not to mention the price -- you can definitely find cheaper (and better oysters) elsewhere. Burger was just average -- nothing special. Pasta had weird citrusy after flavor I didn't appreciate, it felt too buttery and heavy. The steak frites were well cooked but the sauce was a bit overpowering and overly salty. The fries were good but again, overly salty. Did not enjoy squash's texture.\n\nWe also got their signature toffee cake and chocosu for dessert. Toffee cake I couldn't eat more than one bite because it was SO SICKLY sweet. Chocosu was decent but the cake was overly dry.\n\nTL;DR: seriously not worth the hype, or the price. Service was decent though"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3cmEtRnZ3RRAB",
+            "text": "Great vibes and enjoyed the food and service. American bistro with really, really good pasta dishes. Mushroom pasta is a must!! Burger holds up to other top spots in nyc. Small menu but looking forward to seasonal changes. Ended up $80 pp, each having a drink"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMzdmUF9RRRAB",
+            "text": "Best restaurant in Greenpoint? I think so!\nThe Snail 🐌 is a fantastic addition in the neighborhood serving up classic dishes but all have a unique spin to them. For instance the fancy anchovies on the Caesar salad and the special sauce that comes on the burger and don’t forget about dessert- the stick toffee pudding is out of this world!\nWe’ve been 3 times now and each experience has been consistent and solid with excellent service, incredibly delicious food, tasty cocktails and an overall amazing vibe.\n**If you’re trying to go on a weekend definitely arrive well before 5!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJMlBTeTNBRRAB",
+            "text": "You know the drill. Show up early, wait in line and be prepared to eat dinner at 5pm. We got here at 4pm on a Saturday and were the third ones here. The previous Saturday we got here at 5:30 and the wait was 3.5 hours.\n\nThey mostly have two tops, a few four tops and plenty of seats at the bar. Your best bet is to come as a party of two and definitely do not try to come here as large group.\n\nAs far as the food goes, everything was incredible. We ordered the burger, fries, yams with chili oil, black bass crudo, lamb tartare, and agnolotti. We washed this all down with  martinis and added the octopus gilda for good measure.\n\nYou should definitely come here, it’s worth the wait. And come hungry, you’ll want to order everything."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJa3QtaEx3EAE",
+            "text": "Had a knockout meal with a friend here. We shared everything! Everything was good, it ended up being particularly special meal. We had the steak, agnolotti, caesar, lamb tartare, budino, sundae, and cocktails. Particular standouts (for me) were the PERFECT martini, the caesar, and the sundae! I'm so glad we got each thing that we did. Next time must get the architectural tower of chips and ham that had our table neighbors freaking out. The service is warm, the environment is relaxed, elevated and vibrant, the sound system and music were SPOT-ON. What a snazzy time!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfODUtZkxBEAE",
+            "text": "I visited this restaurant for dinner with my boyfriend, eager to experience it after reading numerous positive reviews. While the meal was decent, it unfortunately did not meet our expectations. We ordered the burger, steak, and crab ravioli. The burger was average, and the peppercorn sauce on the steak was far too overpowering. The ravioli, though flavorful, was served in a disappointingly small portion. We also had espresso martinis, which, for $20 each, were surprisingly small and felt overpriced. Surprisingly, the squash was our favorite dish which says a lot in itself. While the experience wasn’t bad, overall, it left much to be desired. I'm unsure if I would return"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBenRDOFVnEAE",
+            "text": "Arrived nearly an hour before they opened, which worked out really well as I was able to wait in the vestibule as opposed to out in the cold. While it's not necessary to get there that far in advance if you're coming on a Friday or Saturday I'd recommend at least 30 minutes before they open as there was about 150 people lined up by 5pm.\n\nI'd say everything was well worth the wait and met up to any early hype that The Snail 🐌 is already getting.\n\nStaff was welcoming and friendly. Nothing was a disappointment.\n\nStarted with the ham and chips, Caesar salad, bread with the fennel butter and the kanpachi. All fantastic. Caesar was a must-have. Looking at the tuna, I'll have to come back.\n\nWife had a classic gin martini. I went with a skin contact wine. The selection of cocktails and wine made it a difficult decision as it was a spectacular list.\n\nFor entrees for a table of 4 we all went with different options so I got to sample quite a bit. Burger 5/5. Steak 5/5. Chicken 4.5/5 and I didn't try the agnolotti but the plate was basically licked clean.\n\nHappy to have this new option in the neighborhood in what has developed into a prime spot around McCarran park for dining options."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3aF9ya2ZREAE",
+            "text": "My roomie & I live in the neighborhood and decided to try the snail when we were both free! The wait was around an hour and a half, but we went and grabbed a drink nearby while we waited so wasn’t horrible. The staff was friendly, and the environment was lively and welcoming. We got the steak frites, a pasta, and a couple drinks & everything tasted great. Definitely have to carve out time to come here but it was a good experience overall!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfMW9tdkNREAE",
+            "text": "Greenpoint can feel like a constant stream of new openings, each vying for your attention. But The Snail is truly on a different level. It's an experience for a classy date night or a buzzy dinner with pals. The space itself is near perfection,  warm lighting, great music and a collection of vintage finds that makes us wish our own apartment looked like this.\n\nThe bar is so inviting and the drinks are special. We seriously loved their house martinis and the standout cocktail was definitely the Fernet Sour which - so delicious and inventive.\n\nBut let's talk about the food rundown. Squash that melts in your mouth, caesar salad of dreams (fried capers and a great dressing ratio!!), chicken you definitely need to order, a 10/10 cheeseburger and fries.\n\nBut here's the showstopper: the desserts. The \"Chocosu\" – their take on tiramisu – is pure genius. I'm honestly a little jealous I didn't think of it first. And get the sundae.\n\nYes, there may be a wait, but trust, it's worth it. The staff makes you feel like family, S/O Taylor! Go go go and thank me later."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2cUllTkl3EAE",
+            "text": "I came here the first week that they opened, and even as someone in the restaurant industry, you wouldn’t have known that they were a brand new business. Their team was amazing and seemed as though they’d been working together for months, not days. The food was delicious! The chicken was outstanding, the seafood tower was fresh and fun, and don’t skip the chips and ham. It is very simple, but so delicious and thoughtful! The space itself is very warm and inviting, great for a nice meal with family or a date. The drinks were STELLAR — the classic martinis were really special and ice cold. I can’t wait to go back!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmeFpTRmFBEAE",
+            "text": "definitely a new neighborhood favorite. the wait staff is extremely friendly and knowledgeable. the vibes and music are great. aaaand every bite of food was absolutely delish. can’t miss the bread with fennel butter, the steak frites, or the agnolotti. also must have one of their martinis, all three on the menu were incredible."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQLXBENjFBRRAB",
+            "text": "One of the best restaurant experiences I’ve had in New York. Bobby was an incredibly attentive server, and helped us decide on dishes to try. The manager Taylor was also so great and made sure we were enjoying the food and experience at the Snail.\n\nWe got the Bread and Fennel Butter, which was so fresh and great. The Brussel sprouts were truly out of this world, and you get quite a bit. Caesar salad was also to die for, the dressing was so flavorful and the fresh grated Parmesan was plentiful. The real winner to me was the honeynut squash. It had this amazing, creamy soft cheese, with this crunchy chili peppered across the squash. It’s a must try!\n\nFor main course, I got the double cheeseburger. Also absolutely amazing! It’s exactly what you want from a hamburger, juicy, cheesy, saucy, enough meat. My husband got the chicken which was also so good, and was flavorful and not dry at all.\n\nWe finished with this slice of chocolate cake that had a layer of tiramisu. It was unreal! The Snail is the new restaurant to go to in North Brooklyn. It’s also so beautifully designed inside, with great music playing while you eat. It’s unpretentious, yet so refined and creative."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmZ2VtMS1RRRAB",
+            "text": "Amazing new addition to the neighborhood. Lamb tartare was one of the best things we’ve eaten in recent memory. Steak frites were the best in the neighborhood and up there with other NYC classics. Chicken was very unique and tasty."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQMXFPMm9nRRAB",
+            "text": "The food, service and atmosphere blew me away. This place is special. The martinis are perhaps the coldest I’ve ever tried. Every cocktail was superb. Some standout dishes: honeynut squash, steak tartar, ham & chips, cheeseburger with fries, pavlova and tiramisu. Honestly, it’s hard to go wrong with this menu. Cannot wait to go back."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBclBqY0pBEAE",
+            "text": "From the moment we walked in, we felt taken care of. Hostess said two hour wait but we could have a drink and see if the people ahead of us didn’t come back. She guided us to a seated waiting area where we ordered the best Japanese old fashioned ever and only waited 30 minutes for a lovely bar seat. Carmen was our server and we had a stunning meal. Squash, burger, chicken all standouts. We will be back and save room for dessert next time!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2Nlp5MG9RRRAB",
+            "text": "Cozy vibes.  Delicious food. Don’t skip the Caesar salad with meaty anchovies or the bread and fennel butter.  Steak frites are perfect. Dip your fries in the au poivre sauce. Save room for dessert and get the pavlova.\n\nFabulous wine and cocktail menu!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnck5hMDFBRRAB",
+            "text": "Food is excellent - Caesar salad, escargot, steak aux poivre, sticky toffee date cake. Also LOVED the fernet sour cocktail (we don’t use fernet enough!). Great ambiance. I don’t like the queueing to get in though!"
+        }
+    ],
+    "reviews_count": 78
+}

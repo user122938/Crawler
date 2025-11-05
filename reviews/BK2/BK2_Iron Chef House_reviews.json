@@ -1,0 +1,544 @@
+{
+    "name": "Iron Chef House",
+    "place_id": "ChIJ4UIE2DdawokRt7NVO-poGhk",
+    "grid": "BK2",
+    "address": "92 Clark St, Brooklyn, NY 11201, USA",
+    "rating": 4.4,
+    "user_ratings_total": 610,
+    "phone_number": "(718) 858-8517",
+    "reviews": [
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKM2VsRktTRko2ZG5odmVqQTJTRk4yTmxwT01YYxAB",
+            "text": "Highly recommend the triple fish sushi platter as an entree!!! Thank you guys again for a great time."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5WWFYa3hkSHB2YW5wZmJqaG1VRkoxUlhCeU9YYxAB",
+            "text": "We stopped here for sushi. Cute little place. Great service and nice atmosphere. The sushi was good."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Jd1MxSlRiVjlMWTFodFNGWkZWM1p0Y1c5QlNsRRAB",
+            "text": "Great food- horrible service. Had to call over the waiter after sitting 30 minutes to order, and had to call them over again 25 minutes after we got our food to get the check. Multiple other tables also had to do the same."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkMFVGWjJNMGxYYkhOS2VsVXlYMUV0Y1ZBNVIwRRAB",
+            "text": "The best sushi I've ever tried, and the waiters are very friendly, the atmosphere was warm and welcoming. Excellent service and quality."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkUFMzaEJRMGd4U1RnMWJFUXhUMmt4WmpOZlRsRRAB",
+            "text": "Best sushi in NYC, and I eat a lot of sushi!"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GU1FVVnNPVlpoTFdkMWVrTkNlV2Q0WVRsRGJHYxAB",
+            "text": "Would give 7 stars if I could"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOU09FaE1NSGhYY0doR01VUnpkRzEwWkRreWRHYxAB",
+            "text": "Right in the middle of average for everything."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4eGIxWkRWVFZZYjFselgyMDJTazB0TldFeFpYYxAB",
+            "text": "İsa and paul they are the best! Thank you for the great food and great hospitality!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJek56WlFNVVJrU0U5RVltSlVaM1p2Y0hCbU0wRRAB",
+            "text": "Isa and Paul were incredible! Super friendly, attentive, and made our experience extra special. Thank you for the great service!"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pobWNEQk9kR0V4Ym1Zd2F6ZzVTRlpGVjFwYVZuYxAB",
+            "text": "Muy buen lugar para comer comida japonesa"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaVmVsbGxNbU41Y0RBeGVqWXdWa2x6VG5kSFQzYxAB",
+            "text": "Nice little sushi spot. Definitely get the monkey roll!"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKbllsOUJNRTVyU1VOWFRuSk1kbGhtYm5Wb1JGRRAB",
+            "text": "Súper recomendable, fui con mi familia pedimos variedades de sushi todos estaban deliciosos 😮‍💨"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oQlRtVnlWa3RJZUhOWk9VczBlVU54VVc4NE0zYxAB",
+            "text": "This was by far the best sushi I've ever eaten. The atmosphere the service and the food was amazing!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsWGRsaGxNR2d4Tkhwd1JFMWhSRkpPVDIwM1lWRRAB",
+            "text": "Loved the service and atmosphere here!! And the food was amazing! Will definitely be back soon!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkUVVrNXNZemxDUWtKUk0zWXllRmRSYW1jNU0xRRAB",
+            "text": "Delicious food and excelente service, but we was sitting outside and we had to get in because people was smoking too much and we had a baby there."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CR1JGazNUbVZVVWtKVk5XcEdkR0V0WTJoeFNWRRAB",
+            "text": "Amazing food, fresh and done to perfection"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twMk1EQm5iSGc1TTFOTkxYWTJaemRhYVdwTUxXYxAB",
+            "text": "Great sushi!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxdFFYb3hkbEZJV1ZBdGEzbERVMTluUzBKVVdIYxAB",
+            "text": "Wow what can I say? It was my first time here and I was left very pleased. The food was amazing and it is large serving! Everything was very fresh. The service was amazing. I will be coming back very soon. I tried to the Monkey roll 10/10!!! The bento box has a very large serving."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taRmN6aHlWRWwyY2tadVVFVkJWamxVUWkxaFpFRRAB",
+            "text": "Terrible service"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMTGszcVRPci1DMi1RRRAB",
+            "text": "So good place, nice atmosphere, the food is fresh and delicious, the service is amazing."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSRWVIWTVSbTk0UzNKTVdXZHZjVWR0YmtwSVVWRRAB",
+            "text": "This place is awesome! The food is amazing and the service is very nice too. Atmosphere is nice and friendly.The Green tea fried ice cream is FIRE 🔥 and all sushi is delicious too. Would definitely recommend this restaurant if you like sushi."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQQ3p3dnlFNHRUS1RREAE",
+            "text": "Loved the food. Nice & Fresh. Very attentive. Definitely will be back !"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQSDNoYUthdHRlREFnEAE",
+            "text": "i never leave reviews but this place was AMAZING!! hands down the best restaurant in brooklyn heights, wish i remembered to take photos of the food"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMM1hvcDd4ZzZMYXZ3RRAB",
+            "text": "Súper deliciosa la comida, la atención es increíble y costos accesibles"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKLXRpZnpSdmZDNHl3RRAB",
+            "text": "Excelente decisión venir a este lugar, la comida es extraordinariamente deliciosa, variedad de platillos, bien servida.\nEl ambiente es muy tranquilo y relajado, se ve que es la opción de mucha gente local que pasa por sus platillos para llevar a comer fuera del restaurante.\nEl servicio es de gran calidad humana, desde quién te recibe y toma tu orden hasta el personal de gerencia que se acercó a platicar con nosotros y nos dió excelentes recomendaciones sobre que hacer y como disfrutar Brooklyn.\nMUY RECOMENDABLE."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOS0g4TDZ0NUxYdDZ3RRAB",
+            "text": "The food was amazing and workers were so nice."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURva1pUUVVBEAE",
+            "text": "Great quality sushi for a good price. Came here for lunch and ordered tuna roll, yellowtail roll, shrimp roll."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvdktfZkxBEAE",
+            "text": "Pleasant, delish & affordable"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBdF8tMWJ3EAE",
+            "text": "Great sushi restaurant. Very popular bc the food is so good and the sushi is outstanding. I've ordered take out and eaten in, both great."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dDRYUjdBRRAB",
+            "text": "Delicious food and reasonable prices too!!!! Food presentation 10/10"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnbnFhQmdRRRAB",
+            "text": "The best !"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnb1lxN1p3EAE",
+            "text": "Amazing!\nYou must try the “whole lobster ramen”… it’s just stunning 🤯."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBMXI2SUNBEAE",
+            "text": "Service was great and atmosphere was awesome.\n\nWasn't a huge fan of the salmon miso soup though, it was too hot and there were too many veges inside. The sushi was very good, but I felt the special spicy tuna roll had a little too much rice compared to fish. The dinner combo was great though, terriaki steak was very well cooked.\n\nI would come back"
+        },
+        {
+            "date": "9달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfaHUyV0dBEAE",
+            "text": "Nivel diez este lugar. Todo un manjar, verdadero restaurante japonés en Brooklyn"
+        },
+        {
+            "date": "9달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmeWFEdU53EAE",
+            "text": "Un stop au hasard dans ce resto agréable surprise.\nLes plat était copieux et excellent .\nUn service agréable ."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQOXJHV29BRRAB",
+            "text": "The monkey roll is the best sushi I ever had in my life !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYMUtMRzZBRRAB",
+            "text": "I went here 4 times so far. The waiters know me by now! Every time food is so good. In my opinion, this is the best Sushi in town for its price and service. 5 star deserved"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYdUtiMHV3RRAB",
+            "text": "Great place to go on a date and never busy especially outside dining area :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYNkpUX2N3EAE",
+            "text": "Absolutely delicious! Everything was delicious, highly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNua2VlRzBRRRAB",
+            "text": "Omg and Iron chef of sushi … never see one of this in person before.. this sushi was so delicious and the price very affordable. The size of this place make it so cozy. Perfect for a first date in Brooklyn I would say. This time around I was we 2 friends . We share our plates. We laugh. We are so good. The menu is beautiful. Very recommend this place"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNueE9mQjB3RRAB",
+            "text": "Quaint neighborhood sushi restaurant, exactly what I needed for a quiet night out for good, affordable, and delicious food!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBclpYWVd3EAE",
+            "text": "Almost a landmark of Brooklyn Heights, Iron Chef House always delivers high quality food."
+        },
+        {
+            "date": "1년 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIOFBuWDhnRRAB",
+            "text": "Очень вкусно и доступно, рекомендую!"
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIcGFmdWFBEAE",
+            "text": "Cibo ottimo!!! Da italiana mai mangiato un sushi così buono, zuppa di miso veramente buonissima così come l’insalata e la tempura. Servizio strabiliante, cameriere super gentili sempre. Ambiente pulito e calmo. Consigliatissimo per mangiare, prezzi super umili nonostante la qualità ottima del cibo. Sono super soddisfatta"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiN3NHSV9RRRAB",
+            "text": "My 😍 favorite hole in the wall spot.…"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNydHByX09nEAE",
+            "text": "Me atendió Edith fue muy alegre y empática , me recomendó un buen lomo Cheff house ⭐ recomiendo su atención muy buena en lo que ase .."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyeHAyMExREAE",
+            "text": "Went for TGTG pickup and had to wait 15 minutes only to get 3 pieces of sweet potato and 2 spring rolls with a small container of bland boiled spaghetti with little shredded carrots. Service is awful and food wasn’t good. They treat you based on how much you spend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMLThPUGRnEAE",
+            "text": "Lovely place. Great food. Super friendly service. Highly recommend"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMbnJIa2Z3EAE",
+            "text": "Came here with 3 friend for some ramen, after being served and it was time to pay, the server came back to me and demanded (in agressive maner) that I leave a higher tip, and his argument was that 10% tip isn't enough that New York state law requires a miminum tip of 20% and I should look that up. Iv let the waiter know that it's not true iv tipped based on service provided. I regret giving higher tip event though I wasn't deserved, very entited male waiter. My freinds an I liked the spot a lot but that left unpleasant experience."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMemFTbFRREAE",
+            "text": "Very welcoming staff with incredible food"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUOExPaFNBEAE",
+            "text": "The best (and cheapest) sushi spot in all NYC!!! We got edamame, and gyoza as appetizers. We got the Monkey Roll, 2011, Snow Mountain, Atlantic, Hard Rock, and the Hana Roll. They were all super delicious!!! As a dessert, we got the fried ice cream. Highly recommend coming here to dine. I will definitely be coming back and trying other stuff on their menu."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5MDhPa3VRRRAB",
+            "text": "We had an absolutely wonderful time! The fish was fresh and delicious and the miso soup was incredible. The atmosphere was lovely and we would definitely come back. Pictured below is the Sushi and Sashimi Entree for 2."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJdHZES1VREAE",
+            "text": "Great food, price, and plating aesthetics. Loved how their salad has loads of different ingredients to add to the taste and texture. They are also extremely thoughtful in how they separately plate the shrimp tempura and the udon, some…"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwcHR5RmZBEAE",
+            "text": "El restaurante es muy bonito y acogedor. Desde las mesas se ve como preparan al momento el sushi. Todo lo que hemos pedido en todas las ocasiones que hemos ido siempre ha sido buenísimo.\nMi preferido en brooklyn!!!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5N04zYmlRRRAB",
+            "text": "Wow! From the food to the service! A+! A must try gem in the heart of Brooklyn Heights. Prices are also very reasonable. Fish is fresh. They also have a great selection of rolls."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQybWVfZmlRRRAB",
+            "text": "This is the best, most extensive menu of delicious Japanese foods- sushi, sashimi, rolls, teriyaki, ramen or udon noodles. Seriously, the menu has a table of contents.  And it's all high quality ingredients. They have lobster, and Chilean Sea Bass on top of the usual tuna, salmon, eel and spicy stuff.\n\nOur server was spectacular! Friendly and genuinely excited about the menu and restaurant. Everyone was so friendly and welcoming. You can tell regulars have been coming to this place for decades. Enjoy!!!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2N01tWXpnRRAB",
+            "text": "Great service and food was delicious. Server guy helped us a lot , setting up a table for us. We had a double stroller so we can’t sit inside , so even outside was full , he could find a place and set us a table."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwaEphU2h3RRAB",
+            "text": "Ambience is nice. It’s a bit too dimly lit. Wide selection of Asian Beers, which is cool. Presentation, and food was good. Wasn’t the best sushi, but it was nice experience. Was a great night. Staff is friendly. Can see rolls being made literally a foot away. It’s a small place but they made room. Clean. Parking around here is bad."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURrbU4tdDVBRRAB",
+            "text": "Iron Chef is our go to place when visiting friends ask us to take them out.\n\nLocation-wise it is perfect, a short walk from the Brooklyn Promenade (the best view of the city, in my opinion) and quick to get to via many trains.\n\nThe service is always quick and extremely friendly. The water keeps flowing and the staff loves to give recommendations if you need it.\n\nThe food is always fresh and flavorful. There's a reason they made 200,000 monkey rolls in the last 18 years. You'll want to get 2 at least.\n\nLastly, the price range is great. Especially when compared to the overpriced locations of Manhattan.\n\nDon't miss out on Iron Chef."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURncWRXOURREAE",
+            "text": "This place is better than your average discount sushi joint. Not only are the rolls a lot more appealing, they taste better. Portions are big. Very creative. I would recommend getting the sushi, and hold off on ordering the bento boxes.…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkaktDd2dnRRAB",
+            "text": "Honestly one of the best sushi experiences I’ve had. Great food. Great atmosphere. Great service. Our server really made a good experience into a fantastic one."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3ckpXNVBBEAE",
+            "text": "Stopped by here this past week for their 3 roll lunch special and was not disappointed. Ordered the salmon roll, California roll, and spicy crab/shrimp roll. The salmon roll was great, salmon tasted super fresh and was very flavorful. Their salmon roll includes cucumber as well and has the rice wrapped around the outside of the roll, however this was a welcome change. Next up the California roll. The Cali roll was also very good and hugely filling, the avocado slices were a little on the bigger side and made for a nice bite. Lastly the spicy crab/shrimp roll, my least favorite of the bunch but still relatively good, shrimp flavor was lacking and would've loved it to been a bit spicier but a good roll nonetheless. The rice on all the rolls was well prepared, nice and chewy and overall very solid sushi for the price ~$13. Will have to come back to try the rest of their rolls another time."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSaDdLdHFnRRAB",
+            "text": "this is my favorite restaurant in Brooklyn! we go at least once a week. the staff is always friendly and the food is always so good. I just wish they made more teriyaki ribs for the combination box but I understand why they run out - it’s AMAZING! I definitely recommend this place and we usually get the bun appetizer, monkey roll, downtown tokyo spicy noodles, and combination box."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5cTUzTEtnEAE",
+            "text": "Went here with my friends, was not disappointed and their noodles are amazing!! The lady was really nice, they have a cute outdoor dining area with enough seats for 8-10 people."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpaFpmRzZ3RRAB",
+            "text": "We were there to celebrate my daughter's 16 Birthday. The food was great. Just the right portions and the prices were good too."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCcmJqRkZnEAE",
+            "text": "Amazing restaurant hidden in Brooklyn Heights. Loved the food, service and ambiance. I will surely be back. Thank you for a great dining experience!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4eG9ERmZ3EAE",
+            "text": "Small place with delicious food. Fast attentive service. Indoor and outdoor dining available."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBa3VudENREAE",
+            "text": "Great sushi for the price. Nicely decorated great flavors. Perfect for a day when you just want no fuss sushi."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1ajVmODdRRRAB",
+            "text": "Overall: 4.38/5\nFood: 4.5/5\nService: 4.5/5\nAtmosphere: 4.5/5\nValue: 4/5\nWould come back again? Yes\nRecommend: Fried Pork Cutlet, sashimi\n\nThis is a good place to get Japanese food, especially sashimi. I got the sashimi deluxe combo, and those were the freshest sashimi I’ve had. Price wise it’s ok, it’s in NY so nothing is cheap."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvdGVMSFlREAE",
+            "text": "I've come here multiple times and have always been happy with both the service and the food. It's a lovely environment, with candlelit tables, an exposed brick wall, and cute decorations. You can see the chefs cutting the sushi through a…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRbXJuMmdRRRAB",
+            "text": "Great atmosphere good place to chill at lunch time. Sushi in my experience is average 6-7 over 10 but the sashimi is soft and very nice 7-8 over 10  the chicken katsu is very good so ill definitly go back. They have lunch special."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0XzU2U2hnRRAB",
+            "text": "Really good sushi with really reasonable prices. Loved the unique rolls on the menu! I don't even remember what they were called, but the one with eggplant was really good!!"
+        },
+        {
+            "date": "6년 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvdTd2cmVBEAE",
+            "text": "Super Preis für NY! Total netter Service. Lunch Menü top Preis. Sushi echt lecker! Nachtisch frittiertes Eis."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnbnFlbWdRRRAB",
+            "text": "Went for the first time the other day. Great service, wasn't too crowded at 530-6ish on Saturday, but there were a few parties there and some we're clearly regulars (good sign, means there's a reason to keep coming back for some) - sushi…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNldkxmODJBRRAB",
+            "text": "This places is Awesome! Super chill vibes and great food at a great price!!!!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnZ2ZqazFBRRAB",
+            "text": "The food was great but server made us feel on edge; clearly not having a good day. But teriyaki really hit the spot. And we loved the 2011 roll. Fried ice cream is always a good thang."
+        }
+    ],
+    "reviews_count": 76
+}

@@ -1,0 +1,502 @@
+{
+    "name": "Mendelsohn's Pizza",
+    "place_id": "ChIJwVMEqNZEwokR1qji1JdAy3s",
+    "grid": "BK12",
+    "address": "4418 18th Ave, Brooklyn, NY 11204, USA",
+    "rating": 4.6,
+    "user_ratings_total": 1430,
+    "phone_number": "(718) 854-0600",
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KRE1FcEdWM1ZqZVRCWGQyRTBUV1E1ZDBOME5GRRAB",
+            "text": "Highly recommended."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZdkx6X2xRRRAB",
+            "text": "Delicious pizza"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZaDV6STNBRRAB",
+            "text": "Great food! Delivered faster than promised"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnMlVXSlZaV2RxZW1ka1VIWkZhMWRQUzNWV1RtYxAB",
+            "text": "Ordered through Uber Eats. They now use a delivery service called Sauce. App shows the person all over the map. I get my order, instead of a pie I get 3 slices in a smaller box. I asked the delivery guy and he just says it's the receipt that's correct. Called the restaurant and left a voicemail. They never returned my call. Never ordering from here again."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkaVRFVTFNMjV5Y2pVNFdHOU9SbmxPWDNwWmRFRRAB",
+            "text": "Muy buena"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpXzRlUHRnRRAB",
+            "text": "This place went downhill pizza wasn't fresh and they charge extra for sauce on the side very cheap dont go."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKSFgwdHpaMWRyZEVWTlVWbFFOakp2U0RsZmFrRRAB",
+            "text": "Ordered a ziti slice and Snapple. Everyone was friendly, place is clean and well air conditioned, and food delicious. Can’t ask for more!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xVWVtdFNiR2h5UW1GaGRXMDBXSEJuYlZGVlVtYxAB",
+            "text": "The food is good but it is crowded most the time, therefore, the customer service is lagging behind."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SVpEVlBhbUo0T1ZkTVFtRkdYMk5IVWs5dldHYxAB",
+            "text": "Great selection. Decent prices. Plenty of seating. Friendly, family venue."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wblMyRnZMWHB2TTFCNWJWcHNUWGhhUmpKV09YYxAB",
+            "text": "My favorite pizza, most unique kosher pizza"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNReU4yNzh3RRAB",
+            "text": "Great pizza\n\nI don't like what they did to the place,  I flet extremely uncomfortable sitting there.\nI the past it was wonderful spacious place,  now they cut the place in 2 and all the tables are way to close to each other"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OcldURnlaR3B5V1ZCb1dsUkpOemhDY0hCVVJsRRAB",
+            "text": "This is a classic a great pizza shop with some nice options for other dishes. The fish is fresh the falafel is great and the salads are well prepared. Service is fantastic. Great guys behind the counter and they are constantly trying to keep the place clean. I’ve taken many lunch guests there. I like the new place next door, I think the same ownership looking to cater to more of a table service type crowd."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205d1RUbDJiM1ZYYjFsalRIRm5Ua0pLU0ZoRWJFRRAB",
+            "text": "I do not know how people like the pizza here. Maybe as a kosher option. But as far as pizza goes this is not it. Randazzo's is a better close option, Lo Duca at Newkirk Plaza even better but a bit of a walk. Service here wasn't great either, and I got a lot of dirty looks when I walked in. Cashier was abrupt and short with me (it was my first time there) and rolled his eyes when I asked if they had parmesan. I get it to an extent because I've worked in food service in New York and new customers can be annoying, but it wasn't busy and I was pretty good at figuring out how to get my food and pay but they were still unfriendly with me. It felt race-driven but what are you gonna do."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210c1JrTnZNREpQU1ZBMGVuZExNVkpWZUVVemNYYxAB",
+            "text": "Legendary pizza 🍕"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBeUszaGlRRRAB",
+            "text": "Workers are nasty no Utensils placed in take out orders even placed an order for pick up and requested utensils to be placed in the order when i came it was there in large letters on my receipt but the was nothing in the bag"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4T1RteFVjbFU0VWpKSFdreEVUSE5aUzJWb2MyYxAB",
+            "text": "Best kosher pizza in New York State region"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOUEg4S0w5M05TSC13RRAB",
+            "text": "This is a wonderful Kosher pizza place.  Of course, I'm literally putting my name on the line with this review, but truly, it was delicious.  I enjoyed the wholesome atmosphere, and there were lots of good selections of food to choose from. I recommend Mendelsohn's Pizza, and I intend to make a return visit."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRbTVHNlpnEAE",
+            "text": "My favorite kosher pizza.  Love their fries as well."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJcHNXcVpBEAE",
+            "text": "Kosher"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJcXJ2YXdnRRAB",
+            "text": "Good pizza and fries and their breaded cauliflower is yum"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJOU8tenBBRRAB",
+            "text": "Best food in Brooklyn"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJNHRyT1RREAE",
+            "text": "Great food"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3OE1YaDFRRRAB",
+            "text": "Long wait time"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURndnZXOUdnEAE",
+            "text": "Great food, great service."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBamFTLXlBRRAB",
+            "text": "Nothing like good old mendelsohns pizza!!!"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJanM3OFdBEAE",
+            "text": "Pizza is made by hand one pie at a time and baked right in front of you. The best kosher pizza place around All dishes are superb. More like a restaurant than a pizza shop"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmMHA2ZXd3RRAB",
+            "text": "Great vibes"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmX1liN0dBEAE",
+            "text": "Very good food and fast service"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmMGNxRE9nEAE",
+            "text": "The place is nice and clean, the service was reasonable. The price was excellent. The pizza was reasonable."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2eGFYcVZREAE",
+            "text": "I've been to a lot of pizza stores, I would say overall this is the best!"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyaTh1OFR3EAE",
+            "text": "Good food"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzdHNDc2hnRRAB",
+            "text": "Has to order on device. Only one working. Took too long."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzMVlfNjJ3RRAB",
+            "text": "Tasty food and quick delivery."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlNkpmN0h3EAE",
+            "text": "Horrible pizza . Very expensive and rude workers.  Used to be good many years ago  but not anymore."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYNDhfZXRBRRAB",
+            "text": "Pizza 10/10\nFries 10/10\nDrinks 10/10\nMusic 10/10\nHighly recommend"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURud1BLYzFnRRAB",
+            "text": "How could you sell your customers this ? Cheese half gone… Frieds thrown on pizza. Dough burnt and super thin!!! You should be ashamed of yourself. Wouldn’t ever pay 5 cents for it ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsbHF1QTdRRRAB",
+            "text": "Beautiful and clean operation. Solid pizza with good undercarriage and no flop. 8.2 out of 10.\nGarlic knots are a solid 8.8."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURka091V2xnRRAB",
+            "text": "Very friendly service and great food. Pizza is fresh and coffee is the best!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHbllQeWVREAE",
+            "text": "Extremely unique spot to grab a slice of Kosher pie, and soak in the culture that is Borough Park. Pizza crust has a crunch I have not experienced any where else in the world! Delivering high quality food for 50 years from the same location, this establishment is still dishing out it's unique recipes for pizza, ziti, and pita.\n\"What do you want to eat? What will you have to drink?\" The cashier, pointing to the cans of pop - \"You want Coke, which one? Ok, NEXT!\" LOL what a fun, true New York experience. I was a big fan of the pizza - but do not be a silly gentile like me and ask for pepperoni (aye, meshuga, I know)... This is a KOSHER pizza shop, so no meat on cheese, and certainly no pork."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIX0xtWVlREAE",
+            "text": "By Far the best Pizza Store in Boro Park! It’s been a Landmark for years"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKdF9Xd3Z3RRAB",
+            "text": "Classic original kosher pizza place and dairy cafeteria. They have great soft serve, salads, fried onion slices, spinach and cheese, Mac and cheese and other dishes."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVbWRPc1dREAE",
+            "text": "The pizza is pretty good New York style pizza.\nWait time was not that bad at all.\nLike the gender-neutral restrooms"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURENXI3MzJnRRAB",
+            "text": "By far the best pizza place in Borough Park!!!  A lot of healthy options like grilled fish,  whole wheat pizza, sushi, salads.....  tastes great.  My family and friends go there all the time.  Clean and courteous service."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxNklySDFBRRAB",
+            "text": "\"Wow, what an incredible pizza experience! I recently had the pleasure of trying Mendelsohn's Pizza and I was blown away. The crust was perfectly cooked, the sauce was rich and flavorful, and the toppings were fresh and generously portioned. The atmosphere was cozy and welcoming, and the service was top-notch. I'll definitely be back for more! 5 stars without a doubt. 🍕👍\""
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGbXJpc2pBRRAB",
+            "text": "\"Words fall short in describing the delightful experience I had at Mendelsohn's Pizza. From the moment I stepped in, the ambiance was warm and inviting, setting the stage for an exceptional dining journey. The menu boasted an array of enticing options, making it hard to choose, but every choice proved to be a culinary delight.The food was not just good; it was phenomenal. The pizza, in particular, was a symphony of flavors - a perfect harmony between the crispy, yet chewy crust and the high-quality, fresh toppings. Each bite was a testament to the chef's mastery in creating a mouthwatering sensation. The taste lingered, making me eager for my next visit.What truly elevated this experience was the impeccable service. The staff was not just courteous but also incredibly knowledgeable about the menu, offering recommendations and ensuring every need was met. Their attentiveness and genuine friendliness made the dining experience even more enjoyable.Mendelsohn's Pizza is not just a place to dine; it's an institution of culinary excellence and hospitality. It's evident that they put their heart and soul into every dish served. It's not just a meal; it's an unforgettable experience. I'll be recommending Mendelsohn's to everyone seeking not just a meal, but an exceptional dining adventure.\""
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaenZHcVBREAE",
+            "text": "Paid $4.08 for a slice of pizza. Was okay, nothing special and found the tables full of flies. (picture attached)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEZy1tYjZ3RRAB",
+            "text": "Mendelsohn's Pizza is a hidden gem in Brooklyn! 🍕 Their pizza is hands down the best kosher pizza I've ever tasted. The crust is perfectly chewy, the sauce is sweet  and the cheese is melted to perfection. 🧀 The service is always friendly, and the atmosphere is exciting and inviting. The garlic knots are just out of this world !I highly recommend this spot for anyone looking for delicious kosher pizza in Brooklyn!\""
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNac0pMQS13RRAB",
+            "text": "The food is amazing and all dairy, no meat. Fresh and tasty, it's very busy so the service tends to come across as rude because they want to move you on. When we asked for coffee after the meal at the registered wasn't a pleasant experience. The atmosphere is like a dinner."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1Z19YZm1nRRAB",
+            "text": "Definitely a unique taste- it took me a few minutes to decide whether I liked it or not.  (On balance, I think I do).  One thing I noticed from a visit: they seem to have a bigger non-pizza selection than other pizza places, so if you are coming with a group that might be a positive."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMNTZydWFREAE",
+            "text": "Service is slow. Tables not clean. Parking difficult. Food is awesome though. Pizza is delicious if you like sweeter type sauce."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5MU8yaDRnRRAB",
+            "text": "Food is amazing. Pizza is delicious, has that sweetness spicy combo. Reason I'm giving four stars is because the online ordering is horrible. Used to be with door dash and was great now uber eats have sometimes and not everything and sometimes they say not available, website is only pickup with limited order that they do have when you actually go to the store. You go to the store an hour later and will tell you oh we just got the order.\n\nFix your online orders and i will change this to 10 stars because the store deserves it"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJcmRTcmF3EAE",
+            "text": "Not a bad place to stop for a bite. I like their Pizza as it is always fresh and tasty. It never sits on the shelf for long. The Falafel Sandwiches are also good. Everything else like the pasta dishes might be a bit greasy. The fish is not bad. Overall not so bad - they serve many people so nothing sits for too long."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCcl9TdHRBRRAB",
+            "text": "5 stars for the food and quick service, 0 stars for hygiene.\nReally disgusting the way the employees handle food with ungloved hands. Yuck.\nOwners - you need to set an example by using gloves for food handling, I. E. Modeling good hygiene, and you also need to supervise to make sure your workers use gloves."
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRa3ZPV2Z3EAE",
+            "text": "Prices are high but the food and service is average at best. They have the computerized system and you choose from a menu, I ordered a tuna sandwich (for $6!) And they didn't ask if I need any vegetables in it or if I want it toasted etc.…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhckxfNVV3EAE",
+            "text": "Mendelssohn Pizza became a hot place to get your favorite pizza years ago but it ha gotten much better. They changed their routine how to cash out its much better now. Its a big place and very clean. Atmosphere is great I highly recommend this place the pizza and all the other foods on the menu look great!!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNteXNQcFNnEAE",
+            "text": "Placed an order for carry-out.  Only realized after getting home (20 minute Uber ride away) that we were missing half of the food we had ordered.  Called to request missing items to be delivered, or to receive a refund, and it went to…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLdU5qdy1nRRAB",
+            "text": "Factory like setting but great food and wonderful to see all the children having a blast.  Sushi very slow (however they have sushi master, not machine), but excellent quality and standards from food, cleanliness to bathrooms - touch of class everywhere."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvbHM3SkZBEAE",
+            "text": "Had the best mommy son date here. Plenty of room so doesn't feel crowned. Pizza was really yummy and such a generous size it was enough for me and my son to share. Fries were meh bland we barely touched. Ice cream the smallest cup was also huge we shared it too - such fun! Had a great time!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPdFBMQlp3EAE",
+            "text": "I've been to Mendelsohn's twice so far... I would give their fries and pizza five stars but the guy who serves the fries is such an arrogant and rude person it takes away from my food experience.  I've said this before in my reviews I'm not going to keep patronizing a store no matter how good their food is.\n\nYou say hello or ask a question either no response or a rude gesture.  I'm not accustomed to such treatment maybe other people like it I don't.\nFood is great. People not so much.😠"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXdDVQZzVRRRAB",
+            "text": "The pizza and fries are really good. The reason why I’m deducting one star is because the guy behind the counter pressed the button for take out even though I said “To stay please.” which made the guys put the food in a bag which was a little bit annoying. Other than that everything is good"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSb01fUEJBEAE",
+            "text": "Yum, really delicious dairy food\nfresh and crispy , Im always in the mood\nThey offer a big dine in area,u feel pretty spacious\nThey are always filled with customers on a regular basis\nThe have an online ordering and delivery\nFor kosher food the price is not considered high way robbery\nIts a fun vibe and perfect place to hang out\ngo there once and ull know what this place is all about! : )"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURncDhxcDJ3RRAB",
+            "text": "Kosher dairy place known for its pizza, which is fine but not outstanding.  I had a nice piece of salmon that was delicious and pea soup.  The really big draw, though is their marvelous, fluffy (and homemade?) pita bread - served with the soup - that is absolutely the best pita I have ever tasted anywhere!"
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRMEtHeFZBEAE",
+            "text": "pizza is delicious. they use high quality sauce and a bit sweet. hence, deliciousness. check out lines are a bit long and they have seperate ones for pizza and for all other dishes. huge selection of non pizza dishes and side orders. Excellent greasy food and selection."
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBNUpfQl9RRRAB",
+            "text": "I Recommend that owners put more fresh items on the menu. The pizza was  rewarmed and even then not very well. The booths fall apart when you sit in them. My vote would be to skip it until improvements are made."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3eUtPTjh3RRAB",
+            "text": "Good food, variety and setting. 1 star off because it often closes really early whereas competing pizza stores are open til ~10pm. If it was open later I'd go there after work."
+        },
+        {
+            "date": "2년 전",
+            "language": "iw",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURScFlUWWlBRRAB",
+            "text": "גילוי דעת\n\nאת הביקורת ביצעתי בזמן הכי עמוס שיכול להיות למסעדת פיצה בבורו פארק (פיצה כשרה) -\nבמוצאי חג הפסח.....\nיתכן וזה השפיע על האיכות של הפיצה ועדיין אני חושב שמעל הכל, גם בלחץ הפיצה שאמורה לצאת צריכה להיות קרובה מאוד כמו לכל מהלך השנה.\n\nהפיצה הייתה יחסית דקה וללא טעם מיוחד, אחרי כל ההמלצות על המקום והתור הארוך שהתחיל עוד מרחוב העיר, חשבתי שיהיה טעם באמת יוצא דופן, אבל לא.\n\nייתכן ואני יחזור לאכול שוב פיצה כי עדיין זה לא היה דוחה אבל בנתיים הביקורת נפגעה.\n\nאני נותן ביקורת לא גבוהה למסעדה רק בגלל התוצאה, אם זה הטעם כל השנה אז היא לא שווה את ההמלצות. ואם בכל השנה היא יותר טובה, אז למה בגלל קצת לחץ הטעם נפגע.\n\nלסיכום לפי כוכבים.\n\nכוכב ראשון - פיצה נורמלית כמו עוד הרבה מקומות.\n\nכוכב שני - תפריט חלבי מגוון.\n\nכוכב שלישי - שטח רחב מאוד לישיבה ואכילה במקום.\n\nהורדתי שני כוכבים\n\nכוכב רביעי - בגלל אי יחודיות או טעם מדהים מול כל ההמלצות.\n\nכוכב חמישי - ניקיון, עיצוב, שירות וגם טעם לא מספק.\n\nמסתבר שרמת ציפיות גבוהה יכולה לפגוע בניקוד.\nאז שיהיה בתאבון."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKaEpTRDl3RRAB",
+            "text": "Their falafel balls are fantastic. Crispy, flavorful and overall delicious. You gotta try their potato barekas too. They are flaky and filling."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZbU1uakNBEAE",
+            "text": "My family really enjoyed the pizza. They have a variety of different pizzas with multiple toppings. They have knishes, calzones, salad, sushi, falafel, salmon, tilapia and more. There really is a lot to choose from if you're just not in the…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNya0t6VXBRRRAB",
+            "text": "Spinach veggie pizza is out of this world. This place is fancy, clean, modern and super spacious and the food is amazing."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXaHBMdlJnEAE",
+            "text": "Best Pizza Ever!!!!!!!!! I don't eat any other pizza besides Mendelsohns!!! It's just heaven!!! I rate it more then 5 star++ ;)\nTheir fries are heaven too! I recommend very much! Service is great too!!"
+        }
+    ],
+    "reviews_count": 70
+}

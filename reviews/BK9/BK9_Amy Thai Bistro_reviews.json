@@ -1,0 +1,656 @@
+{
+    "name": "Amy Thai Bistro",
+    "place_id": "ChIJ0R65YtBbwokRbjTEDiJQZ4g",
+    "grid": "BK9",
+    "address": "545 Flatbush Ave, Brooklyn, NY 11225, USA",
+    "rating": 4.6,
+    "user_ratings_total": 825,
+    "phone_number": "(718) 462-1555",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2podmVXWnRVRFZLWjBsSWMxWnVYeloyT1hoRGFXYxAB",
+            "text": "DELICIOUS Tom Kha and Pad Thai!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210MVZtSm9WMnR4ZEZoclVWSlNOSE14T0VOWlMwRRAB",
+            "text": "It was amazing"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1RGRrcFFkVWhWWkZZMU5qWkViVU5UU0ZjM2QzYxAB",
+            "text": "We are from Boston visiting friends nearby, and we decided to dine in here, cozy looking Thai bistro!!!!! Food is so yummy. Wonderful warm welcome we received. Comfortable seat and atmosphere. Love it. Will come again."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kSWJuSnZXbTl1VjNKZmRHZzFabXBDT0dNMWQxRRAB",
+            "text": "The Pad thai was so delicious!! The service was fast and they were attentive, and they even gave us candy at the end. I recommend this place and will be returning when i’m back in town!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRMlpFeHlWMWg0ZUVNeFN6bFpUMlZmU2xSUVVIYxAB",
+            "text": "Great spot! The food was very  good and can tell it was fresh. Mini our server was also a pleasure!. Will definitely comeback when I’m in Brooklyn."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vd00yeFRhMVI0VjJ4MGIwSnBXRlJEYjI1WloyYxAB",
+            "text": "Yummy food and lychee martinis"
+        },
+        {
+            "date": "6일 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGcWFVRlBUMVJWWHpZeFF6ZFNSRWRvTVVzeGFGRRAB",
+            "text": "お気に入りのタイレストランです。\n今回はドランケンヌードルとタイフライドライスを食べましたがどちらもすごく美味しかったです！\n日本語が話せるスタッフさんが居て、話しかけてくれました。"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnMlZWWlNSVUZVWVZCdFVFTTBORUpFYkZCcmVGRRAB",
+            "text": "Best Thai restaurant in the neighborhood! My favorite is the drunken noodle and Thai fried rice. The staffs are super friendly and nice. The restaurant is clean and pretty atmosphere. Strongly recommend!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKMVRXOTJhME5vU1RGbWN6UTVVbTUzUlU5TWFrRRAB",
+            "text": "Awesome food! Friendly staff! My go to lunch spot! yum 🤗"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwcFdrSjNWVTFmWjNwWFdVcDZlR2R5VjBaclUyYxAB",
+            "text": "What can I say? This place is the best thing that could have ever happened to prospect lefferts gardens. The customer service is amazing. The air is uplifting, the food is tremendous and this drinks? Wow!\n\nThank you Amy! My best friend and I love it here."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psU1ZsQkJRMWRsTVZWWk5rZEVMWEpHTmsxYU5HYxAB",
+            "text": "First time here and the food was great! The staff is extremely friendly and professional."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rdFFrMXNWakl6WkhSWFdqWlBabXN3TTFCVE5IYxAB",
+            "text": "Wonderful experience 😆"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkWlowTlZTMVF6YUdad1l6ZHRXR2t4WVc1bFZWRRAB",
+            "text": "Just had the most amazing night! Great food and outstanding service. Had several apps ( all do good) and a ginger shrimp dish that was so fresh! Totally coming back."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaclNtSTNhbnBDWlVjM2JUUkJlRkJZTVVWSVJsRRAB",
+            "text": "nice birthday dinner!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSeVdFeFpabnBFWVRoUlRqQnljRTFvTjNsdlQzYxAB",
+            "text": "Amy and the staff are TOP TIER! They are suuuper genuinely friendly! The food was so good! Had a great time! Will be back again and again!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWU1VIcFVaR1J0Y0VaSWVYbHBjakowV1MxSlQyYxAB",
+            "text": "You won't be disappointed.  Come to Amy's!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CZmNISjFZa1ZaV2trMVRrSmlZVkp3Y1VVek0zYxAB",
+            "text": "This place is absolutely amazing, gorgeous, and beautiful.This place is so family friendly and kind I really feel apart of the culture and community"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Wa1ZGWk1NM0JIVjE5aFJUQkdhMDl4VFZkMk0zYxAB",
+            "text": "Amazing staff, makes you feel just like family. Gorgeous facility and the food is amazing. Thank you!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WSFkwaENjVzFOZFZsVFpHMUJZazFzZW5aNlMzYxAB",
+            "text": "Love the food"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwd01VWnFMVkU0ZG01bmNFSlJSbnBmWjI5NGRtYxAB",
+            "text": "The best Thai in all the land!   Amy’s is amazing.  Great food, great people.  Try it out!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKTmJHSkhhMVZXUVZaVWNIbGlSVEJZTUc1QlkyYxAB",
+            "text": "Natcha is the best! She took great care of us and everything was fantastic"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUcTVpT1dREAE",
+            "text": "I personally didn't have a good experience with the cooking. All the flavors are changed to suit the American palate I guess so, I was very disappointed. Sum tam with no chili no tamarin no dried shrimp...\n\nModified to reply to the restaurant comment: I group my reviews because I have a job lol. Could have put the same effort in your sum tam"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GVlUwRnNhVk52Y2pKTlRqQk9jVmxwT0RaVk5IYxAB",
+            "text": "Food is nice, not bad. Stuff is friendly, maybe a little too friendly. Pad Thai is nice, portion smaller than in other restaurants. Dish with salmon was not bad."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201aldYUjJMVloxY25aMk9FNVpTbGN5YmpkTExWRRAB",
+            "text": "10/10 everything. I’ve been coming here once a week for 3 weeks so far and will continue. A true hidden gem with amazing staff and food ,they can get my money anytime. Will definitely be back"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwQ2RYaGlNRkZKVGxOeFVtOXBWRWRVUkZGQlNYYxAB",
+            "text": "My plate says it all. Delicious. Will be back tomorrow!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSWFdsOTRZbkY0WkZSdlRsZ3djVFJOU201MmNWRRAB",
+            "text": "Amy Thai is a restaurant I normally go to but this particular day I ordered out and picked up. As I was on my way back home my order dropped out my hand in the street. I went back to the restaurant and they replaced my meal. I will forever be grateful to them for understanding. So for me the food, service, and people are impeccable. 💙"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trd1dXeDNOVzVvYmtWalFuQlJkRWwyWkRSbU4xRRAB",
+            "text": "such a wonderful dining experience! Natcha was an amazing server, if you have the chance to be photographed by her, highly recommend. Will be coming back!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CRGIwWkZabWh5TW0xS1pGVnFVMXBJYmkxSWNsRRAB",
+            "text": "Fantastic food and even better service. Natcha is the best!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sYWRFSk5SVFZTUTE5R1JYSlpUV2MwUnpCaWExRRAB",
+            "text": "AWESOME dinner! Love this place, neighborhood favorite"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVFZIRmFOVUpLV2tSUVZsWnBOWEpRTVY5VmRYYxAB",
+            "text": "We loved this experience! Tyra, our server, was fantastic. Tyra Tyra Banks  we are so obsessed and will be back. Thanks!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200M2RtcEpaSFpFVm1wdVJGSnBTakZpTVRnMGNHYxAB",
+            "text": "Great food, great drinks, great vibe!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wUlYyZ3pjSFZYZGpkT01tSm9ja3hLY0hKUWQyYxAB",
+            "text": "Great thai spot in Flatbush. Conveniently located next to park and transit. Great service, atmosphere, and delicious food — I especially love the noodle dishes."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GaGVIWlRSMDVyWW5reFFWQjZVbmR5VG5wd09GRRAB",
+            "text": "Wonderful place, friendly staff"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaUFp6UlRVelV6WXpoME4zQk9hVU5ZWVVkME4xRRAB",
+            "text": "Delicious food and great service!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ORVRYbEJiR0o2YUc1RVptZEJSMmRJUVc5S1duYxAB",
+            "text": "Nice and comfy. Great service."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKRFVYSnZkbFJNVmpaMk1YVXlZVkF4YmtVelYzYxAB",
+            "text": "Good food and service"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twWVZUTTNNRlZwZFhkelUzVmxWMFJ0TXpCeFpVRRAB",
+            "text": "Food is 10/10 I would recommend"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xab1dYSm5VMUJDVDNka1VYcDZPRFZxYTBzNE1FRRAB",
+            "text": "Simply amazing! The food is amazing, friendly staff, and service is exceptional!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wRVpsbEdNVVJDTkhadVdrWkJNekozTTFsbFFVRRAB",
+            "text": "Great food!! And drinks! The pumpkin curry puffs were my favorite!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGdGRHRlBiWEZwWW5CWlNYRllNbFpOY0VaWWJXYxAB",
+            "text": "Such a calm vibe, food is delicious (they use Chinese broccoli) and drinks are a 10/10!🔛🔝⭐️"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1M2IzRnJNRE5LYjA1aWMwWlpVWGRqYVVVeFpIYxAB",
+            "text": "Mini was amazing! Food and drinks were delicious. I will definitely be back! Thank you for your service!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkZlRFbzRibDlsVWtKbVJuY3RkMnRKUzFwbWNVRRAB",
+            "text": "I had an incredible experience at this establishment! The food was absolutely phenomenal, bursting with authentic Thai flavors. The customer service struck the perfect balance, being attentive without being intrusive, which really enhanced the overall dining experience. I highly recommend this place for anyone seeking genuine Thai cuisine. Don’t forget to keep an eye out for Mini—she’s a gem!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GV1ZGOTBjR1E0TTJ4NlVVRnZiakJXVmxCRE1XYxAB",
+            "text": "Mini was phenomenal"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKcVdYUnVUSEZYUVU5cmEyMXBXalU1VGpNeFUwRRAB",
+            "text": "Food is delicious 😋"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sd1gwZFVhMDVpWkUxc2QwMXBOVWgzUkdOdFJuYxAB",
+            "text": "Food was good. I had pineapple fried rice with shrimp & Thai iced tea. Portion sizes are ok, I wished they served bigger portions for the price. Service was good, staff is nice & welcoming."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BMlQwZEJTVU56YjNGRGRtaHhhbVpXTTJZeVQyYxAB",
+            "text": "Natcha is the best very friendly and welcoming I am a regular customer my husband and I comes very often and look forward to seeing her.\nHer customer service is top tier along with her attentiveness to customers is unmatched we love her dearly."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poNU5uSTFiR1pOU20xeGJtRm5iRjkyYVdaS09VRRAB",
+            "text": "I come here with my best friend all the time and every time the food, service and atmosphere is always so amazing. Very welcoming staff to a point that they know my best friend and I order. I highly recommend the drunken noodles, shrimp roll, calamari and their thai ice tea. Highly recommend for some quick and affordable food. Never have a wait time so you are usually guaranteed a table at the spot."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205NVEzSndiRGh6VlhSek0wRlJhVTh3UjBVMk5sRRAB",
+            "text": "Food is amazing 10/10. Good customer service."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4SmFYSkVTbTVTVTNsaWFscDVSREZWZG1OeVRIYxAB",
+            "text": "I’ve been coming here for about six months now And it’s great service great atmosphere amazing food can’t go wrong. Drunken noodles is one of the best in Brooklyn As well as their Thai iced tea this gets the CCF stamp of approval."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOUGMwVmhVamxEZFhWelgyTlZabGxCTWxaVFFuYxAB",
+            "text": "Love love this place super cozy, great eats, drinks are strong, and the customer service is here is very warming and sincere! Will be back!!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkMVlVTTBTRUZTV0VKblpIUkhWMmQ0UTNkWFJsRRAB",
+            "text": "Amy Thai Bistro is such a hidden gem! The food tastes just like home-cooked Thai — full of authentic flavors. We tried Tom Kha Soup, Zab Wings (just like the original KFC in Thailand!), Thai Curry Puff, Whole Fried Fish with Ginger Sauce, Crab Fried Rice, and Spicy Bamboo Chicken — every dish was amazing. The Thai Iced Tea and Thai Iced Coffee were perfectly sweet. The staff and owner were very friendly, not just to us but to all the customers while we were there. You can really feel the warmth and care in both the food and the service. Definitely one of my favorite neighborhood Thai spots!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxTFFuWmlMVXB5VUhGR2JGQkZObE5ZZUdsdE1rRRAB",
+            "text": "🇹🇭✨🍜 I stopped by here for a quick dinner, and it was packed. The line wasn't bad, though, and they found a table for me in five minutes. I ordered Roti Massaman for an appetizer and Pad Thai with seafood for the main course. Both were delicious, and the service was great! I saw many dishes on the menu that I want to try. I'll be back for sure!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKR1FuQlZlR2RXVXkxRFJWTmpXRVZwVVRrMVJuYxAB",
+            "text": "Went here with my friend for the first time. The atmosphere is amazing and the servers are so welcoming and nice as soon as you walk in. The food is delicious. Now I love me some wings so I had to try the Thai chicken wings and that was so good. And they got drunken noodle too! OMG I was in Heaven. Best place for some Thai food. Check them out"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WSVEwNUpURXhmUVdkVlRsSllVMEZGVUVaMkxYYxAB",
+            "text": "This place is SO good! The food is fresh, flavorful, and made with love. I had the basil fried rice, chicken wonton, Mango Sticky Rice and the cream cheese with crab appetizer and every bite was amazing. You can tell they cook with love.\n\nThe staff is super friendly and make you feel right at home. The vibe is cozy but still lively, and the portions are generous. Definitely my new go-to spot for Thai food — can’t wait to come back! We came with my little one and they even give her a very nice plate with toys utensils.\nLove it and the lychee martini is a must have."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSNWFHbExSVFoyYW5sRFRHVjBVM2RHWVdWcVlVRRAB",
+            "text": "I just Tried Thai food today and i really enjoyed the experience and the service it was a very good service i will be back for more food i will also bring some friends i had the pork chop it taste really good and the sticky rice went well with it.the spot is small but enjoyable but all in all it is a great resturant to visit is you lookijg for a small cozy vibe with some of your friends preferably a small group of friends. Might even come for my birthday here."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKR1oyMUZUMlpPYVZObE1FNW5TRGxCWnpobVpVRRAB",
+            "text": "Natcha is such a wonderful host. All the other staff were so pleasant. The drunken noodles were the best I have had. I will not go anywhere else if I am to eat drunken noodles."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkWFoyVmlVa1Y2VUVkYU1VZEdiRkpYYjA5WlZWRRAB",
+            "text": "This place is great! Came here with my dad, he’s never even had Thai food, and he loved it. Friendly service, good prices and portions. Highly recommend!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tabVRHVjBWMnRaZDBsYVZrOHdaazVpTm0xMmVGRRAB",
+            "text": "I've been wanting to try Amy for the longest, and it definitely didn't disappoint the Guava Collins is amazing. I had the basil fried rice with beef and added pineapples - 10/10. We had the Tamarind flavored salmon and that was also a hit just let them know your preferred temperature. Definitely coming back!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsU2FubGtjV2ROU25waVIxQTRXbWQzTjE4dGFrRRAB",
+            "text": "Literally the perfect Thai spot right off the Prospect Park Q train. The food here is yummy and the staff is SO kind! You must get a drink - they can make any of them a mocktail and they were super refreshing! The Thai Iced Tea was also the right amount of sweetness.\n- Pad Woon Sen: A yummy rice noodle dish that has a bit of everything.\n- Zab Wings: Really tasty coating on the wings! Not spicy at all.\n- Mango Sticky Rice: Classic Thai dessert AND super affordable here ($8)!!\n- Tom Kha Soup: Surprisingly really delish and a nice change from Tom Yum. It's a homey coconut milk-based soup!\n- Roti Massaman: Another classic Thai dish that's perfect for sharing. You can't go wrong.\nOverall, everything we got was very good and affordable priced. The hospitality is the BEST as well! The owner, Amy, also stopped to chat with us and she was so sweet. I'd definitely come back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsUVdGVXdRMGc0VERZdE9UWklMWGRoYTAxSFVGRRAB",
+            "text": "We have after work party here, which we have been here multiple times, we love the food here, and the atmosphere, and of course the cutest staffs here!! Thanks for the delicious food and great hospitality!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210bE5WbGhWMjFDUW1WUU1scFRkV1Y0Ymw5UE1uYxAB",
+            "text": "Always a great time at Amy’s bistro. Food is made fresh and the drinks. Are flowing. I’ve eaten here so many times. It’s my neighborhood favorite Thai spot. I always recommend it."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKcWJFRTFXalozZWtJMlVuQlBOblJUY1MxMVNsRRAB",
+            "text": "For my 1st time here, service & customer service was literally a 10/10. My friend & I ordered nearly every Appetizer on the menu: shrimp rolls, Zab & Thai wings, Pumpkin Curry puffs which were allll amazing. For the entrée I ordered the chicken basil sauce which was a 10/10 as well. The drinks were a little sweet, but hit you down the line. I ordered the dragon fruit colada which was too thick for my liking. On the other hand the Amy Blue & Mango Margarita were amazingg.\n\nOverall I would definitely come back to this Thai spot that I discovered while on break at work. Taira was such an amazing host & I will definitely be coming back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kdFkwOWlOR1JyZWpGR2QwbEtURFJhWlMxeVdIYxAB",
+            "text": "I stopped by on a Sunday afternoon with my friend for drinks and a dessert. First off, the interior here is so gorgeous and the servers are excellent! Taira and Amy make sure all of the customers feel happy and are having a good time.\n\nThe Mango Punch and Thai Iced Tea are only $5 each which is so worth it! The drinks are both very refreshing and come in a big glass. We shared a Fried Ice Cream which was a tasty and sweet dessert, perfect for the hot Summer day."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvME5tS2NnEAE",
+            "text": "Food is really good. Have dined in, delivery and take out! The crab rangoon is a must try. The pineapple curry oh yummmm. The service could be better. They give you your bill without asking if you want something else and then have to change it if you have dessert. It's a bistro so it's small but the food keeps calling me back. Love it!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPS1A0TVMtMmY2dThRRRAB",
+            "text": "Amy Thai was an exceptional dining experience. The food, staff, and ambiance were all remarkable. The calamari was expertly prepared, and the lychee martini was particularly delightful."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSdmJIRjBMWEZqVUZGMWRXaGtXVzVCVUZjellVRRAB",
+            "text": "Second time coming here. Amazing, high quality food with solid portions. Service is always lovely and the ambience is very conducive for a relaxing, delicious experience that’s also amenable to conversation."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQcUE4djMyeXJUc2F3EAE",
+            "text": "Amy’s is one of the best places I have ever eaten at, and I travel often. Their crab rangoons are the best I have had in my entire life, and I think about them often. Their creamy Tom Yum is also the best tom yum I have ever had with such a good variety of seafood. Every drink, incredible. Every meal, incredible. If I ever become a millionaire, I want to hire everyone to cook for me personally. Please bless yourself with this golden gem"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twdFgwTnFlbWhLVkdwQ1YwcEdPRE4wUkdKWGJrRRAB",
+            "text": "love this restaurant! i usually order delivery but  i enjoy coming in as well - the staff is always so friendly and bubbly and the food is great."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4eVJITnhaa0p4UjJGc05XSnFSbGRyU1VsbVdXYxAB",
+            "text": "Food and drinks are all really good, perfect for a date night or brunch with friends. I definitely recommend the Zab wings here and I can honestly say they have the best frozen mango drink in NYC facts. Also don’t know of any other place with a fried ice cream dessert this good. Shout out Amy! 🔥🔥🔥🔥🔥"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kweFdsQlhNekV3T1dkdU5VeFZTak56VlhWSWRGRRAB",
+            "text": "Amazing place. Amazing people. Amazing food.\nCan’t wait to go back! Especially for the drinks! My favorite drink is Amy’s Island! So refreshing for the hot days!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKMjlvc1A3dkxPd3VRRRAB",
+            "text": "Oh my what can I say I am speechless this is my first time her and from the warm greetings to the service is beyond amazing.  The food is tasteful flavorful mouthful 10000% recommendations for Amy’s. The owner comes by to say hi and make sure you’re ok I love Amy’s will be back"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tab1YyVlFZbkJuY1dzM05EVnRZbFJmTFdOTVZVRRAB",
+            "text": "I had such a great experience at Amy Thai Bistro! They have the most delicious Tom Yum and Pad Thai in New York – full of flavor and perfectly cooked. I also loved their refreshing strawberry lemonade. A special shoutout to our server Taira – it was a real pleasure meeting her, she made the visit even more enjoyable. Highly recommend this place!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPUGZodm40ZzhqN1V3EAE",
+            "text": "Service was great, very friendly and the food came fast, it a cute little spot for a quiet date night , we came around 5:30 and finished eating by  6:30 I ordered the Thai wings and Thai pork chops both delicious would highly recommend other couples to come here for a cute evening date :)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oeVUwVkJXSFY0Tldaa1lsazJjRlUwWjI5S09FRRAB",
+            "text": "A local gem!\nWe had the house made spring rolls, coconut soup, basil eggplant tofu, drunken noodles, and dessert.\nAll were delicious and affordable.\n\n* The dessert sticky rice was dyed with pea flowers!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wNlNUSndUSEUwU0c5MmEwbFZOalEzYWtsNmRsRRAB",
+            "text": "Amazing drinks, food, and service. My friend and I stumbled upon this place and it was the best spontaneous idea ever! Would definitely come back! 10/10"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWU1kweEhObTB0TTFoWlExQmZTRVJHWDFaSWRHYxAB",
+            "text": "Had an amazing time with my friends! Went to a festival not too long ago and tried their food and drinks and WOW!\nDELICIOUS AND REFRESHING!!!!\nCan not wait to go back, see you guys soon!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTWEwUlRlbkZsYmpoRFJTMWphbXAyZG05TFJVRRAB",
+            "text": "Excellent food service and atmosphere..\nThe ginger pan fried flounder with Jasmine rice was delicious"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSWlF6UmlWVWxaUkhwTFExaG1ibmRGTmtaQ1lWRRAB",
+            "text": "The Panang duck curry was nothing short of amazing! Great atmosphere. Amy showed my friends and I amazing hospitality. 10/10 would recommend coming here!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sb09HNTNXbU55UVRCTVYyWmtkbTlDYzNaWVdXYxAB",
+            "text": "Just ate here with my wife. Food was great!! The crab rangoon was a amazing. The curry I selected was tasty and my wife had the pad see ew. She enjoyed every bit of the dish and thier drinks were phenomenal."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMmRqSTNNRVZSU0VvdFkwbEVTV0pWYURWU1FXYxAB",
+            "text": "I was highly impressed with this spot! Im in from out of town and I loved the food here. We ordered the papaya salad, gyoza, pad see ew, and eggplant basil and all of the above were BOMB. Me and my friend who lives here, basically licked our plates clean. I have had a lot of thai food, including in Thailand and this is very authentic Thai food! The servers and kitchen staff were ON IT! We barely waited 5 minutes for our first appetizer and then the dishes kept coming in perfect timing. I appreciate that they brought things out as they were ready and HOT. Everything was cooked perfectly. It was comfortable seating arrangements. The servers were very kind and welcoming, especially Natcha who served us. She is beautiful on the inside and out and connected with me about Thailand. She even treated us to a mango sticky rice which was also DELICIOUS. Even though we were so full, we still made room for dessert! I would highly recommend this place and I will come back next time I'm in town. Ca poon ca!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kaWJGVnRaelZQUW5wM1RsTTVUME4wWjBwdGJuYxAB",
+            "text": "Friendly and attentive hosting. Good quality food with very reasonable price. Good spot to enjoy a nice meal after touring the Brooklyn Botanical Garden ⛩️"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsa01FNXlhRGs0VTBnME9FcHdTV05sTVUxSk1sRRAB",
+            "text": "I’ve been here countless times and I’ve never had a negative experience! The atmosphere is so quant and cozy but modern. The drinks are tasty, and the food is even tastier! Time seems to pass by without me noticing when I’m here! A true gem 💎"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Wd1VIaHVRakZ6T1RRdGEzVllNRU5JUmtSS1RGRRAB",
+            "text": "Love it !!! Amazing food !quality outstanding ! Servers are really friendly they give you a  warm atmosphere definitely would like to come back !"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRMldIQTRWekJUVVdsU2RFRmZVMVJZTTNST1JsRRAB",
+            "text": "They are so wonderful! The food is amazing, the workers are great! We come here often,  and it never fails."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCb1EzbHVkelZpYUVoalJWcFNRVmxVYjFGVlMxRRAB",
+            "text": "This restaurant went above and beyond and we can’t wait to go back. We were a larger party of 6 adults and 2 kids. They moved tables to allow us a comfortable section and were so accommodating of our little ones. Food came out for the kids quickly as requested and they had special kid plates and adorable silverware for them. Everyone was thrilled with their food. The tamarind duck was the star! The staff was so kind and caring. Overall such a lovely spot!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRaXVhLUZnEAE",
+            "text": "Amy Thai was a pretty good experience.\n\nFood: The food was great! Ton Yum soup was fine, massaman curry great, See Ew Udon was sweet and tasty! Mango punch was refreshing and had a refreshing bite to it.\n\nService was standard. Had to ask for water. One of the orders was messed up, but it tasted okay so chose to eat it anyway.\n\nAtmosphere: cute little place. Good lighting with windows. Modern look with mirrors and seating. Pleasant background noise."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jNFVqUTRSakkyUlZoUmVYbEpjelZ6TVdWclFXYxAB",
+            "text": "I’ve randomly walked into this restaurant and I was greeted with such customer service. The service was fast and efficient and I got fried ice cream and it was a 10 out of 10."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkSFVYWm5UR1ZVVUhZdE1sZFJjbVYwY1hOU1IxRRAB",
+            "text": "I hadn’t had Thai food in a while and came across this restaurant. I had the tom kha soup and basil friend rice. It was really good and the servers were super nice!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3aUx2c093EAE",
+            "text": "If you're looking for an authentic taste of Thailand right in your own city, look no further than this amazing Thai restaurant. From the moment you step through the door, you’re transported to Thailand with a vibrant atmosphere that sets the stage for an unforgettable dining experience. The flavors are truly the closest you can get to the real deal outside of Thailand itself — every dish bursts with the right balance of spice, sweetness, and tanginess, just like the food you'd savor in a bustling Thai market.\nWhat really sets this place apart, though, is the exceptional service. Even though the restaurant includes tips in their policy, you’d never guess it from the level of attentiveness and care the staff provides. They go above and beyond to make every guest feel welcome, offering personalized recommendations and making sure each meal is perfect. The staff’s attention to detail is extraordinary. They take notes of a special event we were celebrating and made us feel like royalty with thoughtful touches throughout our visit.\nWe left the restaurant feeling incredibly special and happy, having experienced not only the best Thai food but also an unparalleled level of service that made the entire experience one to remember. This restaurant truly nails both the flavors of Thailand and the art of hospitality. Highly recommend! ❤️\nLove Mimi"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkck1WRk5jamszWDFsRVMyaHJPSGxUV2xsVE9XYxAB",
+            "text": "⭐️⭐️⭐️⭐️⭐️\nI had such a wonderful experience at Amy’s Thai Bistro in Brooklyn! We started with the spring rolls, which were perfectly crispy and flavorful — the ideal appetizer. I ordered the beef Pad See Ew for my main course, and it was absolutely delicious — tender beef, fresh veggies, and just the right balance of sweet and savory. The mango and strawberry margarita was refreshing and vibrant, pairing beautifully with the meal.\n\nFor dessert, the fried ice cream was a perfect finish — crispy on the outside, creamy and cold inside. The service was fantastic from start to finish — attentive, friendly, and welcoming. We even got to meet Amy herself, which made the experience feel extra special. You can really tell she cares about her food and her customers. Highly recommend this spot for anyone looking for fresh, flavorful Thai food in Brooklyn!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twaldYSTNielF5UTNWSk9VbGhWbVpyWld0aVkxRRAB",
+            "text": "Friendly staff with great food! Our server was very accommodating even gave us a free drink!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OVU9EQmxNR1JwVjI1b2IzWkhjakpSTVd4SU0xRRAB",
+            "text": "The food at Amy’s is excellent complimented by Tayra Banks provided friendly and exceptional service!"
+        }
+    ],
+    "reviews_count": 92
+}

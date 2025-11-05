@@ -1,0 +1,572 @@
+{
+    "name": "Agi's Counter",
+    "place_id": "ChIJgbi06LFbwokRGr3pch2KH_A",
+    "grid": "BK8",
+    "address": "818 Franklin Ave, Brooklyn, NY 11225, USA",
+    "rating": 4.7,
+    "user_ratings_total": 577,
+    "phone_number": "(718) 822-7833",
+    "reviews": [
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jM1VVUlVUR1o1V1VwUlFsaHZOekJDVTBVd1ZtYxAB",
+            "text": "Nice staff and great food. I particularly liked the chicken schnitzel and the chicken liver pâté."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kc2RVdHBWMDFrTUdWaU1HMUdTVlJwTlhCVlVFRRAB",
+            "text": "Delicious and unique, a true neighborhood gem. The schnitzel is to die for and I always get the green deviled eggs with all the toppings."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25reldrTXlNa3REU0VWalprVnhNVlZIVUV0V2JIYxAB",
+            "text": "I’m extremely picky when it comes to food and hospitality service. As soon as I came in, I was not approached with enthusiasm and no formal introduction or questioning if this was my first time. It took approximately 5 minutes to be seated. It appeared that the staff were exhausted. I initially came because of the famous tuna melt, and they ran out of it. Coming from Manhattan to Brooklyn is quite a commute. I ordered the Rainbow Trout, and the taste was awful and soggy. I was not advised ahead of time that it might have scales. I also ordered the Chicken Schnitzel, which was not good. My rating is 6 out of 10. I guess the vibe was not as good as it seemed on TikTok."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SVpIVjZZVTlRVG5KUWRUTjZNVVpwVFdJNE1GRRAB",
+            "text": "Divine intervention"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SS1NrRlllVmxMUW5KRVptOTVTRkJ4TkRORmFGRRAB",
+            "text": "Excellent Hungarian food!\nHouse smoked salmon was heavenly.\nCaraway Cesar is something else - tart and creamy radicchio.\nSandwich of the day was pastrami and beef tongue…\nTuna melt was fine.\nCaraway chocolate cookie is something you’ve never tasted or imagined before - we loved it.\nAnd a beet Bloody Mary - mama!!!\nWill be back."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NNWJqTTJVWEF0TUhKd1l6RnNaVWhxTlhaQlJVRRAB",
+            "text": "Sat at the bar, and tried their new cocktail program. Had their amazing Vesper and later on a twist on a Spritz. Food and dessert (the cheesecake!!) was unbelievable. Ben behind the bar is the best in Brooklyn."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4aWVtaFpjMFJRTm1GTU9XUnVOMVpXYlVneFRsRRAB",
+            "text": "Fantastic meal"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkVmQzbEZabTVVY0Y4d2VrWkhXVE5oWW1VdE1rRRAB",
+            "text": "Such a wonderful place — everything was perfect from start to finish."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rMGVEQTJVM3B2TmxkRFNVNXZabUZ0UzJrMk1IYxAB",
+            "text": "Phenomenal dinner."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poa2FGWkpaemcxWkd4U2VWbDNOMGxtYTFsbGRXYxAB",
+            "text": "So glad this place was put in my path. I’ll be back for the deviled eggs alone! And the service was perfect, very sweet staff."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sUlExbENibkpvWVRKaE5GTkVTMnhVV2xCZlRXYxAB",
+            "text": "Excellent cheesecake and interesting menu ! Cute space to sit inside. Amazing brunch"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205M1dHVnVXaTFUY0UxR1RtZHNjelZtU1hScmMyYxAB",
+            "text": "Incredible food and wine selection"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoNnViTm1RRRAB",
+            "text": "Edit:\nThe service has realty gone downhill the last few years."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Jd1FWSTJjR3htVnpoaVNURlZkVmRsVVc5a05XYxAB",
+            "text": "The tuna melt (added a fried egg) was delicious!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKTGFteDRlazA0UjBaMk1rRXRNVjl5TkhCYUxYYxAB",
+            "text": "Fantastic space, magnificent food. The atmosphere is just wonderful in there."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210UmVHaEhNMVphVVU1TVNUazBkbEZaYjNaaFkwRRAB",
+            "text": "I highly recommend this place for a quick bite. If you want something different and something delicious I highly recommend this location."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWQlZtSm9Wa0ZTYW1wWmFEQjJVblF4VEhNelkyYxAB",
+            "text": "An absolute gem in the neighborhood. Friendly service, incredible food and excellent wine. Make sure to leave room for the cheesecake it is a must try!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toWldqRjZZa2hCUld0RmRrWkxTMHA2UnpWaFIwRRAB",
+            "text": "Please visit Agi’s — it is so full of love and care and everything is amazing, especially the people, but of course the food too!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ad2REWnNWalJZVmxWSUxVZE1iRlJWVUhKcU1WRRAB",
+            "text": "The cheesecake!! And many meals ago a lovely pork chop."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VMWFtNXlhMHBVWmtkSFVuZGtVVUY0TWxSaVZFRRAB",
+            "text": "Always a beautiful, satisfying meal! Caraway Caesar is one of the best Caesar salads I’ve had and I always go back for it. They’re very accommodating for my dietary restrictions, staff is so lovely, welcoming, and friendly. And of course the interior is absolutely stunning!Truly one of NYC’s gems. 💎"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25saWFrZHdhRTlTUzNGb1pqQlhZazkwV1hGbU1uYxAB",
+            "text": "The appetizer dip + fig crepe were the highlights for me, but we also enjoyed the tuna melt, chicken schnitzel, and trout. Slightly overpriced, but cute ambiance needs to pay rent"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMlF6YzNkR3cyWkRCT1IwOHlNMUpTZGxaeVExRRAB",
+            "text": "I rarely rate places 5* but this one deserves it. The chicken schnitzel is a rare find"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0eU1UVXdhWFo2UmtaVGJIbE5SRmRSZEV0RVZuYxAB",
+            "text": "Delicious as always — highly recommend the tuna salad sandwich. It’s delightful!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWVFYUjFUbEY2YzFJdFdYVllSSE5vWjNOcGVHYxAB",
+            "text": "My favorite place in New York"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOT1gyUnphREJzUmpSd1lVUnlWV2N5V0RWNkxWRRAB",
+            "text": "Lovely place in Brooklyn. Dining with on Hungarian, one Irish and two kiwis. Staff are awesome. Menu is small but accommodates all tastes and preferences. Granola is superb for breakfast/brunch. Has the Bologna sandwich with Brooklyn Lager, sensational.\nStaff were so good, attentive and not overbearing. Excellent menu knowledge and helpful. So glad we stopped by."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SMWMyVnVaVGhxWjAxdFJFRmhaVmxtWDNWSlNGRRAB",
+            "text": "Just the weirdest, least personable, least friendly, unapproachable staff in Brooklyn. Somehow they can’t manage to just be relatable humans.\n\nCoffee requires the reinvention of the wheel every time with no clarity about who makes, sells, or delivers coffee and in the end it’s middling anyway.\n\nGetting a drink at the bar means people just cannot communicate clearly and despite their great bar director, the staff blows it every. Single. Time.\n\nDinner is often often over salted and inedible.\n\nThey’re doing Hungarian standards with a Brooklyn twist, but it would be better for them to return to the basics from the kitchen to their FOH service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WR2NFeGpOVlJ6U2tweFR5MUdiMHBVZWsxNVJuYxAB",
+            "text": "We had another fantastic experience here! The food was excellent as always, and Nico, our server, made the night even better. He was personable, knowledgeable, and timed everything perfectly. He even sold us on a great bottle of wine that paired beautifully with our meal. The pork chop is a must-order for a reason perfectly cooked, flavorful, and consistently outstanding. Between the incredible food and Nico’s attentive service, this place continues to be a favorite."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214VWVUaDFha2RQVFUxUU0waHJUa2RaUmxwWFEyYxAB",
+            "text": "The cookies I received in the surprise box were very salty"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKclVXVnpUMFo2WlU5UFdFRlBRMXBCTkhGRWVFRRAB",
+            "text": "The most delicious donuts and kindest staff!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ad2VGTmFibEYxWTNWbU1reHhaMEZQVUVKaVIwRRAB",
+            "text": "Small and unassuming restaurant serving Hungarian - Jewish inspired cuisine\n\nWe went for dinner but they are open all day.\n\nWe started with a lemonade with lovage. It was a little weird at first but started to grow on me, very refreshing.\n\nAppetizer was chicken liver toast - this was insanely good. Soft toast with crispy edges, served with a thick layer of chicken liver topped with grapes and crispy sage.\n\nAs a main we shared the chicken schnitzel and the roasted beets with Gorgonzola.\n\nSchnitzel came out with two large pieces stacked with fresh herbs and pickled peppers on top. The bottom piece was sitting  in a hot pepper sauce. It was interesting as both pieces made for a different eating experience\n\nBeets with Gorgonzola served with beet stems, which ended up tasting like an olive tapenade. Nice side with a completely different flavor profile\n\nWe decided we had room for desert and ordered the palacsinta (Hungarian crepes) they can in a bowl with brown sugar, butter and figs. This was large and filled us up for sure but was decadent and delicious.\n\n10/10 will be back"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKU1NVdHNiazlpYjAxMVRVaDJUa3Q2TFV3MFIxRRAB",
+            "text": "Excellent to all ! I get impressed from that place. Food 5/5 service 6/5 atmosphere 5/5. I have long time to have so good time to a place in New York."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVE9ETXpiVjk0VnprMU1FdExXRTVYT1VSSWNVRRAB",
+            "text": "The food is delicious, especially the tuna melt and deviled eggs.  Staff super friendly and efficient.  Lovely dining inside snd out."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tabVRUWXpYMjR5WkhsSlRpMTVWRXBmZGxKT1lYYxAB",
+            "text": "This small eatery on a residential block makes food that satisfies completely. People working at Agi's Counter make dining fun through their friendliness. Agi's Counter offers a solid dining experience. They charge less but serve better quality. We know we need to return soon."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsYVF6QXpZMlJzYjBZd1JYZDNhMTlVU3pWdVpIYxAB",
+            "text": "This restaurant changed my opinion with their quality. I want to visit frequently enough to sample all their dishes. Light reached every part of the interior. The staff brought each dish right when we needed it. I plan to visit this place for food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oSmVraG9lakY2WlhsNE9XcFlja3hZU0d0dWRWRRAB",
+            "text": "Their kitchen turns out consistently excellent food. The cuisine surpassed expected excellence. They cook well enough but design brilliantly. Whoever headed the restaurant demonstrated real hospitality. I was compelled to give five stars after my visit."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNdFZFbEZabEpYWjBwTVFVdHFiakZMU2toSWVYYxAB",
+            "text": "Small local eatery in Brooklyn. Intimate atmosphere with the dim lighting and limited seating. Recommend that you make a reservation. Really friendly staff that is knowledgeable about the menu.\n\nFood and wine were both delicious. I ordered the dinner special, the wild boar with berry reduction sauce. The wassermann franc red wine paired well with the main. To share, we had the summer squash. And my friend ordered the confit tuna melt. Very delicious and nicely toasted on the bread. A bit pricey of a dinner for two, but definitely a worthwhile experience."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taWldrOVpaR05VYmpCdk4xZDFkWFEzVlcxUU1VRRAB",
+            "text": "Absolutely perfect. This is exactly what I dreamed of a nyc cheesecake to be - appropriately dense, creamy and rich. On its own, it’s absolutely delicious, although I do enjoy the thoughtful addition of the lemon, blueberry compote and salt.\n\nCome here for your cheesecake fix."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsVE5VbzVVV0Z0ZURWSVdtWlRXVXhLUkhJNU1sRRAB",
+            "text": "Really delicious food at a affordable price. Some of the dishes are beyond imagination, they’re not only great but they’re also creative and different to the typical brunch we all used to."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wZk1rOTJVbEpJUm5WT1ZsWk1lRlpKY1U0MmMxRRAB",
+            "text": "I went here for breakfast with a friend, and the food came out super quickly. We both ended up finishing our meals before our coffees. As soon as the plates was cleared, we were brought the bill, and when we did not pay immediately, we were asked if we would like to-go cups for our half-drunk coffees. I said no, and five minutes later, the server returned and essentially said that we needed to finish up and make room for another party. This was after being seated at the bar for less than 30 minutes.\n\nI'm not interested in paying a not insignificant amount of money only to be basically asked to leave before even finishing my meal. After sharing this experience with friends, I learned that this has also happened to other people I know as well –– it seems to be their standing policy. I would strongly encourage Agi's Counter to reassess this practice. You are losing customers from it. It's an unpleasant experience and my friends and I won't be returning nor recommending the restaurant to others. Do better!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVlkySk1TRWhXYjJVM2NFNDFhRTlIV0hJd1JuYxAB",
+            "text": "Food is tasty,  staff is very kind and attentive. Ambiance is really cute. You can tell the food is from the heart."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KSVpDMXhkRXRsZDFoRVJuRndXbEpoV0RoWGEyYxAB",
+            "text": "The best tuna melt ever."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWRE1uTlJXVlJNYUd3NVNXSkdWMTkxVnpSSlpIYxAB",
+            "text": "Tuna melt was 👌🏻"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxd2JqYzROWGxHVGtjek0xZGtVMWQzYVVoSlZIYxAB",
+            "text": "omg 10/10 will be back for the tuna melt. i ordered the sugared grapefruit and salted yogurt - insane. the staff was so nice - the vibes were super homey and comfy. loved it loved it loved it"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWFNEUmxSMnBXUTNwbGJGVjFlWHB1T0RKRE1YYxAB",
+            "text": "Agi's Counter is a gem. Today, my partner and I decided to try it out and we had a blast. The food was delicious, the serving staff were welcoming, enthusiastic, and warm, and the decor was quaint. Honourable mention to Parsa and Ross for making our experience especially memorable!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xab1RtcHBNVGhGYnpoc1dXZGtVVjlKZFRoMlQzYxAB",
+            "text": "Dill out the waazoo, but in a good way. The fish was excellent."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kVWRIRTFTVFJuWjBwelpHVlRTWGxtUnkxQ1VXYxAB",
+            "text": "The toast made with chicken liver was surprisingly delicious and far exceeded my expectations. Although the restaurant wasn't very big, it had everything I needed and left a great impression on me."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWVFkzRmpUMVZUZVVFd2VsQk1XbFpSZFVRMFRrRRAB",
+            "text": "Such a great place! A creative take on traditional recipes, good value for money, professional and friendly team and owners!\n\nA must-visit place if you're going to the botanic garden or just happen to be around.\n\nBooking recommended, otherwise you might need to wait for a table.\n\nPS check the owner's cookbook - you might need to try repeating this at home."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJcl8tVjh3RRAB",
+            "text": "Eastern European dinner at a Brooklyn restaurant that is recognized as a @michelinguide Bib Gourmand. Everything was yummy but heavier with the seasoning like I expected for this cuisine.\n\nIt was definitely pricey and there was a non-discretionary 5% “kitchen living wage” that I’d really rather to be just added to the listed prices on the menu 🤔 Might try out their brunch next time as that seem to be more popular!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VLVHh0dVhqLTh2Vm93RRAB",
+            "text": "Okay so I’m conflicted because this is such a weird addition to a neighborhood in Brooklyn I’m very familiar with so it’s weird to see how it’s changed with places like this but I also really liked this. Top brunch experience honestly. My bf really does not like standard brunch fare and he says it’s just an excuse to drink while the food is meh but this was so very good. The hash brown, bacon, crepes, tuna melt, agi o’s all really good. Cheesecake was also so so good. I will say ask to get the agi o and cheesecake without the olive oil because I personally find olive oil too overpowering and I don’t enjoy it in my sweets/desserts. Everything was so good and I enjoyed that nothing was too sweet. Food was a bit slow and the chairs were so uncomfortable but worth the wait. Please try to make it brunch it is worth it. Instant favorite. The 5% kitchen fee is weird but I just adjusted my tip accordingly. It’s a wee bit pricy but the food was worth it in my opinion and still cheaper than going out for dinner. I will be back soon."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJbU1HRkVBEAE",
+            "text": "Yummy spot ! Chicken liver mousse is fiyaaaa. I know everyone talks about the tuna sandwich; it wasn't necessarily mind blowing but it definitely was good. The chicken liver mousse was fantastic though the bread that it is on is sooo good with the amarena cherries and the quality of the liver. Super super good"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJdTkyRVJ3EAE",
+            "text": "A cute place with the nicest friendliest server. A special thank you to the guy with curly dark hair and really cool eye glasses. He didn’t wait on us so didn’t catch his name but he was so welcoming and I’m grateful.\nThe restaurant is quaint and cozy with most of the space being a literal counter which I found delightful. The food is beautiful as evidenced by these photos.\nWe arrived after breakfast but before dinner so the menu was limited. We ordered the green devils, deviled eggs with anchovies on one and pickles on the other. Both were wonderful but we both preferred the pickles which were exquisite.\nThe maple beet shrub was the most interesting and delightful part of the experience, an usual fizzy drink heavy on the herb notes - refreshing and frankly a fascinating drink! I loved it- in the summertime, it is the ultimate cool-down.\nDill is the herb of choice here. Indeed dill occupied a prominent place on beet dip which accompanied perfectly crisp chips- the trout roe was a nice touch. Lovely starter.\nI was excited to try the Hungarian crepes which, according to the menu online were filled with citrus custard, cara cara orange, almonds and soft cream. Alas, they only had blueberry pancakes available. I absolutely love citrus cream affairs and not a fan of blueberries yet these pancakes, soft , thin and fluffy were Proustian, evoking vivid memories of my childhood an ocean away. I enjoyed them immensely- totally worth it! I totally understand that things online don't always translate into the real world, ingredients aren’t available, deliveries are late etc. so I 100% understand not getting the orange cream pancakes but frankly that sounded absolutely outstanding.\nThis is the first New Yorker recommended restaurant that I have tried. And I can see why. It’s chic, friendly and beautiful.\nA nice place to take a date…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOcTl6UF84bHRxTUFnEAE",
+            "text": "Worth the hype + worth the price. 10/10! They also brought us plenty of hot water refills for our tea without us even requesting. It’s the little things that go a long way. Definitely my new fav place!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxRlZuSjZWM1pPYVZsb2NuZHdSMmRyTjJwNmJFRRAB",
+            "text": "Agi’s Counter has got to have some of the best brunch in Brooklyn with the friendliest service and cutest cafe space! Everyone here is great and so helpful. They make lovely recommendations including the lavender tea which is delicious. The true show stopper of my visit was the Hungarian crepes which I learned are called palacsinta. The seasonal summer filling was a strawberry black pepper jam and they were topped with fresh berries and cream. They were absolutely out of this world. The perfect balance of sweet and savory that will have you craving more. The tuna melt is also incredibly tasty. I truly cannot recommend the brunch at Agi’s enough."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3eWR5NWdBRRAB",
+            "text": "Absolutely delicious lunch here. This was an Ottolenghi recommendation so I knew it would be good and I was not disappointed! Selected it partly as I was dining alone and didn’t feel awkward at all. I had the chicken liver mousse which was light and fluffy yet rich at the same time and the crepes which were divine. I have recommended this place to my New York friends and will certainly return if I’m back in the city."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZc1lxanlBRRAB",
+            "text": "If you have to pick only two things, the dip & chips and the tuna melt are excellent. Very well executed dishes. The staff is also very friendly."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VKX1E4S3JhX2ZYUDN3RRAB",
+            "text": "Limited seating, but cozy and homey, like grandmas kitchen.\n\nTuna melt was a 5/5: they know exactly what they did with that. Hungarian crepe was a 3.5/5: decent, but nothing to phone home about.\n\nSpent $55 each."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNndjQyS1NREAE",
+            "text": "Delicious and unexpected flavors here!! Loved everything from the dirty ovaltine to the most interesting Caesar salad I’ve ever had to the chicken liver mousse toast. I want to try everything on the menu!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJamR6dExnEAE",
+            "text": "There's not a whole lot I wouldn't do for a good tuna melt, actually that's an outrageous overstatement, but I do love them and I'm certainly willing to get on a couple subways for one. This place is tucked into a nice neighborhood, and it's very beautiful inside, velvet curtains around the entrance, nice, soft light, hanging lamps, some fabulous wallpaper choices- the bathroom looks like an architectural digest special I'm ashamed I didn't remember to photograph it. Also idk what candles they've got going on here but it's a nice aromatic atmosphere, anyway. Onto the food.\n\nOur waitress was very welcoming and beautiful and helpful in guiding us through the menu of course my mother and I are tuna people so we knew what we were there for, we got those, and the green deviled eggs, and caraway caesar and let me tell you people this meal delivered. They have a very smart menu, its all designed to pair up and compliment and this was an especially holy trinity. Great sandwich, warm buttery bread, nice sharp coleslaw and pickles to balance. The eggs were criminally good, rich but not too rich, great salt and spice levels, elevated tremendously by the addition of sardine. It was so good with the tuna. If you're like me and want to go a little crazy wild you could have some egg IN the sandwich and really tap into another level, I also put some of the caesar on it because that caesar? Smoky, bright, crunchy, perfectly bitter from the lettuce, they cleared the field, knocked it out of the stadium with that one. Sadly they were out of their chocolate chip cookie so we got the cheesecake and their sundae, both great but the sundae was the bell of the ball. Creme fraiche gelato??? PORT STEWED PRUNES??? Creamy, not too sweet, clean, clear flavors, the prunes were genius. Perfect end to any meal. These people built this thing so thoughtfully. They had a crystal clear vision and they have executed it perfectly,  it's just wonderful to see. And eat! 10/10, five stars, just go here."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfb2NMUXRBRRAB",
+            "text": "I really enjoyed my experience at Agi’s Counter. The service was friendly and the food was amazing!\n\nWe started with the chicken liver toast. So delicious, the mousse was so light but flavorful and the toast complimented it so well. Definitely recommend.\n\nWe had the pressed chicken and schmaltz potatoes for our main. The chicken was insane. They balanced the acidity and sharpness of the vinegar/peppers with their savory chicken. Really delicious. Same with the potatoes. Cooked to perfection and served with a lovely aioli.\n\nWe ended with the cheesecake which was so delicious. Light and fluffy, but rich with great mouthfeel.\n\nWill be back again"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfazhxZXhBRRAB",
+            "text": "This is one of those rare restaurants that does everything perfectly. The service, food and ambiance were excellent. We went for brunch, and the egg and cheese biscuit blew me away. The tuna melt was wonderful as well."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRazdtNmp3RRAB",
+            "text": "Our favorite neighborhood restaurant! Food is consistently delicious. They cheesecake with blueberries and olive oil is to die for! Also try hash browns for brunch. They are mouthwatering with the sauce!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSazUyNXRRRRAB",
+            "text": "It was the BEST brunch experience in Brooklyn!! donut was so fluffy and warm even though no filling or creme inside it was so good bc the donut itself was well-made. Tuna melt w/ house made cabbage slaw was amazing , and the sausage with…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNzZQYmRREAE",
+            "text": "Tuna melt was really good and so was tbe cheesecake!! Would definitely come back for brunch again if I’m in the area. The only thing is that it’s super dark inside the restaurant."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VOMlI1dHVpOEs3TjRBRRAB",
+            "text": "Not sure what happened here but my Schnitzel order didn’t arrive complete, the cucumber side dish was missing, not to mention the food didn’t look like in the restaurant, I mean …. What’s going on with the green seasoning? This was very expensive disappointment!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJdDhXUTRRRRAB",
+            "text": "Very tasty, but tiny portions. $26 for 2 pieces of cabbage, 2 eggs, and bacon—it was alright. Tuna melt was pretty good, but you can eat it in less than 5 bites lmao"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2M1lxZFZ3EAE",
+            "text": "I went to Agi’s on a rainy Friday afternoon, around 3:30 which is when the kitchen begins to close for their evening service.\nBecause of this, the restaurant was almost empty besides two others at the counter.\nThe atmosphere was so cozy, the music was great and while I usually don’t like being seating at a high top, I found everything so quaint and comfy.\n\nI had the:\n\nDirty ovaltine- ok, quite possibly one of my all time fave warm bevis?? Insane and the most perfect thing to have on a cold rainy day\n\nRye Choc chip cookie- the rye flavor really comes through, which is great news if you’re someone who loves rye. I’m not, but still enjoyed the cookie- especially dunked in the dirty ovaltine. Despite not loving the rye, I would get it again because it was a perfect texture, and the salt and chocolate were so good it had the rye growing on me by the last bite.\n\nTuna melt- a top 3 tuna melt for me. The bread is so buttery, and the pickles??? I hate pickles, but will try them every time they’re served to me hoping these will be the pickles that change me. It never is, until now. THESE pickles. My only complaint is that I wish it came with some fries or some kinda side bite. But the cabbage slaw and everything was 10/10.\n\nAlso, the bathroom is incredible??? The candle burning was amazing, pads, flossers and mints were available on a fancy bar cart- okay luxe.\n\nI’ve been putting off trying this place because I heard it can get really busy, so I’m glad my first time was at this off-peak time to be able to take in the atmosphere and do some reading. Excited to come back with a friend and eat my way through the rest of the menu!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCMk9td3pBRRAB",
+            "text": "@lydieats 💕 Started off with the biscuit sandwich with egg and cheese. Super fluffy with the bun soaking up the sauce inside deliciously. I LOVED the crepes 😋 They were drenched in maple syrup with a huge chunk of butter. It’s def familiar tasting but a combo you cant go wrong with.\n\nThe hash brown is mind blowing. Its the crispiest bite ever 💯 It sits on top of horseradish sour cream and scallions which gives it a nice sharp kick. Wish it had more sauce so I recommend adding the trout roe for added flavor. We wanted to try the sausage so asked the kitchen to add it as a side for us. It’s a denser, meatier bite, giving the entire meal a nice hearty layer.\n\nFood is special, service is wonderful, all enjoyed in a charming space. Counter seating feels like you need to start scribbling poems in a artsy fit. The deeper you go into the restaurant, the energy changes to be more intimate. It feels like an effortless dinner party with candle lit tables feeling perfect so bring someone special to enjoy together!"
+        },
+        {
+            "date": "1년 전",
+            "language": "zh",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURydi1QVTN3RRAB",
+            "text": "位于Crown heights的东欧餐馆Agi's counter是社区居民吃早饭和brunch的首选之一，入选了米其林必比登榜单和james beard纽约最佳厨师评选。\n\nBrunch菜单不长，但因为网上每样都很受好评，以至于我在地铁上纠结了一路，到底要舍弃哪个。终于心一横，点了以下三道 -\n\nConfit tuna melt - 最喜欢的一道，加了土豆泥的吐司松软，还有微焦的外皮。Confit tuna、芝士、芹菜等混合，油润开胃。\n\n煎饼 - 还行，不太香。一口下去非常怀旧的味道 - 不知道是哪种原料带来的，就是那种记忆里的味道。\n\nBiscuit - 这道不是很喜欢，吃得有点噎，因为饼太厚太干了。如果要点的话，推荐加培根，又厚又油，可以稍微平衡一下饼的干。\n\n咖啡非常好喝！"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1MGFQWkdBEAE",
+            "text": "What a spot. Everything was incredible, this is probably on my top 3 NYC places. The beetroot tartare and deviled eggs are to die for. The cheesecake memorable. Original, full of flavours, congratulations to the chef! I also love the…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4ckpmM2VnEAE",
+            "text": "Having previously lived in Hungary, my wife and I were excited to eat here while visiting our Hungarian friend in NY. We had the privilege of meeting the owner and head chef, who was extremely down-to-earth and completely humble.\n\nThe food was outstanding! From presentation to flavor to portion sizes. We were a table of 4 and we shared three apps (chicken mousse liver, chips and dip, and deviled eggs with anchovies), two mains (both of us got the chicken paprikas), two desserts, and a bottle of wine."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIN2UyLTVnRRAB",
+            "text": "The portion sizes are quite small. Although it's brunch, it still seems a bit insufficient for one person. The food is not exceptionally good—some dishes are very salty—but overall, it's average. Additionally, there's a 5% service charge for the kitchen staff at Living Wage, which I find a bit puzzling. If the kitchen staff's wages are low, it should be the owner's responsibility to cover that, not the consumers."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSZ3BpdGtBRRAB",
+            "text": "Agi’s Counter suffers from Excess with a capital E. I feel unwell, a mild nausea, after having a meal with excessive fat and/or sugar. This was the case.\n\nIt’s not an exaggeration to say that the pancake was swimming—nay, drowning—in syrup. If you like your butter and syrup by the spoonful, you’ve found the right place. Personally, I could’ve done with a second pancake (one crepe does not make a meal) and half the syrup.\n\nLikewise, the hash brown looks much better than it tastes. Rather than having a soft fluffy center, it was more like a giant puck of potato chips. And because of its thickness, the oil can’t be drained effectively. The sour cream underneath it added to the grease.\n\nI can understand why this place is so highly rated. Americans love Excess. But if your tastes are like mine, just know what you’re walking into."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSalZYaDRPV3cxZUMxZk5rZzBURFZuYUdJM2VGRRAB",
+            "text": "Beautiful meal here. Wonderful vibe. All Hungarian wine list. Food was prepared with a high skill level - squash blossoms = perfect batter, trout was cooked excellently. Nice service from the Irish gentleman. Well done team!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4LU9fVVBREAE",
+            "text": "Oh my Agi’sssss! Homey and delicious! The deviled eggs were die for! I usually don’t set my foot on hash browns, but Agi’s hash browns won my stomach! The homemade biscuits were soft, fluffy and buttery, perfect stuffed with a runny egg. The Caesar salad sounded nothing special, but tasted insanely fresh, crunchy, juicy and cheesy! My only complaint was that they don’t serve the famous cheesecake at weekend brunch;/ I guess I have to go back on Thursday or Friday!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxZzUtZGhnRRAB",
+            "text": "We loved everything about this place! The food is nearly impeccable, the service was perfectly balanced and attentive. The vibe and decor is so thoughtful and well executed. We ordered every single dish on the menu except for the pork, dumplings, and toast and absolutely loved it. My only note is that the pastrami was fattier than expected (20-30% fat) for my taste, but the flavors were still incredible. I would come here again and again."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sT2EwVkVYMk5WTm5sWU1sSndWVmx6TVcxbVVGRRAB",
+            "text": "The complaints about staff seem unfounded based on my visit. Staff members showed exceptional care. I plan to make this spot a regular habit. You'll find exceptional food at fair prices here. You notice the management's attention to detail."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSeGR5bjl3RRAB",
+            "text": "Very cute space with all the dried flowers and decor inside.  We booked reservations about a month in advance, but if you’re just stopping to grab a baked good and coffee to go, there’s no need. We were seated at the counter, which was nice.\nThe food unfortunately didn’t live up to my expectations. The Hungarian pancakes were delicious, and deliciously sweet and buttery.  The country club plate was tasty and a great option to sample a few things (the menu said whipped feta, but it was just a chunk of feta). The pork sausage was tasty, but the fried egg that came with it was too salty to eat and the salt expanded onto some of the green onions. The hashbrowns were fried to a crisp so much so that you’d want to crumble them like croutons… they lost any sense of being a potato. The horseradish crema underneath was good though."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlcjh6RVZBEAE",
+            "text": "This place is artisanal and so so delicious. Great flavors great textures, fun straws, nice people! Do not miss the pastries, especially because they reheat them to perfection for you and serve everything on adorable grandma plates."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0N0xEWTFRRRAB",
+            "text": "Came here for the Sunday donuts and was quite underwhelmed but the crepes were much better! The egg sandwiches were delicious as well as the dumpling soup, but prepare yourself for a bowl full of dill!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsamNXSk93EAE",
+            "text": "Caveat: I still want to go back someday during brunch, hoping this will be a better experience.\n\nI went for dinner at Agi’s, expecting them to be serving their full menu of sandwiches also during dinner (on their website it says Weekday menu, which means all days of the week, and not week days [as in lunch time]). Miss number 1.\n\nWhen we arrived we had to wait 25 minutes for our table, and we had a reservation. Miss number 2.\n\nAfter sitting down, I asked our very friendly server what was the dish the table next to us was eating. It was a very big fish dish. He said what it was and I said “OK, let’s do this”. When the dish came, it was a different, appetizer size, dish. It was good, if too acidic, but not what I wanted. Miss number 3.\n\nIf you go to their website, the first picture is of a delightful cheesecake. We were excited to see on the board that the special that day was… cheesecake! When we got to the ordering dessert part… there was no cheesecake. Instead we ordered a very average cookie with jam, which seemed to be leftover dough from the cheesecake. Miss number 4.\n\nI wanted to like Agi’s counter so much, as the atmosphere is great, the people working there were vibing and the music was awesome. I was not very impressed with the dinner food at all, though."
+        }
+    ],
+    "reviews_count": 80
+}

@@ -1,0 +1,621 @@
+{
+    "name": "Tabbouleh Cafe & restaurant",
+    "place_id": "ChIJQdcsCj5fwokRpVGtceWhH4U",
+    "grid": "BK4",
+    "address": "157 Central Ave, Brooklyn, NY 11221, USA",
+    "rating": 4.8,
+    "user_ratings_total": 445,
+    "phone_number": "(718) 673-8301",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214ZlQzTjBURXR5TTFwVFpIbzVNVlJzWlVFeGNXYxAB",
+            "text": "Tabbouleh Cafe & Restaurant: A vibrant spot specializing in fresh Middle Eastern and Mediterranean cuisine. Known for its authentic flavors, especially the signature tabbouleh salad, falafel, hummus, and grilled meats. The atmosphere is casual and welcoming, with friendly service that enhances the dining experience. Great for both quick bites and relaxed meals. Portions are generous and reasonably priced. A solid choice for those craving healthy, flavorful dishes with a Mediterranean touch."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nNFFqSnlZbGR4VjJOTGVXSnVNbTVRTkhjMGFsRRAB",
+            "text": "Tabbouleh Cafe & Restaurant serves fresh, flavorful Mediterranean dishes made with care and authentic ingredients. The portions are generous, the atmosphere is cozy, and the staff are always welcoming. A perfect spot for anyone craving delicious Middle Eastern flavors at a great value."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JeFgycE1WMXBYUmxrNVFUTlZXRUZCUTJVM1UyYxAB",
+            "text": "Excellent fresh bake roll!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Zd2N6QkRZV3hCWWxvM2JXaElhVUZTYUZFeGNIYxAB",
+            "text": "Food that made us genuinely happy."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWmJETlZlV1JGVEhab2RWWTVhelp1TldNM2VIYxAB",
+            "text": "This place is small but mighty! The food is absolutely amazing. I drove 35 minutes to get here, and let me tell you—it did not disappoint. Every bite hit all the right taste buds and more. The owner is so friendly and welcoming, and everything is fresh, balanced, and healthy. If eating like this is what it takes to lose weight, I’m definitely going to hit my goals!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sS1FWUmZlRzExYURWUk1YRTVSSEJHZWsxQlpVRRAB",
+            "text": "The chef’s creativity truly shines here."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJdFNFTkpibUZ2ZEZGc1VIa3pOSFpCYlVKSlowRRAB",
+            "text": "Nice"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkbVlVRjRNRFp2TTJ4emRYUm9hRGhwVW1oelNYYxAB",
+            "text": "Wonderful experience here. Great portion for price and extremely fresh ingredients. In addition the quality of the food, we left extremely happy with the service and kindness we received. Absolutely unmatched in our neighborhood. Will be coming back."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOMVQydFZVVjlwVlhCalN5MVFVblZWWXpCRVEyYxAB",
+            "text": "Best salmon ever"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsM1Jtc3RaMVZZWkdjd2NIVmxSbVJIVkhkYWFrRRAB",
+            "text": "Everything here felt thoughtfully done."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rMGNWTTVhMkk1TFhGd1kyZzJVbDlNZUdRMlpuYxAB",
+            "text": "If I could give this place one hundred stars I want.  This is the best middle eastern fast casual restaurant I've ever had in my life, and I've eaten it probably a hundred times by now.  I plan on eating it another hundred times inshallah"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gd1VrWXdSVmRIVEZsb1JXbEpWREpoYm1aZlQxRRAB",
+            "text": "The care about costumers"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMlQydExNV1J2ZVVWcU56bENTVUZmZDFkMGRHYxAB",
+            "text": "All ingredients were incredibly fresh and massive portions! Highlight for me was absolutely the baklava. By far the freshest I’ve ever had!! I was just a little confused about a few things.. tzatziki is weak. No dill or flavor. Chicken was pretty salty or maybe it was just the butter sauce? My biggest thing was the tabbouleh salad. It literally just looks like they throw in a batch of parsley and call it tabbouleh. Beets weren’t pickled, not that they said they would be but I was hoping! Overall again incredibly fresh quality ingredients but I don’t think they do anything particularly special when it comes to how they handle those ingredients. Great place if you’re on a diet as everything is pretty basic but still yummy!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WclUyODBhMEphU1U1c01rcG1TemhFVldsV1pVRRAB",
+            "text": "Great food and excellent service. Everything was fresh, tasty, and came out quick. Definitely worth coming back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SR2NERk1NVTVGVm14bFZUQTRVbkJHZERoVVNIYxAB",
+            "text": "Their food is fresh and so tasty…I been ordering from them almost everyday… I highly recommend it :)"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WUVlqbHNaRFI0YVhSTExXa3RSRFo2VDA5NlRVRRAB",
+            "text": "I ordered the salmon bowl & it was amazing!!!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWWU16SmFNak5JZVZJemNteHpSMHhWTkMxZk4xRRAB",
+            "text": "This is my guilty pleasure after pilates or Bikram. Very clean and healthyish and oh so tasty. Think cava but waaaay better. Love the chicken shish kebab, all the sides are delish too."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wTVgweHVhRVIyUlVWS1dHNWFhRkpzYzJsTWJtYxAB",
+            "text": "Love this place. Found it on Uber. I've been ordering for a few months. Last I stopped in and recieved a complimentary desert. I often dont have time to cook. This is an amazing choice."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sweWRXZDNZbWRpYWxaT05GVXhZakpaVldkUlkzYxAB",
+            "text": "Great service and so kind – great quick meal with tons of options"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaNmNYSmFXVVJDWlZWUWVYUmZVSFJ5YjJweWNHYxAB",
+            "text": "This place is great to enjoy with friends or by yourself. I had the chicken stroganoff bowel which was delicious and filling. I will say the items are a bit pricey but again it would be worth a try."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kRU9XUXhUV2t0YVZWSE5HWlRTMnRHVjNBemNsRRAB",
+            "text": "Inaccurately left open on DoorDash and Google Maps but was completely locked and gated up when I arrived in the middle of service to pick up my order. Nobody answered the phone either, so I had to spend an hour arguing with DoorDash to get my order refunded."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210eGVHYzJPSEZaTXkweFUyWndkbDlxTWtwclVtYxAB",
+            "text": "Got food poisoning here. I had the stuffed falafel bowl. It tasted pretty good - not the best I’ve ever had. But yeah, the next few days were horrible."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kTGQzQjROeTFCV1RBMUxWQXhkaTB3VjI5T1ltYxAB",
+            "text": "Such a great spot for quick, fresh, and healthy food!\nThe bowls are generous and everything was super tasty and well-prepared. Perfect if you’re looking for a fast but satisfying meal. The staff was really kind and welcoming.\n\nI’ll definitely be coming back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaT1EwZzVRM1IyYkZZeVkyNDFWVVJRVVVnMWNGRRAB",
+            "text": "Got the Salmon bowl with lentil rice! The guys there are so kind and willing to tell a noobie what is good. Definitely recommend"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJMloxTmFNVU5oWVdKbU5YTmlTM0JHYlU1MGQyYxAB",
+            "text": "Mexican guy refused to serve me even though it was working hours . We came at midnight. It is open until 1am. He saw us inside. We were waiting for the others to complete their orders. Others completed their orders and when it was our turn he turned off lights and said they are closed. Disgusting behavior.  It was on July 2nd. Midnight. If management reads this please do appropriate actions as this guy clearly thinks he is the king of the space."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xV2NTMW9Oamg0YlhoV1NVRmZOamQxVGpJME5rRRAB",
+            "text": "Amazing spot! Great Food & Great Service!!! Cooks  Mario & Marco were very friendly as well.\nDefinitely coming back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsVmVsSnlaR1ZXVGtRMmNtRnZZVGRRZVVRME5XYxAB",
+            "text": "Clean, cozy, and exactly what I needed."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rNFZVOXRPV3hhUjBGeFRtRlVRVWhGZGpoUE9VRRAB",
+            "text": "The food is good... I recommend this place... come and tell me your opinion..."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQZTVuNlcyNzZMQ1JnEAE",
+            "text": "Fresh amazing food and sweetest people. I could have Tabbouleh salad and lentil rice bowl everyday. So lucky to live close by. Wish you the best!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMV1Jfc1BCMWFPWG9RRRAB",
+            "text": "The food is amazing salmon fish platter is the best healthy."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPSHM2dWpMN3NLQTJBRRAB",
+            "text": "Amazing bowl"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKZnl5WTZJN3VHdHVRRRAB",
+            "text": "delicious food and open late! great for vegetarians. I love the mumhmarra!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKTGppSmlXM0xTR09nEAE",
+            "text": "Great food and presentation. The drink I had was such a great pairing with the chicken. Great customer service and super clean space."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJZkNtTVh1MjlIYUl3EAE",
+            "text": "Took much longer than what we expected. We were told 12 mins but ended up closer to 20 mins. At some point while we were waiting there both workers weren’t doing anything so we had to ask them for our food. Super odd to forget about us as we were the only two people there. As for the food, it wasn’t exactly worth waiting 20 minutes for."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJams4T0dvZ3RuZ3p3RRAB",
+            "text": "A lovely place. I come here whenever I need real nourishment. Super delicious, friendly staff, community vibe. Double thumbs up!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPNlY2S182NG9EMDRBRRAB",
+            "text": "Delicious and fresh food- and can really appreciate that it’s prepared with care 🫶🏽…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZM042OUpREAE",
+            "text": "They need an option for a smaller portion for a few dollars less on the kebab. Nice place to sit."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvZ3NYVVl3EAE",
+            "text": "Good way delicious 😋"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJcm91WV9BRRAB",
+            "text": "Playlist is banging, staff is lit, vibes are immaculate within these 4 walls and the off is off the walls and healthy."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJblA2cW13RRAB",
+            "text": "absolutely fabulous; service, food, proportions, flavor, and quality."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJN0tfUU1REAE",
+            "text": "I bought baklava and cheesecake and couldn’t eat. Baklava was mid but cheesecake taste bad.Idk how 4.8 got this place"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJN0lpSFZnEAE",
+            "text": "Everything about this place is amazing. It's comforting in the atmosphere and also the grub and energy. The owner is extremely down to earth and always make sure you walk out happy. Food is always fresh and 10/10. You can't miss at taboulleh Cafe."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJLVBQVml3RRAB",
+            "text": "Definitely in my top 3 favorite neighborhood restaurants. I’ve been coming here since they opened and they’ve continued to be so generous and the quality of the food has stayed top notch. I travel for work a lot and this is usually my go to homecoming meal. Get the lentil soup with some olive oil drizzled over it. Also the salmon is a 15-20min wait but it’s so perfectly cooked and seasoned it’s worth it. If I’m in a hurry I get a falafel bowl and the falafel is soooo fresh and delicious. Highly recommend this place to everyone!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3NE5XV2lRRRAB",
+            "text": "Delicious and fresh as always. The owner is a sweetheart and works here as well."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3ODhma2dRRRAB",
+            "text": "Great desserts very kind owner!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3c3Q3VGx3RRAB",
+            "text": "it’s the best Mediterranean food I’ve ever had and I’m so lucky to have it down the street!! 1000 stars if I could. I eat here 1-2 times a week and it’s always delicious and fresh. HIGHLY RECOMMEND"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3eEptRmlRRRAB",
+            "text": "Best restaurant in the neighbourhood"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRdTU3UTZnRRAB",
+            "text": "Very fresh and delicious food. I built my own bowl with chicken and everything was spot on. Hummus was amazing, toppings fresh. I will for sure hit this place up again next time I am in the area"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRN2VETkJBEAE",
+            "text": "Just had takeout from here, THE BEST falafel I’ve had in the city. Extremely fresh tasting food! Veggies were crisp, rice was fluffy, falafel was delicate with a perfectly crisp exterior. If you like a bunch of sauce order extra but the amount they use is perfect for me because the ingredients being covered in sauce are so good on their own. The bowl also came with stuffed grape leaves which I appreciate. Food this quality at 1am, you bet I will be stopping in person during the day to try it out."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURROWFtVUxBEAE",
+            "text": "Not authentic food. They don't serve the things they have on their website. They did not know what baghrir (Moroccan crepes) was and said they don't offer it."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRd2NYamdnRRAB",
+            "text": "This café is small but very cozy. The atmosphere is pleasant, it smells delicious, and everything is very clean. All the food looks incredibly fresh and appetizing. I had the lentil soup and hummus with pita, and it was absolutely delicious. The staff is very friendly and welcoming. Thank you!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQLTV2dUlREAE",
+            "text": "Went here with most of my family after arriving in New York. They gave us complimentary samples of appetisers, which was very kind. We ordered 3 main dishes between us 4 because we don’t eat a lot, and food portions were quite large. Best dish was the ribeye steak bowl, and salmon, and beef kebab were also very nice.\n\nGood service, nice staff, reasonable price"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBcEthQ2RBEAE",
+            "text": "We came here late night for a bite.\nThe salmon bowl was amazing I must say.\n\nI also got a shrimp wrap which was a bit dry. Needed some type of sauce inside.\n\nOverall ok. Well mannered staff etc… But what really got me kinda crazy is at 11:30 we were already starving and they were busy fulfilling mobile orders.\nLike please serve us first.\n\nThey did say we had to wait 15 mins for the salmon but I been seen my salmon just sitting there and I had to ask hey guys can yall serve us meanwhile we’re here."
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQLTZ1MHRnRRAB",
+            "text": "Glorious, small Middle Eastern restaurant, with seating for approx 15. The kitchen staff are lovely and really helpful in providing suggestions of the best meals to suit our needs. The salmon bowl was my favourite, and we enjoyed some lovely felafels and dips, as well as tasty baklava to finish. The portion sizes are really generous. We travelled about an hour to get here and it was definitely worth it. This is real, authentic, delicious, fresh food, home made and comforting. 10/10, we will definitely return!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROcmFMZGtBRRAB",
+            "text": "The purpose of this review is not to hate or harm this restaurant in any way, shape, or form. That being said, I hope you take this review as an informative review.\n\nAtmosphere: This restaurant is well decorated and clean for the most part. It seems like a really nice place to go eat with friends, especially in the summer.\n\nService: Most places in the city do not really have a pretty good service, with people that engage with their customers. This place is definitely an exception. Customer service is great!\n\nFood: I ordered the Stuffed Falafel Bowl and the soup of the day(which I forgot what it was). Both were really good, especially the bowl. I trusted the guy's suggestions for some of the ingredients. I'll definitely be trying their other bowls.\n\nPrice: Honestly, their prices are more than fair. The quality and flavors of their food compensate their prices."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfOV96dHd3RRAB",
+            "text": "I’ve been meaning to check this cafe out for a while and finally got around to doing so today.\n\nEverything about this place was perfect. I got the stuffed falafel bowl w/ lentil rice and brussels sprouts and it was definitely the nicest meal i’ve eaten all week. Full of flavor, so fresh and generous portions! The service was amazing too the two lads here are fantastic.\n\nHealthy, fresh, affordable & comforting. What else do you want?\n\n11/10"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4NTlERWhRRRAB",
+            "text": "This is my first review. The pictures are not enough. I cannot express how big of a mistake you’re making if you miss eating here. This is the most unique experience I’ve had and one of the best meals I’ve had. Go when it’s less busy if you can. They transcend food. I watched art made in front of me. I couldn’t do dairy so Osa, the chef, made a garlic sauce just for me. Probably the best cooked salmon I’ve ever had. The care put into the presentation made myself and my partner feel very special. The universe is strange, we just got the keys to a place and had hoped to celebrate. Like a dream, I’m in disbelief to be so lucky. Pro tip: if they ask if you’d like to try something, do it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3OHUtbzVnRRAB",
+            "text": "Family is the first thing that comes to mind when I arrive . I am very proud of the growth  of this fine family establishment.  I was mesmerized by the atmosphere it is extremely peaceful ✌️.  The food is amazing, cozy, and made with ❤️ love. Thank you for a wonderful yet memorable experience ✨️ 💖 me and my sister and I had. I am recommending them at a 10/10 drop by with good zen and tip well when you go. Photos below. Ps. My sister witnessed Osama give to a person in need of a meal to eat. I just saved this location as my favorite. That was so honorable. I am grateful 🙏 it was my pleasure to stop by. All the employees are amazing. Thank you. The music is on point 👉."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURueS0zbjVRRRAB",
+            "text": "The Chicken Brussels Bowl was filling and delicious. I asked for the non-spicy version with garlic sauce and tzatziki. The portion size was huge compared to other similar restaurants. I could easily stretch my bowl into 2-3 meals. The chefs were also very friendly. We’ll be back to try more!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUeC1IaWN3EAE",
+            "text": "This restaurant has become my go to spot. I was impressed with how good the food taste. I got a salad with falafel, so delicious 😊 Also they sell good quality coffee and chai latte. Check out the caramel cinnamon latte! On top of that, the atmosphere is nice with free water and lemonade. Friendly people with great service. It’s hard to find places like this one. It’s unique, I definitely recommend, 5 star 🌟"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3eWVIbndBRRAB",
+            "text": "From the door ur welcomed by chef  or any staff. Everything is made fresh n with love! Coffee is super great- between the aroma n how hot n fresh it’s served (it doesn’t need milk)."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuNFBlN2t3RRAB",
+            "text": "I’m blown away by the love and care Osa puts into every dish. The service and his passion for cooking shows and the flavors are out of this world. Got the salmon bowl with lentil rice I’m gonna spend the rest of the day finishing this baby because boy was it BIG 🫶🏼 heart & belly full!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6dzVPRTdnRRAB",
+            "text": "Overall it is not our first experience, we used\nto order online deliveries but due to the long distance they stopped doing it, so we decided to take a ride and grab a takeout. I loved that the place is clean, they make all food on the spot. The chef (who seems to be the owner) treated us with complimentary dessert while we were waiting."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzb083VTB3RRAB",
+            "text": "I was craving some middle eastern/Mediterranean food and this place did not disappoint! A great selection and the ingredients are all very fresh with the shish kebab made upon ordering. I had the build your own bowl and highly recommend. To top it off, the staff is very friendly and warm, even asking how the food was after!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyX2NfdFBREAE",
+            "text": "The beef pita sandwich and the chicken bowl were both very great, filling yet healthy and packed with flavor. Prices weren’t too crazy for the quality of the food. Based on what you order you may have to wait a bit but it should be worth it."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRdU42OEVBEAE",
+            "text": "Amazing fresh falafel, very generous and kind staff. They have great baklava. Only wish they had true Lebanese pickles!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKMjZiWXlBRRAB",
+            "text": "Everything about this restaurant is absolutely incredible! The food was divine and Osa is an amazing chef. The restaurant is warm, inviting, and great to eat in at. Everything was so flavorful and delicious. One of my favorite dining experiences in the area :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqbDgzazJBRRAB",
+            "text": "I was in the neighborhood searching for a quick bite and came across this restaurant. There was a customer here who had nothing but great things to say about the food so my friend and I decided to try it. We got a falafel bowl and a chicken bowl. Food was fresh and delicious. The owner was amazing and very patient. Highly recommend for a healthy tasty quick bite."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKcTlqcVl3EAE",
+            "text": "This is the best dining experience you will have in the neighborhood. Osa (the owner) is passionate, talented, and committed to making spectacular food. This restaurant is only the beginning for him - a year from now I bet we will see him making headlines. I’m telling you, get it while there isn’t a line around the block."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2N3JUelVBEAE",
+            "text": "The best falafel I’ve ever had, by a million miles! Made fresh, in-house every morning and fried to order. Osa is so generous with his bowls, and it’s clear he’s deeply passionate about serving great food. Even the rice is so fragrant on its own; I could eat a bowl of it plain.\n\nI would’ve written this review a few visits ago, but I could never stop myself from digging in before I could get a photo. Highly recommend grabbing a pomegranate drink and letting Osa freestyle your bowl based on his recommendations. Took this bowl to-go, but I suggest dining in for peak enjoyability. Plus, it’s hard not to eat it as soon as you get it."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNadVlMNE9REAE",
+            "text": "Absolutely love this spot, have only been twice but see myself becoming a regular. Amazing quality for the price, fresh ingredients, and a friendly environment. Have gotten the salmon bowl and below is the chicken pita sandwich, and both were excellent, freshly cooked proteins that are not dry are the star of the show, as well as amazing sauce and dips. The best Mediterranean food in the area by far!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNydllPOWlnRRAB",
+            "text": "My first time eating here and it was delicious. Fresh, flavorful, big pieces of chicken cooked just right, soft pita still nice and warm even with my order being delivered a couple miles away. The serving was substantial and I had leftovers. Also, I tried the \"coconut brownie\" which I highly recommend, it was a perfect summer dessert."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSdTZyMVR3EAE",
+            "text": "The man is an absolute artist at what he does. Perfect lunch spot, healthy, super flavorful, and filling. The ample of amount of sauces and toppings is enough to allow you to switch it up and come back for different variations, but honestly I just let the dude cook because he whips up some beautiful masterpieces."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNabFBDTEdnEAE",
+            "text": "Everything here is always super good and very fresh. Great friendly service too. The cauliflower bowl and salmon bowl are my favorites."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwZ0ptRENnEAE",
+            "text": "My friend and I love this place, the food was awesome. It has the right amount for everything and so healthy too. We ordered the stuffed falafel, chicken stroganoff  and a couple of local (Brooklyn) drinks and it was perfect, and on top of that, they gave us a free portion of potatoes with this white sauce and it was so satisfying. I like to try new places but I def would go back to this one again and again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyX3R6VVh3EAE",
+            "text": "My new favorite spot whenever I’m around the area! Always feel welcomed when I walk in. The guys there are super kind, ingredients are so fresh and food is made with lots of care. I’ve gotten the tabbouleh and stuffed falafel bowl and both were amazing! I highly recommend to try out. Thanks so much Nemer!"
+        },
+        {
+            "date": "10달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmb2NXM2VBEAE",
+            "text": "J’ai adoré mon moment passé au Tabbouleh café, la musique, l’ambiance, la gentillesse et l’hospitalité du propriétaire et surtout la nourriture qui est incroyable !! Meilleur falafel que j’ai mangé, tout était délicieux !"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4X3JHYllBEAE",
+            "text": "We were staying at the Holiday Inn Express on Broadway and wanted Mediterranean food.  We found Tabbouleh on Central Avenue in Brooklyn which was the best rated, not the closest.  We were so glad we found it, you will not be disappointed!\n\nEverything was freshly made and portions were huge (enough for more than one meal) for the price ($15 for a Build Your Own Bowl).  The falafel were stuffed with vegetables and generously covered with sesame seeds!  The sides such as carrots, beets, cabbage and chickpea were nicely prepared (not mushy, well seasoned).  The tabbouleh sauce had a great mint flavor, the garlic tahini was smooth and garlicky.  The dolmades (stuffed grape leaves) were flavorful.\n\nWe also enjoyed the free lemonade (not too tart, not too sweet) and hibiscus tea (nice additional cinnamon taste) available for customers while waiting.  The owner even gave us fresh hot falafels covered with tahini sauce while we were waiting!  Tabbouleh has two small tables and counter space where you could eat or wait for your food.\n\nThe owner said that he had worked in Mediterranean restaurants his entire life and opened Tabbouleh so he could make Mediterranean food the way he thought it should be made.  He was an artist in the way he made the bowls, dicing and presenting the vegetables around the edge of the bowl in a beautiful way (please see accompanying photos which unfortunately were taken after smashing a lid on top of the bowls and walking back to the hotel with the bowls bouncing around in the bag).\n\nHopefully everyone will enjoy the food as much as we did!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2enIycmFREAE",
+            "text": "What a gem of a place. These are some of the sweetest people on the planet. They gave me some of the food that they were eating themselves. This is culture of sharing which you have to experience to believe. The hummus is to die for. Give this local place a shot!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYbV9USXF3RRAB",
+            "text": "A perfect option for vegetarians and non vegetarians. Lovely ambient, awesome food and kind service. If you are near it really deserves your visit. I do recommend a Jordanian desert called “Basbossa”"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4aEliLUJ3EAE",
+            "text": "This place is insane good. Super cute super cozy. One guy behind the counter building GIANT bowls of food which he meticulously designs. Placing little apple slices in a beautiful designed and appetizing display of a bowl. Did I mention it’s extremely affordable? Oh wait, did he just pass out free watermelon slices to everyone in the store? Yes he did because he’s awesome, and kind, and truly enjoys serving people his DELICIOUS food. The food is super fresh, sunlight pours into the store, and there’s courtesy hibiscus lemonade in the corner. Do not sleep on this new gem in Bushwick."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSOUlXbWpnRRAB",
+            "text": "Wow wow wow, immaculate food! Been waiting for a place like this to open. Before discovering this place, I couldn’t find ANY reasonably-priced healthy/fast/casual options for bowls and salads in all of Bushwick. This made eating healthy while on the go challenging, but the food at this place slaps and they get it. Great portions and the fresh hummus green sauce they have tastes fire"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwMTdyOWhRRRAB",
+            "text": "Everything is amazing! The food is so fresh and delicious definitely my new favorite spot can’t wait to come back and try more."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNabXV5VzdBRRAB",
+            "text": "I really enjoy this place. The food is fresh, delicious, and portions are fair. The falafel is awesome, and I usually get the falafel sandwich, but the rice bowls are great too.\n\nAlso the staff are warm, helpful, and friendly!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzdUttOWF3EAE",
+            "text": "Wonderful friendly service. Freshly made with fresh ingredients. Delicious flavor. I highly recommend."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4Nlo2ejlRRRAB",
+            "text": "Incredible food, generous people. An unbelievably welcome place in the neighborhood. I’ve never walked into somewhere expecting a quick lunch and left so impressed by every element of a restaurant I can imagine."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4OTluR0hnEAE",
+            "text": "my first ever google review. they truly went above and beyond to provide the best service! and the food was sooooo good. i brought my sister who is visiting and was craving mediterranean. i live nearby and will for sure come back. i cannot say enough good things. the tiny pancakes they gave us to try were so good and the free hibiscus drink they had was amazing. literally everything was good and they have something for everyone (vegan, vegetarian, omnivore) 🫃💙\n\nps. eat in if you can!"
+        }
+    ],
+    "reviews_count": 87
+}

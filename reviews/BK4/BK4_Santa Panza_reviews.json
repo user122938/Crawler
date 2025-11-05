@@ -1,0 +1,530 @@
+{
+    "name": "Santa Panza",
+    "place_id": "ChIJg26lNwlcwokRdVx1qWCCGIc",
+    "grid": "BK4",
+    "address": "1079 Broadway, Brooklyn, NY 11221, USA",
+    "rating": 4.6,
+    "user_ratings_total": 746,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200NVNtWkJXVmN6VldST2MwODFOREZmYjB4cU0zYxAB",
+            "text": "Seriously good food, friendly service and a nice atmosphere."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGa1YxOHpVMUpHYTNGU09EaEVVa3c0WmpBM1RVRRAB",
+            "text": "pizza quality has gone down, dough is very thin"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsQ1FrWXlObUowVjBsWWREQXRTMTlJVW14WFJFRRAB",
+            "text": "Cute date night place. NOT sure why I couldnt get fresh mozzarella as an ADD ON aka I pay for it marked as a topping to the past that I had. My server told me she could not give it to me. Very off putting when clearly I said id pay for it. Malfadina pasta was OK at best nothing special about the sauce. Pasta, or meat combination especially for the price. Margarita was underwhelming as well for the price. Wish I just got the pizza."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paWVZ6TTNRMjkwTWpsblRYcE1aRXRNV0ZaTmFFRRAB",
+            "text": "A truly top-tier dining experience."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GV1NVMUJUV1JzTlUxTFJHNXlTMHhRWWt4RmIxRRAB",
+            "text": "This place never disappoints."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WWGNsWTVlblJwWjA1cVdsOXRZV1Z5WW1wblJuYxAB",
+            "text": "Great neighborhood Italian restaurant with delicious pizzas, appetizers, and entres."
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkaFYzcGFMVlpXZW01aU5FeFlNMWd0YjNWcWRVRRAB",
+            "text": "Ame este lugar una Joya Escondida en broadway"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wS1dVaFVUbVp2TUhkd1MwdFVOWEpVTFZsaVRXYxAB",
+            "text": "Came here with our three kids. A few of us are dairy intolerant so we were excited to hear they had vegan cheese! We enjoyed 2 really delicious pizzas. I’m not Italian but they seemed very authentic. Everything was top notch but also affordable. Big thumbs up for this place."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGNk1TMTJaMWQ0TkdKelMzSndiMk42TFVKbFJtYxAB",
+            "text": "If you live on this side of Bushwick be blessed you have this spot. The best restaurant in Bushwick. Wish they opened a second location these are excellent business owners"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOVmQwVllWa1I0WmpGYVRFaFVia1ppTURGNmJsRRAB",
+            "text": "Great dinner! They accommodated a big party day-of and our server Dominique was awesome, very attentive!\n\nWould go back! Would also love some candles on the table because the menus can be hard to read in low light."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWb1RYRTFRM0JPVkhoVlUzQnRhVFpYUjBNNGJIYxAB",
+            "text": "Found this by chance shortly after arriving in Brooklyn and it's a little Gem . Staff were lovely, food was amazing and service was friendly and efficient. Loved this place !  Would highly recommend and we would definitely go back again"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WT1dWZGFPVFIyV1dobVVVZzVNekJpZFdGVFgyYxAB",
+            "text": "I Stumbled upon this place walking down Broadway. Im somewhat of a pizza snob having travelled to Italy many times. This has now taken the lead of the best pizza in NYC and I have been to the other places."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0R1VXczRWR2RFU1Y5cmVFOVNYMDV6TlZKVVJFRRAB",
+            "text": "Non mi sarei mai aspettato di trovare un ristorante italiano di questo livello in quella zona.\nHo preso del cibo da asporto ed era tutto buonissimo. Lo dico da italiano.\nComplimenti a tutti!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kMFV6WnZWV2RvUzNadVFsSnRTbTlLV204ek1tYxAB",
+            "text": "This place was such an unexpected little gem. Everything we ordered was absolutely delicious. The burrata with balsamic cherries was the best I’ve ever had."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VNFNrTjJkemhCWWtsaGVTMVNaRWhyYkVGUGJGRRAB",
+            "text": "Amazing food and great atmosphere. We will definitely go back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kRVZVWXphM05yTkc1QlNYUndVM280YW1SNFJXYxAB",
+            "text": "This place is a gem! I’ve been here so many times and will definitely continue to go. The espresso martini is a must!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkZlduSlNTRGMxUVhRNVlXSmpYelV0V0hsMFEwRRAB",
+            "text": "If 4 people go to dinner together, they want to eat together. We watched people next to us get seated 10 minutes after us and finished before we got our food. Great food but horrible service. We have been here multiple times because of the food but we won't be back. There are too many great restaurants in the area that understand service."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VemVIRm9aMGwyVm5aUGEyWTRYMHBtT0U1NWFYYxAB",
+            "text": "Me encantó la pizza 🍕 y la pasta 🍝 el postre 🍮 y los trago 🍸 de este lugar y el personal…"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVVJsbFNjblZRU2paRE5UUm9ha2xRVFRCaFptYxAB",
+            "text": "Been going there for years. Don’t miss out on the ceasar salad or the cocktails, and the pizza is just perfect. Relaxed vibes and attentive staff. Unpretentious - a true gem."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tObE5XUnFkSFJKVFd4clRIRjRVRU0wYjBONmNWRRAB",
+            "text": "the best pizza in bushwick! arguably, in all of brooklyn... bold statement! pastas and other entrees are also delicious. they update their menu so regularly with seasonal offerings. the space is delightful, great for date night (have been for several valentine's days, anniversaries, etc), but casual enough for a friday night with friends. service is excellent, one of my favorite restaurants ❤️"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWbGFUQkhNMU5tVUdoSVJuRlVWMlIyY1VkWFRHYxAB",
+            "text": "If I could give this place more than 5 stars I totally would! I have come many times now with different groups and everybody always loves it. The other night I came with a friend when I really wasn’t in the mood for pasta or pizza so we were going to order other items which I thought they couldn’t possibly do as well, and boy was I wrong! I truly don’t think you can order something bad here. We ordered the chicken Milanese and it tastes exactly like what my nonna used to make. I also think the meatballs are truly the best that I have ever had. How this place isn’t at the top of all the restaurant reviewers lists, I am not sure, but I am glad for now it’s a special local spot!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OYU1sSndURlJuTnpSeU0xaHpaRXRrTlUxM2IyYxAB",
+            "text": "So they have squash blossoms ( gently fried) and it came with a lemon wedge..... so lightly fried and out of this world. I ordered Mafaldine pasta ragu..... it was a shorter papadelle pasta and so filing ... the sauce so sweet and of course I got bread but it is like a really wide faccai bread with EVOO AND I TOOK SOME HOME..... the bread and oil was a meal ..... lastly chocolate mouse delight called Navarete and it has a dollop of whip cream and sea salt ..... I am overjoyed\nOutdoor seating / indoor seating / at the bar this place is awesome and 3 servers and all of them equally friendly and wicked helpful"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5RE9GbDFiM2hsUldVNFVWUjZTWHBuV0ZaZmRYYxAB",
+            "text": "Don’t ever go if you are drunk.\nMy bull was $160 I tipped $50 and they said never come back because my friend was inebriated."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMlVUQkxNWGxxU1RsWlRrMDBMVWhuUldOalkyYxAB",
+            "text": "yummy pizza and great vibes in the backyard :) staff is always friendly, too! also love the small plates and drinks. my gluten free friend loves the gluten free crust here, he says it's the best he's ever had"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJV01pZWlndW83aE9nEAE",
+            "text": "This was our second visit, first for Christmas and now for our anniversary, and it was just as memorable. The food was phenomenal—we ordered the arrancine, the pizza of the day (white sauce, pecorino, broccoli, and sausage), and the steak frites. Everything was absolutely delicious. The atmosphere was wonderful and the service top-notch. We also enjoyed a pitcher of their sangria—so refreshing! We can’t wait to come back again!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLYXAzNFdnZ2M3dDdnRRAB",
+            "text": "Food and service was amazing !  Stella was amazing taking care of everything ."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VLZVc0ZmlKdUtEbDFnRRAB",
+            "text": "I’ve ordered from Santa Panza about 4-5 times now, and have always had nothing but great experiences. Their food is really tasty, and they use nothing but the freshest ingredients. Their gluten free pizza is quite good as well! I’m bummed to give this place 3 stars, but it is because I’m currently in the grips of food poisoning induced from a meal I ordered from them last night. Awful, awful stuff. Be careful what you order!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNdTlsTnF6MXUzblRREAE",
+            "text": "I must express a bit of gratitude for this place.\n\nDo you know how rare it is to have a place near your home that is this reliably good? The food? Always delicious. The drinks? Always nuanced, strong, prompt. The service? Always on point. The staff? Always friendly and without attitude.\nSo many things absolutely suck in this world, but Santa Panza just… DOESN’T. Revolutionary, really."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMT2FrYnVDcGJMSVdBEAE",
+            "text": "I’m so happy I came to Santa Panza tonight.\nGot the olives, meatballs, and spring peas to start. Every bite was delicious the olives were citrusy and a great start and the meatballs were such a generous portion. Spring peas were light and cold and refreshing.\nShared the beef and pancetta ragu pasta. perfectly cooked and could really taste the smokiness of the pancetta.\nEnded with the salted olive oil cake, which was not overly sweet at all, paired with the espresso ice cream.\nWine selection was great.\nService was fantastic, every person that came to our table was so enthusiastic and attentive.\nI will be coming back here soon!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNUzl1OS1zMDhEaFh3EAE",
+            "text": "cozy neighborhood spot with good food. would recommend"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZc2ZENllREAE",
+            "text": "Literally every single thing was amazing — food, drinks, dessert, atmosphere, service. Came here for date night, and couldn’t be happier. Thank you Phaedra!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZd1l5S1BBEAE",
+            "text": "Cosy neighbourhood italian place with surprisingly inventive food offerings. Cool yet unpretentious The kind of place you want to return to over and over again."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcmNmRTJ3RRAB",
+            "text": "I don’t think I’ve ever felt compelled to profess my undying love for a restaurant, but if I could marry a restaurant, it would be Santa Panza.\n\nThis place has impeccable food. The whipped ricotta (you MUST try it), pappardelle ragu, dizzying array of Italian dessert liqueurs, quality wines, and brick-oven baked specialty pizzas are just a few reasons you should try this place.\n\nThe cocktails are phenomenal (tip:\nlabneh washed mezcal margarita!!!!)\n\nTheir menu changes seasonally, particularly their pasta dishes, which keeps things interesting and fresh. Servings come in large portions. Endless chili infused olive oil is a plus ;)\n\nTheir quality of service feels Michelin tier. I love the servers and bartenders here— they’re warm, congenial, and helpful but not overbearing.\n\nThey have a cute happy hour deal for pizza & drinks.\n\nI cannot recommend this gem of a restaurant enough."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvNWRMaWNREAE",
+            "text": "Delicious food and polite staff"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvX0l2U0Z3EAE",
+            "text": "Our pasta plates were delicious! ..(I've been here before when the menu was actually smaller - when they first opened up. I'm glad I came back! I highly recommend they're olive oil sponge cake a la mode dessert. Don't sleep on it, it's delicious! Won't be a stranger anymore!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvdVBxUWdBRRAB",
+            "text": "This restaurant does everything well. I’m so glad to live nearby. Its quality is unmatched in the area."
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNl9iYlhnEAE",
+            "text": "Bueno las chicas de esa pizzería son muy lindas y amables lo recomiendo para que vayan a comer algo nuevo no siempre chinos jajajaja vayan"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRLV9tSnJnRRAB",
+            "text": "One of the best pizza in bushwick. Loved the prosciutto and funghi pizza"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJaVl5REJnEAE",
+            "text": "My favorite neighborhood spot - been coming here for years and it just gets better and better"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJck1Lb2lRRRAB",
+            "text": "My go to spot in the area for happy hour, pizza, and Italian bites. Cozy setting perfect for a date, friends, or families. Food is always delicious and well made. Portions are generous. They offer gluten free pizza and vegan cheese options as well!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJbUpHRU9REAE",
+            "text": "Santa Panza is pure deliciousness! The whipped ricotta, the burrata with winter pesto, the meatballs... all served with the BEST pizza bianca... soooo good! Fun, neighborhood vibes plus outstanding service made dining here a wonderful experience!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3NHNLY0NBEAE",
+            "text": "Under the radar neighborhood gem with a generous happy hour for food and beverages. The homemade pasta is perfectly al dente, the service is doting like an old friend, and the atmosphere is simple but quintessentially darling and cozy. I loved the corner booth with the great view of Broadway. The dishes and pizzas were unique, both traditional and edgy. Great experience overall!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3LU51Q3dnRRAB",
+            "text": "Had a great time here. We wanted to go somewhere different. And a friend recommended Santa Panza.\n\nVibe was super chill and loved that it was kid friendly!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3XzZQbHFBRRAB",
+            "text": "Summary:\nHighly surprised - not at all what I was expecting, not in a good way.\nWill never go again based on my experience.\nNot worth the money.\n\nService:\nOverall average. The server was nice, just not what I was expecting. Didn't explain the menu, when I asked recommendations, didn't really give any. I just chose stuff, didn't tell me the similarities, just took our order.\nWhen the server asked us if we wanted to take our large plates home (they were 98% intact) and we so said No, he was not even curious as to why our large plates were intact. I was just in shock.\n\nFood:\nIt seemed like the same ingredients are thrown around & together and in an obvious way? I get it you don't want to waste ingredients but it was kind of the same?\nGF pizza was not that good. I've definitely had better in NYC.\nLarge plates, we found them pretty nasty. Took my first bite, husband took a first bite, I tasted his, he tried to eat his. We left them there. I can't even tell you, to me it tasted like NYC public school lunch meat (God forgive me).\nI don't have a problem paying for good food, but I could definitely gotten better food for the same price or less not far. I just wanted to try a new place and this restaurant has 4.6 (how sway)\n\nAtmosphere:\nIt as cute, I'm not going to hold you. Just a lot of missing 'hospitality rules' i think. I don't know.\n\nI don't intend on coming here again."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3eDhLT3NRRRAB",
+            "text": "This is one of the best spots in the Bedstuy area. The food is amazing, (my favorite caesar salad EVER), service is excellent (which is very hard to find in trendy Brooklyn spots these days). This is my go to comfort italian spot."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3eEl1TnRBRRAB",
+            "text": "Food and the atmosphere are both great. I’ll definitely be coming back."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRNV9lbk5BEAE",
+            "text": "Food was amazing. I only wish they had more vegetarian options but the ones they do have are amazing"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRMF9HN21RRRAB",
+            "text": "10/10 you totally need to order the chocolate Negroni. My wife and I have been coming here for years. A perfect meal paired with the most delicious after dinner dessert drink. Chocyyy milkyyy yum yum. Pinkies up!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRd3V1WmpRRRAB",
+            "text": "Everything was amazing!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnaGVtQVpREAE",
+            "text": "You can’t call this Neapolitan pizza ! Please don’t disrespect who actually make in the area like OPS to speak about Brooklyn but there is a lot of places where you can get better quality! Sorry the pizza is trash\n( that’s no fermentation 86/90% ) that’s ridicule"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwOHFmYWN3EAE",
+            "text": "피자간이 약간 쎈 편인데 아마 올려진 하몽 때문에 그런 것 같습니다. 가격이 매우 합리적인 편이고 제가 먹은 티라미슈는 항상 있는 메뉴는 아니라고 들었는데 한국에서 맛 볼 수 없었던 진짜 맛있는 티라미슈 였습니다. 단점은 현금결재만 가능하다는 점? 가실 분은 미리 현금을 챙기시기 바랍니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIcThHS0JREAE",
+            "text": "Wonderful food and wonderful team working here. Had such a beautiful experience. An experience that is few and far between.\n\nWe had: the delicious whipped ricotta, fresh green beans, Cesar salad with fluffy Parmesan, perfectly fried eggplant, and a mouth watering risotto.\n\nThank you so much."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnMlpHME93EAE",
+            "text": "A quaint spot on Broadway in Bushwick,  Brooklyn. Great atmosphere with an awesome half circle bar. I opted to sit in the patio area towards the back, which was heated and I must say,  was perfect. Even in the cold weather. Food is great and service was excellent."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyZ3RhWEJnEAE",
+            "text": "We celebrated our son’s Birthday at Santa panza and it was absolutely lovely, food , environment and the atmosphere that made it so special. I’m so glad we found people that love their job because the service was outstanding."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyaFBxbVB3EAE",
+            "text": "Great Italian food! We had the fried eggplant, ricotta pasta and a margarita pizza and the watermelon panacotta. Drinks were great had the Santa margarita. Everything was really good. There is a cute patio too! Was just really hot where we were seated.\n\nCute place for a solo date!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREa29mU0x3EAE",
+            "text": "For an Italian spot in bushwick, this is the place. Looks can be deceiving and this place was packed on a Friday night. The vibes reminded me of a railroads style cozy apartment with a full kitchen and pizza oven. The hustle and bustle of the kitchen staff zooming by saying ‘corner’ just added the amusement. Perfect for dinner with small group of friends to catch up.\n\nThe food was great. Brussel sprouts were charred nicely with a tomato paste type sauce. The crudo was flavorful, I just wished I had a a better fish to grape ratio (a little more fish, less grapes). The pizza was great (thin crust), but didn’t taste the garlic come thru as much as we’d like. Pasta was good but the sauce was amazing. The highlight was definitely the chocolate cake with olive oil, sea salt & cream. We got it with the honey ice cream and it was not too sweet or rich, flavor pairing was divine.\n\nStaff were friendly and bathrooms were clean. There menu does change every so often, so looking to be back when it does."
+        },
+        {
+            "date": "3년 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1dEpEdmxRRRAB",
+            "text": "Direi che una pizzeria con forno a legna a Brooklyn myrtle non me lo sarei aspettato.\nMolto bello il locale , forse un po'troppo buio, ma elegante e originale nel suo insieme.\nUna donna ed un uomo a infornare le pizze nel forno a legna è decisamente un tocco in più.\nLa pizza è decisamente molto buona, ed a essere sinceri anche molto bella.\nDo 4 stelle solo perché non ho potuto verificare il servizio al tavolo, avendo preso delle pizze da asporto, altrimenti avrei dovuto dare 5 stelle.\nBravi, continuate così."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoOE83RGNBEAE",
+            "text": "This place is good, it’s popular for a reason. If it were possible I’d give it a 4.2 or 4.3. It’s not a high level fine dining restaurant and doesn’t claim to be but it does market itself gourmet.\n\nThe atmosphere is great, it has a nice ambiance about it which makes it a good date spot or friend meet up. It has solid background music which isn’t too loud but loud enough to compliment the restaurant/add to the experience without taking away the ability to hold a conversation. The atmosphere was great and exceeded expectations. The service was also excellent.\n\nThat said, the food met expectations but did not exceed them if that makes sense. The olives were… okay, I don’t necessarily recommend them but they are good to share between 3-4 people, now I would recommend the burrata and piquillo peppers! Those were a great snack for the group, it doesn’t come with bread but that forced us order the pizza Bianca bread which was crispy and good. Perfect for the burrata. The cacio e Pepe while good and thick… wasn’t filling. Me and a friend ordered the same dish and after felt it necessary to go to a bodega to get more food which was rather disappointing considering we both ordered it because we thought it’d be a heavier, more filling dish. It was good though, not amazing, but it was flavorful and besides not being filling enough Worth the price. The pizza was great and was shared between 2 other people whom felt it was filling enough.\n\nOverall the food met expectations but didn’t exceed them, it’s a good restaurant for a date and the food will be good, but it’s not amazing, I didn’t order the pizza which may be it’s specialty but as a place advertised as gourmet that’s what I’m going to base the rating on and it’s a solid 4, still worth going too, still great, but not excellent. I wouldn’t mind coming back someday to try some other dishes and it is a good date spot."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1OXVtTWpRRRAB",
+            "text": "One of the best pizza places in the world! Better than in Italy! We were seated near the pizza oven and could watch them bake the pizza in real time. Their spicy salami pizza was amazing as were their meatballs and salads. The service was very friendly and fast and the place filled up very fast by 7 pm."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoX2RMaXNnRRAB",
+            "text": "Even though I made a reservation in advance and visited, there were no seats available for odd-numbered people on time, so I stood and waited for about 20 minutes.\n\nI was disappointed with the waiting time, but I was impressed by the sense of providing additional services for free, saying that the restaurant staff came up and apologized for making me wait for a long time.\nThe pizza was also very delicious.\n\nI think it will be easier to sit down if you visit in units of two or four."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1NkpTRk9BEAE",
+            "text": "Found this place randomly, wasn’t expecting how good the food was and drinks were and service! Absolutely try the ricotta with focaccia bread and hot honey, literally out of this world! Each pasta was amazing too! Will def come back, neighborhood gem!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPMzl5NE9nEAE",
+            "text": "cute place with good food! nice vibe in the garden and friendly helpful servers. the whipped ricotta is a must. we went for brunch and got the marinated anchovy + greens pizza and let’s just say they use a very loose definition of pizza.…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxbFlXd1hREAE",
+            "text": "Food tasted well made, the meatballs were a little too salty but still tasted good. I ordered the spaghetti and meatballs and was quite disappointed with the portion provided. For $30 however, I would’ve expected more than 3 meatballs and the portion of spaghetti served. The pricing could be due DoorDash, but still a bit disappointed in the amount served."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMNGZlbFdBEAE",
+            "text": "Cute neighborhood restaurant with a nice backyard, tasty and affordable bites, and great drinks. Our group had the fried chicken and wine for 2 special, arancini balls and a pizza. Everything was delicious. We’ll be back to try out the rest of the menu or sure!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlcV9TLVZ3EAE",
+            "text": "Loved this place, especially their patio! The service was great too. We got the caulini, crudo and santa panza pizza and really enjoyed all of them. For two people, we could’ve done 1 more small dish."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzbjUyZVpREAE",
+            "text": "Risotto was delicious. Pricing is ok. Maybe wines a bit expensive.\nOlive pound cake was nice, just slightly over salty.\nLoved this place."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaODlPMFNREAE",
+            "text": "Santa Panza on Broadway in Brooklyn, New York, holds a special place in my heart. It's become my go-to spot whenever I'm in the neighborhood, and for good reason.\n\nFirst and foremost, the pizza here is simply outstanding. It's the kind of pizza that makes you wonder if you've ever truly experienced great pizza before. The crust is perfectly thin and crispy, and the toppings are fresh and generous. The flavors are both classic and inventive, catering to all tastes.\n\nThe atmosphere is inviting, with a cozy and rustic charm that makes you feel right at home. Whether you're dining in with friends or ordering takeout, the experience is consistently delightful.\n\nWhat sets Santa Panza apart, besides the amazing pizza, is the friendly and welcoming staff. They go out of their way to ensure you have a great dining experience, and their knowledge of the menu is impressive.\n\nThe location on Broadway adds to the overall appeal. It's a great spot to enjoy some pizza and people-watching, soaking in the vibrant energy of Brooklyn.\n\nIn conclusion, Santa Panza is a Brooklyn gem that never disappoints. It's a place where you can indulge in exceptional pizza, enjoy a warm and welcoming atmosphere, and leave with a smile. If you haven't been, it's high time you discover the magic of Santa Panza on Broadway."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvLWRUdUpBEAE",
+            "text": "Wow! Loved this place. Very intimate and cozy spot. Fair prices and the food was absolutely delicious. The service was great.  Cheese and salumi board can be mixed with two options of each up to the chef choice or full board of either.…"
+        },
+        {
+            "date": "2년 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKMk02Sml3RRAB",
+            "text": "Kleines, italienisches Lokal mit hervorragenden Speisen.\n\nWir kamen an unserem ersten Abend in New York am Santa Panza vorbei und bekamen sofort einen kleinen Tisch für 2.\n\nZum Essen bestellten wir 2 Pizzen (Margherita, Prosciutto e funghi). Beide Pizzen schmeckten hervorragend und waren perfekt zubereitet.\n\nDer Service war sehr freundlich und zuvorkommend. Das Preis/Leistungsverhältnis passt für New York/Brooklyn sehr gut.\n\nDas Santa Panza ist absolut zu empfehlen für authentische, italienische Pizza."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyNE5DZ1hnEAE",
+            "text": "So good I forgot to take pictures. We ordered two pizzas, the Broadway and the prosciutto and funghi. Both were hella good and with very fresh ingredients. The music is chill, the drink list is extensive and they even have a ton of amari. The panna cotta was pretty yummy, though the watermelon was a choice. Would definitely come again."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBcWRYSVRREAE",
+            "text": "Absolutely incredible. I went in for super bowl Sunday to escape loud crowds and get a good cocktail. I've only done take out before one time and the dine in experience was amazing. Very attentive staff, well stocked bar, and quality food!\nI'm terrible with names so I cannot exactly recall my servers name but regardless, he was excellent as was the bartender.\nWill definitely be back!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3cExPYXNBRRAB",
+            "text": "They were super fast to correct their order mix up and sent me a complimentary pizza with a sweet little sorry on the box and that kindness you don’t normally see so thanks Santa Panza y’all are real ones !!! Great elevated gluten free pizza!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1cE1lVUxnEAE",
+            "text": "We had a great dinner at Santa Panza. Extremely friendly staff, delicious pizza and appetizers and great drinks. We will be back soon!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM4djUyLTd3RRAB",
+            "text": "So glad they’ve reopened. The food was excellent just like I remembered. I’m so excited to go back. Every single item we ordered was delicious!"
+        }
+    ],
+    "reviews_count": 74
+}

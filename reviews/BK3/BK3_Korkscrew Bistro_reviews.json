@@ -1,0 +1,565 @@
+{
+    "name": "Korkscrew Bistro",
+    "place_id": "ChIJU-6tKQBbwokRof-JBf0peCs",
+    "grid": "BK3",
+    "address": "165 Tompkins Ave, Brooklyn, NY 11206, USA",
+    "rating": 4.9,
+    "user_ratings_total": 273,
+    "phone_number": "(718) 759-6507",
+    "reviews": [
+        {
+            "date": "12시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kMU1VZFRRVGczVjBkcFdHWTRUVVJVUmtSbU1uYxAB",
+            "text": "I’ve lived in the neighborhood for a couple of years now and am so grateful to have this restaurant around the corner\n\nThe food is always fresh and delicious, the wine list is excellent, and the service is prompt and professional.\n\nA true gem where the prices are reasonable, the portion sizes are generous, and the fare never disappoints.\n\nTry it once and you will become a regular for sure."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSMVVHaEZPRVkwVWxCNFVtdE5TMkkxVTJKS1kzYxAB",
+            "text": "A great consistent food , that helped me understand what the experience of restaurant is supposed to be"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkdVZGTnlkWGR2WjI1Tk1tMUtWeTEwYjB0S2RrRRAB",
+            "text": "An exceptional dining experience.\nKorkscrew Bistro delivers top-notch service in a warm, intimate setting that beautifully blends French and Spanish charm. Each dish is thoughtfully prepared and bursting with flavor, and the wine selection is superb — curated with true passion and knowledge. A neighborhood gem that embodies honest cuisine, elegance, and hospitality at its finest\n\nI love the place and I'm definitely going back with my family."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGTVJGOTRURE5rU0ZJM2RWUkRjV2c0ZWpGelNtYxAB",
+            "text": "Owner is very attentive and takes pride in his delicious tasty food creations."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrd1FVZExSRXBYY1dKVlFuSktVMWxYUW0xQ1JsRRAB",
+            "text": "Food was excellent and the service was phenominal. A hidden gem"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25obmJWZFVOM0IxVEhJMlZ6UlFXRkZOVm5kdE5VRRAB",
+            "text": "I recently had one of the best dining experiences at Korkscrew Bistro. From the moment I arrived, the staff was genuinely warm, attentive, and thoughtful in every small detail. The food was excellent, from the starters to the entrées, each dish was beautifully prepared and full of flavor, offering something for every palate. The drinks were perfectly balanced, and the overall atmosphere struck a balance between casual comfort and an easygoing elegance. I look forward to returning soon. Thank you to the team for creating such a memorable experience."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oamVGQXlkV05rWmtabE5ubElXRmRIVDNjMldWRRAB",
+            "text": "The food is tasty and portion size pretty decent 🙏."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VeVdHbDNTVFJTUkROQ1dXRndiVGQ2ZURGeGFYYxAB",
+            "text": "Have been a couple of times, service is top notch, food taste amazing and perfect temperature.  Highly recommend."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrMVIxOVJObFExWXpZNWVuYzBWSGsyWWxGSmJHYxAB",
+            "text": "This restaurant is the epitome of good vibes and good food. Pancho, Chris and Ivan never fail to disappoint!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SV0xUWTBZbmRWTXpSNmRqVnRjWE5TVWt0cVRHYxAB",
+            "text": "This place has become a second home for me. Pancho & David welcome us Everytime we dine and our food is just as delicious as the first time. The rotating pasta specials are delicious along with the baked chicken is our staple."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZM1VXVlBUemxqVjBSdE1qVmFTVkJYVkdSNE9IYxAB",
+            "text": "Amazing food"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGUFMxZENkMFphTVdGNlkwTlpialZyUkZKTFVrRRAB",
+            "text": "We were very impressed with the food and service! The grilled octopus was cooked to perfection, and my salmon dish was fantastic. The service was top-notch! Wine recommendations were incredible! We will definitely come back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Cc1YzUmlVR0Y0ZVZGc1EwSm5XalJ5WHpaa2EzYxAB",
+            "text": "Incredible vibes and really sick artwork featured by the nicest Ecuadorian artist"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWaFJtdFRjSE4yYVRKSFYxOUJMV3BrYlMwNGIyYxAB",
+            "text": "lamb burger special was superb and always coming for  number 1 korkscrew butger and hospitality by pancho is a 3 start any restaurant and cristian just the guy he is so welcome"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaaFUwTXdVRGhGTFZJeVZsSnJZM013Wnpaak5YYxAB",
+            "text": "Been here twice now for grilled octopus, gambas al ajillo, branzino and their special lamb burger. Each time the food was amazing and the wine perfectly paired with each dish. Highly recommend it here for a date night and allowing the owner to recommend a pairing if you have any doubt what to order."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWaFpGODVTMXBFY0hCMFdtOUtXV2hYWVhsdlowRRAB",
+            "text": "The restaurant is a gem and I hope more people check it out. Thank you for the amazing food and service!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCRFdFTlpjV001V0ZwcFZHRjZiakZuVVdVMFkwRRAB",
+            "text": "Food is amazing!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oWGJISnlaVnA0Ukc5UmQyMVVTWGxGT0dGVlpsRRAB",
+            "text": "The food was outstanding, and the service was excellent!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1U1RXdzBaazlQVDI1SVIxaHpWSEF5UnkxeE1VRRAB",
+            "text": "I love the vibe, the service and the food.\nHonestly is a great place for the neighborhood I really recommend it"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvNFRWWTRhRGt6TVVWS05HcGpSSHB5V1hKdmNsRRAB",
+            "text": "Another Bed Stuy Gem!!!!!  Had the Shrimp al ajillo!!!!!   That dipping bread and the shrimp cooked to perfection!!!!!  New find.  Appreciate fresh delicious food.  The service was excellent, very personable and friendly."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toNFlqRXlTblUwY25aUWMzWnFjekpMUVhVeWFIYxAB",
+            "text": "Korkscrew is by far my favorite neighborhood spot!\nEvery time I visit, I'm welcomed by the wonderful staff- Pancho and Cristian always go above and beyond to make every guest feel at home and cared for.\n\nThe food is consistently delicious, the drinks are excellent and the wine list is clearly curated with thought and passion. To top it all off, the space is surrounded by beautiful/funky/cool artwork from a local artist, which adds a personal and creative touch.\n\nI feel so lucky to have a place like this in the neighborhood!!!\n\nFavorite dishes:\nBurger, Steak Frites, Burrata Salad, Short Rib (Special!!!), Golden Chickpea Curry Bowl, French Onion Soup, Mahi Mahi Crudo"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CSmJXdFVkV3hJTTBOd05XMUZNMnAyWDFsQmNGRRAB",
+            "text": "Cane here in a whim and ended up having some of the best octopus in the city here the other day. Excellent service, loved the ambiance, and my date was just as impressed. Couldn’t recommend this place highly enough!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKUE4xWjVPVXA0VUcwdGNrNDBjMU53ZWpFM00wRRAB",
+            "text": "Amazing food and beautiful atmosphere. Staff are so welcoming and kind, had a great experience!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1bE5UQktOVlZzYVVOSFlXMW1XR0poV2pSTk5IYxAB",
+            "text": "The drinks were all watered down half way. When I brought it to waiter's attention (few minutes after it was served), their respond was: you shouldn't let it sit too long. There're better places in Brooklyn for drinks guys. Don't waste your time."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xTU56a3pWbEZXUWtWS04yOXhRbEJQZG5GRlIyYxAB",
+            "text": "I had an incredible experience at Korkscrew Bistro! The food was absolutely delicious—every dish was fresh, flavorful, and beautifully presented. The service was warm, attentive, and made us feel truly welcome from start to finish.(Thank you Cristian). The atmosphere of the bistro is cozy yet elegant, creating the perfect setting to enjoy a great meal. Definitely a gem in Brooklyn—I can’t wait to come back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsR1JIbG5lWE00TkZWcmRYbHVaREJ5U2tKd2RWRRAB",
+            "text": "Really good food. Great prices."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bmFETnVOakZRVDJKeldrRTFhRFEyTTJoaGExRRAB",
+            "text": "Good quality food, great service, community pillar."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pneVUwaHlRelZLWWpkck9VVkRMVU5NY0d0b1IyYxAB",
+            "text": "Amazing wine choices, the service is great the staff is very friendly . Great place to go with a group of friends to catch up"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVMU5rSktRbTU0TlY5T2JtTTNabGh0VFVac2JYYxAB",
+            "text": "i had waited for a place like this to open… i can’t believe i haven’t reviewed it. chris and poncho are absolutely the best. the food never disappoints and no matter the mood i am in, i always leave here with a full belly and absolute happiness :)\nsooo nice that after 12 years of being in bed-stuy, i finally have MY neighborhood place ♥️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRNFJ6VjVkVmh0VVdaSmVqWTJXWHBSVVVsd09HYxAB",
+            "text": "A girl from Chicago here. We have great food in that city. This restaurant rivals many of them.  With every dish we had, all of the flavors came together, subtle, but rich and delicious!  Damn good food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214SVZteFZOVkJ5YVRoNWVWZHJORzlhZFMwMllVRRAB",
+            "text": "The best burger of my life! The salad and sweet potato fries that come with it are just as good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xdWVXTnFORE5oVEMxNlZ6aDJRbXN6YzNWYU9GRRAB",
+            "text": "I came from NJ, to visit my artist friend who by the way has an amazing art show on this great restaurant walls. Honestly, I don’t know what I enjoyed the most the food or the drinks. Christian the owner recommended me his specialty, slow cooked brisket with mashed potatoes and brussels sprouts, amazing taste! The bartender Pancho introduced himself with a great sour whiskey that I enjoyed pretty much. Great atmosphere, music, location, food, drinks, I enjoyed very much, at night we came back for another couple drinks."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKMmEwTkVVRjlmYzI5RldYZHhObko0WkMxUVRGRRAB",
+            "text": "Tasty food, very good service. Pappadelle was delicious."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWMWFsUkdlVkZTVkc5eGJIWnVOM1Y0YjJwak1tYxAB",
+            "text": "Korkscrew Bistro never disappoints — it’s an experience every time.\nThe food? Mind-blowing. Flavor explosions on every plate, presented like art, and always worth every bite.\n\nMassive shoutout to Chris and Francisco, who bring next-level hospitality. They’re not just servers — they’re your new best friends. Friendly, attentive, and making you feel like VIPs from the moment you walk in. Pure 10/10.\n\nDrinks? On point. The cocktails and wine list are crafted with precision and passion — perfectly balanced, creative, and exactly what your palate craves.\n\nThe vibe? Effortlessly cool. Spacious, relaxed, and buzzing with positive energy whether you’re grabbing dinner, cocktails, or just hanging out.\n\nAnd here’s the kicker — it’s pet-friendly 🐾❤️\nBring your pup, order a cocktail, and enjoy a classy night out without leaving your furry friend behind.\n\nThe crowd? Chill, welcoming, and genuinely fun — this place feels like your neighborhood hangout where everyone’s cool and good times are guaranteed.\n\nIf you’re not here yet, you’re seriously missing out. Korkscrew Bistro is pure gold — real flavor, real service, real vibes."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSVFNIRmpkMWhFYmtOdldXMDNNMWMzVUVNeVRIYxAB",
+            "text": "This was some of the best food I’ve had in nyc! I will be passing along this recommendation to anyone who will listen! It is 100% worth hopping on the subway for"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOV2JrMUVTRkpJUzFKRlRXNDFSV3RQWTNKTFRsRRAB",
+            "text": "Wow food is so delicious here. Any app or entree is beautifully plated. Also have tons of drink choices. Not to mention the service by Chris and great drinks made by Francisco have me coming back every week ."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xReVYwOVZhSEZyYkd4emJGTkllbHBxTjI5Q1MxRRAB",
+            "text": "Such a great experience from start to finish. I had the gnocchi and it was absolutely delicious- packed with flavour and cooked perfectly. Cristian was so welcoming and took the time to walk us through the menu, which made the whole evening feel extra special. This is our second visit,Highly recommend!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RNFZsZGpYMkZDTURWd1VGOUtjME5hUVZGelIyYxAB",
+            "text": "I adore Cris! The food, the environment, everything! Korkscrew is a true staple of the neighborhood and whenever I see them, it certainly feels like home. They also host a local artist’s work feeding back into the community. I’ll always recommend anyone to stop by and support 💗💗💗"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CT2JVVjJSa2hDUzBWS2J6Z3RkMVpPWlV4R1dGRRAB",
+            "text": "An absolutely spectacular place. The food is greatly priced and high quality.\n\nI always feel so comfortable just being here for a few hours as Chris is so very inviting.\n\nPancho, their bartender, an amazing and hilarious person! He always has the best movie recommendations.\n\nThese people have truly become like family to me and watch out for all the women in the neighborhood I truly do love them.\n\nI could not recommend this place more to anyone or any race shape size!\n\nAnd if you speak Spanish feel free to have a wonderful conversation with all the workers as they are the best ❤️❤️❤️🙏"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KWmRtVkVjazlUTXpKaFNFdHZkRkY0VjBWUFJGRRAB",
+            "text": "KorkScrew Bistro is a gem! Amazing bottomless brunch with great food — perfect for a fun weekend. Dinner is just as impressive: delicious dishes, huge portions, and great service. A must-visit spot for any time of day!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwUlNrbFJlbUpDWjBac2VrWlBlRTk2ZWxSbWQwRRAB",
+            "text": "We love this place. We’ve been here for brunch several times, my wife loves the octopus hash when they have it on special. I’m a fan of the home fries. We’ve also been for dinner and had a lovely series of meals as well. Highly recommended for Bed-Stuy residents and visitors alike!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205UFVFeEZhVkEwUWpCMFZVdHBjMEV6TXpGeVRVRRAB",
+            "text": "What a gem!  The four of us had such an amazing meal!  We had the kale salad, tuna tartare, Brussels sprouts and empanadas to start and pappardelle, half chicken, branzino and gnocchi….cocktails were perfection, presentation was top notch and we even had a couple desserts…crème brûlée and chocolate soufflé…..can’t wait to go back!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GdFlVcGZkMDUwVG5sSmMwVkZUSGxGVEhsaWFHYxAB",
+            "text": "Had the crab cake Benedict special and it was amazing"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWVYzTklSV0YzZGtWMFMxb3pha0ZITkdaa2RuYxAB",
+            "text": "In this hot summer day Korkscrew was like an oasis in the desert… 🫠\nOysters were simply perfect 👌🏼\nWatermelon 🍉salad refreshingly tasty mainly for the crisp of the pistaccio 👍🏼\nThe top Choice was the Maër Morroccan wine exquisite 🫶🏼\nThe night time sure is a full Experience with more time for drinks and the great lounge music 😻"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZeU4waFdRbXRTV0ZOVmVXSlFhR1J4ZVRBeE9GRRAB",
+            "text": "This place hits every time! the food is delicious, the wine list is excellent, cocktails are on point, the staff is lovely. I love coming here!\n\nMenu has a nice variety of options - never disappoints"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CNldGZHFRbEZDTFZwVlpEaDFVbmR2VEVob1gzYxAB",
+            "text": "This place is ONE of the BEST restaurants,,, food is always good, service is excellent, Cristian the manager is been in business many years and know how to service his customers,,, the chef is very creative,,, whatever he makes, he does excellent… wine list is great…"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VMGVFVnNPV1ZXYm0xV01sWk9ZekF6UzBSeGFXYxAB",
+            "text": "The food was absolutely fantastic — every dish showed real attention to detail and incredible flavor. The service was flawless, and Cristian was the perfect host. Warm, professional, and truly passionate about what he does. A wonderful experience from start to finish. Highly recommended!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21acFIzSnplbWhaVm1WU1dtaDVWVmh5U1RaWlJVRRAB",
+            "text": "The food was absolutely amazing. The chicken in the empanadas was very well seasoned and the pastry was incredibly crispy. The burratta salad of the day was inventive and fresh. Big props to Francisco who suggested a wonderful temparnillo that was new to the bar. I will definitely recommend others stop by and will be returning."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kS1NURTVRMVJwTmpWVlRXNUtVSGRDWDBaUFlrRRAB",
+            "text": "Absolutely incredible service. Christian was so kind, offered great recommendations and took such good care of me and the ladies. We order the pappardelle- the oxtail was so tender and well seasoned. We also had the steak frites and I wish I didn’t eat it all so I could enjoy the left over but it was cooked to perfection so not even a crumb was left. The oysters were incredible (but I wish I had some Tobasco sauce to go with it). If you come here, ask for Christian and order everything! You will not be disappointed."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wYUxVbGZSRlJ4TWpCckxWZDJlazV0U0hkRlVIYxAB",
+            "text": "The food was delicious and the drinks were great! We were also impressed with the service and attention we received."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJaWQzOGRnEAE",
+            "text": "While visiting our beloved ones in Brooklyn, we found ourselves with a lovely pocket of time to enjoy an unplanned dinner together. We chose Korkscrew Bistro on Tompkins Ave—picking it over many other spots we’ve tried before—and it turned out to be a truly fantastic decision.\n\nFrom the moment we stepped inside, the atmosphere was warm and inviting. We began with fresh oysters and brussel sprouts—both beautifully prepared and full of flavor.\n\nFor the main course, we shared a generous spread of chicken, shrimp, octopus, mussels, and risotto. Every dish was outstanding—thoughtfully crafted, deeply flavorful, and completely satisfying. The kind of meal where every bite feels just right.\n\nTo drink, the sangria was refreshing and perfectly balanced, while the Alhambra Reserva beer was a delightful surprise—we fell in love with it instantly.\n\nThe evening closed with a light, silky blueberry pannacotta that offered just the right touch of sweetness—an unforgettable finish to a dinner that was, above all, full of laughter and love.\n\nWe left with full hearts and happy taste buds, and without hesitation, added Korkscrew Bistro to our list of family favorites. A place where flavor meets warmth, and memories are made. We can’t wait to return."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNdktxTnlPNUw2TkdREAE",
+            "text": "The restaurant truly delivered! A flawless 5.0 rating, with food that deserves a solid 10. Every dish we ordered was absolutely perfect. The burger, in particular, stood out—it was one of the best I've ever had, and trust me, I've had plenty of burgers!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZNUxPNFdBEAE",
+            "text": "If there was a way to put more than 5 stars - I would.\n\nEverything was absolutely fantastic - the food was amazing. The empanadas were the best ever! The steaks were cooked perfectly, the drinks were amazing (the spicy margarita was my fav I’ve ever had!) and the price was great for what we received.\n\nAlso, the service was unmatched - we were taken care of very well. We can’t wait to come back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvcVlDbHRBRRAB",
+            "text": "This place should always remain 5 stars. We were served by one of the two owners, who was so kind and made our meal incredibly enjoyable. The food was INCREDIBLE! The environment was lovely, and I will never stop recommending this place to others. Let this review be the encouragement you needed to stop looking for a place to go, because this is the one! I cannot say enough good things about this restaurant!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJbktQV0ZnEAE",
+            "text": "So happy I found this place. The Food was amazing. The service was on point and the bartender Pancho was very friendly. If you are in the área definitely recommend this hidden gem. My fav the octopus, tuna tartare and all the steaks. Also great selection of wine."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRb011NDJBRRAB",
+            "text": "I was so impressed upon entering the establishment. I went there for dinner on a Friday afternoon. The food was dee-li-cious. The presentation was the bomb.com. Service was top tier. I was not disappointed. From the painted murals ant the walls and ceiling simulating the clouds in the sky, the skylight which allowed natural light to flow into the room. It was superb. The truffle fries will not disappoint you."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBOHJQZW53RRAB",
+            "text": "Korkscrew Bistro is a fantastic addition to the neighborhood. I’ve been twice now—once for brunch with family and once for dinner with my husband—and both experiences were excellent. The food is consistently delicious, the specials are always worth trying, and the service is warm and attentive.\n\nIt’s hard to believe this place has only been open for 10 months because it already feels like a cornerstone of the community. The owners clearly care about what they do, and it shows in everything from the menu to the overall vibe. While the interior is a little kitschy, it adds to the charm, and the quality of the food more than makes up for it.\n\nWith reasonable prices and such a welcoming atmosphere, Korkscrew Bistro is the kind of spot you hope every neighborhood has. If you haven’t been yet, do yourself a favor and check it out. It’s places like this that make supporting local businesses so rewarding."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3bnFHclhnEAE",
+            "text": "A huge thank you to the staff at Korkscrew for an incredible evening! The food was outstanding—from the fresh raw oysters to the perfectly cooked branzino and skirt steak. Every dish was executed flawlessly, and the service was top-notch. Can’t wait to come back!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJbUpmekJREAE",
+            "text": "Amazing food - the risotto, the shrimp (twice) and chickpea curry was so good. It all was so fresh, and combined with the great service It was a great time. Loved the service, helpful with drinks and with the right food to order. An amazing time"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3NU9Pb3lBRRAB",
+            "text": "This place is in the hood is amazing. Bottomless sangria is awesome sauce. Food was absolutely delicious. I had steak and eggs and friend had eggs Benedict both amazing. You must try the oxtail empanadas. A+  i will come back to try mimosas"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wTk56QTRRVkV4WlVsVFdsOTZhMGQzZVVaSFpuYxAB",
+            "text": "Such a great spot. Loved the restaurant itself, has a cool vibe. Dinner / drinks/ dessert were 10/10! Oxtail pasta and empanadas were sooo good I’ll be dreaming about it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzM09Xc25BRRAB",
+            "text": "Absolutely delicious!! We got the truffle fries and a daily special and I was blown away by how delicious the butternut squash soup was. The thin cut of the truffle fried and dip and magnificent. The staff was also very kind and knowledgeable. Can't wait to come back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJZ0txUkZ3EAE",
+            "text": "Korkscrew is an absolute treasure. The Roasted haft chicken is superb-every dish crafted with care and bursting with flavor. Creme brûlée is amazing 👌. Their wine list is impressive, offering a curated selection of excellent wines, and the wine-based cocktails are a creative and delicious twist. The atmosphere is warm and inviting, made even more charming by beautiful local art adorning the walls. To top it all off, the service is exceptional-friendly, attentive, and genuinely welcoming. A must-visit for anyone who appreciates quality dining and a vibrant local vibe!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBdTdqYjhRRRAB",
+            "text": "Enjoyed a lovely, delicious meal at this spacious neighborhood restaurant. Great cocktail list, and a delicious sangria.\n\nThe oxtail empanadas were so good and juicy, I plan to order them for takeout. My meal was the soup special which was also tasty and comforting, and a Caesar salad with chicken. Salad was what you want from a Caesar, and the grilled chicken was seasoned well and not dry!\n\nThe food here feels very homey and the menu has a nice variety of options!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIcTlUc0FREAE",
+            "text": "Great neighborhood spot! Food is delicious. Service by Cristian and staff was perfect - very attentive and friendly. They have a great wine selection and everything from apps to dessert were perfect. Apparently brunch is fantastic too. Will definitely be back solo & with friends to find out."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkeFZHeFNUVzl0YWxsM2VtVnhPRVkyTWtsalVsRRAB",
+            "text": "First time here and I love it . The bartender gave me good recommendations , he picked the octopus and a salad  . The salad was a good kind of sweet and the octopus was well cooked . The drinks were refreshing. I honestly don’t have anything bad to say Cuanto"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2OWYzNHd3RRAB",
+            "text": "Excellent brunch. Could not have had a better time. Amazing service and vibe and FOOD. have lived in this hood for 18 years and glad to have this new spot. We got bottomless mimosas and it was worth every penny. Best French toast of my life. Amazing friendly service. This is Brooklyn’s new best brunch. HANDS DOWN!!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNINExidGx3RRAB",
+            "text": "Come for the interesting wine list, creative cocktails, and excellent food. (The oxtail empanadas were too delicious to get a proper picture before devouring, and the pesto risotto was perfectly creamy with just the right basil bite.) Stay for the fantastic service and great ambiance, which is only enhanced by the art."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUdWJ5cU1BEAE",
+            "text": "I visited this restaurant for brunch on Mother's Day with my family, and it was a fantastic experience! We tried the mussels with white wine, eggs Benedict, and French toast. Everything was delicious. The mussels were fresh and cooked to perfection, the eggs Benedict were rich and creamy, and the French toast was perfectly sweet and fluffy. The atmosphere was cozy, and the staff were friendly and attentive. Highly recommend this place for a great meal!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNydy0yM0tnEAE",
+            "text": "Everything was great! I will definitely return and bring other people.\nUpdate: I came back with my wife four days later on a Saturday night. The food and service were still great, but acoustics were terrible. There was only one other table (of 8) occupied when we got there, but even though they were about as far as they could have been, I couldn't hear my wife unless we shouted. Fortunately, we were able to move outside, and it was great, but this is something to keep in mind if you are looking for a quiet dinner."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURINGFPTFpBEAE",
+            "text": "Definitely my new Favorite restaurant! So glad to have found it! Food was absolutely amazing!!!! From drinks to desserts and everything in between, everything was so tasty. Every little part of every dish had an amazing flavor. Please if you are in the area do not miss to go, I assure you, it will become your favorite restaurant too!!! Mussels top notch, Branzino absolutely delicious, salads full of flavor. Can’t wait to go back and try the whole menu!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNma1lILXZnRRAB",
+            "text": "Went with a friend and they got both of our orders wrong. Took 45mins to get both of our dishes after ordering and we were the only two people in the restaurant. Salmon did not taste fresh. Chicken and waffles were good but you get like two pieces of chicken…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMeS02YVNnEAE",
+            "text": "Hidden Gem !! Service was friendly. Our waiter was very knowledgeable and charismatic (Cris) he suggested I get the burger and it exceeded my expectations !\n\nThe blueberry lemonade MOCKtail was well crafted well, refreshing\n\nAnd the place is beautiful and simple"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3NlpPejVRRRAB",
+            "text": "Had a great experience here! Saw a recommendation on TikTok and decided to drop by and sit at the bar. Came with a friend and we had the oysters, tuna tostada (a special) the chicken and waffles and the oxtail empanadas. Everything was extremely fresh and full of flavor. The bartenders, Natalia and Pancho were accommodating and friendly - my friend and I had a great time. Would definitely recommend for brunch, or even date. An intimate spot with a great vibe."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIdU1ySndBRRAB",
+            "text": "Last night, I had the pleasure of dining at Korkscrew Bistro in Brooklyn, and it was an unforgettable experience. This restaurant is a true gem, offering an amazing atmosphere that beautifully blends great design, food, and art. The vibrant colors of the place, combined with the warm and welcoming personality of the staff, make it an ideal spot for a date or a gathering with friends.\nWe started our meal with the clams and gambas al ajillo, both of which were delightful. The bartender’s wine selections perfectly complemented our dishes, enhancing the overall dining experience. However, the highlight of the night for me was the lychee martini – it was simply outstanding.\nKorkscrew Bistro is a must-visit for anyone looking to enjoy a memorable evening with fantastic food, drinks, and ambiance."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNULXZ5dl93RRAB",
+            "text": "What a great addition to the neighborhood. Fairly new spot and I’ve already been there 3 times and they are yet to disappoint. For starters the meatball are great, juicy and a slight kick to it. The mussels pomodoro or in garlic sauce are so good, as are the rice balls. We also had the octopus,on all our 3 visits, was very tender and delicious. The calamari, tender and fresh served with a bit spicy sauce. As for entrees, we’ve had the rib eye, the risotto, Branzino, the burger, hanger steak. Although they don’t have a full liquor license they do a decent job making wine based cocktails. All good with no complaints. Reasonably priced and recommend this restaurant."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJbl9pQkZREAE",
+            "text": "What a treat to find this spot! I've been in the neighborhood for 12 years and we've always lacked spots to grab food and actually sit down. Korkscrew is a welcome solution to that problem.\n\nWhile going thru the reviews, I was appalled to see one left by a supposed food influencer from TikTok. We had the exact same server, and couldn't have had a more opposite experience. Claims about hurriedly being asked to close the front door are true in the sense that we were THRILLED to simply make sure a door was closed behind us upon entering a space that is not our own home. Yes, guest experience is important but it's also important to see the other side of that: you are a GUEST in a space. It's important to be aware of the energy you bring to the table, and maybe look inward.\n\nOur server was kind, direct, and speedy, and we were treated with politeness and respect!\n\nAll that aside, the food here is excellent. A gorgeous skylight in back provides a lot of natural ambient light. We got the eggs benedict, with canadian bacon and my partner got the steak sandwich, both of which were portioned well for the price and tasted delicious. Not to mention, the best bloody mary I've had in a long time.\n\nLoved coming here, and will definitely be back. It really felt like a neighborhood spot with a few other tables talking and having fun in the large dining area.\n\nThank you so much!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREaGVYbkhREAE",
+            "text": "*lugar muy acojedor , buen ambiente ,buena música,  y ni hablar de los platos muy ricos estuve pidiendo el pescado con una salsa de remolacha muy rica .. las entradas como los mejillones al pomodoro están de muerte lenta . deverdad me sorprendió este lugar para ser nuevo tiene muy buena comida.  lo recomiendo.                                                                                                 *Very cozy place, good atmosphere, good music, and not to mention the very delicious dishes. I was ordering the fish with a very delicious beet sauce.. the appetizers like the mussels al pomodoro are slowly dying.  I was really surprised by this place for being new, it has very good food.  I recommend it."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQM3Q2NnRBRRAB",
+            "text": "This is probably going to be one of the biggest reasons i return to NYC, all the way from Norway.\n\nI usually don't write reviews, but this place is such a hidden gem. I have so much I want to say I don't know where to start.\n\nThe food was amazing. The steaks, the curry bowl, the specials everything was delicious, but the burger might top the list. It was undoubtedly the best burger I have ever had, might even be the best in New York. Not only is it cooked to perfection and topped with delicious carmelized onions, it comes with homemade french fries that had me speechless when i tried them.\n\nThe staff immediately makes you feel welcome and at home. It is easy to notice that they do not do it for the money, but because they geniunely like what they do and want people to enjoy their time spent there.\n\nThe waiter deserves a special shout out for being an amazing person. He is very easy to have an actual conversation with and he knows everything there is to know about wine, which makes his recommendations amazing. It is easy to notice that he actually cares for his guests and want the best for them. He notices every little detail, like when you want some more to drink but don't want to be a bother.\n\nIt is definetly worth visiting. I would recommend going out of your way to spend an evening here.\n\nIf I ever come back to NYC this will be on top of my to do list. I even had to follow them on Instagram.\n\nCan't wait to be back :)\n\nPictures: The Corkscrew Burger (As it comes), Golden Chickpea Curry Bowl (with added chicken)"
+        }
+    ],
+    "reviews_count": 79
+}

@@ -1,0 +1,621 @@
+{
+    "name": "Japan Village",
+    "place_id": "ChIJq6rqFL9awokR8nXMs5gOU3g",
+    "grid": "BK7",
+    "address": "934 3rd Ave, Brooklyn, NY 11232, USA",
+    "rating": 4.6,
+    "user_ratings_total": 4784,
+    "phone_number": "(347) 584-4578",
+    "reviews": [
+        {
+            "date": "수정일: 1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJMGZpM1hnEAE",
+            "text": "Awesome place, good food."
+        },
+        {
+            "date": "1일 전",
+            "language": "ja",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wNWJ6RTBhREpOUzFCcFRIUkxaRGxqTVRneVlWRRAB",
+            "text": "日本の食事が楽しめます。日本の調味料も買えるので助かります。"
+        },
+        {
+            "date": "1일 전",
+            "language": "da",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSTWNFNVlUVWg0YVVSVFNGTlFielkxVDFORllVRRAB",
+            "text": "Det var et anderledes indkøbscenter, vi syntes at det var sjovt.\nVi kunne godt lide muligheden for at komme ud spille kortspil."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGRmRWSjNURWhMUlZkTk0wODFjRmN6YkROb2ExRRAB",
+            "text": "Great collection of stores, it's a wonderfully unique spot especially if you love Japanese food, culture, or anime."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xbk9HRm1RbU55WlZsalZUaG1ZVzgzWDIxRWVGRRAB",
+            "text": "I got so full I rolled out of here through the courtyard and into the sea as I was the shape of a plum"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twU09GcHJNRzFVZFMxTlIycEdjbGhpYUU5WE4wRRAB",
+            "text": "Great place for japanese animation. A lot to do there. Too bad I didn't have the time to fully explore the whole place."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJd00xRnVhM2R1TlhwUVVXY3lSV2hJWXpWa2VVRRAB",
+            "text": "Not bad"
+        },
+        {
+            "date": "수정일: 6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxN0x2aWJREAE",
+            "text": "Nice"
+        },
+        {
+            "date": "6일 전",
+            "language": "ja",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wVmIzVkZSR0V3ZUdWM05FRnZWVlJCZGpKTFVHYxAB",
+            "text": "買い物です、"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OT2IwUnBkSE5vY214c1VHcG5kV0pKVEhOS1IzYxAB",
+            "text": "Beautiful area"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWc2IwUkZZVXBNWlhSSGRDMVJaa3QwYm1OWlIwRRAB",
+            "text": "What a spot in heaven, right here in Brooklyn. Good food, great clothing (shout out to Live Bait!) and a pleasant overall experience. It's like going on vacation without having to deal with TSA!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5eFRUbGZZMFV0ZHpSS1psZGFOMFZHWms1Zk5rRRAB",
+            "text": "Overcrowded, expensive"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRFJWTnpWbk5qYjIxMVIyRTFiMUJzY2xaRWNtYxAB",
+            "text": "Alot of food and on the second floor, there were vendors selling their art. They were sponsoring the Chainsaw Man Movie that came out yesterday."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyM3V5cGFBEAE",
+            "text": "Great Japanese experience"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GQk1WQkZla000Umtab1RUZFJXRTFFWjJOdlMwRRAB",
+            "text": "Amazing place"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKSGIxRk9jRzVMVEdkNU1YbHRNek5vYVY5RlkyYxAB",
+            "text": "Good selection of Japanese food products.\nSnacks, fresh meat and fish, vegetables, condiments and juices.\nGood place to get fresh ingredients to cook authentic Japanese food."
+        },
+        {
+            "date": "2주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWbmFFaEdWM0pUZFRVNVRsUlZSMk5oTWt0TFlVRRAB",
+            "text": "Lieu incroyable car il y a toutes sortes de stores. Et les fans de mangas vont être ravis."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORmRYaHlRMk5YUm5RMmVWZFJSa1JTUVRoc01YYxAB",
+            "text": "Excelente lugar para pasear, comer y disfrutar de rato agradable"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvcFp2cFRBEAE",
+            "text": "Fun place with an assortment of shops and food."
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJLVpMREtBEAE",
+            "text": "Japan Village is the premier New York City destination for all things Japan. The authentic dining options include snacks, Japanese bistro, sake, sushi, and desserts.\n\nThey have recently added a Japanese Bar in the courtyard that has an open bar area with counter seating. In the back they have private event rooms for rent by the hour while enjoying your drinks and food.\n\nMany notable changes are in store on the second level, for those who are into Manga, anime, and Japanese collectibles.\n\nYou can also easily shop for groceries and ingredients imported regularly from Japan.\n\nAll things anime, culture, and housewares are also available on the second floor.\n\nCheck the calendar of events for upcoming cultural activities, fairs, and performances.\n\nI always look forward to my visits."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5MlNGVlhlSGx6YVZwbE5EbFJkMlkzTFdWQ05GRRAB",
+            "text": "Don't have any pictures. Was enjoying my time during a convention event there.\n\nI've never been to Brooklyn before out of many parts on NY I've ventured in. It was highly enjoyable, and somewhat culturally different.\n\nSome store are yes... expensive  (bc it's NY, be aware). But the things you get ARE worth your while.\n\nSo give the place a chance and visit. Im looking for an excuse to go back or just to go and wonder some more. Not too fat from the tracks, but do be careful. 🙂👍🏾"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCMFRqbG9VMmxZTkVoRmJHRXlSMnhuUXpKWVlXYxAB",
+            "text": "Nice place"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaSk1WQjFibFJZTlRCQlRXUndUVmhtWW5nM0xXYxAB",
+            "text": "Nice place to chare with friends, good quality food and variety, not expensive and the place is clean."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSM3JEUzNnRRAB",
+            "text": "Best Black Garlic Ramen I have ever had."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KTFNIWXlOVUkyUjBwa1kyaE5NSEZvU1dWTVluYxAB",
+            "text": "Lugar ideal si quieres encontrar productos japoneses , comida, bebidas y todo lo que te puedas imaginar"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSlRXaHJOM1pCUzBoQ1JURjRkWEl3YjBOeE5IYxAB",
+            "text": "A little surprised by the card minimum at a grocery store. The first cashier said $8 so I went back to get another snack and the second cashier said $10! Ended up not buying anything and wasting 10 minutes…a little frustrating"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVeFRFbExkVFV6WDBoQmRHOHhUVTlSYjJOMFpHYxAB",
+            "text": "Cool place to visit"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0dVpGOWllbnBSWWt4YVNtcERSM2xwVFc0eWNIYxAB",
+            "text": "Great place to visit"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KZlRFMUlOa0ZFWldka056QlJjSEJDVjBWSmRHYxAB",
+            "text": "The prices aren’t bad. On any day it’s very crowded and overwhelming to squeeze through and find a seat."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OelEwdGtkR000UVc1bU1VMTVNMWRCY21wblkxRRAB",
+            "text": "My girls and I love it here."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jeFgxVjJheTFOUzFnNWFreElPRmc0Tldwd1NFRRAB",
+            "text": "delivery service not good"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VM1RGaDBaazQyZEZaS2IyTTFTbDk1UnpSMVRGRRAB",
+            "text": "Great place. Very beautiful. Don’t waste your time and money on those claw machines though. It really isn’t worth it. Spend that money at the book off, daiso, or bandai namco cross store. Literally anywhere else."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTFJVVlhVbGhEZUVnNFlYbHBMVkY2WDJoNFJrRRAB",
+            "text": "My girls enjoyed it thoroughly."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xobVlsVnVhRlpRVW5KRFlVcG5TMlJ6U1RFd1YyYxAB",
+            "text": "A lot of fancy goods made in Japan.\nNice store with reasonable prices."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4d1JGTm9VakpqYVhGR1NITmZja2htVjFGM2VVRRAB",
+            "text": "In the heart of New York City, lies Japan Village. This two floor cultural oasis is dedicated to immersing visitors in the rich heritage and vibrant spirit of Japan. Whether it is mochi pounding or tea ceremonies or authentic Japanese food, there are tons of things to eat and do in Japan Village to experience Japan, without having to travel there.\n\nThe first floor is mainly for food and drinks. There are 10 food stalls, 5 restaurants & bars, a grocery store, a liquor store, and a bakery & café. The food stalls offer various foods, from bento boxes to finger foods to onigiri to ramen. Seats are limited, so get here early or have a friend save a table for the group! Of course, you have to check out the Sunrise Mart. This is a Japanese supermarket that offers authentic ingredients, fresh produce, sushi-grade fish, ready-made meals, condiments, and cosmetics.\n\nThe second floor consists of 6 shops: Book Off, Daiso, Bandai Namco, Taro's Origami, Japanklyn, and Kiddleton. For anime and manga lovers, you have to check out Book Off, Kiddleton, and Bandai Namco for some amazing collectibles! For those that want to explore more of Japanese culture, check out Daiso, which is a Japanese dollar store, or Japanklyn, a lifestyle store that blends Japanese streetwear and culture with a Brooklyn's touch.\n\nYou will need more than one day to check everything here! Especially, since Japan Village is just a small part of Industry City. I highly recommend you plan your day in advance, especially since some stores are difficult to find. You should also check out their social media pages and their website to learn about their events! They offer tea ceremonies, interactive Japanese horror experiences, magical girls festival, idol events, and much more!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOcVYxZzFYMmMwWWtKR09IQTFjVXRVWkVaRk9IYxAB",
+            "text": "Great options for cooking oils."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tka2QxOVVlSE00ZVZCWlJFZFJUV2xWYm10SlRGRRAB",
+            "text": "So fun! Great place to spend some time and sample all the yummy treats."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tST1UyeGxXWFpXZUZSSVkzRjFiRVJmTm5VMGNFRRAB",
+            "text": "Quite a good experience to stroll around getting japanese stuffs and enjoying japanese food"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kcmVXTmFjbEUzYXkxdmVEUjBlbVJmY0VKVWNGRRAB",
+            "text": "The downstairs has alot of restaurants, liquor store, and a Asain supermarket. The upstairs has a huge Book-off with tons of action figures, books and a game system to play on. There's also a bunch of claw games"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KM05taDJSMWgxTFhacWVqVTRXVXB1VWs1TmEyYxAB",
+            "text": "Always the best products at a great price!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wdlFtYzFWbVZCU0hkaVpEbHpWRTFtVlZWZlJVRRAB",
+            "text": "Very cute atmosphere. Lots of different food vendors. I tried out a place that made onigiri. Would definitely return to try out more!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200NU5ua3lXVGg2VFhCWFpVcDVValJSTW1sU2NtYxAB",
+            "text": "Nice place to be all you wanted, soo Japanese😎\nHard to leave this spot enjoy you’ll get anything you want…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Wd1NIcFlXRjh3UTNVNVJIWXlNalI0YlZwTFFWRRAB",
+            "text": "All things Japanese to eat. A food court of different styles of Japanese foods. Plus a Japanese market."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WbE5UWkNkbmh6TjBSMlFqSkZNVFIzZGw5UmJHYxAB",
+            "text": "Me gusto ay variedad"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kemEyTk5OblpLUmpGaU9HMURkamt5Vm5aUE9HYxAB",
+            "text": "Lots of cool stuff. The food is a bit pricey."
+        },
+        {
+            "date": "2달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wc1VIQnJUMjkyZGpRMVkwcGhaV0p6Y1dKeWRYYxAB",
+            "text": "Japanese 축제 기간에 방문했는데 먹을 것도 다양하고 귀여운 아이템 및 피규어를 파는 상점들이 많았습니다. 일본 문화를 좋아하시는 분들이라면 한번쯤 방문해 보는 것을 추천합니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYdS1XbUxBEAE",
+            "text": "횟집\n왜..점점 느낌이 인공이 되죠\n자연스러움 보다.."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPeU5tVS1RRRAB",
+            "text": "보스턴에서 4시간 기차를 타고 입맛 없었는데 일본에 온듯이 좋았음"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXOXZXS1hREAE",
+            "text": "아무것도 없었음..그냥 차,약간의 음식시식(?)으로 도배..그리고 피겨가게하나 daiso그게 다였음"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VNFMyTjBja3B6UzBwbmVGRmlWRWRCV0c5clgzYxAB",
+            "text": "Japan village is a great place to get authentic Japanese food and other items. Plenty of places here for food and they also have a small convince store as well with alot of drinks, snacks and food. The surrounding area is also worth exploring full of interesting place. I recommend this place to anyone visiting NYC/ Brooklyn."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKMFpHRk5abUl4ZFd0Sk5sQkZXVTUyTkd0Nk5FRRAB",
+            "text": "Japan Village in Industry City feels like a little slice of Tokyo tucked into Brooklyn. The food hall has everything from fresh sushi and ramen to Japanese curry, mochi, and even a bakery with fluffy breads. The market is stocked with…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZaHRLWmhnRRAB",
+            "text": "Japan Village in Brooklyn is a wonderful destination that brings the essence of Japan right to New York City. The vibrant marketplace offers an array of authentic Japanese foods, household items, and cultural experiences that transport you…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJaWNlc1dnEAE",
+            "text": "This place is everything you expect it to be and then some. I've been to Japan a few times and I would say this is the closest to Japan you will get in NYC. Not to mention it's part of a bigger complex of other shops and restaurants…"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VQRHJzYU9ieUlpdEFnEAE",
+            "text": "There are many restaurants here. The food prices are not expensive and delicious. There is outdoor seating, the atmosphere is nice."
+        },
+        {
+            "date": "3달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aVU0zWnhUMVpaYUZBeE0wdElUbXRRYUVWeVVGRRAB",
+            "text": "Superbe endroit pour les amoureux du Japon , nourriture, souvenirs, culture tous y est.\nSans oublier qu’il y a pas que ça, vous avez plein d’autres stand sympa dans différents bloc de cette ancienne zone industrielle"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvODdYM2dRRRAB",
+            "text": "This place was amazing. It perfectly fits the vibe of Japanese culture and makes it better.\n\nHere are some places I would recommend to go to.\n\nBANDAI NAMACO (2nd Floor) ~\n\nUsually placed in Japan, this store opened just a few months ago in Sunset Park. It has tons of machines that distribute prizes and toys, and $2 for a coin. The machines usually take an average of 3 or 2 coins for each one, so make sure you have your credit card or cash out and ready to purchase. Additionally, it has multiple Japanese arcade machines! From driving to drum games, the mini arcade has a wide variety of different options. Along with this, there is a special card you can get exclusively for this. It works for arcade games in Japan, too. It’s the Bandai Passport! Use this for most of the games, and it’ll unlock a data saving feature. From you customizing cars and buying things with digital currency in the racing sims, or customizing your cute little bean guy in a drum rhythm game with drumsticks. This passport unlocks many features to explore. Finally, the store itself (of course) has different categories to choose and buy from. From the popular shows like One Piece or Gundam, it’s amazing how much they have here.\n\n9.4/10. Very Fun here! Wide variety of items and games, and helpful staff, but very expensive for the tokens which unlock most stuff in the store.\n\nSUNRISE MART (1st Floor) ~\n\nThis store is great! It has a very wide range of products and services that are very affordable and easy to get. The place is very well maintained and has great products to choose from— like Ramen, Mochi, Pork Belly, Candy, Sweets, and much.. much more that I can’t even name. And quite literally, everything here is from Japan! Very busy, but it’s not the store’s fault that it’s just too good!\n\n10/10. Great Products, Affordable Prices, and Outstanding Quality.\n\nSUSHI KO (1st Floor) ~\n\nPlaced in a little area that’s just a U turn away from the doors from the courtyard, comes a place that’s just too tasty to be true. If you love sushi, you shouldn’t want to come here— you must come here. It has a small selection of food, but don’t let that stop you. There’s much more to await you on this tasty raw journey. Firstly, I would love to recommend you the item “Omakase A.” Meaning “I’ll Leave It To You” in Japanese, makes the chef lead you on this first journey through sushi town. For $35, you get 7 pieces of absolute perfection. Ranging from salmon to chopped liver seasoned with soy sauce and things I can’t even name, it makes me drool. So much things await you here.\nWhen should you go?\nDinner and Lunch.\nDINNER - 10/10 Amazing, and it includes desert. (Green Cake In Photo Listed Below)\nLUNCH - 9.5/10 Outstanding sushi, and delicious drinks.\n\n10/10. Quite Literally, Best sushi I’ve ever had in my entire life!!\n\n(FOR SUSHI KO ONLY, PHOTOS AND VIDEOS ARE LISTED BELOW. PHOTOGRAPHY OF ANY KIND IS NOT ALLOWED IN BANDAI NAMCO.)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNZjRzZXIxczdHTFJREAE",
+            "text": "My sister got stuck in the elevator.  Pretty cool spot. So many Japanese things here. Lots of anime stuff, comics, figures and cultural stuff. Mainly anime stuff. But lots of restaurants and snacks and even a grocery store. Been here a few times. I tried to get my sister out but some guys who worked for place got here out."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMcDhXSklREAE",
+            "text": "Such a magic place to be and explore!✨\nJapan Village is such a beautiful place full of color and all the culture!\nNot only you can find a nice market full of traditional and contemporary groceries, but also you can find stores of comics and all type of cool things, with fresh and delicious food places with so many options to try!\nAs a new visitor it was such an experience be there and learn more about the culture and the art around all over the place!🖼️\nDefinitely have to come back, highly recommended!⚡️"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfbzhHZG5BRRAB",
+            "text": "Japan Village - A Fantastic Place to Visit Regularly\n\nWe’ve been coming to Japan Village regularly, and it’s always an amazing experience! There’s so much to do here, and the variety of activities keeps things exciting every time. Whether you’re looking to relax, explore, or try something new, this place has it all.\n\nThe atmosphere is incredible – peaceful yet vibrant, with beautiful surroundings that make you feel like you’ve stepped into another world. The attention to detail in everything, from the design to the activities, is just impressive.\n\nIt’s the perfect spot for families, friends, or even solo trips, and there’s always something for everyone to enjoy. We absolutely love it here and can’t recommend it enough!\n\nLet me know if you’d like any adjustments!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VOR1ptcUtCby1fOGdBRRAB",
+            "text": "Amazing opportunity to pickup goods and fun things from Japan. manga books, supermarkets and food were great and took us back to Tokyo for an afternoon."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzd01TNlZREAE",
+            "text": "A lively all-things Japanese center with food court that offers authentic and fresh food selection for reasonable price. Parking is convenient with plenty of street and parking garage nearby with Sunday parking for free. The establishment…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKMjg2dm5Fa1lmell3EAE",
+            "text": "Industry City Japan’s Village has changed drastically over the years with more shops and even live music. Lots of locals playing games, kids running around and people enjoying the nature. It does feel like another world and an oasis from…"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzbDhPMkhBEAE",
+            "text": "I visited Japan Village in NYC for the first time during the Japan Expo, and it was such a fun experience! The atmosphere was lively, and there were plenty of free food samples to try, which gave a great taste of authentic Japanese flavors.…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvN2NpODhBRRAB",
+            "text": "Mostly inside, so much to do, see, and eat!  Highly recommend the mochi and shaved ice from the stall near the grocery store.  Nice beer and seltzer selection from the convenience store."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJb3ZxWFBBEAE",
+            "text": "BEST PLACE EVER. AO MUCH FOOD AND IT CAN BE CROWDED BUT THERES A LOT OF SEATS. ALSO THE PLACE IS GOOD PRICES. IT HAS EVERYTHING U CRAVE. I WILL COME BACK EVERYDAY IF I HAD THE CHANCE TOO. it has games supermarket, places to eat all, outside seating, daiso all in one."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxemFXWlRnEAE",
+            "text": "Very nice buildings and atmosphere overall. Was there for their new year event. Supermarkets on the first floor are decent. you can buy all kinds of Japanese food and sauce there. Food options are reasonable. On the second floor you can find a bunch of toys from animation which was a huge surprise for me!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTWMxSlJXRkpHYkZreFVpMTFSV3RaY1hZd1NtYxAB",
+            "text": "If you miss Japan, you need to visit! We took a trip from Manhattan to Brooklyn, and we were not disappointed in our visit! Stopped by Daiso, Bandai-Namco, Sunrise Market, Book-Off, and found the best Japanese food court!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIcmRTcjlBRRAB",
+            "text": "My husband and I and some friends attended the Japanese festival on August 31st at Japan Village. The performances and atmosphere were very good. We did not try any Japanese food. My friend had fun participating in a traditional Japanese dance."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWFdWQlVhM2RtWkZkc1JGTkpkbDloVEdkaWJuYxAB",
+            "text": "Restrooms are in good condition, plenty of food options that are “fine,” and outdoor seating with lots of chairs and tables. The catch? Apparently, cleaning up after yourself is an advanced skill not yet discovered by many visitors. Still,…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKVlkwSm9YMlJvU2tadFJVd3lVVkJrZWxKSWJsRRAB",
+            "text": "I went to the Porsche Car show and I had two onigiris. Food was amazing! The car show was amazing!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYdGZXYlRBEAE",
+            "text": "Japan Village in Brooklyn is my favorite spot to hang out on weekends, and I stop by Yamada Stand for sweet treats every single time :)))\n\nI’ve tried their mochi ice cream, kakigori and the latest monaka mont blanc and EVERYTHING HITS. My bar for matcha/hojicha desserts is very high, but they won my heart with the authenticity and richness of tea flavors.\n\n＊Monaka Mont Blanc (NEW!!) $8\nSeasonal item. Chestnut dessert is the perfect wintery sweet treat imo. Sandwiched between two crispy wafers, monaka is beuatifully layered with azuki bean paste, whipped cream, and sweetened chestnut purée. It was so amazing to witness how they pipe the fresh chestnut purée into distinctive threads. I love japanese style mont blanc because it is lighter and not too sweet.\n\n＊Hojicha Mochi Ice Cream $8\n＊Mango Mochi Ice Cream $8\nFirst, the size of their ice cream scoop is unbelievably huge. They precisely weight every scoop and gently wrap it with mochi dough. The mochi part is very chewy and stretchy (look at the mochi pull!!). The most delightful part is that they add tea jelly and red bean paste on the bottom.\n\nI’ve tried matcha, hojicha and mango so far, and hojicha ice cream is my absolute favorite."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VMLTVzWmVtOHBXaFdREAE",
+            "text": "A Japan village without good sashimi . But the sumo competition was fun."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRc3U2dlZnEAE",
+            "text": "A lot of things to do and explore! It was very pretty and cool walking through even just one floor and it changing stores. Went to see the new Bandai Namco store and was pleasantly surprised with everything else here. Spent a lot of time walking around and exploring!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNENWJha3NBRRAB",
+            "text": "Super cute with a lot of options. They also have a market that sells sushi grade fish. There is a lot of seating. We didn’t get to eat a lot because we had an omakase planned for later. But they also had an omakase in the back that I would def try another time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3eXRmelFREAE",
+            "text": "I love going there so much! This store has everything from Japanese snacks to stationery 🥰. Everything is so cute although some things are a bit overpriced. But overall everything is well made, cute and Japanese culture.…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWanBlUUNnEAE",
+            "text": "Japan Village in Brooklyn is a culinary haven, offering an immersive experience into Japanese cuisine and culture. The marketplace brings the best of Japan to Brooklyn, featuring a diverse range of authentic Japanese products, from fresh produce to unique snacks and kitchen essentials.\n\nWhat sets Japan Village apart is the commitment to quality and authenticity. The marketplace not only provides a wide array of Japanese goods but also offers a variety of dining options, including a food hall with vendors serving up delicious and traditional Japanese dishes.\n\nThe welcoming atmosphere and the attention to detail in showcasing Japanese culture make Japan Village a standout destination. It's not just a marketplace; it's a cultural experience that allows visitors to savor the true essence of Japan without leaving Brooklyn.\n\nIn summary, Japan Village is a must-visit in Brooklyn for those seeking an authentic taste of Japan. It's a culinary and cultural gem that adds a unique and enriching dimension to Brooklyn's vibrant food scene."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGNW8yWEd3EAE",
+            "text": "A great place to spend the day. There are so many unqiue and authentic japanese stores, you will have hours of enjoyment just walking around.\n\nThe outside dining areas are cozy and comfortable when weather permits.\n\nAnd with all of the different authentic Japanese places to eat, you will never run out of new and interesting things to taste.\n\nStop for Anime night if you love anime!."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzdTVya3RnRRAB",
+            "text": "Fantastic selection of tasty Japanese foods! The sushi bar is one of the best. The food stands get busy, but you can usually find a seat at the bar or take your food to one of the many seating areas around Industry City. Love the grocery selection too!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzMkkzbHp3RRAB",
+            "text": "Love the atmosphere. Great shops. Love the themes to fit the holidays. Nice for a day to just spend time with friends and family. Gives a feel as if you are in the city once you enter the building."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOR2FrTXpMVjgyTjNSNVlXSlJiRlIxU0haVVdWRRAB",
+            "text": "Great place to find all Japanese stuff , they provide all stuff you need"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuX0tpNDl3RRAB",
+            "text": "Lovely visit to Japan Village.\n\nIt is part of Industry City, which is a network of buildings housing various shops and restaurants.\n\nJapan Village has a Sunrise Market as well as some fresh food options including ramen, sushi, tofu and onigiri. There is limited seating in this fresh food interior area. Shops on the 2nd floor including cosmetics, pottery and an anime shop.\n\nThere is a center courtyard area with some seating and a small stage. At the time, there was someone performing (singing).\n\nParking available in surrounding lots...particularly, Lot C is reasonably only being $5 on weekends. $15-20 during the week though. Can pre-book and pay for parking via the Laz Parking app."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNod19ybGNnEAE",
+            "text": "Great indoor market that also has a food court where you can get freshly prepared food (sushi and other) as well as food that they have refrigerated that you can warm with a microwave. They also have a bar area. After you are done at the…"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210TlVqWTRiRFJMZVVkMlNUQkxNRzVKTlhWWVFsRRAB",
+            "text": "Ristoranti giapponesi per tutti i gusti e anche supermercati giapponesi, eventi tematici e negozi vari."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJclpfcUQwOHAtc2dBRRAB",
+            "text": "Even though it is open until 8pm, many individual businesses close earlier. Was expecting a lot more shops, but it seems to be still new? There are a bunch of things about to open. The food vendors and market were great! This seems like it…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOcWFVRlRTR0ZUY2xGdmQyTnRjMUpLUjFJd2MwRRAB",
+            "text": "Absolutely. Love it here so many different types of selection here, from groceries to books to stickers. To items that you need for the house. I love the food selection that they have available."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyNDZYeFNBEAE",
+            "text": "Loved this new space. Great for family and kids to enjoy a meal and drink. Some games to play and lots of places to sit.…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1Nm95WlF3EAE",
+            "text": "Unique grocery offering fresh fruit and veg. My favorite vegan inexpensive lunch: avocado 🥑 role, spicy 🌶 potato sticks, and nigiri. Yum! Plenty of courtyard seating. Whilst there, it’s easy to visit other establishments that offer vegans sustenance!…"
+        }
+    ],
+    "reviews_count": 87
+}

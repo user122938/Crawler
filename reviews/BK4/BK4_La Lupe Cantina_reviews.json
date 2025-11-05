@@ -1,0 +1,516 @@
+{
+    "name": "La Lupe Cantina",
+    "place_id": "ChIJVy_IJAhcwokRm4ohs4-7MxI",
+    "grid": "BK4",
+    "address": "9 Jefferson St, Brooklyn, NY 11206, USA",
+    "rating": 4.3,
+    "user_ratings_total": 553,
+    "phone_number": "(347) 715-2455",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaMFVGZHBSRmxDTnpORVFWQXpjMmxvZDNGaFEwRRAB",
+            "text": "Absolutely adore this spot. Best food great atmosphere"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWVQweG1kM1JZWTFWMFlrZEllRnBvZERCa1MzYxAB",
+            "text": "La Lupe Cantina review:\n\nLa Lupe Cantina is a lively spot offering vibrant Latin-inspired cuisine and drinks. Known for its festive atmosphere, it’s a great place to enjoy tacos, ceviches, and specialty cocktails. Guests often highlight the flavorful, fresh ingredients and generous portions. The décor and music create a fun, energetic vibe, ideal for groups or casual nights out. Service is usually friendly and accommodating. Overall, La Lupe Cantina stands out for its bold flavors, lively ambiance, and enjoyable Latin dining experience."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKM1RFWkliVGxEZFZORkxXMW1URWg1Y21GV09IYxAB",
+            "text": "Every aspect of my visit felt thoughtfully planned. This spot serves quality food quickly at reasonable prices. This spot delivered a nice meal. I've made it my mission to sample their entire menu. Excellent meals and a memorable experience."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5Tk9WUXlRamxaV1hkSFFsWjZVR280U210V1ltYxAB",
+            "text": "This is one of the hidden gems of Bushwick. Has the BEST frozen margaritas and all the tacos are 10/10. Sebastian is also one of the best bartenders I’ve met! Only thing they’re missing are frozen mezcalitas!"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWdVIzSlJTVzAwWTNkWGFXVTRXamd6T1c0emJXYxAB",
+            "text": "Gran variedad de comida estilo mexicano (chilaquiles , flautas, enchiladas, ensaladas, churros, mezcal, etc) variedad de bebidas. Personal bilingüe. Lugar cálido para estar en familia y/o amigos. Un lugar que debe estar en tu lista para visitar."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KM1dqQmtURlZTTm14RmFVMUlXVFF4VDBZelZXYxAB",
+            "text": "Food was spectacular, and tasted very authentic. All the spicy things were the perfect level, and very tasty! Will be back."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKQlRVZFFPV2xIWmxaT2NrVlFOUzFTWkVodFZtYxAB",
+            "text": "Super solid neighborhood spot!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poT1YyOHRRMU51VUZoUGVsOHdSR0pZTVhkSGNHYxAB",
+            "text": "I have frequented this charming neighborhood spot both in person and via delivery. Had a slight mixup in my pickup order and when I called to resolve, the owner (i presume) quickly and veryyy kindly fixed the issue and asked me to keep and try something i probably would not have ordered. I must say I was pleasantly surprised at how good it was! I will always come back and support. The food always hits! Thank you!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1c1pVaE9lV2RSWkRsVmVtNVdOMUJMVlZCdFFXYxAB",
+            "text": "really nice servers but .. food was not good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodFVHMWtjRmt0YjFneGIyNVlWbDgzUlRKV1RHYxAB",
+            "text": "Please next time ask customer if they want any sauce or just put it on inside the box, 3 times my salad without any sauce, thanks"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NNUxUaHVUMWRYY0cxak5HWnRlR2hNWVVVemFuYxAB",
+            "text": "Amazing food, really friendly welcome and possibly the best Guacamole I've ever had.\nFirst place we eat on our trip, a high bar for everywhere else."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poU1RWQkpiamxZTkd3emQyTmpVMGhaYTNZMlMyYxAB",
+            "text": "One of my favorite neighborhood gems! Classic cocktails and delicious tacos bring a friend and have a good time.. Ask for Sebastian he’s great!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGalZXMHhUbHB3YmpOUE9YaFhWbTVtVTNGdlRFRRAB",
+            "text": "Always Great food, my go to Mexican spot with the family in Bushwick, always a pleasure here and the owners are always so welcoming!! We love it here! 10/10 the Lupe salad and elotes are my favorite!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GUVRrZElURE54V1V4NmFrRkxlR3BLUlRkRlVWRRAB",
+            "text": "Amazing food! Jay totally took care of us!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214NGVYTlVPR1U0V2kxek5sOXFRemhEZG05dlZIYxAB",
+            "text": "Best vegan/vegetarian tacos in Bushwick and NYC for me so far. Drinks are strong. What else can you ask for?"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2todFZWbDBaVXRtYm0xTlFXNUJRVWgxVFROUGJWRRAB",
+            "text": "Took my daughter here for a bday dinner and I must say her and her sister loved it the food was amazing the drinks amazing the service phenomenal I give it a 10 out of 10"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SemVFaHVlbXhmWTFGSlFUVm5UR3RqWDJsUlVYYxAB",
+            "text": "Great quality food, and the staff are very friendly. Karla helped me with a catering order for a film shoot, and everyone on set was very pleased with their orders. I highly recommend this place!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toMmRuVmpVM2RHV1ZaWmEwdFNVVFpSYVRjNGRVRRAB",
+            "text": "Great flavor, BUT corn dough doesn’t seem to be very fresh; some fridge flavor involved. A bit overpriced for the amount."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnMWRUYzBVWFZaVDFGMk1UQTNZbGQ0UW01WldHYxAB",
+            "text": "Do I dare leave a negative review? My family gets La Lupe at least 1x a month. We live on the block. Most of the time it’s super delicious and the people are friendly. Yesterday was a totally different story. I came in during lunch to takeout some tacos and the redheaded bartender was so inattentive. Then the tacos were just so not right. I got chicken like I always do and they were flavorless. It tasted like chunks of plain boiled chicken. Then their (usually amazing!) hot sauces I was given had totally fermented and tasted like sour vodka.\n\nI gotta admit,  I’m sad to see how the owners have responded to reviews. This is probably the end of La Lupe for me. There’s a taco truck on the corner with just as good tacos and no bullying."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VPVHY2cDNXbmRiSnlnRRAB",
+            "text": "Used to be good, still seasoned well but portions have gone down significantly :("
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VLS25rY1RIanBESlNREAE",
+            "text": "The happy hour menu is fantastic Taco Tuesday is the happy hour menu 🎊🎉"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvMTRIa3F3RRAB",
+            "text": "On the screen they sneak in a “To Go” fee and it doesn’t print on the receipt! How do they get away with this. $13 item should not come out to $15.22. The food was fine but I won’t come back. The employee behind the counter suddenly lost his pleasantries."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcnBMZnNRRRAB",
+            "text": "Get a margarita and hang out with Sebastian!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJcGJTUmRBEAE",
+            "text": "Burrito was cold"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJLU1TMW9BRRAB",
+            "text": "Los tacos de birria y el esquite mis favoritos. El pozole y el agua de Jamaica también muy ricos... En general buena comida, con sabor a familia. La atención, excelente. Quizá con unos arreglos a la ambientación serian un 10/10. Igual volverem🫡"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3cE8tbkFnEAE",
+            "text": "Right around the block from me and glad for it. Occasionally I pop in after work and grab a happy hour cocktail and some tacos. Atmosphere is tasteful, casual, and warm. Great mezcal selection. My favorite tacos currently are the carné asada and veggie."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRemJIRklBEAE",
+            "text": "My steak burrito had peas and carrots in it??? Also the tortilla was not toasted at all. For a 14 dollar burrito im annoyed"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRNktQY3RnRRAB",
+            "text": "10/10 experience coming here and trying all different items on the menu. It tastes like home and their service emphasizes that even more ! I have no doubt I will come here more and more and more and more"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRODhlTnpnRRAB",
+            "text": "One of our favourite local spots. Great food and a cool vibe! Good for gluten free too!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncmVlVjVRRRAB",
+            "text": "If you want to have a painful experience with this mean merchandise please go ahead and order food in here. Food is maybe average but cashiers attitude and owners personal attack to each customers review is hilarious. Maybe instead of attacking customers for their opinion you should focus on getting better. No-one wants free stuff or talk down about your business. Simply people complain and criticize you for your business on a application allows to comment about your place."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnLWJ6dHF3RRAB",
+            "text": "The cashier was very rude and had a harsh attitude. She gave short, dismissive answers and seemed very unwelcoming. The steak tacos were mediocre at best—there are much better options at more reasonable prices.\n\nWhen I ordered a steak quesadilla, I specifically said, “I want a steak quesadilla, no cilantro at.” However, they just put steak between two tortillas without cheese or anything else. When we asked about it, the cashier rudely responded, “You only said steak, so that’s what you got.”\n\nOn top of that, the quesadilla portions are ridiculously small—literally the size of a taco tortilla—and the price is way too high. I paid $20 for just two tiny quesadillas. Unbelievable!\n\nUnbelievably bad service, terrible attitude, and disappointing food. Definitely not worth it!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNndHZ2MV93RRAB",
+            "text": "the staff were amazingly nice and the pozole was fantastic. love the fridge full of salsa. correct way to have salsa t a restaurant!! can't wait to come back!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBOElIbWtnRRAB",
+            "text": "The food is delicious—I’ve been there twice, and both times I had tacos, which were amazing. However, on one occasion, I was served beef tacos instead of fish tacos. But I was so tipsy from a margarita that I only realized it two days later."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfNWZyaGZBEAE",
+            "text": "Delicious enchiladas not the usual, they were more like a lasagna. Mezcal margaritas and mojito were really good, we also ordered the birria, juice and flavorful, THE BURGER was wooooóow! I hope stays secret so it doesn't change, I will order it every time I go there which,  it will be often.\nP.L"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfa2Z5dU13EAE",
+            "text": "The ‘steak’ tacos don’t taste like steak at all—they’re more like water-boiled meat. At $4.50 each, they’re overpriced for the quality. The flavor was disappointing, the prices high, and the staff wasn’t particularly friendly. The interior look nice, though."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfaHN2cmFnEAE",
+            "text": "Ordered online for pick up, swung by, waited just a few mins and it was ready! The guy that greeted us was super friendly, and the place is really cute inside. We drove home (about 6 blocks away) and got right into it. Unfortunately though the tinga and the grilled shrimp tacos were completely funked up. They just had one tortilla instead of the standard two. I thought was weird especially for spicy stewed chicken like tinga or shrimp tacos that have crema on top. But hey, if the taco is sturdy, I really dont care. Sadly they were totally soaked and broken into pieces already! Just from leaving the restaurant and driving a couple mins down the street! We had to eat the tacos with forks and spoons. The shrimp also was definitely not \"grilled.\" Poached perhaps, but not grilled. Which was a bummer.\n\nAlso the meats had no flavor outside of the cilantro topping. We added salt and their homemade sauces and that helped. those are sauces great!\n\nI think the weirdest thing of all though was the \"tostada.\" Its just a taco with lettuce and cheese and tomato. As in - the tortilla is not toasted or fried or crunchy in anyway. just a raw tortilla with a ton of wet toppings, so once again totally soaked, broken, and had to eat with spoons. Weird right?\n\nWe got the birria quesadilla which was just fine. Pretty floppy and wet but birria is juicy by nature so that ok! Probably will stick to the taco trucks we know, love, and trust moving forward. Just sucks because we were so excited to try La Lupe and find maybe a new go-to spot since?\n\nThe search continues!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfd3JER0RREAE",
+            "text": "Great vibes! Amazing tacos! Perfect forget togethers"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfOTd5U3NRRRAB",
+            "text": "Hit and miss depending on the day :( Elote corn is nasty."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmNVlDaHBBRRAB",
+            "text": "Great spot - everything is tasty! Recommend for a quick casual bite"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmeGFyckV3EAE",
+            "text": "Roe did an amazing job servicing us."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmbHFETFlnEAE",
+            "text": "The food was average—nothing special. What stood out more was their odd and inconvenient system. There are no waiters, no real service, and you’re expected to serve your own water. You pay upfront, but if you want to keep your tab open, they require both your card and an ID as a deposit. Who does that? You also have to pick up your own food, yet they still expect a tip—what exactly are we tipping for? The overall experience was confusing and underwhelming."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2dHRQMk53EAE",
+            "text": "The most Bushwick taco joint ever. Boozy drinks worth it. If you're going in expecting flowery attitude you're probably in the wrong neighborhood. No bullshit, good food and drink."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2Nk9tZEd3EAE",
+            "text": "Very delicious breakfast tacos in a beautiful, cozy restaurant. Very friendly staff."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQbm9QM0h3EAE",
+            "text": "Food is great, prices are great, service is always friendly and on point. They have happy hour deals, too"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuODgtRi1nRRAB",
+            "text": "As someone who lives in Los Angeles these are in the conversation for best taco I’ve ever had. Soft velvety flavors and delicate ingredients. Try the Al pastor which is not a thing in the east coast. 10,s across the board"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuNU1hN3B3RRAB",
+            "text": "Best restaurant in Bushwick. If you're looking for a hidden gem, go no further, stop here and thank me later... Or don't, but stop at this little great spot somewhere in Brooklyn. ♥️"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIX1lqNUxREAE",
+            "text": "It's not a bad place. But it definitely didn't strike me as authentic Mexican food. Torta, pastor, elote, and tacos weren't great."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURibUpXdHJRRRAB",
+            "text": "Really great food, fast & friendly service, perfect vibe inside"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNya3JDQmFnEAE",
+            "text": "Tacos were small but good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMdjg2d01nEAE",
+            "text": "I really wanted to like this place because I kept passing by it, and it looked cute. I finally tried it, and 2 out of 5 is very generous rating, honestly. The ambiance and the semi-par wings(6 pieces) i got with my order helped give it a 2/5 instead of 1/5.\n\nI ordered the wings, which tasted like corner store spot wings - very bready and greasy. I also ordered a Carne Asada taco and an Al Pastor taco. Two classic tacos that usually always taste well in almost all establishments. But it definitely fell very short here.\n\nThe small tortilla and meat portion wasn't horrible. The tortilla had a funny aftertaste, though. Smh. But the overall taste of each taco bite was truly disappointing. No flavor, no salt. Especially for the carne asada.. there was no \"asada\" flavor! That got to me. LOL. Sorry, not sorry. Then there's the salsas, the red and green one. Usually, the green salsa is never a miss. But again, no flavor. The red salsa - all you tasted was the heat. It has absolutely had no salt. They could have at least added some onion / garlic to give it an actual salsa taste to both of them, smh.\n\nBrooklyn has always been a place where you can get really good mexican food. I grew up in these streets... Mexican food is a staple. So to find this place that -dare I say- caters to non-latino, hipster VISITORS that probably wouldn't know any better (is probably the only reason why or how this place remains open.) It's harsh, I know. But I just couldn't believe it. About $25 and change spent for food that was just unflavored and being hungry is not a good mix, my friends. Lol\n\nI don't mind spending money in this horrible economy, but if the portions are small, THEN the food NEEDS, MUST, HAS TO BE delicious.\n\nAnyways, if those that actually want to eat really good Mexican food, just keep walking down Broadways Ave, you'll find another Mexican restaurant where the food is amazing! Don't waste your money here.\n\nNow, I can't comment on the alcoholic drinks, so perhaps that's the other thing, other than the esthetics that is good in this place.\n\nI hope this place gets better cooks. Because baby, this was a HUGE disappointment.\n\nPlease do better! There's way too Mexican restaurants that outshine this place.\n\nFrom, a really OG Brooklyn native."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGa095cktnEAE",
+            "text": "It's a self serve restaurant, nice vibes and friendly staff! We got the birria bowl and al pastor burrito. The birria was soft but could do with a little more flavor, and I think the portions could be a little bit bigger. Overall a good vibe and nice place to get some snacks, drink, and talk with friends!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUNE5mZmN3EAE",
+            "text": "Drinks 10/10! I can’t comment on the food as I only ordered chips and salsa but that was 10/10!! Small cozy place. Great atmosphere and loved the decor inside. They also had music playing- fun vibes!!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkNnMzdWFREAE",
+            "text": "Loved this place! The bartender was incredibly friendly, the burrito bowl was delicious and the tres leches was to die for. Great atmosphere, super friendly and helpful staff and delicious food. I'm definitely going back to try their tacos! 😋"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvcm9ERF9BRRAB",
+            "text": "I just had a really pleasant dining experience at La Lupe. The restaurant vibe and feel is great, cozy and dim with nice decorations and art. The margaritas are pretty good and come in different flavors like hibiscus and tamarind. To eat I ordered the chicken flouta which was quite good after I added some hot salsa. Good value for $8"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6MHR2YVFBEAE",
+            "text": "I’ve lived nearby for like 3 years and for awhile thought there wasn’t really much decent food in the area. Lately I’ve been walking past here on my way to work and finally decided to pop in. I was not disappointed. It’s self serve and self clean up after yourself which I don’t mind at all.\n\nI ordered the two birria tacos + consomé and omg. The tacos are average size but the portion and actual flavor of the meat was SO GOOD!! I honestly wished I ordered nachos or something else to finish all the consomé.\n\nI’ll definitely be coming back again!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHeElPZTl3RRAB",
+            "text": "post pandemic and this place is going stronger than ever. my lady has always loved the chicken tinga and they were still as perfect as i remembered. i got the birria and i think it was perhaps over spiced but not in a bad way i think it had…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5dU5qOUlREAE",
+            "text": "I love this place! My favorite are the fried fish tacos and the birria 😍 also, the margaritas are huge so what’s not to love!"
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURramMtdkpREAE",
+            "text": "I'm always seeking out excellent, fresh tacos and I found that at La Lupe Catina. Their veggie taco features sauteed mushrooms, onion, cilantro, chopped radishes, avocado salsa, a secret seasoning and a slice of lime. I topped mine with the…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6c0lLdnNRRRAB",
+            "text": "Cute decor and ambiance - friendly staff service - it is self serve, order, pay & grab food from counter when ready - good happy hour drinks/margaritas - good tacos, birria, churos, and burgers - would stop by again - and clean bathrooms!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2N1pIendRRRAB",
+            "text": "Carter was the most pleasant bartender and food server I’ve met and I’m a bartender… His smile and energy is what makes me want to come right back and just have conversation. I work right around the corner and I will be here every time I…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNObmRtZU5REAE",
+            "text": "This is our favourite place in the neighborhood. Carla (owner) and her staff (Ernesto and Henry) are always so friendly. The food is always fresh and the drinks are awesome. We’ll be coming here for a long time!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsb19hd2xBRRAB",
+            "text": "La Lupe’s birria is next level. Everything on the menu is delicious. They also make killer drinks. And they’ve created a great environment, too. Love this spot!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNM3AzOVVREAE",
+            "text": "La Lupe is a great, authentic Mexican spot that makes me feel like I’m back in Tulum. New York prices, but the food does deliver. Decor is perfect and authentic. There is a small bar, and plenty of no-frills seating featuring rustic wooden…"
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "es",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJd19MN2h3RRAB",
+            "text": "Realmente no es el tipo de lugar para comer al que me gusta ir , el autoservicio no va conmigo , los precios $$arriba, las margaritas de la hora feliz son a 5 dólares,  pero el tequila es bastante como la margarita que usan para hacerla ,…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSMTh2M01nEAE",
+            "text": "Tasted like really americanized (and ruined) mexican food. Tried both chicken tinga and steak burritos and they were really lacking in flavor. They tasted worse than chipotle and were also kinda small-medium sized. Would not recommend the burritos here.\n\nHowever, the service was good, the bathroom was clean, and the tables were clean. And the salsa was good. The food itself was a let down, though :("
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1aUtxdk1REAE",
+            "text": "I got the fish burrito, tasted good but for $16 I wouldnt be excited to get it again. The vibe inside is nice, although they don’t have waiters so you gotta pick up your own food but who really cares about that"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyODRlRDdnRRAB",
+            "text": "Great cozy place! Had the salad with BBQ chicken and some tacos. Great prices and tasty food! The salad was delicious and filling. The margs and cocktails were refreshing. TIP WELL THE PRICES ARE GREAT!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvMDc2Z0JREAE",
+            "text": "Authentic mexican food in Brooklyn! The owner is so nice and friendly. The bartender was so cool and funny. Such a cozy place!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSd1B6bW1nRRAB",
+            "text": "One of the better places for tacos in that area, puts all the nearby food trucks to shame. They make a mean margarita too!"
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDakxEUUN3EAE",
+            "text": "Burger was for DELICIOUS for me. Wish some salsa, pico, or gauc was served with chips.…"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaaW9yY1hREAE",
+            "text": "What a disappointment. I left after dinner with a bad impression of the location. I will not return. Expensive for what you get, considering the small food portion."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ0bzZLak13EAE",
+            "text": "Let me start this off by saying I've been to rural & touristy Mexico, I've grown up in the south, and had some wonderful Mexican food in my life. This is hands down, without a shadow of a doubt, the BEST burrito I have ever had. The flavour is absolutely incredible."
+        }
+    ],
+    "reviews_count": 72
+}

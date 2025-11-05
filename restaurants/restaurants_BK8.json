@@ -1,0 +1,482 @@
+[
+    {
+        "name": "The Munchies",
+        "address": "848 Nostrand Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJ5ftJ2q9bwokRdJUbdbIjKQo",
+        "rating": 4.7,
+        "user_ratings_total": 1175,
+        "phone_number": "(718) 869-3244"
+    },
+    {
+        "name": "Butcher Grill House",
+        "address": "411 Troy Ave, Brooklyn, NY 11213, USA",
+        "place_id": "ChIJM-vkDcxbwokR1wfvHIJ4clk",
+        "rating": 4.9,
+        "user_ratings_total": 242,
+        "phone_number": "(347) 770-4042"
+    },
+    {
+        "name": "Chavela's",
+        "address": "736 Franklin Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJJ5J8yJ9bwokRjpOkpYgii5k",
+        "rating": 4.5,
+        "user_ratings_total": 3023,
+        "phone_number": "(718) 622-3100"
+    },
+    {
+        "name": "Briscola Trattoria",
+        "address": "798a Franklin Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJD6W7CwBbwokRwO5z7BMo7-M",
+        "rating": 4.7,
+        "user_ratings_total": 246,
+        "phone_number": "(917) 966-2670"
+    },
+    {
+        "name": "Don Udon",
+        "address": "634 Park Pl, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJJx0KbQBbwokRgFw60jHQQIM",
+        "rating": 4.9,
+        "user_ratings_total": 194,
+        "phone_number": null
+    },
+    {
+        "name": "Mayfield",
+        "address": "688 Franklin Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJn9vfAZ9bwokRCoHThnYzu6M",
+        "rating": 4.5,
+        "user_ratings_total": 902,
+        "phone_number": "(347) 318-3643"
+    },
+    {
+        "name": "Arden",
+        "address": "788 Franklin Ave #790, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJZ4ItFoVbwokRHlQHjgwVqsk",
+        "rating": 4.7,
+        "user_ratings_total": 300,
+        "phone_number": "(718) 484-3266"
+    },
+    {
+        "name": "The Nuaa Table",
+        "address": "638 Bergen St, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJ6Y6scy9bwokRSJD4Uz6F-TU",
+        "rating": 4.7,
+        "user_ratings_total": 283,
+        "phone_number": "(718) 623-6395"
+    },
+    {
+        "name": "Franklin Park",
+        "address": "766 Franklin Avenue, 618 St Johns Pl, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJhQCuY3VbwokRanBob6BoCrI",
+        "rating": 4.3,
+        "user_ratings_total": 1594,
+        "phone_number": "(718) 230-0293"
+    },
+    {
+        "name": "Leland Eating and Drinking House",
+        "address": "755 Dean St, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJjW_xjcJbwokRhrgB0I0l3Xg",
+        "rating": 4.7,
+        "user_ratings_total": 635,
+        "phone_number": "(646) 470-7008"
+    },
+    {
+        "name": "Muse Thai",
+        "address": "689 Washington Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJQdBhEaFbwokRzO6we6nCV0E",
+        "rating": 4.8,
+        "user_ratings_total": 1506,
+        "phone_number": "(347) 442-0443"
+    },
+    {
+        "name": "Cheryl's Global Soul",
+        "address": "236 Underhill Ave, Prospect Heights, NY 11238, USA",
+        "place_id": "ChIJn3Sg2QlbwokR7c0TqJW-qRE",
+        "rating": 4.4,
+        "user_ratings_total": 1545,
+        "phone_number": "(347) 529-2855"
+    },
+    {
+        "name": "Underhill Cafe Brooklyn",
+        "address": "760 Dean St, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJR6l_9KNbwokRGPyx3HL9CHQ",
+        "rating": 4.8,
+        "user_ratings_total": 328,
+        "phone_number": "(718) 484-3744"
+    },
+    {
+        "name": "Panca BK",
+        "address": "593A Vanderbilt Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJv6bjVgBbwokRFGDdjEJ1-T8",
+        "rating": 4.8,
+        "user_ratings_total": 68,
+        "phone_number": "(646) 405-0509"
+    },
+    {
+        "name": "gertrude’s",
+        "address": "605 Carlton Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJnRyRtUBbwokR4veV9Er_PAU",
+        "rating": 4.5,
+        "user_ratings_total": 410,
+        "phone_number": "(718) 269-0043"
+    },
+    {
+        "name": "Cafe Mado",
+        "address": "791 Washington Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJrwTqaQBbwokRaK-iQfAWdG4",
+        "rating": 4.7,
+        "user_ratings_total": 190,
+        "phone_number": "(347) 627-8298"
+    },
+    {
+        "name": "Little Egg",
+        "address": "657 Washington Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJedHcr1FbwokRbjAPXjAg-4o",
+        "rating": 4.6,
+        "user_ratings_total": 209,
+        "phone_number": "(929) 234-5776"
+    },
+    {
+        "name": "Wayward Fare",
+        "address": "554 Vanderbilt Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJQyOpP2RbwokRjD2SrwniWS4",
+        "rating": 4.8,
+        "user_ratings_total": 143,
+        "phone_number": "(347) 221-1385"
+    },
+    {
+        "name": "Gueros Brooklyn",
+        "address": "605 Prospect Pl, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJedgKAp9bwokROT5n308Y3U0",
+        "rating": 4.4,
+        "user_ratings_total": 841,
+        "phone_number": "(718) 230-4941"
+    },
+    {
+        "name": "Sweet Chick",
+        "address": "341 Flatbush Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJN-OEkqhbwokReQrau-g8XrA",
+        "rating": 4.3,
+        "user_ratings_total": 3029,
+        "phone_number": "(718) 484-7724"
+    },
+    {
+        "name": "SMASH N GRILL",
+        "address": "762 Nostrand Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJxwRh3F5bwokRjpkutb8DaJg",
+        "rating": 4.8,
+        "user_ratings_total": 131,
+        "phone_number": "(929) 738-2267"
+    },
+    {
+        "name": "Lowerline",
+        "address": "794 Washington Ave Apartment 8, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJt-OWjaBbwokRBtwQBIdwpcQ",
+        "rating": 4.7,
+        "user_ratings_total": 608,
+        "phone_number": "(347) 533-7110"
+    },
+    {
+        "name": "OFF THE GRILL",
+        "address": "602 Nostrand Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJGwwLdFdbwokRwgGRO2tpb_8",
+        "rating": 4.9,
+        "user_ratings_total": 105,
+        "phone_number": "(347) 240-6628"
+    },
+    {
+        "name": "Shane's Brooklyn",
+        "address": "794 Washington Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJL5LTk6BbwokR3mzzfg3LbUo",
+        "rating": 4.4,
+        "user_ratings_total": 1290,
+        "phone_number": "(718) 872-6900"
+    },
+    {
+        "name": "Crown Heights Mozzarella",
+        "address": "265 Troy Ave, Brooklyn, NY 11213, USA",
+        "place_id": "ChIJz9GtD4BbwokRtNC_JmTf-lg",
+        "rating": 4.7,
+        "user_ratings_total": 1131,
+        "phone_number": "(917) 633-6770"
+    },
+    {
+        "name": "Izzy's Brooklyn Smokehouse",
+        "address": "397 Troy Ave, Brooklyn, NY 11213, USA",
+        "place_id": "ChIJt8dbD35bwokRq2cXZ9Cla6Y",
+        "rating": 4.5,
+        "user_ratings_total": 1978,
+        "phone_number": "(347) 425-0524"
+    },
+    {
+        "name": "Trinidad Golden Place",
+        "address": "788 Nostrand Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJGVEMeZ1bwokRfrp4C8fjtgI",
+        "rating": 4.6,
+        "user_ratings_total": 1514,
+        "phone_number": "(718) 735-7065"
+    },
+    {
+        "name": "Holy Schnitzel",
+        "address": "262 Kingston Ave, Brooklyn, NY 11213, USA",
+        "place_id": "ChIJj2vTHQBbwokRW0-OjYjQNEo",
+        "rating": 4.9,
+        "user_ratings_total": 662,
+        "phone_number": "(929) 339-1156"
+    },
+    {
+        "name": "The Canary",
+        "address": "789 Franklin Ave #8, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJ6QUKUXRbwokRYn1IeT8kWls",
+        "rating": 4.8,
+        "user_ratings_total": 244,
+        "phone_number": "(347) 221-0881"
+    },
+    {
+        "name": "Greyz Bistro",
+        "address": "1171 St Johns Pl, Brooklyn, NY 11213, USA",
+        "place_id": "ChIJfbMdAOhbwokRAFMM9nVXAW8",
+        "rating": 4.8,
+        "user_ratings_total": 111,
+        "phone_number": "(646) 397-3427"
+    },
+    {
+        "name": "Altar",
+        "address": "645 Sterling Pl, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJT9haiIpbwokRl7ht-SrB7lo",
+        "rating": 4.7,
+        "user_ratings_total": 206,
+        "phone_number": null
+    },
+    {
+        "name": "Blindenpete",
+        "address": "1422 Park Pl, Crown Heights, NY 11213, USA",
+        "place_id": "ChIJYwaligBdwokR02NJJE-xGfs",
+        "rating": 4.9,
+        "user_ratings_total": 42,
+        "phone_number": "(917) 601-4877"
+    },
+    {
+        "name": "Dhania",
+        "address": "787 Prospect Pl, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJU4DtNiZbwokRieDzRbPZJ8U",
+        "rating": 4.7,
+        "user_ratings_total": 546,
+        "phone_number": "(347) 627-3095"
+    },
+    {
+        "name": "Ozakaya",
+        "address": "635 Vanderbilt Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJcdtiwplbwokRcYySLGqp37M",
+        "rating": 4.7,
+        "user_ratings_total": 1399,
+        "phone_number": "(929) 456-5956"
+    },
+    {
+        "name": "Grilled",
+        "address": "567 Lincoln Pl, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJMym7EABbwokRxlS0FZasyTg",
+        "rating": 4.8,
+        "user_ratings_total": 18,
+        "phone_number": null
+    },
+    {
+        "name": "Pasta Night",
+        "address": "575 Vanderbilt Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJ37Tc_DFbwokR4p2N95g9I7s",
+        "rating": 4.5,
+        "user_ratings_total": 126,
+        "phone_number": "(718) 483-8443"
+    },
+    {
+        "name": "The Green Room PLG",
+        "address": "408 Rogers Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJ76Sit8FbwokR6i3pO17pVPQ",
+        "rating": 4.9,
+        "user_ratings_total": 119,
+        "phone_number": "(718) 218-3331"
+    },
+    {
+        "name": "Agi's Counter",
+        "address": "818 Franklin Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJgbi06LFbwokRGr3pch2KH_A",
+        "rating": 4.7,
+        "user_ratings_total": 577,
+        "phone_number": "(718) 822-7833"
+    },
+    {
+        "name": "The Islands",
+        "address": "671 Washington Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJIe7xbKFbwokR43TQxmuPmJU",
+        "rating": 4.5,
+        "user_ratings_total": 579,
+        "phone_number": "(718) 398-3575"
+    },
+    {
+        "name": "Banh Mi Place",
+        "address": "824b Washington Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJQeVGnaBbwokRtYYHA4MKOJc",
+        "rating": 4.5,
+        "user_ratings_total": 601,
+        "phone_number": "(718) 552-2660"
+    },
+    {
+        "name": "Crown Heights Pizza",
+        "address": "563 Lincoln Pl, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJsWIJTRVbwokRcGc4Ccc8eco",
+        "rating": 4.5,
+        "user_ratings_total": 369,
+        "phone_number": "(718) 676-4477"
+    },
+    {
+        "name": "99Rogers",
+        "address": "99 Rogers Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJz2LkMpxbwokR7BeE1b53kLM",
+        "rating": 4.5,
+        "user_ratings_total": 437,
+        "phone_number": "(718) 708-4933"
+    },
+    {
+        "name": "Le Pistol Bar & Cafe",
+        "address": "780 Washington Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJFYeUIABbwokRRRiaj82mZAQ",
+        "rating": 4.7,
+        "user_ratings_total": 187,
+        "phone_number": null
+    },
+    {
+        "name": "No. 7 Restaurant",
+        "address": "627 Vanderbilt Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJFRTZSdNbwokRPv71NOk5GH8",
+        "rating": 4.4,
+        "user_ratings_total": 377,
+        "phone_number": null
+    },
+    {
+        "name": "Colina Cuervo",
+        "address": "759 Nostrand Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJbTUCfp1bwokR6Nqzuna6J-o",
+        "rating": 4.6,
+        "user_ratings_total": 459,
+        "phone_number": "(718) 552-2005"
+    },
+    {
+        "name": "Bou'ote",
+        "address": "302 Troy Ave, Brooklyn, NY 11213, USA",
+        "place_id": "ChIJRw5kdnpbwokRvQdxQHCT_Po",
+        "rating": 4.6,
+        "user_ratings_total": 182,
+        "phone_number": "(347) 365-6359"
+    },
+    {
+        "name": "Nacho Macho Taco",
+        "address": "417 Prospect Pl, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJ7-8JCaFbwokR_VMa9Zx7JX8",
+        "rating": 4.3,
+        "user_ratings_total": 686,
+        "phone_number": "(718) 622-2727"
+    },
+    {
+        "name": "Uotora",
+        "address": "1075 Bergen St, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJkVcmgJxbwokRIqAid-4ZjFs",
+        "rating": 4.6,
+        "user_ratings_total": 279,
+        "phone_number": "(718) 513-0724"
+    },
+    {
+        "name": "Lincoln Station",
+        "address": "409 Lincoln Pl, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJd7NPhApbwokRMsK48DkIVNQ",
+        "rating": 4.4,
+        "user_ratings_total": 973,
+        "phone_number": "(718) 399-2211"
+    },
+    {
+        "name": "Dilly Dally",
+        "address": "626 Vanderbilt Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJ9UbfyO1bwokRh11devTUnT4",
+        "rating": 4.3,
+        "user_ratings_total": 82,
+        "phone_number": null
+    },
+    {
+        "name": "WARUDE",
+        "address": "847 Sterling Pl, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJJekiITlbwokRDkI450MTV8A",
+        "rating": 4.7,
+        "user_ratings_total": 95,
+        "phone_number": "(718) 704-0900"
+    },
+    {
+        "name": "Cafe Rue Dix",
+        "address": "1451 Bedford Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJi1Iydp5bwokRpwUQu1NrOXM",
+        "rating": 4.4,
+        "user_ratings_total": 829,
+        "phone_number": "(929) 234-2543"
+    },
+    {
+        "name": "Boeuf & Bun",
+        "address": "271 Kingston Ave, Brooklyn, NY 11213, USA",
+        "place_id": "ChIJsduzTQVbwokR1hwkQgTyJQU",
+        "rating": 4.4,
+        "user_ratings_total": 1646,
+        "phone_number": "(718) 221-8900"
+    },
+    {
+        "name": "Ciao, Gloria",
+        "address": "550 Vanderbilt Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJJy4UaG1bwokRRnpJjk-ozac",
+        "rating": 4.6,
+        "user_ratings_total": 407,
+        "phone_number": "(716) 666-2426"
+    },
+    {
+        "name": "Bong",
+        "address": "724 Sterling Pl, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJq7VcWwBbwokRQf8bGqnAkrM",
+        "rating": 4.7,
+        "user_ratings_total": 78,
+        "phone_number": "(347) 595-2167"
+    },
+    {
+        "name": "Tom’s Restaurant",
+        "address": "782 Washington Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJkQjM7KBbwokRwC8M-XGNpsk",
+        "rating": 4.4,
+        "user_ratings_total": 2652,
+        "phone_number": "(718) 636-9738"
+    },
+    {
+        "name": "La'Mode BK",
+        "address": "1401 Bedford Ave # A, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJ4VWOsJ1bwokRJjOdmZAAYK0",
+        "rating": 4.6,
+        "user_ratings_total": 427,
+        "phone_number": "(718) 316-9100"
+    },
+    {
+        "name": "Puerto Viejo",
+        "address": "564 Grand Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJl2cJM6JbwokROv_qvRzL4ug",
+        "rating": 4.3,
+        "user_ratings_total": 1028,
+        "phone_number": "(718) 398-3758"
+    },
+    {
+        "name": "Whoopsie Daisy",
+        "address": "225 Rogers Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJjXV-dblbwokRhbvL8k8r8M4",
+        "rating": 4.8,
+        "user_ratings_total": 60,
+        "phone_number": "(347) 365-4193"
+    },
+    {
+        "name": "Zaytoons",
+        "address": "594 Vanderbilt Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJvU4yeaZbwokRd9vY-VhfuAY",
+        "rating": 4.4,
+        "user_ratings_total": 926,
+        "phone_number": "(718) 230-3200"
+    }
+]

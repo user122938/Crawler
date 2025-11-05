@@ -1,0 +1,523 @@
+{
+    "name": "Tutt Heights Cafe",
+    "place_id": "ChIJAQAsDTdawokRbXcJnQ55gBM",
+    "grid": "BK2",
+    "address": "47 Hicks St, Brooklyn, NY 11201, USA",
+    "rating": 4.5,
+    "user_ratings_total": 600,
+    "phone_number": "(718) 722-7777",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNM01uTmlaVE5KWnkwMGNYZGtWbDkyV0V0MFNtYxAB",
+            "text": "Will eat here again when I'm in the area."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWeVRVUTFja2hHVjNGeFpFRkRVMFJYVDFoWmNHYxAB",
+            "text": "Food was decent, but they got my pick-up order wrong despite my repeating yet again what I had ordered as I picked it up."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWRU9WZFNibFpIU1hod1ptMVFlbHBqZEhOWGNtYxAB",
+            "text": "Authentic mediteranean cusine in Brooklyn,thank you guys!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJeU5VeEJSRmhIU1VwSFZsSlJRblV6YlZsd1ZuYxAB",
+            "text": "Highly recommend this place for authentic Mediterranean cuisine."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wSE16a3lTMmN4WjNORE9HdFdNMGQxYldJeVltYxAB",
+            "text": "Great food, friendly service, best Turkish coffee"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trdFR6SkpORnBEZW5wSWFHNXlVbHB2YkZOcVMzYxAB",
+            "text": "the real stars here are the kebab and the gyro. The meat is perfectly seasoned, tender, and full of flavor, served with fresh pita and generous portions. Everything tastes authentic and freshly made, like real Mediterranean street food.\n\nThe gyro plate is my favorite - juicy, well-balanced, and super satisfying. If you're craving something hearty and delicious, this spot won't disappoint. Great prices too, especially for the quality"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMVZsRTFkMmRCYW5Kbldqa3dNWGxqZFU1cFFsRRAB",
+            "text": "Best Mediterranean restaurant in Brooklyn. Fair prices, great atmosphere and extremely friendly service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200dGNuWklXV0oxVHpaMWNTMTJlbDl6VTJkdFdsRRAB",
+            "text": "Have been coming to this neighborhood gem for a long time, even when it was under previous ownership. The food is delicious, the service is very friendly and welcoming, and there is usually plenty of comfortable seating. I've done dine in and take out - I would only say that their fresh baked pita is so delicious when it comes out of the oven that it's worth dining in to experience it."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rMFRFTkNaMDA0Y2xsVWRHVjBlbUY0VVVabWMyYxAB",
+            "text": "La pizza está muy buena, el servicio al cliente es excelente, super recomendado."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taVWVHcDVSWEIyUWxGb01FeEdSMjkzY0d4TlprRRAB",
+            "text": "We walked into this café completely by chance — and it turned out to be a real gem! Cozy atmosphere, attentive staff, and absolutely delicious food. The prices were a very pleasant surprise! From now on, whenever we’re in New York, we’ll definitely come back here. Definitely 5 stars! ⭐⭐⭐⭐⭐"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kbk1EVkxhR3BuTTBwWWRVOXliMWxJV0VKWVVuYxAB",
+            "text": "Nice food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25STWNWbHJkMkUwTW1OdWNsUnNZbU5hV2tGS1FXYxAB",
+            "text": "The food was well seasoned, very tasty and the service was good. The ginger-date tea was an unexpected delight. Even the water was tasty!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SYVpURnRVMlowZFdObVpGTnlkV2xtTUUxbVVXYxAB",
+            "text": "Nice  restaurant and clean bathroom"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGaFluRjZOR2RYZFRSc01sbE5OazgyYUVWcWNXYxAB",
+            "text": "Great food"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGbmVIVkVUelpSV21oMGNEQTBUVUYwUWtoR2VsRRAB",
+            "text": "The lamb gyros is amazing. The portion sizes are also great. My friend recommends the chicken shwarma. I’d definitely come here again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205R01YaFRUakpXY2poYVdWbE1UakJNYkRFd1dGRRAB",
+            "text": "The place is very cute and cozy. Food was really good and with reasonable prices. Staff was very nice as well, I’ll 100% come back 😊"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVlRrbG5SM1ZSVVY5S1NqUnBSWFZFWTNsclUyYxAB",
+            "text": "Had the shrimp pizza, it was phenomenal!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SmJsWTFTVWxvZDAxWGRrRllaMTgyUlhwaWMxRRAB",
+            "text": "We got a meet samples, and after trying I understood why this place has such high rating. The meat was perfectly freshlycooked (not just heated previously cooked)."
+        },
+        {
+            "date": "2달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xocmFWOVpaVVpZV0hSc2EzTTFWbVpzTjJKYVFrRRAB",
+            "text": "Super leckeres Essen und freundliche Bedienung. Würde jederzeit wieder dort essen. Für mich ein super Tipp für bestes Essen in Brooklyn."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5cktLd3R3RRAB",
+            "text": "Best falafel in the North Heights. Pleasant seating area and some outside tables, weather permitting."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwcFZuQnhOWFkxTVZOUFQzWm1PRlZKTFhSTkxWRRAB",
+            "text": "Fresh food, friendly people and fabulous homemade hot sauce."
+        },
+        {
+            "date": "3달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xbE4wbEtXblkxVFU4MlQwUjZXRTVrVDFORFZFRRAB",
+            "text": "Sehr schönes Restaurant.\nGute Atmosphäre, sympathische Leute und leckeres Essen."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKalZtTndWMkkyVUhwU1lUZEVWVTlWWTA1RFgyYxAB",
+            "text": "We really enjoyed this restaurant! Everything we had was great.. the spinach and cheese pie, the shawarma, lamb, pitza and so much more. The staff is very friendly and hospitable. We will definitely love to return."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ObU0xVkNOMFJyTldjemNWcEZXV1JDVld0d1pHYxAB",
+            "text": "Nice neighborhood spot - good food and friendly owner and staff"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCMU9TMDVVR0ozU1VWaFl6QllWRVpXT0Vwbk1uYxAB",
+            "text": "This was one of the worst and unpalatable chicken shawarma I have ever tasted. Dry, bad spices, no sauces. I don't recommend buying this."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201dFpWcENOMGRMUTJSM01VWnpjbGxQUkROdGQxRRAB",
+            "text": "Hate to be a bummer, but this place was sorta shockingly mid - so little seasoning or real flavor, small portions (especially for the price), just clearly not trying very hard"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oNGJ6VlhOVXBCTlVNMGRYaFdWekZqVlVjMlZGRRAB",
+            "text": "Our first time at Tut’s! We are from Florida and they were so gracious and nice! Come see ayoub!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLdVhoSWZDN0xETS1BRRAB",
+            "text": "Wonderful food and staff. Service was slow paced and warm. We felt like we found a hidden gem 💎"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQX3QzNWloLTVteW5nRRAB",
+            "text": "One of my favorite places. I could get just the pita and I’d be happy- but also love the mix grill, all of the chicken dishes and the hummus."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQSE43ZEh5eWNHYmJ3EAE",
+            "text": "Visited Tutt Heights Cafe after a long sight seeing day in NY and it was well worth it. Great food and good service. Quick 8-10 min walk from the Dumbo ferry point.\nWe ordered a platter where you can choose any of the 5 dips/ salads. They serve it with Pitas that are freshly made and are seriously fluffy and fresh.\nThey do serve spirits and we took a bottle of Wine for the table - worked well for us.\nWe ordered Shish kebabs - comes with dips and pita … and a veggie 10’ Pitza which was a Mediterranean take on pizza - simple ingredients … and very tasty.\nGood smiling servers with great energy.\nWould go there again."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNYlE4czdad2FtUmtBRRAB",
+            "text": "Five friends and I had a fantastic meal here.\n\nWe ordered three appetizers including tabouleh, hummus, and the cheese and spinach. All were delicious, but we particularly liked the tabouleh and hummus.\n\nAll the entrees were also well reviewed but it seemed like the lamb dishes were the stars of the show.\n\nHighly recommend."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLWGF6SWlYNGVTMjRnRRAB",
+            "text": "What a wonderful restaurant. Great service fresh food perfect Middle Eastern cuisine highly recommend.!!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPTGgtNTJOLWRIbEtREAE",
+            "text": "We found this restaurant by chance and it was quite a discovery. We liked it so much that we repeated twice in the same trip. Highly recommend!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJcXI2NF94bkpIYjVBRRAB",
+            "text": "Delicious meal, wonderful presentation, and nice staff as well. All around experience both times I’ve eaten here."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPRzZ1TW1ubk92VU1nEAE",
+            "text": "I was treated really well here. It’s a charming restaurant. The food is really good. I’m not used to New York pricing so the food was $40 for their popular plate and a dessert."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJcWxzS2VFNW9MY3NRRRAB",
+            "text": "Amazing service , amazing food , amazing customer service. 5/5 place ; highly recommend!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLcS1tSWlMdDV5NGpnRRAB",
+            "text": "One of my favorite restaurants.\nChicken Adana and Falafel are amazing!\nDelicious food, great service."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZeHR6dVBnEAE",
+            "text": "Food was excellent .Authentic Mediterranean cuisine with just the right amount of spice.\nThe service was excellent and the atmosphere was very pleasant.\nI would come here again ."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZd3VEdnB3RRAB",
+            "text": "Amazing food and very nice service"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZNk16M1VBEAE",
+            "text": "Had a fantastic meal here! I ordered the lamb gyro and the chicken plate—both were packed with flavor and perfectly cooked. The portions were generous, and everything tasted fresh. The lamb was tender, the chicken was juicy, and the sides complemented the meats really well. I also had the fresh lemonade, which was super refreshing and balanced just right—not too sweet, not too tart. Great service and a clean, welcoming atmosphere. Highly recommend if you're craving quality Mediterranean food!"
+        },
+        {
+            "date": "6달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvbV83UWtnRRAB",
+            "text": "Gutes Essen zum vergleichbar günstigem Preis. Waren nach der Brooklyn Tour hier eingekehrt. Sehr nette Bedienung und frisches Essen."
+        },
+        {
+            "date": "6달 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcS1yY2xnRRAB",
+            "text": "Een van de weinige restaurants die je, in Brooklyn of NYC op internet, kunt vinden die een simpele menukaart heeft met frisse, authentieke gerechten. Foto’s spreken voor zich zelf.. Absoluut aan te raden!!! 5+"
+        },
+        {
+            "date": "6달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNTg2NklnEAE",
+            "text": "Super restaurant, super accueil !\n\nLes falafels et leur pain pita (qui sort tout chaud) sont incroyables\n\nAyoub, qui passe les commandes, est hyper gentil❤️"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3djVMbS1RRRAB",
+            "text": "It was raining a lot. We stepped into this cozy cafe and ended up ordering a meal for everyone. We loved the Mediterranean hospitality and food. We plan to return."
+        },
+        {
+            "date": "7달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3aWR2RmpnRRAB",
+            "text": "Parfait !!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3dE8yZG5BRRAB",
+            "text": "This restaurant is definitely one of my favorites! Not only is the food so flavorful and delicious the staff and service is also so wonderful. And when I say the food is delicious I mean literally everything! There is not one thing I wouldn’t recommend. They never disappoint. Even the atmosphere and seating is just so beautiful. The prices are also unbelievably affordable for such good food! This is a restaurant I would recommend to anyone even if they didn’t like Mediterranean food because they have something for everyone and nothing is neglected. Such an amazing place that’s worth many visits not just one."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3dEpLdVFBEAE",
+            "text": "Wonderful food and kind, friendly service!\nGet the Turkish coffee after your meal."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dDdiaG5nRRAB",
+            "text": "Food was only okay. Probably won't go back. High price for value."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dFB6M3pRRRAB",
+            "text": "Our favorite middle eastern place in the area, and possibly the best restaurant too. Ignore the pretentious other restaurants around."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRdUkybWlBRRAB",
+            "text": "Great food and service. Highly recommend"
+        },
+        {
+            "date": "10달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmbV9YSkJ3EAE",
+            "text": "브루클린교 맨해튼교 보고 미국음식이 느끼한 참에 찾아갔습니다 친절한 주인사장님과 팔라펠, 피타브레드, 케밥, 샐러드 모두 너무 신선하고 맛있었습니다 바클라바까지 야무지게 사서 먹었는데 정말 강추입니다!!! Tutt 뜻이 궁금해서 물어보니 칠천년전의 역사에 대해 쉽고 친절히 알려주셨습니다 따뜻한 가정식, 그리고 새로운 문화의 맛있는 요리를 드실분께 강력추천 드립니다!!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzOTcyVEZREAE",
+            "text": "An excellent Mediterranean restaurant.  Their in-house baked pitas are to die for. The Hummus and Babaganous were quite good as was the falafel. My favorite dish on our first visit was the lamb adana kabob.  They also have wonderful smoothies.\n\nThe service was great and the staff was very helpful. We will certainly return and would not hesitate to recommend Tutt Heights Cafe to anyone seeking a quality Mediterranean eatery."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6LU1YWHJBRRAB",
+            "text": "Close but off the beaten path so nice place to grab some food and drinks. The server was lovely. The food was great and well priced. Sat outside, there are a few tables on the street and enjoyed the sunshine. The falafel  plata was delicious"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuNTdDeWxnRRAB",
+            "text": "This restaurant was amazing! The lentil soup was absolutely delicious, just like the authentic Turkish style we’re used to. We also ordered 5 cold mezes and they were also delicious. We had a really great time here. Thanks a lot!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDMlpyNThBRRAB",
+            "text": "We placed an order via Grubhub from Tutt Cafe and picked up at assigned time. The order process was not smooth because it got canceled and duplicated when we were picking up our order.\n\nThe staff was friendly but not familiar with the issues caused by Grubhub which was frustrating. It was fixed in the end by Grubhub but was time-consuming.\n\nWe had their Green Pitza, Leg of Lamb Plate and Baklava. The food was decent especially the leg of lamb. The lamb was cooked properly with no gamey taste even my husband who hates lamb finished his plate.\n\nWe were disappointed with their baklava which was not the best in our experience and the filling was way too little."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyX295ZWxnRRAB",
+            "text": "Great little hidden place. Staff was great and friendly. Prices very reasonable for New York.\nFood was delicious!  Really also enjoyed the peanut butter and chocolate smoothie!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkbHBYQUZREAE",
+            "text": "Run of the mill mediterranean restaurant plus pizza for the locals.\n\nOne person was  working the front section and a little overwhelmed. Nice enough guy, but it's too busy to keep up any service.\n\nTry the Loomi, it's excellent!\n\nNothing stellar about the food or the presentation. The fresh pita was a nice addition, and the rice was good as well. The lamb was fresh enough, but a little overcooked and not seasoned as much as I'm used to when I'm in the Middle East. The flat wide skewer normally used for an Adana kebab was absent, so I got a round hotdog lamb stick. Fair enough, just different. The mixed salad had hardly any dressing, if any. At least it was fresh and diced small.\n\nThe mixed appetizer was a small portion and not worth the price to me. The onion chickpea side was a new one and not that appealing. I'm guessing that it is sumac on the pickled beats?\n\nI'm being a little rough on this restaurant, but I expected better in NYC. Comparing it to every other Middle Eastern restaurant in the US only, I probably should give it 2.5 stars.\n\nWould I return? No\nIs it worth a stop? Meh..."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3bFBfRzBRRRAB",
+            "text": "Food was excellent . Nice hospitality.. lamabajin pizza was yummy must try dish."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6LUtlYkR3EAE",
+            "text": "Food and service were both amazing! The workers were kind and accommodating to our group, and the food was fresh and delicious. Highly recommend checking this restaurant out if you are in the area!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDNDlhWW1nRRAB",
+            "text": "I enjoyed having the lamb kebab. The meat was a little dry and salty on it's own but eaten together with all the other parts of the meal tasted great. The pita bread is honestly the best part, they do it really well. Owner was really nice and accommodating to allergies."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREbS1YWXV3RRAB",
+            "text": "A true gem, Tutt is a longtime favorite of our family. The green pitza is my absolute favorite - it it topped with cheese, fenugreek, scallions, and leeks - addictive! Their homemade pita is outstanding, as are all the meat (shawarma, merguez, wings), salads, and small plates (homemade hummus and labneh, to name a few).\n\nThey serve beer and wine, service is quick and friendly, and the inside is clean."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNjbmQ3ZS1BRRAB",
+            "text": "Delicious food for a very affordable price. We loved the lentil soup and the Mediterranean dishes. Great location and atmosphere. We will come back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoNXFtQWR3EAE",
+            "text": "I ordered the chicken shawarma plate and everything was delicious. The chicken was well-seasoned, the pita was fresh baked, and the service was great! It’s a nice place to walk in for a quick lunch."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNya0ttZGNnEAE",
+            "text": "Good food off the beaten track, and in a nice quiet neighbourhood. Not too far from the main buzz at Brooklyn bridge and its immediate vicinity."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKaUtycnp3RRAB",
+            "text": "Food was very delicious, service was great. And I really like the atmosphere 🥰 Thank you 🙏🏻"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5emRHQTVnRRAB",
+            "text": "La comida fue excelente, de entrada comimos falafel, y de plato principal kebab. Todo estuvo muy rico"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaOExHNjl3RRAB",
+            "text": "DO YOURSELF A FAVOR AND EAT HERE!! Literally amazing, delicious, complex, flavorful food! Staff was lovely and kind. Vibe was super chill. I cannot wait to go back!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiZ3JhMW1BRRAB",
+            "text": "Nous ne pouvons que recommander ce délicieux restaurant méditerranéen, niché un peu dans les hauteurs de Brooklyn, tout près du quartier Dumbo. Le rapport qualité prix est excellent. L’accueil est également très chaleureux. Les plats variés sont faits avec des produits frais."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVcjVtUEZREAE",
+            "text": "Tasty food! Good portions and affordable prices. Pita was warm and very good. The meet has great spices. Recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0Z2IyeUV3EAE",
+            "text": "love this place! staff is super nice. great vegetarian options. the falafel is soo delicious, cooked perfectly and super fresh tasting."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnTUNRMnVVOBAB",
+            "text": "This food right here hit all the spots. Also I bring the crowd to any spot. Forgot to take the starting plate. But you see the damage.  Spot by"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRaUwzbzFRRRAB",
+            "text": "Food was great. We had the garden salad and lamb and chicken kebab with rice. The pita is also very fluffy and freshly made. Tasty food and a good setting in a good neighborhood"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCbFpDSU53EAE",
+            "text": "My first time here I had good food and good service. A young girl was waiting tables, perhaps on a break from school.\n\nBut my most recent visit--this week--I sat and waited precious minutes while an adult male employee looked at his cell phone and ignored my table. The restaurant was not busy at the time. After the meal, the waiter continued his neglect, and I walked to the counter to ring up the bill, since no check was delivered.\n\nIt left a bad impression. I need a place that is consistently good, not as spotty as here."
+        }
+    ],
+    "reviews_count": 73
+}

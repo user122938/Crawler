@@ -1,0 +1,572 @@
+{
+    "name": "Pitanga",
+    "place_id": "ChIJQR97JR1cwokRQ8bprxwgu0g",
+    "grid": "BK4",
+    "address": "207 Starr St, Brooklyn, NY 11237, USA",
+    "rating": 4.5,
+    "user_ratings_total": 496,
+    "phone_number": "(718) 456-1048",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOUmRVOXRiMkV5TFRCMVVFVndVSFZUTjFKTGNtYxAB",
+            "text": "Very nice sandwich shop."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJNFJuWkVSVGRxUTJWM1dXZHZXVkJyTXpSWVgwRRAB",
+            "text": "I'm grateful that I gave this place a try. I was happily wrong about my expectations. The staff provided good customer care. We enjoyed the total package their dishes provide. The place has a distinctive style!"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paeVlqazNOVmhvZVdoa2FVUlBUVVpKZUVaMGMxRRAB",
+            "text": "I really love the old setup and the food from the last time I visited in March. Acai was a letdown, not like I had it last time; the base was not consistent, a bit liquefied like it was blended.\nIt is still one of my favorites for the area whenever I visit. We shall see next time."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREcElYWWx3RRAB",
+            "text": "20 dollars for rice and beans and half avacado? No thanks. And waitresses are rude."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREcE8zQ1dBEAE",
+            "text": "That short girl with black hair who hardly speaks English is rude and looks upset most of the time."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210ek4xOWlZVFJWZFRCV2JuWk1iRmxQTm5ocFMzYxAB",
+            "text": "Horrible experience ordering take out from this place."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxWGRWaDFaMU5JZVZSM1JVZzNjVUpaYWtOT2NtYxAB",
+            "text": "Typical hip Brooklyn food at the hip Brooklyn price point, although the yuca fries alone make this place worth the visit. Grab a drink and an appetizer and visit with some friends."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkU1IzQnNhV3BTZFhoWU1XOXdlUzF2TTA5NWNWRRAB",
+            "text": "Working hours aren’t correct, showed up at 1 PM on a Sunday and they were closed :("
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWeGRTMHhORGw1UWpSTE5uVlJhemwzY2s5YWJIYxAB",
+            "text": "I’ve been a customer at Pitanga for five years now, and it’s always been one of my favorite spots for breakfast. My go-to order is a smoothie, breakfast burrito, and pao de quiejo. I’ve brought friends and family here over the years. The food is consistently great and it’s been a place I’ve loved supporting.\n\nThat said, I’ve really noticed how much the prices have climbed. My most recent visit came out to over $50 for a breakfast of one. A few years back, that same meal was closer to $30, which already felt pricey.\n\nPão de queijo is now $9 each! It just feels out of step with the spirit of pão de queijo, which is usually an everyday snack.  I’ve actually started making my own at home and for the same $9, I can buy the ingredients for an entire batch.\n\nI’d happily be here every week if the prices were more reasonable. But as much as I love the food, I’m honestly not sure if I should come back. I get that New York is expensive, but the prices here have become so high."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GRVNFMWtUR1k1U0VjdFRUQTFaMHB2Wm1kak1HYxAB",
+            "text": "Celebrated a birthday brunch at Pitanga with family and the food was delish. Everything was made to perfection. Service was excellent and we just loved the chill vibe."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sc1VsRTJaa1owWWxCRVFuRXpORGQ0TTJsQ1NFRRAB",
+            "text": "Sabrina looked after us so well! Great well priced food for a breakfast and brunch!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOQ1EzWnJla05oTWpkeVRYUlBjalJoTW14Qk1IYxAB",
+            "text": "smoothie had huge chunks of unblended ice and coat $16, no thanks"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WamVEWTBXVEIwZWtweGVtOU1WRU53U1hoRFJGRRAB",
+            "text": "by far a go to place for me so many options and lovely food, also enjoy the fact that they aren’t too fussy about substitutions .. been going here since before they took over the space on the right, the quality has remained consistent i’m obsessed with the food 10/10 it’s not even a question KEEEP UP DA GOOD WERKKK ! thanks always for a fab experience"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0NmFrcHNSV3gxY0RSblYyeERUbVl5YVcxaFVFRRAB",
+            "text": "The best açai in NY!\nLOVE IT"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWSlNtMTRUemhCUjJSd1ZFUjZabVZMZEhwb2VIYxAB",
+            "text": "Went here for breakfast with a friend and really enjoyed the food—especially the yuca fries, which were my favorite! The place has a cozy, welcoming vibe that makes it great for a casual bite. I’d definitely come back for the food alone.\n\nThat said, the service was just okay. It felt a bit off having to pay and tip at the time of ordering, especially without knowing what kind of service to expect. Nothing about the service stood out, but it wasn’t bad either—just not particularly memorable.\n\nOverall, I’d return for the food and the ambiance more than anything else."
+        },
+        {
+            "date": "4달 전",
+            "language": "pt",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sak0zaFFZMmc1ZUc5NlRIRnVTbTl0VjJ0TWVsRRAB",
+            "text": "Great place for açaí"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200NGJXUnJUMTg0VUhocldqSkpTemg0TTA0eVZFRRAB",
+            "text": "Nice spot and food"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKM1ExQTFYM2RQTUdKT04wbG1iV1k0VTJkdFdsRRAB",
+            "text": "I come here frequently for their Pao de Queijo (Brazilian cheese bread) cuz it’s always soooo good. Good coffee too."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKLXpoOGUzaTl5TnF3RRAB",
+            "text": "feels like I’m in LA — fresh bright spacious airy and healthy food. Yucca fries down boots, iced ginger lemon tea is tea, pao de quejo (sp?) on period."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VONnc3Nkh4MnQzY1J3EAE",
+            "text": "I have been going to Pitanga for years and honestly always bring my friends and family here. This time I ordered a chicken sandwich and im 8 months pregnant so it wasn't agreeing with me, I took one bite and asked to switch to an egg sandwich the restaurant told me since I took a bite of the sandwich I couldn't get it taken off the bill.... I thought this was kind of ridiculous and poor service especially being that I'm pregnant and literally took a bite."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJZVlnZkRPemVxQ2FnEAE",
+            "text": "Excellent food and perfect, warm service. A great discovery. I recommend it."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VKdmYzcEhqcjlfdUxREAE",
+            "text": "Wanted to be more impressed - atmosphere was lovely, fresh juices are great. Terrible matcha - grainy and brownish green. Underwhelming breakfast sandwich with mildly stale croissants."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcnN2V3FBRRAB",
+            "text": "Recently went to a birthday party and we stopped here for a nice healthy lean tasting meal. We usually go for lunch this time it was an earlier dinner. It was healthy and tasted good. Like home. If you make good food at home and you want to keep that wholefoods taste on the road. Try these folks!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMXZTd2JnEAE",
+            "text": "Everything was perfect! Amazing food, so many options to chose from and all looked delicious\nService was really good too!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMzVlaFZREAE",
+            "text": "Charming brunch spot with flavorful dishes.\nStopped by Pitanga for brunch and tried the French toast—very delicious overall, though the banana topping wasn’t quite my thing. The coffee was solid, and the ambiance had a relaxed, welcoming vibe that made the experience enjoyable. Service was a bit on the slower side, but still accommodating and kind. Would return to try more from the menu. A cozy spot with real potential."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJNDRPSDF3RRAB",
+            "text": "Visiting a friend and popped in here for Saturday brunch- thrilled with the he bee bee bowl and chicken sandwich."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJcUkydUJ3EAE",
+            "text": "Solid, stood strong through c lockdowns, neighborhood staple. The cheesy bread is a must. I get the verde delight juice with extra ginger. Lots of seating room for groups now"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3OFpIYWNREAE",
+            "text": "The ambiance and music was very nice. The food was delicious but pricey for the amount of food. I did enjoy the strawberry raw vegan cheesecake."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3a0lxVEdREAE",
+            "text": "Best brunch site in the neighborhood. Love it !!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3NE5hWGtBRRAB",
+            "text": "I ordered a smoothie and it was full of banana and ice chunks. I could barely get it out of the straw and the texture was gross. I kept trying to drink it to see if I could get over it but it was too chunky for me so I asked if they could re blend it or make me a new one that was blended properly. They told me they couldn’t because I had already drank a ‘bunch’ of it… look at this photo and tell me this is a bunch. If you order a smoothie here make sure you specify you would like it blended well! Super annoying."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3ejRUcU1REAE",
+            "text": "Run do not walk. This spot is nearly too gourmet."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3el9pejNRRRAB",
+            "text": "Pitanga offers a superb dining experience. The classic cocktails are amazing. Caprinhas are a must. Frieda took amazing care of us and each suggestion she made was better than the last. With amazing food, atmosphere, and service it’s hard to say what was the best element of our experience.10 out of 10 must try. Will be back."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbU9qMGNBEAE",
+            "text": "First of all, Johely was amazing. She made the whole experience great. Second of all, get the fried yucas. Only place in the US that make them and they make it right."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPc1pid2RnEAE",
+            "text": "4"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNncDlQNUZREAE",
+            "text": "Pretty good"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnczlxN21BRRAB",
+            "text": "You taste good but the prices are distasteful.\n\nIf you can afford $10 fries - go for it"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnTUNnbktWTRAB",
+            "text": "Average kinda bland food"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBNWNlOS13RRAB",
+            "text": "My review is specifically for their cheese bread, Brazilian Bowl, Mimosa and Brazilian music.., 100% spot on !!!\nGo and enjoy ! I would definitely stick to Brazilian dishes!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBOGVtUGNREAE",
+            "text": "Vibe was weird. Very “large restaurant group” vibe. Not really bushwick. (Also not sure the reviews aren’t planted.) Food was fine, drink was fine, service was eh, just not really “bushwick vibe.” Not very interesting."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfeGFQc1V3EAE",
+            "text": "The food is high quality. The service is always on point."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfbC1MN2p3RRAB",
+            "text": "Great service! Great food!!"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmcDhhZ2t3RRAB",
+            "text": "Breakfast and acai bowls are fresh and decent. Overpriced though for what you’re getting. $5 for a tiny piece of bread is a scam. and they only give you HALF the bread for the breakfast bowl."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfMWNMbXN3RRAB",
+            "text": "Good food but small overpriced portions and the wait staff could not care less. I don't believe this restaurant should encourage tipping / allow tipping on their payment device based on how their employees behave around customers"
+        },
+        {
+            "date": "9달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmMTYzRHVnRRAB",
+            "text": "It is a spectacular place, I love it, the products they use are of great quality, the customer service is excellent, it is a place where you can stop by for breakfast and in the evening it becomes a nice place to enjoy with your partner or friends, you have to come to enjoy the variety of healthy food they have, the combinations of flavors are spectacular.\n\nes un lugar espectacular, me encanta, los productos que usan son de gran calidad, la atencion al cliente excelente, es un lugar donde puedes pasar por un desayuno y en la tarde noche se convierte en un lugar lindo para diafrutar en pareja o con amigos, tienen que venir a diafrutar de la variedad de comida saludable que tienen, las combinaciones de sabores son espectaculares."
+        },
+        {
+            "date": "9달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmNXJlVXFBRRAB",
+            "text": "Es la segunda vez que voy y me encanta el ambiente pero sobre todo la vibra y servicio de los meseros; hoy especialmente Conner fue muy especial con mi hermana y conmigo.\nMi nueva sopa favorita en la zona; la sopa de lentejas."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmMHRfbGJnEAE",
+            "text": "Quality, fresh food, healthy ingredients. Juices and smoothies are delicious. Menu has great options. Dine in and takeout/delivery."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2X0tQaTR3RRAB",
+            "text": "Came here on a Wednesday before noon (party of 2) the place was empty. The service was very mediocre we were the only people there and another couple came in after us and walked out because of the lack of service and our food was tasty but came out cold. They do have vegan options which was our reason for coming here."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2b01Td053EAE",
+            "text": "Excellent brunch at this popular, healthy-but-yummy hipster oasis. Kind service throughout from all. Tasty veggie burger and salad. Fine bar and atmosphere. Great cafe attached off dining area. Welcoming vibes for all. A case study for observing a Bushwick class in its own inhabit. Latin infused flavors. Bright natural light. Great drink options. Outside seating if the weather agrees."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2NnVuN3NnRRAB",
+            "text": "I had the loveliest beverage, snack, and dessert here this past weekend! Laurel and Larry served my good friend and I—they were so warm and inviting. The drinks were superb, and our food came out in record time. I highly recommend this restaurant and hope anyone who goes there gets to experience Larry and Laurel!"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzdi1lS0hREAE",
+            "text": "I have been wanting to go here several times cause it looks beautiful from outside and pretty busy, but honestly the food experience was mediocre and even lame.\nWhen you go to a place and you order “the house breakfast” you expect to get the best of the house. I ordered the “Brazilian Breakfast” (I’ve been to Brazil more than ten times), well the Brazilian breakfast at Pitanga is a tiny metal pan, with a base of 6 spoons of a tasteless beans, that seems to have been taken straight from the can, some chopped tomatoes and onion of top (two spoons) a couple pieces of avocado floating there And  with 1 single baked (dry) egg on top. A side of a (half piece!) of cheese bread comes on the side to make this a little sadder.\nWe also make order a side of Yuca fries (that was not real yuca but a processed paste of yuca - McDonald’s quality )\nThe service and the space were good overall. They just need to improve the level of the food that was VERY far from being Brazilian or even standard quality at least."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQaHZxZldBEAE",
+            "text": "I think we found our new favorite brunch restaurant in NYC. Such a delicious, clean meal with super fresh ingredients. We loved the restaurant space, perfect for a brunch or dinner date.\n\nEverything was made to order, easy to see why this was recommended by RESY under their “Best of Brunch” and Best of Brooklyn” lists.\n\nWe absolutely loved:\n\n🥥 Coconut Love Smoothie\n🥚 Poached Eggs on Toast\n🍗 Chicken Sandwich and toasted focaccia\n🍌 French toast with caramelized banana\n🫘 Breakfast Burrito"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIbG9lQzR3RRAB",
+            "text": "Delicious ! The food is always well presented &’ fresh. Organic, healthy, tasty, and filling. I haven’t tried dining here for dinner yet; however, the breakfast / brunch here is phenomenal ! I highly recommend, you won’t regret it !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3cXVUeHZ3RRAB",
+            "text": "I don’t often opt for vegan fair mostly because I never tend to feel satisfied after a meal so it took me awhile to give Pitanga a try. Eventually though you run out of new breakfast spots and one must succumb to Pitanga. Overall this space is very large and welcoming for what is common in the area and I was very impressed with the layout of both the cafe and restaurant. The service was good and attentive and everyone seemed to be enjoying the space allotted by restaurant. As a carnivore you won’t find much you’ll to get excited about on the menu but I’m sure you can find something to get outside of your norm. Overall the food was pretty good I do think the portion sizes were a bit small for the price though."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaNW82dDd3RRAB",
+            "text": "I had a fantastic experience at Pitanga! Their vegan Caesar salad and açaí bowl were both delicious and made with fresh ingredients. The atmosphere was cozy, and the staff was friendly and attentive. I appreciate their commitment to offering vegan options. I'll definitely be back for more tasty treats!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVOF9HT253RRAB",
+            "text": "Already long-established as a standby for hearty and wholesome breakfast and lunch fare, now Pitanga brings the same philosophy into the dinner space.  Their comforting classics, updated traditional dishes (the moqueca will not soon leave my mind), and vegan friendliness will leave you feeling both treated and nourished!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4eVpmSkhnEAE",
+            "text": "The sandwiches are delicious and very well-seasoned! I had a turmeric shot and a Macha latte, which was also good.\nIf you never had Pão de queijo before, please try it!\nI want to try the acai bowl next time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiODl5ZVRREAE",
+            "text": "We had the opportunity to grab late brunch here and were pleasantly surprised with our entire experience. We hadn't made a reservation but were able to be seated immediately. We looked over the menu and decided to share an order of yuca fries which I had never had before. These are some extremely tasty fried fries that are served with a delicious dipping sauce. I decided to go with the breakfast burrito for my main dish and was also decently filled up given that this was a very well filled burrito. The space itself is very modern and sleek - giving off the vibes of an art gallery that was transformed into a restaurant. They also have a cafe space adjacent to the restaurant as well. A great place to visit for brunch with friends."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPX2VENWNREAE",
+            "text": "In Brooklyn for the weekend with a friend who lived in the neighborhood a couple years ago. This place feels like home. This spot was so cute, food was incredible and the service was friendly and top notch.\n\nThey had gluten free options like the Banana Bread which was also Vegan. This place is a dream. Hope to be back soon. ❤️✨"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGcDYteWhnRRAB",
+            "text": "I was happily surprised to learn Pitanga now serves dinner. Since I was a fan of there breakfast, I tried it out. Pitanga's dinner is a great mix of Brazilian favorites and American fare. There are both vegan and meat options to choose from. Each item I tried was super flavourful. I also loved their drinks &dessert."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaMHJiNVJnEAE",
+            "text": "Pitanga NEVER misses. They are easily one of Brooklyn’s top healthy cafes. I’ve dined in and also ordered delivery. Both were flawlessly executed with delicious food.\n\nThe açaí bowl is the perfect size, perfect temperature and perfect ingredients and toppings. The flavor is exactly what you would want in an açaí bowl. Sweet enough but not overpowering.\n\nTheir cafe drinks are also delicious and perfectly made. The staff does a great time getting the drinks out quick and efficiently.\n\nThe smoothie (the berries one) is so delicious and fresh. I feel healthier as I’m drinking it!\n\nThis spot is 10/10 in every area. I’m excited to be a frequent customer of Pitanga!\n\nPs. Look at hot perfect the delivery is… have you ever received drinks that haven’t leaked at all??? Amazing!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURydzVPZEdBEAE",
+            "text": "I’ve gone to Pitanga consistently for YEARS! They have an incredible staff and all of the food and drinks for every meal are PERFECTION made from fresh ingredients and are absolutely delicious!\nI highly recommend their coffee, pao de quiejo (Brazilian cheese bread), and their acai bowls are the best I’ve ever had. The yuca fries and dipping sauce are also insane! Love. You MUST try for yourself!"
+        },
+        {
+            "date": "2년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKaGJuU1lnEAE",
+            "text": "Ce café était incroyable. Une carte varie et originale avec des produits frais, un cadre apaisant et très lumineux, des serveurs très gentils …. Je vous conseille vraiment de passer par cet endroit si vous voulez travailler, manger entre amis …."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlNmJUUVpBEAE",
+            "text": "Las ensaladas estaban muy ricas, pero por el tamaño están costosas. The salads are expensive but delicious. El super vegan burrito estaba delicioso, siempre me fijo en que no venga grasoso y este no lo estaba. La crema de ahuyama sabe natural y con la cantidad de sal que debe tener."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqcHFXdEFREAE",
+            "text": "They charge 4.50 for cold brew and this is how small it is. Every item on the menu is overpriced. I've given this place many chances with menu items bc I really want to like this place. Id maybe understand if things tasted superior but they just fall flat in taste usually. Other than that service is good and the space is nice."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXbXVpb2F3EAE",
+            "text": "Amazing amazing bistro, café. People are just extremely nice. I finally met the owner (: who took care of us.\nJust good vibes, ahhhmazing acai bowls, quinoa bowls, breakfast hot sandwiches, delicious cheese muffins & more.\n\nThank you 🍃 🍃 🍃"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuOHIta0t3EAE",
+            "text": "Loved the chicken sandwich,  cappuccino was just ok, but will definitely go back for the sandwich,  sweet potatoes and that delicious aioli sauce"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhc0lEVUZ3EAE",
+            "text": "This place is amazing! Came in for the first time and had the Avocado Grain-free Breakfast.  The plate presentation was immaculate and the food was satisfying and delicious.  I also had the GF banana-nut bread which was very tasty as well. I look forward to coming back and trying something new."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxNUtINHBnRRAB",
+            "text": "Absolutely delicious! Their matcha latte was so tasty and the bowls are super fresh and delicious! Highly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsaTc2QmZBEAE",
+            "text": "I am the No.1 Fan of brunch pitanga, the best place, but today I went to dinner since they now have dinner hours, I must say that the dinner is as good as the brunch, wow with the food!!.. it is INCREDIBLE . The place is perfect for a date, it is romantic and perfect. The staff is super friendly, the Bartender Frida is super friendly and the owners are very kind to all their customers. I will definitely return as many times as possible. I recommend “The Warning Olives” and Coxinha for starters, and for the main course “Local Chicken” is highly recommended, it is super delicious."
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvNTRDMU1nEAE",
+            "text": "If you're like me and love acai bowls, then you must know that this place definitely makes one of the best I've ever had. The ingredients they use are always fresh, organic and the granola is homemade. I tend to always go for the \"Peruvian\"…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzdk5TR0hnEAE",
+            "text": "Clean eating but kind of boring for the price. Good for dietary restrictions like gluten free stuff. Just not very exciting and not very large portions so didn't like the price was entirely justified. The non alcoholic drinks are a rip off for sure. $12 for like 4 oz of juice essentially. That was a little steep. Service was very good however, atmosphere was nice. Went for brunch so the wait for the food was a bit long. Fresh juices were very good."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUdmI2U013EAE",
+            "text": "One of my favorite breakfast places of all time-healthy, delicious, lots of vegetarian/gluten free options and many vegan as well, always consistent. SO glad they opened for dinner - finally got to try it, and it did not disappoint. Some of the familiar favorites are included as well as some new ones, and we tried the fish stew. It was one of the best things I've eaten in a long time. The service is great and the owner is so nice, spent lots of time with us. The deals looks great too, like jazz night and burger night. I hope more people try out their dinner menu!!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNNC16N3F3RRAB",
+            "text": "Incredibly unwelcoming experience in this cafe. Upon arrival, the server at the counter proceeded to talk to a friend (who had actually entered after us) rather than welcome us, and we seated ourselves. When we went up to the counter to order, the same server excused himself, saying ‘give me a minute’ — it turned out the pressing duty he was attending to was examining that same friend’s ring! When he did finally come back to take my order (after five minutes of me standing idle at the counter), his whole demeanour smacked of me being an imposition on his time.\n\nIt then turned out that the cafe had run out of certain menu items we wanted to order; while this in and of itself is fine, no apology was given — not fine.\n\nAll of this may have been balanced out if the food had been of a superlative quality. It was not. We ordered the Brazilian breakfast (which, by the way, was served to us while the server was on the phone...) and it was little more than reheated black bean soup. Such little care had been taken in its preparation that I found eggshell fragments in my meal (see attached picture).\n\nOverall, unless you A) know the waitstaff personally; and/or B) have a penchant for underwhelming and overpriced food, I would suggest that you avoid this place."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNZOVBpOVd3EAE",
+            "text": "Healthiest breakfast I've had in NYC in a long time. Fruits and vegetables used are fresh. Meals are light and well prepared. There is a price for that however. Not something you can afford everyday for some, but it is a healthy and refreshing treat.\n\nHa-bee-bee Acai and Big Healthy Bowls are a must try!! You can customize them to your liking. Organic is optional at a higher price. They close are on 6pm and are on Uber Eats."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzdHRtTjV3RRAB",
+            "text": "This place is heaven. I tried for the first time a bowl like this, and it was p e r f e c t (delicious, and affordable price, around $11). The environment was great, peaceful and pleasant to be there). Then I tried the \"pan de queijo\" (cheese bread) and I almost cried: just exquisite!!!!!!! Looking forward to go back."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwdExIZGR3EAE",
+            "text": "Last month I took a short trip to New York with my sister and we got shakes here. The next day we came back for shakes and food. Everything was delicious and the service was fantastic."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpOWMzRVN3EAE",
+            "text": "If you want the best açaí bowl in the neighborhood then this is definitely the place to go! My favorite is the Pitanga bowl. The only reason I’m not giving 5 stars is because they don’t have flavored syrups for coffee drinks. So if you like…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXMzZ1b1VREAE",
+            "text": "I just recently moved here from Maui, Hawaii and we have our share of açaí bowls. You can find them literally everywhere. I had thought those were the best açaí bowl but I was wrong!!! I had the Peruvian açaí bowl here and was blown away, it’s hands down my favorite açaí bowl to date! The flavor was great, the base was the perfect texture & temperature! I loved everything about it. I’ll definitely be coming back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCcXM2VUFREAE",
+            "text": "Love this place sm!!! Best acai bowls, pastries, smoothies, coffee, and they put extra healthy stuff in your bowls that a lot of other places leave out. Super on point with pickup and delivery too. Love pitanga 🫶🫶🫶"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaZ2RMSTB3RRAB",
+            "text": "From the employees to the actual taste of the menu items, this place is an immaculate gem. I will come here as much as I can. Very authentic Acai as well 🔥🔥🔥❤️‍🔥"
+        }
+    ],
+    "reviews_count": 80
+}

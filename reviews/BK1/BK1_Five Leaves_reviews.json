@@ -1,0 +1,712 @@
+{
+    "name": "Five Leaves",
+    "place_id": "ChIJ1dUY9kRZwokR7lu8aF4zj-Y",
+    "grid": "BK1",
+    "address": "18 Bedford Ave, Brooklyn, NY 11222, USA",
+    "rating": 4.3,
+    "user_ratings_total": 2530,
+    "phone_number": "(718) 383-5345",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSlFqWXdSWEJ1VTBKcWFVZHBlVXhXVjJ0clowRRAB",
+            "text": "Iconic breakfast and brunch in North Williamsburg with an incredible burger, first ever I had with an egg on it and never turned back."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJM09FNDVOa3RZUjBkRE5HOW5XblZhYWw5T1VuYxAB",
+            "text": "One of my fav place in Brooklyn"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGS2RVZHhUVEpYT1VGbmNYTlFXbFJEYzNrd0xXYxAB",
+            "text": "Such a great spot! The ricotta pancakes were amazingly fluffy and just sweet enough. The crispy chicken sandwich and fries totally hit the spot. Staff was nice even though it was packed, and the outdoor seating’s perfect for a sunny day."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBd1VrMDViaTFJVERKV1JuSTBWalpCUTIwd1JWRRAB",
+            "text": "I skipped this place for years after two visits, but the third was worth it. Employees show wonderful warmth and recommended truly delicious food. I enjoyed what I ate and who brought it. The service here stands out above everything else! The feeling here is complete satisfaction."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsM2NubzJTbGR3ZWxWWVEycE5WVFpxVDFKRFkyYxAB",
+            "text": "Been coming here since 2008 and it hasn’t changed a bit. It’s just perfect"
+        },
+        {
+            "date": "2주 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wcmNGaEdhR2RJTWtoR1NqSkJkM0pITm1sd1QxRRAB",
+            "text": "金曜日の朝、リコッタパンケーキを食べに来ました。\n表面サクサクで、中はもっちりと厚みのあるパンケーキはとても美味しかったです。\n一緒に頼んだアメリカーナも濃いめでパンケーキによく合いました。"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxSVpYazNPVEZDWjFWR1QweFdVREpCVlVobVYyYxAB",
+            "text": "Definitely will back really delicious food"
+        },
+        {
+            "date": "2주 전",
+            "language": "da",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oSWRFeHZSVXB0WVhZd1pVWktOVkp1UTFNdFJrRRAB",
+            "text": "Lækker mad og god kaffe. Super betjening. Vi sad udendørs og nød efterårsstemningen."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pndFNHZHphM280TVU5WVlWbGxiMjh5WTBkaGRXYxAB",
+            "text": "I stopped by for lunch and they had a nice little sidewalk patio to sit on. Several people stop by my table to make sure I was taken care of so the service was excellent. I had to BLAT sandwich and it was awesome."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKd1JVbDVSM2xtZFhCVFlYRnNOekUyTUVKTWVIYxAB",
+            "text": "Fantastic morning experience!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVmRGb3hORFY0ZFdkR2FGZG9hME5WVkhkNVRWRRAB",
+            "text": "Ricotta pancakes were good soft & fluffy pancakes"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ocFMxOW9SbVpKZGtOV1FtcENZMk5NVUdkTlVsRRAB",
+            "text": "Used to love this place a lot long time ago but not enjoying anymore , food was mediocre"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0elZFZzJORVJuYmtOT1YxOWtUSE5aZURSWVJYYxAB",
+            "text": "five leaves was the first restaurant i visited on my first ever trip to nyc in 2017.\never since then coming back here has become a tradition.\n8 years on and the spot is still just as warm and welcoming, albeit way more busy which is incredible to see because the place deserves to thrive. easily my fav spot in the city (i fully blame the ricotta pancakes).\ni haven’t been to nyc in years but coming back here today felt like coming home in so many ways.\nthank you cody for taking such great care of me and thank you everyone at five leaves for even making a tourist feel like a part of the community. 🫶 (also pls restock those tote bags, the nation needs them!!)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210aVVVTmxkRFpKUW1aRFkyVXRVemhuWDJKWGVXYxAB",
+            "text": "This place sets standards others should follow. This spot speaks to those who appreciate good meals. The restaurant deserves its good reviews. Skilled staff who gave perfect suggestions and entertained my family throughout dinner. Five Leaves has secured our family's return visits."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGb2FUQk5VR296Y25kUFYxTTVZM0ZJZFRSMFUzYxAB",
+            "text": "Breakfast at Five Leaves in Williamsburg was fantastic! Fluffy ricotta pancakes, fresh granola, and great coffee. Cozy, relaxed vibe with lots of natural light. Friendly, laid-back service. Perfect spot for a leisurely breakfast or weekend brunch."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sZlVHWnNPVXhLWld4Q1JWUTFWVTlOVUhacFMzYxAB",
+            "text": "⭐️⭐️⭐️⭐️⭐️\n\nFive Leaves never disappoints! The Moroccan Scramble was bursting with flavor—perfectly spiced, hearty, and balanced in every bite. Pairing that with their Ricotta Pancakes was absolute magic. The pancakes were light, fluffy, and indulgent, with just the right touch of sweetness—truly next level.\n\nThe vibe is classic Five Leaves: lively, stylish, and welcoming, with a menu that always manages to impress. If you’re in the area, this spot is a must for both comfort and creativity"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkV1F6VnBNR2hxYWtWaGVrdHJURGh2VlRGNGVHYxAB",
+            "text": "Just sat for 8 minutes without a waiter so much as look at me. Place is half empty and a couple of waiters having chats with buddies. If they can’t get the basics of service right they def can’t get the food right. Nice location-menu did not really entice. Didn’t stick around to try the food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWNFF6VmpTMlJVYWtzMk5tMWlUVEpRTTJKZmFWRRAB",
+            "text": "The best FRENCH DIP. Ever but you have to get in before 3."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kNWMzWTJVUzF5TVdkVFRHWTVSRkJ2ZUdGeFJtYxAB",
+            "text": "arrived right in the golden sunshine hour yesterday during happy hour. popped my head in and was greeted immediately by a kind woman who plopped me at a table in the sun..oh how i love the sun!\n\ni hovered over the happy hour menu, torn between fish and chips or falafel, when camilla???my server (if memory serves she was wearing a blue striped dress and was very kind!) came with perfect guidance. falafel it was a decision i didnt regret soooo delicious the portion was just enough to tide me over before a late dinner.\n\nnot too pricey either, so def recommend for happy hour energy and a cute little space for a solo moment. i sat, watched the world drift by, and had to scamper off when a message buzzed through, but what a tiny, lovely slice of time at this place thanks for all!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOb2QxTnBTRUp6ZGxaamRsb3lXalp2Y0hGQlRsRRAB",
+            "text": "Food was decent but service here sucks. I wouldn’t return. There are so many other better restaurants in the neighborhood. The outside seating is very uncomfortable and the waiters don’t greet you."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OdVkyeFdkVFZGWlVGMFpEaFBXazVDU0daSWNIYxAB",
+            "text": "Best pancakes in Brooklyn hands down. The burger is good too. I will always come back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkNk5YQmxhMWh1Y1hSeWNHZ3pUVzFEZWpaU2JIYxAB",
+            "text": "The chef understands what makes people truly enjoy eating. I genuinely liked this spot. Service at this restaurant is memorable. Really yummy and the plates are loaded. My regular choice. We're excited about coming back again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wdE1YbFVlamxGU0Y5cGIwWTFWRzlCTjJka05YYxAB",
+            "text": "Their brunch was decent. Overall pretty tasty although the fries too salty.\n\nService was ok. Could be more attentive.\n\nThe vibe was off. Very cramped and chaotic. Not a relaxing brunch. But we were seated inside. Maybe the outdoor seating is better.\n\nIn conclusion: meh"
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wNWVFNUVkRkZvYm5WNVozSnFRVWMzVkZjNE9WRRAB",
+            "text": "Lieu visité plusieurs fois, le genre d’adresse qu’on voudrait garder que pour soit ! J’adore ++++ je recommande le blt mais aussi le bacon, les hash browns, ou les pancakes : accrochez vous ils sont fat !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOME16VmZUaTFCUjNWdWEzSTJibUYwV21oVmRuYxAB",
+            "text": "You know a place is memorable when a single dish stays with you—and the Five Leaves burger does exactly that. It’s a bold creation: grass-fed beef, a fried pineapple ring, house‑pickled beets, harissa mayo, and a sunny-side-up egg all stacked on a ciabatta bun. The combination—sweet, savory, rich, and unexpected—works in delicious harmony.\n\nMore than just the food, Five Leaves carries a distinct personality. The interior blends vintage nautical charm with urban intimacy—think cozy corners, worn textures, and a relaxed, hipster‑friendly vibe."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psV09XbEtOVTFIY21ablpIRTRiV2xZT0hreWQwRRAB",
+            "text": "Fries was so good and the watermelon in the watermelon salad was very ripe.\n\nBurgers were gigantic and hard to eat.\n\nService was super super slow though.\n\nLots of out door seating all in the shade."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFeGJ6VlhRek5WVGs5R01XdFZOa3gyTFV4c2JFRRAB",
+            "text": "Delicious and great vibe!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SZllVMDJaMmxqUzBvemFEWTJRbDlTTkZOcE1sRRAB",
+            "text": "Don’t fall for the hype especially if you actually care about flavor.\nI came here on my birthday craving sweet pancakes and left seriously disappointed. I know pancakes usually have a simple flavor and that’s fine. But for $22 you would expect something more. A hint of citrus a touch of something fresh anything to make it feel worth it. But no. Just fluff with zero taste. The strawberries had this weird garlic-like flavor the bananas were brown overall a total letdown.\n\nEven the table next to me sent theirs back. I don’t know why but it seemed like they also noticed something off.\n\nDon’t trust places hyped by people who grew up eating bland food and now call anything trendy amazing. If you have a real palate especially if you are Brazilian this place will likely disappoint you."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21seVZXNUxhemx0TjFSMVZsRXljRVIwY25WQ2JsRRAB",
+            "text": "Solid Brooklyn restaurant, great walkable area and awesome food & drinks."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSVJUWmpSRkJGYjJkMmQzWkpVR3QzY1RWNE1GRRAB",
+            "text": "❤️"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sdlNXWlVWMGRzVFUxelgxQXlNMVpyVGpSTVdWRRAB",
+            "text": "Long wait time for food to come. Food came out cold and isn’t all that great. Tad overpriced for the quality and drink sizes."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwRmRHNXNhVlpmTW5Ob2NIZGpiblpFVVVGTlltYxAB",
+            "text": "Came here for brunch with my friend and our dogs - the food was good but unfortunately we had a bad experience. We sat outside (of course because we had dogs with us), but it was a very hot day and there was no shade at our table. We asked multiple times if we could move to a table with shade, but kept being told those tables were saved for bigger parties. We were almost done with our meal and no one had been seated in the section we asked to move to. Eventually, we just asked for the check and packed up our food. I'd understand if there weren't that many tables available or if people were waiting to be seated, but that was not the case at all."
+        },
+        {
+            "date": "3달 전",
+            "language": "ja",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25weVNXOUtTemRUVHpnM1pUZHNhR0pyZDJ0d1gyYxAB",
+            "text": "お店の雰囲気も店員さんもおしゃれでブルックリンらしさを感じるカフェでした。食事もコーヒーも美味しかったです。\n平日の午前9時台に行ったので、空いていてゆっくり楽しめました。"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwek1sZHZNRFpDWVVaMlRFOTRVVjk2U0daT04yYxAB",
+            "text": "Great food with friendly service"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ca2RVNUVZMlpaUTJzdGN6RlpOa2RSYTA5eE5HYxAB",
+            "text": "Amazing service, and the place has a good vibe. The only small \"complaint\" is that the plate I ordered was a bit smaller than I thought.  The oysters were very fresh and delicious."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSUVVreG9NV1o0YUVGelYyRlliR3BSU0dOM1ZtYxAB",
+            "text": "Brunch Vibes Worth the Hype!\n\nHad brunch with my cousin and let me just say, every bit of the hype is so well deserved. We went on a weekday around 11am, so it wasn’t too busy, which made it even more enjoyable. From the moment we walked in, we were greeted with a warm welcome by the friendly staff. That energy sets the tone right away!\n\nI’d read about the Ricotta Pancakes and had to see what the fuss was about, they did not disappoint. We also had the Grain Bowl with a side of steak and halloumi, and every bite was packed with flavor and texture.\n\nI don’t drink alcohol, but I love\na good mocktail. “Waters of Life” was a winner—especially if you’re into bold ginger and turmeric flavors like I am.\n\nBest part? You can treat yourself without breaking the bank. Trust me, this spot is a gem. I’ll definitely be back soon!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWcFZFRkVTMU42TlRWT2NFUnNTMXBYWTNKWFdrRRAB",
+            "text": "Was excited to come here cause I’d heard good things. Shame the wait staff were rude and pass aggressive (and if you think I’m being sensitive so many reviews of this place echo the same sentiment.) Felt super uncomfortable while eating here - shame cause the food was good."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGb2EzUkZUMFJxTkdKclkxZzRTakZPVEcxVmVrRRAB",
+            "text": "Very bad experience over all.  Server and host were rude and seamed inconvenienced by having to retrieve an extra plate of lemons for the painfully mediocre mussels. Can’t but help but think as the only Black and visibly trans patron in this establishment that the real inconvenience was having to serve me. The difference in how I was treated compared to white patrons was palpable. The host seemed annoyed when I asked for a table and the server literally changed his tone from bright and welcoming to flat whenever he had to address me. The restaurant was half empty so the lack of service cannot be blamed on staff feeling overwhelmed. I left a 40% tip in hopes that the tipping pool takes care of the people of color working in back of house. If you’re Black or a person of color steer clear."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCNGNqRlNRa2QyYW1KaU16WTFObGwzUmxoSVJsRRAB",
+            "text": "Five Leaves\nEst. 2008\n\nLayout/atmosphere\n*Bar area; tables; tables on sidewalk; outdoor dining structure in street\n\nFood/drink\n*Sage Scrambled Egg Sandwich (aged cheddar, mayo, spiced tomato jam) - very good; fluffy eggs; cheese & mayo mixed well together; soft bun; wasn’t a fan of the tomato jam; sandwich itself on the smaller side\n*Avocado (side order) - solid; salted\n*Housemade hot sauce - Good"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KTGFuSlZNRlJQTlVzdFlYVkphRU54WkdWb1pIYxAB",
+            "text": "Great happy hour! Outdoor seating, dog friendly and great margaritas!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jMWFTMHRkUzEyWHpCaE5IVXRURE5qT1U1VFpIYxAB",
+            "text": "It was raining and we sat outside and our server still checked in on us despite the pouring rain. Food was excellent and portion sizes are big. Would recommend and come back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOZUFzNGJ6eGU2SUpREAE",
+            "text": "Great people watching and delicious food and drinks !"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOVHk0ZXZ6eHFXTnlnRRAB",
+            "text": "Oysters were perfect and great drinks!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VLcV9rNFh3OWRTbl9nRRAB",
+            "text": "At the corner of Bedford and Lorimer, across from McCarren Park, Five Leaves hums with the ritual of weekend brunch. Its weathered façade and amber-lit interior suggest a bistro pastiche—half Brooklyn, half borrowed memory. The peeling bathroom walls, the worn wood bar, the stickered entryway: all curated to a rustic perfection that feels accidental by design.\n\nWe ordered the Egg Sandwich, the Big Breakky with steak, and a latte. The food delivered: the egg sandwich was soft, well-sauced, and satisfying; the steak, properly charred and flavorful; the chorizo, boldly salty; and the scrambled eggs, golden and elegant. The mushrooms were earthy, though less memorable. The latte, however, was forgettable—an afterthought in a city of coffee ambition.\n\nStill, to judge Five Leaves on food alone would miss the point. This is a brunch of scenes and roles—young families, hungover couples, stylists taking meetings, dogs under tables. The vibe, not the menu, is what draws the line that wraps around the corner."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJem41UGEtb2Rya2hRRRAB",
+            "text": "We ordered the egg sandwich, the big breakky plate, and a latte. The food tastes good—nothing mind-blowing, but definitely something I’d come back for. The egg sandwich has a rich, cheesy flavor, and the tomato sauce adds a great extra layer. I especially liked the sautéed mushrooms on the big breakfast—they have a unique herbal/spiced taste that stands out. The latte was just okay. Service overall was a bit slow, likely due to how busy it was, so be prepared for a bit of a wait."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VQclVqN3lKaDVHTTl3RRAB",
+            "text": "The line was pretty long. But the line was worth the wait because food was amazing. The Big Breakky’s eggs was salty, and soft at the same time. The grilled chorizo was chewy, soft, and seasoned well. The toast was softer than a pillow. And the sáuteed mushrooms was juicy(I added a lot of black pepper and salt to make it taste better(my mom did not like it)). The Sage egg sandwich’s scrambled eggs was pretty much the same as the big breakky’s but the grilled tomato was spicy and sweet."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMYWtzdTJhMkxyYThnRRAB",
+            "text": "I always come back for the ricotta pancakes bc they are very good!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VLN0RpN25qa2FtSHB3RRAB",
+            "text": "Cute spot. Nothing special. Food was decent. Service could use improvement."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMN3h0WURlZ0tQNUl3EAE",
+            "text": "I’ve only been for brunch. You can’t go wrong with the pancakes or Moroccan scramble!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VKMkcwYUhiczhpTUd3EAE",
+            "text": "I’ve had dinner here twice in the past week, and I’ll start with the good news... the food is genuinely great. Unfortunately, the service doesn't match the quality coming out of the kitchen.\n\nHere’s what happened both times: if you order an appetizer, your main dish gets delayed because the chef is timing it as a \"coursed meal\", even if you order something small like truffle fries. No one explains that up front. So while you’re waiting, you’ll notice other tables who arrived after you getting served before you. It’s confusing and honestly frustrating when you're hungry and just trying to enjoy your evening.\n\nThe staff didn’t seem particularly attentive either. Not unfriendly, just not very present or aware of how long we were waiting. A little communication would have made a big difference.\n\nI really wanted to love the full experience here, which was probably the reason for my return. However, the food alone almost made me overlook the service issues. But after two visits with the same pattern, it’s hard to ignore.\n\nIf you go, just know you’re in for great food but the overall dining experience might leave something to be desired."
+        },
+        {
+            "date": "7달 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3bDdDSTF3RRAB",
+            "text": "@lydieats 💕 One of those classic brunch spots that gets packed once the weather warms up. They’ve got all the usual American staples, but the real standout? That kale salad!! So good, perfectly dressed, a little spicy, and topped with toasted hazelnuts 😋 Also got the ricotta pancakes, super fluffy with honeycomb butter. Very good. The spicy chicken sandwich hit the spot but not a must order.\n\n💕 ricotta pancakes $22\n💕 black kale salad $16*\n💕 spicy chicken sandwich $20\n\n날씨 풀리면 사람 꽉 차는 브런치 맛집. 익숙한 메뉴들이 많지만, 그중 최고는 케일 샐러드! 살짝 매콤하고 구운 헤이즐넛 토핑이 넘나 조화로움 😋 리코타 팬케이크도 주문했는데 엄청 폭신하고 허니콤 버터랑 잘 어울린다. 스파이시 치킨 샌드위치는 낫배드."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzM096RFFREAE",
+            "text": "팬케이크가 맛있긴한데 막 어어엄청 특별한건 아니에요! 이쁘장한 분위기는 아니고 살짝 빈티지 캐주얼한 느낌인데 그건 좋았어요. 저흰 대기 없이 들어갔지만 온라인 예약을 하는 편이 안전할 것 같아요.\n그리고 서버가 귀가 먹었는지 이것저것 주문하는 것도 여러번 말해야하고 팁도 안거슬러주고 그냥 가져가서 동행분이 좀 별로였다고 하시더라고요. 다음에 미국에 간다면 다른 가게를 찾아볼 것 같아요 ㅎㅎ\nGood pancakes and ambience but their service was not special. We had to wave and call multiple times to ask the waiter for helps or order. I would say it is not a must go place."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJdlpYTkFREAE",
+            "text": "연어가 들어간 햄버거는 연어패티가 조금 비렸다. 그런데 햄버거 빵이 맛있었고 오이피클도 맛있었다. 아보카토가 올라간 바게트빵에는 향신료 같은것이 있었는데 나쁘지않았다. 핫케이크가 유명하다고해서 시켰는데 정말 맛있었다. 시럽은 조금 부족했던듯하다. 비엘티도 맛있었다. 햄버거를 시키면 사이드로 샐러드와 감자튀김중에 선택할수있는데 취향껏 고르면 될것같다. 둘다 맛있었다. 감자튀김은 양이 정말 많았다."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURldGN5T2dnRRAB",
+            "text": "프렌치어니언슾 맛있고, 오이스터는.. 미국에서 먹는 그런 싱싱한 맛입니다. 한국이 워낙 굴이 좋아서.. 한국기준으로 보면 조금 별로일 순 있지만, 퀄리티 조아요. 테이블 작고, 가게는 작아요. 그래도 야외에서 먹으면 나쁘진 않았어요! 직원들은 매우 친절했어요"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwaE5mdUlREAE",
+            "text": "역시 젤 유명한 팬케잌이 제일 맛있었음! 주말 브런치시간에 가서 그랬는지 기다리는데 30분 음식나오는데 30분 총 1시간을 기다렸어야했음...하지만 한번쯤은 기다려서 먹어볼만하게 꽤 맛있었고 빈티지한 내부인테리어도 예뻤음. (테이블간 간격이 너무 좁은게 흠이라면 흠....)"
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnOXJhOFZnEAE",
+            "text": "I found my pancakes quite dry. The portion was huge though\nCant give more than 3 star for the food but 4star for nice staff\n그렇게 맛있는지 모르겠어요 퍽퍽하고 양만 많고. 먹다가 질림 직원들이 친절해서 4개 직원들 아니었으면 3개 근데그와중에사진은잘나와서올림"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNZMDdpakdnEAE",
+            "text": "그냥 핵맛임.. 평일 11:30쯤 딱 브런치 시간에 갔는데 다행히 웨이팅은 없었다! 우리빼고는 다 현지인들 같았다! 직원이 엄청 친절하지는 않아서 아쉬웠음. 근데 요거트 존맛 팬케익 존맛 이니 드셔보세요 ! 머핀과 커피도 맛있다고 함! 담에 뉴욕와도 또 가야지"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwbXQ3dmFBEAE",
+            "text": "맛있다는 얘기를 듣고 예약까지 하고 갔는데 ㅠㅠ 글쎄요 맛이...? 리코타팬케이크랑 빅브레이키라는 메뉴 시켰어요 둘다 그저 그래요 아주 지극히 평범한 맛 팬케이크가 맛있다는데 대체 무엇이....ㅠㅠ 한국에.더 맛있는 팬케이크 가게가 더 많아요 ㅋㅋㅋ 별로에용 분위기는 괜찮고 친절하지만 글쎄요 굳이 여기까지...?"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvNi15eWpRRRAB",
+            "text": "3시쯤가서 바로앉아서바로먹었는데 다들이걸 줄서서드시네요? 맛있긴한데 매장 음악소리 핵시끄럽고 분위기도 내가싫어하는 기빨리는분위기임 음식맛은 무난하고 팬케익이 특히 맛있으나 1시간가량걸려 찾아올 정돈 아닌것같습니다. 하도 인터넷에 난리길래 기대하고 갔는데 블로거에 낚임ㅋㅋ;직원아저씨가 유쾌한건 좋음!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREenV1WmRnEAE",
+            "text": "아메리카노는 아쉬웠지만 팬케이크는 평범한 맛이었고 예상외로 머쉬룸 토스트가 맛있었습니다"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRMDh5OUlnEAE",
+            "text": "에어비엔비 숙소에서 2분거리!\n항상 사람이 많던 식당이라 여행이 끝나기전에\n먹어보고 싶었는데 점심시간보다 조금 일찍 나가서 웨이팅 없이 먹음\n사람이 많은덴 이유가있었다! 맛있게 잘먹음\n양이 많아서 다 먹지는 못했다"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGeTh2VEZREAE",
+            "text": "뉴욕 7일 일정중 2번 들른곳 브런치집중 제일맛집\n메뉴 하나하나가 다 맛있고 커피도갠춘 오늘의스프\n꼭 드세요 (머쉬룸/토마토슾 둘다맛도리)"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJOHNYTS1BRRAB",
+            "text": "오픈하자마자 달려갔어요. 팬케익이며 토스트며 너무 맛있었어요. 가격은 적당했고 동네 분위기도 좋았고 매장 느낌도 좋았습니다. 그러나 커피는 시키지 마세요..."
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRb3Vlalp3EAE",
+            "text": "예약없이오면 30분 이상의 대기시간이 예상되며 그 이후 음식이 나오기까지도 최소 15분 이상의 시간이 소요 된다. 맛은 그냥 평범한 정도. 외부의 테이블에 앉게 될 경우는 다른 곳에 갈 것을 강력히 권함. 다만 직원들은 친절함."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3a19PQUhBEAE",
+            "text": "팬케익을안좋아해서 파이리브스버거랑 아보카도토스트 시켰는데 다른브런치집과맛은비슷했어요 2시간기다려서갈곳은아니구ㅎ 시간되면가보심좋을거같아요"
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBOUlIYW13RRAB",
+            "text": "팬케이크 맛있고 브런치먹기 좋아요~\n현지인에게도 인기많아서 웨이팅 있어요"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJal95dU1REAE",
+            "text": "매일가서모든메뉴를다먹어보고싶을만큼저한가지만먹어보고도만족스러웠어요근데줄이너무길어요ㅠㅠ"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwaWZEdXlnRRAB",
+            "text": "I order pancake it looks good but nothing special and waitress so rude I don’t want to came back I gave 0 tip!!\nBronde half cut women with white sleeve so rude she poured water to my friend did not say sorry and she made wait too much time to get food. She said waiting 25min normal waiting time and she said I don’t need to say sorry terrible service. I gave 0 tip but they added tips that I did not write on the receipt 이곳은 인종차별이 있는 가게입니다 백인 아니면 물두는 공간이 있는 테이블이 고정되어있지않는 구석에 작은테이블에 앉려놓고 옆 테이블하고 같이 들어왔는데 옆 백인 테이블은 음식 빨리 갖다주고 저희쪽이 더 빨리 주문했는데 음식이 나오지도 않음 음식이 이미 나와있는데 서버가 일부러 안갖다주고 받은 팬캐익은 퍽퍽했음 서버가 기본적으로 싸가지가 없음 줄선다고 가서 기분 잡치지말고 가지마시길 팁도 자기네들이 막 애드함 카드 디스퓨트해서 다시\n받아냄 유럽잡종들이 그린포인트에서 인종차별짓 팁 더 애드하는 더러운짓하는 질 안좋은 곳"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqbVBQZ1R3EAE",
+            "text": "맛이 좋고 친절합니다\n그리고 팁을 같이 드렸는데 나중에보니 다시 돌려주셨네요"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNdWRQU0NBEAE",
+            "text": "토요일 아침방문\n대기는 없었으나 동석자들이 오지않아 밖에서 20분가량 대기ㅋㅋ\n팬케이크는 생각보다 맛이 평범했어요"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyc01PdjBBRRAB",
+            "text": "아보카도토스트에 서니사이드업에그 추가해서 먹었어요! 분위기 서비스 모두 굳굳"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyMnJmUEdREAE",
+            "text": "테이블이작고  시끄러워요\n편하게 식사 못했어요"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPcGF5U1F3EAE",
+            "text": "빵이 너무 맛있고 다 맛있어요"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURrMHRuVGJREAE",
+            "text": "그냥 평범한 맛의 팬케이크인데 웨이팅이 왜 있는지 모르겠습니다"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1cXUzcXlnRRAB",
+            "text": "팬케이크와 오렌지 주스 먹었고 세금 포함해서 28달러 나왔습니다. 팁으로 4달러를 적고 나왔는데 직원 마음대로 6달러를 인출해 갔네요. 여기 가실 분들 참고하세요."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJOHZtbmpBRRAB",
+            "text": "숙소 근처라 문여는 시간에 맞춰서 갔어요 팬케잌이랑 아보카도 토스트 먹었고 음료는 모카랑 블랙퍼스트 티 먹었어요. 음식은 둘다 맛있었요 음료 시키시면 모카망도 티 추천드려요 아무래도 음식이 단편이라 모카랑 어울리지 않더라구요"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwcTVycy1RRRAB",
+            "text": "1시쯤 도착해서 10분정도 기다렸습니다.\n주문하기까지 또 10분이상 기다렸구요 ㅋㅋㅋㅋ\n눈앞에서 불러도 일부러 무시하는 여자직원에게 주문 못하고 다른사람에게 겨우겨우 주문했네요.\n저희보다 늦게 온 옆에 현지인이 다 먹을때쯤 저희 음식이 나오고...^^친절하지 않은게 아니라 인종차별이라고 생각합니다."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJMXJqVUJnEAE",
+            "text": "아픈 허리를 이끌고 오픈 삼십분 후에 약간의 줄을 서서 들어간 곳. 비쥬얼이 좋은 리코타팬케이크와 키쉬를 시켰는데 정말 설거지 한 것 처럼 싹싹 비워냈다. 개인적으로는 맨하튼의 노마스 팬케이크보다 맛있는 것 같다. 한국에서도 가끔씩 생각날 것 같은 맛이다."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3XzlpZGRREAE",
+            "text": "리코타 팬케익이 정말 양도 많고 배불렀아요"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzNXV1akVBEAE",
+            "text": "핫플답게 뉴욕 멋쟁이들을 볼 수 있어서 재밌다 유명한 팬케이크는 맛있긴하지만 기대한만큼은 아니라 굳이 찾아가서 먹을 필요는 없다고 생각한다. 넓지않은 내부와 야외 좌석, 테이블마다 있는 꽃들, 대화하는 뉴요커들을 바라보는 재미가 있는 곳"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3NzR6QTJBRRAB",
+            "text": "분위기 갑. 늦은 저녁 제외하면 언제가도 사람이 많더라구요. 팬케이크랑 햄버거 시켜 먹었는데 1인 1메뉴 하기에 양이 좀 많습니다! 한국인들에게 유명한 팬케이크 말고도 다른 메뉴들 많이 시켜 먹던데 (오믈렛 류) 괜찮아 보였습니다"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzamY3QUFREAE",
+            "text": "윌리엄스버그 특유의 힙한 분위기지만 비주얼만큼의 맛은 아님 (팬케이크 기준)\n일요일 오전 9시 전에 갔더니 웨이팅은 없었지만 바 자리 제외하고 만석이었음"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHMzR5TENBEAE",
+            "text": "반려견이랑 같이 갈수 있는 레스토랑이라고 해서 갔는데 강아지를 위한 메뉴도 없었고 강아지 bowl도 없었다 음식맛은 그저 그랬고 직원들도 그렇게 친절하지 않았다"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURncnZuTmFBEAE",
+            "text": "유명해서 가봤는데 요리 나오는데 40분..맛 보통. 가격 비쌈. 굳이 여기까지 찾아와서 요리를 먹어야 할 이유를 찾지 못했음."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKMzVURzd3RRAB",
+            "text": "건강한 맛, 친절함 스텝 👍🏻👍🏻👍🏻"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRellUcnJRRRAB",
+            "text": "아침일찍 갔는데도 대기가 길어서 근처 공원에서 빈둥대다 옴\n팬케이크랑 모로코 오믈렛?? 시켰는데 둘다 맛있았어요!!"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNdWMyNXVBRRAB",
+            "text": "kind employee\namazing atmosphere\ngood food\n\n뉴욕올때마다 꼭 들립니다!\n브런치, 저녁에 술! 다 좋습니다"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzd3UtQ0hREAE",
+            "text": "팬케이크가 유명하다고 했지만 그냥 정말 평범했었다. 아침 일찍 가야지 웨이팅 없이 먹을 수 있을 것 같다."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBcjltaUpREAE",
+            "text": "여기 팬케이크가 맛있다고요? 저는 완전 이게 뭔가싶던데....퍽퍽하고 풍미도 없고...."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaM3FlMGdRRRAB",
+            "text": "리코타팬케이크 맛있고 양 엄청 많음\n그릭요거트볼에 그래놀라가 맛있음"
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRbE1TSWN3EAE",
+            "text": "팬케잌위에 올려진 꿀버터랑 같이 먹으면 진짜 날아갈 정도로 맛있어요~~~"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvd09IWjhBRRAB",
+            "text": "리코타 팬케이크 맛있어용 ㅎㅎ 분위기도 좋아요 ㅎㅎ"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJaWRYXzRnRRAB",
+            "text": "좋은 브런치! 활기 찬 식당 분위기. 다만 식당이 상당히 작음"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMydzU2Y3FBRRAB",
+            "text": "맛있고 아늑하고👍🏻"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNFcW8takxnEAE",
+            "text": "맛있는데 음식나오는속도가 좀많이걸립니당"
+        },
+        {
+            "date": "9년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBbThpYnp3RRAB",
+            "text": "리코타팬케이크 정말 맛있네요 👍👍…"
+        },
+        {
+            "date": "9년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBMF9LeXd3RRAB",
+            "text": "Really good!!\n\n진짜 멋있어욥^^"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1bThINk9BEAE",
+            "text": "팬케이크는 3시까지"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzNmM3Y3VnRRAB",
+            "text": "미국식 맛 제대로 느껴요"
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBNzZhVFdnEAE",
+            "text": "아보카도토스트 귯귯귯"
+        }
+    ],
+    "reviews_count": 100
+}

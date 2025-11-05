@@ -1,0 +1,530 @@
+{
+    "name": "Diem Eatery",
+    "place_id": "ChIJz1ghIXVbwokR8p2L3_ci3KA",
+    "grid": "BK2",
+    "address": "79 Atlantic Ave, Brooklyn, NY 11201, USA",
+    "rating": 4.7,
+    "user_ratings_total": 230,
+    "phone_number": "(917) 909-1037",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25seE1sUmljV0o2YTFWVVJFeDRiRFprWmxWTlIxRRAB",
+            "text": "The tofu Bánh mì is delicious (get the jalapeños and sriracha!) and portion size is HUGE. 1/2 is basically the size of a normal full size sandwich. The green papaya salad was also bangin’ but I forgot to take a photo. The atmosphere of the place is extremely pleasant - so cozy and really a nice aesthetic. This is a different Bánh mì than any I’ve ever had before, and though it’s not quite authentic/traditional in taste or style, it’s unique and delicious anyway."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oSlQybHdVRUpKU1d4bVEyNXRjbWR1TldzNWJXYxAB",
+            "text": "Quick service. Coffee was okay but a bit overpriced. The place has no bathroom unfortunately"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oRlRuSmpjMlZEZG5CV01FZEdZMk5aV2pSWVpYYxAB",
+            "text": "The restaurant showed clear competence. Warm workers, excellent food, and pleasant neighborhood! Their food quality never wavers and the environment is perfect. They should continue their commitment to freshness. This restaurant has earned my continued business."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WSmVsRk5XalpNYkhWMVMyeFBaRTlXVm1sUFpGRRAB",
+            "text": "I recently moved to NYC and have been to Diem Eatery about 6 times. The Banh Mi is  consistently fresh and yummy. It is one of my go to eateries and once you try it, it might be yours too. Don’t walk, run!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VE9EaGFNM0JqVDJkNGRrVlhOR2RqUkc5TGRuYxAB",
+            "text": "A neighborhood gem! Food is consistently fresh and delicious!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKRWNrVTFPVXhQZG5STlUxQkhlbEE0YzE5R1JVRRAB",
+            "text": "Best Banh Mi in NYC!!\nThe classic banh mi is so delicious! And the chicken one is so tender. Amazing homemade gelato too! Really interesting flavors :)\nJohn and Chi are also the most welcoming and kind people. Such a neighborhood gem!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KUE5XbFpVMjlwWnpkNFMyOUhXbUZLVWxKVmVrRRAB",
+            "text": "Amazing egg coffee! We just got back from a vacation to Vietnam and this was just what we were looking for. It’s like we were back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twbGFsRkZOa1V0TlZwaVUyUkRRelJ0VURWU1VrRRAB",
+            "text": "Super cool spot to chill. Loved the Vietnamese coffee and the banh mi"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkblJYQnJUV3AwUjNSWWIzVjVUVFJXVkU1amNFRRAB",
+            "text": "Great banh mi sandwich. Good ingredients and satisfying size. One of the best I've had in NYC.\n\nSource: I'm Vietnamese and grew up in San Jose, CA"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoUk9IWmpNbE5KVUhJelltMWFOMmRNYzNFMFVtYxAB",
+            "text": "Cannot believe I passed by this place for years. It’s super easy to miss, but do yourself a favor and stop by! The absolute nicest people work here, and o m g the food! Probably one of if not the best banh mi I’ve had in my life (and I’ve had a lot).\n\nCan’t wait to come back!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGNFoyc3dlR2hRT0VwRU0yWk9NbHAzUW0xSlVXYxAB",
+            "text": "I love this place. Food is consistently excellent and everyone is very kind."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGcVIyaGFiVk4yV1c5UlRtOUpiRFJxUTNSeVkyYxAB",
+            "text": "chicken bún so refreshing so awesome sauce so summertime coolness\n\nthanks diem eatery ♥️"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21reGRWSXhNbXhzWkRCeVlsTmFUMFpzVnpsUlVsRRAB",
+            "text": "Absolutely blown away by this banh mi. If you go on Sunday, they have a special one only available on Sunday, GET it. I got it not spicy without pate. Absolutely incredible. Great friendly service too, sandwich was worth the wait."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205T1MwY3daRFJNTVdwQmEybzRkMmhHZGtWNmVHYxAB",
+            "text": "Amaretto and coconut gelato was delicious"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CcE1XSjVTMVE0WDBNemRqRjJOemxMTW1zMmQxRRAB",
+            "text": "Yoo this bahn mi absolutely slaps! The viet coffe is legit! It’s dog friendly, has a super clean bathroom, the staff is delightful, and has gelato! Great place to have a date or stop by after a fun day at the park! 10/10 no notes 🙌"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPU3FqcWU2Nk1LZHJnRRAB",
+            "text": "Food was excellent, very cute spot."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJR2loN1A2Z2Zyc0VBEAE",
+            "text": "I stopped in the other day and was told by the person at the register that they were out of every sandwich except one, and that they’d be closing half an hour early. It ended up being a wasted trip."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VOYXFydTJfN09lZ0J3EAE",
+            "text": "Slowest service I’ve ever gotten I waited half an hour for a damn coffee. Those people got hired under some political agenda and not based on their work ethic."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZdnJlOUVREAE",
+            "text": "One of the best bánh mì places in Brooklyn! Get the beef one, you won’t regret it"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3ZzRIX2hRRRAB",
+            "text": "The Viet coffee is premade and not fresh. It definitely messes with the flavor and the freshness. The drink taste okay on the first sip, but quickly loses its … robustness (don’t know how else to describe it.\n\nSorry… but need to do coffee fresh and not from a premade mix."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBam9yWWN3EAE",
+            "text": "Bún bowls were great. Tried both the tumeric fish and beef. The combination of texture and flavor in the beef stood out more, but both were really enjoyable. Price point is very solid for the serving size as well. Will try the báhn mì next time"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfa3ZxX2FnEAE",
+            "text": "This is the first time I ever felt like telling a place how well they’re doing! My wife and I eat from here often, and realized we take for granted how much better this place is than other options in the area. They don’t skimp out on anything. They’re consistently very well balanced meals and good ingredients and excellent price. And the owner is very nice. Thank you."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmbnR6UTNBRRAB",
+            "text": "Delicious food, friendly service, lovely atmosphere, good prices! Cant be beat! I had the vermicelli rice bowl, husband had the bahn mi. He said his was great, but I think mine was even been better. Will definitely be back!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2b2RYX0l3EAE",
+            "text": "Best place on the planet. You want the best Bahn Mi? Fuggetaboutet. They got you covered"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2cjdhZTF3RRAB",
+            "text": "The best banh mi I've had in NYC.  Get the classic banh mi with Sriracha and jalapenos.  The bread is fresh, isn't going to scrape the roof of your mouth, and doesn't require you to tear it and risk the filling falling out.   The pickled veggies are plentiful and tasty.  The egg coffee is also delicious.  The staff is also very kind and friendly."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2ajR1M2hRRRAB",
+            "text": "Very tasty sandwiches!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQMDZlaHJ3RRAB",
+            "text": "The tofu banh mi is a revelation! Vegetarian sandwich perfection! Thank you!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQa3V2YnJRRRAB",
+            "text": "The bac siu is so so good. No one makes a better Vietnamese coffee than here. If you’re in the neighborhood, definitely stop by."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYcDRyd3pBRRAB",
+            "text": "There's something incredibly delightful about the authentic taste of the Vietnamese bánh mì here. Each bite is a burst of flavor that transports me straight to the vibrant streets of Vietnam!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYbU5McVRREAE",
+            "text": "This is the best bánh mì I’ve ever had! The classic combination of pâté and pork roll is insanely good."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYXzdpNl9RRRAB",
+            "text": "One of the best beef vermicelli noodles I’ve tried in NYC! Portions were generous, lots of fresh veggies and herbs, fried shallots and chopped peanuts. Presentation wise- It was really nicely put together as well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuN1A2aVlBEAE",
+            "text": "If you're looking for a meal that's healthy, filling, and full of flavor while also being convenient, look no further. Diem Eatery offers delicious banh mis and noodle dishes that are perfect for both lunch and dinner. I especially loved the turmeric fish noodles. The texture of the noodles and fish was spot on, and the unique flavors were a pleasant surprise. It's the perfect fresh comfort food at a very reasonable price.\n\nThe cozy, green ambiance inside makes it a great spot for a casual meal, and they really do offer it all—including housemade gelato! As someone who's lactose intolerant but still craves ice cream, I appreciated their vegan options, especially the vegan coffee gelato. It's the first vegan gelato I’ve had that didn’t have any strange aftertaste. Their caffeinated drinks are delicious too, perfect for powering through your day. Plus, they have Wi-Fi if you want to work for a bit.\n\nOverall, Diem Eatery is a fantastic place to satisfy a variety of cravings. Highly recommended!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuckpqd0l3EAE",
+            "text": "Vietnamese banh mi, papaya salad, coffee (many options). That's pretty much the entire menu but the food and coffee are excellent."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIMF9QU3F3RRAB",
+            "text": "Lovely, small place for a fast lunch or a bite. Small menu, but Food is really good and freshly made. I had a Banh Mi. I didn’t know it could taste so good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIemYyc2NnEAE",
+            "text": "Outstanding variations on Vietnamese coffee and regular coffee. Very relaxing and atmospheric space. Staff are kind. Very warm and authentic spot enjoy💕baby / stroller friendly"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIMFpQQURBEAE",
+            "text": "Best Vietnamese restaurant in the area! You’re missing out if you don’t try their Banh Mi’s and Vietnamese coffee!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIbXVxblRBEAE",
+            "text": "i could eat their Bahn Mi and Papaya Salad every day for the rest of my life and be happy"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3dElmaUhREAE",
+            "text": "My favorite banh mi spot! Perfect bread consistency, amazing flavor, fresh ingredients. The portions are generous and so worth the price!\n\nI’ve also enjoyed their egg coffee and vermicelli bowl.\n\nThis is one of my go-to spots to bring people to. :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3eDV1YWt3RRAB",
+            "text": "Came here because of the reviews for a quick lunch and did not disappoint!\n\nI got the classic banh me (with jalapenos and sriracha) and a cold brew.\n\nFood came fast and was super fresh. Had wifi I used to do some work while waiting. I accidentally spilled my coffee and they were SO nice and got a refill.\n\nOverall, 10/10 for service, food, and cafe ambience. Would definitely come again!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyX3RtdTdRRRAB",
+            "text": "great"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMODZPXzJnRRAB",
+            "text": "Tofu bahn mi unbelievable"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMd3VYajFRRRAB",
+            "text": "Why would you go anywhere else for a bahn mi?"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5dGJTLWZnEAE",
+            "text": "Great food overall. The Banh Mis are really good; favorites being the traditional and the chicken. Their bread is particularly good. The Papaya salad is amazing as well; with really fresh ingredients. I was not impressed with their fish salad, however, as I found the fish to be somewhat bland when compared to everything else on the menu.\nThey also sell gelato, which I have not tried\nWould totally recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6OUpqSVJREAE",
+            "text": "Cool bathroom and great coffee and banh mis"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6cHMyM0d3EAE",
+            "text": "The bahn mis are among the best in the city, from the freshness of the ingredients to the phenomenal bread being used. Cute little cafe too, but the food is the main attraction."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6b095eG5RRRAB",
+            "text": "Not genuine viet food"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUMHVQU2hBRRAB",
+            "text": "Best bahn mi I’ve had in my memory. Clean space, nice counter staff, dope bathroom. Delicious."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUNkx1RjBnRRAB",
+            "text": "Chicken banh mi was good\nI really liked the egg coffee"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUczVtMDBRRRAB",
+            "text": "One of the best hot chocolates I’ve had!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4MXNTSU5nEAE",
+            "text": "4.2 / 5\n\nThe tofu Banh mi was excellent. Bread was tasty, sandwich flavors and ingredient…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROXzhyemh3RRAB",
+            "text": "I almost tried everything on the menu in one sitting! The owners Jon & Chi are super friendly. Gabby makes an awesome egg coffee.\n\nThe bhanmi had the perfect salty sweet and spicy combo, the bread is fresh as well so you get a good crunch from the bread and the veggies.\n\n10/10 coming back!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXekpmX0pREAE",
+            "text": "A welcome addition to the neighborhood! Coffee was great. We enjoyed the Beef Bahn Mi and the Papaya Salad. Ingredients were so fresh and the Bahn Mi has a perfect bun, so delicious! The gelato is divine, we loved the lemon and coconut flavors!!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURldUxEa1VREAE",
+            "text": "I love this place! I read the reviews and thought, 'Can this place really be that good?' Answer: OMG yes!!! This is my new everything spot.\n\nThe couple who own and manage the restaurant are so lovely and kind. The food is largely inspired by the wife's family, who are Vietnamese. This is the BEST banh mi I've had in NYC in 9 years of living here! And I've had proper banh mi's in Vietnam... the banh mi's at Diem taste like the authentic, real-deal! The bread was soft and crispy, with a touch of buttery savoriness, and lots of fresh chicken and veggies inside. The portion size of the sandwich was also impressively large. 10/10!\n\nThe Viet Milk Coffee is a gem! It obviously has the traditional condensed milk in it, but it's not overly sweet, which I appreciate. A good balance of richness and flavorful espresso bean.\n\nThe owner encouraged me to try a free sample of the gelato. They rotate their flavors every week, with mango-flavor being the only constant. They always keep a vegan and sorbet option in the rotation also.\n\nThe restroom is the cutest freakin' bathroom in Brooklyn. The restroom is through a hidden arched doorway in the bookcase. And the restroom is spotlessly clean and well decorated. It's like a magical cozy place.\n\nAnd yes, they have free wifi!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqNmY3WXN3RRAB",
+            "text": "Pretty good Vietnamese salad, clean and filling. The bahn mi was good, but nothing to call home about. The baguette was a bit soft."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtc1l2U1hnEAE",
+            "text": "AMAZING Iced Viet Coffee & Classic Banh Mi!!\n+ they always have a vegan ice-cream option (flavor changes weekly)\n\nThey source the coffee beans from a local small business in Brooklyn, called Nguyen Coffee Supply that directly gets it from Vietnam! And, the owner of the cafe was super sweet, offering to change the sweetness depending on our preference.\n\nThe classic banh mi is SO GOOD, you can add jalapeño (if you like a lil kick)\n\nTheir service was so good, we end up trying the pistachio VEGAN ice cream & espresso non-vegan ice cream ❤️ love that they have a vegan option, because I am lactose intolerant 😂"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyNXRtaENBEAE",
+            "text": "It’s a great place in the neighborhood to get some light Vietnamese bites. The tofu bánh mì is delicious, with lightly grilled tofu steak, pickled radish and cilantro jalapeño sauce stuffed in a crispy baguette. The portion is big enough for my friend and me to share. We also get the green papaya salad with beef jerky, a very unique protein topping. If you like fish sauce, you will also enjoy their house made dressing."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPMVlyOU5REAE",
+            "text": "This place was so good! Probably one of the best Vietnamese food I’ve had in a while. Their ingredients are so fresh and the team in the kitchen puts a lot of love and effort into each dish. That being said, it did take some time for our…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKZzlqVk1nEAE",
+            "text": "4.5/5\n\nGot the classic banh mi. Initially thought it was quite expensive but they actually give you two rolls. Reasonable spice but pate was a bit imbalanced, a lot more in the second roll. Could do with more in the first.\n\nVietnamese iced coffee was good, quite an interesting taste. Will have the egg coffee if I come again on a colder day.\n\nVery good interior as well, good design and clean"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqbHF6eG5BRRAB",
+            "text": "Egg coffee what!! Cold egg yolk foam\nWith a hot shot of espresso underneath. This was a fun little change to what I had walked in to get - just a boring espresso but no! This was such a welcome change. The atmosphere is fun and bright. I’m looking forward to trying their food next time."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaNXJxcUVBEAE",
+            "text": "Probably the best tofu banh mi I've ever had! Unlike many places where the tofu is bland, this banh mi had the perfect mix of flavors that made it refreshing and delicious. Would definitely recommend!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoZ18zTjlRRRAB",
+            "text": "I highly recommend this spot for anyone interested in either casual Vietnamese food and/or good strong coffee.\n\nMost important of all is the coffee. This is the best Vietnamese coffee I've had in NY. Potent, locally-sourced (through Nguyen), and they even give you an option to adjust the sweetness. The only thing they might consider to up their game would be offering a vegan version (sweetened condensed coconut milk would be great).\n\nThe banh mi and bun were both delicious, and note that the former is available with tofu.\n\nThe space is pleasant with a lot of attention to detail but still not pretentious. There are plenty of seats. I didn't check the wifi situation, but at least one other patron had a laptop out."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyNlllZ2VnEAE",
+            "text": "Excited that this opened! Super cute decor and good food. I got the Viet Iced Coffee and BÚN (Noodle Salad) and can’t wait to try the sandwiches and gelato next time."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPaHVYQnpnRRAB",
+            "text": "Great spot in Brooklyn Heights! Their coffees are amazing, sandwiches delicious (and large!), and gelato looks incredible (disclaimer: I have not yet had the gelato but am looking to remedy that shortly)."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXbE9XUTl3RRAB",
+            "text": "Go welcome these folks to the neighborhood while they’re still in “soft open” mode. Great coffee, yummy Banh Mi sandwiches and GELATO! The staff is also super friendly."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlNmNIUVNBEAE",
+            "text": "This is our favorite new spot.  Check out the banh mi, the bun bowls, but the best is the gelato in the back. Better than the gelato you would find in Italy.  Jon and Chi, the owners, are the friendliest and honestly it is our daughters favorite dessert spot.  Also check out the hidden bathroom - coolest design.  A must see on your way to Brooklyn Bridge Park"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlOHJpS2NBEAE",
+            "text": "Delicious Mocha and a veggie Bahn Mi! The service is outstanding and the place is very clean and cute. +1 to my favorite NY cafes."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEeGRlYXZRRRAB",
+            "text": "A cute Vietnamese cafe on Atlantic! We love the egg coffee, Vietnamese iced coffee, and chicken Banh Mi."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCdGNhNkZBEAE",
+            "text": "Great banh mis! The bread was crunchy but soft and the fillings were fresh and generous."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXejUzVi1nRRAB",
+            "text": "Amazing bahn mi, beautiful little cafe and great coffee. Can’t wait to try more"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURacXRHMkNBEAE",
+            "text": "The food here is incredible! I came here twice and had the seared beef noodle salad: thin noodle, fresh sprouts (crunchy fresh and no mushy ones), tons of fresh mint and crispy shallot. The beef is perfectly browned and flavorful. The dressing is light and tastes incredible, with a fascinating combination of spices.\n\nCant recommend this place enough, hope they stay around for a long time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEMVp2OFhBEAE",
+            "text": "This is my families favorite bah mi place in Brooklyn (and we have tried a bunch)! We get the chicken bah mi. All the ingredients are fresh and perfectly seasoned,  each bite is so flavorful! The bread is the right balance of crunchy and soft too, which is something I am very picky about.  lmpressively, I believe they make their own pate and mayo - which is so delicious!!\n\nI also LOVE their andes mint hot chocolate!!\n\nCouldn't recommend the place enough - are excited to try more things on the menu!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCenFLb1RREAE",
+            "text": "I went for the first time and I absolutely enjoyed! The banh mi (I got the tofu one) is one of the most delicious ones I’ve had in NYC. There was so much flavors and the bread was perfect. I got the Vietnamese milk coffee with oat milk and it’s nice there isn’t an extra charge. The employees are so friendly. I loved the vibe of the place and the incognito bathroom. My friend and I spent few hours catching up there. I will definitely come back. Keep up the work guys!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEMWNYQXZBRRAB",
+            "text": "Where have y'all been all my life? Super fresh quality ingredients and decent portions for price.  Classic banh mi was awesome, but the shining star was the green papaya salad with beef jerky. Beautifully prepared, full of fresh herbs, just stunning haha. The way the freshness plays the jerky OMG it was good. I wish I'd taken pics B4 shoving it in my face."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwdkpyWnFRRRAB",
+            "text": "Wow this place is a gem. Great Vietnamese coffee and other beverages. Really fresh well balanced banh mi. Papaya salad is stellar with so many fresh herbs and perfect mix of flavors. Reasonable prices. Kind patient staff. And a cool hidden bathroom! :)"
+        }
+    ],
+    "reviews_count": 74
+}

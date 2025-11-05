@@ -1,0 +1,551 @@
+{
+    "name": "Clark's",
+    "place_id": "ChIJ4wBp3jdawokRZf_Uh0IhaXY",
+    "grid": "BK2",
+    "address": "80 Clark St, Brooklyn, NY 11201, USA",
+    "rating": 4.4,
+    "user_ratings_total": 1737,
+    "phone_number": "(718) 855-5484",
+    "reviews": [
+        {
+            "date": "6일 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205WFRVdHNUMkl4YkRkVFMyTklhREZNY1ROWlIzYxAB",
+            "text": "Lieu  chic et vintage avec des serveurs souriants et à l'écoute. Des plats simple  traditionnels américains mais des produits frais et des portions généreuses pour un prix abordable."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210U1pHOUxXRWN5WWpnNVkyTjJSVlUzTlVwWUxXYxAB",
+            "text": "Had a fantastic experience! Classic Brooklyn diner charm with genuinely friendly service and truly delicious food."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxc2JtTXpSMWRuUkRKVVdVRmhORU41TVU1UU5rRRAB",
+            "text": "Super, Great food, service is good. Nice place"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNdFoxYzVhR0o0YkVjeFV6QjRSRGg1UjFSSk9VRRAB",
+            "text": "Order breakfast daily. After 3 times in a row part of my order is missing, I finally call the store to see what is going on. The person who answers refused to rectify the situation and even decided to blame me. Will not be ordering again."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KaVowZHZXRkpwTjNoVFZHUklhbnBoZFRsQ2FYYxAB",
+            "text": "A typical Brooklyn restaurant experience. It took us more than 20 minutes to find a parking spot, but we eventually made it. The menu is extensive, offering plenty of options at fairly reasonable prices. The food portions were generous, though nothing particularly remarkable. Overall, a pleasant visit with a clean setting and friendly staff."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aWldVaHNaRVpDZVZKcFdUVjVWVXRoV2tKTFYxRRAB",
+            "text": "After getting to Dumbo very early for the sunrise, it was great to stumble upon this place. We'd planned to do Time Out however so flag we found Clarks instead. We had the Pancakes and French Toast. Both were beautiful. Service very good as well!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OcFVITnVNbVZNWmxOcFJGODBPRGhqZUdORWMwRRAB",
+            "text": "Whenever I'm visiting the grand kids always make time to have breakfast at Clark St diner. Drew Nichols"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0dE4yWmhWVVJZZHpOQ2VsWk9iakJsWkVwSVFtYxAB",
+            "text": "Excellent food and super friendly and attentive wait staff."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214c1ptMXpiMnhzYVRFdFRtSmlUVWRtVjNVeWRrRRAB",
+            "text": "First time trying this diner as the queue is always really long once 10am hits. Unfortunately I really disliked my food: scrambled eggs & bacon with 'house potatoes'. The eggs were almost inedible, flat and dry on the outside, slimy and cold on the inside. I wonder if they may have been that liquid egg stuff you can buy, or maybe just bulk made and left under a heat lamp. Either way, did not taste good at all. The potatoes similarly were an odd texture, like mashed potatoes with onions and peppers in. If they had been fried there wasn't much evidence of it. The bacon was ok. Service was excellent, and it's a bustling, obviously popular neighborhood spot. I'd be willing to try it again, and hope that meal was a one off."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poVVJFTktjVFZaV0ZaTlVUUndhbk5HY1ZjMVJrRRAB",
+            "text": "Very nice diner."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWeVh6VnpjWGs1VXpOQmMybzRXREp6ZDNsNVgwRRAB",
+            "text": "Delicious food and wonderful service!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aRkxWb3pRMUZSVkVKMWVtNUZOalZwU1RZdE5XYxAB",
+            "text": "The food was delicious and everyone who worked there was so kind and accommodating to all of us, including the kids."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkRlgxUk5jVFp4VEdsR2IxZDFhalpRVVdkS1pWRRAB",
+            "text": "Good food, but very loud, not that nice of a service due to high number of visitors,  and the prices are not the cheapest."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pndFFWbHdaRFpuV2xZM1pVbERhRVp2UkVOM1QyYxAB",
+            "text": "I came home from work early\n3pand thought I would treat myself to some pancakes and Clarks, my dad  loved  this place but my treat from Clark was a roach set atop my pancakes like he belong there with my powdered sugar and extra butter Was he in the batter? Did he fall from somewhere either way I’m disgusted and will not eat there again."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGV09FMVFUV1I2V0ZkMUxVZDZSalJRWkdaTlRsRRAB",
+            "text": "One of the few places with a vibe and good food in a 10 block radius. Nothing is mindblowing, but it's solid. The service is extra friendly, the waitstaff there are really quite nice and accommodating, even when it's clearly bustling. Nice neighborhood spot."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWR2NXVnJiazQzVmkxNWVEUk9VbkZKVTA1NWFtYxAB",
+            "text": "Wonderful old school Brooklyn diner. We had breakfast food that was fantastic. Pancakes, French toast, bacon, all fantastic. Place is run like a machine. Non stop movement, no delay, food came quick and they were slammed. But when you’re done, we lingered and they didn’t try and rush you out. We’re from the City, and just seems like a solid neighborhood hang. The Host maybe owner seemed imposing, but was actually quite lovely and accommodating."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oWk5IRkxaR1ZOUkc4eWIzbzJPV1UyZWxKRk5sRRAB",
+            "text": "The food was amazing! I ordered a turkey avacado tomato omelet and my friend got eggs Benedict with corned beef. The service was super prompt, polite, and accurate. The bathrooms are clean. The room we were in was very bright, natural light, and well decorated. They do have outdoor seating."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wdk56TlRhM05YWDFoZmNGRjVhbXBPTTJaaVNuYxAB",
+            "text": "Dined in during a rush and was treated with respect and care. The food was very good and came out quickly. My server was overwhelmed and didn’t say a word to us but other than that, the job was done correctly and the rest of the staff was kind so overall experience is 4/5 for me."
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taRmIxazNVVWhUTVRkblNESjJjVTFsYlZaSWVVRRAB",
+            "text": "Locale degno di essere chiamato diner newyorkese. Già alle otto di mattina, potete trovare persone che ordinano uova Bacon, Waffles, pancakes e molto altra ancora. Noi abbiamo ordinato un pancake con le fragole (15 $) e un pancake con burro d’arachidi cioccolata e panna montata (19 $). Le porzioni sono decisamente abbondanti, nonostante la fame siamo riusciti a mangiare appena la metà della porzione Una grossa pecca del locale è il servizio, Estremamente lento. Dovrai aspettare svariati minuti anche solo per ordinare o per pagare."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWNFZYcDJiM2hYUldoWFJEZElabWc1WW05ek1WRRAB",
+            "text": "The food was good, but the service was honestly ridiculous. I politely asked one staff member if I could move to another table, they said yes, so my friend and I carried all our things — even the water and cutlery — by ourselves. Then another staff member suddenly waved at me in the rudest way possible and demanded, “Who told you to sit here?” I explained that I had asked and was told yes, but they still questioned me like I was lying: “Did they really say yes?” — complete with an unpleasant face. Great food, but if the staff can’t even communicate with each other and choose to treat customers this way, it really ruins the whole experience 🙃"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twYVUxVkNOMjFtYXpReFNXWnVRVVkwV0c4elJrRRAB",
+            "text": "good"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWV1ZEaFdiRE14TW5GT05GVnBXbGhOYm5WSlMzYxAB",
+            "text": "Truly a wonderful restaurant with an even better ambiance and experience. The classical music is always a wonderful touch as well."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSFJFODFNWFI2ZEhWaldWbFhNRlowTFc5VlNtYxAB",
+            "text": "Decent area with pretty good, fairly priced food. We sat outside and the a service was very slow. I wasn’t allowed to make swaps for turkey bacon even though it was the exact same price on the sides menu which was kind of weird. I’d probably go back some time, but it’s not super top of my list. A good spot for that neighborhood. The service was the only particularly bad part."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaZlpXNUVVVnBOWm1wclZEWjZiMUJuZUd4WVIwRRAB",
+            "text": "The food was good but unfortunately they forgot two of the drinks, service felt frantic. We’ll be back but maybe not at a weekend!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SMlVFSjVTblJFUmtnM1JEUmllRmxXTWtoVUxVRRAB",
+            "text": "I had a wonderful experience at this restaurant."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCbmEzWmZYM2RxVDBaaFVrcHFOa2xaUkdWa2RtYxAB",
+            "text": "We found Clark’s over a year ago when first visiting Brooklyn. The review rating was high and it was so justified. Had to visit again and make the effort no matter where we were staying. Incredible food, very attentive service and a great area to sit outside and watch the world go by."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKcWNtczVablZUVFhsTmVVWkJaSGszWlVWbldFRRAB",
+            "text": "Great place to sit outside enjoying a perfect breakfast with your friends and family on a beautiful day.  Dog friendly"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205b1JrRkZWMEp1TVcxS01GVktOMlYxWWpOTmJGRRAB",
+            "text": "Tavoli anche all'aperto. Piatti gustosi e porzioni abbondanti"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1M05WWk5kMkpGZG1oV1FuaHdWakJOZWxRNU9FRRAB",
+            "text": "The restroom could be much cleaner... quality of food not good. If u r looking for the typical American diner low quality food this is ur place to go. If u want sth healthier stay away. Tons of whip cream, cheap milk used for the smoothies, horrible hollandaise sauce... won't try this one again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCR01HRnRYMXBLVGtObk1ERnphRzk1TjJ0RE4yYxAB",
+            "text": "Great food, large portions. Place was slammed, felt rushed to eat"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OWFFrMXBRVXQyV0VKQ1VuWklaMDAyYkZCSmJHYxAB",
+            "text": "So cute and such good service. All the servers are so kind and attentive and the food is so good. One of my favorite diners 😁😁"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvelUwWmZORGRYYzA1R1NWaG1SMU00V2tkblRsRRAB",
+            "text": "It’s a beautiful historic diner with amazing food  and great service. I highly recommend"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214RllVOUdORUppU1VkNmJrRlJjMkpXVFdKcmJtYxAB",
+            "text": "Skip the pastrami; it was fried on the grill. When I inquired, the waiter said, “That's the way they do it here.” My concerns were met with no adjustment and little interest. Disappointing."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwd1V6aFZVV2s0WmxONVRUbFlSREpSTFdkcVFtYxAB",
+            "text": "When I walked by this lovely little spot the day before on a little Brooklyn adventure and saw their cute patio that had so many folks seated with their pups, I knew I had to check it out! I came back a couple of days later for breakfast. So quiet and calm and the vibe was exactly what you want to start your day! The staff was very kind and professional (I had a lovely conversation with my server) and the food ... WOW. I couldn't even eat half of it! Perfection from start to finish!\n\n*I ordered the Clark's Poached Eggs with Smoked Salmon that came on potato pancakes, with avo and holl sauce. I know.... An easy decision."
+        },
+        {
+            "date": "3달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214TlNtTkVjV3ROVURGTk9UWkhhamx0Wkd0amVIYxAB",
+            "text": "Magnifique établissement, très agréable. Le personnel attentif et la cuisine délicieuse. Meilleur petit déjeuné sur N-Y. Je le recommande vivement."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201MFFtbEVOa2szVVdWUVVWQTFUak0xVmxvMVEwRRAB",
+            "text": "Everything was either salty or burnt."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0aVdWbFBiRXhTTmtWb2FXMVJZbkU1VG01MVVWRRAB",
+            "text": "Clark’s is the perfect breakfast/brunch spot. The line outside on any given weekend is indicative of how good Clark’s is but usually deceptively big - you will never wait for long!! The staff here is so fast, so friendly, and provides amazing service every time. The food never misses. I almost always go for a vegetarian wrap or spicy feta wrap, and everything else I’ve tried has been great. Vibe is good, old school, classic New York."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCV09VZElkRVJmY1hwcU0xRjJTVWRLYTFNeVNIYxAB",
+            "text": "Was there today 06/24/2025 , horrible service . Ignored by wait staff for over 20mins  , food was mediocre .if you are a certain skin color you are being treated completely different from others, horrible that is , Don’t go here if you are a person of color . Wish I could give zero stars"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSRFVETXdUamxQY2pkVGIwdGZaRmN4WlhaMmNrRRAB",
+            "text": "My favorite diner! The atmosphere, menu and staff are exceptional. Love the chicken gyro and fries. The strawberry lemonade is refreshing and not too sweet. I live in Virginia and we always add at least 2 stops each year to visit and have a wonderful meal. 🍽️"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPMHV2d2tRRRAB",
+            "text": "I've been eating here for many yrs, and its always been amazing. The staff are the best, friendly, respectful, attentive, and the food never disappoints. Its just a feel good type of diner, and I love it."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taZlNtSmlZbXgwYVZkclRURkNRMWQ2ZFdSS2JuYxAB",
+            "text": "The Absolute best breakfast in the State.\nGreat service and welcoming atmosphere."
+        },
+        {
+            "date": "4달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxWVYzbE5jR0pTVVVOdGIxaDNaMUZRVGxoMk5WRRAB",
+            "text": "Vraiment excellent ambiance calme et très propre"
+        },
+        {
+            "date": "4달 전",
+            "language": "pt",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KUU4yUm1XVUV5TkVwb1ZrZzJSVk5VYUdsZlMwRRAB",
+            "text": "Tomamos Café no nosso último dia de viagem no Clark's, o café realmente é muito bom, valor bastante justo, o restaurante é bem bonito e com uma pegada mais clássica.\nA única crítica é quanto ao atendimento,  o garçom embora mexicano, com um sotaque bastante forte, fingia que nao entendia nosso inglês, muito sem paciência, meu inglês nao é perfeito até por ser Brasileiro, mas notamos uma irritação por parte dele sempre que nos atendia, isso porque ainda sim demos as tips em 22% por educação."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOYV85NUNRMnVmdDFBRRAB",
+            "text": "Servers were fantastic."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKT3JwWmVBNzc2VFdREAE",
+            "text": "Mocha Coffee 10/10\nWaffle 10/10\nEggs 10/10\n\nReally nice, definitely will come back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNd1VtRTRURFo0T1hveGJITkJXSGxPWkVkc1FVRRAB",
+            "text": "We wern for 2 days to this restaurant! The first day we were delight for this place. The service, and the experience with the staff was good. Today, unfortunately everything went wrong. Once we arrive to the restaurant, the first 2 employees, looked at us unfriendly and uninviting. But, ok to that. After we sit down we were very well served by an employee who was dressed differently from the others. In the end, we got up to go pay our bill.\nAt that moment an employee (different from the one who served us) came demanding that I  needed to give him a tip. At first I didn't understand and said that I wouldn't give any tip and he got furious and started saying that we had to give it because we had taken a table! Afterr that, and politely, I told him  I would give him a tip, which he wanted to be 18%. As if that weren't enough, he himself selected the 18% option. I told him I wasn't going to give 18%, but 5%! He got furious and  he said very rudely that he didn't want anything anymore (with other people already looking at us, visibly uncomfortable). It was a very embarrassing situation. Not to be repeated."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsWVlVVkdObU4wWHpFNE0wNWxSMnd3WDFWek5VRRAB",
+            "text": "My favorite breakfast place. Best pancakes and French toast I've had in NYC. (The pancakes are relatively thin, almost lacy like Swedish pancakes, just how I like them)"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtbE5Uc01nEAE",
+            "text": "정말 맛집! 분위기도 좋지만 음식도 라떼도 맛이 좋았다. 브루클린에 온다면 꼭 들러보면 젛을듯! 강추!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxNnNhNEtnEAE",
+            "text": "서비스를 하는 직원은 최악이었어요 직원의실수는 서빙할때와 계산하고 주문할때마다 일어났어요"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNaDV5ZnRRRRAB",
+            "text": "블루클린 다리 건너 식사하기 좋은 식당"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2M2U2bDRBRRAB",
+            "text": "Update: on a recent visit the servers seemed to ignore us for 30 mins before giving us a check even after we asked twice.  Strange for a pretty small restaurant!\n\nLovely spot nestled into Brooklyn Heights, conveniently located if youre around and always popular for brunch on weekends.  The food quality is good, though relatively standard for diner style brunch.\n\nI liked their french toast and omelettes.  When there was a bee flying around the staff took care of it very quickly, which was cool."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VKYko1ZEt5cWF0axAB",
+            "text": "Un restaurante típico americano, es chevere sentirse en un lugar más tradicional que en lugares de cadena.  Su comida estuvo rica (debes tener en cuenta que te cobran hasta el café),.. la atención buena, en español e ingles..."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJOHFfam5BRRAB",
+            "text": "Food was good but I wouldn't say it was exceptional. Portions were of a good size and the place was extremely busy on a sunny March end weekend. Service was a bit slow due to the crowds. It took quite some time before we could get someone to take our orders but once they took the order the food didn't take too much time. It was just the second outing with our infant grandchild so we didn't linger for drinks or dessert. Just had a sandwich each and left."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIZ2ZxQUlBEAE",
+            "text": "Unfortunately, most of the stuff we hot was either soggy or just very cold. The steaks were okay. The calamari was not crispy nor hot at all. All of our eggs were very average. I did love the fries though. Service was great and the vibe of the place is sweet. Overall, we were REALLY disappointed with the food."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOLTI3OHUxMnQtSjR3RRAB",
+            "text": "Went on a wednesday late morning. Delicious eggs benedict, although i wished the potatoes had a little less veggies cause they were so good without. Finished it off with a pancake, i liked it! Amazing service and cute little patio. Would go back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQdTJ3SnZvNTRmZUJREAE",
+            "text": "Quick one day trip to NYC- Brooklyn and visited Clarks. 1st time going here and if I’m ever in Brooklyn Heights this spot will be on my most definite to visit.\n\nEverything we ordered was soooo fresh and delicious. Hubby seemed not to be too enthusiastic about the fresh orange juice but my cafe latte and my sisters mancha drink was perfect.\nThe salmon Benedict eggs with avocado on the potato cakes is truly the best I’ve had. I wish they would do the cinnamon-powder  & butter sliced bread with the brioche bread instead but my sister loved it.  Great restaurant, service and food! It’s a must go spot!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRaDhlWkxnEAE",
+            "text": "The food was absolutely delicious.  We got breakfast for dinner. The atmosphere was wonderful.  Old photos, classic music.  Waitstaff very friendly and checked on us several times. Highly recommend Clarks if you are ever in Brooklyn."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuc18yQ2dBRRAB",
+            "text": "Great selection for today. There was a bit of a wait but I definitely see why. The service was top notch and the food was A1. The big breakfast is the way to go. You get everything from pancakes to eggs, sausage and bacon. This now one of my favorite places in Brooklyn."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3cDY2TEh3EAE",
+            "text": "Great food although a little expensive. wasn't too busy when i went there for lunch on a weekday but i heard it gets busy on the weekends for brunch. I had the eggs benedict and a cookie and both were super good. I would have given it a higher score but the waiter was never around and the people next to us were so loud that people around us kept staring and making comments but the staff did nothing to address this."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSNGZEYld3EAE",
+            "text": "$$$blueberry pancakes\nDelicious though! Was not impressed with the $$egg whites.\nMy company all enjoyed their food. We went because one of them is a regular.\nIf you eat meat and dairy, you would love this spot. I don't eat meat or dairy and it was my first time at Clark's.\nI think it's pricey but what's not in this current climate.\nService was decent.\nThe atmosphere way okay.\nLunch hour busy.\nFamily friendly.\nNice for dates.\nChildren allowed!\nIt's a winner for sure!\nGlad any business is still operating during this hard times,  so I'll return when next I'm in the area to try the salmon\nCheck them out if you want a hearty breakfast.\nSome pictures included"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRazduWlBBEAE",
+            "text": "What a Lovely surprise!\nFood was delicious and service is great!\nWould definitely recommend\nMenu has lots of options to choose from. Many vegetarian ones🙌🏻🙌🏻"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlcllqdHN3RRAB",
+            "text": "We came here based on reviews and lined up outside to be seated.  We waited around 15 minutes and was hosted and welcomed in a friendly manner.  The menu was great but the food was not so good.  The eggs were just tossed with no presentation and slapped on the plate.\n\nCaffeinated drinks were amazing and as for my friends orange juice, they said it was not good.\n\nPancakes were amazing.  But we were really hungry and wanted good tasting food."
+        },
+        {
+            "date": "1년 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6c09pdHZBRRAB",
+            "text": "Ein gemütliches Café mit tollem Ambiente. Und nicht nur der Innenraum überzeugt, sondern auch die Außenplätze entlang der Fassade. Wir hatten ein mit Ei belegtes Brioche und Toast mit Butter, Zimt und Zucker. Alles schmeckte sehr gut. Der Service war aufmerksam und wir freuen uns schon aufs nächste Mal."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1dE1iRGJnEAE",
+            "text": "This place lives off it's past greatness. The waiting area is first come first served, unless you are a regular who get to skip the line and can place their drink order early. Our server was not good. Took a while, rude and forgetful. Pictures will show you everything. Try to find the sunny side up eggs, none they brought me omelet. Yes taste was good. The place is super loud and it sounds like dishes are being broken every 5 minutes. For the amount you are paying and the tip that is required you can find other near by places. I am giving 3 stars because the food was good."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPTy1fc2FULXVxdjZnRRAB",
+            "text": "Such a great and lovely restaurant!\nThe food was so delicious, very friendly staff and also very cute place"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNad3VLOEN3EAE",
+            "text": "The food is not bad, but it is definitely hyped up as I saw nothing special about this place.\nCame because the place was recommended to me by a local friend, but you can honestly find food like this in any of the diners near where you live.\nThe vibe is pretty classy for a diner however.\nService is what makes up for the average food—all the waiters greeted me and my company with a smile and seated us right away despite their busy tasks.\nNot a bad restaurant—would recommend that you go for a quick brunch with a close friend or a date if you happen to be nearby or are a resident in Brooklyn. I just personally wouldn't bring myself all the way here just for the food 🙂"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1dExiOXl3RRAB",
+            "text": "We had a great breakfast here. Eggs Benedict, Eggs Florentine and a Godfather chicken burger. Some coffees that were decent (for US coffee) and really good strawberry banana smoothies.\nIt was busy, still the service was quick and friendly. The few loud American patrons add to the atmosphere ;)"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyZ0luaVdnEAE",
+            "text": "Buen desayuno o comida típico americano y completo.\nCarta muy variada y comida abundante en todos los platos.\nMuy bien localizado justo en la salida del Metro.\nEl personal atento y simpático."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzaWJiclN3EAE",
+            "text": "Not sure what the hype is all about - either this place used to be good or the reviews are all fake (and paid for). The service was not good - they seemed to be short staffed but it took a long time to order, ask for anything, or pay our check. They were hurried and hardly took the time to respond to our questions. Also, the dishes were dirty - my water glass had orange pulp congealed on the side, and the plates were crusty. They brought creamer for my coffee and had orange juice all over it. Also, the coffee was served spilled in the saucer and had stains on the mug. It was disgusting and unappetizing. The food was also very mediocre. We will not come back and don’t recommend this place."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1MWN5WXNRRRAB",
+            "text": "We got here just before it got too busy. They have an extensive menu. I got the big breakfast which comes with 3 stacks of pancakes, ham, sausages, eggs and bacon. My gosh these were the best pancakes i’ve ever had. Thin enough with enough crisp. Loved it"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJWGhzc1A1NU56TkxnEAE",
+            "text": "Great spot for breakfast lunch dinner\nGood quick service with a 😃"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3LUxlTlVREAE",
+            "text": "I sm from Ohio and My goodness the best location for breakfast! The service was by far the best compared to high end resturants. The servers were sweet fast and very knowledgeable able the menu!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJR0lfcGUxcC1qWjRnRRAB",
+            "text": "5 star experience here. My husband and I spent the morning and Brooklyn and heard about this restaurant as a good spot. Can confirm one of the absolute best breakfasts I’ve ever eaten. As a lover of smoked salmon, this was the best I’ve had. Can’t wait to be back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6NGZLQ3RBRRAB",
+            "text": "I would usually give this place a five out of five. I’ve been a regular for over a year since moving into the dorms across the street. The food is consistently amazing, and the service is usually excellent. However, my most recent experience forced me to lower my rating. There is a waiter who has served me twice now, and both times, his behavior was extremely rude. He forgot several items from my order and brought me the wrong drink order, and when I politely asked for them again, he responded with a blatant attitude. Despite my efforts to be courteous and introduce myself, he did not tell us his name or respond to anything my boyfriend and I said. We would say thank you, and he would just give us a blank stare. When I dine out, I expect at least decent service. Given the number of times I've come here, I was hoping for better. This negative experience has made me reluctant to return. If you encounter a waiter with both arms covered in tattoos, I would recommend dining elsewhere."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5NFlLYll3EAE",
+            "text": "Popped in for a Sunday breakfast at 11:30am ish with 2 friends. There was a small line but we didn’t have to wait longer than 15 minutes for a nice booth table inside. The owner/manager was super nice and actually came out and talked to eat waiting party and shared when we would be able to get a table. Ordered the garden omelette and shared a pancake which was super fluffy. The ambiance inside felt like the cozy neighborhood diner experience that I want for a weekend breakfast. Service was great, would easily visit again next time I’m in Brooklyn Heights"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlLU9hUnd3RRAB",
+            "text": "Elegant Diner, Delicious Food, Cheery Staff, Good Prices.\nSpecial thanks  to Rodrigo; Best server ever, really fun guy !\nHad a brunch on sunday with my family. Only waited 10-15 min.\nWorth It, I would wait an hour !"
+        },
+        {
+            "date": "7달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJcElQMHRnRRAB",
+            "text": "Un parfait petit déjeuner ! Tout était super bon, un peu déçu de l’avocado toast je m’attendais à mieux mais c’était très bon !\nJe recommande à tous d’y aller après une petite balade au lever du soleil sur le Broocklyn bridge !"
+        }
+    ],
+    "reviews_count": 77
+}

@@ -1,0 +1,607 @@
+{
+    "name": "Taqueria Ramirez",
+    "place_id": "ChIJDw8CYIpZwokRm_KQDaRtTK0",
+    "grid": "BK1",
+    "address": "94 Franklin St, Brooklyn, NY 11222, USA",
+    "rating": 4.7,
+    "user_ratings_total": 1741,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBM1NFWlZNVUpHVmpVelRHMWZaa2MzYkRsRFJrRRAB",
+            "text": "Best Tacos ive ever had in my life! The tripe taco was unbelievable!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxNFdHcGlaMVl4V0VaRGRWWklkRmhPTTJ4eVdtYxAB",
+            "text": "Their Pastor tacos are unbeatable"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BeU5sSXRRM2xNTVVGU2NVSndOa1l4WTA5V1RuYxAB",
+            "text": "Amazing tacos"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsd1JpMUtPRVF3VHpBeGFrMXNUV3BtY0dKR1ExRRAB",
+            "text": "The atmosphere is exactly as an incredible taqueria should be.   Delicious tacos, quick service, and spicy salsa.  The tacos are filled to the brim with fillings; you really can't go wrong with any of their options.   Best tacos I've had outside of CDMX, by far."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZd1JWZHBZVXhxVHpWT1RtMTJaRnB2VUdaNVQwRRAB",
+            "text": "Best Tacos in NYC 🤍"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Oa1JqTTJMVzB3ZFcxNWFGbFBWMEo2UTB0ME5GRRAB",
+            "text": "Nice atmosphere and probably one of the best tacos I ever tried. 100% recommend"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyOEwzcjRBRRAB",
+            "text": "Completely overrated greasy tacos. It's a kind of place that you'll try once and never again. Prepare yourself for some nasty indigestion. They should be awarded the greasiest tacos in the city. A complete waste of money and time. Pretty disgusting and overpriced!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKSmRVOTNVbWd3YjBoTE1Xd3lkRTV4YzI5WlZXYxAB",
+            "text": "The perfect taco. I’m done looking for it. It’s here."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWeWMyRlNiSFp2VVVoU1pWVTNUVXd5T1dkTGMzYxAB",
+            "text": "I hadn’t had tacos this good in such a long time! I originally planned to come right when they opened, but arrived a bit late — just in time for the lunch rush. The line was pretty long, and I saw some people ordering to-go and eating outside, so I was worried I might have to do the same. Luckily, a spot opened up inside, and I got to sit down.\n\nWe started by ordering six tacos — one of each kind — and shared them between the two of us. Every single one was amazing! They were so good that we ended up ordering two more. I also loved the self-serve topping bar — it was fun to add what I liked. Overall, everything was delicious, and the experience was totally worth the wait. Highly recommend!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkeFUwNWZaM2x1YlVwRFYxUktOMFpGTVdkeVdXYxAB",
+            "text": "Simple. Authentic. Delicious."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2M3ZXM2pRRRAB",
+            "text": "Almost once a month here for my type of eating, delicious hand sized tacos. Love!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNMlFpMHhPRFUzTlVOamQxTm9aVmRmU2xOaVZXYxAB",
+            "text": "Absolutely delicious! Always cannot wait to go back! 100% gluten free food"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOcVkyUTVWa3Q2ZEZkR1dIWkJUR2hLTUVwWFpWRRAB",
+            "text": "Best tacos I’ve had in my life. Beats all other taquerias in New York / Miami. 10/10 I go there 3x a week since 6months and it still hits like the first time. Brought many people here. Chefs kiss"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214QlVuaGxTRGw2WnpJMGRrMVViRlZQTjJ4aVoyYxAB",
+            "text": "Super delicious!"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSLS1HNkhBEAE",
+            "text": "It's 👍"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwamVEVnFSMUZuV0V0NGFUSlRjVUp1ZEZaNFVFRRAB",
+            "text": "I almost forget to review taqueria Ramirez, this tacos taste exactly like Mexico’s city tacos it is a must in nyc"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBM1NGTlJXVUl6VFhOd1owUm9iM0JKUjA1VlRIYxAB",
+            "text": "Good food, portions are very small.\n5 per taco.\nVisiting from California, surprised to find\nSomethings similar to back home ."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGRWRqVjFRamxVTjBwdVRHNU9PR3h1U2tSelUyYxAB",
+            "text": "Best tacos in the city!\nBeen here twice and can’t wait to go again, tacos were very flavorful, usually there is a line but service is fast"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ac2FYZERiR05LYzNocmJIVm5UMjF3UmpWdVgyYxAB",
+            "text": "Way overhyped....and here I was expecting they make their tortillas from scratch at least but nope. Never again"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsclpVTmpSWHAxTVRKWGVGaHlaazVGWTJSSFRIYxAB",
+            "text": "Best Mexican style taqueria in New York!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWdVRrbDFkV3A2VVdGV1ZqUnBlSE5YTkd4WFRVRRAB",
+            "text": "Had the vegetarian taco. Not worth the wait."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5cWVGVndhRTFEVW0xSkxWQk1WVlptVUVZME1HYxAB",
+            "text": "Tacos are all too salty，thought this place could beat Los Tacos but turned out to be wrong"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0d1FqZzRWMFpFZWkxMFkxOUVja1UxT0d4V1VHYxAB",
+            "text": "These were in fact the very best tacos I’ve ever had in my life.\n\nGo after hours (9pm) weekdays for an less crowded experience as it tends to be rammed throughout the day on weekends."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25adlNteEtUekJLWldWbWNHdFRiMlJuVVZwalZFRRAB",
+            "text": "The place is not over hyped. We got the campechano, tripa, nopales and the pastor. All the fillings were delicious and you can top it with sauces, lime, onion and coriander at the counter. The nopales which is cactus was one of my favourites and the pastor. Although I wish there was more pineapple in it.\n\nYou'll likely have to stand and eat but the service was great and super fast"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kWGJ6SlpSRlF4YzB0QmVEbGtjMFJrYW5veGVtYxAB",
+            "text": "Beautiful tacos w amazing sauce !! Spicy and delicious.\n\nWent on a Saturday and queued right when it opened! Small place so come early to avoid long queues"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xZk5VaFpla3hOUkhGUllUQjRhekZXTFcwNVNXYxAB",
+            "text": "No son los mejores tacos que probé. Están bien pero no son gran cosa"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taT1FVcDJkMnBWTTIxR1lqTnRWRUpvWW1kRFdGRRAB",
+            "text": "An exceptional tacos, el pastor meat was juicy and well cooked with a great marinade.\nTo come back again and again and again."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psZlpIVTFOM2hPV0VsSlVYTnlXWHA2ZVRkV2NIYxAB",
+            "text": "Mais tortillas, tasajo, al pastor, the verde salsa was authentic. Closest Mexican style Taco I have tried so far, great location too. A nice spot to detour after a few beers."
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psNlpuTlVWV2htV1ZFemRsaHRNMDlSTmtKTk5sRRAB",
+            "text": "Excelente"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KaWRURlhVMTlqVkd0NE4wb3pZblpETmw4MVQzYxAB",
+            "text": "Authentic pastor tacos"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUGF6aDBVRTh3ZHpKUk1reFFRa2x0TjA1SVFrRRAB",
+            "text": "I'll recommend this place for a quick bite on the go. Seating is limited but service is fast! It's crowded but Great tacos!"
+        },
+        {
+            "date": "4주 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKQ2VIRkNTVzE1WVd4ek5WQnNSamxCVkdwUlYwRRAB",
+            "text": "즉석에서 만드는 타코 레스토랑입니다. 주문 후 5분~10분만에 타코가 나왔어요. 타코 크기는 지름 10cm 정도의 둥근 나쵸 위에 돼지고기와 치킨 그리고 곱창이 올라간 메뉴도 있었어요. 주문 후 자리에 앉아서 기다리면 주문할때 얼려준 이름을 불러주면서 타코 접시를 줘요. 그 접시를 가지고 별도 소스 코너에 가서, 과카몰리와 살사 소스, 라임, 양파, 고수를 담아서 먹으면 됩니다.\n타코 하나당 가격이 5$였고, 1인당 3-4개 정도의 타코를 먹으면 배부를 듯 해요.\n보통 줄을 서서 기다리는데, 테이크아웃으로 하는게 좋을 것 같아요. 식당 내부가 좁아서 자리가 10개 남짓이라 그 자리에서 먹으려면 오픈 전에 미리 줄을 서서 기다려야 해요. 가게는 12시에 오픈합니다."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205Mk5uVmhka1JaTkVSelNXOURUV2t4ZFc5c1NYYxAB",
+            "text": "solid quick, few options for efficiency"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWcFoxRmpVbEZxYzE5eVRsWkRPR3hzTmtoU1EyYxAB",
+            "text": "Some of the best tacos I’ve ever had! Definitely a contender for the best tacos in New York!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taVVkxSmxVbVpNWTFZM2JFTkNabGxHYW0xVWNFRRAB",
+            "text": "Went here with my girlfriends today… It was pretty good. Al pastor was fire. My friend said the first bite of hers was really gross, but the rest of it was good so I’m not sure what that’s about but they pretty much just give you the meat on your taco and then you dress it yourself with onion, cilantro, lime, and sauce."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GME0yNTNVemt5ZG1aR05WWndVVkV3WkVJelJHYxAB",
+            "text": "Best tacos and great service 👌!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21adGIydzNabFpaZVRWbk0wcDVkbnAwUTNZM05sRRAB",
+            "text": "Little gem in Greenpoint! Amazing tacos like in Mexico. Very small place with not so many seating but worth it! My favorite taco was the Longaniza one with spicy beef."
+        },
+        {
+            "date": "1달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxWWNYZGhUWFoxYUUxdmFXeDJOblZyWHpoMmJYYxAB",
+            "text": "Super tacos, vraiment excellent, service ultra rapide. Attention à la sauce piquante, allez y avec modération !"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tseFVIcGpOMnhKT0d0WU4zaHhjRWhzVVRGUWJHYxAB",
+            "text": "Not used to having tacos of this style or quality in NYC! Was delighted to visit this taqueria with a local friend who reigns from California, so we know how to sniff out the authentic stuff. Love a simple menu, and when you see a trompo, and a fully stocked salsa bar, you know you’re in the right place. Will always make it a point to stop here when I’m in the area."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1ellUQjNRMDU0ZEhaNWEyMDNXazlVYUZGVFMzYxAB",
+            "text": "This taqueria has suadero, longaniza, campechano, and tripe tacos, which are hard to find in New York City. Only the longaniza and tripe tacos were available, and they are excellent, although the best ones would be the suadero and campechano, which were already sold out when I arrived. The place is small but has a good atmosphere; you can also add the green or red salsas you like, as well as onion and cilantro."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZeVZsOUNObXhpYVhWemMwTllTbGxEYTIxd2RuYxAB",
+            "text": "Really cool Taqueria. Excellent tacos. They are quite small, you need three to four to fill your stomach"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5NlFXMDBXSHB2WTBseFRuRTVPR3Q1Wm1wRmJXYxAB",
+            "text": "Delicious tacos. Simple menu, line moves quick. Always a stop to hit when in Greenpoint"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NdFdHRXhObVJEUlhWeFJtWjBNbHBUTjNWc2VHYxAB",
+            "text": "Amazing authentic tacos. You need to drop by if ever in Greenpoint"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxSVVrMTVVVEJGVjNWUFFYWTFNMWxKTjNsSE1uYxAB",
+            "text": "Amazing tacos, very authentic. The service is also outstanding, especially from Miguel, who took great care of us today. Overall, a wonderful atmosphere."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxeU1EUTJjVUpVTFUxd1IyODBSR1ZvTkdrMVpsRRAB",
+            "text": "Came at 3.30pm on a Sunday and didn’t have to wait long for it. Highly recommend the Tripa. It was flavorful and juicy. The pastor was good but nothing mind blowing."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5c2NpN3dnRRAB",
+            "text": "Top five taco shop in the city."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTlVYRnFNa2hYVlZwT2VXeEVTMEUxVmpRMVJsRRAB",
+            "text": "Perfect! Careful the spicy sauce is spicy indeed"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xabVZsRTFaR0pRWVUxbU1VaFBkREl0ZVhwdE5XYxAB",
+            "text": "Dope taco spot , we had the Al pastor and it was really good. Would definitely come back! They are heavy handed with the meat and it is very tender and juicy."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kSlduWnRVazlsVGtWNVYwSm1XVEprUW1kdE5uYxAB",
+            "text": "The tacos al pastor certainly justify the travel time to Greenpoint and the long lines. This is not only a great NYC taco place, it would be a very good taquería in Mexico City. Unlike the other popular taquerías that opened recently in the city, this one is worth the hype."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVGJIcHFlSGxmWkRaWVFuTnRRbGx1YlV0TllYYxAB",
+            "text": "The best tacos in NY!"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPbmZ1aFlREAE",
+            "text": "정성스런 타코 맛. 재료의 신선함과 맛의 풍미가 느껴지는 곳이지만, 매운맛이 다소 가미가 되어있어서 아쉽다. 타코 초심자들은 로스타코스를 더 추천하고, 좀 매운맛을 도전해보고 싶은 분들은 이 곳을 추천한다."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKRE1FcEthbUZ3V1hsdFp6UkVTMncxVmtWNWEzYxAB",
+            "text": "I love this place. It's a must have anytime I'm in the city. I love bringing people here and watching their minds explode with how amazing these tacos are. Super small shop so only bring one or two people but worth waiting in line for. 10/10 Tacos."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxM1owbHFUV1o0VUhod2NuSXpXRWxRU1VoNVYxRRAB",
+            "text": "The tortilla was slightly greasy but had a unique touch, and while the meat was a bit under-seasoned, it really let the natural flavor of the meat shine through. It was incredibly tender, too. The salsa was delicious, and overall, the atmosphere was fun and enjoyable. Definitely a place with character!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0eVVHRlFWWEpTVURkdE0zSkxNMk52VTNoak5sRRAB",
+            "text": "Lives up to the substantial hype. Easily the best tacos I've had in NYC. Meats are super flavorful, tortillas are delicious and thin with enough structural integrity to easily eat the tacos.  Very no frills - 5 types of tacos, some drinks, one mild salsa one spicy salsa cilantro onions limes that's it.  Al pastor is incredible, longaniza has a nice kick, suadero is rich and meaty.  Went Sunday of Labor Day weekend, lunch line was about 20 min, not bad.  Highly recommend."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsSlgyMUJRbUZWTWtGQ1FtWm5Wa3cxUmpscFdYYxAB",
+            "text": "I've been wanting to come here forever, and I finally made it--just 40 minutes before closing! Unfortunately, they were out of suadero and tripa, which I was really looking forward to, but that just gives me a reason to come back earlier next time.\n\nThe spot is small with limited seating, yet it was still buzzing with energy late into the night. The upbeat music added to the lively atmosphere, making it a great place to grab a bite.\n\nI ordered the pastor, which was hands down my favorite--packed with flavor and topped with a perfectly thin slice of pineapple for that extra touch of sweetness. The longaniza (spiced ground pork sausage) was decent, but not really my thing. The campechano, a mix of suadero and longaniza, was juicier thanks to the beef, making it a solid choice.\n\nThe wait wasn't too bad, and I loved the small DIY toppings station where you can load up on onions, cilantro, and sauces. The spicy sauce was incredible--just the right amount of heat!\n\nI'll definitely be back to try the other tacos. Can't wait!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkUmFXMXBTSEpQWVU1QllUWXlNbEF4T1VGZlRVRRAB",
+            "text": "I was exploring Greenpoint today and had to make it to Taqueria Ramirez. As a Californian living in NYC for the past 15 years, Mexican food in the city has been more miss than hit. These tacos remind me of home. The pastor had the right balance of sweet and savory, and the Suadero was just decadent and melt-in-your-mouth. You definitely need to account for a wait (we were about 12 people deep and the wait was about 20 minutes to get to the counter), so make sure you order ALL the tacos you want at once."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJbjZ6S1hnEAE",
+            "text": "Really good CDMX style tacos worth the hype.\n\nSwung by on a Sunday just before opening. A line started forming around 11:45, but it moved quickly—maybe a 15–20 minute wait, max.\n\nDine-in only, but everything’s served on plastic plates for fast turnover. True to the CDMX street taco format: you get the meat on a tortilla, then head to the topping station for sauce, cilantro, and onions. Simple, efficient, and very DIY.\n\nAmong the three I tried, Tripa was my favorite. Slow-braised and then torched for a smoky finish. No seasoning (maybe the broth they boil it in has a little bit of spice), so I skipped toppings to savor its natural flavors. Still very soft, but it wasn’t too greasy.\n\nAl pastor was also solid. A bit salty on its own, but once I added diced onions and hot sauce, everything balanced out nicely. Classic combo.\n\nCampechano was a mix of Suadero and Longaniza. Good, but not my top pick. A little heavy for my taste, though I get why it’s a crowd pleaser."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkR2VHaG5XVE5FY1ZCelYxRkpUMms0U0Zob1QzYxAB",
+            "text": "Se capitate a Brooklyn e amate i tacos autentici, Taqueria Ramirez è una tappa obbligata. Ci sono arrivata incuriosita dalle foto degli avventori e dalla faccia invitante dello spiedo, e devo dire che le aspettative non sono state solo confermate, ma superate.\n\nIl locale è piccolo e gestito interamente da una coppia di messicani che hanno saputo portare un pezzo vero di Messico a New York. La carne è semplicemente meravigliosa: ho provato sia i tacos di trippa sia il loro famoso al pastor e gli altri 2/3 presenti in menù tra cui quello al cactus, tutti eccezionali. Carne croccante fuori e morbida dentro tagliata al coltello.\nIl taco “al pastor” viene cotto sul trompo tradizionale, mentre altri tagli (suadero, tripa, longaniza) vengono cotti nella choricera, una pentola simile a un “jacuzzi di carne” creata su misura in Città del Messico.\n\nRispetto alla famosa catena con più sedi a NYC, qui la qualità è nettamente superiore: pochi tacos, preparati con cura e passione. C’è anche un piccolo davanzale dove si possono finire di condire a piacimento con peperoncino, coriandolo, guacamole o cipolla cruda: un dettaglio che rende l’esperienza ancora più autentica.\n\nIn poche parole: super consigliato. Se siete in visita a New York o Brooklyn, non lasciatevelo scappare!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JeFdFOXFlRzVOVFhGcVlYcGphRVZUYzJReU9GRRAB",
+            "text": "Okay, someone told me these were the best tacos in NYC...and gosh darn, im inclined to believe them. They are so delicious and juicy. I had 4. 2 beef and 2 pork. Wish I had ordered some to go 😭."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poa2NHMUtZbk5JWldoWE9WQkdlRXhPVFZKMVJFRRAB",
+            "text": "Finally made it here! Got in quite quickly (less than 10 minute wait).. very simple clean interiors.. we were able to place our order quickly.. we wanted to have one of each taco but they were out of the tripe - so we had the other 5.. Compechano was hands down our favorite - perfect seasoning and the meat was cooked to perfection! The other flawless taco was the Suadero - slow cooked beef confit was juicy and tender and the taco was just overflowing with the meat and juice! Least favorite was the Nopales - didn't like the texture of the cactus nor the seasoning. The Nopales taco at Los Tacos No 1 is WAYYYY better.. the other 2 tacos were good but one was underseasoned and the other was overseasoned..all in all, service is efficient, it's a simple/chill ambiance and the meat portions are massive..but they lacked some seasoning consistency and definitely need to think about that nopales taco! I'm very glad i did this but will probably not go out of way again for this taqueria."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSaE1qQnZXbEpRU213eWRGTlZabFpNVUdzd2JrRRAB",
+            "text": "Good, reliable tacos. I tried their pastor and suadero, both very classic Mexican street tacos. Nothing extraordinary, these tacos are omnipresent in Mexico, SD and LA. Harder to find in NY but you can still spot them with minimal effort.\n\nService is quick and courteous. The place is tight. Some bar seating and decent outdoor seating as well."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOalQwUm9UWE5PZGt0QlZFaDBaVlpHZUZOaldHYxAB",
+            "text": "We went around 2pm and there was no queue. We got the pastor and suadero and they were the best tacos of our trip, so much so that we immediately went back for more after finishing our first round. We spent the rest of our trip eating at other taquerias but nothing else was as good as these."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSNllUWlRZVXN0YjBwNVowZEROVXRUUjJOMGNIYxAB",
+            "text": "Simple and good. Line moves decently fast. El pastor was my favorite. Tortilla sauces and meats are all fresh and tasty. Great to come after some drinks"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWQ05FNXJSRnBuWTJoaFIzaG9XbWcwTVdSNWVtYxAB",
+            "text": "This is hands down one of New York’s best and most authentic taco places. The fish and short rib taco were fresh, tender and full of flavour and cilantro and that was before adding in from the array of chilli sauce on offer. Pick up a plate and perch outside with a beer, there’s nothing better to it other than a flight to MEX."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poc2IxbHRhSGhMVFhaSmRVcGhiMUJyYkZWQ1RHYxAB",
+            "text": "Best tacos we’ve ever had! And you can bring your own drinks which I find as a bonus."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYZ2JLQm93RRAB",
+            "text": "This place is quite popular, so you may end up waiting in line, even during off-peak hours. Flavor-wise, their tacos are good but might not stand out dramatically compared to other top Mexican spots in NYC. Considering the wait time, the food itself is around 3/5. However, the restaurant, though small, has plenty of outdoor seating, and the lively atmosphere with music adds a lot to the dining experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWRVIxaDVWM1ZWTjNBNWVtNTNPRTFyWXpGYVNYYxAB",
+            "text": "Very authentic Mexican tacos, amazing service and taste. The place is small and there might be a line but they are efficient and move quickly."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZeVpFSlBkMEZEVkVWSGEzWnpiMmQ1YWtaU1kxRRAB",
+            "text": "Worth the wait! Easily the tacos I’ve had in NYC.\n\nOff hours line takes 15-20 mins and it’s maybe 30 at peak hours.\n\nPastor tacos are sublime and the combination taco was also superb. The chorizo mix they have has a sweeter, nuttier spice like cinnamon or nutmeg in it that I haven’t had replicated outside of Mexico.\n\n3 tacos for a light meal, 4+ for anything more. 3 tacos and a Topo for each of us was ~$22."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRcDVMUkd3EAE",
+            "text": "Best tacos in the city. Go up to the counter, place your order and in about 5 mins, food is ready. Not many seats, so you’ll probably have to stand outside to eat. Highly recommend the green over the red sauce."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CelExOXZRbVpVYmsxdVdGRlBZMW80VkdGRlRuYxAB",
+            "text": "I had the pastor and longaniza. My friend got the tripa. The pastor and longaniza were fine, nothing special. My friend said the tripa was very tender and flavorful. If you are in the area, I would recommend stopping by if you crave tacos. I would not go out of my way for the food nor would I crave it."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSR1dWbDNRMXBxY1dkc2MxVmpWVUZOUzIxRE5WRRAB",
+            "text": "I take all my foodie friends to this pace and they never fail to impress\nMy favorite taco place in all 5 boroughs"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KT1ZqaDNTbkZzYm05MFEycFFiVll5YzBWcGFrRRAB",
+            "text": "I love going to this place. The tacos are so tasty and even though it may be busy, it’s not too difficult to find a place to sit."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2aHJTUmhnRRAB",
+            "text": "Only six types of tacos are sold there and I have tried all. I can say it is the best taco in Manhattan and Brooklyn. I have been twice in one week but still can’t get enough of it. If you love spicy, their spicy salsa is amazing. Tacos with salsa and cilantro are amazingly delicious."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2enNtTDhBRRAB",
+            "text": "Happened to walk by and noticed the crowd so I tried a few tacos, and am SO happy I did! The pastor is a staple but the tripa is what blew me away! I literally came back the next day because I had to have it again. Great spot, love the vibe, and can’t wait to be back!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnelBqSnd3RRAB",
+            "text": "The pastor was definitely one of the best I ever had. Loaded with lots of meat and flavor. Definitely worth the trip. The rest are just okay. Limited seating and no take outs."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiNzltVGZ3EAE",
+            "text": "Absolutely the best street style tacos hands down in Brooklyn if not NYC. The staff are incredible, cranking out order after order. Even though there is always a line, it moves quickly. Highly recommend the pastor with pineapple and the longaniza 10/10🔥🍋‍🟩🌮"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfdHVPTVd3EAE",
+            "text": "This place was WILD busy on a Sunday mid-afternoon although the line and service moves pretty fast. All the meats we tried were good, and the price was pretty standard. They also let you put the taco toppings on yourself, which was awesome. Their homemade salsas are really really good. Seating is pretty cramped and it doesn't seem that take out is an option, so off-peak hours might be better if you want to make sure you don't feel rushed."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214Vk1HZG5XRmMzU201NFJqYzNRVTFuVVU5NmJsRRAB",
+            "text": "The best taco-focused spot in NY so far for me. Make sure to grab the pastor, but everything is good here."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pad2FURlFkVnA1UjNsTmJreHRRVXBFVTE4NVNWRRAB",
+            "text": "Street style tacos packed with flavor and great homemade salsas to complement the tender meat. Would recommend if you’re in the area - easy on the spicy red salsa"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oelFqZHZUM0pOT0hGNlRrRm9WekZJU2xOdU9FRRAB",
+            "text": "Best taco pastor north of Mexico. Lovely local vibe and a place where hot sauce actually is hot 🔥 Love every part of it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMbzV1bnlRRRAB",
+            "text": "The best Al Pastor tacos I've ever had, every time. Ramirez doesn't miss. The torched longazia sausage is great too, but I can never get enough of the pastor so I've only tried those two.\n\nEveryone who works here is great too. They're always so kind and hard working. It feels like they really take pride in everything they do and it shows.\n\nI lived nearby for 2 years and went here countless times. Moved out of the neighborhood recently and I miss it so much I still stop in when I can."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKS0FwS0x4N09uaGtRRRAB",
+            "text": "my husband bought me to this taco place in greenpoint and i have to say that these are the BEST TACOOOSSS ever, the al pastor tacos were so FLAVORFUL and we were able add various toppings at the sauce bar 😋😋 additionally these tacos were so filling and so yummy you just WANT to get more, another wonderful place to get and eat tacos were my baby 😋"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKcVVHTm5OVmhGTVc1aVYyMTZSekpJZFhWcVlYYxAB",
+            "text": "The best tacos in all of NYC! So juicy and tender. Absolutely incredible."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZOHVudF93RRAB",
+            "text": "Taqueria Ramirez is that neighborhood taco shop that’s worth the hype. I especially love how deftly seasoned the fillings are and their bright and stingy salsa. Watching the chefs preparing tripa and suadero in bubbling lard inside a como choricero is yet another down-to-earth experience. Not to mention their kicky salsa roja with habanero and creamy tomatillo-avocado salsa verde, which is unapologetically delicious.\n\nStill, paying 5 bucks for a single taco (where, for the same price, you can get half a dozen in CDMX) but I guess that’s a reasonable economic behavior now since we’re talking the most gentrified part of Greenpoint. Regardless, I’m willing to pay for good quality food. Cállate and take my money, Ramirez."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKcVJFUm9NVVJKY1VGRGMzZ3phMUJEV201MU5GRRAB",
+            "text": "Excellent experience here and damn the food is good. Small menu, reasonable prices, and a lot of meat on those tacos. I love how you can dress the tacos yourself (as someone who hates onion on top), and their spicy sauce actually has some heat.\n\nAbsolutely worth the wait in line (only took a few minutes) and will look forward to coming back."
+        }
+    ],
+    "reviews_count": 85
+}

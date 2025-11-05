@@ -1,0 +1,474 @@
+{
+    "name": "Arberia",
+    "place_id": "ChIJNfnVkOdFwokR_t07IX7mT5Q",
+    "grid": "BK11",
+    "address": "2325 65th St, Brooklyn, NY 11204, USA",
+    "rating": 4.9,
+    "user_ratings_total": 204,
+    "phone_number": "(718) 676-4408",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kaGNXZEVjMWMwVFVwT1RHWmxYMkYyV1hCZlYwRRAB",
+            "text": "Great food, great coffee, very hospitable owners and staff, great prices."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVVh6QnRjbTA0U2sxa1JubHhiWFpCV2pFeFVsRRAB",
+            "text": "Thank God I came across this restaurant. If you love burek/pita then this is your spot. Absolutely delicious food coming from these fine people. And to add to it the restaurant is spotless. You can eat off the floor how clean it is. Great job guys!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taTFdFMWhjVWRYTkRFMFRtMWxZa1pSTVd0amNXYxAB",
+            "text": "Pleasant place, good food, nice people"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205MFFXWlNUbEJ1ZWt3eFEwdEtTbkIzTkRGZlNtYxAB",
+            "text": "We were visiting Brooklyn from Chicago and were in the mood for traditional Albanian. Awesome spot with traditional fair. They hook it up , we couldn’t finish everything but it was all amazing."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xObGVIZEVaRlpOTWxvMk5rWnRla2haU1ZFeVVrRRAB",
+            "text": "The food was amazing, and the service is one of those rare kind, warm and friendly type of service. Highly recommend."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWMlpHUm1TMkV5VG0xM01FMHhhbUpGYzFSdFJtYxAB",
+            "text": "Good espresso. Delicious bureks (spinach, meat, cheese). Balkan vibes"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCYVZqRjRjVFZNTm0xNlJ6UkpkMmMzTW1OclZFRRAB",
+            "text": "Excellent burek and qebapa at good prices. Nice staff too. Excellent place to stop by for lunch."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pscmEzUnplVmhzZDBFeFIyYzFMVTV6UXpsc1prRRAB",
+            "text": "Loved this restaurant! Food is at an amazing price and very filling. Great service and atmosphere. Definitely recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sT2NEbExlbE5yV25Wb1EwcDRNVVExUW0xUlRGRRAB",
+            "text": "Very good kebap and Fantastic service guy"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taVllqUTFTMnhETkhscWVETnljMDl6Ums4dE5FRRAB",
+            "text": "So delicious and such friendly service. Will be back to try more things on the menu!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OM1JVdzBOVVpsTTNCTlIxVjROMHRIYkdGMVQwRRAB",
+            "text": "They really went above what I thought possible. Their ingredient quality is apparent, and portions are generous. Employees were right there when needed. This spot could satisfy your expectations. Getting seated promptly becomes impossible during busy periods."
+        },
+        {
+            "date": "2달 전",
+            "language": "sq",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WT1owTnhibEJzTW5VeFVraHBhWGxTUVhkVFRFRRAB",
+            "text": "Gjakova"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SVVNEY3hWR3Q0VHpoVGMxaFBXR2sxVUhOc2VXYxAB",
+            "text": "Always great food and service,  very welcoming hospitality.  Good prices and consistency on their food for many years .Thank you for being amazing."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCSGVuWk9lRlpSYTBwUlYzaG1RbVJDU2xWd1YyYxAB",
+            "text": "First time I went to this place. Let me tell you the food was delicious. The staff were very friendly and excellent service. I highly recommend this place. Definitely I’ll go back"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTGRVdGtUREJrUjBwTVlucExOVGxtVVVOVmFGRRAB",
+            "text": "Ok i think Ive been here at least 30 times now. Once for dine in and the rest take out. Dine in was great. Got a large grill platter, meats are great, i will say i wasn’t crazy about the ribeye, but it wasn’t bad. For take out my go to is a qebapi sandwich and ice latte. This has to be the best sandwich I’ve ever had. Bahn mi used to be my favorite but this beats it. Add the Ajvar sauce and it’s even more great. I would recommend this place to everyone"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210aWJtZFRRMmxIWlZKa056WlBXREZQYlhjeFRsRRAB",
+            "text": "Delicious Burek"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMSFI1SUROc3Vld0VnEAE",
+            "text": "Delicious food and great service!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQQ1U3cXZXdE9QUDFnRRAB",
+            "text": "If you’re in need of delicious balkan food this is the greatest place . Everything on the menu is  very flavorful , and has its own special taste ."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJM3Jtb1hpM2FialZ3EAE",
+            "text": "Cheese burek is simply divine 🤤"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKQ0o2T3FnZ0l2TTBnRRAB",
+            "text": "Delicious classic Albanian sandwiches!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJcXRXY0RREAE",
+            "text": "The burek stole the show although it may seem expected many locations I’ve had mess burek up. I wish I lived closer to them I’d get the burek everyday. I loved the shredded feta on the salad I’ve never seen that before and it gave a unique touch to the salad and inspired me to love feta even more than I already did. Overall this was a great meal and worth a try especially if you’ve never had Albanian food before."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJcTg3aHpBRRAB",
+            "text": "A piece of home in Brooklyn! They have amazing delicious food"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3cDdtSjVRRRAB",
+            "text": "Amazing food so delicious. We came here for first time and tried the shepard salad, burek, chicken soup ans qofte. Everything was soooo delicious and fresh."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnb2RtSkFREAE",
+            "text": "Ultimate Albanian experience ❤️‍🔥❤️‍🔥 (food, vibe and everything is perfect!)"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQaTlyOVJ3EAE",
+            "text": "The best Gulash I ve ever had in my life. The food is so gooood. Highly recommended!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtdVp2TGJnEAE",
+            "text": "I visited a lot of food places especially for breakfast and it is hard to find place where you feel satisfied after having a meal. These guys in the kitchen are just amazing!! Though they have no breakfast menu in their menu they made it for me when I asked whether they have it. It was delicious!! I swear it is just perfect! If you like stuff with meat and not vegan go there, you will enjoy it and thank you guys! I am your regular! I am ready to go to see you for breakfast lunch and dinner. I guess it is family business? Just wonder because I see that you really love your job!🙏🙏🙏\n\nUpdates. Review in 2024.\nI’ve been coming to this place a lot but unfortunately I could see how quality of food went down. Especially “borek pie”. It was full of meat inside first when I came here. But today I just realized there’s almost no meat inside. It is not a borek pie anymore, it is a pie with some drops of ground meat inside. Literally 2-3 times less than it is used to do. But the worst part is before it was $22, and now $26. That’s not fair guys…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYdnRQNjBnRRAB",
+            "text": "I recently had the pleasure of dining at Arberia Grill, and it was an exceptional experience from start to finish. The cozy atmosphere instantly made me feel at home, and the friendly staff were welcoming and attentive without being intrusive.\nThe menu features a delightful selection of dishes, all made from fresh, local ingredients.\nWhat truly stood out was the personal touch; the owner came over to chat and made us feel like part of the family. Arberia Grill is a hidden gem that prioritizes quality and customer care. I can't wait to return and try more of their offerings! Highly recommend for anyone looking for a fantastic dining experience."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYek1tWlpnEAE",
+            "text": "Me and my wife ordered  the Spanish pie and qebaba and they both tasted great"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURicklUc3dRRRAB",
+            "text": "Excellent cebab excellent Albanian food. Would recommend any day"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiaXRqYXVRRRAB",
+            "text": "Their cheese burek gives me life."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyMnE2RkpnEAE",
+            "text": "The waitress is very nice. She is on point with assisting with food and recommendations. Just go meat, meat, and meat!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyZ00tX2xnRRAB",
+            "text": "Delicious albanian food"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6NTVDZVh3EAE",
+            "text": "The best Albanian food In NYC Marina was Amazing I will be back"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUOXEtcVlREAE",
+            "text": "This place is amazing. The food and drinks are fresh and delicious, the outdoor seating is awesome, and all the staff and owners are so friendly and welcoming. A true gem tucked amidst the bustle of 65th street — go enjoy a great meal, a great vibe, and tip generously."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqNjl5WXJRRRAB",
+            "text": "Went with my 2 BFF servers was very helpful.  Meat choices was minimal food tasted good."
+        },
+        {
+            "date": "1년 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqX2YyYVlREAE",
+            "text": "Еда здесь вкусна!\nОткрыл для себя новые вкусы. Не пожалел"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqdjRydmp3RRAB",
+            "text": "Best Burek in Brooklyn !!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqcTZDOVpBEAE",
+            "text": "I like the food"
+        },
+        {
+            "date": "1년 전",
+            "language": "hi",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEdjRTSGdBRRAB",
+            "text": "Yumiiii"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5LXEtWTdRRRAB",
+            "text": "If you really want Balkan food, GO HERE!! Incredible, tasty food. Wow. I’ll be back"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkNUxubEV3EAE",
+            "text": "Best place in nyc to enjoy with your friends and family , delicious food and very welcoming staff !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsdTd2OWtnRRAB",
+            "text": "This Albanian cafe is lovely. The staff is friendly, and the chicken soup with 9 vegetables is real food to sustain you. I left feeling nourished and pleased that it was so well priced, considering the quality. My only regret was that the music was a little loud, but it seemed to keep the staff and cooks happy, so I can understand that.\nAll in all, this place is a gem, and I definitely look forward to going back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGcHRmdGJREAE",
+            "text": "Best place for balkan food definitely will come back again ill recomend this place for evryone"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGNjl6WVFnEAE",
+            "text": "They have delicious food"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1NElucVJnEAE",
+            "text": "Fresh and delicious!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1bE9mSzZnRRAB",
+            "text": "I ate dinner here last night with some friends it was amazing.\n\nTraditional Albanian cuisine in a small quaint setting. It made me feel like I was back home! Service was top notch, and the food was so good that we ate it right away and forgot to take pictures.\n\nWe had the mixed grill platter, cheese burek, meat burek, qofte sharri (seasoned ground veal grilled stuffed with cheddar cheese), peppers and cream. Dessert we had tres leches and bombica.\n\nOur waitress was very kind and attentive. Overall an amazing experience. If you’re looking to try Albanian cuisine, this is the place!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCa2ZmR01REAE",
+            "text": "Absolutely fantastic Albanian dishes. Tasted just like the many home cooked dishes I've enjoyed in Prishtina. The burek and speca me mazë were our favorites! Faleminderit shum!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKeHFUT3FRRRAB",
+            "text": "First time trying Albanian food and not disappointed! Staffs are friendly, atmosphere is cozy and food is pretty good too (plus lots of bread as appetizers :)"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM4c01udGhBRRAB",
+            "text": "Great find! I accidentally found this place and now a frequent customer! The food is delicious and flavorful! The spinach pie and kofte are my favorite and the tres leche is the best tres leche I've had, seriously! The staff is very friendly and it's always pleasant going there. Highly recommend, you won't regret!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtOWRTY1NBEAE",
+            "text": "This was my first time trying Albanian food. I had veal meat platter. It was delicious the bread was also good. I am glad I tried it. So I will try some more in the future."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKa3Z6ZENBEAE",
+            "text": "The food is DELICIOUS and people are very nice and friendly! It gives me nostalgia and it reminds me of my home (Kosovo) ,every time I go there."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCaEt2b2FBEAE",
+            "text": "Love the food here and the people are so friendly."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlbHFQOE1nEAE",
+            "text": "One of the best places in our neighborhood to eat! Amazing food and beautiful people. Thank you for introducing your cuisine on a such a high level!\nThe only one issue about this place is that they don't have any system to eliminate smoke from cooking, frying etc. Guys, you need to fix this, so customers would not sit in the smoke. I'll still leave 5 starts hoping you'll improve that soon."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtbjdqeXV3RRAB",
+            "text": "I love this place. The food is so good and delicious. Even though I live far away from this place, I try my best to go there every other month. I totally recommend meat or spinach pie and  kuymak(not spicy one) Enjoy!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURjMk9HanVnRRAB",
+            "text": "I love the new spot on my block!! It brightens up the neighborhood! Great people even better customer service!! Barely any wait time for the food as well! The scenery was very lively and clean makes you feel like you’re in a 5 star restaurant!  The food is not only delicious , but tasted like it was made with love!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlaGFDcmtBRRAB",
+            "text": "The food is Authentic Albanian, delicious and flavorful! The staff is very friendly and it's pleasant going there. Highly recommend, you won't regret! You can also look them up on YouTube \"Authentic Albanian Food tour of Bensonhurst, Brooklyn NYC\""
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKaE4tZkxnEAE",
+            "text": "Accidental find!  The food here is delicious! The qebapa is lovely especially with the fresh bread. Get the mix grill - it's a good introduction to this food. It's not a particularly special setting/ambience but the food is good!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURjMkw3TG9BRRAB",
+            "text": "Most amazing Balkan dishes I ever tried. This type of food isn’t even of my culture but I love it so much that it made me go look for similar restaurants but without a doubt none of them come close to Arberia. Friendly staff and tasteful dishes. What more can you ask for?"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPaUxib213RRAB",
+            "text": "They make traditional burgers for thee people and they overcharge. They better make smaller burgers and not triple-charge. Whoever eats a lot can order 3. Delivery guy also charged me more than what was in the menu"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1aDZHelFREAE",
+            "text": "Amazingly delicious Balkan food!  Burek is sensational and the yogurt is the best Ive ever tasted!  I would not go anywhere else for Balkan food!  The best!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNTeU1ESlpREAE",
+            "text": "I am not sure how my sister came across this place but I am grateful she did!!! Amazing food which just remind me of home and oh boy the deserts!!! My favorites is tres leches.. it just melts in your mouth. Definitely coming back for more 👌🏻…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4M0lEeGpRRRAB",
+            "text": "Espresso, fli, burek, cevapi all great and taste amazing. Americans don’t know what is real food. Very lovely place, staff is very friendly. Always good to come back 😁"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLMnBXRVZBEAE",
+            "text": "Was passing by and randomly ordered some food to go, and it was so tasty! I am very satisfied. The meat dishes are so good! And very friendly customer service."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4NHVEMmNBEAE",
+            "text": "I tried the burek ( both meat and cheese) also had the qevapa. Both were incredible. Burek was cooked to perfection. Filing inside was just right , perfect blend of spices. Qevapa were cooked just right. Not over cooked. Soft and tasty , again the spices were on point. Not to mention the place was spotless !"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxbUktUXFnRRAB",
+            "text": "The best thing that happened to the neighborhood during the pandemic, even thought we recently moved I still drive one hour to Arberia every week to get my albo food fix. The meat byrek  his hands down the best I ever had outside of Kosovë , and if you’re new to ballkan cuisine make sure you try Fli and thank me later 🤗…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQydHZIWUZnEAE",
+            "text": "This place is GREAT the burek is so good that can be an addiction the meats very flavorful and not stinky as most of places lately the peppers appetizer is heavenly and prices are more than reasonable you have to visit and experience the flavors.service was great the waitress was extra attentive without being too much I will be going back very often"
+        }
+    ],
+    "reviews_count": 66
+}

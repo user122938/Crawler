@@ -1,0 +1,54 @@
+{
+    "name": "Sunny Side",
+    "place_id": "ChIJoQZysQdFwokRoMmY21jgWew",
+    "grid": "BK12",
+    "address": "4510 18th Ave, Brooklyn, NY 11204, USA",
+    "rating": 4.3,
+    "user_ratings_total": 11,
+    "phone_number": "(845) 320-3927",
+    "reviews": [
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJSGV3NUxfb3YtbjdBRRAB",
+            "text": "Crap ghost kitchen on uber eats that sells awful breakfast burritos."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnM2VYMlpREAE",
+            "text": "i ordered from here on uber eats and the breakfast burrito I ate made my stomach hurt immediately. To be honest I didn’t finish it because it didn’t taste good at all 🫤"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXdHN5SkR3EAE",
+            "text": "The greatest breakfast at the cheapest price around town!\n\nDefinitely coming here more often for the customer service as well. A simple tuna sandwich is less than $6... And I just came this morning to get another bagel!!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCNHFxX3JBRRAB",
+            "text": "Great service amazing"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXbnZ5akp3EAE",
+            "text": "Wow next level customer service and the food is just amazing"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXd0xyUWp3RRAB",
+            "text": "The food and Customer service was amazing"
+        }
+    ],
+    "reviews_count": 6
+}

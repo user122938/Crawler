@@ -1,0 +1,509 @@
+{
+    "name": "Pasta Night",
+    "place_id": "ChIJ37Tc_DFbwokR4p2N95g9I7s",
+    "grid": "BK8",
+    "address": "575 Vanderbilt Ave, Brooklyn, NY 11238, USA",
+    "rating": 4.5,
+    "user_ratings_total": 126,
+    "phone_number": "(718) 483-8443",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tweFlrbzFjVXB4VVZWNmRtVm9aVUp4UlRSbGRsRRAB",
+            "text": "Solid pasta, girlie vibe."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Salh6SnJTa2xvZERkRmIwNXhjSGx5ZDNSclowRRAB",
+            "text": "A very welcome addition to Prospect Heights offers a menu of classic Italian dishes and well-crafted cocktails.\n\nSolid Italian food is somehow hard to find in Brooklyn but Pasta Night hits the spot!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sb2FHRmZhakJuVkhrd2FWQk9SVmt3VEhwamJrRRAB",
+            "text": "This is officially my new go-to Italian spot in Brooklyn. The fresh pasta dishes were both affordable and tasty, with fast, friendly service. I ordered the Caesar salad, meatballs, focaccia, butternut squash carbonara, and the vodka sauce. Every single dish was delicious. Can’t wait to go back and try more!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsbGRIWmlVVkpQUzFGRWJrcHJYMWg1VVdSeGNYYxAB",
+            "text": "worth the wait for a table. the guest chef, dan (?), was a real sweetie and does a great vodka sauce. good prices and portions. loved the gay music too."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsdlQwUTVRbUZHVUZwdWJqZExXbVZtZWpjeWRYYxAB",
+            "text": "We love Pasta Night! A great addition to the neighborhood. Everything is delicious and I love that they have cocktails and a nice ambiance while still being casual and family-friendly!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2podGVWQnpORU5HZFZoQlRVSmhkVzVYYzJWM1lXYxAB",
+            "text": "I love this place! It’s not the cheapest but you get what you pay for and it’s totally worth it."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKaFJFOURSRWx5Ums5T1FYZDNNR3gwTlVOSVRVRRAB",
+            "text": "Loved brunch here! Breakfast sandwich is huge!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORmJtNHhha3RZTVdsQ2JWUlJWbUZMVXpKdFpWRRAB",
+            "text": "The food was not to tasty and they didn't have half of the food on the menu. The environment shadow 😞"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKMms0dHlDdFB2WjlRRRAB",
+            "text": "The big ragu pasta might not look like much, but it was plenty for me (and my back is enormous!) a mix of creamy sauce and rich meat with perfectly textured pasta. I’d like to try in person."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsM1ZEZEhaRFpJVlRkWFMyTllXV0YzT1RkeVJtYxAB",
+            "text": "Great pasta !!! Thank you"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMGFHZ3lNVE5mYVc5YWRraFhjazFZWlVSRlNYYxAB",
+            "text": "Delicious food and even better service!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Gd2VpMXZjME0wV2tWeWExTjBkMTh4V1hrMmJrRRAB",
+            "text": "I’m obsessed I want to go again!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOSVR6azFNVzVVWnpoVFVsOVRWa05HVEc5elZVRRAB",
+            "text": "Loved everything about this place - the food, the wine, the ambience and the staff were all so wonderful! This is a bold statement, but I’m pretty sure it was the best Caesar salad I’ve ever had. I can’t wait to go back and try more things. My only regret is I was too full to try the cannolis so I definitely have to go back!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKb1h6RjJVbDlLYkdKdGJuVXdVbk5rYld3NE9FRRAB",
+            "text": "Pasta Night is a great, casual spot that really hits all the right marks: The food is delicious, the ambience convivial and warm, the service friendly, and the prices reasonable.  This is everything a neighborhood spot should be and is well worth a visit (or repeat visits)."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GNk4wZGhhV3BpV0hsNk5Vd3plbFF3Ym5sS05IYxAB",
+            "text": "Great recommendation from a friend. All the food and drink we had here was excellent, and service was great!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORmJWQmlMVUpEVGxOTlkwcFhSSFJaUzI5bU5IYxAB",
+            "text": "Cute restaurant but a bit pricey for not very good pasta. Sauces were watery, not very flavorful."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxSmRtbHdObmN6V1VOdFoxbGtiUzFRWDNKUlZFRRAB",
+            "text": "PHENOMENAL pasta I mean this place truly rivals the west village Italian institutions like via carota and l’artusi. The beef arancini was perfectly crispy without being too heavy. The salad was so unique and full of flavor. The pasta was fresh with perfect texture and shape. I couldn’t be happier that I live within walking distance. I love ciao Gloria and they made another hit with this one, bravo!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OWVJUbFZUVFZqUlZCS1FUZ3hTemxXVlZwS2IwRRAB",
+            "text": "This place gets the important things right-- the food!  They only lost a star because I didn't care for the decor. Overall it's a 👍"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOTFk2N25aczZlODNnRRAB",
+            "text": "pasta night is such a gift to prospect heights. reliably delicious for date night, friends hangs, takeout comfort food. the staff is thoughtful, the vibe is easy, the desserts are ciao gloria's high caliber delights (don't be fooled by simplicity: the cookie plate is the answer). thank you pasta night crew for being a stellar dining experience."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOcjQ5b19ZZ3FibE9nEAE",
+            "text": "Amazing food and experience. Everything was sooo good."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQYmlyWXYxNktHVjFBRRAB",
+            "text": "I had heard really good things about this spot and decided to go to dinner with a friend tonight. Very nice, quaint ambiance with indoor and covered area in the back. Good wine selection, yummy food that came quickly! High recommend the arancini, Caeser salad, bolognese and gnocchi! Would def come back and they have happy hour!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQR2x2T184X2UtZDhBRRAB",
+            "text": "Actually 5 out of 5 no notes! Delicious food, great drinks, well-priced, and amazing people running the place & working there. Gone several times already and plan on going back many more!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZNXREMUVREAE",
+            "text": "A hidden gem.  Caesar salad dressing delicious.  Broccolini e Salsiccia, Pesto, and Cannoli were amazing!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZdFBUVXhnRRAB",
+            "text": "Long time fan of Ciao, Gloria and so impressed with what the team created in Pasta Night! Everyone here is so friendly and kind, the food is amazing, and the ambiance is lovely."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveTZLeUtREAE",
+            "text": "Had a phenomenal dinner at Pasta Night recently….a new staple for the neighborhood. The Artichoke Dip special was incredible, as was all the pasta…but the cocktails and the service brought the experience to the next level. Shout out to Christian behind the bar who is doing amazing things!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvczV2VndBRRAB",
+            "text": "Delicious! We went for a 6pm reservation and got the calamari, mozzarella sticks, and salad to start. For mains we got the cavatelli pasta and ragu pasta which were both cooked perfectly and super tasty. For dessert we got the tiramisu and 3 layer cookies. Great portion size on all dishes we were very happy and completely stuffed I think we passed out on the couch for a few hours afterwards.\n\nThe staff was incredibly nice and attentive there. We sat outside in the covered backyard shed and it was very comfortable and relaxing.\n\nGreat spot, will definitely be back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvdzVyQkZ3EAE",
+            "text": "Great food and wonderful, friendly staff."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvZ3ByTUV3EAE",
+            "text": "Had a fantastic experience! Wonderful dining ambience, excellent service, and some of the best pasta and cannoli I’ve ever had in NYC. Cant wait to come back for lunch!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURveE5LOHlnRRAB",
+            "text": "I ordered the cacio e Pepe craving something simple. Amazing texture. Then, I ordered the cannolis, without expecting them to be the best I’ve ever had. Hands down will be returning when back in town."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJbFo3RmxBRRAB",
+            "text": "The 4 of us were able try several appetizers and in-house made pastas on the menu and everything was delicious. It's a great addition to the neighborhood. I recommend the carpaccio special, focaccia, insalata della casa, arancini, bolognese, amatriciana, cacio e pepe, chicken milanese, and gelato. For cocktails, the una pausa great. The menu was being changed over to Spring so there were a couple of items not available and I would have preferred to know that up front with the specials. Service was friendly and attentive. I would return."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJb2JUTHZRRRAB",
+            "text": "Memorably solid Caesar salad and crispy flavorful calamari, even though half the plate was unexpected fried vegetables. My tagliatelle was a few notches north of al dente, like it was pulled from the water early and/or not finished long enough in the sauce, which was perfectly tasty but a bit tight. Service is cheerful and attentive but a little unpolished at times: the mains came out about 3 min apart, with apologies from the server. On the plus side, a nonalc cocktail was truly delicious. But the through-line for me was a place that desperately wants to stay casual and please families while also offering an elevated sit-down experience and struggles to have it both ways. The menu is packed with approachable hits, including things appealing to children, that are executed capably but not exceptionally, which does little to distinguish Pasta Night from its many nearby competitors. Plus, you have to get up to fill your own (plastic) water cups from a cooler like it’s summer camp or a school cafeteria. Altogether, it felt not only infantilizing but insulting for a meal that clocked in at $144 for two after tip."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3cnQtOUJ3EAE",
+            "text": "Had a great time! Honestly the server made our meal. She was super helpful, recommended the chicken Milanese and the pesto which were amazing, and when our drink order was not exactly what we wanted she got us a new drink on the house. We loved all of it!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3cE5hdE1REAE",
+            "text": "Have had the pleasure of trying their Chicken Milanese Sandwich twice now, both times were stellar! So much flavor at a good price point. I’ve also had their Cacio e Pepe, it’s good but I wouldn’t go out of my way for it. Would 100% recommend the Chicken Milanese in any form and their Bosco Nero dessert is great to try if you like a Black Forest Cake!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3ajdmOUtBEAE",
+            "text": "Got in without a reservation. I highly recommend reserving a table because wait time over an hour and 20 minutes for 2 folks who are walk in.  There's a mini marble countertop attached to wall that can seat 4 individuals. Atmosphere was dark with warm lightning. Folks were seated indoor and outdoor. Though we were seated at marble side counter , we did not go without service. I got the lasagna Bolognese and friend got ragu . All were delicious and 1.5 person portion sizes."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3MF9HRDBRRRAB",
+            "text": "Ordered a bolognese from them on DoorDash, the taste was weird and different from a tradicional one, for the price this wasn’t worthy at all!!!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRdklxbW53RRAB",
+            "text": "Amazing. We had a problem with our delivery and they bent over backwards to make things right. Will be back!!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNncV9hVkVnEAE",
+            "text": "Oh my God. I want to gatekeep, but I also need to make sure this restaurant is here forever. Good god this is delicious cacao e pepe."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBMjl2VXBnRRAB",
+            "text": "Felt like I was in an infrared sauna in their bizarre back patio. It’s not 2021 anymore, the people want real indoor dining! Very loud.\n\nRagu was too salty. The braised beef was fatty, need to trim that before shredding it into my pasta.\n\nFriendly service"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBb2ZtcF93RRAB",
+            "text": "Pasta Night is comfort food for frazzled families. My husband and I tried this place for a date night and overall, we really liked the food. We started with their arancini balls with creamed spinach, which their vegetable of the day, and they were tasty. My husband got the chicken Milanese, and I got the Gemelli pasta with pesto. Both were really good, with the pasta and pesto tasting fresh and the Milanese was crispy and generously-portioned. And their Vecchio Carlo cocktail was complex and well-balanced. My husband ordered a glass of rosé that was very acidic, so he sent it back for a glass of Sauvignon Blanc.\n\nWe had a 6:15pm reservation and we were led to the covered outdoor area, which wasn’t noted on my Resy reservation. We were also informed that the restaurant needed the table back in two hours , but by then, the restaurant had started to empty out. The area was heated, but we were sitting by a door and there was a draft. We also asked our server for water, and she directed us to self-fill at the water tank, but then we saw our server give waters to two other parties of two behind us. It just rubbed us the wrong way. And there were three different boisterous families seated around us, making it hard to hear our own conversation. I understand that this place fosters a casual atmosphere, but I think some guests and servers  felt a little too comfortable here, and we know to not come back for date night and just to order take out or delivery from here."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBOHFId2RnEAE",
+            "text": "Lovely experience. Eager wait staff. Delicious food, drinks, and dessert (cheesecake especially). Very nice portions for pasta"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBdjRfUlh3EAE",
+            "text": "I’ve been here twice now and everything I’ve ordered has been incredible. Appetizers, mains, drinks, desserts… all home runs. Looking forward to a third time so I can try all the other dishes! Bonus points for great music, design, and staff."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfaEplWk93EAE",
+            "text": "I had an amazing meal at Pasta Night! The Chicken Milanese was crispy on the outside, juicy on the inside, and packed with flavor—definitely one of the best I’ve had. The pesto pasta was just as impressive, bursting with fresh flavors that made each bite delicious. The only small letdown was that they didn’t bring bread to the table, which is usually a given at most Italian restaurants. Still, a great spot for anyone craving mouthwatering Italian!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfcnVucDRnRRAB",
+            "text": "Amazing food! Not one mediocre dish was served to our party of 8, and the service was warm and efficient. The home made sodas, lasagne and pesto were outstanding. All the pasta is freshly made. The chocolate cake was insanely delicious! Oh, and vegetarians will be very happy. Can’t wait to go back some day for lunch."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfOXJ2LU5BEAE",
+            "text": "Traveled from Manhattan on a freezing cold night and it was well worth it. Everything from the focaccia, salad and various pasta dishes shared around the table were delectable. Highly recommend."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfdHIyZ1J3EAE",
+            "text": "Damn so good! The pesto was fantastic."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfdHRXUkFnEAE",
+            "text": "The pasta was so fresh and excellent. The red sauce was perfect. I sampled some friends’ dishes and everything was done perfectly. The focaccia was fresh and warm. I was very impressed. I’d come back anytime"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmanZxcXJRRRAB",
+            "text": "I went here last night with my boyfriend and we truly had a religious experience with the gnocchi. I tend to shy away from gnocchi because it can be a bit rubbery, but this was the most pillowy soft gnocchi I’ve ever had. It came baked, in this delectable creamy cheesy spinach and artichoke sauce with blistered tomatoes. Our server said they recently changed the recipe from a red sauce to a white, and I’m begging Pasta Night to PLEASE keep it exactly how it is now. Literally no notes.\n\nWe also got the white bean dip, beef ravioli, and tiramisu and those were also super delicious, but the gnocchi absolutely stole the show. Didn’t try it this time but we were happy to hear their pesto is nut free! We’ll definitely be back to work our way through the menu!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dXZIT2l3RRAB",
+            "text": "This place was good! It’s on the small side although I did enjoy the heated (covered) seating in the back! Only complaints were that it was a little pricy, my cacio e Pepe was a little underdone, and it seemed like they didn’t want me to sit and wait for my friend before ordering (one of the spots where you order first then sit)."
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzaU9ua293RRAB",
+            "text": "really enjoyed it!!!! So good. The reviewers are right in that it’s a little more expensive than forma but the staff were so so lovely pasta was cooked perfectly and the cocktail was delicious. The pepperonata arabcini were so tasty. The only thing that would make this a 5 star is adding a proper traditional carbonara to the menu edit I had a look at the new menu and it looks great!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQOWVYZFhnEAE",
+            "text": "I literally could eat the Caesar salad and meatball appetizer every night. Love the laidback concept and the vibe. Great addition to the neighborhood!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzeXJUTTRnRRAB",
+            "text": "Saw this place on instagram and decided to give it a try.  Glad I came with my husband because the food is amazing!  We ordered the gem salad and calamari for appetizers. The salad was fresh and the calamari came with this sauce that reminded me of Combos (pretzel with the cheese inside) 10/10.  For entrees we order the pesto and braised short rib pappardelle, both dishes were very tasty.  We also liked the format of ordering everything at the counter before being sat, saved a lot of unnecessary time and our food came quite fast.  Drinks were light and refreshing.  Definitely would recommend coming here."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuMGFyeG5nRRAB",
+            "text": "Pasta Night is finally here, and it exceeded our expectations! The food was delicious, the service was friendly, and the restaurant was very minimizing, but obviously a lot of thought was put into it! The dessert was delicious, all sourced from the sister bakery, Ciao Gloria across the street! I would highly recommend visiting."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYcl9LSjdnRRAB",
+            "text": "Me and my gals hit up Pasta Night week one of its opening and WOWEE were we oh-so-pleasantly surprised! The food was top notch Italian pasta, truly something that’s been missing from Vanderbilt Ave. The Ragu was my personal favorite, but we were all fighting over the last bites of each dish! The service was speedy and the staff was so fun and kind. Huge shout out to our host with the most, Mac, who made us feel right at home! Can’t wait to go back soon☺️"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQeHJpd2xRRRAB",
+            "text": "We love Ciao Gloria and were really excited to try this new spot from the same owner. The set up is a bit odd, it's walk ins only and they will take your name for a table but won't text or call when it's ready, you have to hang out inside by the front. Once your table is ready, you order at the counter and are given a number to take to your table. If you want to order anything additional during the meal, you don't go back to the counter, you place the order with a server. Not the smoothest experience. Staff are really nice and the food is good. We enjoyed the calamari, Caesar salad and several pastas, the favorite was the cacio e pepe mafaldini. The pastas were not as good or exciting as others in the city. Desserts were fantastic, we ordered the chocolate cake, almond plum cake, pudding with cinnamon sugar syrup and fior de latte gelato"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYcjQ2UWVREAE",
+            "text": "Just when you thought the food options in Prospect Heights couldn’t get better, enter: Pasta Night. Considering Pasta Night is brought to you by the minds and stomachs that gave us Ciao, Gloria, it’s no surprise everything about this fast-casual spot is so well-rounded. As someone who is already a regular, I have some authority to say that everything at Pasta Night so thought out: from the menu variety, to the fun and friendly staff, the ambiance/music down to the chairs and cutlery. The first time i walked in, I immediately felt such warmth from the staff; the staff was beyond friendly and fun (and the owner often walks around to say hi or to chat like an old friend). The staff is perfectly paired with the funky, curated playlist playing throughout the night.  Beyond the various cohesive components of the restaurants, the actual food was delicious and served in mighty portions (i.e., you get your money’s worth). The dishes are classic Italian cuisine, reimagined, but not unrecognizable—think: comfort Italian with a dollop of edge. You can’t go wrong with anything, but my unsolicited recs are the carbonara, meatballs, and the pesto, then the tiramisu to close it out. Run—don’t walk—to Pasta Night."
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYb2Mya1FBEAE",
+            "text": "This place was such a huge let down I almost got whiplash. I absolutely love Ciao Gloria, so much so that I go multiple times a week and consider myself a regular. So I was very excited to try this spot and figured this would meet the same standard given it’s the same folks, but unfortunately not even close. First off, you pay table service prices for what is effectively counter service. We spent 130 bucks including tip between two mains, one app and two drinks at a cashier before we even sat down. The vibe feels confused - I wish they would have just decided on either fast casual or fine dining and just leaned into it and not have tried to do both. Beyond that, we were 3 people and got squeezed into a small 2 top with a stool. And sadly, the food was aggressively mediocre. My chicken Milanese was slightly undercooked and the pasta noodles tasted packed with flour. I’d expect restaurant quality pasta to “melt in your mouth” for a truly good place. A few of which in Red Hook and Carroll Gardens really deliver on. Cent’Anni on Franklin isn’t even a “wow” option but does pasta way better. Lastly, the atmosphere is almost clinical. The lights were super bright and with conversation volume it almost felt like a small cafeteria. We ended up heading to Weather Up for an atmosphere palette cleanser. I’m giving two stars because the food was fine and staff was fine, but not much more than that. I’m hoping we just came on an off day and ordered the wrong dishes.\n\nUnfortunately, this place is a sad reminder that the golden age of Prospect Heights’ food scene is continuing to come to a close. If you’re dead set on Italian, grab some pizza from La Flor. I really hope management takes note and makes some adjustments. Otherwise, other nearby neighborhoods are delivering much better dining these days.\n\nUpdate Nov 2024 - And if you don’t agree with me, the 9 people that liked this post, the other bad reviews that complain about effectively the same things, or the many local friends I’ve sanity checked myself with who have agreed, I encourage everyone to read the restaurants reply to this simply as an example in decorum and maturity they bring to a disappointed customer with criticism. Unprofessional and sad. I guess that’s the price I pay for speaking up."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYa05EQjd3RRAB",
+            "text": "Went with a large group so we got to try a lot of dishes that we shared, and everything from the starters, mains, pastas, and dessert were so delicious, fresh and well made. Such a great vibe inside as well and the staff is really kind and attentive. Very highly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzLXB6VXlBRRAB",
+            "text": "Fantastic add to the neighbourhood. Pasta was spot on - good sauces, perfectly al dente. Service was very nice and efficient. Quite an interesting vibe, somewhere between the fast casual of Forma and more of a sit down pasta spot - which was great for us. We’ll be back, very soon."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSURYd1BnMRAB",
+            "text": "If you need your Ciao, Gloria fix in the evening, come here! The carbonara was cooked perfectly, and flavorful. The Chicken Milanese was light and crispy. All of the appetizers were delicious and we finished dinner with an affogato with amaretto gelato from a local gelateria. Grazie mille for a wonderful dinner!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYZ01TRHdBRRAB",
+            "text": "This place is definitely worth checking out. I really enjoyed the pesto dish I ordered, and gobbled down house made focaccia to start. I also tried a bite of the gnocchi that is baked making the marinara have a fire roasted quality.\nManaged by the same team from Ciao Gloria across the street, the whole experience is pretty unique. There are a few grocery items for sale, and you order at the register before being seated. It was kinda nice not having to wait for a waiter at the table to place your order."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYemJXQnBRRRAB",
+            "text": "The pasta was nice and cooked to al dente\nThe place was a little bit small but I loved the atmosphere"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYajlXT1JnEAE",
+            "text": "I have lived in the neighborhood for 3 years . I am a big foodie and have been to every restaurant on vanderbilt multiple time . This fast food joint is unorganized overprice and under serviced . I tried to disregard the extremely high price for cup noodle soup quality pasta . And give this spot a try . BUT I WARN YOU IF YOU WANT A REAL PASTA NIGHT GO TO FORMA PASTA 2 BLOCKS DOWN !!!\nSHOUT OUT TO MACK AT THE REGISTER FOR GIVING ME THE WORST EXPERIENCE I HAVE EVER HAD IN PROSPECT HEIGHTS !  HE IS LOST IN THE SAUCE !!\n\nTHANK YOU !!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYb0tMSFF3EAE",
+            "text": "Visited pasta night for the first time a few days ago and I had an amazing experience. The line moved really quick and I had a great rundown of the menu by the register person which made it clear what I wanted to order - an autumn twist on a carbonara recipe that was SO delicious. Such a fun vibe, music and decor - I will definitely be coming back soon!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYcl82Wi1nRRAB",
+            "text": "Loved this little gem of a neighbourhood restaurant.  Traditional Italian fare but given a charming, contemporary spin.  Easy and delicious.  Hard to go wrong with their tasty starters and entrees and a surprisingly, well curated wine list.  The desserts from sister venue Ciao, Gloria! are divine.  Outdoor seating in the back was perfect for the glorious Fall weather.  Ideal as a fun little date spot or a reliable, weekly standard.  I'm returning regularly.  See you there!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYdl96NXp3RRAB",
+            "text": "I love pasta night. It’s in the neighborhood and the staff is absolutely amazing and so friendly but the food… the food is everything. Went with a group of friends and we tried almost everything on the menu. Do yourself a favor and have a cute, cozy night here please!! hint: get the big ragu, my plate was clean in five minutes"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzd00zbWRREAE",
+            "text": "I’ve come twice now, enjoyed it a lot both times, and am leaving a review because I want this place to stick around.\n\nEven though the service is counter service the staff do make an effort to make it a great experience.\n\nThe price is higher than pasta forma and than I’d generally like for counter service, but the pasta is better than other casual pasta places and there’s massive food and rent inflation so I get it.\n\nThis is a non pretentious place with good food and service where I can see myself becoming a regular. We need more of these in the neighborhood so it’s 5 stars for me."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzN0otVlh3EAE",
+            "text": "Fabulous experience !  I loved my Arancini appetizer. The Ragu was like nothing I have ever had before but I knew I would want  to have it  again and again.  Don’t get me started on my chocolate cake with dark cherries, YUM  .  Absolutely an enjoyable experience . It was LOVE  at first bite !"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzazd2SENBEAE",
+            "text": "What a great addition to the neighborhood! From the moment we walked in, the friendly staff made us feel right at home. We started with the Caesar salad and calamari with fried giardiniera. Both were fresh and absolutely delicious. For our mains, the spaghetti and meatballs and the ragu were cooked to perfection. The pasta was actually cooked al dente, which many places claim but don't often deliver to your table, showcasing real authentic Italian food. The Bosco Nero was perfectly rich and decadent. We said we were only going to take a bite but ended up finishing the entire thing—I suppose that speaks for itself. The quick service and great selection of wines added to the well-curated experience that doesn't sacrifice the main attraction—the food. Highly recommend this place for anyone seeking quality Italian cuisine!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYOFktM2lnRRAB",
+            "text": "😋😋 I’ve been twice and planning a third visit soon. Lends itself well to date nights and family dinners. The focaccia is amazing! The Big Ragu is other-worldly and the Lumache Carbonara is incredible. This is comfort pasta done right and at an affordable price. You WILL leave with leftovers with such generous portions and rich dishes. The only things I wish the restaurant had are lunch hours and take out so I can enjoy more often."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYdnNHbkl3EAE",
+            "text": "We had such a lovely dinner at Pasta Night! First and foremost the staff is so lovely. The format is you order food and drinks at the front, then they seat you and they bring out your food. We ordered a lot of the menu and shared including: pesto, carbonara, ragu pastas; meatballs, olive and arancini appetizers; tiramisu and Black Forest cake. Everything we had was delectable but I loved the ragu, meatballs and tiramisu the most! Such a great addition to the neighborhood."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYcl9uYjdnRRAB",
+            "text": "Pasta Night in Brooklyn knows exactly what it’s doing. The pasta? Perfectly al dente, with sauces that taste like they’ve simmered all day. It’s the kind of meal that makes you forget every mediocre plate of spaghetti you’ve ever had. Warm service, good wine, and a room buzzing with happy diners. If you’re not here yet, what are you waiting for?"
+        }
+    ],
+    "reviews_count": 71
+}

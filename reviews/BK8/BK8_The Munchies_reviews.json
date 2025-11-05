@@ -1,0 +1,600 @@
+{
+    "name": "The Munchies",
+    "place_id": "ChIJ5ftJ2q9bwokRdJUbdbIjKQo",
+    "grid": "BK8",
+    "address": "848 Nostrand Ave, Brooklyn, NY 11225, USA",
+    "rating": 4.7,
+    "user_ratings_total": 1175,
+    "phone_number": "(718) 869-3244",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Nd1JGbGZTWFowYmpaYVJHUjNPRk53U0hCMlEyYxAB",
+            "text": "When they say that they have the best halal food in Brooklyn they don’t say it for no reason I finished my plate in 5 minutes thank u to yandilo and the staff"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OQ2MyaHdiVFZQUzNOVFdXMXpiM1pEUjNOQldYYxAB",
+            "text": "amazing place in staff super cool please visit"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxbVJXdFlTbEZzWjBNd1NHUkpNRGRwUm05eVlYYxAB",
+            "text": "AMAZING food. And amazing customer service. We loved all of our sauces. Thank you AJ!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsc09XbGlaV3hDTWtoRmNtMURORmhZTUdwaU1rRRAB",
+            "text": "Best falafel salad I have ever had! Fresh food, clean environment, top notch service"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWaVkycDFTRFZ3Y0ZocU1qRkxjSEEzVDJ4d1MwRRAB",
+            "text": "My favorite late night spot"
+        },
+        {
+            "date": "1주 전",
+            "language": "lb",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sSWNrTlVka0UwU3pWVVNIUnJUekZ6Y1hKSFFWRRAB",
+            "text": "Fireee asss\nShit"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKaGVEazBiekJyUWpoWlh6QTBUMnc1WkVkR1prRRAB",
+            "text": "Yooo they gave me mad food 🤤"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKUFZUQnpjSGR2Y3pORVFVZDFPRFZYWkRKd1owRRAB",
+            "text": "Fast, fresh, AJ is the goat"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGNFRWSm1hVTgwUVVWSmJtOVRSSHBmTmw5SFIzYxAB",
+            "text": "The best platters in NYC. Always made fresh to order, there are staff in each station so there is no delay to food. Its worth the wait and they fill up your plate."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ReVgwMU9OekI2WnpBeFFXcElRbTFNU0dkMWMyYxAB",
+            "text": "This place is amazing! The owner is incredible, the food is delicious, and the staff is super friendly. They always have great music playing, and the whole vibe is just perfect. Thank you for opening such a great new restaurant right here in our neighborhood — we definitely needed this spot!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaUk9EazVjbk5hTlZSTGFrVnhWRVF6Vmtac1EyYxAB",
+            "text": "Love this place been a thousand times always kind, always clean, foods ALWAYS ALWAYS ALWAYSSSSS AMAZINGGGG.  never disappoint AND THEY ALWAYS FILL U UPPPPPP MAD FOOD EVERY TIME"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rM1NGaFBUMkoxWDNab1ZWVnRSREZwWVd4cWFGRRAB",
+            "text": "All food very good"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kTGR6aG5jV2xPV1ZKeVdVaDBZVXQxYjBwQ1IxRRAB",
+            "text": "Busting!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25waGFubFhRWFZOYUVkcGVsZ3RlRUZPVW5wc1JWRRAB",
+            "text": "Forgot the sauce for the gyro."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrMldqWTFaMmhRYURoRmNsRnFPWE5QVTE4ME1sRRAB",
+            "text": "The food was good they give you a lot of food for the price."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OS2NqQTFUVmR3YWtkb05GcG1aMUJsTkVkRGFFRRAB",
+            "text": "I’ll let u peep the before and after real quick…. I murdered this…. I’ll say this— phenomenal portions, great service, fantastic food. Now that I got that out of the way…. I have to say Shout Outs to AJ who said I wouldn’t finish this… smh… Wasnt even a contest tbh…. and, while I understand his intentions, it merely lit a fire under me. I’m like Jordan… I rise to the occasion😱😱😱💯💯"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBMU5FVkNUV0ZCVUdwd1gxUmZhbnBRT0c4ME5IYxAB",
+            "text": "Halal food ... salads"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RNFNqbEVNWFUwVEhoU1pHUkROMFpUT0VJd1RsRRAB",
+            "text": "Love the wings and fries here it so good"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wTE5GUTBhbEJFTnpKMlluQmZVSEV6UWpkQlVHYxAB",
+            "text": "First ordering from here and it\nWas fast friendly and everything was fresh. Really enjoyed it and will return"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVmEyaFRaVzVqYjBwMVVqZENVVmQwYTJKUmFsRRAB",
+            "text": "You gotta run, not walk, not jog, run to Munchies. All the major food groups Burger, Fish, Chicken, Lamb, they’ve got them.  Maybe you’re on fence, thinking about something dumb like sushi or steak for dinner, well get off the fence and go to Munchies, the fence is for cowards. It’s quick, it’s a good price, it’s a lot of food, what more could you want? You’ve spent like 20 minutes figuring out where to eat, well just go here, you know you’ll like it. Why are you even considering the other options? You made up your mind two sentences ago, your keys are in your hand, you’re walking out the door. You forgot your wallet on the counter but it’s fine you can pay with your phone. What matters is that you’re at Munchies now."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kb2NHdFRZMmRhWldsU1ZuVkdWMnN5UVU5VFoyYxAB",
+            "text": "Yeah I'm good...\nI was supposed to cook today, but the butcher I go to was not open during their posted open hours, so I walked home. On my way I saw The Munchies. I have history with this place as a couple years ago I used to come here all the time. Their customer service back then was great (except for the cashier at the time) but they did mess up my orders a lot and I would always have to return or call in to rectify the situation. There were other issues as well, but I won't go into it as I didn't feel the need then to write a review. I just decided to stop going and left it at that.\n\nHowever, today I decided to go in against my better judgement to get some chicken over rice. There were all new faces there, and it wasn't busy , maybe 2 other patrons, so I went to one of the \"cooks\" and asked him if he had Halal chicken over rice. He just looked at me in a dismissive manner and said: Yes, everything here is Halal. Now this was obviously a miscommunication. For reference; when I used to regularly visit, there would be periods of time where the chicken for the chicken over rice would be cooking, and would not be ready for some time. So I wasn't asking if the place served halal food, which I knew it did obviously, I was asking if there was chicken for the chicken over rice that was ready to be served, as sometimes I would be waiting for easily half an hour for the chicken to be ready.\n\nAt first I didn't think too much of it, and went to the cashier to order the chicken over rice, but on second thought I changed my mind and just left. I'm not sure what everyone is talking about with the stellar customer service, maybe some people receive it but I didn't."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWQlN6UkdiVWhrWlc1eGRXdGthblZGUzNaWk9VRRAB",
+            "text": "As the name implies...yummy gyros at 12 midnight"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210d1IxYzFVVk0xY1hCQ1dWWjBZbFV4UmpseU5FRRAB",
+            "text": "I stumbled on this place and got a great reception from the guy at the cashier. Abdul’s really wonderful and the food. Super tasty so healthy delicious friendly great places to stop by.j"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzdE9EUnpVbFpyTTB0d0xUVkVUbEpIZDFoT1RsRRAB",
+            "text": "The food was good, but the Spanish lady working at the register was disrespectful, but I notified the owner about it, and the owner said that he would talk to her regarding her attitude. The owner is a very nice guy, and you can tell that he values his establishment. I do definitely recommend the food for sure!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxM1VGRTNiVVZ5Y0V4dkxUQkhVemR5ZVRaNVVuYxAB",
+            "text": "Simply the best"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVd05XOVNZVk5HY0Uwd2QyOVNSVVZ0ZUhRNWQyYxAB",
+            "text": "First it was great but , i found two weird stuff in my sandwich and the last bite i see a long red hair🤢🤢🤮"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VeWVEVmFaVVZqV1hGR01HOTNWRWM1YzNwb04yYxAB",
+            "text": "A Great place for late night munchies, stoners."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OT2VVdE5jRmwzTjFwR2RIVlFkR3RmVTFsek5tYxAB",
+            "text": "Good good good"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKM01WRm9ObTkwVFc4ME5VZFlTRzEyWDFscGNWRRAB",
+            "text": "One of the best burgers I’ve ever had, solid chicken and rice too. Busy place with their shit together, delicious food quickly and affordably. Highly recommend!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210WFRVOVVOMU5tTFZaS05VTlZjMGh0WWt0VFQxRRAB",
+            "text": "This place is unreal! Avoid if you hate great food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkSE9FNDJSRlZNT0VoNWNuWjNiVzAxWHpVNGFFRRAB",
+            "text": "Buf chicken was banging"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0SFZqWkNObWszZUY5Wk1EVjJWRWRoY0Zab09IYxAB",
+            "text": "Not notes, just great tasting food!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Jd1pHUkhkbkphY2pWb2JXTXdjVEkyWldaRlZYYxAB",
+            "text": "Some of the best food in the area.Wings are top tier and their halal food plates are amazing.Keep up the good works guys we need restuarants in our community that cooks with love."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKd04yNTNWM0JUVmtWVGF6TXdTRWhNU2pNMGRsRRAB",
+            "text": "Early in the morning, THE MINCHIES had an inspection and they were in hoops that things would go smoothly, but when the BOOS asked if I could wait for 20 minutes, I almost walked out. Just when I was ready to leave, he asked what I wanted and suggested they could make my food without interfering with the inspector. I really respected that, this experience with the BOOS showed a level of professionalism that’s impressive and rare. It’s moments like these that highlight why someone like him is successful in his field. Instead of brushing me off or making excuses, he took the initiative to find a solution, demonstrating that a great attitude and work ethic can turn a potentially frustrating situation into a positive experience. It’s these interactions that remind us of the importance of respect and communication in any community."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoVWNVeHVablZ4ZEROVFJYSXdjV0phVVhSWE5uYxAB",
+            "text": "I always order here through GrubHub and all their food is SPECTACULAR!! I absolutely love the fish sandwich and the grilled chicken wrap. The portions are CRAZY big to where I sometimes have food for tomorrow!\nThe only complaint I have is since it's delivery, the fries kinda get soft and less crispy. I am 99.9% sure that if I eat in house, them fries will be AMAZING! But for them to be delivery fries, they're still good, just meh lol.\n\nBesides that, 5/5!! Fantastic place!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJNVVHdHVUSEJzV2xjdE9VOTNOa1ZSVURkRExYYxAB",
+            "text": "First time I tried it, I had the cheese bacon burger combo, monies worth. When I told them dress my fries they watched me because its not something they do. I decided to try it again without dressing the fries and I taste why, its well seasoned, the crisp and spice its perfect. Definitely recommend"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVGVsbDFVbFF4VjJSbVdrWk9NMGhZTlZoeFdYYxAB",
+            "text": "Nice place"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KcWMzY3daVk5XVkVKcloxZGpaa1Y0Y1hoM0xVRRAB",
+            "text": "It’s great. They run a tight ship. Better to call ahead or get delivery as the ambiance is bad and there is no where to sit"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUVpUa3hWRkJ4WmxWNE5tZG9WRmxOZUdZMlprRRAB",
+            "text": "Absolutely delicious food! Possibly the best halal cart food I’ve had in NYC. They are incredibly generous with their portion size - one mixed platter was easily enough for two very hungry people. Abdul went out of his way to make sure we had enough sauce for our platter. Highly recommend getting the Munchies sauce. 10/10 would come back from Jersey for this.\n\nNote: no option to dine in but there is a roadside park right around the corner with plenty of shade and benches. Don’t let the lack of seating deter you too much."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTVZraGxabkJKZUZCQlFVTlJRMUZYTVhkcGRIYxAB",
+            "text": "Great price and for all the food you get was worth it"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KWFZVaEdhRFF6TkVkME5FMW1OR3R2ZUZNMlJFRRAB",
+            "text": "Ordered through door dash & I called the store directly to asked for the wings to be well done & they were very polite & I got my wings well done. Portion size was a lot for the price! 10/10!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GQlJrdFRaa2hsWVhod0xXVkdZbXAzYjFsMk5tYxAB",
+            "text": "Lamb and chicken over rice was delicious."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205bWFWOVNNM1kwVEdoVE5VdG5RbVl4UlhselVXYxAB",
+            "text": "Nice and tasty."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVVQyVm5iakpNTlV0Mk4xcEdTV3MwUXkxTWEyYxAB",
+            "text": "Gigi and YANDILO were so sweet and you get a ALOT off food for the price"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GR1NXWXpWbkJYVG1aUGRFbG9kVGRZT0U5RlVGRRAB",
+            "text": "Gigi and Yandilo were such a great help when figuring out to order and the food was great with quick service!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aNmNUQllOR3RwVTJaa2NDMUJXbkUwVms1T1pGRRAB",
+            "text": "Reliable and delicious 24/7 — and I LOVE the people who work there. It’s a tough job (as it’s so busy), but they handle it like pros.\n\nOne suggestion: it might help to allow some music in the space. The fluorescent lighting can be harsh and isn’t great for mental health. Letting employees play music, as long as it’s not too loud, could make the atmosphere more relaxed or energizing, depending on the mood. Also it’s more fun for customers while we wait to pick up our food."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGdjRYLWJ3EAE",
+            "text": "Fast Take Out.\nYummy Food!\n\nLooking for a quick and reasonable meal?\nMunchies has you covered.\n\nOn this visit I purchased the Chicken Gyro and the Fried Shrimp.\nBoth were yummy.\nThe Gyro was super stuffed. Very excellent and tasty portion for the price.\nThe shrimp were just right. Nicely battered, fresh and clean. Not over done.\nI'll definitely be paying them a visit when I'm in the neighborhood again."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wWWNsbDZNVU5XZERZMmIwRm5hVEo0Y1U0ek5HYxAB",
+            "text": "Munchies is simply the best. I’ve been going here since they opened in 2022 or 2023. The people who work here are just great caring people, the service is quick and excellent, and the food is always fresh and made with quality ingredients. It’s no wonder they’ve grown so fast and have such a huge dedicated customer base. They tick all the boxes. My favorites are the mix platter and the wings - easily the best wings in town. Also, I live on the block and i appreciate what great neighbors the folks at munchies are to the residents of Union St, they keep the area clean which is awesome. Thank you for all you do.\n\nPRO TIP: munchies can get very busy. if you’re picking up in person, order online via clover (no fees) and you’ll save yourself a wait."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1aFNXMXFabUYwTVRFek5Wb3RVVmxGUVdJNWFsRRAB",
+            "text": "I’ve been ordering from here for years and the food/service are always spectacular but my interaction with them yesterday was absurd and very disappointing. Literally just as I hit the button to pay on GrubHub an urgent meeting notice dings from work. There was no way I would be able to get home in time for the food delivery. I tried to cancel the order through the app but it was stating that the food was already being prepared. I’ve ordered during peak, off peak and even 1 am in person and never seen my food start to be prepared so quickly. The chat agent told me there was nothing they could do and I’d have to call the restaurant. I called and the woman who answered was very rude. At first she said that the food was already being prepared but when I questioned the hour delivery time she switched excuses and said the delivery driver was already there. As if I don’t know that they hang out there waiting for orders to come in. Finally she rudely snapped that I would have to take it up with Grubhub. I was able to speak with them to get the order canceled but the run around from the woman at the Munchies was the worse part of the experience. I’ll probably order from them again as the food is spectacular but it won’t be anytime soon. You expect the app to try and cheat you but for a small chain here in nyc to lie to locals is just disgusting and abhorrent."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGVFJuSkNVbDlPUlRoelRFUlBlbTVGYUhCcGRWRRAB",
+            "text": "Very  nice  I injoy  ig I will  be coming  to buy food  hare the 2nd  I eat  food  hare good  food  love  it much  love  I will be back  please  come  buy your  food  hare"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKeVVqZEhTemx5UkhWTFRIRTNNbE5FWHpaYWRsRRAB",
+            "text": "The service is the best, even though it's always busy. They give you a welcome greeting. The food is delicious: the chicken with rice and the cheeseburgers are amazing. I don't mind driving 40 minutes from Queens to this place"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtbElHZVFBEAE",
+            "text": "I’ve been supporting Munchies since they first opened, and they’ve never let me down. Whether it’s a late-night craving or a regular dinner fix, this spot always delivers fresh, flavorful food that hits every time. Gyros, wraps, falafel, sauces—you name it, they’ve mastered it.\n\nWhat blows my mind is that despite the quality, their prices have always stayed fair—Google says $8–$15 per person and that’s exactly right. You get real value here, and the portions are generous. Pack your back.\n\nSo many other places have tried opening nearby, but none of them can match the taste and consistency that Munchies brings to the table. The flavor in every dish feels like it has a hidden magic touch, and I wouldn’t be surprised if this place turns into a full-blown franchise one day.\n\nMunchies isn’t just a restaurant—it’s a movement. Loyal for life. G4🔥"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSMmJWOVVMVkpSUkVwdVFrcFVNWGh5UlVWR1YzYxAB",
+            "text": "This place slaps. Great for late night cravings, and generally pretty quick. The crispy chicken sandwich is perfect- crispy chicken, fresh tomato and lettuce, and really flavorful sauce"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmalkzWm1nRRAB",
+            "text": "This was the first time I’ve ordered from here and it definitely won’t be the last. I ordered the chicken and lamb mixed platter with fries, hummus, white sauce, and green sauce (cilantro and jalapeño) I can’t wait to try everything else on the menu. It was so damn good and that’s coming from a former chef from New Orleans. I highly recommend you order the green sauce. I need to know how to make that stuff."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2azQtUFJ3EAE",
+            "text": "Was in the area and seen this place had a 4.8 rating so I knew it had to be good. Came a lil late so was only able to get the wings and fries. Id have to say these wings are some of the best wings I've ever had. The manager AJ was real nice to meet and we talked for a good 20 minutes. It was 3am in the morning and there were still people coming in and out. They have a crazy menu of so much stuff that I'm definitely gonna come here again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNudU5lY1ZREAE",
+            "text": "I love this place. Food is always fresh. Service is quick. Portion is huge. Too many options on the menu. Place is not fancy but food is always delicious. I loved chicken & lamb over rice. Chicken was well seasoned and lamb was very juicy. Seasoned fries were too good. It's 100% halal. Better to pay with cash instead of credit card."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIal9pYldBEAE",
+            "text": "My husband and I stumbled upon this place last weekend and when I say they did not disappoint! The staff here were absolutely dope and friendly... I love how  super clean it was. The music was bumping that good old 90s freestyle music. And lastly the FOOD!!!!! SO FRESH AND SO DELICIOUS! My husband had a double cheeseburger and onion rings and I had a spicy chicken sandwich with fries. It was a tad bit spicy for me but the sauce helped with the spice. Hands down worth the 5 stars! Fingerlicking good. Can't wait to go back...."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURldk1TV09nEAE",
+            "text": "The shop is clean and staff is friendly. I had the pleasure of Valentine taking my order and he made no mistakes for a larger order. I enjoyed the open kitchen concept. I was able to watch my meals being prepared while waiting. The food tasted delicious. I would definitely recommend others to eat here, especially since they are open late. Happy I found this place."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4X0tpNjRBRRAB",
+            "text": "This was my 1st time and they completely nailed it. I was feeling for a fish sandwich and I googled it. This place stood out.\nI decided to try.\nIt was clear to me that this operation was well oiled machine  (by the number of staff) and operating at 100%.\nThe Line was short when I arrived, but soon quickly filled with patrons. They all seemed to know something I didn’t, until\nI tried the sandwich.\nIt was delightful and magnificent at the same time. The fish was cooked (fried) to perfection and the seasoned fries were good as well. I do some traveling and for the year I’ve tried fish sandwiches in roughly 12 states. This was by far the best.\nBigger than the rest and way fresher and tastier.\nDon’t hesitate to try them. Their menu offering is numerous. The prices are great as well.\nEasily 5 stars.\nHighly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3bUxIcDZBRRAB",
+            "text": "I was blown away by how good this food was!! It was my first time ordering here, place was busy but the wait was very brief. The chicken had amazing flavor and was cooked perfectly. The rice had great consistency and the salad was very fresh. Will be going back!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnaHNfVk9REAE",
+            "text": "Special thanks to this quick eatery for blessing us portions and flavor. Quick service, yummy meats, and cheesy mozzarella."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIZ052TEhREAE",
+            "text": "BK Munchies Halal Takeout Spot is fantastic! The food is consistently delicious, with generous portions and authentic flavors that keep me coming back. The service is always friendly and efficient, making it a pleasure to order from here. Whether you're in the mood for flavorful rice dishes, this place has you covered. Highly recommend for anyone looking for top-notch halal food in the area! OH LORDDD"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKVGtzdldSaHFXUnVnRRAB",
+            "text": "The food is ALWAYS fresh 😋 🙌🏾 👌🏽 and made to order. The staff are super friendly 🧡 place is very busy, n fast paced (think Trader Joe lines) super clean ...like Gordon Ramsey approved 👍🏾😆 I went at 3:30am  the grill was off but they were still serving certain items...they were cleaning the grill...and I mean CLEANING IT like the guys were standing on the grill w socks on scrubbing 🧼under the range and back walls 🧱 🧼👍🏾 I was impressed at the dedication they had to have it squeaky clean! 😉 Sensational❗️ 🤣👍🏾👌🏽👍🏾"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2OXYySU5nEAE",
+            "text": "This was my first time trying this place in NYC. The food was great and the customer service was even better. The employee name was AJ as he knew this was my first time he made me feel special and had me laughing. Great customer and great food will be back soon!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURINllmMUZnEAE",
+            "text": "I swear this place saves me almost 5 times a week. I go for food after work (night shift) and everything I've had has been good. Good portions, good service, this week alone I decided to get 5 different items just to see and nothing missed. Those boys work hard and it shows if you need a late night spot they gonna hold you down!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWamNPWkdREAE",
+            "text": "At first when I heard about this place I thought it was another halal munchies location. This joint is decent. Chicken and lamb a bit on the bland side. Pre cooked meat is not always that great because it’s not piping hot like your usual halal cart but the pot. It was pretty filling and the salad was fresh. The cheese fries were great as well. I would come back if I’m ever in the area"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfMXNPS1RnEAE",
+            "text": "I want to be completely honest…the fish had no seasoning but the shrimp & fries were really good!\n\nThe service was hands down amazing! I was acknowledged right away even at a busy time! I enjoyed my friendly conversation with server N (sorry i didn’t catch your name)\n\nAlso, Something smelled so good while I waited so I will be back!\n\nThank you!\n-Boston"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21saGRVVlVTR2R1WDBOdlN6bFNWMHRXYUZabU1YYxAB",
+            "text": "I recently stopped by The Munchies and was seriously impressed. The food was bold, flavorful, and made fresh—perfect for when you're craving something fun and satisfying. I tried the loaded fries and a Philly cheesesteak, and both hit the spot with just the right balance of seasoning and comfort. The staff was friendly, and the vibe was super chill. Definitely a great hidden gem for casual eats—I’ll be coming back for sure!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkU1pYcE1ORmxZWTNaVE9FTllhako0VVhVeFNWRRAB",
+            "text": "I love this place. Why you ask? While there are delicious options for fast food, eating healthy is also an option. The restaurant has fresh salads and vegetable options. My favorite is ANY salad. And I love their hummus. Aside from the flavorful food options, they're clean. AJ the manager, makes sure everything is prepared fresh with love for the community."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOb3FLS3dnRRAB",
+            "text": "New York born and raised and these guys are truly the first to get everything right, all at once, all the time. They catered our holiday party December 2023 and everything from contacting them on IG to order, to communicating the day-of, to the packaging/delivery of the food was A+. But THE FOOD! I’ve ordered multiple times for home delivery and it hits every time. The chicken tenders are scratch made, the fish/rice platters/fries all bomb. I believe they’re a family-owned business which makes me happy to know!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiM01iRjhRRRAB",
+            "text": "Easiest 5 star review I ever left. Delicious food (I love the wings, lamb, and falafel), insanely fast for delivery and pickup, and friendly staff. Even though their delivery is fast, I recommend going to the store so you can meet these pillars of our community in person."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuOHJ6Z0RBEAE",
+            "text": "Excellent value for some tasty comfort food. Could not complain at all. The platter would be my go to… Especially when you’re hungry and see that portion size staring you in the face… And it was a good price. I’d go back for a cheat day. All the food was tasty. I wish it was real lamb though and not the patty… but the flavor satisfied so no complaints really. Look at the pic… i got the chicken and lamb platter with a separate side of falafel added to it"
+        },
+        {
+            "date": "4달 전",
+            "language": "fa",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sWFoxSTJSRU10VURseFlVOXNiVU5rVVY4dGJGRRAB",
+            "text": "غذاش عالی بود\nزیاد ریخت برامون\nخوش اخلاق بود\nرستوران تمیز\nکارکنان تمیز\nقیمت مناسب"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkMG83eGpBRRAB",
+            "text": "Amazing fish and chicken sandwiches. (Ask for both sauces) ⛽ Really nice people there too - AJ is very kind and thoughtful! A must try when you're in Brooklyn!"
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxdWJqYVZREAE",
+            "text": "Absolutely the best. Top tier staff, just great.\n\nUpdate: they still got it. It’s crazy, this place does not let you down. The team is super kind and efficient. The prices are fair and as a result there is ALWAYS little line of people getting food here. This is a good thing!\n\nThey have the best chicken tenders in NYC. I can’t think of a real competitor. The Munchies, all things considered, may be the best operation in Brooklyn. Xo."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxN091WkxnEAE",
+            "text": "Loved the open kitchen and clean/hygiene of the establishment. I ordered a chicken over rice over the wrap and boy was the food tasty and piping hot. the chicken was well seasoned, the fries were bomb and overall enough for two people to eat so ended up sharing some with my pooch. the staff is friendly. Usually people are ordering so there can be quite some wait but depending on what you get they can either get through quickly or have about a 10-15 minute wait. They also have a self ordering kiosk which I haven't seen being utilized.\n\nTip 1:  To incentivise cash over credit card they add 3.5% charges, so to save half a dollar or so, pay cash.\nTip 2:  Chicken over lamb as the former is juicier and flavorful compared to lamb.\nTip 3: If you order the combo or the fries separately, it's the same quantity but paying the extra 50 cents for the combo you get a drink too.\nTip 4: Don't order extra fries with your sandwiches as they are already included.\nTip 5:  Their Philly Steak Hero is the bomb, try experimenting outside of chicken and rice. Side of fried prawns is great too."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1c1VsbE1VV2RMVWpoT1JXRlZMV0ZhVG5wMmNFRRAB",
+            "text": "I just stopped here to check out their prices which were very reasonable.  It's a small, tight take-out spot but constantly full with customers which usually means the food is good...I know it looks good.  I can't wait to try the food."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jeFkzZE5Xa05IYzNnM1FVdzJZMGxWZDNwRVpuYxAB",
+            "text": "If I’m ever craving wings - this is place I go to! They’re always made fresh and the sauces are delicious. Plus, the management and employees are very kind and helpful. One time, I put in the wrong order on UberEats and they helped me fix it no problem, as UberEats was unresponsive and unhelpful. Could not recommend highly enough!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyd2FMYlFnEAE",
+            "text": "Ordered a combo over rice with extra meat and it was delicious, easily amongst the best halal spots here in NYC. The meat was flavorful and the fries and pita bread on the side were great too, especially the fries. What I like about this place is that you get to choose the two sides you want with your food, between pita bread, fries, salad and hummus. I myself appreciate being able to order it without salad on Ubereats since healthy food is evidently my kryptonite, and many halal places on these apps don't give you the option to remove the salad. I was thinking about this platter all day today (got it yesterday) and my only complaint is that this place isn't closer to my house. I'd 100% buy from here again, especially since the prices aren't terrible. This place has an extensive menu from halal platters to chopped cheeses so if you're a fatty like me, I think you'd find this place to be top notch."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4RlYyUkJiV3czWWtJemFWSjRUa0ZyU1d0Q01IYxAB",
+            "text": "This operation is like no other and that’s all I really can think to say.  Everything is above and beyond from customer service to the line workers to the quality and everything is ALWAYS FRESH!!!! ❤️"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSclprTm1TMWR6UnpObmFGZHljRVUzVlRaQlMwRRAB",
+            "text": "The food and service at this spot is amazing. we had Adrian as our cashier and he is the best. He held it down for our wings. 10/10 recommend this spot!!! it’s definitely a must!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKblJydFhwc2FxWGNREAE",
+            "text": "I came here last night with one of my classmates, we traveled from City Tech on jay street because he wanted to eat here so bad. I had high expectations for the food because my classmate hyped it up. The expectation was surpassed ! food was absolutely delicious, fresh, and the portions were crazy. For the amount of food you get it is super affordable, best chicken over rice I've had in NY without a doubt. I will be visiting again soon."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGdlpXUjR3RRAB",
+            "text": "Came here on a last-minute  food grab on Halloween 2023...  this place is always  busy from the looks of it, but I think you can order online because  some people came in to pick up... my hubby  and I ordered  bacon cheese  fries, which was ok because  they just put the cheese at the top, and when you eat all the fries on top, there's literally nothing on it plus  I think they put turkey bacon on it which was not crispy..  but I give it to them. The fries are seasoned fries. We also ordered a mixed lamb and chicken  platter, which was A1(delicious) it comes with a delicious  side salad that actually  has chopped up cucumbers, tomatoes, and onions. Unlike  most places that give you just lettuce  with some onion. Lol.. the white sauce was good, and they packed the container high.. I didn't like the fact that they automatically  put a little bit of hot sauce on it because  I don't do spicy. Otherwise  than that my husband  couldn't even finish it, and he's a human garbage  disposal.  Lol, so you'll definitely have leftovers.. place slaps though hands down..\n\nSUGGESTION: For the cheese or bacon cheese fries, can you guys toss it up in a bowl, please"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLX0N3TEQ0N2VMSTVnRRAB",
+            "text": "I get food from The Munchies pretty much once a week for the past few years. Lamb over rice, chicken sandwich, burgers, boneless wings, all of the food is fantastic! Everyone that works there is always very friendly as well! The portions for everything too is really good. They give a lot of great food for the price."
+        }
+    ],
+    "reviews_count": 84
+}

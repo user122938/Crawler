@@ -1,0 +1,502 @@
+{
+    "name": "Charlotte Patisserie",
+    "place_id": "ChIJc9vNBkVZwokRJofDtCO1718",
+    "grid": "BK1",
+    "address": "596 Manhattan Ave, Brooklyn, NY 11222, USA",
+    "rating": 4.6,
+    "user_ratings_total": 439,
+    "phone_number": "(718) 383-8313",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOblREaEVabTQxZEVSTmNpMXliakZsZFdaRU5FRRAB",
+            "text": "My favorite bakery of all times no doubt with great selection of pastries and cakes. Highly recommended!!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0T1owVTRSMjUxYTA0d1QzQTVSMmd6UzJweVluYxAB",
+            "text": "$3 baguettes and gorgeous enclosed backyard seating!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4d01FUmtSblJFZGt4TVRHMTVaelpmVUVSWmJIYxAB",
+            "text": "Amazing gluten free muffins (but sadly they don’t have them all the time). Also love their breakfast and they have a great burger!"
+        },
+        {
+            "date": "1달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210Q2RFOW1UMmhuUlZWWlEzUTJaVWxqTlhkTFNYYxAB",
+            "text": "서빙하는 것이 매우 친절함 프렌치 토스트가 맛있음"
+        },
+        {
+            "date": "1달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GblYyMDFNM2czUVZnM09VaFpRVFk1Tmt0a1JrRRAB",
+            "text": "5/5 Pain Au Chocolat"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZeGRHRk5ZMHRrT1VSU2JEVTVablJVWTJ4M1NrRRAB",
+            "text": "Great coffee and very nice service! Tiramisu was delicious!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WdFdGUjZTa2x1WnpaRFRYcGxRWG81YTIxdE5GRRAB",
+            "text": "Came here to sit in the cute patio given that they have wifi. It’s so slow though… ran an internet speed test and it scored a 0.20/0.47 Mbps download/upload speed. Might just be because I’m outside? regardless… those speeds are unusable.\n\nAnywho. Beyond that, cafe is super cute. Lots of nice desserts and organic tea selection for non-coffee/caffeine drinkers. They also have a nice beer/wine selection so potentially great for a date.\n\nI’m giving this place 5 stars but be warned if you’re coming solely for wifi."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oR1dUUTNTM3BMVjBSdFowdExXVWt5TlZZdFUxRRAB",
+            "text": "We are so lucky to have Charlotte in the neighborhood. The mousse cakes always impress everyone I share them with. I usually select from whichever cakes are left on my way to every birthday celebration and they are all amazing. I also love the little passionfruit tarts when I just want a little sweet bite. The croissant is also the best in the for miles."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wWWQybDRTRTlZV0d4cGVFSnlWa2RCVjI5b1FWRRAB",
+            "text": "Literally so delish. The omelets are perfection"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwdFMyRnpVVEZyYVhKb00xWnpZblJzTlVjNFdGRRAB",
+            "text": "My ice macha was excellent, vanilla blackberry pastry was delicious. Service was great.\nI definitely will be back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvNVFUWTFRMWR3WXpFemIwRlhNa2xHWW1KcmFFRRAB",
+            "text": "Great spot for coffee, pastries & food. Lots of seating space, backyard."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4cmMwaEJOemxMVWw4MlJHNDVZM2cyZVdsb05IYxAB",
+            "text": "Pros: Friendly staff, good drinks, great air conditioned place to work with laptops (lots of space and rarely crowded)\n\nCons, if vegan: mediocre vegan cookies—average flavorless oatmeal cookie and a bad banana(?) peanut butter chocolate chip cookie; but I hear the non-vegan stuff is great"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4MVltRnFXSEZmTVdoeWRrSXhaVlp2ZUU5a1ptYxAB",
+            "text": "Was here last night for an outdoor movie night. We had a great time , I had the burger which was phenomenal and the desserts are so good ! I tried 3 and my friend tried 2 we couldn’t pick out of all the amazing options my favorite was the raspberry chocolate one! The service was also great the lady who served us was so sweet."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNMmQyOTRNV3d3Y0RWWE1WQlhRVVJEVFVNNE4xRRAB",
+            "text": "Wonderful shop with delicious pastries, hot coffee, and flavorful food items. As we transited the area and looked for a breakfast spot we got the idea to grab a coffee and pastry while we decided on our ultimate food destination.\nAs we looked at the pastries we “stumbled” upon their menu and decided to eat here. We were not disappointed with the portions, selections, or flavors. My wife ordered a Croque Monsieur, I ordered the breakfast sandwich (bacon, egg, cheese on Kaiser), and my son got some French Toast with a side of bacon.\nThere were plenty of seats and it wasn’t busy (maybe because it was early Sunday morning. We live 3 hours from the City and enjoy finding new places to enjoy. This was definitely a hit with our family and we will be back."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0WFJWcDNRMHh5YnpKSGNtWXlMV3h4V200NVZuYxAB",
+            "text": "¡Increíble! Muy buen servicio y precios tan rezonables. Hay muchas sillas y lugares para sentarse."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxb1FVRnRhVlppYUV0VFExSjRTUzB5VTFnNFpsRRAB",
+            "text": "It's ok"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZdE5tdFRVMUZXVXpnd1NsQjFOV1JQZGxJelRXYxAB",
+            "text": "Very good french toast and lovely eggs and potatoes. Pricey but tasty."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VPVy11WmFMZ0tuS1hnEAE",
+            "text": "Charlotte's was way too small,\nPastry selection was TERRIBLE!\nDO YOURSELF A FAVOR AND STAY CLEAR !!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VNbWV4SkNfZzZQSUF3EAE",
+            "text": "sólido. El matcha no estaba muy rico, el croquetas monsieur si. La avocado Toast desabrida, las french fries ricas, balance."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPbVV6ZVdyM2Iydm93RRAB",
+            "text": "Cute cafe, excellent food and friendly staff. It’s a real treat to have breakfast or lunch here."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJR0NnNUNRbjVudXJ3RRAB",
+            "text": "The coffee is nasty, some of the worst coffee in NYC, made me gag. The pastries are great but stay away from the coffee."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPLWQydmVqb2J1bW9RRRAB",
+            "text": "My favorite cafė in New York. I've been coming here for a decade for delicious tea, omelettes, and croissants. The staff and atmosphere are lovely."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHZ29DaHFBRRAB",
+            "text": "*More visit: Recommend the vanilla and black currant cake! Looks beauuutiful and taste gooood.\n\n☁️MUST TRY: Amazing cloud cake!!!❤️ They balanced the flavor almost perfectly between the sweetness of the cream and the sourness of the berry. And the texture was wonderful, fresh and creamy, soft and slightly crunchy.\nI also got the 🥐croissant and the 🍰tea cake (macadamia & salted caramel cake covered with chocolate.) They were not the best of the best but still outstanding. The croissant was really crispy outside, but each layer was slightly thick compared to other places. The tea cake was good too but the cloud cake was just toooooo good.\nNothing went wrong so far. Definitely gonna try more!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPSEZsUHVFMmQteTdRRRAB",
+            "text": "Fantastic 😘👌🏽"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZa3J1UlV3EAE",
+            "text": "Only had tea here with a friend, but lots of pastries and bread available. Cute seating inside and out. Will definitely be back to try more!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvenFYU01BEAE",
+            "text": "Sometimes you go to a restaurant wanting something, and this restaurant delivers more than something… it delivered the best salad I’ve had in years. I stood at my counter speechless in awe at how perfect this was. The pecans were insanely huge and perfectly candied, I have no idea what was in that dressing but I want to be buried alive in it. This spot is my new obsession. I feel stupid for not going before.\n\n(Also the crime brûlée is insane but that is not the focus here)"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNveU1fTWtnRRAB",
+            "text": "First time visiting this cafe and we will definitely return! Reasonably priced coffee and treats and a cozy atmosphere right around the corner from McCarren Park. The red velvet cake tasted almost like cheesecake— very delicious!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJbXJUd2hBRRAB",
+            "text": "Very fine pastries"
+        },
+        {
+            "date": "6달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMk1peGlRRRAB",
+            "text": "Great Crème Brûlée…"
+        },
+        {
+            "date": "7달 전",
+            "language": "haw",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJcktDZXl3RRAB",
+            "text": "Deliciooooooooous 🤗"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnbHBXV01BEAE",
+            "text": "Best chocolate tart! Also they have WiFi (need to ask for password) and plenty of seats"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnN0tEYi13RRAB",
+            "text": "Great breakfast place, good service and good coffee"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2aEpiTk93EAE",
+            "text": "Second to none! Their pastries and cakes are mouthwatering, simply amazing 🤩"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2dkxLZmhBRRAB",
+            "text": "Recently spent a night in Brooklyn and happened upon this delightful patisserie.  To start, the cakes are exquisitely beautiful.   We got several to sample, and each was an amazing balance of tastes and textures.  The double chocolate and hazelnut chocolate cakes were divine, fluffy mousse and tender cake made these the favorites.  The chocolate raspberry cake, black currant cake, and raspberry creme brulee were not far behind--a surprise since I generally am not a creme brulee fan.  Fresh, tart, and creamy (apologies for the photo, couldn't wait to start the taste test!)\n\nThe lovely lady who helped us was super informative and kind, wonderful customer service.  Literally considering moving to Brooklyn to be near this place.  Do yourself a favor and visit soon!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYMjZiMFl3EAE",
+            "text": "This is one of my favorite bakeries in the area. One of their signatures is “the duet” which is a chocolate, white chocolate and hazelnut cake. It’s got a mousse portion and the hazelnut crunch is top tier.\n\nThey have one of my favorite red velvet cakes as well. The topping is a cream cheese frosting which is the perfect blend of tart but sweet. They have little crumbles on it. It’s such a good pick me up if I’m having a bad day.\n\nI could go on and on about this bakery. They have morning pastries that I love as well. Honestly anything and everything here is so good.\n\nWhen the weathers good, it’s so nice to sit in their outdoor space too!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuODUteGdRRRAB",
+            "text": "Beautiful place, kind staff and delicious desserts. Can’t wait to go back and try each dessert ❤️"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNId2NQYVFREAE",
+            "text": "Fueron muy amables y pacientes los baristas de turno Angel y Edi, ya que les hice varias preguntas sobre el chocolate caliente debido que el de estados Unidos es muy diferente al del mi país de origen ( Colombia ), uno de ellos habla español así que no se preocupen !. Y el chocolate paso la prueba ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURidDluekRREAE",
+            "text": "Tasty gluten free pastries! Would definitely go back and recommend"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiNmVUZVdnEAE",
+            "text": "Chocolate croissant was stale and matcha latte had large chunks of matcha powder"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyb2R5SGdRRRAB",
+            "text": "A great find while we went for a walk near our hotel(Wythe Hotel). We stopped in for breakfast and pastries. WONDERFUL!\n\nService was great, as was the food and sweets. We would definitely go back if we are in the Brooklyn area."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURybW8zNXFRRRAB",
+            "text": "Amazing Cobb salad, it had a light tangy dressing and was massive. I waited 20+ minutes for it, but it was worth it!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMbHN6ZHp3RRAB",
+            "text": "Everything is fresh and sooo good!! 😋😋😋🥰😘👏🏼👏🏼🙏🏼"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLd3B6RXV3RRAB",
+            "text": "The pastries are delicious. Coffee is excellent.\nThe food is very tasty, if you wonna do breakfast or lunch you will not be disappointed or leave hungry. The staff is very friendly and helpful. You feel welcome as soon as you enter."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUMGRMbmZREAE",
+            "text": "Delishious pastries. Some of the best in Greenpoint. Passion fruit tart and chocolate rasberry and the croissants are amazing. Creme Brule is good as well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNULW91YmxRRRAB",
+            "text": "Great little pastries for personalized tastes"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqX19hV0tREAE",
+            "text": "The food is so good. It's a hidden gem with their lunch and brunch menu. Plus, they have an infant friendly bathroom"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqbloteG93RRAB",
+            "text": "My favorite pastry shop. The black currant vanila cake and duet are my top 1. I ve ordered cakes from them many times and each time were delicious. Prices are really decent, service quick and easy to deal with."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqOWVDUENBEAE",
+            "text": "Great bakery!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREN0xLZ2FREAE",
+            "text": "Finally a good cup of espresso! Sorry new york, your coffee is always too sour. Not this place, it was hands down the best cappuccino I've had in 10 years."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5ekpyVVZBEAE",
+            "text": "Excellent mini desserts especially the duet (5/5) and the pistachio mango mousse mini cake (5/5)! The duet is a perfect symphony of sweet, luscious chocolate mousse with a crunchy hazelnut layer - really well executed and perfect. The pistachio cake was also delicious - very fresh and fruity with the mango and excellent pistachio cake as well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5aHJtY1VnEAE",
+            "text": "The cakes here are divine. I picked a couple up for my birthday and enjoyed every bite. Wonderful vibrant flavors and elegant presentation. This is Michelin star quality at an affordable price."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpbS0yTmJ3EAE",
+            "text": "Their desserts are always fresh and delicious.  The service and prices are good.  They also have a dessert called Romantica that I've never seen anywhere else and it is delicious 😋  Besides everything I mentioned above, they also have great decorations which change with seasons and special occasions, such as Valentine's Day. Update 2/11/24:  Charlotte Patisserie is as wonderful now as it was when I first visited.  Their prices remain reasonable and their desserts delicious.  The other day I bought The Pistachio Tongues and a Galette and both my mom and I agreed that they were amazing.  Their decorations are still beautiful."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpck0zWVdBEAE",
+            "text": "This Polish-French style elegant cafe offers good coffee, pastries and cakes!  What I love here is their cakes are not too sweet like other American cakes. They offer not only high quality food, but still gives homey feeling. Highly recommend!!\n\nThe breakfast /brunch menu is also great. Staff are nice and friendly!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURleWVpeEx3EAE",
+            "text": "Very pretty place to have a coffee and cake. So many choice of beautiful cake!!! They served breakfast and lunch too.\nAnd they are very friendly and make me very welcome feeling. They have backyard space to enjoy fresh air.\nHighly recommend."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNjMDhmUU5BEAE",
+            "text": "I'm not normally a big donut fan, unless they're exceptional! The passion fruit donut looked too good to pass up, and it more than lived up to expectations. The chocolate and almond croissant are also outstanding! Excellent staff and well…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3anJMMktREAE",
+            "text": "This casual bakery cafe is indeed more than a bakery. This place is warm and friendly. It offers delicious food items and delicate desserts. It has a restroom and a nice backyard."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKOTZYeHJ3RRAB",
+            "text": "It was a beautiful bakery. There were so many things I wanted to try. I know for certain I will be coming back. I got a chocolate croissant and a small vanilla/berry cake."
+        },
+        {
+            "date": "2년 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoc3YzSzFRRRAB",
+            "text": "Gトレインのナッソーアベニューから歩いてすぐのカフェ。\nこじんまりとしていますが、ゆったりとスペースがとられているので心地よいです。\nスタッフも親切なのでメニュー選びに困ったらおすすめを尋ねるのも良いと思います。\n今回はラングドシャのピスタチオクリーム、チョコレートクロワッサン、カフェラテをオーダー。\n甘さ控えめで日本からの観光客でも馴染みやすい味だと思います。"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsNlBlVnp3RRAB",
+            "text": "The pistachio tongue from Charlotte's Patisserie is a gastronomic masterpiece that showcases a meticulous blend of textures and flavors. Each layer unfolds like a symphony on the taste buds, with the creamy pistachio-infused filling complementing the delicate pastry. The subtle crunch of finely chopped pistachios adds a delightful contrast, enhancing the overall experience.\n\nHowever, my palate, eager for an intensified pistachio immersion, wished for a bolder expression of pistachio flavor. While the nuttiness is present, I yearned for more pronounced pistachio extract notes to elevate the sensory journey. Despite this minor preference, the pistachio tongue remains a delightful creation, testament to Charlotte's Patisserie's commitment to culinary excellence."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxNmNHZ2FREAE",
+            "text": "Service was great and the pastries were mind blowing. This weekend special is a must try. It's crispy, creamy, and tart. So well rounded. Cute patio with WiFi too!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzN0xUTUhREAE",
+            "text": "Amazingly flavorful desserts.\nThe passionfruit tart and the carrot cakes are some of the best I’ve ever tasted. Just as good if not better quality than anywhere in France."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLNnBteENBEAE",
+            "text": "Currently my favorite breakfast haunt in Greenpoint. Their croissants are baked on-site and you can definitely tell - they are delicious, flaky, buttery goodness. Pairs perfectly with an Americano, which is also premium quality. I…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyMHEtVENBEAE",
+            "text": "Everything was delicious.  Tables are limited inside, call before...\nSo everything from the Latte to the pastries and salads. Highly recommended."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2NnZXMHJnRRAB",
+            "text": "So very grateful for this beautiful and delicious cake! I took raspberry/crème brulee. The flavor was just perfect!\nThe staff was responsive and very helpful throughout the whole process. I reached out with some ideas for my brother’s birthday cake, and was impressed how quickly they responded and did everything to make it similar to the photos I sent. My brother who loves Colts loved the cake and jumped up from happiness. Priceless!\n\nThank you so much again! I’ll definitely be back and so is everyone who had the cake. :)"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlcHZEejdnRRAB",
+            "text": "The first bite in and I was hooked! I had the bread of the day which was a chocolate bread with nice chunks of walnuts inside. I also got the carrot cake and it was to die for. I can’t believe how cheap everything was; I feel like I ripped…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXczl5THNRRRAB",
+            "text": "Few places in the neighborhood for a good eclair. It’s larger than traditional French eclairs but totally satisfying. The other pretty pastries in the case are all fun to try and great to bring along to a dinner party."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnb3BqOVZnEAE",
+            "text": "Small cozy place. Very nice selection of sweets and drinks. I like it, but it's nothing extraordinary.  Great for locals."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpaWZ6TWN3EAE",
+            "text": "Ordered medium cake for baby shower on Friday to pick-up on Sunday morning.When I arrived, I was informed that they ran out of medium cakes so I will get two small? So you do not bake the cakes to order? So what is the point of ordering…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwNDRPczN3RRAB",
+            "text": "Great spot for an inexpensive brunch with a nice menu selection and good service. I would definitely eat here again!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDMlplTllnEAE",
+            "text": "We get all of our celebratory cakes from Charlotte. The passion fruit is definitely my favorite! Enjoy their coffee/chai lattes as well."
+        }
+    ],
+    "reviews_count": 70
+}

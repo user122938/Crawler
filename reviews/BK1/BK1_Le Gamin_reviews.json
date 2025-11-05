@@ -1,0 +1,509 @@
+{
+    "name": "Le Gamin",
+    "place_id": "ChIJLSZlpEFZwokRkatFFV8Mb3E",
+    "grid": "BK1",
+    "address": "108 Franklin St, Brooklyn, NY 11222, USA",
+    "rating": 4.4,
+    "user_ratings_total": 528,
+    "phone_number": "(718) 770-7918",
+    "reviews": [
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sVmRuVmtlWFYzUzFCbmEzWnVVMVpvZW1oUVlVRRAB",
+            "text": "Been wanting to try this place for the atmosphere. Went on a Saturday afternoon so it was busy, and they seemed shortstaffed. It took quite a while to receive service. Once we did receive service, the waiter was friendly. I got the moules frites which was ok. I've had better. The fries were kind of cold.\n\nOverall a 3/5 experience."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WS2NXbzRhV05RYVRablVqaEpOV05RUzNRelMyYxAB",
+            "text": "Actually perfect in every detail. Amiable, friendly, inviting, capable. The kitchen delivers excellence without charging extra. Le Gamin combines casual comfort with tidiness and cheer. Planning another visit to explore the menu."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sRmVEUkRObVJST0RaT2FuWXphSGhYTlVWM1QzYxAB",
+            "text": "We went here for brunch and it was outstanding. I’d say the crepe with ratatouille was one of the most delicious breakfast foods I’ve ever eaten. Service was friendly and attentive and the space was very comfortable and homey"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aUWEwaEliVk5tZDJkc1ZHUTFTamxSTFdoaU9WRRAB",
+            "text": "Super clean food, super nice servers, super nice ambiance"
+        },
+        {
+            "date": "3주 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210bVRITnZNbU5ZZWpjd1pHUjNSakZEVWprNVRXYxAB",
+            "text": "Jak zwykle wspaniała obsługa, bardzo miło, super przyjazna atmosfera, doskonałe jedzenie. Poziom mistrzowski od lat. Polecam bardzo z całego serca 💖"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0c01XeG9aVEF0TTBabGRrMVFZM1l6VTE5QlgxRRAB",
+            "text": "Atmosphere and pricing was great! Steak wasn’t my favorite but fries were great as well as with the salad. My friend got the burger and loved it. Staff was the perfect balance of attentive but not overbearing."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMGVVdEtObmxSYmtreFZuTnhRV1U0TjNwQ05WRRAB",
+            "text": "Le Gamin is the best spot in Greenpoint. The escargot is outstanding, the tarte Tatin is a must, and the service and relaxed vibe keep me coming back"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWU1lYUXhTaTFJWjJKeFgySmFkVEIzZW5SNVJrRRAB",
+            "text": "Absolutely loved it here, the food, the ambiance and the service were all top notch.Highly recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KeE5WRTRla1ZVZW5wS1ZETlVTRUZYTmt0aVQxRRAB",
+            "text": "Found the staff to be very very rude as well as the regular patrons.  Very unwelcoming environment.   Food was nothing special.  So many wonderful places in the area this was a skip."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KU1NXUnhOek40T1ZCVlRIUkJiMGt4VUVSb1luYxAB",
+            "text": "Food was delicious. Really cute and cozy cafe."
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCWE16Vk1iRUZDWlZObVdXNXRNVUpuYkVOUGJWRRAB",
+            "text": "Quintessential neighborhood french bistro. Très bien!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kalNEVkdPVEpoY1hkemFtdGFlalJKY0Rock9IYxAB",
+            "text": "The best French Restaurant of the city !  🇫🇷"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GdWJWQnlXaTFHVW1nNFEzQjZWVmxNWmxGUmVuYxAB",
+            "text": "Came here for a weekend brunch - service was very slow which maybe intentionally suited to a European pace. Crepes were decent and the happy hour spritzes were well enjoyed. Space is cute."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSaFMwaHBRMkptYUdKT2NtNXlVSGRPYUU1NE5XYxAB",
+            "text": "I went here on Independence Day for a drink. We had Aperol Spritz, I am afraid they were very disappointing. Aperol Spritz should be: Aperol; Sparkling wine; Soda water - ours had no sparkling wine, so they were bitter. I wouldn't rush back, put it that way!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZM1YwdFJPVGRqTFRoUWVUSmljMVpUVTJRMVJHYxAB",
+            "text": "Nice French-style place, good service !!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wTlZ6VjFjalF4VUVOcVRWOW9UbkJuZG5KQ1lYYxAB",
+            "text": "Wonderful lunch spot - chicken salad is delicious"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VMRHJvUHVhaEtlLWpBRRAB",
+            "text": "the service is nice and friendly.\nwe came here for brunch , I love the salad, but can’t say much about the others, not too impressed"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMWFF5SVdsX0lXZ2dnRRAB",
+            "text": "Always so good. Food is amazing. Wonderful staff, personable and welcoming. Not many of these homely restaurants left! Cherish the ones that are!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvM2ZMbXRnRRAB",
+            "text": "Le Gamin exudes casual Parisian charm, making it a fitting spot for a leisurely meal or a laid-back happy hour. On my recent visit, I opted for the croque monsieur, a classic choice that delivered on richness and nostalgia. While some edges of the bread veered into overly crisp territory, the sandwich overall was satisfying, with melty cheese and a savory béchamel that hit the right notes.\n\nThe accompanying salad, however, leaned heavy on the dressing—what could’ve been a crisp, refreshing contrast instead felt weighed down. A lighter hand here would have gone a long way.\n\nOne friend ordered the burger, which she found decent, though she noted the flavors didn’t quite meld as well as they could have—perhaps a seasoning issue or simply a matter of execution. Meanwhile, the other two in our group were more than pleased with their sandwiches, finishing them enthusiastically and without a single note of complaint.\n\nThough I didn’t get the chance to try the oysters or escargot this time around, both are on the list for a future visit. I’d especially recommend stopping by for happy hour, where the atmosphere truly comes alive—and if you’re a fan of a well-poured Aperol Spritz, this is the place for it.\n\nLe Gamin doesn’t reinvent the wheel, but it leans into comfort and charm, with just enough personality to warrant a return."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMzRDRXZ3RRAB",
+            "text": "Came here for a quick lunch on a Sunday. We waited around 20-30 minutes for a table it was not super just not a lot of space for a party of 5. The service was okay, super friendly staff, however, we asked for milk 3 times and someone in our party asked for their eggs well done they received them sunny side up instead. Three people ordered steak frites with different cooked temperature, they were all cooked the same and not the way any one requested. The eggs florentine was good and the side salad was yummy! Also the baguette was served nice and warm which was delicious just wish they brought it out first as a starter instead of all together. Truly an overall okay experience, we ate okay food, but were not blown away by anything."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJNGN5SWF3EAE",
+            "text": "Such a lovely French spot with a bright and welcoming atmosphere. The croque-madame was delicious, though the sauce was just a little on the sweet side for my taste. The ratatouille was flavorful, with a nice spicy kick, and the Québécoise was really good and very filling. The prices are a bit on the higher side, but the quality of food and service makes it worthwhile.\nThe interior is quite unique, with lots of interesting details that make the place stand out. It’s also really cool that they have daily specials and a Happy Hour. The last time we were there, we had the profiterole for dessert, and despite its high price, it was absolutely worth it. The portion was large, and the dessert was delicious, with a wonderfully creamy filling inside. What’s also really great is that they recommend dishes that are genuinely fantastic, and you can tell they truly care about your experience. What really impressed us was the service — the waitress was incredibly friendly and made us feel very welcome. Every time we visit, the staff are always kind and cheerful.\nHowever, it was a bit unpleasant that they charged us for the bread. It didn’t seem completely fresh, and $5 for a couple of slices of bread feels a bit much. It would be better for the managment to reconsider that pricing.\n\nGreat place in general! Definitely coming back 🥰"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJdjdhQWl3RRAB",
+            "text": "Very cozy place, the food is okay. Our server was super lovely and sweet."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJcnYybEVREAE",
+            "text": "One of the finest dining experiences I've ever had. The coffee is also amazing..Wish there was Le Gamin on the East End of Long Island..Then life would be perfect."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3eXVyMG5nRRAB",
+            "text": "What a lovely meal at Le Gamin. The scallops and steak were delicious, and our server Michael and bartender Ava took great care of us. The ambience, food, service, everything was just excellent. We hope to be back soon!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRdk5yem9BRRAB",
+            "text": "Wanted a brunch spot last minute and everywhere was booked up but walked in here and were so thrilled! Delicious cocktails, mocktails and insanely good brunch food in a nice casual vibe"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnb2FYYmt3RRAB",
+            "text": "Good French wanna be food."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnd2RfUERnEAE",
+            "text": "Food  was ok for what we paid for, service was great but the quality of food served could be better."
+        },
+        {
+            "date": "9달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBNDdQTlhBEAE",
+            "text": "周一的上午人不多，我们坐在窗口，阳光照进来很惬意😀 我点了牛排和班迪克蛋，味道不错！下次有机会来吃个晚餐。"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBcGFtM2hBRRAB",
+            "text": "Great spot for a Sunday morning coffee, egg breakfast, and laptop."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBaE5qYzNRRRAB",
+            "text": "I’m not the most versed in French food but man was this good. The steak frites are perfect anytime of the day"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfaXEzQXRRRRAB",
+            "text": "Delicious food and lovely service"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQLXFtazNBRRAB",
+            "text": "Excellent menu here - a lot of options from Croque Monsieur to Moules. The spiked hot apple cider is delicious. And don't forget to try the Tarte Tatin! Friendly staff, and a chilled atmosphere. We'll be back!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQNHMzV3N3RRAB",
+            "text": "Effortlessly cool, with super friendly, relaxed service. Lovely neighborhood"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQeU0ya19nRRAB",
+            "text": "The winter salad was ridiculously small and not a salad. There was no cider which is weird for a « crêperie »"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzN28yVi1BRRAB",
+            "text": "I’ve been a loyal customer at Le Gamin for 5.5 years, loving the brunches and friendly staff. However, today’s experience with one server was disappointing. While outwardly polite, displayed an underlying rudeness and an unwelcoming attitude. This set an uncomfortable tone for the rest of the visit. He unnecessarily corrected my daughter, stating that they serve crêpes, not pancakes and seemed dismissive when we ordered. The “Quebecoise” dish I received looked unappetizing - like watery porridge, attaching pic - and was impossible to eat. When I expressed my concern, he only offered a cookie as compensation but saying he will still charge for the dish. I ordered an alternative that was a safe choice. This review is specific to today’s service with this server; the rest of the team has always been fantastic. I hope they improve their approach in the future."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYNS1EbldREAE",
+            "text": "The food is delicious. The ambiance is perfection. And the service is immaculate. Michael served us today and we were so annoying and he accommodated everything for us without batting an eye. Love this spot."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYX2RiVE9BEAE",
+            "text": "Food was okay, but our server was extremely nice! I got an omelette and the white peach sangria. The sangria was so tart I couldn’t drink it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYM3BtaDl3RRAB",
+            "text": "Good food, but the servers never come to the table if you wanna order more…probably because there was only 2 servers on a Sunday afternoon: one male w a ponytail and one male w short dark hair. I  walked in and was met by a female worker who told me to wait for a table inside…I asked her if she needed my name or number and she said they didn’t need. So I waited outside the restaurant by the door bc inside was cramped.  After a while I go in bc I was scared someone was going to get my table as a walk in, and  these girls w no reservation walk in and they get the first table available without having to wait and were seated by the male server with the pony tail. I didn’t make a big deal bc I got a table not too long after another table opened up. What bothered me was that at the end of my meal I told the waiter (male dark short hair) about how they should be more careful about keeping track of walk ins…and gave him my example that the table the other girls got should have been mine… the waiter (male w dark short hair) said that I was seated according and that those girls were on a waiting  list and that the Girls came back. I know the waiter (the male w dark short hair) was lying because I was right behind them when I heard the girls saying how it’s their lucky day that didn’t have reservations and got a table right away. Also how could there be a wait list if they never took down my name? Ultimately the servers don’t communicate w each other or have a system for walk in… I go eat to both locations all the time, but the waiter w short dark hair made me feel bad w his defensive reasons which were not true…And my friends told me he gave me a dirty look and rolled his eyes at me after that. I even tipped the normal amount bc I get it that it’s hard being understaffed but the waiter making me feel bad as a customer is a huge turnoff.\n\nThe location in Sharon, CT has more much service than Brooklyn location"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYbHBHQzhnRRAB",
+            "text": "Solid french food"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYcVA3UUFnEAE",
+            "text": "this place used to be a favorite — in every location, for many years — but now, it seems, they’re doing an idea of french food but it’s not good and the waiter seemed in over his head with only two tables."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4dDRXU3NnRRAB",
+            "text": "Lovely partly shaded back garden. Charming French Greenpoint restaurant with friendly service and good food. Lovely for brunch or dinner! The kind of quaint place you hope to find. Afterwards take a stroll around the beautiful tree lined neighborhood."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSbjRTVXB3RRAB",
+            "text": "Haven't tried many dishes yet but I primarily go there for my Croque Monsieur or Madame.  Edit: now had the chicken Sammy.  So good.\nUpdate: went there for farewell lunch for a friend. Had the croque madame, amazing as always."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNueE5qRGxBRRAB",
+            "text": "Staff was rude…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3Nk9uTHdBRRAB",
+            "text": "Very charming atmosphere, very good food and exceptional service. You can feel the care the owners take in every detail of the restaurant."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiOWZ5MUhREAE",
+            "text": "Stopped at this cute French restaurant for Bastille Day, and it was such a happy surprise. The food was very authentic and delicious and service was super friendly (we were offered a free second glass of wine!). definitely recommend for a good French spot in Greenpoint!\nHad the escargots, artichaut, croque madame, and duck confit."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURycUx6Vk93EAE",
+            "text": "Excellent service and atmosphere"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVdTg2ZlhnEAE",
+            "text": "Updating from 5 to 2 stars due to their health inspection results. Rats, mice, filth flies and unsanitary conditions aren’t acceptable in my opinion. A real shame as I lovedddd this spot!\n\nPlease clean it up there and I’ll come back when you do!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMdkpuUzV3RRAB",
+            "text": "I recently visited Le Gamin, a charming French restaurant in Greenpoint, and everything was perfect. The food was exquisite, the atmosphere was delightful, and the staff was incredibly friendly. Highly recommend for an  French dining experience in Green point"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUcnNEc3RnRRAB",
+            "text": "Loooove this place !\n\nEverything was amazing, we had brunch here and from the food to drinks and sweets, everything was tasty and well made. Service was amazing too! All the staff is super friendly, and our waitress Eva was super sweet and nice. Atmosphere is so lovely and the setting is super cute.\nEspecially as a french person, it's always nice to see a place that actually makes good french food and isn't too \"americanized\"-"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUbG8taHR3RRAB",
+            "text": "Le Gamin has been one of the longest standing neighborhood staples and for a good reason! The atmosphere is cozy and inviting, the food is delicious and the back patio is a dreamy garden! Great vibes."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkdjV1REhBEAE",
+            "text": "What a cute place! Cozy French cafe vibes. Upon doing a little research, it seems like it’s been around for a while. They have a nice outdoor seating area in the back but it was raining so I sat at a small table by a window to people watch.\nOrdered a small orange juice and the eggs florentine. The cheddar jalapeño biscuit that comes with was so delicious! The eggs were perfectly cooked. The OJ was freshly squeezed which was a real treat.\nDidn’t catch the server’s name but service was excellent. I’ve dined in twice before and service has always been welcoming, kind, and attentive.\nAlso peeped some freshly baked chocolate chip cookies being left out to cool and they looked and smelled amazing! I’ll have to grab one the next time I stop by."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGeDlYUUh3EAE",
+            "text": "The dishes were absolutely beautiful, and every bite was heavenly.\n\nThe wonderful and kind staff create a cozy, relaxed atmosphere, (we unfortunately didn’t catch our server’s name: great recommendations, thank you so much for today!))\n\nSo many interesting options on the menu, I personally had the egg Florentine: warm, crispy biscuit bread with garlic and a perfectly poached egg topped with a creamy sauce.. so delicious.\nAnd for dessert: macadamia and cherry cookie - there’s no point in eating any cookies if they aren’t THIS delicious!\n\nMerci Beaucoup for your talent and hospitality! We shall return!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlLUl5X0RnEAE",
+            "text": "Chose this place for brunch after morning activity around the hood. Wanted a French cuisine and saw the reviewers pic of escargots, so perfect. Came to this place and got seated right away, my boyfriend and I came at the right time when that place was not busy yet. Staff were so friendly and food was great. I ordered egg Florentine and escargot as the appetizer. Love both and the complimentary bread was still warm and so soft in the inside and crispy on the outside.  Tres parfait. And boyfriend ordered the Putin."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxbFkzXzR3RRAB",
+            "text": "I've been wanting to check this place out for years.  It was worth the wait.  It's a very cute space.  The service is very good.  I had the Escargot which was served with bread.  It was good.  Their prices are reasonable.  I have to go back and try their Crêpes."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVcUs2NXVRRRAB",
+            "text": "I just visited France and I never left New York!  Le Gamin is surprising, with country style and neglected, a neighborhood store environment (up to French radio) with dishes and high quality service.  We began our visit with three appetizers;\nFoie Gras, escargots bourguignonne and soupe a l'oignon... plus a Ratatouille side.\nThe truth is that we were surprised, each dish was delicious, abundant and tasty.  High quality in every detail.\nWe continue with two main courses;  One crepe with Brie cheese, mushrooms and lamb chorizo ​​and the other dish was a steak tartare. Both main courses, strong flavors and very well presented.  If I have to return, I would return for the variety of crepes and omelet (just today there was not) and also I was left with the desire to try the duck.\nFor dessert a profiterole... the presentation in the table setting was beautiful!  That dessert is highly recommended.\n\nExcellent!! This place is amazing.\nI recommend going and try, then go back and try again and so many times.The prices are very accessible, the service is very very good.\nThanks Le Gamin!  See you soon."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwNHZmZzlnRRAB",
+            "text": "Wandered into this wonderful little French cafe, right in the heart of Greenpoint, Brooklyn, while awaiting my bike repair. Really neat place, they even have whicker chairs! And also, a back yard area. Great comfort food, great service,…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNteUtXWUJnEAE",
+            "text": "We walked pass Le Gamin all the time and finally got a chance to have brunch there on a Sunday morning. I will def go back again. I really love the Egg Florentine and the 🐌. The coffee was pretty good as well."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXMHFTLUpnEAE",
+            "text": "Soooo French, soooo lovely. All the decor is on point and the staff is so nice, attentive, and knowledgeable. A great place for an intimate brunch or to bring kids.\n\nFood is divine and very rich. Possibly the best coffee in Brooklyn honestly. We got an omelette which was HUGE and the foie gras which was rustic and perfect."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxdDR1OExBEAE",
+            "text": "Delicious food, cute restaurant and really nice service! I enjoyed the “Le Gamin”, it was delicious and the perfect balance between French authentic / home made. We all agreed that the food was great quality because none of us felt sick…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtdjlUUGRREAE",
+            "text": "Lovely french restaurant in the neighbor, has both outdoor and indoor sitting. Coffee is excellent, the best tart tartine! Love the crepe, you can choose your own fillings."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3c1lxbzFRRRAB",
+            "text": "Quaint and inviting ambiance, fantastic food and great service. I stumbled upon this place as I was walking through the area, the interior was warm and had a provincial french feel which is lovely. Other reviewers have complained about the…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0NWZlX0FnEAE",
+            "text": "Exceptional in every aspect!!\n\nWe were greeted very warmly and seated promptly. My mom uses a wheelchair, the staff is truly outstanding, even went outside to help fold and bring inside. Really appreciate!!\n\nMadison walked us through the menu and specials.\n\nBig fan of their Chocolat Chaud, perfect with Grand Marnier.\n\nEscargot is an absolute must, we would have ordered two if we didn’t get Foie Gras and Tarte Flambee.\n\nFor mains we ordered to share Salmon Linguini, Berkshire Pork Chop, Beef Borguignon and Steak Frites. The linguini sauce is a delight, the meats were surprisingly tender/juicy and the lentils were amazing.  Every dish was so delicious, we finished every bite.\n\nFor desserts, we enjoyed Apple Tartin and Chestnut Crepe. Perfect balance of flavors and emphasis on natural sweetness instead of adding too much sugar.\n\nInstant favorite and for sure we will be back!!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLMC1Ya05nEAE",
+            "text": "Easy, neighborhood French spot with a lovely shaded back garden, street parklet, and some inside dinning. Great weekend brunch and lunch. Good wines by the glass. Friendly, casual service with an overall relaxed vibe. Definitely get a chocolate chip cookie."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoNnM2QzBBRRAB",
+            "text": "It’s been awhile since I was here in this local staple. The waitress was lovely. All the food was tasty and well presented."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURza012ZWR3EAE",
+            "text": "This food is amazing, steak frites was on point! The ambience is rustic French Country home, not bad for heart of Greenpoint location. Big windows where the sun poured in on the wooden tables and chairs.\n\nThe menu and drink selection were excellent. The service was on point. Every Monday is fondue Monday. Every Tuesday is all you can eat PEI Mussels for $20 moulles frites. I'll be back on a Tuesday for sure!!! Enjoy"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2bzllaV9RRRAB",
+            "text": "Brunch was delicious ! But the only thing there was only one server for all the outdoor tables.\n\nMy favorite was the Bloody Mary and the Eggs Florentine.\n\nDog friendly place so that’s a plus."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1N1pmUXJRRRAB",
+            "text": "This was one of the best experience me and my friends had in Le Gamin restaurant. The service is top notch, the food is delicious and atmosphere in restaurant is relaxing. This was my first French restaurant and experience was spectacular. I would recommend this place to everyone who is trying get away from NYC to France!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPMGN5TjdBRRAB",
+            "text": "Amazing experience, food was great, drinks well done, and the service was impeccable. Will definitely come back and hang out in the peaceful backyard. Make sure to leave room for dessert!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3MmVlVEN3EAE",
+            "text": "Food are delicious! Drinks are simple and good. Love it, we'll visit again."
+        },
+        {
+            "date": "2년 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4bGZxY2VnEAE",
+            "text": "Le gamin burger est bon mais pas extraordinaire non plus, il manque une petite touche de folie, les moules sont très bonnes."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURrazZ6NHNnRRAB",
+            "text": "Stopped in for some ice coffee and had ratatouille with polenta topped with goat cheese. It was cooked perfectly and full of flavor. Loved it! The coffee was also strong the way I like it."
+        }
+    ],
+    "reviews_count": 71
+}

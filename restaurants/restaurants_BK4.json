@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Tabaré Bushwick",
+        "address": "1006 Flushing Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJ80WOzERdwokRXjGSASkDZxk",
+        "rating": 4.7,
+        "user_ratings_total": 480,
+        "phone_number": "(347) 318-3885"
+    },
+    {
+        "name": "La Cantine",
+        "address": "60 St Nicholas Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJY3SV72ddwokRP1FK0G3VnG4",
+        "rating": 4.6,
+        "user_ratings_total": 375,
+        "phone_number": "(917) 652-4556"
+    },
+    {
+        "name": "Sobre Masa",
+        "address": "52 Harrison Pl, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJmeKSwPFdwokRZ--71Rq0GBY",
+        "rating": 4.6,
+        "user_ratings_total": 435,
+        "phone_number": "(347) 844-2343"
+    },
+    {
+        "name": "Otis",
+        "address": "18 Harrison Pl, Brooklyn, NY 11206, USA",
+        "place_id": "ChIJncjrqQFcwokRZZzyxeY-tlQ",
+        "rating": 4.8,
+        "user_ratings_total": 1015,
+        "phone_number": "(646) 886-0601"
+    },
+    {
+        "name": "TORA NYC",
+        "address": "242 Himrod St, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJ39bSFABdwokR05BHt42BmR4",
+        "rating": 4.9,
+        "user_ratings_total": 209,
+        "phone_number": "(929) 554-4996"
+    },
+    {
+        "name": "Father Knows Best",
+        "address": "611 A, 611A Wilson Ave, Brooklyn, NY 11207, USA",
+        "place_id": "ChIJwZHjAzxcwokROh4zFWUlWlE",
+        "rating": 4.5,
+        "user_ratings_total": 1182,
+        "phone_number": "(718) 975-6840"
+    },
+    {
+        "name": "Sweet Anaëlle",
+        "address": "97 Jefferson St, Brooklyn, NY 11206, USA",
+        "place_id": "ChIJ1Zkzvp1dwokRqaMB0202cwo",
+        "rating": 4.7,
+        "user_ratings_total": 243,
+        "phone_number": "(347) 240-2288"
+    },
+    {
+        "name": "Sea Wolf",
+        "address": "19 Wyckoff Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJO_MlXh1cwokR1YDm45sn_Wo",
+        "rating": 4.3,
+        "user_ratings_total": 2405,
+        "phone_number": "(833) 524-0925"
+    },
+    {
+        "name": "Taqueria Al Pastor",
+        "address": "128 Wyckoff Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJVxxLjhhdwokRljQPK_XWGzw",
+        "rating": 4.5,
+        "user_ratings_total": 812,
+        "phone_number": "(718) 269-7538"
+    },
+    {
+        "name": "Ops",
+        "address": "346 Himrod St, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJl3Fhlh5cwokRQEja9nTWRv4",
+        "rating": 4.6,
+        "user_ratings_total": 839,
+        "phone_number": "(718) 386-4009"
+    },
+    {
+        "name": "Nowon Bushwick",
+        "address": "436 Jefferson St, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJCzyNLENbwokR-lXh5FtzU70",
+        "rating": 4.5,
+        "user_ratings_total": 403,
+        "phone_number": "(718) 971-9636"
+    },
+    {
+        "name": "Eyval",
+        "address": "25 Bogart St, Brooklyn, NY 11206, USA",
+        "place_id": "ChIJR9OEk_BdwokR9Qxlpi3I1ro",
+        "rating": 4.7,
+        "user_ratings_total": 856,
+        "phone_number": null
+    },
+    {
+        "name": "Santa Panza",
+        "address": "1079 Broadway, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJg26lNwlcwokRdVx1qWCCGIc",
+        "rating": 4.6,
+        "user_ratings_total": 746,
+        "phone_number": null
+    },
+    {
+        "name": "Queen",
+        "address": "247 Starr St, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJ_____xxcwokRvgheZgxjWtk",
+        "rating": 4.5,
+        "user_ratings_total": 712,
+        "phone_number": "(929) 227-3474"
+    },
+    {
+        "name": "Chiangmai Diner & Bar",
+        "address": "942 Flushing Ave, Brooklyn, NY 11206, USA",
+        "place_id": "ChIJWZltv6tdwokR_tPaTI2sANM",
+        "rating": 4.7,
+        "user_ratings_total": 601,
+        "phone_number": "(718) 673-8848"
+    },
+    {
+        "name": "Pitanga",
+        "address": "207 Starr St, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJQR97JR1cwokRQ8bprxwgu0g",
+        "rating": 4.5,
+        "user_ratings_total": 496,
+        "phone_number": "(718) 456-1048"
+    },
+    {
+        "name": "The Monkey King",
+        "address": "1329 Willoughby Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJ_yWCPIddwokR8opzBfz82aY",
+        "rating": 4.6,
+        "user_ratings_total": 770,
+        "phone_number": "(929) 489-3800"
+    },
+    {
+        "name": "Tina's Place",
+        "address": "1002 Flushing Ave, Brooklyn, NY 11206, USA",
+        "place_id": "ChIJjb24TgFcwokR0wxarefXPS0",
+        "rating": 4.5,
+        "user_ratings_total": 1103,
+        "phone_number": "(718) 497-6890"
+    },
+    {
+        "name": "Maloya",
+        "address": "983 Flushing Ave, Brooklyn, NY 11206, USA",
+        "place_id": "ChIJma2fX15dwokR4N39k_xbPIY",
+        "rating": 4.8,
+        "user_ratings_total": 184,
+        "phone_number": "(718) 290-9925"
+    },
+    {
+        "name": "Yia Yia's Taverna",
+        "address": "1035 Flushing Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJD11mXA9dwokRPfxG_khL2vs",
+        "rating": 4.5,
+        "user_ratings_total": 718,
+        "phone_number": "(718) 821-5900"
+    },
+    {
+        "name": "The Buren",
+        "address": "1223 Broadway, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJc2jNtKxdwokRkvIgjHbILiI",
+        "rating": 4,
+        "user_ratings_total": 360,
+        "phone_number": "(718) 684-3023"
+    },
+    {
+        "name": "Ayat Bushwick",
+        "address": "242 Knickerbocker Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJt3CDMwBdwokRDr_4LWE_M48",
+        "rating": 4.6,
+        "user_ratings_total": 969,
+        "phone_number": "(718) 766-0635"
+    },
+    {
+        "name": "Blanca",
+        "address": "261 Moore St, Brooklyn, NY 11206, USA",
+        "place_id": "ChIJrSjk6QBcwokRJ12Xetu0rX4",
+        "rating": 4.6,
+        "user_ratings_total": 178,
+        "phone_number": "(347) 799-2807"
+    },
+    {
+        "name": "Carmenta’s",
+        "address": "50 Starr St, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJcwh59ARcwokRH_Ew6Plj6Qk",
+        "rating": 4.7,
+        "user_ratings_total": 466,
+        "phone_number": "(718) 676-5003"
+    },
+    {
+        "name": "Sunrise/Sunset",
+        "address": "351 Evergreen Ave, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJeTuSuBFcwokRkhegB3-vSd4",
+        "rating": 4.3,
+        "user_ratings_total": 508,
+        "phone_number": "(347) 442-5880"
+    },
+    {
+        "name": "Cafeteria Bklyn",
+        "address": "1153 Broadway, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJCaz6FI9dwokRC3_fyzRQ57U",
+        "rating": 4.4,
+        "user_ratings_total": 207,
+        "phone_number": "(718) 484-4061"
+    },
+    {
+        "name": "Maite",
+        "address": "159 Central Ave, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJiyqjDgVcwokRRGqRBulo9kQ",
+        "rating": 4.4,
+        "user_ratings_total": 377,
+        "phone_number": "(718) 366-3090"
+    },
+    {
+        "name": "Tabbouleh Cafe & restaurant",
+        "address": "157 Central Ave, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJQdcsCj5fwokRpVGtceWhH4U",
+        "rating": 4.8,
+        "user_ratings_total": 445,
+        "phone_number": "(718) 673-8301"
+    },
+    {
+        "name": "La Isla",
+        "address": "1439 Myrtle Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJLXOTfxlcwokR721degLQfxQ",
+        "rating": 4.3,
+        "user_ratings_total": 1450,
+        "phone_number": "(718) 417-0668"
+    },
+    {
+        "name": "A-un Brooklyn",
+        "address": "156 Knickerbocker Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJF-b7DGRdwokRQ86k2XAopKk",
+        "rating": 4.8,
+        "user_ratings_total": 245,
+        "phone_number": "(718) 678-6628"
+    },
+    {
+        "name": "Mominette Bistro",
+        "address": "Storefront, 221 Knickerbocker Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJd-H7aANcwokRc9yKGMHHyxg",
+        "rating": 4.3,
+        "user_ratings_total": 914,
+        "phone_number": "(929) 234-2941"
+    },
+    {
+        "name": "Bushwick Taco Company",
+        "address": "839 Knickerbocker Ave, Brooklyn, NY 11207, USA",
+        "place_id": "ChIJMQCrgztcwokRczHnAB9FuAc",
+        "rating": 4.3,
+        "user_ratings_total": 657,
+        "phone_number": "(718) 676-5305"
+    },
+    {
+        "name": "La Lupe Cantina",
+        "address": "9 Jefferson St, Brooklyn, NY 11206, USA",
+        "place_id": "ChIJVy_IJAhcwokRm4ohs4-7MxI",
+        "rating": 4.3,
+        "user_ratings_total": 553,
+        "phone_number": "(347) 715-2455"
+    },
+    {
+        "name": "The Wheelhouse",
+        "address": "165 Wilson Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJ60Ws1ARcwokR_iOeFDzEHPA",
+        "rating": 4.3,
+        "user_ratings_total": 373,
+        "phone_number": "(718) 483-9970"
+    },
+    {
+        "name": "Amaranto",
+        "address": "887 Hart St, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJn85R-Qj7ZUAR8ozeRAybcbY",
+        "rating": 4.6,
+        "user_ratings_total": 627,
+        "phone_number": "(718) 576-6001"
+    },
+    {
+        "name": "Falansai",
+        "address": "120 Norman Ave, Brooklyn, NY 11222, USA",
+        "place_id": "ChIJc11gFQJcwokRcOejfRbBPpo",
+        "rating": 4.5,
+        "user_ratings_total": 512,
+        "phone_number": null
+    },
+    {
+        "name": "Mao Mao",
+        "address": "1000 Broadway, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJnQxdCoNdwokROLos5NIpK8Q",
+        "rating": 4.4,
+        "user_ratings_total": 411,
+        "phone_number": "(929) 600-5965"
+    },
+    {
+        "name": "The Ten Bells Brooklyn",
+        "address": "65 Irving Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJv5QvLQddwokR8sH0Q-NHt5Q",
+        "rating": 4.4,
+        "user_ratings_total": 274,
+        "phone_number": "(845) 584-3523"
+    },
+    {
+        "name": "Concrete Sicilian Eatery",
+        "address": "906 Broadway, Brooklyn, NY 11206, USA",
+        "place_id": "ChIJI2kKw_dbwokR5GBtrXU8rMc",
+        "rating": 4.7,
+        "user_ratings_total": 548,
+        "phone_number": "(917) 966-8440"
+    },
+    {
+        "name": "Santa Salsa",
+        "address": "234 Starr St, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJNTHomFtZwokRVY16XKq8y5Q",
+        "rating": 4.6,
+        "user_ratings_total": 707,
+        "phone_number": "(347) 365-2710"
+    },
+    {
+        "name": "Leslie's Kitchen",
+        "address": "109 Wilson Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJ6XsZIrNdwokRGhIHHmWZm2s",
+        "rating": 4.7,
+        "user_ratings_total": 299,
+        "phone_number": "(347) 406-7857"
+    },
+    {
+        "name": "Tortilleria Mexicana Los Hermanos",
+        "address": "271 Starr St, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJsRiTex1cwokR59H3dlPzzY8",
+        "rating": 4.4,
+        "user_ratings_total": 1689,
+        "phone_number": "(718) 456-3422"
+    },
+    {
+        "name": "FUKUROU BROOKLYN",
+        "address": "105 Wilson Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJizS_wtVdwokRL3_OlE7y2Do",
+        "rating": 4.7,
+        "user_ratings_total": 281,
+        "phone_number": "(315) 715-6632"
+    },
+    {
+        "name": "Lucky Charlie",
+        "address": "254 Irving Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJkfz0ZQBdwokRPW3d3YJZbog",
+        "rating": 4.9,
+        "user_ratings_total": 104,
+        "phone_number": null
+    },
+    {
+        "name": "Rosie Pizza Bar",
+        "address": "128 Central Ave, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJmTwmngxdwokRD5Gv33MePKA",
+        "rating": 4.5,
+        "user_ratings_total": 568,
+        "phone_number": "(718) 440-4369"
+    },
+    {
+        "name": "Buntopia",
+        "address": "994 Broadway, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJE3ZLsglcwokRZCXH87CJjZY",
+        "rating": 4.6,
+        "user_ratings_total": 659,
+        "phone_number": "(347) 435-3660"
+    },
+    {
+        "name": "SKYTOWN",
+        "address": "921 Broadway, Brooklyn, NY 11206, USA",
+        "place_id": "ChIJI6KV3_dbwokRP7-GQbGi1aU",
+        "rating": 4.5,
+        "user_ratings_total": 551,
+        "phone_number": "(347) 435-3252"
+    },
+    {
+        "name": "Tony's Pizza",
+        "address": "443 Knickerbocker Ave, Brooklyn, NY 11237, USA",
+        "place_id": "ChIJ_Tmb0xtcwokRlTMolAsnZFY",
+        "rating": 4.6,
+        "user_ratings_total": 1678,
+        "phone_number": "(718) 455-9664"
+    },
+    {
+        "name": "Casa Maya",
+        "address": "1264 Myrtle Ave, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJ5Z2XmEpdwokRAPeTiXmJhyE",
+        "rating": 4.3,
+        "user_ratings_total": 101,
+        "phone_number": "(347) 591-8751"
+    },
+    {
+        "name": "Zatar Cafe & Bistro",
+        "address": "1294 Myrtle Ave, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJxUj-TQVcwokRRAUVkUStfnc",
+        "rating": 4.5,
+        "user_ratings_total": 548,
+        "phone_number": "(347) 627-7641"
+    }
+]

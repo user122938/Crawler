@@ -1,0 +1,495 @@
+{
+    "name": "Henry Street Ale House",
+    "place_id": "ChIJ3wxUrjdawokRCvceYKTpXFU",
+    "grid": "BK2",
+    "address": "62 Henry St, Brooklyn, NY 11201, USA",
+    "rating": 4.3,
+    "user_ratings_total": 706,
+    "phone_number": "(718) 522-4801",
+    "reviews": [
+        {
+            "date": "17시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ScU5sUkJUa1JoV0dGVGRrWTNkbXQ0VFhWZlZYYxAB",
+            "text": "The Ale House is a great place to go to have a few beers by yourself at the bar or with friends. It has a great selection—I'm partial to IPAs, and what's on offer changes frequently. The staff  I know—the bartender Frank, the server Renae, and Eugene, who does both—are fine people and very friendly. The food is several steps above your average bar fare—a shoutout goes to Noë, the chef, whose specials are excellent. But if you're just looking for a burger, those are really tasty too. Also among the standard dishes is an impressive mac and cheese. Above all, the bar has character. The tin ceilings and dark wood bar and tables lend it a welcoming vibe. I've become a regular over time, and I won't go to other bars in the area anymore. The Ale House is by far the best bar in the Brooklyn Heights."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSclJqSjJYM0pOTlRKRllrdG5kMVkyVDBoa09VRRAB",
+            "text": "I wouldn’t eat here after using the bathroom. The old guy tending bar needs to retire. A seriously unpleasant man."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Fd1RucFBUa1o1UjI5bVkzUXhZVlpWYURCdGRVRRAB",
+            "text": "Not only does this place charge $16 for a can of beer (Heady Topper) but they wash the glasses and then place them upside down on the dirty bar.  See pic. Those are “clean” glasses.\nSomeone call the health inspector."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkWU9HMXBkbGxJU1ZGMmJFdE9kUzFTYmxwMlJVRRAB",
+            "text": "Burger and fries were excellent for the price, and the bartender was friendly and fun."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMWF6ZGhSekZOU1RRMFpuUlVZblZ3ZUZoSFoxRRAB",
+            "text": "This place has the best fried chicken sandwich in Brooklyn. It’s thin and very crispy. Always consistent, been ordering it for years even after I moved to a new neighborhood. Highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aeU1rWklVMDVoVkVKbVYyOHlTMVY2YzBjMlVYYxAB",
+            "text": "Henry Street Ale House is such a great place to just chill and have a few beers. It's got the exact right vibe as far as what I'm looking at for a bar. All the staff I talked to were super interesting and engaging. Plus, as you can see, a perfect Guinness pour!\n\nHighly recommended."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxR1N6WktZM1ZNYXpOMlQzSnBNelp3ZFVkemMxRRAB",
+            "text": "They’re very nice and a good spot to chill and talk to friends. I even pulled out my laptop here once and nobody cared."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwdGFtWjRTRzV4U2tGNVRWUkdaMFZGUkZweU9FRRAB",
+            "text": "Went down there to get some drinks last night and the bar tender was very good at his job and really good service. Excellent spot."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3MmVYRnBkVWw1Y0VGMk5XcEJjVUowV1hFelYxRRAB",
+            "text": "Clean taps n good beer."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kSFFqRlFhVzgyT1VaU1NVTk1jSEJ5Wm1sWldYYxAB",
+            "text": "Excellent place to eat, the food and draft beer are very good."
+        },
+        {
+            "date": "3달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsSk9EVlJTM1UxY0hWNFpXNXBjMVpsYmpsWVdVRRAB",
+            "text": "Pub tipico americano! Super carino, con musica fighissima, perfetto per gruppi di amico, famiglie o anche da solo se vuoi stare in compagnia con altri solitari al bancone!\nAmpia varietà di birre. Buonissimi nachos e patatine al tartufo da provare"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kSmR6UXRTM2w0ZHkxQ1JtaDNUVmc1ZWpreU1IYxAB",
+            "text": "Is the AC broken or do they just not have AC? Stopped here yesterday and it was so disgustingly hot and humid!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1WU9GaHRNVFpDWVVGWGFrOU5SRkE1UnpWaFVIYxAB",
+            "text": "friendly, reasonably priced"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xYU5ISldkMjVKUm5WcFlYSlZNQzFwZG1wUFJGRRAB",
+            "text": "Really rude old guy behind the bar. Left without ordering"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkSVVrWkpkV0pVY0doNlJEa3dWWEZaWnpKMFoxRRAB",
+            "text": "A jazz bar as much as it is a sports bar. The man behind the bar has a collection of great recordings and a set list planned on a post it note. Great spot to toss back a Brooklyn Lager and watch life go by."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPVDAtNF9BNlpuU3pBRRAB",
+            "text": "Good service.  Consistent,  reliable,  home like feeling with food service and touch of local spirit..a must stop in for a quick pint....or more"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VLVExySjNnaUlPX3ZBRRAB",
+            "text": "Good place to watch almost any sport. Service is good"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VLR0J3UF91cV82WTd3RRAB",
+            "text": "Great service.  Super hot dog"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VON2Q0Y19ldGZUWkt3EAE",
+            "text": "Very cool spot for a pint and some good bar food while watching your favorite game on the big screen"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMNnpqcG5tcG82cnZBRRAB",
+            "text": "Frank is awesome, 1st time in there, will certainly return"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPUGE1SWkybHYzOUx3EAE",
+            "text": "Service was fabulous. Really enjoyed my time here"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvLWJiV3pBRRAB",
+            "text": "Classic pub in Brooklyn with great atmosphere,  choice of food and drinks"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvbUpTT3VBRRAB",
+            "text": "After a long day exploring NY, this place felt perfect for us - good food, great vibe and amazing service. This was the best food we've had in 3 days here and the beer selection was also a highlight. I would highly recommend this and it feels like home Ireland."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3a0tHdDRnRRAB",
+            "text": "We were there with about 12 people celebrating a promotion. We were told we would have to order our drinks with the waitstaff. The man behind the bar was extremely rude. He was unwilling to open bar tabs for us because he didn’t want to keep a bunch of credit cards behind the bar. We would have to pay for each drink as we go. We left after the first drink."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dE02NWdnRRAB",
+            "text": "After doing a photo shoot 📷 with my son and I in Bklyn Hgts and Bklyn Bdge Pk, my son Googled a spot for some lunch. This is a  quaint little place near Clark St. Our server was Rene and she was a sweetheart. Food was excellent and the atmosphere was great."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBOE5tNUt3EAE",
+            "text": "We chose this place because it said it was open until 1 AM, but it closed at 11. They made us buy everything and then closed early.\n\nPésimo servicio, cerro antes de lo previsto."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2NDhPakVREAE",
+            "text": "Super friendly staff, great food and good selection of liquor and beer, good food."
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtOElIbmdBRRAB",
+            "text": "super knowledgeable bartender, good music, excellent bar food"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzcGVtRGx3RRAB",
+            "text": "Variety of beer but the man behind the bar is extremely rude and unhappy.\nNot recommended"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzLUtlWHJBRRAB",
+            "text": "I came here late one evening looking for a few beers and to chill. This place was exactly what I was looking for. The place was decorated for Halloween, with soft light and no TV. There was some light music in the background. It was chill and I had a good time relaxing."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzNzZQMWtRRRAB",
+            "text": "As you would expect an ale house - good good, good service, fun atmosphere."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYc3M3TjFnRRAB",
+            "text": "Horrible service from a buzz hair cut lady. My two friends who are 21 (im not) wanted some drinks and I wanted to go with them so we went here. She immediately was suspicious and rude towards us therefore we decided not to tip and then she questioned our no tip? There was no reason for her to be rude. We wanted to eat dinner but we decided not to because of how rude she was. We are not going back here again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYbUlYN1dnEAE",
+            "text": "Somehow whenever I go out somewhere and it doesn't work out, I end up at an English style pub (which is ironic as a Brit)\n\nI was very surprised at how good the fish and chips were. The waitress Renee was super friendly.\n\nWill absolutely come back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYbUxtcWp3RRAB",
+            "text": "I ordered the fish and chips. The fries were some of the best I ever had and the sauces and coleslaw were phenomenal. Service was also fabulous. Highly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "de",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNubmNTbEVREAE",
+            "text": "Gute Bierauswahl und super Service. Sehr schönes klassisches Ambiente. Findet man sonst in London. Gerne wieder 🍻👍"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuMGU3djl3RRAB",
+            "text": "Shocking service. Man behind the bar was extremely rude, would not recommend a visit. Bar is small, dirty and “bar keep” is an angry, unpleasant man. Avoid at all costs because of staff!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNub1pERXl3RRAB",
+            "text": "Good selection of beers at $10 a pint\nBurger was good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIbDV6RHZ3RRAB",
+            "text": "Decent enough spot since there's not really much choice nearby- beer selection is solid and food is fine, the people working there just come off as super aloof and unwelcoming, the older guy who works there is abrupt to the point of rudeness. It's put me off returning!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURILWVtaUh3EAE",
+            "text": "It's a bar so can get a bit noisy,  but food and service was brilliant."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiZ1ByTzdBRRAB",
+            "text": "Great spot for a quick drink and bite to eat. We tried a few beers from their selection, and they were excellent. For appetizers, the jalapeño poppers are a must-try—absolutely delicious! The mozzarella sticks were just okay, but the overall experience made up for it. The service was a bit lacking. The staff seemed unfriendly and indifferent, with sour expressions. Despite this, it's a worthwhile stop before crossing the Brooklyn Bridge for a relaxed and tasty experience."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyczhuZ0R3EAE",
+            "text": "Trash bar with trashy cranky manager who demands for tips or asks you leave even though the service is bad, drinks are bad and none of the bartenders know where the restroom is. Never returning again and please do go if you guys don’t want your day to be ruined"
+        },
+        {
+            "date": "1년 전",
+            "language": "nl",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURybFpLdW1nRRAB",
+            "text": "Heel gezellig binnen . Veel bier op de tap"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyeEwzTThRRRAB",
+            "text": "down to earth, friendly, and affordable. this place is casual in a perfectly inviting way, but is something that’s not all that common in nyc. a neighborhood gem!!! and great food"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyNnNPU1ZBEAE",
+            "text": "The service was excellent, our server was amazing, she was very attentive, we just ask and she delivered even if it wasn’t on the menu.\nOur food was great, good size, good price. We ate outside and the atmosphere was good.\nI recommend this place!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6d2ZfQkpREAE",
+            "text": "Best spot around the area"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6XzlqNXRnRRAB",
+            "text": "Nice bar with an excellent drink selection. Some nice craft beers."
+        },
+        {
+            "date": "4년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhODRPR1Z3EAE",
+            "text": "면이 꼬들꼬들\n스파이시 돈코츠 먹었어요"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4bktmMVVBEAE",
+            "text": "The girlfriend and I weren’t terribly impressed with this place. All the food we got was not in line with what we had expected. We were especially disappointed by the chicken tenders, which were nothing like the stereotypical chicken tender…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNULXFETTl3RRAB",
+            "text": "We sat outside for a quick lunch. The server was friendly and checked on us several times. Good beer selection and the nachos were awesome."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWc3ZmOG5BRRAB",
+            "text": "An excellent pub in Brooklyn Heights. The bartender and entire staff are on point, swift and smart. The food is good pub fare, I had the fried chicken sandwich, and while a bit dry, it hit the spot. I’ll be back as often as I can for this staple in NYC pubs. Nachos are great!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlc3VmQVVnEAE",
+            "text": "Pub in Brooklyn. It is truly a Pub with big choice of draft and can beer. We got roast beef sandwich that supposed to be with the gravy and it was so dry and beef was so old not fresh at all plus fries was so saggy and greasy. Not good experience for bar food. I guess this spot is still good to hang out with friends and get a beer but food make sure you go somewhere else."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3aUpTLXdBRRAB",
+            "text": "Great little watering hole with a surprisingly strong food offering. It looks like the normal pub-grub on the menu (burger, fish and chips) but was all really high caliber and freshly prepared. We were there on a quiet Sunday afternoon and…"
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVanRXTjVRRRAB",
+            "text": "Great food and fantastic beer selection. Henry Street Ale House is open late, which is pretty unique for the Brooklyn Heights area.\n\nThe service has been kind of slow in the past, but I have no complaints beyond that.\n\nI highly recommend the burger and the wings, classic bar bites done right.\n\nThey also have a taco Tuesday event every week, which I’m hoping to check out soon."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1dW9fRy1BRRAB",
+            "text": "Some of the online menu is not updated, design is meh, but the food was nice and our waitress was lovely. Clean."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3bUlibWJ3EAE",
+            "text": "Though it's a bar, don't let that fool you, the beer selection is good and the food is great.  Many restaurants don't serve salads that attractive and yummy (I had the arugula one and tried the Caesar as well) & the Red Curry was so good I…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ0MXF2cFRnEAE",
+            "text": "Its a cool mid sized bar. Great spot for a craft beer after walking the Brooklyn Bridge. Jerry makes you feel comfortable and knowledgeable about the beers."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDaXRHTWxRRRAB",
+            "text": "While in Brooklyn I was riding around with my friend looking for parking to go to the park and ended up in front of this spot. We decided to get a drink while here and was served by Micho. He was a cool dude and was attentive. My friend…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyNy1YQ1BnEAE",
+            "text": "The chicken tenders are skinny and tempura style, absolutely soaked in oil, and the honey mustard they came with was really gross. I’d try this place for beers again in a heartbeat, but would not recommend the food at all."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaeTRhN1lBEAE",
+            "text": "Had lunch here with my son and husband. The meals were wonderful, the salad I had was flavourful and they even gave me the recipe for the dressing. Good selection of beer. Really cool vintage touches throughout the bar."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5d18yMElnEAE",
+            "text": "Lovely place to stop by, I haven't had the chance to take a table but we sat at the bar and it was very convenient. From the Guinness and the fries everything delicious. Even though we had some difficulties with paying the bartender was very polite in hinting us how to pay properly"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhdVBXdFZ3EAE",
+            "text": "Amazing food, quick service, cute outdoor eating space, fun local beers and they have GROWLERS!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGX2ZYRVZREAE",
+            "text": "I went to this restaurant to meet a friend. The waitress kept interrupting us to ask us what we were going to get from the menu. The food was okay and the atmosphere was ok. It's a little noisy as well. The beer selections were great as well and the food prices were reasonable.  I might try it out again in the future."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5eTZMM21nRRAB",
+            "text": "When we got there the outdoor tables near heaters were all full still so we sat a table on the sidewalk. The guy taking orders and serving (I assume he may actually be the owner) told us he would move us to a heater area when it became available. About 5-10 minutes later, he came back over and grabbed the drinks we already had to move us to the bar top that had a heater. Really courteous. He also takes COVID precautions seriously, my friend ran inside to use the rest room and he followed the protocol with taking temp and his information down.\n\nReally just a solid, pub style bar. Good tap list and bottle inventory. I appreciate the proper glassware. Menu is standard bar food but good quality (you could tell the food wasn’t just frozen and reheated) and great price (particularly for the area). The fried pickles and chicken fingers were good. He got my friend a side of blue cheese with no hesitation. Just a chill, no frills spot that I would definitely recommend. Looking forward to going here when it’s open indoors again, this could easily be your local watering hole if you lived or worked in the area."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVLU5IcTZBRRAB",
+            "text": "Great place to have a beer listen to good music and have the most tadt fries you can find in New York city"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLcG9tT2RBEAE",
+            "text": "Good food. Good service. Clean and not too crowded an area to enjoy a drink and food with friends after a walk from Brooklyn Bridge"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnNTQyZ0J3EAE",
+            "text": "What a warm, friendly place with great food and excellent beer selection. We started at the bar, and our bartender - a young hipster type - couldn't have been more pleasant. He helped us navigate the craft beer selection and we sat and…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURENXVyU0JREAE",
+            "text": "Went to watch the Sunday women’s championship game. Arrived abt 20 mins before the game and snagged last two seats at the bar. I just really wanted a high noon or vodka spritzer. Something not a beer in a can and they just didn’t offer it. Place was a little outdated but busy and friendly."
+        },
+        {
+            "date": "1년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUc0pqLUZ3EAE",
+            "text": "Nous étions rentrés pour boire une bière mais nous sommes restés manger ! Sans regret 👍"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXb00yOGFREAE",
+            "text": "Great beer, great wings, amazing service! Such a good vibe. Highly recommend."
+        }
+    ],
+    "reviews_count": 69
+}

@@ -1,0 +1,628 @@
+{
+    "name": "Cecconi's",
+    "place_id": "ChIJB2xIGTFawokRSX4sCtT9djg",
+    "grid": "BK2",
+    "address": "55 Water St, Brooklyn, NY 11201, USA",
+    "rating": 4.1,
+    "user_ratings_total": 3008,
+    "phone_number": "(718) 650-3900",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OUVdHbDFiVmt0Y0RrMFFUWnVaMFE1VEZkcVNuYxAB",
+            "text": "Horrible. I had the salmon. Overcooked… it sat heavy on my stomach all night. I ended up throwing up. It ruined my evening.\nThe broccoli was burnt to a crisp.\nAvoid this place."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCcmVraGFUVGQ1UlVGNmVHdGFUWEJ5VVVWdFNHYxAB",
+            "text": "Oh yes this is the place to go to, perfect all around.Cecconis is exceptional. If you have a amazing company, you really should visit this restaurant and also enjoy the Bridge views with Manhattan skyline what a place it’s a must go to place. i’ve been there a few times and definitely will be back many more."
+        },
+        {
+            "date": "3일 전",
+            "language": "it",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pScVlsTllOR2xvTVRORVVtTnRkVEpYVmxvd2JYYxAB",
+            "text": "Se non avete alternative può andare, ma non aspettatevi molto. Il cibo è discreto, nulla di più. Il personale all’ingresso, incaricato di accogliere e accompagnare ai tavoli, è completamente disorganizzato, confuso e assolutamente poco professionale. Peccato, perché la location meriterebbe di più. Prezzi medio-bassi."
+        },
+        {
+            "date": "5일 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pONFZESllabXBaTFZOWGNWUnZXR0ZqYzJKQ0xVRRAB",
+            "text": "Come sempre il n a Dumbo. Niente di più bello.\nBravi ed organizzati. Pizza molto buona"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214bFdIaHRRamxYYzJoeFEzTjZjMkUxV21wSU4wRRAB",
+            "text": "It’s too bad waited over one hour"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trMmRrdG9lbXRZT0V0TVlteGhaR1pQVDFCcVFtYxAB",
+            "text": "The food was delicious, the view and atmosphere was amazing. And the staff was very welcoming, highly recommend."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taWWNHMW5jekZmWVdWUWFXSnFabVptVkhoZmVGRRAB",
+            "text": "Amazing dinner, ambiance and service!"
+        },
+        {
+            "date": "1주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVWFFbzFkbkV5UjNwc1gxTnlVVEZHWVRONmVYYxAB",
+            "text": "Ottima qualità"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSSVRsOUZjalI2Tkc1M1FXaHRjMjlLZEZkWVduYxAB",
+            "text": "A bit touristic. USA Italian food. Very crowded and noisy."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGdVV6TkdiekJ2WHpaT1RqUTBObVI0UTJ4NVYwRRAB",
+            "text": "Las entradas muy buenas...pero la atención muy mala...La pasta muy mala ...no la recomiendo...muy pero muy mala ...la carne más de $100 dolares...mejores pastas he comido ..y con mejor precio.De Italiano no tiene nada...no sé  la pizza porque lo que ví...toda la gente pide pizza"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KeWFWbG5iRFZmVFdkcFZUQTVOalZWYVc5RVYzYxAB",
+            "text": "Great location, food, and atmosphere!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KS1RYbGhiSFZhUjBaR1RWTlJRWEpLYUMxMGJVRRAB",
+            "text": "We sat at the bar and the bartender Patrick was fantastic. Please give him a raise. Will definitely come back and ask for him."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xeVZXeHRVVGxEVVZkUGQwcEpPVVJEVkdnMlFsRRAB",
+            "text": "The atmosphere was amazing. The food was good, but didn’t really match my expectations. I’d have given 3 1/2 stars if possible.The tiramisu was excellent. Being Italian, the meatballs did not measure up, but the Bronzino was very good. It was an interesting crowd, very friendly people."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOb00xZG9jWEJLY0dvME5EWjFOVFJqY2s5NFlYYxAB",
+            "text": "Excellent view on Manhattan. One dish I would recommend to try out is truffle pizza, expensive though, but in my opinion is worth it."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JME9VcDNVa0kzTFZCaGVqbHJPRTlOZW1oVVVuYxAB",
+            "text": "The service was amazing. The food was delicious. I still think about the filled mignon and tiramisu often. I think the price for the quality of service and food is just right. I highly recommend this place."
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xU09EZDJjMG8xTW1zMVRUSkJkRkoyUjIxUmFVRRAB",
+            "text": "It was okay. Food is overpriced but views are nice that’s about it. The Fulton in downtown manhattan is better!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoWlNGQlVjazltYjNkQ1NreHhTRzh3VjFjMFJWRRAB",
+            "text": "We came in for brunch, and it turned out to be one of the most disappointing and uncomfortable restaurant experiences I’ve ever had. The hostess was blatantly racist. We waited over 30 minutes for an outdoor table even though there were several clearly available, while multiple parties who arrived after us were seated right away—some even taken by the same hostess who told another employee not to seat us yet. We were only a party of two, yet somehow every excuse was used to delay seating us. When we were finally seated, we asked to sit on the side, but the hostess refused, saying it was reserved for larger groups, and just a few minutes later another party of two was seated exactly where we had asked to sit. It was obvious we were being treated differently because of who we are, not because of seating availability. After checking recent reviews, I saw that others had similar complaints within the same time frame, which confirms this wasn’t an isolated incident. The only positive part of the experience was our server, Kelly, who was professional, kind, and attentive, and honestly salvaged what could’ve been a completely unbearable brunch. Still, no level of good service can make up for racist and discriminatory behavior, and this restaurant seriously needs to address its staff and management before more guests experience the same disrespect. Absolutely unacceptable."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KWGRucDRkM2wxYW1wck5uVkRabFIwYlVvM2JtYxAB",
+            "text": "RACIST WAITRESS\nThe atmosphere and view were nice, but unfortunately, we experienced somewhat racist behavior from the waitress. I went with my friend, and we ordered two non-alcoholic cocktails, one pizza, one salmon, and one pasta ($150). The food took about 30–40 minutes to come out, and there was no apology at all. I could understand since the restaurant was busy, but the rude attitude continued.\n\nWhen we finished our meal (took 1hr and 30 mins), we asked for the bill and waited about 10 minutes — still nothing. We had to ask again before it finally came. Because the food was delayed without any apology, we left a $1 tip. Then, the waitress stared at the receipt and even asked if I really tipped only $1.\n\nWhat a rude and unprofessional behavior. Very disappointing experience despite the nice location."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GclZqaEpabmwyVkZaNlFtSm5ZemhYTFdaa2VHYxAB",
+            "text": "Went for an early birthday celebration to Cecconi’s in Dumbo and had a wonderful time. The food was good, service was great, and the views were beautiful. One thing to note is that it is located in the same building as the Time Out Market, so we were walking around looking for a separate building for a few minutes until we realized. We appreciated the fact that they were timely, our reservation was set for 7:15 pm and we were outside seated by 7:25 pm. We sat outside in the middle of October and it was not cold, they had heaters set up all around.\nOur favorite dish was the truffle honey whipped ricotta, incredible! Order their free focaccia bread basket and it goes great with it. Food was good, not excellent but the ambience and the service made up for it. Wonderful date spot / somewhere to celebrate a special occasion! Recommending coming after sunset go get a beautiful view of the bridge."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1b2NXcFVSWGRMWkRoeU1UUmhWbFZyZGw5aFJVRRAB",
+            "text": "I was excited to visit the place and I like the view. However, I was really disappointed with the food. They first served my lobster spaghetti without the lobster, and after I told them, they took it back and clearly just added the lobster on top. The spaghetti ended up overcooked and lacking any lobster flavor, and the lobster itself tasted reheated. Never come back."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGa1JuTkpkbGR2VlhSeWNHWkVjRmh5ZGtOSGNrRRAB",
+            "text": "Amazing view and delicious food"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pObVoyazFaMmRWYUdWTlZHaHllR2x3ZEU1VVdsRRAB",
+            "text": "I came here for dinner with a friend the other night. We had called ahead and even added a note asking to sit outside. When we got there, our seats were super cramped ，there was a big plant right behind me and I literally couldn’t stretch my legs.\n\nSo I turned to one of the servers outside, a Black guy with dreadlocks, and said, “Excuse me, can I—” but before I even finished my sentence, he cut me off and said “No.” Just “no.” I swear I didn’t even get to ask the question. It was honestly shocking.\n\nAnother server came over right after, asked what happened, and actually went to check if we could move. He came back and said no, which was fine ，we totally understood. We got permission to shift our seats a little bit just so I could sit more comfortably. Then, that same rude server came back and told me I couldn’t sit like that because I was blocking the walkway. I told him I literally had no space for my legs, and he just said, “No one else has this problem, so you can’t.”\n\nA few minutes later, he even brought another server over to check if I was in the way and of course, everyone said I wasn’t blocking anyone. The whole thing was so unnecessary. And after that, he kept glancing over at our table during dinner like he was trying to prove something. It was honestly ridiculous.\n\nThis is the first time I’ve ever written a Google review for a restaurant, but this guy deserves it. Everyone else at Cecconi’s was lovely and professional but this one person ruined the whole experience. I still left a tip, but definitely not for him."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Sc2JVeG1TMHhJV2psRWRXMWlhMGd6ZURSQ1VWRRAB",
+            "text": "I came to this restaurant because it was highly recommended, but honestly, the experience was a zero. The server was completely unempathetic — he took our appetizer order and then disappeared. I had to call him multiple times just to get him to take our main course order. He never checked on our table, not even once to ask if the food was okay.\n\nI ordered a $60 lobster pasta, and it was overcooked and bland — definitely not al dente, and the flavor was just… missing. Nothing about it lived up to the name or the price. There are way better Italian restaurants in the city, honestly. Sorry, but I had to say it. Prices are way too high for the quality.\n\nRecommended only for grabbing a drink and some appetizers."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5dFJYWTRWRWhmWmsxak5uVmlhRmRpVjFSbmFVRRAB",
+            "text": "This place is super nice, especially with its lovely waterfront dining area! The food is fantastic, especially the pasta and pizza.\n\nWe asked for tap water, but they charged us $11 for a bottle.  But apart from that this place is recommended ."
+        },
+        {
+            "date": "2주 전",
+            "language": "de",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaRFRqWmZUMFIyZFZWdmRWTXljRmRPYVhOaVlsRRAB",
+            "text": "Wir haben zu viert gegessen, leider wurde dass Essen einer Person viel später serviert. Das ist bei einem upscale Restaurant nicht tollerierbar. Der Manager war höchst inkompetent um eine Lösung für das Problem zu finden. Ansonsten war das Essen gut aber mehr nicht. Preis Leistung stimmt nicht. Ambiance und Location ist aber top."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sS1JsbFpTVWMyWW14dlJGbHNVMUU0VVVwS2IzYxAB",
+            "text": "Absolutely gorgeous restaurant in Brooklyn. We came after walking the Brooklyn Bridge and visting DUMBO. It was the perfect spot right on the water with gorgeous views. The ambiance was incredible. Highly recommended."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sRFVGazRkVkI1UTBoQ1dHRXRRV2hLVWpaSlFXYxAB",
+            "text": "Gorgeous view! Cozy atmosphere , delicious drinks."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oM1IzVmlMVnAyWjFGbFJIcHhTRzh4ZERGVVZVRRAB",
+            "text": "My recent experience at Cecconi’s was absolutely unacceptable, and I’m genuinely shocked by the lack of professionalism shown by our server, Kristian.\n\nFrom the start, his demeanor was condescending, dismissive, and uninterested — not what you expect from a restaurant that markets itself as upscale. The real issue came when one of us ordered pasta, and Kristian asked if she wanted truffle on it. He never mentioned that this would come with an additional $35 charge. Naturally, she assumed it was part of the meal.\n\nWhen the bill arrived and we questioned the charge, Kristian’s response was arrogant and unapologetic. He claimed it was “on the menu” and refused to take accountability for failing to disclose the cost. There was no effort to make the situation right, no apology, and no professionalism whatsoever.\n\nThis kind of manipulative upselling without disclosure is deceptive and unethical. For a restaurant with Cecconi’s reputation, this experience was beyond disappointing — it felt like being taken advantage of. If this is the level of service the management condones, it reflects terribly on the entire establishment.\n\nWe left feeling frustrated, unheard, and completely disrespected. I’ve dined at countless restaurants across the city, and this was by far one of the worst interactions I’ve ever had. I genuinely hope management reviews this situation seriously — because no guest should ever be treated this way."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkTlRHeFVaRk5OT1ZaQlpFUjVaVUpTVGpOSlRsRRAB",
+            "text": "Nice place,good food , good service ( and wonderful toilets 😀) . Loved the place , inside Dumbo area.\nAfter coffee, I took the chance to keep reading my thriller Honesty Bar (found it on Amazon — available in both English and French). It’s a gripping story that’s great for the whole family ( no violence) taking me on a journey from Paris to Warsaw to the Seychelles. Absolutely loving it!"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxdGNXMUlabEJsUnkweWFpMDBWMjFKY1dkWVZtYxAB",
+            "text": "Excelente atención, un lugar ameno para estar con familia!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsalNXaHJYemhVV1d0eE0ySXhRbkIyVlhKU1dWRRAB",
+            "text": "beautiful view and good food but noticeably bad service (as everyone else in the 1 star reviews describe) that needs to be fixed before i can recommend this. I don't really write bad reviews but it was just so noticeably odd. Servers squeezing by me, no eye contact, robotic and hovering servers that don't check on you or refill water. Just very uncomfortable and weird that threw the nice atmosphere completely off.\n\ni'd love to go back but there's better places with a nice view."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210aWIySnpiVGxDYlZOMGFIaGZWVFE0VjNwblpIYxAB",
+            "text": "Located on the 1st floor in the Time out Market."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205RFZuZHZjVTl3TnpGTmFXcFFNSEI1WkRCTFpVRRAB",
+            "text": "Food was great! Loved everything we got. Got seated where we requested. Staff was pleasant and very accommodating."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aM1kwRkllRUZPYUd4WVltOXNRa1V5UzJsUWNXYxAB",
+            "text": "Excellent, deserves 5 stars. This restaurant is equally gorgeous inside and on the patio which faces the water. It’s so beautiful.\nThe food was excellent and the service as well.\nWe tried the zucchini fries , the sole and the truffle pasta"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prM2VtUnBjbVpvTlhRNFdqZGtaelYyYjNKVFNtYxAB",
+            "text": "Max Bartoli the best!"
+        },
+        {
+            "date": "4주 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SWFJFdFhZVVJxV1VSRmVFbEJORGQzYWpRMFIwRRAB",
+            "text": "Ambiente maravilhoso, serviço impecável! Comemos a black truffle pizza e estava sensacional, recomendo demais!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xQ2NUZHZhVnBsYVdKa1lqUmpZMWhLYkVGVVVHYxAB",
+            "text": "Beautiful view and a killer Bloody Mary make this a perfect brunch spot. Great vibes, tasty food, and the kind of atmosphere that keeps you lingering a little longer."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGU2EzSXRPVnBLT0ZkaFRYQkhjbmh3WjNWbk5YYxAB",
+            "text": "Beautiful day on the patio for lunch. The rigatoni bolognese was some of the best I have ever had. Excellent service by the lovely Ethan."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsMVJWQlZUa0ZHWVU5VmFFaHNTVUZ0T1U1YVRIYxAB",
+            "text": "I lives in the area, walked by and saw terrace seating pretty empty on Wednesday night decided to go in but was refused seating"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSb1NraDZjSGszZURRMWFscGtZV2RRWlRGTFJYYxAB",
+            "text": "Great food with a great view.  Also an excellent people watching spot.  Friendly staff who were very knowledgeable about their offerings.  I HIGHLY recommend making a reservation if you don't like waiting in line.  No specific dress code from what I could see.  I was business casual but I saw others in jeans."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKRFgxRXhZMDVHWmxseWVXZENPV2h5Y1MxSFFuYxAB",
+            "text": "you def need a reservation…as it was very busy but we were lucky to be able to sit at the bar and have some pizza. the staff was very accommodating and friendly. my mom says it is „the best pizza she ever had“"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kNFpHRnVWa1JwUWxKeWNrWXRjVmxGTVZaTlZrRRAB",
+            "text": "It was a terrible experience.  I am confused this gets that good of ratings.  The pricing is pretty high for the product you recieve.  The service was not good either I  had to ask to fill my water cup.  Never came around to ask if we needed anything.  Took forever to check out.  They charge 7 dollars per glass of coke that is absurd.  Been in New York and this was the worst meal we had all week by far."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RMlYwMHhMVzFGWDFWUmVFZHhOMVJtUjIwd2NIYxAB",
+            "text": "This spot is a great location of the water and bridge.  It's seating is comfortable and the service is attentive. The outdoor space is shaded in the early morning/lunch hour. We all enjoyed our drink choices- espresso martini, elderflower Spritz, and a rye based drink. The food was simple yet perfect- we loved the ceasar salad and potato onion pizza."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWWGJVeDBhMUYyWm5oalh6UlNSVmcwUTBkcGMyYxAB",
+            "text": "Bolognese Pasta cost 31USD and they can't change Rigatoni with Fussili even though they have both on the menu.\nAlso very unfriendly staff."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25STVpHcEdiM1EzUVc5UFlVcGxNMlIyT1dsNmRuYxAB",
+            "text": "The food is kinda expensive for what it is but quite nice upscale vibes by the water, and is good enough. We like the pizza and the pancakes (hot cakes), also the pesto pasta. Love the espresso drinks. Can skip the fried calamari. They don’t seat you unless whole party is there even if you offer to order right away which is kinda annoying"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SYVFXTklSa3BSWTI5V1dXNHlURTVGVm1GNFpFRRAB",
+            "text": "Beautiful restaurant with amazing view over manhattan. Food was very good. Little pricy though. I would appreciate if they had blankets for outdoor seating. We were a bit cold and heater was not near our table."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kNFJtRk5ha3BJVFhoS1kxWktYMmgwWVZWdFdXYxAB",
+            "text": "Absolutely wonderful experience! The food was absolutely delicious. I went there for a quiet birthday dinner, and our wonderful server Allen noticed the birthday bag, and quietly brought a complimentary dessert with a candle on top! Such a sweet and thoughtful gesture.\nOne of the most memorable experiences for us, thank you so much!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSRWNUUkZWamszZERaMFNuVTVRVkZQZVdGNlRHYxAB",
+            "text": "I had the worst experience, I found this place cause it was viral on tiktok one of the best places to eat in ny! I go for my birthday and request some things but let them know “if possible” never guaranteed! The server was terrible he didn’t acknowledge my birthday, even thought it was put into the notes on the reservation! He was awful, he doesn’t finish us off to close us out, 2 other servers came and helped! The MANGER is the worst he doesn’t need to be a manager, he doesn’t possess the skills! He argued with me the whole time and I explained very nicely that I too work in the restaurant industry and didn’t wanna complain but he walked away and was nasty!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kVWNIRm1XRmN6VkhkTU0yeHhjM1JvV0dOaWJsRRAB",
+            "text": "I make sure to visit it in every country I go to, but I absolutely loved the view here.\nOf course, the food is as amazing as always."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCbVpGaElNa1pMY0UxakxYVTFZVWMyTFc4NVVtYxAB",
+            "text": "The service was great—professional, attentive, and not overbearing.\nThe atmosphere was nice with a solid view of the Brooklyn Bridge.\nThe food, though, was underwhelming. The calamari didn’t work for me, the octopus was tiny, the radicchio salad lacked appeal, and the filet mignon came out dry and flavorless even though we asked for medium.\nThe tiramisu was the one highlight.\nOverall, this feels more like a place to grab drinks, people-watch, and hang out. There are many good restaurants in Brooklyn area . Verde , Levant , Lucali , Gersi etc"
+        },
+        {
+            "date": "7달 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3cHVqVWJnEAE",
+            "text": "덤보에서 가까운 식당이라 다녀왔습니다.\n음식에 비해 가격이 좀 비싸고 특별하지는 않았네요.\n뷰가 좋아서 갈만합니다."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNodlpLNEVBEAE",
+            "text": "가까워지고픈 친구들, 연인과 함께하세요 🤎\n짜지않고 모든음식 정성이 가득해요 ! 맛있습니다😋…"
+        },
+        {
+            "date": "4년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURpeE1yWC1BRRAB",
+            "text": "10 min wait to be served once seated and another 15min to get a check when  you are done.\n\n일단 첫 입장시부터 불친절. 앉아서 주문 받는데까지 10분기다리고  다먹고 접시치우고 나서 체크줄까?질문받기까지도 15분 기다림.\n\n카드 계산시에  단말기를 자리로 가져와서 결제하는데 팁옵션 18%부터 선택하거나 직접 입력할 수 있지만 웨이터가 기계를 계속 들고있어서...어쩔 수 없이 그냥 18%선택...\n참고로 콜라 한잔도 5불인데 250미리도 안되는듯. 피자도 실제크기는 사진보다 훨씬작다.\n근처에있는 모두가 아는 그 유명 피자집에서 테이크아웃해서  이 식당앞 벤치에서 먹는게 훨씬 싸고 맛있고 같은 경치.\n브루클린  피자집 여러곳 가봤지만 여기는 다시 가고싶지 않은곳."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtb3ZxRXlnRRAB",
+            "text": "여유가 많을 때 가시는걸 추천합니다. 야외좌석을 위해 예약을 했음에도 불구하고 30분을 기다려야했습니다. 웨이터는 물 채워주는걸 잊었고 뭔가 요청을 하면 해결하는 시간이 오래걸렸습니다. 피자는 얇았지만 맛은 진짜 좋았습니다."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCZ1phN3pRRRAB",
+            "text": "연말에 줄리아나 쪽 유명 피자집들의 줄이 너무 길어 우연히 방문하게 되었습니다 바 테이블은 예약없이 이용가능했고 화덕에서 바로 피자를 만드는 모습을 볼 수 있었습니다 페퍼로니와 소세지가 든 피자를 주문했는데 꽤 맛있었습니다 피자는 한판에 30불 이상으로 비쌌지만 가치 있는 식사였습니다"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyMWFfX2FREAE",
+            "text": "깔끔하고 맛있어요 👍 강추…"
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRaDlMYnJRRRAB",
+            "text": "정말 최고의 이태리 레스토랑이에요. 절대 비교불가. 👍…"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzbWFyODJBRRAB",
+            "text": "최고의 이탈리안"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSbk4zcENUV0pRUkRoNU9EaEVSVUpsY25ndE1WRRAB",
+            "text": "For me this place is always more than 5 stars ✨ it is a gem at Dumbo area. The food  is delicious, cocktails and atmosphere amazing.\nToday was actually very special occasion because we were celebrating our wedding anniversary. The gave us the best table facing the east river and the city. Our server Wendy 10/10 she made the experience even better with all the best options in the menu. If you go to this place please ask for her Wendy is the best.\nShe will take care of y’all because we could tell is knowledgeable about premium hospitality."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WUldsbExjVzVsVWpaU2FYazJaV1JIU0RKMmMxRRAB",
+            "text": "Ever just sit by yourself near the Brooklyn Bridge and watch the boats and people go by? If you’re ever in New York, I know the perfect spot to do it—Cecconi’s Dumbo. Total hidden gem—you kinda have to search for it, but once you find it… wow. Instantly gets added to your list of must-eat places in the city.\nBeyond the food, the aesthetic is gorgeous—lots of art and the cutest lamps scattered throughout the restaurant. But what really impressed me? Their manager, Elicia. I don’t like kale in my salads, so I asked if I could swap it for lettuce. Not only was she super kind about it, but she personally went to the chef to make it happen. 🙌\nI came for the food, but left with a memory full of views and amazing customer service. Definitely stop by on your next trip to the city that never sleeps."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVMmIyUnhWV3MwVUZCNFRqZHdkWEZwUTBWU01uYxAB",
+            "text": "You’re definitely paying for the view…\n\nThe service was great, attentive and we were well attended to. However, the food was extremely mediocre and none of the dishes stood out. They have the typical Italian dishes, appetizers, and for the price point that it is, you’d expect something more.\n\nAlso, I would keep in mind if you’re prone to mosquito bites, stay away from the outside/near window seats during warmer weather. I accumulated a total of 7 bites during the duration of the dinner 😭"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WV1IwOVViRTlVV1cxSmN6QmlhMnBzVjNKVVMwRRAB",
+            "text": "This place was bustling on a Wednesday night. We ordered a bunch of food to share and the whipped ricotta and truffle pizza stole the show. The dessert was disappointing though - the cookies were too thin and very bitter. I’d suggest to skip that but we had a great time and I would def go back."
+        },
+        {
+            "date": "4달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205S2IwSk9WREJmU0cxS1FXcHdlRGxqVlhaeFVrRRAB",
+            "text": "Siamo stati a pranzo qualche giorno fa. Abbiamo aspettato un po' all'ingresso, nonostante avessimo la prenotazione, ma siamo stati comunque fatti sedere. Ci siamo seduti fuori, con una bellissima giornata ed un ottima vista. Abbiamo assaggiato un piatto di pasta, un avocado toast ed un tiramisù. Tutto buonissimo! Consigliamo l posto a sedere fuori perché si gode di un'ottima vista, ma se non disponibile anche all'interno il locale non è per niente male, molto curato! Consigliato, sia per location che per il cibo."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wa2FIaGlZemx4WlZaWlVHWnViR1F5Y1hSalVsRRAB",
+            "text": "We went to eat here after the nice lady at Burberry told us that they had the best food and views of the bridges. She wasn’t lying. The views of the bridge’s were great. I would recommend getting a reservation so you can eat outside on the enormous patio. The service was excellent and the food was delicious. We walked in and got an inside table at 4 on a Sunday afternoon. When we were done they had a long line. So i would recommend getting a reservation."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xneFdFNXdiV05TUzFGdlZGOTBjelp1ZWxjME9XYxAB",
+            "text": "Food was great and the view to the Brooklyn Bridge is amazing. We made a reservation with a note to be seated outside and that worked.\n\nHowever, the service was terrible. They took 20 minutes to seat us because “table was being cleaned”, while there were a lot of free tables.\n\nAfter paying, somehow a 30% tip was added to the value, which was noticed after my mate approached his phone to pay. He instantly asked for a refund, as 30% wouldn’t fit the service we got, and then an odyssey started. First, the credit card machine didn’t accept the refund (but accepted the payment in a second). Then, the waiter, who was a bit rude and rushed us to order, had to sort it with the manager what was happening, and at the end and multiple back-and-forth, they couldn’t. This process took at least 25 minutes.\n\nThe manager ended up showing himself in the table and explaining he did the refund and it would took 2-3 business days to be processed, and if it didn’t, to send him an email. We asked for the email and he had to go back inside to grab his business card, which somehow took more 10 minutes - I wonder why he didn’t came with the card already?\n\nUnfortunately, the service sort of ruined a what would be a great experience for us."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWeE0zVk9hVjlEUjFSZmFXeHpOMm96YTJWRU5HYxAB",
+            "text": "Love the outside seating with views of the bridges, in dumbo.\nLove the food and cocktails here. Pizza options are great, I also love the kale pesto pasta and eggplant parm.\nThe service is excellent every time we go"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oaGNWZDBkRmN5U0dKbVpVNXlUWFV4ZGt0RlpIYxAB",
+            "text": "Went to my work dinner and visited this place. The inside had a great atmosphere but people come here for the outdoor, waterfront seating. I got an aperol spritz, and chicken parm with spaghetti. It was a special and the other options were pretty pricey. It was okay food but wouldn’t come back or try the other entrees. The best thing about this place was the view and the service"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VKSzF3c1hmZ3JYX0NnEAE",
+            "text": "I base most of my restaurant ratings on the taste and quality of the food. While the food here was undeniably high quality, it really lacked in flavor—which was disappointing, especially since this spot had been on my must-try list for years.\n\nThat said, the restaurant itself is beautiful, with a cute outdoor seating area. Our server was attentive and helpful, and the overall experience wasn’t bad. I just wish the food had lived up to the setting."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oV0xXTkhhMkp2VWxNMFJ6bG5lblZLYlRsbWMxRRAB",
+            "text": "We had a reservation for outdoor dining, specifically chosen to accommodate our son(kid) who has autism. Outdoor seating is important for us, as indoor environments can be overstimulating for him and potentially distressing for other guests. Despite our reservation and arriving on time, we were told there was no outdoor table available for us.\n\nInstead, we were offered indoor seating right in the path of busy servers and we explained why that wouldn’t work for our family, the staff member assisting us (an African American woman) responded, “You guys can wait at the bar counter, but I don’t know how long you’ll have to wait,” with noticeable attitude and zero apology. Asking a party of 4 adults and 2 children to wait at a bar counter indefinitely felt both unreasonable and dismissive. Especially because we had to wait 20 minutes to even get to that indoor table.\n\nWe were stunned by the lack of empathy or accountability. Just as we were about to leave and look for another restaurant, the manager stepped in and suddenly a table outside became available. While we appreciated being seated in the end, it was clear that the situation could have been handled better from the start.\n\nThe entire experience was disheartening. A reservation should mean something, especially when there’s a valid, sensitive reason behind it. Unfortunately, this experience left us feeling unwelcome and disappointed. We won’t be returning."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPRzl6dE92dEphclJnEAE",
+            "text": "On Friday, 5/23/25, I celebrated my son’s college graduation with dinner inviting family and friends. I have been communicating with Jillian, Cecconi’s private events assistant manager, since March to set up this dinner. I am extremely pleased and happy that I chose Cecconi’s for this moment. Last night was absolutely wonderful!! ☺️  I didn’t drink as much as I’d have liked because I was too busy interacting with my family and friends. I loved that everyone was enjoying themselves. It was cool seeing my son’s and his friends having a good time. Am I biased because of the moment I was celebrating? Maybe….. but the food was delicious and the service was great.  Jose and the other gentleman whose name I can’t remember were wonderful. Both of them were pleasant and gracious.\n\nEntrees were eggplant parmigiana, chicken paillard, and salmon broccolini with sides, of course.\nDessert was tiramisu and lemon sorbet.\nThese dishes are from the private events menu selection. Nevertheless, all were delicious. You can view the regular menu to Cecconi’s Dumbo on their website or Google.\n\nThis review is based on the private events space so the price per person is $100+ because of that. However, if you walk in or reserve a table the cost per person could definitely be less depending upon your meal and drink.That review is the next paragraph.\n\nI first came to Cecconi’s the second week of May 2025 to check out the restaurant and the space I had a contract for. After meeting with Jillian, 2 of my friends and I had a meal. The service that day was very good. No complaints at all. I had a reservation for 3 and we chose to sit on the outside part of restaurant. It was a delicious meal, delicious drinks and a beautiful view.\n\n*The pic of the rigatoni bolognese was when I had a late lunch with my 2 friends.*"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMNnpoNmI5ak15YTZnRRAB",
+            "text": "I just had lunch there with my wife and we ate at the bar. So that’s a good tip right there. People were waiting at the door and the staff was taking names but we waltzed right in. You can often do that if you’re willing to sit at the bar which, let’s fact it, is often more interesting than a table. The bar had plenty of seating and we had a view of the two bridges and the water. Service was great. We had avocado and chick pea dip with crudités and wow, the crudités were gorgeous. I’ll post a photo. also had two drinks, the branzino (very flavorful) and the calamari appetizer. It was a lovely afternoon. The staff was great. They did bring a second order of our entrees thinking we had not been served yet but that’s a mistake I can live with. Of course, we did not eat twice but I’m sure someone got their food quickly at another table. :) Total tab without tip was $144. It’s a little pricey but you have to consider the view……"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sRlNXOWlVMWt6VjFJdExYcDFTREJ4ZUVoaVVFRRAB",
+            "text": "The place is beautiful. We wanted to seat outside but it was raining. The food was great. However, there was a bridal shower or something similar that had ended and some stuck around and they were drunk and talking really loud, almost yelling and no one said anything to them, it was uncomfortable because they were standing up taking up so much space.\nBesides that, the food was great. We had the ricotta whipped with honey (SOOO good), the calamari, and pizza. The tiramisu was amazing as well.\nDon’t order the juices unless you want a store bought one. The ingredients aren’t completely listed on their menu. I ordered one that had turmeric or something and when it arrived the bottle also said “natural flavors,” etc so its not a natural juice."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJM1FuUnZNRGcwU0ZkbE9FWnJNbk5mWWpsb2VuYxAB",
+            "text": "Wow what can I say, everything was perfect. From the moment I walked in the hostess was so friendly. Got seated outside with a spectacular view of the bridge. Our server Jose and the sexy friendly manager fralipe were both so attentive. Cocktails were nice and strong exactly how I like them. Seafood pasta was nice and endive salad was delicious. My husband ordered the branzino and it was cooked perfectly. Glad we decided to celebrate our 30th wedding anniversary at Cecconi. Normally we go to manhattan to either Avra Madison or Momoya. We will be back very soon☺️☺️🫶🫶"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKV1drTVB5ME43R2J3EAE",
+            "text": "Cecconi’s restaurant is absolutely beautiful indoors, but we had a waterfront view outside which was also amazing. The food was spectacular and I always appreciate an Italian restaurant that prioritizes hiring Italian staff. Every course was well portioned and my lobster spaghetti had a lovely tomato base sauce that was subtle and allowed the lobster to shine. 10/10!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZcHBMOXV3RRAB",
+            "text": "I was a bit skeptical after reading other reviews. The service was great. Our dishes were cleared,our glasses constantly filled and the whole staff had a great attitude from the moment we walked in. The food was very good and the price is a bit on the high side. But it's in a busy high end,touristy area so the prices are what is expected. They add a service fee/tip for groups over 6 or 7."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sNllubFFSek5EVld4M2FsQjRObTFHVldKNk9FRRAB",
+            "text": "Cecconi’s in Dumbo, NY is one of those places that captivate you the moment you walk in. It has an elegant vibe with a hint of the ‘70s, a beautiful view of the Hudson River, and a classy Italian atmosphere that’s made to be enjoyed slowly.\n\nWe ordered several dishes to share: truffle pizza with goat cheese, a classic margherita, fried calamari, fresh hamachi, ricotta and spinach ravioli, and a perfectly cooked salmon with a crispy skin. To drink, we had a couple of beers and an espresso martini, which was spot on. Everything was flavorful and well presented, and the service was super friendly throughout.\n\nA place that blends great food, a well-designed ambiance, and a view that invites you to slow down and enjoy."
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkSGVuVTJMV2RYTkhoVFpFWTNMWHBCTFVSMGRIYxAB",
+            "text": "Una conferma avevo mangiato a quello al centro . Pizza davvero buona basta rimanere semplici. Tavoli esterni con vista sul ponte . Nell’area Dumbo .uau"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJMFJHeHFXRU5OWTBadGVXMW5aREYwU0RORlVtYxAB",
+            "text": "Good food, staff and views! Both insides and outside patio areas are great!! Cecconi's is a great spot for anyone looking for a taste of authentic Northern Italian cuisine."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGa1J6QnJTSGRIVkRCMWFYWTRSRlp0WVhaRWFFRRAB",
+            "text": "Loved the food, besides the stunning view, and my waiter was very nice. I recommend the ricotta pancakes and the truffle pasta was beyond amazing! A mistake I made and I wish I knew before is that they have their own bathroom lol, sounds funny but I went on a Sunday and there was a huge line for the main bathroom of the floor, ended up making it late for my reservation… little I knew they had their own bathroom. Make sure you have a reservation :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "tr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poRllYUlJXV0ZpV1haU2RUbFBRVkZmU0d0NlZWRRAB",
+            "text": "Dumbo bölgesinde, Manhattan Bridge’in altında harika bir İtalyan restoranı. Bahçe, bar, birden fazla yemek salonu var. Kokteyller lezziz, pizzalar fırından, tüm detaylar özenle hazırlanıyor."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRVpVMVFjRnBIYTAxNFdGaGtNSEp6UkRGdFIyYxAB",
+            "text": "A fancy Dumbo restaurant with a view of the water and excellent (albeit very pricey) food. We had the pasta cacio e pepe (with a hefty topping of truffles) and the lobster spaghetti, both delicious and worth the price for the experience. The star of the dessert was the tiramisu for sure."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLSE9oTXpSOG9hZDRRRRAB",
+            "text": "A slice of Italy with a view to match 🌅🍝\nThis place is an absolute gem! From the moment we walked in, we were greeted with warmth and charm. The food was nothing short of incredible — fresh pasta, rich flavors, and that perfect touch of homemade Italian love in every bite.\n\nWhat truly set this place apart was the view. Watching the sunset while enjoying a glass of wine and a plate of truffle risotto felt like a scene from a movie. The ambiance is elegant yet cozy, making it perfect for a romantic evening or a special gathering.\n\nHighly recommend if you’re looking for authentic Italian cuisine paired with breathtaking scenery. This experience fed both my soul and my stomach. ⭐⭐⭐⭐⭐"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGTVlVWm5OVTAyV0RrNVNraHNUa0ZQYkRoeGFHYxAB",
+            "text": "Wow, wow, wow... what an experience...  everything you require in a night out, ambiance, experience, views, service and food.  Will definitely be back for more!!!!\n\nMy sincere compliments to chef Maximiliano."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rMmNGSkhTMWgzVjI5TmN6ZHZiMFJTVVZSeVQyYxAB",
+            "text": "Very good place. The waiters were very kindly\nBut the front desk peaple were not kindly\nWe were with a baby in a Stroller and they want do keep the Stroller but the baby was up to sleep a we need the Stroller.\nThe said that in our table there was no place for a Stroller but the restaurant was totally empty\nAt the end they allowed us to came in with the stroller and everything was fine"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvOE5YcmZ3EAE",
+            "text": "Restaurante en la zona de Dumbo, NYC, actualmente en pleno auge.\nDisfrutar de una buena comida con vistas al Puente de Brooklyn y al skyline del downtown neoyorquino es una experiencia única. El servicio es muy atento y la comida, deliciosa. Recomendadísimos los calamares y la pizza de pepperoni: ¡espectaculares!\nSíguenos en @myfavouritesrestaurants"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3bE5DMVdREAE",
+            "text": "Grabbed dinner and drinks here before heading up to a friends birthday next door at Dumbo House and I was overall very impressed by the place after not stopping by for a number of years.\n\nAs a native New Yorker, I can see how everyone would want to check Cecconi’s out after taking in the iconic Dumbo Ferris Wheel and views of Manhattan and the bridges.\n\nThe space itself is large and spread out, and the food and service particularly from the bartender while I awaited my friend who was running late were great.\n\nStarted off with an espresso martini from the bar which was crafted expertly. Then moved on to the dishes of the whipped ricotta, the beef carpaccio, the octopus and the kale salad before finishing off the rich tiramisu.\n\nOverall, awesome service, meal and space. Will definitely be back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paWmFrMWZNR2hJUlhOM1RpMVJSM0ZqU0RkUWIzYxAB",
+            "text": "This seaside restaurant is actually very good in everything. The neighborhood is good, the food is good, and the decoration is good. But I advise everyone to avoid waiter number 1323! He is terrible! After you sit down! He must ask you to order food! If you don't order food, you can't sit at the table, you have to sit at the bar! And he interrupted me and my friends many times to force me to order! The service from beginning to end was very bad, very bad！Actually, who doesn't have money for tips? It's just a few bucks, right? Who doesn't have that little money? I just don't want to give it to him because I really think his service is terrible! When I first came in, I said I was very hot and asked if I could have a drink first and order slowly, but he said no! You have to order right away! When I was video chatting with my friend, he came over to interrupt my chat many times! Forced me to order! I think the service was terrible, so I don't want to tip you. It's not about the money at all. I spent $22, so the tip is just a few bucks, right? Who doesn't have a few bucks? But is your service really appropriate? The key is at the end! This person actually came to argue with me over a few dollars of tip! Accused me of not tipping! And he went to the front desk and told me that I would not be allowed to come in to consume in the future! My God! Such a service staff is still reasonable? ? ? ? Your service is not good, I refuse to give you a tip! The waiter actually quarreled with the customer? He also ran to the front desk and told the front desk staff that he would refuse to let me enter the store in the future! I'm sorry, I have lived in New York for so long, I have lived in the United States for so long, I always give tips and I always give good tips! I just don't like it, I am not satisfied, you just don't want to give you a tip, I don't want to give you a dollar! Number 1323!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWSlIyaFZZbWxqYkRoNUxVSndYM2x2UlhadlUxRRAB",
+            "text": "The food was incredible, especially the tiramisu as dessert! Our waiter was very sweet and the ambiance is very jazzy and calm. I would totally recommend going here, it is pricy though, but worth it. Would definitely go here again if I could🤭"
+        }
+    ],
+    "reviews_count": 88
+}

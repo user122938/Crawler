@@ -1,0 +1,551 @@
+{
+    "name": "Sushi Ta'eem Flatbush",
+    "place_id": "ChIJ4ZoSBM1FwokRskL-aL-I6oY",
+    "grid": "BK12",
+    "address": "1307 Avenue J, Brooklyn, NY 11230, USA",
+    "rating": 4.7,
+    "user_ratings_total": 456,
+    "phone_number": "(718) 500-3025",
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KQ09WWjJlRFJKTUZsWVJXbGhVVU5FVjNFdGFGRRAB",
+            "text": "Love this place! My husband, I ,and his family love this place we come here all the time order take out for shabbat and for regular weekdays they are the best for the buck! Quality of fish is amazing! Definitely recommend this place. Cute date spot for married couples and possible new relationships haha!"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxX2Q3RUpnEAE",
+            "text": "This kosher sushi spot has comfortable seating, quick and friendly service, and a great location right on Avenue J. The menu has a nice variety of options, including several unique rolls that stand out from typical sushi places. Everything tastes fresh, well prepared, and presented great. It is an easy choice for lunch, dinner, or takeout, and the relaxed atmosphere makes it a pleasant place to enjoy a good meal."
+        },
+        {
+            "date": "2주 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pST2RHZ3dNRXhCYjFOME1USnBUbk5zVTFFNWVIYxAB",
+            "text": "עברנו ברחוב וחיפשנו מקום כשר, פה פיצה ושם פסטה, פתאום - סושי!\nהיה טעים מאוד ומזמין מאוד!\nתודה רבה!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWNmFIQnJWVVJ5Wm1oYVoyNVdabmxJTW5WeVRWRRAB",
+            "text": "Great sushi."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204MlVrZG5XVlJFWDNVMU5qTm5hV0p0VFdwSmVrRRAB",
+            "text": "Great sushi and service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WR1pIQndOekV5ZEdNMmNsWTRXREpwTkdvMmFYYxAB",
+            "text": "There were absolutely no Asians eating there.  I wanted a lettuce base poke bowl, but was given a rice base one. I wanted a mixed in sauce, but I didn't get any sauce at all. The salmon teriyaki was good. Overall passable food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OcFh5MXFSbDlHWTJkbFRGYzVRemh5U2xkRVJYYxAB",
+            "text": "I had a terrible experience. A salesman named Shaia treated me in a very rude and disrespectful way. Definitely not worth coming here."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkd1oxVkdkeTF3TTFSbGVsSkZWbWh6Y1dKcVIxRRAB",
+            "text": "Delicious high-end quality sushi"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWTVVFSnZZV1ZpTWxSaGEyczBaRXBxVG5kWE1HYxAB",
+            "text": "Great food and great service.\nThe sushi burritos are great as well as the jalapeño poppers"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUmVuVjVZeTFLVDJkaVpHeHRlVFIyU0Rab2VXYxAB",
+            "text": "Not fresh"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ObGRWcEhXamhaZVdWeGFVMHdORjluU2tsU2RFRRAB",
+            "text": "Best customer service of any sushi place I’ve been to. Fast, affordable and delicious."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWV1gxbFVORVpITkdKSFIyNUNXV2hCU0RRMFVWRRAB",
+            "text": "Top tier sushi highly recommended"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KdVRYTkJaRWRqYld4Q1ltdG5NamxuZUVWWVRGRRAB",
+            "text": "Friendly stuff, quick service, pleasant experience"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xneGRFNUVjRVpqUmpCc2NURmxiVVZQVW5Cb2VWRRAB",
+            "text": "Best sushi I ever had and waited less that 10 minutes"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204MFJUY3hjMlJtYUVFelgwczNjell0V0ROU1IwRRAB",
+            "text": "Little bit tasteless I would say.\nNot impressed at all.\nPrices are high, but I can call  their shushi \" delicious ones\"."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VQM1p6dXlwdk9LWFZnEAE",
+            "text": "food was great, however the dark skinned teenage boy at the front made racist remarks towards me."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VMdmU2OHFlMVlqc1l3EAE",
+            "text": "Vegan plantbased options: Mushroom, sweet potato, Avocado cucumber Sushi. Edamame, Miso Soup ginger wasabi not provided; must ask for special favor to get ginger and wasabi. They only send spicy mayo something a plantbased person avoids."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvaXJiUGtBRRAB",
+            "text": "Great food, and great price! We were a big group and the bill was much less than expected considering the amount ordered. Poke bowl is a must !"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvX2J6LXV3RRAB",
+            "text": "Great sushi but if they tell you 5 minutes, just know it won't be ready for at least 15"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJaXBYbEVnEAE",
+            "text": "Such delicious sushi, every roll I tried is better than the next! The service is excellent. The atmosphere is friendly. The prices are good too. Highly recommend & I will be back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJb0p1dlRBEAE",
+            "text": "Great service and delicious sushi . Thank you\nAaron"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3bE4zU3V3RRAB",
+            "text": "Nice place. They have good food and decent service. The only bad thing is how long it took to get my food."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRanBYTWhnRRAB",
+            "text": "Google says open till 11pm\n\nKitchen closed 10:30pm."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRNk1maDZBRRAB",
+            "text": "Food very good.  Unfortunately our server was not the best; forgot stuff on order,  didn't tell us if something was delayed. And it wasn't that busy. But will definitely go back.  Maybe it was a one-off."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRcE5LYTR3RRAB",
+            "text": "Excellent food, but the boss will indirectly shoo you out of the store if you stay too long. I spent 100$ on dinner including 18% gratuity, don’t passive aggressively stand by the table and create a bad environment. They want to cram as many customers as they can so they try to shoo you out as soon as you are there an hour. I came at 8:40 ish and by 9:30 the guy walked by our table glaring at us 6 times, throwing remarks to try to get us to leave.\n\nGood food and fresh fish but bad service. Pity because the food deserves 5 stars."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRbEtUc0t3EAE",
+            "text": "Amazing food but service is horrible. On Saturday night the kitchen closes at 12:15 so the store basically closes at 12:15 and not at 1am"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURndnFPV2NBEAE",
+            "text": "Very tasty food, and great custom service"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnOW9DSzNRRRAB",
+            "text": "The best sushi spot in town. Great sit down atmosphere, fresh food, and delievery option. There is no better kosher sushi spot in brooklyn."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnMXJ1NEZ3EAE",
+            "text": "Best cooked salmon sushi I ever had!!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBN2REU2lRRRAB",
+            "text": "how i order something and the dude confidently gives me the wrong thing. This wrong order i got looks terrible. I don’t know how you guys mistakenly give me the wrong order and the place is about to close. Barely anybody was in there. Pure mediocrity and i want my money back."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBelpYQmtBRRAB",
+            "text": "Best sushi ever!!!"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2eXBqakdnEAE",
+            "text": "Good for all ages"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBNTdxdFVBEAE",
+            "text": "Great experience with nice service and delicious food"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfZ1pTTUtREAE",
+            "text": "My go to, sushi place,\nBest sushi in town\nFish is always fresh\nPrices are great\nTakeout is good, but to dine is even better, the atmosphere is amazing over there.\nThey figured out how to have a fancy sushi restaurant and have a homey atmosphere at the same time."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmaTVPNnB3RRAB",
+            "text": "The sushi is pretty decent, the service is good."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmcmF2RnJBRRAB",
+            "text": "Sushi Ta'eem was a breath of fresh air.\n\nAmazing fresh sushi and at surprising affordable pricing, the like you dont see in 2025.\n\nThey have ample seating for in-store dining and have very fast service for all order take out and dine in.\n\nThey have Large menu of different options besides for just sushi like poke bowl and salad and vegetables etc...\n\nThe food was tasty and fresh.\n\nId definitely Recommend this establishment and will be back"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmamRyWm1RRRAB",
+            "text": "Nice atmosphere, sushi rolls are well made, and their appetizers are really nice. Been here twice had a good experience both times."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmcGY2d3J3RRAB",
+            "text": "Great food. Great service. Great pricing."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmLWNhME5BEAE",
+            "text": "Amazing sushi I’ve eaten in store twice but catered multiple events, Elisheva Is amazing always putting together the best platters at the last minute and by the time we sit down to eat the avocado looks incredible never browns superb service, phenomenal food, highly recommend and for the quality and taste surprisingly inexpensive. Thank you Sushi Taeem!!!!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2el9IemRREAE",
+            "text": "Best sushi\nGreat staff"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2LTlITGVREAE",
+            "text": "Food was great! Service was awesome! And Chai took great care of us."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2emRHOEt3EAE",
+            "text": "Good food. Menu is a bit limited but the sushi is fresh and good."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2aFBYRXlRRRAB",
+            "text": "Great spot"
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxeHZXbTVnRRAB",
+            "text": "20 🌟 🤩 ⭐️ 🌠"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQaHVLRmRBEAE",
+            "text": "Best sushi place! Always so fresh, highly rec!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzX3VyWXFnRRAB",
+            "text": "Delicious food and great service!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYbjlEVjFnRRAB",
+            "text": "An amazing sushi spot. Great food, never disappoints. The service is also very good, nice servers. Used to be cheaper but prices went up slightly, and they now includ a 18% tip charge on top of the order."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNucDd5M0ZREAE",
+            "text": "Good food and friendly staff"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuX2JySEJnEAE",
+            "text": "While we were here, we invented a new food for them and now it’s on the menu you’re gonna love it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIaGVxTmJBEAE",
+            "text": "Terrible customer service and quality of food!!\nStay away"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6a0tyMmZBEAE",
+            "text": "I heard good things about this place prior and decided to stop by. Walking in automatically you notice great decor and we were seated immediately, and had water a plates brought to us in a matter of seconds. Menu looked great and they have many options. We got a few different rolls and all of them were amazing best kosher sushi in queens and Brooklyn the bills didn’t break my wallet. Very happy with eating here."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtNEtLZzhnRRAB",
+            "text": "Good food. I never had kosher sushi and was happy to experience slightly different take on choices.  There's many interesting dishes, I tried a few, and all were good. The service was great. There came in lots of young people at about 11:30, the restaurant was filled in to the last table, and servers and cooks were working fast and well organized.  All those kids left at the same time just as they came in, must be school nearby.  It became quiet again. Workers sprayed and wiped all tables and each chair after they left. The bottom line is good food , a clean and pleasant place with great service."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlNU9teEp3EAE",
+            "text": "Excellent food and service. Will come back every week. Bento box teriyaki salmon - amazing. Fish and chips (tempura salmon) - amazing. Excellent rolls.  Yummy miso soup. Attentive service. Clean bathrooms."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4XzY3WnhRRRAB",
+            "text": "Sushi Ta’eem has great customer service.\nFood was ready pretty quickly & they are normally priced . Everything was delicious\nCaterpillar roll was 👌\nThe avocado fries were so good !!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2NWNLZFVREAE",
+            "text": "Beautiful new place. Clean and comfortable. I enjoyed my tempura salad and my wife enjoyed her sushi. Quick service and music level perfect for being able to have a conversation without straining. Will definitely come back. 😊…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlanBHNk1nEAE",
+            "text": "Best place! The environment is so warm and friendly. I can come here everyday and not get tired of it. Best sushi in Brooklyn."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNha19lVzVBRRAB",
+            "text": "This is the best kosher sushi places in NY. If you try it once get ready to always crave it over and over again. The quality is very good and the prices are surprisingly low for such great quality.  The service is also great which is very rare for kosher place. Long story short, 5 stars!!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5cklqTV93RRAB",
+            "text": "Loved this place. Good first time experience! They made sure I didn’t get anything with sesame seeds due to my allergy. Food was very tasty. Service was incredible."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCcS1uMG9BRRAB",
+            "text": "Sushi Ta’eem is a unique styled sushi joint providing comfortable indoor dinning, wifi, great service & great food. Sushi Ta’eem also has a unique menu including our family favorite avocado fries, & avocado fire ball.\nMutzai shabbos is a-bit hectic & would advise to reserve a table online.\nOverall my family and I are very satisfied with Sushi Ta’eems service and would recommend it to all."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1MzY3S3RnRRAB",
+            "text": "Very good place, clean, good customer service, KOSHER, The Sushi is recommended."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1aU5maXVnRRAB",
+            "text": "Amazing sushi spot. Fish is fresh and service great. Quick lunch spot if you need in and out"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhM3JQQ0FREAE",
+            "text": "Sushi is fresh and absolutely delicious. Everything we ordered was so good. Will definitely be going back again"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHN1pfaWN3EAE",
+            "text": "Highly recommend\nFriendly staff quick service\nClean place high end\nGreat delicious food"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhODZubHJRRRAB",
+            "text": "The sushi is out of this world, super delicious and very decently priced, would highly recommend this place, great service!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNycmVpVC1BRRAB",
+            "text": "Delicious food and friendly prompt service. Will definitely be back"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXbnFpeFdBEAE",
+            "text": "Quick service nice clean place and the most important sushi is Great.  Prices are very reasonable and portions are good.   Enjoyed my dinner with wife."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSbk9EemZnEAE",
+            "text": "i’ve eaten not kosher sushi before but this is amazing taste so fresh and delicious i love it come here at least once a week , beautiful place always clean and excellent service!!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHeGQ3UmF3EAE",
+            "text": "Honestly,\nAwesome place, nice ppl. HELPFUL\nClean, modern look, and smooth music.\nAs for the food, I’ve always ordered brown rice with sushi, and to be frank: baseline.\nBut I guess that what I get for not ordering the real stuff. ⬆️"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSeTd2dk5REAE",
+            "text": "Great food! Had rice crispy and tiger roll, delicious!\nReally good service as well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsa09QLWFnEAE",
+            "text": "Always fresh,  sushi plates come to table looking like a pic from a magazine. We are regulars and love it!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhcTVMQXBBRRAB",
+            "text": "The sushi here is phenomenal, so tasty and very fresh, will definitely be returning here!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCZ09lajlnRRAB",
+            "text": "I think this is the best place and the most awesome sushi around.\nThe things that I really like were 1. they only serve sushi and sushi related food so you know you are getting the best of the best 2. The menu is very simple so you don't get confused while ordering food and still the have a great menu. 3. The service was quick and very nice. This is the place to go enjoy a family night out and have great food (Sushi) and even the dessert they have only 2 choices so we ordered both and as expected the were awesome!!!!\nAnd not to forget the music playing there was as great as everything else!!!\nWould recommend highly this place!!!\nOh and I almost forgot the pricing is decent too like I said best place ever!!\nJust a little add on: If you find a dish not satisfactory to you they are quick to either compensate you or take it off the bill. All with a smile and a sincere apology. I saw a review that complained about the music personally I'm a big fan of it. Being Israeli and really missing home I always enjoy the Israeli music in the background. Please don't ever change it!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwNkxDbmlBRRAB",
+            "text": "The place here is great! My brothers, parents, and grandma, all loved it here! There is something for everyone!\n\nNow lemme get something straight,I don't like sushi 🍣❌. But even I got full here! You can ask for different additions or subtractions. For example, you can ask for soy sauce on the sushi. Or like I do, you can ask for no seaweed.\n\nI really liked it here, and if you want some sushi, I recommend coming here."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSa3E3ZXhRRRAB",
+            "text": "Service is wonderful! Everyone is extremely nice and makes sure our needs are met. We were a 2 people party but we wanted a bigger table, and even though it was very busy as this time, they still let us have a big table. Eli was great to us…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMbG9yVF9RRRAB",
+            "text": "I am from Toronto and I must say this is the best sushi me and my family has ever had. The sushi was so fresh and the restaurant was super clean, staff was amazing must must try. We will definitely go back again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5dnJDNk9nEAE",
+            "text": "The food here is actually so amazing, I came in not long ago and they sat me down right away with menus, water cups sauces the whole deal. They were patient with us checking in every so often to check in on us and ensure we had a great experience!! Our server Yonathan was very patient with us and gave us some very good recommendations, if you decide to stop in then consider getting the volcano tempura roll or if you like raw fish try a Coney Island roll. To die for I’m coming here again!!!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNobHVpbUZREAE",
+            "text": "Alright update review:\n\nI went for seconds this Saturday night and always a great environment, the girl who didn’t care about me was still there.\n\nAlthough this time she asked how I was feeling so she showed some love which was nice.\n\nShe recommended a specialty roll I’m assuming it’s one of her favorites.\n\nIt was tasty, a double salmon roll, how about that!\nI don’t recall the name so I must return to find out and I have some other thoughts about it. I would write those thoughts but it would be a waste  of your time to read about a roll that you can’t even put a name too.\n\nBut yes once again service unbelievable so quick and delicious.\n\nGreat spot!!!!!\n\nOriginal review: I ordered a small platter they said 15 minutes I came back in 13 min and it was ready and let me tell ya this was in a Saturday night!!!\n\nPretty impressive eh!!\n\nPrior to coming into the store i felt like I was gonna die so I told the women behind the counter btw I feel like I’m going to die.\n\nYou know what she responded!\nwe don’t have insurance so if you gonna die please go outside.\n\nNow that’s the type of service I like, to the point and blunt.\n\nJust really great service…."
+        }
+    ],
+    "reviews_count": 77
+}

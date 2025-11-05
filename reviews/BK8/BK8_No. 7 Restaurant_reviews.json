@@ -1,0 +1,530 @@
+{
+    "name": "No. 7 Restaurant",
+    "place_id": "ChIJFRTZSdNbwokRPv71NOk5GH8",
+    "grid": "BK8",
+    "address": "627 Vanderbilt Ave, Brooklyn, NY 11238, USA",
+    "rating": 4.4,
+    "user_ratings_total": 377,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "수정일: 6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1eDdyVFNBEAE",
+            "text": "Amazing burger, great fries, very comfortable neighborhood place. Very warm inviting place with great service.  A great addition to Vanderbilt Ave!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsTWIzaGtNV1JVYWtKWlRXWlJiWFUwWWpGVGVFRRAB",
+            "text": "That double layer taco... 🤤\n\nWe sat in the front window to people watch which meant we had to order from the bar, which wasn't a problem. Took a bit longer to get the bartender attention, but we weren't in any rush.\n\nAll the food we had was delicious, but those tacos stole the show. So disappointed I didn't try this place sooner!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zeVdGUnhTakkxTjFoSllYQkxaMjFuV0RoaGJuYxAB",
+            "text": "BROCCOLI TACOS, TACO BELL STYLE\n🔥"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paWGRXcGxVMjk0T0RGNk5scHRTM0kxY0RBeFQxRRAB",
+            "text": "Quite decent food and great atmosphere. Perfect spot for a drink."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkMVNVSlJPSEZ4UmxSYVdraG1kWGx5ZUVWdVdVRRAB",
+            "text": "Came here for a late night bite. All our dishes came out fast and hot. The chicken fingers are were great btw."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWS1RrVXRhMUppY0dKZmEwWmlSRzVtUWxaNlJIYxAB",
+            "text": "Amazing fries, vibes, and broccoli tacos."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxblFUUkhlbWx4VmpWeVZHNWpkMHRhUVV0Mk0yYxAB",
+            "text": "The food was tasty, especially the green sauce that were in the pork chops."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sb1lrUnBZVGxLU2tJME0waG5jblp2YkVwT1dXYxAB",
+            "text": "Excellent"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFMmQzbDRTV1p5ZVdGMVV6Tk5UbHBaYW5SbGEwRRAB",
+            "text": "Great bartender! I go out a lot on my own and I love when restaurant workers ( shall I say actors in NYC) treat you with the utmost respect ! I only had the Baby Artichokes ( what's in that delish sauce,really????) and everything was great. Very smart people running this place! Please visit ! It's awesome ! Many thanks for letting me hang out while you were closing out!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLN0U5dHYzMExlZXFRRRAB",
+            "text": "Excellent food! Loved the ox tail Mac and cheese. Perfect portion size and generous amount of beef."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNVDhwc0htdHNpdldnEAE",
+            "text": "Good burger"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZbUplaEtnEAE",
+            "text": "Have eaten here several times before but struck me tonight I’ve never had anything less than a perfectly lovely meal here. The fries and veggie burger can only be described as virtuosic, and I find myself thinking about their chopped salad often."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3cE5EVGF3EAE",
+            "text": "One of my favorite places to eat at the bar. The fried artichokes, whatever entree you like and the sundae (it’s huge share with a friend). And nice bartenders!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRbktUMWR3EAE",
+            "text": "Honestly, I hate to write a mediocre review of a local restaurant, but it's been irking me ever since dining there a week or so ago. The atmosphere is cute, but the menu is basically bar food, but with the prices of fine dining? I ordered a sausage dish that was literally one sausage sliced horizontally with fries and it was $28? My husband and I each ordered a soda (not even alcohol), shared a salad to start, he got a burger and I got the sausage dish (no dessert!) and we ended up paying over $100 with tip and tax. I appreciate that the cost of food has gone up but it just feels like robbery. If I'm paying $100 for dinner, I want to leave feeling like it was special and worth it. This did NOT feel like that. If the prices were priced appropriately for bar food, I'd go back, but I'm not spending almost $30 on a sausage again..."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnbEpDSFRREAE",
+            "text": "Cozy atmosphere and kind service. Ravioli were decent but the greens on top way too salty and inedible."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2dWRyNkJ3EAE",
+            "text": "This is the epitome of a neighborhood GEM. Nice and cozy inside with welcoming staff, and delicious food.  Party of 5, we ordered various burgers, pork chop and broccoli Tacos.  Everything was superb, and the fries her are so tasty.  They brought over a couple of absolutely scrumptious desserts, the cake by far the best cake I’ve had in a while!  Given I live in Arizona, it is a tragedy that I can’t be a regular."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzMmZEZzJBRRAB",
+            "text": "I had the glorious privilege of wandering (not uninvitedly, mind you) into No. 7 — the blissful texture of these broccoli tacos resulted in this review leaping forthright from my still unclean fingers.. I simply couldn't wait to tell, whoever you are about the spot, and offer a glowing, towering, 5-stars review"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzcFBDTnZBRRAB",
+            "text": "Don't sleep on the shrimp scampi! Absolutely delicious meal and loved the vibe of the restaurant."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIdHNYcFZBEAE",
+            "text": "Food was excellent, best burger around!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3eDhTZk93EAE",
+            "text": "The food here is amazing! Great flavors and fresh ingredients.\n\nWe ordered the broccoli tacos, the chopped salad, and shared the burger. Everything was delicious! The burger is so good, very simple, but you can tell they use good quality meat. The salad was fresh and had great acidity to it. The tacos were crunchy with great mouthfeel and were absolutely yummy.\n\nMy only gripe was with the service! It was horrible. The hostess/waitress was rude as soon as we stepped through the door. I had to flag down staff each time we needed something. When it came to the bill, I had to get up and ask the bartender for the bill. Inexcusable, especially since the food is not cheap at all.\n\nWill come back with lower expectations for service."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiMW8yVm1nRRAB",
+            "text": "Awesome spot. Artistic drinks. Rotating menu but Brocc Tacos and Sundae are amazing. Also has high chairs and the chef immediately chops up and delivers fresh fruit for kiddos."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlNzc3RmtnRRAB",
+            "text": "We’ve been here twice—the food is good, but some things, like the burger, have gotten way more expensive. The burger is good, if a bit boring, and it comes with fries—the fries were covered in a sort of boring blue cheese, so they weren’t my favorite. The fried artichokes were great and probably the best thing we ordered."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaa3FmMUJBEAE",
+            "text": "always a clutch place if i'm in the mood for an american pub fare (better than usual pub's)... the fried chicken sandwich was one of my favorites.  their burger is always there and fantastic.  recently, i had the fish (stew?) that comes with nice toast and corn and peppers --- it replenished my soul.\n\n7/13/24 update: Came back again for dinner and had the grilled porgy. Amazing if a little bit overpriced."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6OHNMSzNBRRAB",
+            "text": "The burger was spectacular, juicy, cooked properly, bread wasn't soggy, fries delicious, & the pickles were perfect compliment in flavors. Wish they were a bit more daring in the beer selection, but otherwise a solid place to keep going back to explore the menu."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6OXFPUl9BRRAB",
+            "text": "First time eating there and I loved it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0dWFLQUV3EAE",
+            "text": "Excellent service. Great drinks. Solid food. The broccoli tacos are the real deal!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0bTVPeWpBRRAB",
+            "text": "Food, drinks, atmosphere… all good. Service too; I first went to this restaurant one night I was out late and I was hungry and this restaurant has a big sign out front that says “Open Late”… it was great as no other restaurant nearby was open. However, the last two times that I tried to go there it was also late, and went there because I remembered the sign, and they also say that on their website… this said, the two times I got there before 11p and they said “today we closed a little earlier…”… no issue with closing, only don’t have a big sign that says Open Late and don’t say on your website and Google that you open late…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxNVpHZE9REAE",
+            "text": "Great spot! Food was worthy of the price point, atmosphere was great, drinks - on and off menu - were on point for all three rounds our group had, and the service was above and beyond (helpful beyond expectations!) Can't wait to go back to try the broccoli tacos!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURsNi1INVJBEAE",
+            "text": "My first time there and i absolutely love this restaurant. Had an old fashion... I love the vibe here...   Good music, cocktails and the service was great. I plan to go back!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsOW91cG5RRRAB",
+            "text": "Good atmosphere, average food"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGcUxIUGNREAE",
+            "text": "Fantastic food, caring servers, relaxed fun vibe. What are you waiting for?"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1eXFiUEpREAE",
+            "text": "Small menu (great) but the food is very boring, lacks thought and wasn’t particularly tasty either. Eh"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaMEpDMkNREAE",
+            "text": "Broccoli Taco: order every time I go there, how are tacos made with broccoli??  But they are delicious.\nGiant minimal cheeseburger: medium cook. Came with French fries. Pickles, wow sour, spicy, sweet bunch of flavor in one slice of pickle.\nSo yeah, No.7 highly recommend"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNac2U3ZURBEAE",
+            "text": "What an amazing spot. The broccoli tacos are one of the best things I’ve ever eaten."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNad2JxbGJnEAE",
+            "text": "Broccoli tacos were in fact delightful. Bartenders were super attentive and cool with me drinking bitters and soda all night.\n\nWould definitely hit up again."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwb2VUTjRnRRAB",
+            "text": "No. 7 has quickly become a favorite neighborhood spot for weeknight dinners. Though the menu is full of delicious, inventive dishes, we can't resist the burger and fries! The broccoli taco (or brocco taco as we call it) is another favorite. The staff are incredibly friendly and welcoming. I just wish they were open for dinner on Sundays!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwcjYzUWhRRRAB",
+            "text": "Fantastic food, wonderful service. Sit at the bar for great cocktails and a tapas style romantic dinner. Will definitely be back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwbTZQVGZnEAE",
+            "text": "really great (upscale) late night food option"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwLVozejFnRRAB",
+            "text": "The food at No. 7 is pretty good, with great drinks and even better music."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwdHA2RExREAE",
+            "text": "Good but overpriced for burgers and sandwiches IMO"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnaC1Ub2lBRRAB",
+            "text": "I love the double decker broccoli tacos. That's all you need to know. Double. Decker. Broccoli. Tacos."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKLVpIVjlBRRAB",
+            "text": "The Duck was outstanding.   Extremely tasty.   Drinks were great.   Loved the atmosphere here."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4d1ludTJ3RRAB",
+            "text": "Always a great stop for a dinner/late night in Prospect Heights. Friendly staff and great vibes."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4enZtTS1RRRAB",
+            "text": "Vibrant joint with attentive, courteous service. Long, well attended bar. Comfortable dining but with a decibel level that negates quiet conversation. The food was good, but the seafood plate ( Captain's Fare?) was unnecessarily heavy on the salt."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4OXJETGNBEAE",
+            "text": "We were really looking forward to this new restaurant in the neighborhood but the staff was rude, ignored us, treated us …well like we weren’t the costumers to put energy on. The food was bland and uninspiring compared to the diversity in restaurants we have in this neighborhood."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4ckt1b2xnRRAB",
+            "text": "Food is pretty good and big. We ordered pork chop and taco, which is enough for 2 people. Drinks are delicious too!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSNDZQRll3EAE",
+            "text": "No. 7 has become a new fave since it opened in Prospect Heights. Last week I noticed the grilled tofu and beans dish on their Instagram and had it for dinner. Filling and delicious, it struck me as an elevated beans and toast that I used to…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSbm9MUzNBRRAB",
+            "text": "No 7, please don't ever change. Your veggie burger is the best I've had and your broccoli tacos make my heart sing. Really lovely service and atmosphere."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSNk9xTVFnEAE",
+            "text": "Legitimately the best burger I’ve ever had. Hats off to the team behind this phenomenal restaurant!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSOWFMbnVRRRAB",
+            "text": "Good neighborhood restaurant. Excellent burger. Appetizers we had were good. \"Chopped salad\" wasn't chopped in any way I could see, just regular salad."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURldGVEN1NBEAE",
+            "text": "Let’s get this straight right off the bat. If  your going to go out for dinner in Prospect Heights expect to spend about 40-50 per person with drinks and a tip, most of the time it’s whatever.\nBut at No.7, it’s worth the cost.\n\nCasual vibes and not pretentious, younger mature crowd with few if any children.\n\nBroccoli tacos were double deckers and banging.  All the sandwiches are fair priced for 2022- burger and fries slamming, chicken sandwich is HUGE and also solid.\n\nThe fish soup could have been a bit hotter temperate wise, but delicious non the less.\n\nWe sat in the yard and it’s lovely, next time I hope to sit at the bar, it had a nice energy when we were leaving.\n\nSorry for blurry pic, I get uncomfortable taking food pics in the dark at restaurants."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRc3RiNVlBEAE",
+            "text": "Food was tasty and flavorful, and the broccoli tacos are one of the best-kept secrets of this stretch of Fulton. Hopefully they'll be a secret no more! The entrees are a bit expensive, but overall a great spot."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJdGNYdHB3RRAB",
+            "text": "Fabulous ambiance and perfect for a date night. Amazing vegetarian options and I’m already addicted to their broccoli tacos and brussels sprouts. Their bartenders and staff know how to make you feel welcome and how to make a tasty cocktail."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnbllxMjhnRRAB",
+            "text": "No.7 has a simple, but delicious menu that can satisfy the dietary restrictions the whole group. My friends and I went there for dinner last night. We were a group of 8 that had a reservation. The restaurant honored the reservation promptly and was prepared to accommodate a larger group, making this an ideal location for larger groups. The waiters are perfect! They are swift with a joke, efficient and not overbearing. Despite the fact that we went on a Saturday night, we were not rushed out after finishing our meal. The beer/cocktail list is great! I am more of a beer drinker, but even I couldn't resist the cocktail menu. Just as a heads up, the cocktails listed on the online menu were not the cocktails on last night's menu. I'm sure they would have accommodated a cocktail request though. With this being said, I would highly recommend No.7!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVM3Y2M3ZRRRAB",
+            "text": "No. 7 is a neighborhood restaurant that is reasonably priced with decent food. Nothing will blow you away on the menu but the double decker broccoli taco is a solid choice along with the fried chicken sandwich."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtOXR6NzlRRRAB",
+            "text": "Great addition to the neighborhood! The broccoli tacos are indeed fabulous, and made even more fabulous with their house made hot sauce. The simple burger is (as they say), a simple burger, but done well. The non-sandwich entrees are a little bit pricey and a tad random, so I’d stick to the basic items here."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtNGZhdnpnRRAB",
+            "text": "Atmosphere is so charming warm, service is gracious and friendly, and food / wine / beer is on point. Granted have only ever got the burger and salad (really reasonable price points) but they are wonderful. Glad this restaurant joined the neighborhood. 🙏❤️"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3N2IycEpBEAE",
+            "text": "I went to brunch here for the first time yesterday with my child, husband, and three other friends. The fried chicken was the best I'd ever eaten. We also got shrimp with cheddar grits, Belgian waffle, a burger and a salad. Bacon was super…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpbWJmWWZ3EAE",
+            "text": "Met one of the owners and their daughter in the park across the street from the restaurant and they are SO friendly. The servers was a delight and the food was superb. When I come back to the Fort Greene area I will DEFINITELY  be back.\n\nUPDATE..I got the chicken burger (a REAL ground chicken patty) and fries to go. Between my daughter and I, the fries never made it home as did half the burger. The food was delicious!!! Gotta go back to try the broccoli taco."
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRbG9HVWZ3EAE",
+            "text": "Nice space.  Good service....but the food was more miss than hit.  Strange flavors, and ill-conceived dishes.  The fried broccoli was mushy.  It came with a nice sauce, but because of the nature of broccoli, it was filled with raw batter.…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvbVBYTlRnEAE",
+            "text": "Great bar.  We enjoy coming after work.  They open at 5pm.  We try to get there for a seat at the bar, the place fills up quickly.   The bar staff is friendly and welcoming.   Food is good.   We usually go for a few glasses of wine and…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCaDhuc1NBEAE",
+            "text": "SO great to see the new No. 7 ooen even closer to my apartment than the previous one! Epic meals, you will definitely want to show up hungry. very lively ambiance coupled with really solid music. make sure to get a reservation, it can get super busy, so walk-ins might not get a table. love you, No. 7!"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURndHVfcmNREAE",
+            "text": "It's consistently great. Broccoli tacos are a must. The atmosphere is chill and cozy all times of the year. Great subway mid-way point for your Manhattan friends. AND the staff is super cool and plays good music to boot. (Ft.Greene No.7)."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBbF96ZC1RRRAB",
+            "text": "Not too many healthy options. The fried chicken was fine but a bit overpriced. The food was a bit of a let down to be honest but not terrible."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURncXQ2YURnEAE",
+            "text": "The food was wonderful and the beer selection was great. I loved the atmosphere. We went for dinner and to catch up with old friends. The background noise level was quiet enough that we could easily converse but not so quiet that we felt a…"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRaXVUYURnEAE",
+            "text": "After a party, my wife and I were looking for a nice, quiet place to converse. This place fit that bill on a rainy Saturday night. The hostess accurately described our drinks, the Lady Sybil and the Quick At The Helm (which were very good) and the  Fried Fish Tacos were very tasty. If you're double dating it's a nice classy place."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVd0tuUkNnEAE",
+            "text": "We were seated in a cramped corner table in an otherwise mostly empty restaurant. The $17 burger they served was grey and the fish taco looked like a Purdue chicken cutlet and had approximately the same flavor profile. I suggest cooking your burgers over higher heat on a grill. It will be ok- we believe in you. The fries were good."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNneHE2SnFBRRAB",
+            "text": "I come to No. 7 about every six months, ‘cause I live two streets down and want it to succeed. The food is fantastic. Really great. And I would be in here every week, except that I tend to come in during happy hour, and unfortunately, the bartender is just not great. His drinks are delicious, but he moves at one speed and the smallest crowd gets away from him. Tonight I ordered a simple (and expensive) bourbon and soda, and after ordering it took 10 minutes to get the drink. When I needed a refill during and then after my food came, I patiently waited for his attention, which after 20 minutes, I gave up on.  I was sitting right in front of the beer pulls, where he came often, and he just never looked down. The folks to my left and to my right also had empty glasses, as did most the bar. I would love to come here more, but I just can’t justify look-cute service for the price point. On a good note, a second bartender showed up as I was finishing, and it seemed he was really on his game. So maybe a later crowd will have better luck. I’ll try again in six months."
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnc0tLU1VREAE",
+            "text": "Nice spot with a great vibe. Small but adequate selection of beers. The broccoli tacos, despite sounding weird, are really quite good. The bartenders make a good cocktail. And the balsamic mayo with the fries is really good."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0LVlIZC1nRRAB",
+            "text": "HIGHLY RECOMMEND!! The food is great, I ordered the bean sprout & chilled scallop salad, the roasted cauliflower and buckwheat gnocchi, & the blueberry creme brulee. All three were fantastic!! The staff is also super friendly and helpful"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRdS1mdExnEAE",
+            "text": "Great food, very limited menu that happens to be a bit pricey. However, we were both so pleased with our food and service it's hard not to recommend the place. Definitely a nice spot to grab a drink and get dinner. There's a full bar and a dining area, if you don't make reservations you have to sit at the communal dining tables, which we had to ourselves anyways. Right behind the C subway station.\n\nTl;Dr mediocre prices great food."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvM3ZYTmNREAE",
+            "text": "Went here for Valentine's Day. Great service, very good food. They had a special prix fixe menu as well as the regular menu. Great drink and dessert selection. Extremely convenient for public transportation- the C train is right outside and other trains are a few blocks away."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVeGFpbDNnRRAB",
+            "text": "Small menu but food is very good. Stick with basic cocktail drinks. Bartenders do not have the knowledge of a wide variety of drinks. Had to teach them how to make a simple drink. Gotta say they are fast learners. 👍…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBMXZDZ3F3RRAB",
+            "text": "Excellent chicken sandwich and tasty hot sauce on the table. Busy but not overcrowded for a Saturday brunch."
+        }
+    ],
+    "reviews_count": 74
+}

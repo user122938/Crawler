@@ -1,0 +1,537 @@
+{
+    "name": "BKLYN eats",
+    "place_id": "ChIJ3UrZuU9cwokR77KnNxSpOmM",
+    "grid": "BK5",
+    "address": "2592 Atlantic Ave, Brooklyn, NY 11207, USA",
+    "rating": 4.1,
+    "user_ratings_total": 326,
+    "phone_number": "(347) 663-1519",
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTk1IUlJWMUZmWmt4cGNVMWlXbkJpVUhvNU9HYxAB",
+            "text": "Great food, fresh and clean, fast preparation"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210RE1YWmFVWGs0VlRNd1lXeFdhM3B5U0VKdFptYxAB",
+            "text": "The bald head guy who was there this morning had horrible customer service and the food is extremely subpar. They will not get my money ever again"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5dlZURjZNV3QzTWt0RGVFcGZNVVEwYldkcWVsRRAB",
+            "text": "Very good overall. Everything went okay."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0YU0xWjNRMFpzYnpoc05VMU1Ta2xsV0ZkT2VXYxAB",
+            "text": "The food used to be good. Now they're making BLT's with half rotted & stale bacon! Disgusting 🤢! Opening the foil you can already smell the offness and it isn't the first time. Smh at least the coffee has yet to kill me! Removed from my favorites list until they have better quality assurance for their food"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VLQ0wyYUhSOE9mak9nEAE",
+            "text": "Why continue to have a business if you don't care about it? Ordered a Chicago burger deluxe and a bacon cheeseburger for my co-worker and both of us are highly disappointed. There were bits of other food in our fries, my onions were not sautéed and the burger tasted gross. My grandmother used to love coming here so I know what the food used to taste like.\n\nHave some pride especially when the burgers cost $20+. This will be our last time here."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VOX045dGJ2d2NLRVNnEAE",
+            "text": "The food was good but when you spend $4 for juice or any beverage I expect more. You businesses are getting worse and worse."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3NU1iS3d3RRAB",
+            "text": "The food has really gone downhill since the last time I ate here about a year ago. Home fries were salty, had so many burnt pieces and just overall nasty. The breakfast platter had super chewy bacon, the eggs were tough and stiff and the only thing that was edible was both the French toast and the regular buttered toast. Not worth the $58 I spent."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmd2JLVE1nEAE",
+            "text": "Their staff who prep the orders for deliveries didn't check to see if the order was accurate.  Ordered a Pancake combo and only received syrup, eggs, and bacon. NO PANCAKES."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzd0tLMGJREAE",
+            "text": "Paid for a sandwich to be delivered. It didn't come and of course restaurant was closed at 2pm but they received the money."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURubDhfaEpnEAE",
+            "text": "Home fries could have been cook3f a bit longer"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2NTRpVXJBRRAB",
+            "text": "Neighborhood Go To Always hits 😋"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNicFB6NVd3EAE",
+            "text": "Do not get the home fries,  burnt pieces were so hard I could not chew them. Seemed like they were not fresh. Food not good and not worth the $15."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiMk5yZy1nRRAB",
+            "text": "If you looking for a simple delicious breakfast with perfect simple grits not over seasoned just simple. Good Hardy breakfast. This is the spot. Good prices too. Perfect prices food perfect not over season just great. Customer service is good too."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMeVluODlRRRAB",
+            "text": "Um, did someone took a bite out of the cucumbers and spit them back into the salad I got? I never seen anything like this…\n\nEdit: rating changed from 2 stars to 3.5 stars. Owner replied and said that seeds were peeled. I’m not a culinary expert. Don’t 100% buy it because the other pieces looked like regular halves and didn’t look like they had a bite mark on them. Never heard of that practice before either. But I admit it can exist and I may be wrong."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6eU1uWFpBEAE",
+            "text": "Please never get rid of the Desayuno wrap, it hits every single time. Definitely slept on."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqN3BYaWpBRRAB",
+            "text": "I heard it was a good restaurant to get brunch but I will not be back They don't offer dine in inside or outside  In conclusion I can't give this restaurant a rating because I left without ordering anything"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEcEpDX2pBRRAB",
+            "text": "Food was old and burnt"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0ME9lNUxREAE",
+            "text": "Good Fast food & Burgers."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNZbzZtT2J3EAE",
+            "text": "Split pea soup is excellent"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOdGJMX2tRRRAB",
+            "text": "Good food for a good price!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxcy1uOExREAE",
+            "text": "I'm an Uber eats delivery courier. The guy in the morning was great. Nice place, and it smelled awesome."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxLXI3TkZBEAE",
+            "text": "Really good food the only bad thing is that they only open intill 1 pm"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGcXRibUVREAE",
+            "text": "Not a dine in place at all. Just because I asked for a broccoli omlett doesn't mean you shouldn't use salt. Can't pay for your food without card unless you get the app and the android version is too old for my phone. Just go to a deli with a grill next time"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGZzVEVDhnRRAB",
+            "text": "I was in the area and picked up some breakfast, everything I had was great and at a fair price point."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGamN5djZBRRAB",
+            "text": "Delicious food great service"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGcGV5cHhnRRAB",
+            "text": "Best food, service, great people"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1ek5fTnp3RRAB",
+            "text": "Very small sign only accepted credit card on online order at the counter has to be cash and the ATM inside wasn’t working, so I wasn’t available to taste the food ."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwenZLa2hnRRAB",
+            "text": "I love bklyn eats the food is on point and the service is quick and professional. I recommend it"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKN09MMk5BEAE",
+            "text": "overall great food. but whenever i order a tuna melt, it is made and delivered as a tuna sandwich (no melted cheese at all)! its just toasted bread with cold tuna. please fix this."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4c3ZTOGFREAE",
+            "text": "My boo luvs the crispy  chicken Caesar  wrap. Laaawwwwddd,  he gets it about 3x a week lol."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSZ3VDSVhREAE",
+            "text": "Recently discovered this place.  Ordered twice now and the food has been excellent.  I was especially impressed with garden salad (with added grilled chicken)."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURobDVQcU1REAE",
+            "text": "Bueno"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURocTR6TWtRRRAB",
+            "text": "The breakfast there is fresh an delicious the staff is beyond friendly my go to breakfast place"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCMzc3NTNnRRAB",
+            "text": "Customer service great,\nFood: potatoes were  soggy and hard, bacon dried and Avocado was no good."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCX1lxb053EAE",
+            "text": "This place is really delicious!  Thank you"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtNl9pWGJBEAE",
+            "text": "Order through ubereats. Good food if you looking for that Bodega, diner experience but at a price. Not enough food portions so only order on a lazy day."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtOXNieHV3RRAB",
+            "text": "Not made fresh. Don't get any of the wraps. I've had one experience where the olives tasted like alcohol (bacteria) and another where the black peppers tasted nasty. None of the stuff on the menu is healthy."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1czlXeFlnEAE",
+            "text": "Very good diner for take out"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5dTlxdkxnEAE",
+            "text": "La primera vez que compré el healthy wrap y no me llegó con aguacate, puse 2 esteellas. Es la segunda vez que no me llega el aguacate y ahora pongo 1 estrella, lo especifiqué en mi pedido de Uber Eats. Llamé y la señorita al explicarle, me colgó el teléfono."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1MHZicGJ3EAE",
+            "text": "Outstanding small diner with both classic Americana and updated menu items. I heard they had a fire, burglary here recently I hope they catch the fiends and this great little place gets back on it's feat. 🍔 🌭 🥪 🥤 ☕ 🥞 🍗 🍦 🍨 🎂…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPZ3VQQXdnRRAB",
+            "text": "Friendly"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyNmQtWk5BEAE",
+            "text": "Food was good and plenty you get what you pay for"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXdnVhaWFBEAE",
+            "text": "I’m a neighborhood dasher/Uber eats delivery girl… haven’t had the opportunity to eat here but love the staff & orders are always on time 🤍…"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhaHZEY1pnEAE",
+            "text": "This Diner has one of the best home fries I've tasted. And their customer service is really good. They make quite a lot of varieties of breakfast things I'm really not a breakfast person like that but for anyone that is looking for have breakfast or lunch and dinner spot this is definitely the spot again I am a plant-based eater so there's things that I cannot eat here but for the thing that I could eat it's pretty good."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtMHIzZGZBEAE",
+            "text": "Very rude customer service when placing an order women had a attitude and was speaking to fast and this is very unprofessional I don’t recommend anyone going threw customer service like this i called early in the morning and she probably didn’t have a cup of coffee before her day started . Sad .…. Very sassy for no reason"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHMjhlSFdREAE",
+            "text": "Great"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNneHNLSmJ3EAE",
+            "text": "First time here, & I have no complaints.\nUpdate: 8/22/21. Ordered a salad from here, & most of the ingredients in it was fresh, except for the tomatoes (🍅) & cucumbers (🥒).  I was surprised &…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhcVp2T1RREAE",
+            "text": "I order a Spinach,tomato and broccoli omelet!! What I received was a broccoli and egg omelet I called to inform them that the order was incorrect the person had me on hold for 10 minutes never came to the phone, she  lillary answered and…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxbU55RjhRRRAB",
+            "text": "As a delivery driver, I only frequent the restaurants that get a lot of orders and are quick and efficient.\n\nThis place gives me a Waffle House vibe. The kitchen is open so you can see the short order chef in rhythm.\n\nThe menu is typical diner food.  I had the western omelette and was satisfied. I do plan to return."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxaDdEcFV3EAE",
+            "text": "I tried calling for delivery the woman picks up the phone and says please hold. Three minutes later I say “hello?” She says she’ll be right with me. Five minutes later still nothing. I say “hello?” Again and I get no response. So poor customer service."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxMDlPOHhBRRAB",
+            "text": "I ordered breakfast for the first time since working in the neighborhood. It was the Spinach, Feta and Tomato omelette, a side of bacon and a small black coffee (no milk or sugar). The total was $12.50 for all of this.\n\nI really appreciated that they reduced the price of the omelette since I did not want the grits, potatoes or toast. I used the savings to order the bacon. The food was good. It tasted as I expected.\n\nI was very pleasantly surprised with the coffee! They use a good brand of what I believe to be Spanish. The one cup was strong enough to keep me going through a very busy day!\n\nI will gladly order from them again and perhaps try lunch."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDODdDajdBRRAB",
+            "text": "Our visit was awesome. Miss Jenica provided excellent customer service. She was prompt with our orders, and checked in on us regularly without “hovering”. The food was very tasty, and the drinks were delicious. She was exceedingly patient with my wife’s indecisiveness and provided thoughtful recommendations to her."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBM0lmY2pBRRAB",
+            "text": "This is a great small diner/ luncheonette. I had the meat platter w. cheese grits. The sage sausage is excellent. They give you lots of food for the price and everything is done quickly. Staff is nice and attentive. Lots of regulars which…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwN3VHdkF3EAE",
+            "text": "The food was awesome, my best brunch in New York.\nThe waitress was very nice with us. And it's not expensive at all, I would say cheap.\nAlso coffee was good, not watered down, and you have the option to have milk with it for free. We had the chocolate pancake tower and my company had French toast with bacon and eggs and added cheese.\nAll for $22. Wish I could go back there."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnbWFhRHVBRRAB",
+            "text": "Great service, great portions, great coffee,  great price. Had the corned beef hash and eggs with toast and home fries. Big plate of really good food. The rye toast was fresh and the butter on it was completely melted. The coffee was really good as well. Keep up the great work!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJdTlTYXNBRRAB",
+            "text": "My family has been eating here for over 40 years. We have experienced the business passed down from one generation to the next and happy to see the staple in our neighborhood is stronger than ever!…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDdVoyU1dnEAE",
+            "text": "Love this diner for their Fried Fish, Eggs & Grits w/Cheese! Have eaten in in the  days and servers were friendly, funny and attentive. Would give 5 stars if they had Steak and Eggs😁…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5MWFMV1VnEAE",
+            "text": "Just what you need on morning shuffle weather headed work to or visiting on a mini vacation. Breakfast is the most important meal of the day and to get your day started this the place and well as in to grab lunch. Food is great and had healthier choices"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNMGZqX0dnEAE",
+            "text": "Diner is in the neighborhood of my work and have been eating here for many years! Staff is friendly, always clean and the food is great!. I tend to be a picky eater and the owner never has a problem accommodating my needs (even if i come off annoying lol)"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLc2NHcU53EAE",
+            "text": "I ordered a banana nut muffin and a \"greek melt\" with no tomato or pickle. I appreciated the fact that I was asked if I wanted my muffin toasted, which resulted in it coming out amazing so thank you for that.\n\nThe greek melt was made as ordered except the description stated at the end it was \"on whole wheat bread\". When I unwrapped my sandwich, it was white bread. By then, I was home over 30 minutes away. I never question my order once I receive it, but if I ever come back here, I guess I'll reiterate the description to confirm 🤷🏽‍♀️"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNOC1TWUx3EAE",
+            "text": "I had as a rare treat....2 over easy....pork sausages and pancakes. Veronica was my  Waitress. She took great care of me.My food was Excellent. I'm going back. ☆☆☆☆☆"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBMnJEVmhBRRAB",
+            "text": "Horrible delivery service. The representative on the phone is screaming \"Hello I can't hear you i cant hear you hello hello hello and doesn't allow me to talk then tell me she is getting fustrated. Then as I get her attention and she then…"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBaVl5YUdBEAE",
+            "text": "I frequent this restaurant the homestyle atmosphere reminds you of a country diner.\nThe witnesses are the greatest annd the prices are great.…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNFN05peG5RRRAB",
+            "text": "Best breakfast sausage I've had in nyc. The server was great cane back lessee than a week after our first trip. Cash only but worth it."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNZzg3OWxBRRAB",
+            "text": "Pleasant, Polite, Clean, & Surprisingly Tasty!  Greek salad isnt made with traditional romaine and red onions. But tasty.  Mixed veggies seem from a bag, but tasty. Tea was good"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvLXVuYmFnEAE",
+            "text": "Normally have no issues with this place. Called to make an order only to be placed on hold for almost ten minutes. When the person returned I was told that the delivery would be about an hour because of high volume. All that being…"
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzNFpPRnJnRRAB",
+            "text": "I'm ashamed of my last review ;( food is STILL the best around and it's more on the healthy side which I love. Not too salty and cooked to perfection. I thought the name change meant quality change, but I was wrong. Glad I'm able to binge…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZbmRYZFhREAE",
+            "text": "Great food. Not a long wait time. They make your order right the first time. You order over medium eggs, that's what you get. You order medium well burger, thats what you get. Fantastic."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDOF96TUZ3EAE",
+            "text": "I’ve been to senor frogs all over North America, but by far this one is the best. The customer service, food quality and over all ambiance is superb. This place is a must visit when you visit the strip."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDMjY3T3JRRRAB",
+            "text": "We ordered 2 omelettes, 2 home fries, 2 cartons of O.J. We received one side of HF and one side of unsalted grits. Laughable for $24 bucks. And no mention of why we needed to enter the establishment when there's a pull-up window on Atlantic Ave. No spoons for the grits either. #Ahahaaa\n\nShoutout to the old establishment/ownership!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNFdTViOEhBEAE",
+            "text": "Been coming here every day for the past two weeks. Only spot to sit and work. Glad I found it because Pat is so warm and inviting in the most old fashioned of ways. Gives the whole place a homely feel."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRNmZHaGdnRRAB",
+            "text": "I go here every week . The staff is great especially the waitress that works here Thursday thru to Saturday shes wonderful. Food is also very good."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3MG9LZmdBRRAB",
+            "text": "Paid $4.50 for a bagel with egg and bacon . This is ridiculous! If you're going to charge me more than the bodega at least make sure your product is worth the money ."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnbGNDMUhnEAE",
+            "text": "Great service by always friendly service staff. It's a tried and true fast service diner. Solid breakfast, great portions, and a great neighborhood vibe."
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzbU1yNUJnEAE",
+            "text": "Very friendly service. The food was delicious and came so quickly. I was on vacation and spoke to Pat who was a lovely waitress. Easy to talk to and very attentive. Thank you Pat!"
+        }
+    ],
+    "reviews_count": 75
+}

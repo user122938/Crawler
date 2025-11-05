@@ -1,0 +1,600 @@
+{
+    "name": "Gino's",
+    "place_id": "ChIJh-vySVpFwokRlqjYXgXa2rg",
+    "grid": "BK10",
+    "address": "7414 5th Ave, Brooklyn, NY 11209, USA",
+    "rating": 4.6,
+    "user_ratings_total": 2307,
+    "phone_number": "(718) 748-1698",
+    "reviews": [
+        {
+            "date": "17시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSQlFWSm5jalJUUms5eE0xWTNhRzVqVDI1T1RFRRAB",
+            "text": "This place is a gem! We got in and sat down for a quick slice and the service was impeccable. Speedy and efficient. Pizza is so good. Don’t pass this place up!"
+        },
+        {
+            "date": "수정일: 6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRMXFlVHZ3RRAB",
+            "text": "Great food  &service can't say enough about this place"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ONWVsQTJUbFUyY1Y4eVgwUlJlSFl6T0d4SVkxRRAB",
+            "text": "For years I’ve been trying to make to try a slice and a square. I rate it a 4 only because I had have better being a native New Yorker. However they do have a great dining area. Next time I’ll have a meal and post a review."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRMi1hY1BREAE",
+            "text": "I've been coming here for years and never get tired of it.  It's a neighborhood mainstay and one that is worth coming to over and over again."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOSk9EbHRUVE5tZWpKNVV5MUlSbmhxUVU5Q2JVRRAB",
+            "text": "Love this place, service is always friendly, food is delicious 😋"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GR1NtNWFTMlZPV25CdWFHVnBSbFpNY21jMGVXYxAB",
+            "text": "Está entre mis top de restaurantes. Es de los restaurantes que siempre quieres volver He comido pasta a la Vodka es  con peas , manicotti y pasta carbonara . Todos  me gustan pero mi favorito es pasta a la  vodka.  Se recomienda b reservar"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKRmRXUnJka2t4VmxScFlYQmpNVVI1ZFhoblNsRRAB",
+            "text": "Great food. Staff was amazing. My first time there and we were treated like we have been going for years. I'm so happy we finally had a chance to enjoy dinner and drinks."
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBdXQtY2ZBEAE",
+            "text": "Great neighborhood dining.\n10/16/25 Great meal. Shrimp cocktail, lasagna, tortoni for dessert. Took out dinner for tomorrow, Manicotti. and let’s not forget the great waiter Eddie."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWUFQwRnJhRVZPUjE5VlduSnBlamhpWldobmNtYxAB",
+            "text": "Eddie, our server, was outstanding!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGdk1YZDRiVlpOU0RVdGRGVjVORTVQUTJkTGVXYxAB",
+            "text": "The osso buco ravioli was way too salty for my taste, everything else is pretty good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZMVRVaFRRbUpSTjA1U2NYZFFiM3BRVVZjeGRsRRAB",
+            "text": "Old school Italian food ❤️❤️❤️"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxcG83c293RRAB",
+            "text": "Great place service is very good food excellent atmosphere music love it highly recommended XOXO 😘…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WWk5YUnJVMVEwVlhCVE5WOTFjelZoVUdkVVNIYxAB",
+            "text": "10/10"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKZlZ6VTBWekZ4YmxSNWJWYzVaRW8xYVZrd01WRRAB",
+            "text": "Beautiful Atmosphere Very Romantic Excellent Food Best Pizza. I Will Absolutely Return."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVdE1rVjZhMHgwTFhsNVpsZ3pabGd4U0VoRlptYxAB",
+            "text": "Been to this place twice for both my birthdays back in 2019 once and 2 years later 2021 again. So 6 years ago I first went and 4 years ago I last went there lol. But overall this place is so good no doubt at all. Outta ten the food and service a straight ten outta ten no doubt at all. Their chicken parmagiana is so good including their calamari which is my no 1 favorite Italian appetizer I “MUST HAVE” whenever going to an Italian restaurant lol. But once again this place straight ten outta ten again and definitely recommend it."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUmIzYzFVbFJEVjBwUWNqTXlOa0l3VW1kSVYwRRAB",
+            "text": "I love to read reviews and see real pics of food and Gino’s did not disappoint!! The food was so flavorful and I was debating between the Filet of Sole but glad I got scallops with the spinach risotto! Tasted amazing and hot out the skillet! The calamari was delightful and I splurged to do a drink and desert! Only hate half of all but the taste that day and leftovers were delicious! Will be back for the Sole! My server was delightful as well. The whole place gave me that “Nonnas” from Netflix vibe."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRdTZqSDBRRRAB",
+            "text": "Eggplant pizza. 1st time was outstanding"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WdFVIaDNRVk5FV1RkdlMwOUdhbTV4Y1ZWTGFGRRAB",
+            "text": "We had pizza slices 4 different toppings.  It wasn’t bad but we weren’t thrilled.  Perhaps their food dishes are better? Certainly their pizza is not."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wbVZtMVJPVTV5TW1Kb1ducENTSFJpTm5ZM1VrRRAB",
+            "text": "I have been coming to this place for 28 years. Frank Nick in Mario, they run the place. The food is great. The great service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25seVJGa3hUR2hXTFhodWNtWTRSRXhVVkRKZlRYYxAB",
+            "text": "Gino’s is everything you want in a classic Brooklyn Italian restaurant. The food was outstanding — I had the baked clams (perfectly seasoned, crispy on top and juicy inside) and a veal parm that was spot-on, cheesy and saucy in the best way. Portions are generous and the flavors taste straight out of an old-school Italian kitchen.\n\nThe service was warm and attentive without being rushed, and the atmosphere feels like family — lively but comfortable. You can tell this place is loved by locals and visitors alike.\n\nDefinitely one of the best meals I’ve had in Bay Ridge, and I’ll be back again for sure. Highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdmEyb3hRMU5RTUVabU16UlROSEkzTkRSblkzYxAB",
+            "text": "I go once a week. It is the best restaurant I've been to in a while. Great food, drinks, and customer service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Zd2VWaFRZbmRzV1ZSck9UUlJNMEpEVUZnMVlVRRAB",
+            "text": "Great food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvNFZrcEVWalZNY0ZoRWFtNTVTMTgyZFhSNE5tYxAB",
+            "text": "I have been going to Ginos when he had only 1 storefront and you had to wait a long time for a table! It is still an awesome restaurant and the food is excellent! I come in from NJ now just to eat there! If I could give them 10 stars, I would"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4TVVVTmFOakZqT1dwSFNubFpkVzl3YzJKTWJWRRAB",
+            "text": "Our family took my mother in law here for her birthday last week. It was the first time in a long time she was able to have her four children, their significant others & all of her grandchildren all together, so we were all looking forward to it. Right off the bat, however, our waiter started to put a damper on our night.\n\nHis introduction to our table was him standing there, while we’re talking to each other asking how we felt about various appetizers (none of us were listening, btw). Turns out he wanted us to opt for the fixed family style menu. When my husband explained to him that all of our tastes are different & we will just be ordering from the menu ala carté he decided from that point on we weren’t worth his time.\n\nI ordered the salmon, he asked me if I wanted it broiled or grilled. When I repeated the options to think about it he cut me off, quickly & rudely said “broiled, ok” & moved on to take my daughter’s order, not even giving me the opportunity to finish with mine.\n\nA couple of times throughout the night we tried to get his attention, but he wouldn’t even look in our direction, passing right by our table to tend to a table right next to us. Even continuing to walk away when called to. The only person that he seemed to respond to was my husband, for some reason, so he would have to order all of our refills & other needs.\n\nAt one point, he brought my sister in law a refill on her drink & instead of standing at the empty end of the table to place it down he opted to stand behind her, leaning over her & reaching his arm out practically in the way of her fork as she was eating from her plate.\n\nIt made sense at the end of the night why he was so rude, because our party was so large his gratuity was already added onto the bill.\n\nI gave the food 3 stars because although it wasn’t bad, it wasn’t that good either. The salmon basically had no flavor. My husband says that’s what I get for ordering seafood at an Italian restaurant, & to be fair, he’s probably right, but I’ve had great salmon at Italian restaurants before. I would think a place that is supposed to be as good as Gino’s is supposed to be should be able to make salmon with at least some flavor, or at least take it off the menu 🤷🏻‍♀️"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jdFJIaGxkV3d3WDJGRlFtZG5PVXRQY0Y5YVFtYxAB",
+            "text": "Siempre será mi favorito."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sU1MxVTFNM2w2VHpsbFkzUlBNVGxRTkc1T2NFRRAB",
+            "text": "This place is the best. I love everyone in this place from the cleaners to the waiters to the Cooke. The oil are great always treat me with the upmost respect they greet you every single time no matter what they never messed up anything on my food their bathroom is always clean. lol There’s no complaints. I mean none whatsoever. Everyone here does a good job high five to everybody."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDeDk3aHlRRRAB",
+            "text": "Great pizza"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kblptRk1jR00wVnpaclZEVklOVWRVV1ZVM1lsRRAB",
+            "text": "Favorite restaurant in all of Brooklyn. My family has been coming here for years"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aMmRYVkxWMDVmVFc5MGNUQkthakZHTjJkNFpsRRAB",
+            "text": "This was my favorite restaurant in Brooklyn, Grilled chicken pasta peas 🫛 vodka sos 😋  my wife is trying her best to copy your dish 😋  you should just tell me the recipe 😋 I'm not going to sell it or tell anyone pinky promise 😋"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGTmVUWTVOVWRGTlZVMWVtWnJSVUpHUjIxQ2FXYxAB",
+            "text": "This place hands down has the best penne vodka I've ever tasted pretty much everything I eat here it's good. You can't go wrong we're going to Gino's"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nMU16RkhibFZST0dwVGMwcHBVMFJ3WWpkcldGRRAB",
+            "text": "i have not been to ginos in a while, tho in my mind im there daily, the food is as comforting as sitting in your grandmas kitchen knowing your about to be served a home cooked warm and yummy meal that no matter what will never disappoint.  have my go to penne vodka order here and i havent found a penne vodka that beats this anywhere in nyc, i may be biased but it is what it is. always a pleasure to come down to this establishment! hope to head back soon."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxb1RrcE1ibEZsTTA4NVkxZG5hR2hZUzBwVVZXYxAB",
+            "text": "Delicious Italian food at an affordable price.\n\nGood service and atmosphere.\n\nHas an attached pizzeria if you want a quick bite to go.\n\nHighly recommend."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLdXVuSDJBRRAB",
+            "text": "As always great food awesome staff.\n\nJuly   16,2025\nwe were at your establishment today and I have to say for the first time in the many many many many  many years that I have come to your restaurant I was disappointed. The service was not on point they never came to check on us to see if everything was okay. If I had the pasta with broccoli rabe and sausage and it was extremely oily no other flavor but oil. I ended up taking the juice from my husband's dish."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKSk5ESnNVMngwUzFSdU5ETTFNM0F4ZG1oeFluYxAB",
+            "text": "Awesome service. The bartender, Nano is the best! Delicious and satisfying food. Tasty cocktails. I want to try the White Chocolate martini next time."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNdE5VRmhSMHhWWTJkcmVrbHNhbVJHTVMxQlRIYxAB",
+            "text": "Great for family dinners. I've been coming here for over 25 years. Always a good time."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjM1pXdG9iMjVIVGpJNWRYQXdNVXhFTlhveU1tYxAB",
+            "text": "Great food definitely making reservations next time"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSUVNHbHFSRXhmVW5BdE5FNUliM1JCTVdKdlVVRRAB",
+            "text": "Tasty Garlic Knots\n\nPizza was okay"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1MGQtcVR3EAE",
+            "text": "This was great  lunch.  ZUPPA DE Mussels . Chicken Parmagian 🐔 Shrimp oreganata . GREAT dessert cappuccino.  Was so happy stayed local  fast easy great 👍  . They had   great party too,  good place for it there  . Good options  setup nice 👍 👌.  We planned get together allready ! Thank you well done"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsaVEwSmlZWE5LVm1Kd1IxTkxkalpVZG1Ob1lrRRAB",
+            "text": "Excellent place in all aspects"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OM2JVVTNSVTlGUkZkMFpXVnFNbkpsZW5oR1QyYxAB",
+            "text": "Great experience at Gino’s - happy to have an authentic spot in the neighborhood!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZMlNFRktZbmhwYzJadmVIbzFObTVJVERaeVFXYxAB",
+            "text": "Great food and atmosphere. Very friendly"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210b2FtTkVXRWhpU1hCaVVVZHpiMlpGTUVkMWNFRRAB",
+            "text": "Had a bridal shower here, and the staff was Awesome. The food was very good."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WRFRHZFRaemx4Wm5WZlZFMDJWbVpGTFdaWVRYYxAB",
+            "text": "I’ve ordered delivery about 10 times over the last few years and I’ve had mixed experiences. I’ve gotten Sunday sauce with 1 piece of meat and then another Sunday months before I got plenty of meat. So it just varies. Most of the time it is delicious and great food with large portions."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4Q2VqVkVNblkyUm1SV1JXSk1kR0ZDTkdkUlpWRRAB",
+            "text": "Food was great, felt a little rushed after finishing but it was a Friday night. Very loud. Minor negatives, would definitely go again."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWbmRsQnZWME4zYkRSd01VZzFWMXAzYlU4dFIxRRAB",
+            "text": "Excellent food"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSVWMwNDJTbFZaT1VkMGRpMXpZMkZDU2tWVE9IYxAB",
+            "text": "It's always busy, if you're more than 2 make a reservation.  If not it's a lil wait, but the drinks are good at the bar. Another plus is they have valet service for the car."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KVVNHdHBMVUZuYzNCSFQyNDBZVlZZWVZveFIzYxAB",
+            "text": "We had a family style dinner for my grandson's confirmation.  The food was delicious and plentiful.  We started with a green salad and shrimp with white beans.  The pasta was orrichitti with sausage and broccoli rabe and ziti with vodka sauce.  Both were delicious. Then came the chicken Francese, chicken parmigiana. String beans, potatoes and t-bone steak! White and red wine too.\nSimply delicious. Sorry there are no photos. We were all into the food ."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVVQwSjVSMkUxZUZkRlZUbHpORkJOUlRWSGJsRRAB",
+            "text": "Always excellent. Worth the drive to Brooklyn"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taQlRtUlpMVlZSV2tOaFdYaEJOR2swZVZZeGVYYxAB",
+            "text": "Gino's Numero uno. Love the food."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOZl9qOUxxOTlyM3p3RRAB",
+            "text": "We ate here with my wife and kids. Everything was good. The best thing was the bread 🍞 with the oil. But we were struggling with phone payments. So we had to use cash."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPekM4WTNfbGV5eFRnEAE",
+            "text": "Gino’s is a well-established restaurant in Bay Ridge, renowned for its authentic classic Italian cuisine. As a popular dining destination, reservations may be advisable due to potential wait times, but the exceptional quality of the food makes it well worth the wait. The creamy penne vodka, in particular, was a standout dish."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3cDhDaUdnEAE",
+            "text": "The Italian restaurant is located in the Bay Ridge section of Brooklyn.   I have dined at with family and ordered takeout for several years.  I ordered pizza and it was good.  The side order of meatballs were two average size meatballs that were firm.  The meatballs were very salty and disappointing.  The eggplant parmigiana hero was on soft bread and was average.  The whole wheat pasta with artichoke and peppers was also disappointing.   Very little vegetables, the asparagus pieces were chewy and the dish was salty.  I arrived to pickup my order and all this food which totalled over $50 was placed in to small shopping bags.  Several loose pieces of bread were thrown in and not very tempting to eat.   I drove home and the bag with my pasta was upside down and the oil dripping everywhere you could imagine.  I would strongly urge the restaurant to place large orders in pizza boxes like other Italian restaurant restaurants and pizzerias.  I would also suggest including some utensils and napkins for a large order or ask the customer and include this as an option when placing an online order."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJWENyT3FScVozNnlBRRAB",
+            "text": "Every staff here is so welcoming. I love the atmosphere, special thanks to Romeo. I will come back again"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIOTdfdkpREAE",
+            "text": "We dropped by Gino’s with a party of five for my little brother’s birthday. I made a reservation a couple days ahead and had been looking forward to this experience. If you plan to come for dinner I recommend making a reservation as Gino’s can get pretty busy. We really enjoyed the grilled pizza, rigatoni, and chicken rollatine. The pizza with mushrooms and arugula was an amazing combo, with each flavor complementing the other. The rollatine came with an amazing sauce and loved the mushrooms. The pasta was cooked to absolute perfection.\n\nNow for a few negatives. The veal medallions didn’t really work for me flavor wise, the medallions were a bit tough and the eggplant just didn’t work well with the sauce. The crème brûlée was too sweet, I highly recommend getting the tiramisu instead.\n\nOverall we had an amazing experience and loved how friendly and lively the atmosphere was. I highly recommend dropping by if you are looking for a good Italian spot in Bay Ridge."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqNE9qSEFnEAE",
+            "text": "Such a lovely experience! I was walking, looking for a place to grab a quick bite, and found this restaurant. It looked so good (also, Italian food 🤌) that I decided to come inside. The music playing was so good! On a Tuesday at 12 pm it wasn't crowded. All of the staff was really nice.\nI ordered a delicious peach cocktail 🍸 that was amazing, it was $14. They brought amazing and warm bread with some olive oil, balsamic vinegar, and herbs, free of charge. That might have been my favorite part. Then I ordered the meatballs (appetizer), $8. It was a pretty good serving for one person. Between that and the bread, I was full. But I decided to order some dessert. I went for the chocolate mousse ($7) and I have no regrets. So delicious! Overall, a great experience!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyNnBYblpnEAE",
+            "text": "I don't know how I've never eaten at Gino's but today my husband and I brought my father here for his (belated) 80th birthday. We all enjoyed our meals! My husband and I were able to eat vegetarian pasta dishes.. I removed the sausage from the rigatoni with eggplant and it was delicious! The fried zucchini is really really GOOD too! The service was efficient and able to accommodate my father with his walker. There is a large ADA restroom and no step to enter the restaurant."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkdU42OUlBEAE",
+            "text": "Food is consistently Delicious! Service Is outstanding. Place is always crowded, but exceptionally well run. They do as great of a job with parties and holiday take out."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6a3BPbUlBEAE",
+            "text": "The fried calamari and pizza are the must try. Pasta is a bit salty. We love the valet parking. Overall experience is great and price is pretty affordable. Will definitely go back."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2b01DYV93RRAB",
+            "text": "Gino's was packed the Friday night I went to dinner, however, the service was speedy and excellent. The wait was very little for food and drinks. The food was delicious and flavorful. Would recommend"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoeklqbWFnEAE",
+            "text": "Had a really bad stomachache after my dinner… the food wasn’t bad, it just wasn’t worth the price. $20 for a plate of pasta, I expected it to taste better. Maybe I just ordered a bad one. My friends liked theirs. The calamari could be a bigger portion considering it’s like $17…however the busser was amazing. Super friendly and great service! Waiter must’ve had a long day because he did not smile or seem happy serving us at all…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYejhqV2ZnEAE",
+            "text": "My experience from making a reservation, the staff, food presentation, desserts was EXCEPTIONAL! Let’s start here. THE SPECIALS. Read them. Fantastic! If they don’t spark for you, go with the signature dishes, shrimp and beans. Penne with the escarole and breadcrumbs. (If you want gluten free - TELL THEM) the grilled chicken marinade with string beans or broccoli rape. WHATEVER. THERE IS NEVER A BAD MEAL THERE. Desserts. Afogato! A MUST. Tiramisu. Beautiful. The drinks….Amazing. Thank you GINOS FAMILY!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCczlQaHBRRRAB",
+            "text": "Gino’s is everything you want in a classic Italian restaurant. Everything was delicious, service was great, and we had a wonderful time. Wednesdays are 20% off which is even more wonderful. Wine prices are reasonable at $9-11 a glass with generous pours (thank you!!). We ordered a Caesar salad and the soup special (crab corn bisque) to start and said we were going to split it, so they split it for us before bringing to the table— SO NICE!! The chicken park and veal medallions were great, and the espresso to end the meal was delicious. We only wished we had room for dessert. Highly recommend this spot!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwNzdpUzRBRRAB",
+            "text": "We were visiting Brooklyn with some local friends and recommended this Italian restaurant…it was amazing!! The food was delicious, I ordered an Apperol Spritz, Vodka pasta and meatballs. My friend ordered a tiramisu for dessert. We all had a great time at this place!! Our waiter was so attentive and helpful."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzeWZiZmJREAE",
+            "text": "It should be a five star - but have to return to compare... came Saturday at 8pm - waited about half an hour - not bad for not having a reservation. They also sell walk up window pizza by the slice- as we waited we had a couple of slices <…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1OWNfaThnRRAB",
+            "text": "I come here very often. Wonderful restaurant, great atmosphere. Waitstaff is always friendly and quick. Get a table in the back/outside area if you can!\n\nHighly recommend the rigatoni with fresh mozzarella tomato and basil. The gnocchi is good too, but the rigatoni is better. The caesar salad was amazing, perfect dressing (not too lemony). Shirley temples were perfect too.\n\nGino’s is consistently 10/10. You won’t be disappointed."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQZWwtcWlEeGJ2dkR3EAE",
+            "text": "We had a bridal shower for my daughter at Gino's on 5/4. We were so impressed by the food and service! My husband is a retired chef and has done many functions. He was blown away by how efficient, organized, responsive, and friendly the staff was and so was I. Nick, our main server, was such a calm, helpful and skilled professional. The pacing of the meal was perfect and the food, as always at Gino's, was delicious. Everything came out steaming hot and delicious. Oh, that hot antipasto is the best! Kudos to the event planner Emily, too. Although she wasn't present on the day of the event, she communicated all of my requests to the restaurant and everything was ready and set up just as I had asked for it, with the small exception of the placement of a table in the dining room for a small group of the husbands. When we arrived, their table was at the edge of our private room but once I asked that it be moved to the dining room so we could close the doors to the private room, I was quickly accommodated. We're so happy we selected Gino's for our event and would certainly do so again in the future."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREc2ZxeC13RRAB",
+            "text": "The salad and the cocktail were the only things I didn’t took a photo, and were the only things I liked… The veal, the chicken rolatini and the boneless chicken were meh at best. The potatoes on the side were absolutely disgusting, they had a strange taste to them, probably due to the place they were stored or maybe where they were cooked was not completely out of soap… The lights are too bright, but the restroom and the music are good… It wasn’t the worst experience of my life but Im not compelled to come back…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqd0l1dC1nRRAB",
+            "text": "Beautiful place but super crowded. It has a family atmosphere. Almost like you are in a movie. Food was delicious and service was good"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCOE1pRVZREAE",
+            "text": "Came here for my friend's birthday yesterday and was pleasantly surprised. The decor is sleek and modern, it wasn’t decorated like a traditional Italian restaurant. The workers were smiling and very much helpful. The patrons in the restaurant did make a couple of my friends feel uncomfortable with consistent staring.\n\nWe had a pre-fixed lunch/dinner. Ginos has a big back room for large parties and we were seated there. I got a glance at their backyard area and it was nicely decorated. There was a bit of a wait for the drinks and the appetizers, and I think it's because they were waiting for the rest of the party to show. A couple of us had to return some glasses due totem being dirty, when given new ones, they were quite clean. In regards to the drinks, we had Pepsi, Ginger Ale, and white and red wine. I stuck to the Pinot Giorgio that was served, and it was pretty decent.  The only thing I would’ve done is kept all the wine white, but I understand for different pallets they have to offer both. For the appetizers. we had baked clams, salad, tomatoes and ricotta cheese, and calamari. Everything was pretty decent, but the salad stood out. The dressing was light and flavorful and the veggies were fresh.\n\nAt Gino's, they bring everything in courses, so next was pasta. They serve their plates family style, so we had Penne Alla Vodka and the Rigatoni. They were both delicious and the plates were gone in a matter of seconds.  Portion-wise, I think the sizes were a bit on the smaller side. The final course before dessert was meat/seafood. There was salmon, chicken parmesan, and veal. I’m not a fan of veal, so I didn’t try it, but the Salmon was decent, and the Chicken Parm was the star. It was so good that we had to ask for more Penne to go with it. There were also green beans & potatoes. I was saving the 0.25% left for dessert, so I didn't indulge.  Finally, we sang happy birthday and had our dessert. I liked that they gave everyone different pieces of cake on these platters and got to choose what we wanted. The chocolate cake I had was great very tasty.\n\nOverall, it was a good experience, and I would recommend this place for a birthday dinner or even a lunch or dinner date. I left there full and already am thinking about coming back for the Penne and the Parm!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNajZiTTdBRRAB",
+            "text": "We had a birthday party for a group of ten and the place was packed, at 5pm on a Saturday. The service was attentive and impeccable, especially considering the popularity. Special requests were granted, drinks were flowing, and the food was…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxcElQTjNBRRAB",
+            "text": "First time here. Visiting from California.  Place was active so plan ahead and make a reservation.  First impressions were, clean, staff is extremely professional and courteous  and atmosphere was very good.  You can dine inside or out. I opted for out so I can people watch.  Ordered some appetizers and cold brews.  It was excellent.   The food was fantastic and everything came out as expected.   Our server was spot on!  Food can be a bit on pricy side but.....yiu get what you pay for.  I would recommend this place if you're looking for a good Italian meal. I will return!"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBdWZ1OG53RRAB",
+            "text": "Really good food, wish the service was a little better overall it was very accommodating. I would definitely come here again. One of the best Italian spots in bk. Update 11/23/2021 - amazing experience loved the vibes and the food. Definitely recommend coming here with your family."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtaC1YNkd3EAE",
+            "text": "Overall a decent meal. Out of the 3 dishes ordered, I’ve had better vodka pasta. Chicken parmigiana was good & the tiramisu didn’t disappoint at all!\nId come back again to try some of the starters and another entree."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBZ2J5bWhnRRAB",
+            "text": "This time, I had broiled sole oreganata, perfectly cooked. For dessert, a special berries napoleon, light and delicious. The service is always very attentive.\n\nLast time, I had a delicious arugula salad with Israeli couscous and grilled chicken."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNveVpXNzlBRRAB",
+            "text": "Blue on Richmond Terrace is the best. Have been going there for about 10 years now love the place and love the staff. The food never disappoints. I’ve made it a habit to always go for my birthday and hop in from time to time. They make a killer fried calamari. A bit pricey but totally worth it. Plus it’s on the water so it’s always fun to watch the container ships and tugs pass on by. I wish I could give this place a higher rating than 5. It deserves it. Everyone should experience the ambiance of Blue."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtaC1tc093EAE",
+            "text": "Wish I could give it 10 stars. Food and service was top of the line and perfect quality. Came with my partner and we ordered calamari, soup, chicken vodka pasta, and all three desserts because I couldn’t decide which one I actually wanted. We sat outside and it was the best experience I had in a long time. Even the bread and butter and olive oil is good. Would come here again."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtdmRHZFFnEAE",
+            "text": "Celebrate our anniversary with my BF\nHe ordered the wine for us\nThe seafood here was so good\nVery authentic Italian restaurant and lovely decorations\nPrice was very reasonable\n😊we always eating food here . Service so good 😊"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtdm92eXFBRRAB",
+            "text": "Place wasn't busy and I must say service was below par. Great place. Good food ,good Atmosphere.  Alittle disappointed because I know its a better place than this visit. Food was good , only thing that saves this review from being a 2 star.  31/2 at best ."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZbUwyVTVnRRAB",
+            "text": "The calamari was absolutely perfect—crispy and flavorful. I also really enjoyed the fettuccine Alfredo, which was creamy and well-balanced. Unfortunately, the gnocchi didn’t meet expectations and lacked flavor, which is why I’m giving 4…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTNWNtMnN3RRAB",
+            "text": "I had my very first lunch at Gino's today after seeing so many recommendations on Facebook about this place. I can't believe I haven't tried this place sooner. Everything from the service to food was fan-freaking-tastic! They provide…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPenU2NHFBRRAB",
+            "text": "Visiting family in Brooklyn we visited Gino's. The food is excelent. The staff is friendy. Our waiter was very profesional and friendly. He gave us time to look at the menu, answered questions all with a smile that made you feel at home. We will sure keep visiting this place with the family. A+"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwaWNyUU9REAE",
+            "text": "Not worth it food was horrible. Way undercooked pasta it was hard and chewy. The stuffed clams were a little bigger than quarters and tasteless. Why were there bow tie pasta mixed in the linguine. The Chicken was hard and chewy. And they…"
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3cDRYWUF3EAE",
+            "text": "We've been going to Gino's for 34 years. The food and the dining experience was excellent as always. I had my usual, chicken francese which I think is the best anywhere! Everything from the entrees to the pasta to the desserts was just outstanding. Will continue to be a regular customer."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDcTYyUndBRRAB",
+            "text": "Tonight was AMAZING it started with the host getting us a reservation last minute on a Saturday!!! And then MIRANDA and the serving staff made us feel like we were regulars from Brooklyn. If you’re ever in the area and want GREAT Italian food GINOS is the place!! Thanks y’all!!"
+        }
+    ],
+    "reviews_count": 84
+}

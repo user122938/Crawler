@@ -1,0 +1,572 @@
+{
+    "name": "Ix Restaurant",
+    "place_id": "ChIJJbl25BJbwokRTVCq-iTcnp8",
+    "grid": "BK9",
+    "address": "43 Lincoln Rd, Brooklyn, NY 11225, USA",
+    "rating": 4.7,
+    "user_ratings_total": 983,
+    "phone_number": "(347) 533-6920",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WamRUVnhTbnBCVlhwTE5WZGhhbVZJTURWWVJuYxAB",
+            "text": "Top restaurant. Het eten is zo smaakvol. En de mensen zo aardig. We komen hier elk jaar na de marathon."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNMFNsOVpiRWd3UzFVMWFtUlRVRmxZUmxSalRWRRAB",
+            "text": "cool spot but be aware that even if you order food/coffee, they don't allow you to sit and eat your lunch."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21adlJYQkRSVzkxVXpsSU1sOW5NMkpEUVdGNGVVRRAB",
+            "text": "Authentic Guatemalan food! Fast and friendly service. I highly recommend the pepian!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OV09FdHVNMHRHYzB4NlNuSkdSMHBzZDA1RFlXYxAB",
+            "text": "Not sure about the food, but 4.90 for a small hot coffee is crazy"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4d1VTMWtSVVZxWWxOUk1qVnlURTFWUmtOTlEzYxAB",
+            "text": "Best hot chocolate ever!! I always get the shrimp, rice, and chipilin soup :)"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205NVFUZEphR3RzZHpOVmJIcGpiR0ZJV0hkUE1GRRAB",
+            "text": "Amazing food and drinks, cozy vibe, great for people watching and incredibly warm and friendly service!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsNFJuVTFTRFF6YWtSSFlWRllVMGszT0cwMWNXYxAB",
+            "text": "Our favorite place to eat out in the neighborhood. Their soups are exquisite and the service is always excellent!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsRmFuaHJVRGN3TkdSV1FYVkJOV05PV0Y5bWVGRRAB",
+            "text": "Best Tres leches in Brooklyn I’ve tried so far."
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tORGJWaHFiM2w1VjFObGVqWnJZMjlEVnpGTFpWRRAB",
+            "text": "Una atencion de Calidad un Cafe exquisito y un local de Primera. Su decoracion colorida hace un ambience de tranquilidad unico en la Zona Felicitaciones 5✨"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSWFRqRnFRakJPVFZKVlZuZDFUMkpzTW00MFdXYxAB",
+            "text": "One of my favorite restaurants in Brooklyn. Delicious food and great service always. They also have live music sometimes!\n\nThe carrot soup is one of my go-to orders, along with the rosemary cacao drink. The goat cheese omelette is also super yummy and filling.\n\nI’m Mayan from my mom’s side, so this cuisine and decor always makes me feel close to my late grandmother, and is total comfort food. Love this place"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200MlFqQkpMVzh3V1VwYVFuZHZOMGN4WWpsRGVuYxAB",
+            "text": "Authentic, delicious, affordable, friendly, all in one❤️🧿🙏🏽"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWlNXZHlkRFZRUVhkNWVFSmpaMXBaZFMxR09YYxAB",
+            "text": "Guatemalan resident here. This place is the real deal."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aUVowaEZNMHhXU21kSmFGOXJWR3N6YjJGamJsRRAB",
+            "text": "INCREDIBLE soup!! Love this place. The Jacon is amazing.\nThe chili oil is SO good, you have to get the chili oil."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VNVJETmxVa3BzWkcxaWFTMU1WWGhMUkV0eldVRRAB",
+            "text": "I’ve been coming here for years and it’s one of my favorite restaurants in NYC. 🙂 I recommend the queso derritido, caldo ix and jocon. Oh, and don’t forget the hot chocolate! Cocktails are great too 😄 If you’re lucky there will be live music."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KUFZuTlpZVU51WlhOUWFuRnNibUphTkhCeWNXYxAB",
+            "text": "Food is great, coffee is great. All baristas are friendly and welcoming. Highly recommend any of their croissants."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtdFpuVEdnEAE",
+            "text": "The Jocon (WOW) and Pepian (YUM) never disappoint."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tveFFXbEZRWFIxVURCd1gzVlplRFJxV21KTFlWRRAB",
+            "text": "Amazing food and great service. A bit expensive but overall everything was great."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vdGVVdElMVWxNYld0WFUwTmhOV05TUVMxa2VsRRAB",
+            "text": "a banger"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pacVQxUlpWRGt3TkROSlVGaDZjazUwVVdNd1RHYxAB",
+            "text": "Authentic, good prices, great service, fantastic food"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SWWExZzJOME5yTFVsb09FeEtaRlZtUlZkc2IyYxAB",
+            "text": "Buen servicio"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0NVZ6UktRMGxrYTNkcFIyZDZUSFpQU0hWYVQyYxAB",
+            "text": "Mexican approved 😌 I ordered caldo tlalpeño and it was delicious, freshly made totopos and beans are as delicious as in Mexico 😋. Portions are generous!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SV2RtZzBRM2gzT0ZSTmFIUlJNbUZQU0RkeVYwRRAB",
+            "text": "I have been in this restaurant twice and the food is always tasty! 😋 They give you a complimentary appetizer with mole and nachos, the portions are generous and the flavors are just right! I had the mimosa with Pina Colada it’s cute and goes well with the sauce. The only suggestion is to get a better A/C system I was sweating 😓"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSRGFrcHNXRlpYTFRaRlp6bFlObGcwUW5SM1MyYxAB",
+            "text": "Good food, live music too (wha?) That was a treat. Had to wait 10 minutes for a waitress and they were not busy."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGZlprVnZVREY0V1U1cmNFaEVTakl5ZDJ0eFMyYxAB",
+            "text": "The best! Excellent omelets."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWWVqQm9NREExVFU1UWJuUnVaR1JWWWxseFgzYxAB",
+            "text": "Ix brings Guatemalan flavors to NY. The chef does a great job on the stew dishes that have great flavor. I had the pepian stew and the shrimp sliders. Both were delicious.\n\nThe place is a little small. But you can often see artists perform here in weekend nights."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkWU4wZ3hWbkUzYlU5TGFGVnpTRlpMU0d0RGMzYxAB",
+            "text": "Food is tasty, portions are big, and service is great.\nHint: Don't get this Guatemalan place confused with its Mexican neighbor right next door."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210WE1sTnVPVFpzWVZoWVEwc3pkR2huTUdrM2FtYxAB",
+            "text": "Love their hot fig appetizer. Great sandwiches & breakfast menu, and the service is good. They have free live music Saturday nights too!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214RVRtMVpkVVZpTm01U09UWnlUbXRuU3pKNVVsRRAB",
+            "text": "Loved the artwork on the walls a d I appreciated that the menu was in English and Spanish.  The meal was delicious!! So happy I tried this restaurant."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CMmJtVlhOSE5oYVMxd01taFVka3RYV2pSU1MyYxAB",
+            "text": "My frozen guava lime drink was spectacular and the family style half chicken had incredibly seasoning"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paUFFrTXpORVJrYkhaeU1rVjFaVjg0TFdndGNYYxAB",
+            "text": "Yummy hot chocolate with rosemary and cardamom!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kdE9IcEZhVVZQWmxrNWVVVlJhblpTUjFveVYxRRAB",
+            "text": "There’s very little the champurrado can’t fix, and the melted cheese with tortillas and jalapeño is insanely delicious and unfortunately worth every penny."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOSGJ6RkRibkpDTUhOcGJtTm5Va2hUVWxod2VXYxAB",
+            "text": "Muy buen servicio, demasiado bueno. Música a volumen perfecto y muy buena también. La comida fue muy rica, con muchísimo sabor. 20/20 todo muy bueno.\n\nGood service, really hood. Music with the perfect volume and really good. The food was awesome, super tasty. 20/20 everything really good."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWYWExZHdaMkk0T1RGYVlYbGlXalkyVG5OdFZrRRAB",
+            "text": "I never write bad reviews but the soup here (caldo ix) was atrocious and i don’t understand how any chef could serve it. the chicken was so dry and old that i couldn’t chew it. i wouldn’t give it to my cat. the corn on the cob was total mush- a texture i’ve never encountered before- even the potatoes tasted bad with poor texture, which is pretty hard to do in a soup. the broth had no flavor. no depth- it was all just totally gross. i was really hungry and still couldn’t eat it. It tasted like something you’d get in prison. I don’t get what the great reviews are about but it definitely can’t be the soup. it’s really frustrating to pay $20 for a dish with such poor ingredients and prepared without any love or quality. i hope the chef will see this and make improvements. If you have a restaurant it is necessary to serve good food otherwise what are you doing? please put some care into what you are offering."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aVVRsTjRhR3RrUW1GTWFYSm9UMDU2UXpWR01sRRAB",
+            "text": "I recently had brunch at Ix Restaurant, and it was such a great experience. The Guatemalan-inspired dishes were bursting with flavor—I especially loved the pepian and the fresh house-made tortillas. The coffee was rich and smooth, and the cozy, colorful vibe made the whole place feel warm and welcoming. Friendly service and a laid-back atmosphere made it a spot I’ll definitely return to. A true neighborhood gem!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMGVtWlRUSFZCVmpkMlkxcERVVTFhY2t4UmFWRRAB",
+            "text": "The staff were really friendly and welcoming from the start. They surprised us with a generous plate of nachos to start — a lovely unexpected bonus. Portions were big, prices very reasonable, and the terrace was a pleasant spot to enjoy our meal.\n\nWe’d never tried Guatemalan food before, but it quickly became a favourite. Tasty, satisfying, and honestly, we left completely full without breaking the bank. Highly recommended if you want something new and delicious."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGVk5IUlJOVXB6ZEdveVZtUndhR3RrU1hKTVdGRRAB",
+            "text": "Some of the best!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aUldHaDJWMlZYZERSR2FrRlRSVFV0VVhwNVprRRAB",
+            "text": "Been coming here for years, great place to eat outdoors and enjoy Guatemalan-Mayan-American fusion food. Excellent drinks of all types too!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0NlVUQnVibnA0V2tNeVR6TTRNV0pEUmxKcFZIYxAB",
+            "text": "Tasty food that makes you feel good and with good portions! The decor is also great."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZNVIxUTBjVWRDU2xjelQwNW5URkkzUm13eFozYxAB",
+            "text": "Amazing place for a family dinner. The staff was very friendly and the portions were generous."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2preWFrWmhhWEo0YTBobGIzWk9ORmxPU0dVeVluYxAB",
+            "text": "Delicious and diverse menu offerings all day. Good drinks. Live music on Saturdays 7-9pm"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxWmRWaHNaMm8yUkVKNlFYcFdNR1ZRVlVwSWNHYxAB",
+            "text": "Ayer domingo fui a este Restaurante, todo muy bien, la comida y el servicio, lo que MOLESTA del Restaurant es lo caliente que está adentro, NO SIRVE SU AIRE ACONDICIONADO. Es insoportable comer así.\nEspero que ala próxima que vuelva ya tengan Aire acondicionado."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSdmNEaFdhMUZvYjBOVFRsYzRVV1JyUzBNMlQxRRAB",
+            "text": "One of my absolute favorite spots — it feels like a second home! The food? Always super fresh and packed with flavor. The vibe is amazing live music, tasty national drinks, and seriously awesome customer service. And here’s a little secret… they actually have a secret menu! I love ordering from it; it’s like unlocking bonus levels of delicious, authentic Guatemalan flavors. Every time I go, it’s a fun and tasty adventure. Can’t wait for my next visit!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQR004NXJNellHNHVnRRAB",
+            "text": "Pepian stew was 10/10! Super rich and filling and flavorful. Staff was great. We ordered one stew to split and they split it for us. There was a really nice not too loud live band playing as well. Great lighting"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwbU9XdGZka3hPUjA5UWJrMDJaMmRRVFdaa2JtYxAB",
+            "text": "I was in the neighborhood and was looking for a place where I can sit to drink and eat something. The bartender took a few minutes till she got my order. I went with baby ribs with black beans and rice&green beans and I can say that I was pretty disappointed. The ribs were drowning in the bbq sauce which I really dislike this. I also had to eat separate the ribs and the beans since I didn’t feel like a good taste. I did not like the rice. Nobody asked me how I was doing, if I liked my food or if I want another drink. After I finished my food, the plates were sitting there and I was totally ignored. Other bartenders/ servers don’t look at you and the person who took my order was busy with an order on the computer God knows what. Someone else pre bus the plates. Since it’s Brooklyn probably the service here is expected to be too low."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLR3l6Nkt6NmJ5SGdBRRAB",
+            "text": "I got the number 1 sandwich, Jacon stew, goat cheese + dates omelette, and ice cream hot chocolate. Everything is very good. Especially how much veggies there was and the taste, just delicious. The green sauce they had on the side was very good as well, a little spicy so be careful.\n\nThe atmosphere is really interesting, lots of cool decor and very clean. The price was good as well, especially given the big portions"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNUHhzcmkyOWN5bmdRRRAB",
+            "text": "Got coffee here for the first time this morning. Berto made my latte and was very friendly! Haven’t even took a sip of the latte yet, but will be back just for Berto service. Need more customer service like this."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBdklTdnNRRRAB",
+            "text": "Amazing food. Will return and update this review once I've tried ALL THE THINGS.\n\n*Have definitely tried all the things at this point a googolplex times over. Never disappoints."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLNkloZHpHNTYyTXVBRRAB",
+            "text": "Walked in on Memorial Day with my toddler and another adult and did not have to wait long for a table, even though they were very busy. The food was so delicious and the service was friendly. The food felt homemade and the ambiance was festive. I hadn't had Guatemalan food before and Ix has now set the bar very high. Can't wait to go back and try more dishes."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMWDRtY2lEOElDSUFnEAE",
+            "text": "Great Costa Rican restaurant in Brooklyn.  Hot honey figs appetizer was awesome, lovely waitress and bartender made you feel rights at home."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMU1d5S0dNcVlxeDJRRRAB",
+            "text": "Amazing local spot that I’ve visited many times. Chill, cozy vibes. Great food and great service. GET THE HOT CHOCOLATE!"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwOUxLNF9nRRAB",
+            "text": "최고"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzaGMtRVNBEAE",
+            "text": "Pepian soup was 4 out of 5, besides the great flavor and taste that I was getting from each ingredient I couldn't stop tasting the bitter note at the end of each spoonful, perhaps too much cinnamon was added.\nThe sandwich veg, egg, and cheese was 4.8 - when I held the sandwich, the bottom bun was soggy but the flavor was very good.\nThe salad served with the sandwich was a 5. Simple, flavorful and pleasant smell.\nThe best part was me and my partner planned to divide our food when we got it, but we received two separate dishes, each had a small sandwich and bowl of soup, I was so excited! Top tier customer service."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZMGIzTlBBEAE",
+            "text": "As a Guatemalan, I love that I found a real authentic spot that serves food that reminds me of home. Delicious food, drinks are phenomenal, the art is beautiful showing off the culture of our country, service is great, what more can you ask for."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQbnI2RWtRRRAB",
+            "text": "Great rice and beans! The ribs were savory and the Guava drink was so refreshing. Highly recommended! Don't forget to ask for the Hot Chocolate before you leave!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURINHVqcjV3RRAB",
+            "text": "I think this might be my favorite restaurant in the city. The service is wonderful, the food is so good- the vegetarian options as well. I rarely have room for dessert but this place is worth a stop by during the day for the hot chocolate and dessert and a separate return for dinner because it's fantastic and substantial. The art, ambiance, and music make for a wonderful experience. I learned they have live music on Saturdays and few other occasions as well. 10/10 zingy salad is so good and I usually go for a soup!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaanE2SmNREAE",
+            "text": "Ix is definitely one of my top picks in Brooklyn. I've been here so many times because their soups are like comfort food for my soul. The broth has such depth, and the portions are always generous. Don't forget to try their toasted chili oil; it really elevates the flavors."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRNTVXMGRBEAE",
+            "text": "Beautiful beautiful place! 100% recommended. Their food is amazing. Please try the hot figs is soooo good! The service was great! Support local businesses! Also they had live music ❤️"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1dmFuWjl3RRAB",
+            "text": "Amazing Guatemalan food! Loved it here! Great ambience & atmosphere. Beautiful interior decor with so much color and life.  Place is tight though.  Inside and outside dining available. Loved the cardamom cocoa, but wasn't a fan of the iced chai.\nGot one of the most recommended soups. The soup/stew was devine! The green eggs sandwich was delicious! The service was a little slow but definitely will return & Highly recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsd2VMUnh3RRAB",
+            "text": "Good place. The pepian soup let the cinnamon, cardamom, cumin, pumpkin, and chicken stand on their own. Highly recommend. The ründstuck sliders had a pernil too dry for me. The tortilla de huevos had the kind of egg that is really fluffy and wide with crisp on both sides, which you either think is fun or think is weird. I think it's fun.\n\nCoffee was good as well. The ambience is so cool, very much an inviting place to eat and socialize."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUR6bkswdhAB",
+            "text": "This place was phenomenal! The moment I walked in, the service was impeccable. There was live music. The food and wine were amazing. I really enjoyed dining here, and there were so many paintings from local artists on every wall. I really loved it!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtMk43NS13RRAB",
+            "text": "The flavors of this restaurant are so new and fresh to me. It makes me want to go to Guatemala immediately. The soups are out of control delicious. If you’re dining with another person and you can each order a different soup and ask them to…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMydDgtMmFREAE",
+            "text": "Got hungry walking through the Brooklyn Botanic Garden, went to Google to get to a good sit-down eatery, found this. What a treat! The reviews are spot on- the Pepian was superb, but the Jocon was amazing and stole the show. The hot chocolate was just the right balance is sweetness. The lavender hot chocolate was a nice twist to the old recipe. We finished with a round of rosemary churros - perfect ending!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOMmJMZEtBEAE",
+            "text": "Arrived with a large party of 10 and this cozy vibrant spot did NOT disappoint. The food was authentic, delicious and plated lovely. Flavor profile was cilantro and acid based which being Guatemalan tasted just like home this is a spot you should not miss. All in all a great dining experience from apps to meals to the mixed drinks, teas and hot chocolate. *chefs kiss*"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxNUxXcGd3RRAB",
+            "text": "Ix is such an amazing place to dine, I spoke to the owner who is very humble and kind, he wanted to start ix as a Mexican restaurant but eventually slowly introduced it as a Guatemalan cuisine. I have to say that their food is very…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxdE03YzdBRRAB",
+            "text": "This place is all love. Need to come back with a few others to enjoy more of the menu.\n\nEverything was good; even the drip coffee. They care about every little detail in the food, service and atmosphere.\n\nWinner!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUOEpLNnRRRRAB",
+            "text": "I'm Guatemalan American. This place made me feel right at home. Great sopas and tortillas moradas.  Beautiful chocolate latte!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4bk56RUhnEAE",
+            "text": "I definitely have to say - it's a very special place to visit - flavors and was a plus ... and their decorations create a very Guatemalan environment ** pepian + jokon + and hilachas ** they were amazing"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMza0l1V2xBRRAB",
+            "text": "had the pleasure of kicking off an entrepreneurs’ gathering at Ix Restaurant and couldn’t have asked for a better setting! The Guatemalan Mayan cuisine was incredible—highly recommend the Flatbread Blanco, Flatbread Blanco, and had the zacapa jade rum for drink ans\nTostadas de escabeche which was super delicious 😋"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLVDM5STZFaHBpUHhBRRAB",
+            "text": "One of my fav places by Prospect park, soulful food and wonderful people. The cacao hot chocolate in the colder days and tamarind Jalapeno Margarita on sunny days is my go to.\n\nAlso shout out to the best servers here, they are very friendly and makes you feel right at home at this family owned restaurant"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqcU5LQk93EAE",
+            "text": "I used to live in PLG and love this place! The story of the owner in the NYT is super cool, and they take pride in their food, which is delicious. A bit pricey, but a real treat. They also have live music and new menu items. I try to come back when possible and my favorite snack item is the crazy corn in a cup!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaOEllcnh3RRAB",
+            "text": "I think their more authentic Guatemalan or Mayan food might have been better, but the chicken and waffles I got for brunch were just okay. The chicken tasted like it could have been reheated frozen tenders. The cocoa drink was good though!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBaWEzS2F3EAE",
+            "text": "Very friendly staff and food was 10/10, crazy good soup! We always come here just for the soup and hot chocolate"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwNk1tZGJ3EAE",
+            "text": "First time I've had Guatemalan food and definitely coming back. Everything was delicious.\n\nYou HAVE to try the mole dessert. It blew me away.\n\nThe staff was super nice and informative about Guatemalan cuisine."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMza01mOFZREAE",
+            "text": "This place is a must try whenever you’re in Brooklyn .. the owners were so accommodating to our large party and made us feel right at home . The food was super tasty but the drinks took the absolute cake !! When you’re here you have to try the ZACAPA JADE .. it was my absolute favorite !! I’ll be back real soon"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBdl9iaUdREAE",
+            "text": "No shortage of culinary treasures in Brooklyn. Here’s another one. Guatemalan fare made just right in an intimate setting. The shrimp sliders were a delight, the only downside was I ate them all and longed for more. The Belleza sandwich is scrumptious. I recommend the House hot sauce in everything. Yum."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhMmFQTU5REAE",
+            "text": "Amazing place with delicious Guatemalan food. Loved the beer and the margaritas. The murals and pictures on the wall really give the feel of the country as well. Highly recommend."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM4eHFubV93RRAB",
+            "text": "My favorite restaurant in this district.\nVery tasty food, well presented and always fresh.\nI have been here many times and always is the some ,  very nice service  and always able to help with choosing dishes.\nI recommend sangria with a very rich flavor and not to sweet.\nFor everyone who hasn't been here yet a must come ."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwbzYtRVBBEAE",
+            "text": "A taste of home away from home, a hidden gem in the area; this authentic Guatemalan restaurant with Mayan dishes is the best spot to stop before and after your Prospect park stroll. Gotta try all the different types of hot chocolate, each with a unique flavor. Grab one of their flavorful stews when hungry, or a well elaborated egg dish when starting your day. The taste of everything in this place is to die for. And don't forget to cheers with the very friendly staff with a cold Famosa, known as Gallo in Guatemala."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYd3EzRXFnRRAB",
+            "text": "This is a hidden gem that I almost wanted to keep to myself! Super adorable! I happened to be at a nearby place and heard Jazz music playing from this spot. I walked over and was greeted by a great band and vibe! The staff here; super-friendly, welcoming and warm and the Cacao was soooo good. This is the perfect Fall hangout spot. Love it!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQbU1yZVpREAE",
+            "text": "A very welcoming restaurant. I’ve never eaten Guatemalan food before the weight. Staff was very helpful in explaining the menu and I had it delicious Caldo soup bowl, which really hit the spot!"
+        }
+    ],
+    "reviews_count": 80
+}

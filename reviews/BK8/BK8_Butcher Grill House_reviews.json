@@ -1,0 +1,544 @@
+{
+    "name": "Butcher Grill House",
+    "place_id": "ChIJM-vkDcxbwokR1wfvHIJ4clk",
+    "grid": "BK8",
+    "address": "411 Troy Ave, Brooklyn, NY 11213, USA",
+    "rating": 4.9,
+    "user_ratings_total": 242,
+    "phone_number": "(347) 770-4042",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGcWREWlhSM1JLUjJaNGMwcHFjVkYzUkdSbFgwRRAB",
+            "text": "משהו מדהים לחבדניק שרוצה את הרמה הכי גבוהה של הכשרות וגם לא להתפשר"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJMVpYcEhNbFZQVm5WVFMyRkRXbmRNZVhJM2IyYxAB",
+            "text": "Everything was amazing!!!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xcmRrWTBURVoxYTBGVFZUaFRWVWhtZDFwbVpuYxAB",
+            "text": "KNOWN THE BEST KOSHER STEAKHOUSE WOW! The service was phenomenal! Avi the owner has all my respect!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214WVRGZEtVRzUzZVZkS1JqSTJSMGRUWVVwalVVRRAB",
+            "text": "This restaurant stays dynamic. Review platforms pointed me toward this restaurant. Flavors hit the right notes, service feels genuine, and quality ingredients are obvious. Quick help from courteous workers. I felt respected as a customer here."
+        },
+        {
+            "date": "1주 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xblVWVjJPVFp2UzJJNUxXUnZMVk01Y0VSaVVIYxAB",
+            "text": "מקום מאוד מיוחד שירות נהדר ומנות מאוד טעימות ומיוחדות מומלץ בחום אווירה מאוד מזמינה"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4NGRsZEVZbnBKWWt4TExURkdXSE53V2pOaVNWRRAB",
+            "text": "Where to take a foodie with great expectations? Came here the other night and she was duly impressed. Food quality, taste and presentation was amazing. Service impeccable."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKME1FZHpjbDlLYUZGNE5tRmlXbVp4YWxWYVVtYxAB",
+            "text": "Food was well made, tasty. Service was good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5b1NubEplVFJCUzJObmQwRkpPVXBITFRCeFJGRRAB",
+            "text": "Just perfect! 100% recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrelNGRnZTR2R3WkMweWVYVnZTemxuZVdkNFYwRRAB",
+            "text": "Food is delicious,"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NlFUWmhOV2d6YnpWYWJreHFjRE5DWWtWWFlWRRAB",
+            "text": "You get proper portions without premium pricing. Butcher Grill House boasts elegant surroundings. I've tested several menu items and found decent quality. Workers are pleasant and solution-oriented. I appreciate their consistency and recommend them."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxdExVUTNURWRtYlVKaGJXOTRhbDlNU1VSM1ZGRRAB",
+            "text": "Great place good service very tasty food"
+        },
+        {
+            "date": "3달 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GM2JqaFZNMkp3ZGtwaU1rZzRkR1pzYUVsdlIxRRAB",
+            "text": "מקום פגז ."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xocVdWcElkV05IYjBSbWVtNU1Tek5aWmxjM01uYxAB",
+            "text": "We came here for my dad's birthday and got delmonico steaks and the green chicken - everything was delicious and they were very careful to make sure each of our orders were correct. Great service and super warm staff"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwZ2NIdWN3EAE",
+            "text": "Had the 30 oz prime rib. Was divine.\nWe also had the meat soup which is like a Yemenite soup; it was full of flavor."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaRmF6SlJjM051WmsxTVVuUm1jelZhUmxCMWEzYxAB",
+            "text": "From the moment we walked in, everything about this restaurant was exceptional. The atmosphere was warm and inviting, with just the right balance of elegance and comfort. The staff was attentive without being overbearing, and every detail ,from the music to the plating, was thoughtfully done.\n\nNow the food… wow. Every dish we ordered was bursting with flavor and perfectly cooked. The hanger gnocchi , butcher pulled beef flatbread, garlic guac beef bomb, and tacos was rich and creamy without being heavy, and the steak melted in your mouth.\n\nWhat stood out most was the attention to detail and quality of ingredients. You can tell the chef puts heart into every plate. Abraham and his team are amazing"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psRFFsZDNNVFEwVVdFeWFXRnZORGxIU3pWTmJYYxAB",
+            "text": "Amazing place"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKa3RuT213RRAB",
+            "text": "Went here for friends birthday, must say was amazing experience, exceptional service! Outstanding delicious food! Cherry on the top great prices!\n\nThis place is a must for anyone that is looking for a kosher steakhouse!\n\n2025 update the restaurant is only getting better and better go for it!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKQkxUZzNRMFJrV0dGSWNUVXlVbVV6Y2tORVVsRRAB",
+            "text": "Wow! 5/5\nGreat overall"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JNVJucEhiVFpLUkRjeFkxOHdWMGM1TVhCZmVtYxAB",
+            "text": "I do eat in many Kosher steak house in NYC but Butcher Grill House is an exceptional restorant in many ways and I will explain:\nThe food is always fresh, always consistent but more importantly the steaks are top notch.\nI order the steak medium and it was perfect.\nWe also ordered 95% of the appetisers and salads and they all come fresh and delicious.\nEvery dish we served were state of the art, we thought an amazing taste.\n\nAbout the service and management; their qualified waitresses with amazing response with friendly atmosphere is Essential in such business, This is the Butcher Grill house Forte.\nI can continue compliment this restaurant. You have to try it yourself.\n\nManagment and owners care for their customers and often visiting the table to check if we are satisfied.\nTop-notch Restaurant highly recommend"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213eFEySmFaa1U0VVd4Sk5XNVRWVVpDTmpVMFRrRRAB",
+            "text": "Amazing food! Everyone loved it from adults, teens, to young kids. All dishes we ordered were absolutely delicious! Shoutout to Taj! The best you can ask for. He has that special professional and friendly touch, caring that your experience should be special! Your handwriting (happy birthday) with chocolate is beautiful, talented."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psd01VdzRTRmxVVDFWbWRVVmlRMGxyZVdKWlpHYxAB",
+            "text": "The service was ok.  He didn’t bring the water he said he was going to bring. I had to ask him to bring it when we got the appetizer. I also had to ask for a second drink.  When I go to a restaurant that serves $100 steaks water should be automatic. Mind you the tables around us had water pitchers at the table.  If my drink glass is empty I should be asked if I want another drink."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLT05rT2VaMDRqalBnEAE",
+            "text": "We recently hosted a party for 30 + people at the Butcher Grill House, and it was truly an unforgettable experience from beginning to end. From the moment we arrived, everything was handled with such professionalism, care, and attention to detail.\n\nThe food was absolutely incredible — every single dish was bursting with flavor, beautifully prepared, and served fresh. There was a huge variety, and plenty of food for everyone. Our guests kept commenting on how delicious everything was, whether it was appetizers , main courses, or desserts, every bite was perfection.\n\nWhat really took the experience to the next level was the staff. They were attentive, kind, and extremely responsive throughout the entire evening. Anything we needed was taken care of almost immediately, and they consistently went above and beyond to make sure we and our guests were comfortable and happy. It’s rare to find service that’s both so efficient and so genuinely warm.\n\nThe ambiance was also lovely — the space was clean, welcoming, and set up perfectly for our group. Everything ran so smoothly, and we were able to truly enjoy ourselves without having to worry about a thing.\n\nAll in all, it was more than just a meal — it was an experience. Avi and the entire staff made my mother’s 75th birthday party an absolute success!! I would highly, highly recommend this restaurant to anyone looking to host a party or simply enjoy a fantastic meal. We will definitely be back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLMklwTjcwNWVhQktREAE",
+            "text": "Great personal service"
+        },
+        {
+            "date": "5달 전",
+            "language": "iw",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJeVpfNmFianFDTGl3RRAB",
+            "text": "😋…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKX005SV82NTlHRjVBRRAB",
+            "text": "This place is amazing\nThe food was delicious 😋\nAnd prices aren't crazy high!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPVDctcFd0aVl5dE1nEAE",
+            "text": "I'm a very picky eater.  But I have to say this place was amazing. From the welcoming friendly staff and the delicious food .. the atmosphere is very cozy. And again the food is real clean fresh and super delicious & tasty. I would only come here from now on. It was my Best steakhouse experience so far. I already covered alot of other steakhouses but this was something unique"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZd08yLW5nRRAB",
+            "text": "We hosted a private event at Butcher Grill House and they went above and beyond to make it perfect. The service was exceptional, and the food was delicious from start to finish. We’ll definitely be coming back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNTRDMGpnRRAB",
+            "text": "Was very happy with the service and the quality of food was excellent"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvX2NuVG93RRAB",
+            "text": "I celebrated my wife’s birthday at Butcher Grill House and it was fantastic! We had a large family table, and the food was outstanding the fresh meat and delicious steak stood out, along with a beautiful meat platter.\n\nAvi, one of the owners, provided exceptional service and made our evening memorable. Highly recommended for great food and a wonderful atmosphere!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvX2J5STRRRRAB",
+            "text": "Amazing food and vibe"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRX2J2c1JREAE",
+            "text": "A kosher meat restaurant. The dishes are outstanding and really surprising.\nThe meat is very good quality and the steak was excellent. The owners are really nice. I will go back there again."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRNWNlUXRBRRAB",
+            "text": "Great kosher place"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRX09YYkxREAE",
+            "text": "I have been to the restaurant several times, the service is very high quality, the food is very tasty. I will definitely be back soon."
+        },
+        {
+            "date": "9달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBMDUtOWF3EAE",
+            "text": "Best chef!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBMDZfRUh3EAE",
+            "text": "Great service\nClean place\nFresh delicious food"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoeVk3SXJnRRAB",
+            "text": "אוכל טוב , שירות טוב, אווירה מענגת בקיצור אחלה מקום"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBOVl6b29BRRAB",
+            "text": "Great food and service"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfaTdtT25BRRAB",
+            "text": "Amazing delicious food! Friendly staff and waiters. Prime rib steak the best!!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfOWJESThnRRAB",
+            "text": "We came here for the second time and we loved it. Highly recommend!"
+        },
+        {
+            "date": "9달 전",
+            "language": "ro",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfaGZMMTl3RRAB",
+            "text": "Calitatea cărnii este excepțională, cu porții generoase și preparate gătite perfect. Mâncarea este delicioasă și apreciez în mod special fripturile și burgerii, chiar dacă poate lua ceva până sunt gata.🙏🏻"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfOHZEekJnEAE",
+            "text": "I would highly recommend this place the food is amazing. The service is spectacular and the pricing is very reasonable. The sweet and sour chicken is a must."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmLWVQOU5BEAE",
+            "text": "Great food"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2anE3dEhREAE",
+            "text": "They would not let me bring my emotional support snake into the restaurant. They also asked if I wanted a table. Like clearly, I want a table. And then they refused to cut my steak for me, OR let me play music with my speaker in the restaurant. MY RIGHTS WERE VIOLATED 🤬🤬🤬"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2eW9URENnEAE",
+            "text": "Went on Tuesday for my birthday, all the apps were amazing!!! The steak was good as well"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzazllLS1nRRAB",
+            "text": "Manager and stuff were nice ,place was great , food was great .Good Chef ,good manager , good waiters."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYaTdXaEpREAE",
+            "text": "The food is delicious and so is the atmosphere.\nService is excellent."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYLWJTRTh3RRAB",
+            "text": "Our favorite restaurant by far. I took my husband here for his birthday last year and he said he for sure wanted to go here again. We send people here all the time when they ask for good food. Every single dish we ever tasted here was delicious and bursting with flavor! The service is wonderful and the place is clean."
+        },
+        {
+            "date": "1년 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuNWJEWThRRRAB",
+            "text": "מסעדה ברמה גבוהה בשכונת המלך קראון הייטס. כשרה, שחיטת ליובאוויטש.\nשירות ברמה גבוהה, אווירה נדירה. שווה לבוא"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuM3M3Z2xRRRAB",
+            "text": "Great food and service. Food came out fairly quickly after ordering. Comfortable atmosphere. Great for individuals and groups"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIdXRhUXpRRRAB",
+            "text": "A steak something so simple that can be messed up so easily but when perfected it’s one of the most delicious foods on the planet.  Butcher grill house was an unexpected visit for me it was a restaurant I had never heard of it before but decided to take a risk and it was worth it because Butcher grill house in Crown Heights is a gem of a restaurant. I ordered the 30 ounce cowboy steak and it was everything you could ask for tender juicy flavorful cooked to a tea and that wasn’t even the best stake of the night the Delmonico oh the Delmonico it’s flavor surpassed any steak I’ve ever had in Brooklyn and was the best steak of the night. I think these steaks had to be up there with greats like reserve cut, and Tabernacle but the steaks weren’t all they had. The steaks didn’t even begin to scratch the service. They had these amazing tender Shawarma tacos, these delicious beef, guacamole bombs, and the best appetizer I think I had all night were the chicken wings another thing that when perfected can be so good Parking Wasn’t  amazing, but it was certainly worth it. My one critique on this restaurant is that the napkins are low quality and hard to use beside from this. It gets my five stars."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNicXNmczFnRRAB",
+            "text": "While visiting Brooklyn, we tried a new restaurant that we haven’t been to yet. The name: Butcher Grill House in Crown Heights. Upon walking in, I was surprised at how modern and sleek the place looked. It was very open with plenty of seating and get this… Jewish music. We were introduced to the owner and his partner chef Ben Davidov, who is a master of flavor. We started with the Beef Carpaccio with balsamic drizzle, and garlic mayo on top of the bruschetta. We also had the Sweet and Sour Chicken Bites topped with sesame seed and scallions and a side of truffle mayo. The Beef Carpaccio was off the hook, you have to layer everything on a piece of bruschetta: the radish, roasted garlic, beef and arugula and just close your eyes and let the flavors fill up your mouth. It was the perfect bite. We finished the whole thing in minutes. Eric, our waiter, kept on bringing out dish after dish. Next was the Ben’s cauliflower with green tahini cream, crushed tomatoes, crispy puff bulgur, honey dates and ufra pepper glaze, it definitely lived up to the hype. We were still deep into our first two appetizers when Eric came back with more plates. It was Chef Cigar Rolls with pulled brisket and get this… cranberries. I know, sweet and tangy but savory and crunchy on the outside. He also brought the Butchers pulled beef flatbread with honey mustard truffle oil pulled brisket, pickled red onions, garlic confit and pesto aioli. That alone was enough to fill us up. It was soft, yet crunchy and not soggy. Then came along the Mexican Corn Ribs, fried and seasoned with a mixture of aromatic spices and topped with a garlic aioli. I love corn and unlike most corn ribs, the flavor was subtle and not hit you in the face, which we appreciated. As we were trying to make just a little dent into all that, Eric was back with something that I have been craving. You see following their Instagram I have seen this item and it peaked my interest and I was dying to try it. It’s called the Garlic Guac Beef Bombs. What it is, is a flaky and delicious croissant filled with slow-cooked bulled beef, zesty chimichurri, fresh arugula, roasted garlic, guacamole and a touch of sweet honey. If that sounds like a lot for a bite, it is! But it works oh so well. My wife and I each took one and split the third. It was sticky, sweet, and savory and one of the best things I ate that night. Our next dish was a new one not even on the menu, Shawarma Tacos, It has green tahini with crushed tomatoes, purple cabbage and chicken shawarma. I folded mine over and bit into all that goodness and was happy that we took a break before we resumed eating. The flavors were so unique and different. But wait, they weren’t finished yet, there was more. It was the Hanger Skirt Steam Gnocchi, which consisted of gnocchi marinated in a lemon garlic sauce and a mushroom gravy with pan fried cauliflower and carrot sauce. The gnocchi was so flavorful and soft. This is my second must have of the night when you visit. Lastly, the chef surprised us with Marinated Short Rib. The short rib was marinated in a sweet teriyaki sauce on top of a bed of white sticky rice and topped with sesame seeds and scallions. This is not always on the menu and I could immediately see why. Anyone who tried this would order it EVERY time. It was sweet and sticky and the rice soaked up all that amazing flavor. Wow! While chef Ben offered to make me a main one of their popular steaks, I had to turn him down. We were stuffed and didn’t even finish a few dishes. After they offered dessert we conceded to try two. They brought out choco babka balls made from homemade chocolate babka under a peanut sauce and a scoop of vanilla ice cream. The second was a creme brûlée topped with a red wine cranberry sauce and a side of ice cream. Both were amazing. I am a big fan of crème brûlée and this one didn’t let down. Perfect top to crack and sweet and silky on bottom with a delicious that’s red wine cranberry sauce… wow! I couldn’t get enough. If you haven’t been to Butcher Grill House, get yourself over and see what the hype is about!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4ZzRUUFRREAE",
+            "text": "Great first experience here celebrating my birthday with some friends. I say first because ill definitely be back. Everything was delicious and the service was amazing. Our table was cleaned between mains and dessert which we liked too."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoMmZYM1JREAE",
+            "text": "If you're looking for a new kosher restaurant in Crown Heights, I highly recommend giving this place a try. The food was delicious, particularly the steak, which was cooked to perfection. The restaurant also has a cozy and inviting atmosphere that makes for a great dining experience. Don't forget to save room for dessert - it's definitely worth it!\n\nOverall, a great option for anyone looking for quality kosher cuisine in the area."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyeFl6QXhBRRAB",
+            "text": "We went with friends and I ordered the Garlic Guac Beef Bomb, a truly flaky croissant (as described) with pulled beef, guacamole and other goodies. Truly, if I didn’t promise to share it with DH, that would have been my meal! Abso fabulous. Crispy croissant, luscious juicy beef and the guac added an additional unctuous note. It was a wonderful bite. DH ordered the grilled prime rib 22 ounces- done to medium very nicely, of which I divested him of a portion. Really good, and the fries were excellent and thick cut. Our friends chose the Delmonico steak (he’s been a number of times and it’s his favorite) but he insists on well done so I don’t even try to share. It looked good despite that. She went with the gnocchi and gave me a bite to taste- very good and a little different. No room for dessert! All in all a very nice meal."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4OXUtU2tBRRAB",
+            "text": "The food was amazing, almost every dish was a 10/10, the service was beyond exeptional, food came quick even though it was kind of busy.\nWe had an awesome experience. Highly recommend this place."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoaWNXeEpBEAE",
+            "text": "At the entrance, Johnny greeted me happily and showed me the place where I would sit, after that the waiter approached me and brought me menus, I chose tomato soup as an appetizer, then delicious meat-filled cigars, an amazing carpaccio and seasoned corn by an artisan. the food It was really good, I will come back here again without any doubt And we finished with a portion of crispy chips .\n\nFood and service at the best level there is\nhighly recommend"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxa0pHNk93EAE",
+            "text": "BEST PLACE FOR KOSHER FOOD THAT YOU CAN FIND !!\nfor the last 3 years we ordering food for our yearly tradition Hanukkah party.\nthis year we were not sure if we will be able to host so we waited for the last minute and Avi made all efforts to make it happen !!\ni called a day before and placed the order Avi confirmed with the chef that the items from the menu can be ready for us.\nthe food arrived hot and packed in a professional way.\nAvi went above and beyond and add few extra items for us.\nthe food was great, everything was cooked perfect!!\nthe grill vegetable's were flavorful and so does the meat !!\nthis was a catering for 10 people and every single person was impressed with the food quality and taste! A+++++\nhighly recommended !!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0MFBtVnh3RRAB",
+            "text": "I want to share my experience at Butcher Grill House, first of all beautiful atmosphere clean and very welcoming. Amazing service by Yarin, he explained very well about the menu and the specials also recommended very good dishes, I want to say I thought the service is great but then I had the food and it’s was like WOWWW fresh such good flavors and tasty!!! Definitely going back soon again and again! I wish we took more pictures of the dishes it’s was so good! Thank you for an amazing experience!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURab0xxU01nEAE",
+            "text": "Incredibly delicious food, amazing 5 star service, and ambiance. Would 1000% recommend and will be back:)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaaUszVzBRRRAB",
+            "text": "I was genuinely blown away by our experience. Service was friendly, attentive, and quick. The ribs were absolutely delicious. Guacamole/beef croissant was tasty. The aged rib steak was a splurge we didn't regret: one of the best steaks we've ever had. What a hidden treasure, a remarkable addition to the Crown Heights food scene!"
+        },
+        {
+            "date": "2년 전",
+            "language": "iw",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKdnBXTGRnEAE",
+            "text": "מסעדה טובה אך לא כזה זול, אם אתה בא כמה חבר'ה זה משתלם.\nהזמנו למנת הפתיחה פיצה בשר שהייתה טעימה מאוד ומתוקה שזה סבבה לדעתי.\nאח\"כ הזמנו המבורגר עם ביצה מעל היה טעים אבל מאוד מלוח.\nהזמנו שיפודי קבב גם הם היו טעימים אך מאוד מלוחים.\nיצא קצת יקר אבל שווה לנסות זה מסעדה על רמה וטעימה!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoNThId2V3EAE",
+            "text": "The best simple friendly meat restaurent I have ever went to.\nWe’ll be back for sure.\nFood is amazing, service is flawless.\nThank you."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoX3ZMXzd3RRAB",
+            "text": "Went for a birthday, we ordered a few appetizers, they were all so tasty and had nice presentation. Waiters were thoughtful and and accommodated our allergies. They have a great selection of special meat dishes. Will definitely come back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoNGVQTGNREAE",
+            "text": "Food was quiet good, service was excellent, and the prices were adequate.\n8.1/10 would recommend a try!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKMGZmV2pRRRAB",
+            "text": "Food’s amazing! Service is great, the Garlic Guac Beef Bomb is a must!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoX2JXeFRBEAE",
+            "text": "The butcher grill house is a beautiful place.\nWonderful place for a date, business meeting or just dinner. The food is served in large and delicious portions in fancy and creative dishes, the service is excellent. I will definitely come back many more times!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoaWZmUWtBRRAB",
+            "text": "אוכל ברמה של 5 כוכבים.\nטעים, טרי, משובח,\nשירות נהדר ויחס חם ואדיב.\nארוחות מפנקות\nמסעדת שף מהמוצלחים ביותר ,\nבהחלט מקום לחזור אליו שוב ושוב.\nמאוד מאוד מומלץ ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIanVucWhBRRAB",
+            "text": "The food was a 10/10. I had basically everything on the menu. Service was fantastic and the owners were super nice!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxZ29fbWNREAE",
+            "text": "Absolutely delicious food!! Highly recommend this place!!! Great service and well priced!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEZ283cHB3RRAB",
+            "text": "Great food!\nGreat service\nDecent prices"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUdEsyRTNRRRAB",
+            "text": "I recently ordered takeout from here and was thoroughly impressed! Unlike many other places, the food arrived incredibly fast and hot. The Mexican ribs were absolutely delicious, and the steak was cooked to perfection. Their assorted salad platter was also very tasty - I loved the Mexican cabbage. I’ll definitely be ordering from them again soon! Highly recommend."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNab2ZxTktREAE",
+            "text": "A really high level meat restaurant. We really enjoyed ourselves and will come again"
+        },
+        {
+            "date": "1년 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0b2JPT3dnRRAB",
+            "text": "מקום מעולה ליציאות, מסעדה ברמה גבוהה, שירות מצויין. מאוד נהנתי."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4d2NTUHlBRRAB",
+            "text": "Wow it was crazy!!!  One of the tastiest!!!  Crazy service!!  warmly recommended!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSM3ZEWUNnEAE",
+            "text": "A fantastic steak house in Crown Heights. Excellent food! Excellent service! A very friendly owner that knows how to make customers happy. Five stars!"
+        },
+        {
+            "date": "1년 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0b2ZTa1NREAE",
+            "text": "מקום ממש טוב יוקרתי\nאוכל ברמה גבוהה ושירות מדהים.\nאבי בעל המסעדה בחור מדהים שעושה אווירה ממש טובה\nיקר אבל בהחלט שווה את זה!"
+        }
+    ],
+    "reviews_count": 76
+}

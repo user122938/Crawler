@@ -1,0 +1,544 @@
+{
+    "name": "Mominette Bistro",
+    "place_id": "ChIJd-H7aANcwokRc9yKGMHHyxg",
+    "grid": "BK4",
+    "address": "Storefront, 221 Knickerbocker Ave, Brooklyn, NY 11237, USA",
+    "rating": 4.3,
+    "user_ratings_total": 914,
+    "phone_number": "(929) 234-2941",
+    "reviews": [
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Zd2JuVjBiSGt6UjE5SU5rWmFaMU5zU25WWU1GRRAB",
+            "text": "Great hang! The crepe menu here is really interesting and you can create your own crepes. The eggs benny were standard and coffee was nice. The ambiance is really what makes this place special tho. Super nice and warm vibes."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOamJtZEhWMUI0TUhCTVYyYzBUek5vWXpBeFZrRRAB",
+            "text": "Took incredible care of my 15 person group, thank you so much!!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poclVqZExMV2R4VEVJNVVrRXRXRFpHTm5oemNXYxAB",
+            "text": "Had a fun little date night here. The whole place felt really homey, and I loved the decor. Service was super friendly, and made sure they could accommodate my peanut and cashew allergy.\n\nI tried ratatouille for the first time, and I loved it. Perfectly cooked salmon as well. Will be back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KelMyVmZjWGROVUZaTVltTnFVemhtWTFsSUxYYxAB",
+            "text": "Absolutely fantastic from the service to the delicious food and drinks"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swM2FEWjBYM1JHZVdsdlZEVkpVbkUwV1cxTE1sRRAB",
+            "text": "Love the backyard in a summer time!\nFood is amazing! Oysters are must have!\nAnd pasta fruit del mare is my favorite!! And mussels were amazing! (Photo of the finished mussel dish 😁)\nI am glad I live near by so I will be coming back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twRlVYcHdWRXRoTWpneVpWWmhNa05LVGtKV09VRRAB",
+            "text": "so, so beautiful and charming inside, bartender and server extremely sweet and everything we are was perfect. thank you so so much"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSeGVGRmxZVWRDVkdKVFFYcHJSRTB0ZFY5dFRWRRAB",
+            "text": "I got the Coup de Foudre to drink, and we split the cheese plate, the steak tartare, the arugula salad with goat cheese, the French onion soup, and the steak frites. All of it was amazing. I don't even drink gin normally, but that drink has me rethinking things. They were closing up early, but still sat us and put all our orders in. It was so good and we will definitely be coming back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0S00wTkdZemN5Y0VOME1ESklWazEzVUUxbkxWRRAB",
+            "text": "Banger"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoV1VWSkNWVkUxTTBKQ1RsVnVObTA1WjFObWJFRRAB",
+            "text": "The staff was attentive, knowledgeable, and friendly. I really liked it here and will definitely be back. The oysters were great, and escargot were surprisingly better than some I’ve had in Paris even though they’re served a little differently. I had a thoroughly enjoyable experience 10/10"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zdFVFYzBjVEkzVUd0VFMxQmpZelZTUVdkcGNIYxAB",
+            "text": "I love Mominette, close by me so I go pretty often. Love their potatoes gratin, escargot, oysters, basically anything on the menu. They've got a great drink selection too, staff is great, just make sure you get there early if it's getting late as the kitchen closes before the bar."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxNVdYWnpUa2hOTmxSRVFXMUJTSGRDTUZsck5YYxAB",
+            "text": "Great place to eat and have a few drinks."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLMlBfNWlvZzRpNnJ3RRAB",
+            "text": "Simple small bistro. Beautiful patio. Awesome food and people. Neighborhood secret. Loved the oysters , duck confit, chicken coq au vin. Great drinks."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMTEIxTXVGeWFHaThnRRAB",
+            "text": "I really love this cozy, intimate restaurant. It may be small, but it delivers big on flavor. You have to start with the escargot--it's a must. The standout for me, though, is the duck confit. Lightly fried for perfectly crispy skin, with tender, fall-off-the-bone duck, served alongside chips--absolutely delicious! Finishing the night with the crème brûlée was the perfect touch."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VOYWJ6NEhyMExUTHF3RRAB",
+            "text": "H2No…\n\nA french bistro with no cheese platter? Ok lol"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VMZU1nTDNoODdpZjZnRRAB",
+            "text": "Mediocre"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VNLTYtZmZydzU3MUpBEAE",
+            "text": "I like it here. the foods not spectacular but its a good option for a cute little French spot nearby."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvajdDRWtRRRAB",
+            "text": "That beef tartar was soo good!! What a pleasant surprise"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNy1maktREAE",
+            "text": "I came for brunch, Lea was a phenomenal server\n. Great food and price point . I would return ."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJci03ZTB3RRAB",
+            "text": "This is our favorite brunch spot in our neighborhood. I have yet to try a dish I didn't like; everything is tasty, & fresh. Staff is very friendly, the atmosphere cosy, and their patio is lovely."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJNk5ITHZRRRAB",
+            "text": "Terrible. A decade ago this place used to be a cute brunch spot. I recently went and it’s awful. Place is dirty, the bathroom was super dusty and the floor looked it hadn’t been swept or mopped in a very long time. They no longer make fresh cocktails it’s all premade mixes and ingredients. Most impt of all was the burger was so bad I had to send it back. It smelled fishy and tasted really off. I ordered it medium rare and it was all just a light grey. The burger bun was stale. Luckily I didn’t get sick because I didn’t eat much of it but it’s such a shame to see a place go down hill so much. I’ll never return."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3ejd5LXRRRRAB",
+            "text": "Amazing oysters! My go to place in BK. The duck special with blueberry was out of this world!"
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3OU9PaUl3EAE",
+            "text": "The best place for to eat\nEl mejor lugar para comer !! 🥰 súper recomendado excelente atención"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfaTZqbEl3EAE",
+            "text": "Wish I got a chance to take a photo of the food but I ate it before the thought dawned on me. Exquisite food, beautiful presentation, and phenomenal music! Really nice intimate atmosphere, the space is nicely decorated as well. Staff is lovely!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3bnZxdWJREAE",
+            "text": "Went for Valentine’s Day dinner with my partner. The place was packed and tables were clearly camping. Great host somehow got us to a great table quickly, excellent service throughout, attentive, perfectly timed. The food was fantastic, every dish, especially the duck and rack of lamb. Was our first time dining here and were very impressed, total experts, will be back soon! Thank you!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRazVUYTJnRRAB",
+            "text": "Cute little french bistro! Good deal on oysters at happy hour."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRbGZUQzVRRRAB",
+            "text": "The location of the restaurant is definitely in a very good place. The atmosphere is really great. I sat in the garden and it was very comfortable. Chill.. You are in a quiet garden in the center of the city. I ordered a hamburger. It was the worst hamburger I have ever eaten in New York. I mean, a hamburger you eat at McDonald's is probably much better. I had a bad experience in this regard as well. But it is definitely a place where you can come with your friends, have a drink and sit. The bar looks very strong but I haven't tried anything. I only had a bad experience with the food. But still\nThanx ❤️‍🔥🤘🏻"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnanZTQXV3RRAB",
+            "text": "Great neighborhood eatery, excellellent food and service, really nice staff."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnc3FQZG93RRAB",
+            "text": "A gem of an authentic French restaurant in the heart of Bushwick! You can tell the staff cares, the food was delicious, and we can't wait to go back!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfc29hUFBBEAE",
+            "text": "The staff is awesome. The food was tasty and came out hot."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmd1kya29BRRAB",
+            "text": "service was sweet, food was good and cheap considering the area"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmdHJXQ25RRRAB",
+            "text": "Pretty good food. Escargot, oysters, pasta, burger. Rack of lamb ok. Unfortunately out of mussels when we were there. Nice atmosphere, friendly service."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2ZzdQZHhRRRAB",
+            "text": "Great food"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQcHRITndnRRAB",
+            "text": "Drinks were good ..nice vibezzzzz"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzdU9EMGh3RRAB",
+            "text": "This restaurant used to be a favorite date spot for my girlfriend and I a few years back, however, it seems the food quality has decreased significantly.\nWe started our meal with an order of the French onion soup and a side of asparagus. We were disappointed to receive a plate of asparagus that had virtually none of the balsamic glaze and cheese that used to have,  and a French onion soup that was not nearly hot enough or good enough for the price.\n\nNext came our steaks. These two orders of steak frites were completely tasteless. On top of this, the meat was also not tender, and was fairly overcooked for both of our orders.\n\nI want to stress that there was nothing wrong with the service. Our server did his job just as well as any other. We simply left very disappointed having paid just shy of $160 for a meal that was not worth remotely that amount of money. (Also prices online are outdated. Expect to pay more for your meal than what you think you’re going to. Another disappointment.)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzLUlUSnJRRRAB",
+            "text": "lovely place with attentive and caring staff. we were celebrating a birthday and our server noticed when the birthday girl left the table to come ask us which dessert she would prefer. the food was delicious. recommend the oysters and the chicken. not primarily vegetarian options but they do have some. hope to return soon!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYMUpLY0pBEAE",
+            "text": "Came here on a Monday for their happy hour. Their inside is cozy with bar and wall seating. Weather was great so we sat outback in their patio. Oysters came with lemon wedges, vinaigrette and cocktail sauce. The lemon wasn’t the freshest (see pic) but the oysters were. Cute lil spot, will be back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYNjlqNVl3EAE",
+            "text": "Not a drop of seasoning on the steak and a suspiciously dirty bar bathroom considering this is a place that serves food"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuamJTVVFREAE",
+            "text": "nicest staff, best brunch around!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuaXZIM2JBEAE",
+            "text": "pretty good all around!! nice little spot in BK for authentic french food"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIbllQRlJREAE",
+            "text": "Pleasant atmosphere outside. Great service and food was delicious"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3OUxQc0tBEAE",
+            "text": "Love it"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURic3Jtdm53RRAB",
+            "text": "I've been here a few times as a treat for myself. Most recently getting a bunch of oysters with a big pitcher of mimosas, finishing off with some chicken and waffles. Bartender/waitress was super nice, food was phenomenal. Def my favorite local 'treat myself' spot"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiakl5MjJBRRAB",
+            "text": "Excellent french inspired food and a relaxed interior with great music playing. The service was very nice but they brought one check for four of us (two couples)."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyeExUNldREAE",
+            "text": "We decided to visit this spot on a weekend morning for brunch. We walked in without a reservation and were able to find seating without any issue. I'd arrive coming during the less busy times because they could get packed pretty fast. We opted for the mimosa carafe and I got the house burger. Great service and good dishes made for an enjoyable experience. The restaurant itself is quaint and gives off Parisian Brasserie vibes with wood finishes and a high top bar. I'd definitely come back for brunch and other meals too."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNydnNiOGl3RRAB",
+            "text": "Went here a couple of Sundays ago in the early evening. It was pretty much empty so we got to pick our seat!! Servers were so kind. We had oysters, escargot, and I got the handsome, the incredible, the tantalizing Beef Bourguignon. It was So good. It was everything I’ve ever wanted in a beef stew. The perfect amount of food. I haven’t stopped thinking about it, which means I WILL be coming back so we can be reunited once more!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyNXVYbTd3RRAB",
+            "text": "Had a really lovely solo brunch here today. I was worried it was too hot for the garden seating but it was perfect as was the omelette and the potatoes. Unintrusive service that was Gracious and friendly. I will definitely be back to try the Croque Madam!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNycElqMzl3RRAB",
+            "text": "Solid spot? No complaints"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNycU5qOGRnEAE",
+            "text": "Eh, food was pretty meh."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMMDduOFRREAE",
+            "text": "Great place for lunch! Come hungry and be prepared for an extremely generous portion! I had the croque madame. Felt like I was in Paris!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURob3VHWExBEAE",
+            "text": "Our favorite brunch place with friends…\n\nThe patio at the back of the restaurant is a nice, cool place to go on a brunch with friends. They also offer mimosa pitchers at very reasonable prices which is always great when you’re 3 or more people.\n\nTheir eggs bendict and chicken waffles is the best!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1N1liVU9REAE",
+            "text": "I came here for brunch. I recommend sitting outside if you can since its lovely. The service was pretty regular but the wait staff is good.\n\nWe got the coffee- sort of ok- and then the pancake, the ratatouille omlette and the burger. I highly recommend the pancake, it has a cake consistency and comes with a delicious strawberry butter. I also loved my burger, it was one of the better ones Ive had from a preparation standpoint, I got it with the blue cheese. The ratatouille omlette wasnt really a stand out but it was good.\n\nThe space outdoors is lots of little cafe tables and chairs, it has a roof on top in case it rains and has one big  group table for shares and large parties.\n\nI think I will be back for dinner"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKbC1mV1NnEAE",
+            "text": "This is a cool local spot! I ordered the steak tartar and fries. The tartar is ok, a little plain. Fries amazing, drinks are great! The ambiance kinda has a feel of your rich friends’ house in the midwestern suburbs in 2009 which is fun. Good spot to hang and have some drinks!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJZ2ZISkFREAE",
+            "text": "Came here on a Sunday afternoon for brunch, service was great with being seated right away and orders taken. Food selection for brunch was cute. Ordered eggs Benny, eggs parm, and Mac and cheese. Food presentation was nice, however the food…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyenR6dGd3RRAB",
+            "text": "Very nice and Cozy French resto to go to. Great for dates,  or  meetings with friends. Prices are very raisonable. We had\n- Loster Bisque (Best! I've ever had!!!) Délicieux!!! Very light, no potatoes in it, A MOST TRY!\n-Ratatouile, taste wise it was excellent. My  only complaint was the presentation, they went for a lazy one, it looks like some boil/sautéed big pieces of squash.\n-Escargot, that was our first time, we were suprised, not exactly was we were expecting.  Lightly chewy, tasted like salted pork. It was ok. Something to try at least once.\nMy drink was Douce Passion, mildly sweet passion fruit cocktail served in a tiny glass,  it was excellent just too little.\nI definitely recommend this place. Bon Appetit!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1eWVYNjdRRRAB",
+            "text": "Ok 5 star and real Europe place here. Bertrand welcomed in the door and said \" welcome garden or patio \" and Trust me you want patio. The salmon Benedict was perfect the egg intact and not over cooked and salmon sooo juicy. Then I ordered a side of toast and they brought almost melted butter !!!! I mean that is great service! The coffee super strong and REAL SPLENDA !\nGreat vibe music and so chill"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURScVBpcnFRRRAB",
+            "text": "Great spot for brunch!! Good vibe, solid food, high quality but not too expensive, simple but delicious menu. Definitely recommend for brunch in Bushwick."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZZ2Itajd3RRAB",
+            "text": "Cute, cozy brunch spot. Waited 20 minutes for a table but it was worth it! Food is well-made, portions aren’t too big or small. Wait staff is very polite, nice, courteous. Great place to chill with friends"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBdnNpaHRRRRAB",
+            "text": "Nice place to get French comfort food.  Limited menu and the wine list doesn't tell you names of the vineyards - a bit odd. For a local place it is not bad.  Good vegetarian options."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXXzhxWkdREAE",
+            "text": "My first time in Mominette and the food is delicious 😋. You can tell by the business of the restaurant. So many people coming for lunch and dinner on a tuesday.\nI really love it.\nDefinitely coming back again!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkaE1haFBnEAE",
+            "text": "I booked this place for my wife’s 40th birthday and we had an absolute wonderful evening! The owner Bertrand and his team have done everything to make it a success, ranging from quality of food, custom menus, tasty cakes, screen to project memories and constant flow of Prosecco 😍\nI highly recommend it for anyone, small or large group! ❤️"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaaHBySkNnEAE",
+            "text": "Always a lovely experience here! Ambiance is perfect, service is friendly and inviting, and the food is always great. Had a beautiful sparkling rose with the pumpkin & carrot soup and the Coq au Vin for dinner with a Pinot/Gamay blend, can't go wrong! Thanks Mominette!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURocE1tVGJnEAE",
+            "text": "Great little spot, hidden within the ozarks of Bushwick. Quick service, unique cocktails and pleasant food. The yellow walls and dark brown wood paneling yield an inviting, French atmosphere."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsd2VqX0lnEAE",
+            "text": "I enjoy eating here the food was too tasty to stop and take pictures of it all. The drinks was strong and tasty the bartender did her thing."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBLUtlcEJBEAE",
+            "text": "Pretty, cute vintagey bar & restaurant! Loved their oysters and loved that they allow you to order them in any amount. That’s super customer friendly. LOVED their Conway oysters. Hands down the best $1 oysters I have had. Decent drinks!…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtNnNUaVBnEAE",
+            "text": "Cute, well designed space with a good vibe but the wait time to get drinks and food was way too long. Drinks were good but after a long long wait, the food was quite disappointing. They really do take their sweet time with it. We waiting nearly 40 mins to get our orders."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvdC1hbndBRRAB",
+            "text": "Attended on a whim with a best friend for brunch. Did not have to wait more than 10 minutes. The Bloody Mary was one of the best I've had in quite some time. I got the Eggs de Parme which were eggs Benedict with prosciutto and melted…"
+        },
+        {
+            "date": "7년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnanFicnVBRRAB",
+            "text": "Super endroit, super équipe, service et plats parfaits pour un prix raisonnable en plus ! Moules frites, huîtres, burgers... C'est excellent.\nToute l'équipe parle le français en plus de ça ! Idéal pour une première sortie resto pour les touristes qui partent en vacances pour Manhattan et qui vont résider a Brooklyn."
+        },
+        {
+            "date": "7년 전",
+            "language": "fr",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnMUxxbW1nRRAB",
+            "text": "Cadre très sympa\nServeur accueillant\nConfit de canard 3.5/5\nMoule Mariniere 3/5 Il manquait aussi en quantité\nLes frites maison j en doute\nPar contre le café expresso il était très serré\nTellement serré que je voyais le fond de ma tasse\nLa note elle salée 57$ sans les tips"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHbjVYM2J3EAE",
+            "text": "Delicious! Great for brunch. Nice menu, food cooked beautifully, locally made bread in the French toast is great. Food came out super fast, nice aesthetic overall and good tunes."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzdWRuVkZnEAE",
+            "text": "Mominette is a really great deviation from the casual dining spots you typically find around this part of Bushwick. Vibe like your usual French spot. Very cute and small with dim mood lighting. Good for dates or small groups, bad for…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPX0xYb3NnRRAB",
+            "text": "I've biked past Mominette  countless times, thinking to myself, \"I'm gonna go there soon\".  Well \"soon\" finally arrived.  This place is always bustling, hence the interest.  mominette is a low key, dope spot with boozy cocktails.  We had…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRNS1UZC1nRRAB",
+            "text": "Their pancake and strawberry compote, I've craved this since having it, so fluffy and satisfying. The strawberry butter adds the perfect level of sweetness. Fruit was a nice touch."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQybTZhTG93RRAB",
+            "text": "I love the food here, atmosphere and everything. I been twice and i dont change for nothing the food there. Just an observation, because always is packed, i stand for a few minutes to just went in and no body told me please wait for being seated. Just keep that in mind. But all of them is REALLY GOOD!!!!!!!!!!! ❤️🙏🏼…"
+        },
+        {
+            "date": "6년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVd00ta1FBEAE",
+            "text": "Endroit parfait ! Serveur parlant tous français, nous sommes venus bruncher et tout était super. Les œufs Bénédict et norvégiens excellents, les toasts a l'avocat également, mais penser a au moins rajouter un toping dessus pour plus de…"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnNDVxYURnEAE",
+            "text": "Excellent happy hour and an absolutely beautiful patio garden area. Oysters and wine on happy hour was a treat in the garden! I've also had dinner here- wonderful, romantic place."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwMHJxbkVBEAE",
+            "text": "Food is average for a place like this. Yet the prices are high for the neighborhood. Service is really bad and it wasn't even crowded when I went there. The actual place looks much much worse than the photos on maps."
+        }
+    ],
+    "reviews_count": 76
+}

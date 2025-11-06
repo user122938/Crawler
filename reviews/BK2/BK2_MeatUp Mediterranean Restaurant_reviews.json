@@ -1,0 +1,670 @@
+{
+    "name": "MeatUp Mediterranean Restaurant",
+    "place_id": "ChIJHdQt1hpbwokR63shN2Iv4jE",
+    "grid": "BK2",
+    "address": "22 Old Fulton St, Brooklyn, NY 11201, USA",
+    "rating": 4.9,
+    "user_ratings_total": 379,
+    "phone_number": "(718) 600-1199",
+    "reviews": [
+        {
+            "date": "8시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OU2RYZDZWa3c1WW5CRmNXTkdlVmcwZEd0UlZsRRAB",
+            "text": "Very good service, good food.\nVery good attention."
+        },
+        {
+            "date": "15시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twT0xWTnFNM1I2VFY5SFZIQnNNRkpJUTJkbVdFRRAB",
+            "text": "This place serves the most authentic and delicious doner I’ve had in New York. The meat is tender, perfectly seasoned, and the portions are generous.\nEverything is fresh, the staff is super friendly, and the atmosphere makes you feel right at home."
+        },
+        {
+            "date": "17시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xORmRYVkVaSGRDZG5oS01rMTBhV28zV1UxelVsRRAB",
+            "text": "Absolutely loved Meetup Dumbo Döner! The food was fresh, flavorful, and perfectly seasoned,  you can really taste the quality in every bite. The portions were generous, and the staff was super friendly and welcoming. The atmosphere is relaxed but stylish, making it a great spot for both a quick bite or hanging out with friends. Highly recommend the döner .  it’s easily one of the best I’ve had in NYC!"
+        },
+        {
+            "date": "17시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205MU5rRk9jRzFvUVZGbk1YTTFjVTlCTmxOWWNuYxAB",
+            "text": "Absolutely delicious! Meetup Dumbo is hands down one of the best döner spots in Brooklyn. The meat is perfectly seasoned and tender, the portions are generous, and everything tastes super fresh. The staff are friendly and quick, and the place has a great casual vibe, perfect for grabbing a quick bite or sitting down to enjoy a real meal. If you love döner or just want amazing, flavorful food, you have to try this place. Highly recommend  10/10!"
+        },
+        {
+            "date": "수정일: 2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCZmJsaGpjbG81YmpoaVMzZFFURUZqZEVod1NWRRAB",
+            "text": "The food was fantastic, especially the chicken wrap and sauces are extra ordinary. Definetly recommend it for a good food with family or buddies."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxWmFtOXFibVZ5Y0VwS1ZXeE5WVXRITjFOVmNFRRAB",
+            "text": "the view is insane"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRGFXdzFNVFJJUWtwMloydFFMVmN0VW1SV2JXYxAB",
+            "text": "The food was so delicious and the service was very good! Definitely would go back"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WV1NHUnlYelExVlVoSlNVSlNZbTlIZDBSUlpXYxAB",
+            "text": "The food was amazing! The service was excellent! I would highly recommend!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toVmN6TXpaekpXWDJ4amVGSlJVMXAxV2tKYVdIYxAB",
+            "text": "Stopped for a restroom pit stop, ended up having great convo with the employees and drinking their delicious soup definitely an amazing place and will be back!!!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscVVYaFJObkZ6Tm5oRmIyTnRUbkJKWkdoMlFsRRAB",
+            "text": "amazing owners! recommend everything here! very convenient area as well 10/10"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sweU4ycElaWGR1Ym14blpXUlhUMWh0WmpKeU9XYxAB",
+            "text": "Best food ever"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xTVJEaHhSMXAwT0RodFF6RmhNRVV3VDFwRFgyYxAB",
+            "text": "The best in the city!!!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGaGVVaGxUakV5YjNGamJGVllOMHhUVm5CWVVFRRAB",
+            "text": "Delicious food, great service, and friendly staff! The picture speaks for itself. Definitely hope to come back here soon."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toSFltUjBNMUU1YUdoeGJHWmtUakZNUkdsUk5YYxAB",
+            "text": "Everything was perfect, the hospitality is great, delicious food"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taYVZYRklTRGh0YTBnek9GcGZZbVphYnpsR1pFRRAB",
+            "text": "Very good 👍"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214MFpHTXpabUpwYzFobVVFVldVblJIVlRkNGVYYxAB",
+            "text": "Everyone was very helpful and the food was awesome."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxcFdWVTJhbTkwZUVKZkxURk5NM0ZUWTA1WE1sRRAB",
+            "text": "Delicious food"
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0aVdrNVpVMlZHVkZaclpHcDFNR0Z5VW5WMVZIYxAB",
+            "text": "Une superbe découverte près du pont de Brooklyn !\nJ’ai eu l’occasion de manger dans ce restaurant halal situé à deux pas du pont de Brooklyn, et c’était tout simplement excellent ! Les plats étaient savoureux, bien présentés et généreux. On sent que les produits sont frais et préparés avec soin.\nLe personnel est vraiment au top — accueillant, souriant et très attentionné. L’ambiance est conviviale, parfaite pour un repas entre amis ou en famille.\nJe recommande vivement cet endroit à tous ceux qui passent par Brooklyn et cherchent une adresse halal de qualité. Une vraie pépite culinaire à New York ! 🍽️🇺🇸"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxb2VURnVRMTlHTTNCTVMwMVhhekZqVTBseGIwRRAB",
+            "text": "Top"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BM1FsOWZRV2hpYmtwbWVGaGFNMVZ5YzBGT1QyYxAB",
+            "text": "So good, the taste is so good !"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGZlRqSkxOVFZXT0VoMFQyVlRUM3B3WDBacVgxRRAB",
+            "text": "Top !!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vdFZVaGZXa0puWjNOSlUwcElTMWRtYlhoT2RHYxAB",
+            "text": "Restaurant juste parfait"
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGYVIyTm9PRUV0Tm5KdGN6WjZNVzVmT1dKcFprRRAB",
+            "text": "Restaurant halal perfection avec une vue sûr le pont de brooklyn juste magnifique 👍"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4TFUwbzNZak5TUjBJeFMwaFpWMVZyVURFeGFYYxAB",
+            "text": "So fresh and delicious!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCdWRHdE9SR2d0Y3psdWQxQkhRa2R1UkhSUFJYYxAB",
+            "text": "Excelente opción  me encantó 💕 👍"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxeFlYbzNWMDQyZEZScVozcDZkRmhWUW0xb1VtYxAB",
+            "text": "MeatUp Dumbo is a great choice if you’re in the neighborhood and looking for a satisfying, fresh, meat-focused meal that’s more elevated than fast-food but still casual and approachable. I’ll definitely go back — and recommend it to friends who are looking for tasty bowls, wraps or pitas in Brooklyn.\n\n★★★★★ (5/5) — Highly recommended!"
+        },
+        {
+            "date": "2주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4MFpGaGhNUzB6TmxKRlNEZGhNak5uTmt3eFYyYxAB",
+            "text": "Super bon et personnel très gentil et serviable"
+        },
+        {
+            "date": "2주 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OQmQzbFlaVjl0VEdwa1NUTmpWVmhsVTI0d01WRRAB",
+            "text": "Было вкусно. Порции большие"
+        },
+        {
+            "date": "2주 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMU9TMXliREZPT0hGcGJXdHVRVkJ2TW5wV1kyYxAB",
+            "text": "Polecam,bardzo dobre jedzenie🇵🇱🇵🇱"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZNFpHMHdNa280U1Rkd1gwOTVWMFV5WVVaVU4zYxAB",
+            "text": "Food quality , serving portion, cleanliness  everything  was great."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOc1pEUk5aVWhOZWs5bVJFWldjMkZDVWkxSGNFRRAB",
+            "text": "One of the best halal and most delicious restaurants in New York! I highly recommend everyone to visit and try all their wraps and bowls."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKUGFIUnJSR3RYWkVWYVIxSkthMmN5ZVV4MFlsRRAB",
+            "text": "Amazing food"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxcVUyODJVRWg1WWkwemExcFBNR3c0Tm5aUE5YYxAB",
+            "text": "MeatUp Dumbo completely exceeded my expectations.  from the moment you walk in, you can tell the place takes pride in quality and presentation. The food is fresh, flavorful, and perfectly seasoned."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKNlgzRmlRelJtV2xCWGRXeFRjall6VGxZMVkzYxAB",
+            "text": "The lamb and chicken gyro is sooo good. The bowls are amazing along with their toppings. Really clean, and the workers are friendly def my go to spot in dumbo. We needed a gyro spot in dumbo thank you!!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SWJVMXlSMVowZVdKU2IwOWFNemxxWVRWc2RYYxAB",
+            "text": "Amazing foods amazing stuff amazing Brooklyn bridge view 👍🏼"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKdUxTMXZRbmxuVUdSVFNsSnhVM2w2T1ZjeVpYYxAB",
+            "text": "The ingredients are fresh and the staff is wonderful!"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWZllqSlpNR1JsVWt0MU1IUllRMlJKYkhKUVpYYxAB",
+            "text": "Estuvimos hoy en su restaurante. Especial reconocimiento a Lila que nos sirvió de maravilla y atendió nuestras dudas con buena predisposición. Gracias."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oMVkzZEdTMVpZZFRsb05sOTVPRTh3VUdseWNIYxAB",
+            "text": "The food was excellent, the service was great. The fact that utensils are in individual packages and they have wet wipes. All around excellent."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGcVJta3phekZSY0Y5WlJVTk1SVlpMVlhOS2JIYxAB",
+            "text": "We came here for lunch on a Saturday afternoon after visiting the flea market at DUMBO. Food was tasty and their portions were generous. Very friendly and helpful staff. Convenient location too!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUWNHRklTRnBmZEVaME5VMU9jUzFwYUZka1YzYxAB",
+            "text": "We come here often since it’s opened.  Such a great healthy addition to the hood 💯💯💯"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SRWNuQldjREUyUjFSYWNsOUdOemx0Vm1VM2JGRRAB",
+            "text": "The staff is friendly, attentive, quick, and knowledgeable. The restaurant is nice and clean inside. The location is excellent, walking distance to the park and has a beautiful view of Manhattan as soon as you step outside. Food is pretty good. I did feel that it was a bit expensive."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOcmQxbzBZVVpwUTNscVltTnhiVmN5U2tWWGNsRRAB",
+            "text": "Buen servicio, amabilidad, rapidez. Excelentes recomendaciones que hacen si no sabes que elegir como turista y ame su decoración de Halloween."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSeFR6Tk9PR3hNV0RaaVlsZEVOVGRsTFRCalVWRRAB",
+            "text": "They put on everything, which is a different style, has flavors on it."
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZd01rbHZlakpuTlV4cVVWVmpORVZ1WTJkbFNYYxAB",
+            "text": "Me encantó el lugar acogedor y super bien ubicado si buscas una buena vista del Brooklyn Bridge.\nEl bowl con las papitas estaba super delicioso, la atención excelente."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCMWJuTlNNVVF6TjNkcFUwUjJOSGxWT0ZReFJXYxAB",
+            "text": "Both the meat and salads were very delicious. The place was clean and had a nice, relaxed atmosphere. Would definitely come back!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poWFlsbEZaVVJHYm1kMU1VY3lRUzFCTTBoamFtYxAB",
+            "text": "The food is very good, service as well, must to eat here if you want to try Mediterranean food!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTldXSnBaRkEwTTJKeE5IZElUbkZ4UWtWeGExRRAB",
+            "text": "Amazing food. All the veggies were fresh. Chicken was tender and juicy. Highly recommended."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kbk5GOXNUVmt6YWpWWmVUQnpaWFZyU0cxRWQwRRAB",
+            "text": "Delicious, very close to the Brooklyn Bridge and a very friendly business"
+        },
+        {
+            "date": "3주 전",
+            "language": "tr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxb1YxY3dRelU0VVRBMVptdEpSRWt0Y205RE9XYxAB",
+            "text": "Yemekler gayet lezzetli ve tazeydi.Ortamın temizliği gayet güzeldi."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sT2MxZGFVMDl0VmtKMFEyRTBlVFJhU2w5dmRHYxAB",
+            "text": "Food is fresh and delicious\nService fast\nAtmosphere nice and friendly\nHighly recommend 👍👍👍"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CMlRUSnRlbk5zUjNSUFpVdHJTMjVIVWxkWFNYYxAB",
+            "text": "Really good food and really good people. All ingredients are fresh and generous. Staff are patient and helpful with building your bowl. Food is delicious, fresh and juicy. Came back a second time at end of my visit."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5ZmNXMTBMV3BHVjJaNFlWQmZTa2hGVUZVNWVtYxAB",
+            "text": "I had the chicken gyro bowl and it was absolutely delicious! Fresh ingredients, flavorful chicken, and the perfect mix of veggies and greens. The creamy dressing tied everything together so well. The portion was generous and satisfying. Great spot for a healthy and tasty meal—I’ll definitely be back!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMlZuZDZZWFp5TWtkdFp5MTNOMjFJWTBSbllrRRAB",
+            "text": "The cleanest restaurant in New York with the best view, the most delicious food, and prices truly worth it. Much better than the famous Halal Guys — seeing a Turkish-owned place like this makes me proud. Well done!\n\nAlso, it’s the first place in America where I’ve seen them offer wet wipes — such an amazing detail :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWUk9HdGhPRTkzTjB4cmJuWnBZVUp1YUZSeldXYxAB",
+            "text": "Whether you’re a local looking for a new favorite or a visitor chasing something unforgettable, this Mediterranean spot delivers. For mains, the chicken platter and chicken pita wrap melt in your mouth. Delicious, deeply spiced chicken/lamb to your taste and grilled to a perfect medium rare, plated alongside smoked eggplant and tzatziki sauce along with the greens of your choice. Service was warm, attentive, and knowledgeable. Every bite is layered, bold, and beautifully balanced. I strongly recommend trying MeatUp Dumbo!! We will be back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwME5XcHpZa1JOV2pVd1RtcG1WVU15YXpsYWMyYxAB",
+            "text": "⭐ Best Review for MeatUp Dumbo ⭐\n“I wasn’t expecting much, but this place really impressed me. The food tastes super fresh, the meat is seasoned just right, and the portions are bigger than I…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTFR6ZE9kVE5KVjFaTFEzbzNVbEZOWmpVd2JWRRAB",
+            "text": "Food is amazing, so tasty and portions are big! Staff is super nice and explained us the options we have. We decided to create our own bowl and the result was wonderful! Plus, you have a great view. Love it! Total price was $12.50 + 2.50 meat + tax = $16.34"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWM1oxTmxiSGRLV1dRNWVVUnBOMVZRV0hoQ1kzYxAB",
+            "text": "This place is really good. I highly recommend this spot. I’ve ordered a mix bowl and the mix meat is very juicy. Everything just tasted fresh. This is why I love halal food. I’m so happy they opened this spot up near the Dumbo Bridge 👌🏼✨"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xYWNYQjFhRmM1Wm5ONlQyOUxSREo1WDNwdFVYYxAB",
+            "text": "I visited Meat Up Gyro today in DUMBO, Brooklyn, and I was seriously impressed! The food was delicious, the vibes were great, and the staff was incredibly friendly and welcoming. Their prices are very reasonable, and the outdoor view is absolutely beautiful. Highly recommended!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjNE5URjVPV0Z6VWpacE5HTlBWVFF0Y1ZOS1ZtYxAB",
+            "text": "Absolutely amazing! The döner here is authentic and full of flavor. The menu is packed with delicious options, and everything we tried was perfectly seasoned. The staff including the owner were genuinely kind and welcoming. This place is a gem in Dumbo!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZeFRVdzRTVWt6VFRSRlV6WnlOV3RKV2pZNFJuYxAB",
+            "text": "A culinary oasis awaits at MeatUp in Dumbo. This isn't just a meal, it's an experience. The warm, welcoming ambiance is the perfect prelude to a stunning Dumbo view, making every visit special. The true star, however, is the food. The beef and lamb shawarma bowl is a masterpiece each bite a symphony of tender, mouth-watering shawarma paired with fresh greens and delicious rice. It's an authentic taste of the Mediterranean in a truly unforgettable setting. This place is a must-visit for anyone who loves great food with a great view."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkdGEwY3dabGxHU1VKWVkxRjBWRjgyZUZsTFVHYxAB",
+            "text": "This new gyro restaurant in Dumbo is absolutely amazing! The staff are super friendly and welcoming, and the meat and salad taste incredibly fresh and flavorful. Everything is well-prepared and delicious. Definitely my new favorite spot in the area!"
+        },
+        {
+            "date": "3주 전",
+            "language": "tr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWWlpXazVablZWVm5wTWJWbERORUpKTTBsVGRXYxAB",
+            "text": "Harika ötesi , gerçekten çok lezzetli ve doyurucu. Temizlik güleryüz lezzet manzara. Et bowl aldık ve döneri oldukça lezzetli. Yan ürünler de bir o ladar lezzetli önünde nasıl kuyruk olmuyor anlamadım. Helal guys , whole market gibi yerlerden çok daha başarılı. Ayrıca ıslak mendil vermeleri ♥️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rMFdVZHBOVGhVY0dVNGFtaG1VMmxFVVc5aldWRRAB",
+            "text": "Worth the hype. Fresh, flavorful, and fast. Dumbo’s new spot overlooking incredible views of the Brooklyn bridge/NYC skyline. This spot is def one of our new favorites & go to spot when craving some Turkish food. I grabbed a half chicken half lamb gyro bowl and was blown away—juicy, well seasoned meat and toppings that actually taste homemade. The pita wraps are just as good (and super filling) along with great vegetarian options. Everything is build your own, which makes it easy to customize. They’re generous with the portions & reasonably priced. Extremely friendly staff, clean space, and fast service. You can tell they care about their customers satisfaction & for the quality of their food. Not your typical gyro, it’s better. Definitely worth a stop, you’ll walk away impressed & probably planning your next visit!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kb2JHMHROMjlwVTFkRU1ETjRlblJ5VWpNeldGRRAB",
+            "text": "I 100% recommend this place!! The staff are very friendly and helpful and the food is AMAZING🤩 I got a chicken bowl (see the photo) and a ginger ale, the portions are huge and it is also halal. Location is also nice as it is in a lively place right next to the Brooklyn bridge!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWcU5uVkVNSHBCZDJaU2VVVkViVzlPTVdJMVdVRRAB",
+            "text": "AMAZING PORTIONS! wow i’ve never been to a place that gives this much protein - it’s like 3x as much as other spots that serve bowls. it’s delicious - super flavorful and very great toppings: sumac onions, roasted veggies, and amazing sauces."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kelQxaGxaMlo0YzFwV2VHZzBjMHR6WmpCNFoyYxAB",
+            "text": "This place is amazingg. I have been in the states for 4 months and this place was the best one in here. Everyone should definetely come here."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sMGRXTlFhVzVITkMxMFVYTlJjMjAwT0c5b2EwRRAB",
+            "text": "A Brand New Spot — And We Loved It!\n\nWe stopped by MeatUp Gyro today on their grand opening — and wow, what a great experience! The festive balloon arch at the entrance immediately caught our eye, and the inside was clean, stylish, and welcoming.\n\nWe tried their bowls with chicken, fresh veggies, sauces, and greens — everything was fresh, flavorful, and perfectly balanced. Loved that you can customize your own bowl just how you like it.\n\nThe location is amazing — just steps away from the Brooklyn Bridge. Perfect for a quick, delicious meal before or after a walk.\n\n📍 Atmosphere — 10/10\n🥗 Taste — 10/10\n🧼 Cleanliness — 10/10\n👋 Service — Super friendly and fast\n\nThis place is off to a fantastic start. We’ll definitely be back again soon!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21adVduSnZORGREV1VsQlJXODFURmN5YTFoak1tYxAB",
+            "text": "My husband and I had such a great time at MeatUp Restaurant. He got the beef wrap and I went with the mixed chicken and meat bowl. Both were absolutely delicious and full of flavor. Everything tasted so fresh and well-prepared.\n\nThe staff were incredibly friendly and welcoming, which made the whole experience even better. The place itself has such a cozy, clean, and inviting vibe, perfect for enjoying a meal together.\n\nWe both loved it and will definitely be coming back again. Highly recommend MeatUp to anyone looking for amazing"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSSVdtdFdjM1V3TlhOeVZXZFhaRGd0U1VnNFdsRRAB",
+            "text": "Very good Turkish food in Dumbo at an excellent price point.  The salad and spreads were fresh and flavorful.  I loved the variety and ability to 'build your own' bowl with whatever you are into the mood for.  I had a chicken/lamb bowl. It was so much meat I couldn't finish it all.  The pickles and roasted red peppers were good accompaniments to the hummus and Tzatziki.  I opted for Tahini sauce to top it all off.\n\nPleasant, helpful service and good beverage options made it a top notch lunch option in the area.  I'll be back!\n\nOne thing, if you could offer more lowered seating, instead of the tall stools, guests would be able to see more of your exceptional view of the Brooklyn bridge.\n\nSorry for the messy photo, I was salivating as the bowl was made I could wait to start eating.  The food here is Very Good!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xveVlVdEVTako1VGpKRmFuZFJNbnBKYW5aRU4yYxAB",
+            "text": "We had an excellent experience at MeatUp Restaurant! I ordered the beef wrap and my wife got the mixed chicken and meat bowl. Both were absolutely delicious. The flavors were rich, fresh, and perfectly balanced.\n\nThe hospitality was outstanding. The staff were friendly, welcoming, and made us feel right at home. The location is convenient, and the ambiance is warm, clean, and comfortable, perfect for enjoying a nice meal together.\n\nWe both loved our food and will definitely be coming back soon. Highly recommend MeatUp to anyone looking for great food and great service!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGME5qaERYMWhYVFhGbFVVVkplRkpWVkdSNlUzYxAB",
+            "text": "I recently discovered a new place in Dumbo that I highly recommend! The gyros are perfectly cooked and incredibly delicious. The staff is also very kind and welcoming. We were even given a baklava as a welcome gift. Small details like the wet napkins show they care."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25velEwaHRNakJ1ZFRsMlVreEpMV3RIVjBaNllWRRAB",
+            "text": "Absolutely amazing kabab ! Very juicy and fresh. Halal options are also available.\nWe had bowl and wraps and they were super delicious .. loved it!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4alZFRXlZVkZwVVZoTVdEZEpTbFJ6UkhWdlRGRRAB",
+            "text": "The food was delicious and the portions were incredibly generous. I really appreciated the wide variety of fresh options available. On top of that, the staff was so friendly and helpful, providing truly excellent service. I highly recommend this place!"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bFFYSnhTVXh1Y3kweFgwUnJVR1ZWTFc5UU4zYxAB",
+            "text": "Excelente comida, todo delicioso, el mejor Bolw q me he comido, la atención de las 2 chicas Mexicanas es espectacular, ya q ellas lo guian y le recomiendan opciones de como armar el Bowl"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCek0weHNjVXhIYW1aa2RVNHhkazR5WkRoUWNWRRAB",
+            "text": "Got the meat wrap with beef. It’s a hearty wrap, it’s my second time here. The taste is pretty consistent.\nHowever, the first time I went I was allowed up to four sides on the wrap. It says that on the menu too. But this time the lady who was making my wrap told me I can only have three sides?\n\nConfusing and kind of letdown as I would have chosen my sides differently if I knew it was three.\n\nAnyway - the wrap was still yummy so it’s a 4 star review. Just confused about the inconsistent service and offering, which matters for the whole experience even if the food tastes good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzeFZYcG5jRkV4Vm5aeU5HWjZPVll4YTFwMU1VRRAB",
+            "text": "I had such a great experience here! I loved that you can create your own bowl with so many fresh and tasty options—it is perfect for customizing exactly what you are craving. The food was absolutely delicious, and the portions were just right. The ambiance was lovely, relaxed but stylish, which made the whole meal even better. On top of that, the staff were incredibly friendly and welcoming, which made me feel right at home. Definitely a place I will be coming back to!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xreFIxRmpPVlpzZUVkTWEyTTJiMEZNUmtkdVZWRRAB",
+            "text": "Food was great and flavorful! Highly recommend the house bowl :) All the staff were very welcoming."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210dk5URjBZbFo0Vm5SaWFDMDJTVFZDY1hsMGVrRRAB",
+            "text": "Just stopped by my friend’s brand-new döner spot and I’m genuinely impressed! The meat is tender and perfectly seasoned, the veggies are fresh and crisp, and the house sauces tie everything together beautifully. You can taste the care that goes into every wrap. If you’re craving authentic flavor and warm, welcoming service, this is the place—highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25adFVtaG9WRVJRUjJaa1QyTmplVzkwVFRCUWJWRRAB",
+            "text": "Atendentes super fofos, comida deliciosa, preço muito bom e ambiente super agradável!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxd2NqWldURWMzV0VWWE1FRklkRzgxWVRack1rRRAB",
+            "text": "An excellent place to visit; it combines good taste, excellent service, good hygiene, and a beautiful view. It's definitely become my favorite when I go to Dumbo. 100% recommended."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aUFNFeFdRVzVZYW0wMWFXUnZYMmxoT1dkbmRXYxAB",
+            "text": "10/10 food, fresh, solid proportion, well seasoned. Will be coming back"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxU09URk9jRWQ2YzB4UFdUaEZjV3hHZUdWTVRXYxAB",
+            "text": "Meatup Place is a hidden gem!\nThe roll-up was absolutely delicious – packed with flavor, perfectly cooked, and super satisfying. Everything tasted fresh and the service was top-notch. I’ll definitely be coming back. Highly recommended!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMFVXOXlObEZVU1hFd1JWUmxiRjgwVVVkMlozYxAB",
+            "text": "Finally Halal food at Dumbo! Very nice food and souces. Recommend to get mix meat, u wont regret!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGTWFuaHhiSGRtVFRBeFJuTjZkMFJvWlVWNVRIYxAB",
+            "text": "Genuinely really good food. The meats were clean and fresh and the sauces were very nice. Great to have a halal option in Dumbo too! The guys working there are very helpful and friendly."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poNFdIUnRia3hzUjJSM1JuaEdlbGR0VkZWb2NuYxAB",
+            "text": "I got the lamb gyro, and it was absolutely loaded—the meat was juicy and perfectly seasoned, the veggies were crisp, and the tzatziki sauce was creamy with just the right amount of tang. The pita? Warm and pillowy. Honestly, every bite was perfect."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjNGFtNWxjbE5uZFdNM2JWTk1jREJaUkdSZlEzYxAB",
+            "text": "The food is very good and halal, Nice spot with a top view on the brooklyn bridge and part of the Financial district I guess. I recommend it.\nSpecial mention to Bedirhan who took our order and advised us."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0aFZHaFZRbXhYU0RWdlFVRllZME14U0VNeU9YYxAB",
+            "text": "Absolutely loved 🥰 Everything was fresh, flavorful, and beautifully presented. The chicken bowl was packed with juicy grilled chicken, crisp lettuce, sweet corn, fresh cucumbers, ripe tomatoes, creamy guacamole, and delicious sauces—every bite was satisfying and full of taste."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aTVUycHdlbEZWV1VzM2R6aGtaMlpmTXpGck0zYxAB",
+            "text": "wonderful team, extremely delicious food, friendly, everything is very clean, I am delighted, I will come back here, I always recommend it"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aYWREUXRSRFJ5VEVOeldGVkNla1pITjJGSFdWRRAB",
+            "text": "Their lamb and chicken gyros are packed with well-seasoned meat, fresh veggies, and creamy sauces, all wrapped in warm, fluffy pita. The portions are generous, and the prices are fair for the area. The staff is friendly, and service is usually fast, even during busy hours. It’s a great grab-and-go option if you’re exploring the waterfront or just need a tasty lunch fix. Limited seating, but worth the stop."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUGFXMVBXR0pMY1dJNVNua3RkemRoWVdGMlNGRRAB",
+            "text": "Delightful. The food impressed me. Tasty food. Truly good service team. The restaurant's location is convenient and our time there was enjoyable. Visit for a good meal."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pReE5rbG5hMUptU0VKV05XWlZNR1phUTJOUGFtYxAB",
+            "text": "Excelente lugar y servicio! La atención muy atenta y nos hicieron probar todo previo a ordenar! Realmente exquisito"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkQmJYZFBRbmxVYUd4dFlUSkxiRmRRZGxKaVpYYxAB",
+            "text": "Delightful establishment with awesome view of the Brooklyn Bridge. Great for a date night Get the roasted veggies. Thank me later!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KcWEzUlZhVmhZUTJ4eGMzcHZNbTFGT0dGRWQxRRAB",
+            "text": "If your looking for an Halal option in Brooklyn Dumbo this is the best spot. They have variety options from bowls, waraps, burgers, and pita bread. They have tons of toppings that you can choose from. Def should give it a try. Nice place thank you Mr. Timur."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5aFpVSjJRVVZ0VGtacGQxa3pURE5KWWswNFFtYxAB",
+            "text": "Delicious burger, one of the best doners I've ever had. Friendly staff, great view of Brooklyn Bridge."
+        }
+    ],
+    "reviews_count": 94
+}

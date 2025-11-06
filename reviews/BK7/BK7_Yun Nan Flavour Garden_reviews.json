@@ -1,0 +1,551 @@
+{
+    "name": "Yun Nan Flavour Garden",
+    "place_id": "ChIJi4z3xcpawokRiVFgIC56Y2M",
+    "grid": "BK7",
+    "address": "5121 8th Ave, Brooklyn, NY 11220, USA",
+    "rating": 4.3,
+    "user_ratings_total": 543,
+    "phone_number": "(718) 633-3090",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4dGRrZHNYMmwwY2pSek1HSllSRUpIYjBVNWNVRRAB",
+            "text": "Incredible food here! Perfect for the cold weather."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVMVFWaE9lRlUwV0hKWFgyeFJjVUZ4UW14cU0zYxAB",
+            "text": "Beef noodle and dumplings with sour and spicy soup is very good!"
+        },
+        {
+            "date": "1주 전",
+            "language": "zh",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0U05HTTNUMHRNUmpSNFEyNDRVa1JhYTI1bFMxRRAB",
+            "text": "什么鬼地方只吃一碗面，连开水都没有给还强制性要收小费讲什么？我们工资只靠小费，你没工资和我啥关系，我只是花钱消费消费，我乐意给就给我，不想给就不给，还真的第一次看到你们这样子强制性的要"
+        },
+        {
+            "date": "2주 전",
+            "language": "zh",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSTVUzRlZhR1pzZG5GUE5rNHdXRmd6TUVOT1RWRRAB",
+            "text": "打包的外卖，食物里面有蟑螂🪳\n\nAvoid this restaurant, the food is unclean and there are cockroaches in the takeaway food"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2podFEyRlRPR290WmpodlRtMUlTamxQTlhSTlZFRRAB",
+            "text": "Homey, casual, but incredibly satisfying noodles. Everything is delicious but the crossing bridge noodles are my favorite. Good service.  Highly recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWZlZqZGxWbk5mU2psWVZrUlBTelJQY1dsdGJGRRAB",
+            "text": "Good food. Fresh"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkcU0zbHJURU4xVEZwNFZURTBUbWRrY0RaTFZFRRAB",
+            "text": "Delicious food and good prices. We got the crossing the bridge noodles and one other soup. The broth was house made and so flavorful and good, and the noodles were fresh and chewy. Definitely check this place out."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQZk80Si1nN2RuR0dnEAE",
+            "text": "4/17/2025\n这次带了我对象来，真的很好吃，点了肥牛过桥米线。没吃过的推荐。其他东西还没试过。但是过桥米线是推荐的。\n\n3/20/2025\n我记得我很久之前跟我家人来过，这次算是第二次来，点了过桥米线是乌鸡的，意外的特别好吃！\n吃起来整个人都暖了。真的很好吃。就有点像在一个城市里找到一家宝藏店的感觉。"
+        },
+        {
+            "date": "2달 전",
+            "language": "zh",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFNFUwSlJiVVp4YmtwV1ZHdGpNUzB6UzBJMmNrRRAB",
+            "text": "点个餐 送个餐就要小费 没搞明白"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NVYwOUJjR2d4WWxOalNUUkNjVmQzTFhOT2ExRRAB",
+            "text": "Broth was really flavorful. Beef a bit harder, noodles a bit soft. Otherwise good deal."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GVFJscEZOVTlPZW5wbVVUQkxOV001VEVsWmJGRRAB",
+            "text": "Kinda dark and in need of better lighting. The food was good and inexpensive ."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VQX1RoN2Z6d3J5UDFBRRAB",
+            "text": "Cash only restaurant fyi.\nSolid noodle dishes for a great price."
+        },
+        {
+            "date": "5달 전",
+            "language": "zh",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VNUEdscVdzZzlTUXZ3RRAB",
+            "text": "垃圾吃个面还要追小费，追着要讲没小钱，还要我用换钱给，服务也没有什么服务就吃个面也追着要。无语。小费是个人喜欢不是追着收"
+        },
+        {
+            "date": "5달 전",
+            "language": "zh",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VQNmM5ck9HOUszU2RBEAE",
+            "text": "食物里总是会发现一些奇怪的东西"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNcUNqUFRVa016MzFRRRAB",
+            "text": "My buddy took me here last week. He thought it would be too spicy for me but I love spicy food and this did not disappoint. I got the Noodle with Crispy Meat sauce for $9.95 and asked for it dry. It also comes with cilantro which compliments the dish very well. The meat and noodles are bursting with flavor and puts to shame the noodles I’m used to eating. Our server was polite and very pleased we were satisfied. I will come back."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZd1pLZ09REAE",
+            "text": "There's not many places in the city that offer crossing the bridge noodles. This one is the best (and the cheapest!), and that is why you should come here."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMC03a1NnEAE",
+            "text": "Very good noodle place in 8 ave!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNGRlZGp3RRAB",
+            "text": "The BEST broth, every spoonful rich with Yunnan flavor. Lots of places claim “crossing bridge noodle,” these folks are the real thing."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMC1MVU93EAE",
+            "text": "No service, not even a cup of water, but ask you for tips! How dare!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3LWFTc2NnEAE",
+            "text": "#5 and #40"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3bnNuaXJ3RRAB",
+            "text": "I like this place authentic Yunnan food!\nVery traditional Chinese restaurant with all wood round table and crystal lamps."
+        },
+        {
+            "date": "8달 전",
+            "language": "zh",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRd2EzaGVREAE",
+            "text": "牛肉不干净 吃完一直拉肚子"
+        },
+        {
+            "date": "8달 전",
+            "language": "zh",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnLTh6SGVnEAE",
+            "text": "以前都不用小费的。现在会追着要了。服务也没有也追着要。无语。越做越差了"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmeXQ3QmNBEAE",
+            "text": "Exceptional crossing the bridge noodles. Great flavor, nice presentation, friendly service, no wait to eat here and food came fast, good price. We enjoyed all the food here and would highly recommend to anyone in search of a hole in the wall, no frills, peacefully silent noodle meal. Enjoy!"
+        },
+        {
+            "date": "10달 전",
+            "language": "hi",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2eXUyajhnRRAB",
+            "text": "Hao len ging!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2ek12MDZ3RRAB",
+            "text": "Soups here are delicious!!! Have been coming here for awhile now. Be open minded and try the soup, and you will be hooked. I am hooked. 😀"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzdk8yMVJBEAE",
+            "text": "Staff was so nice and servings were huge!!  Delicious and will definitely recommend 💕"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYMjViQy1RRRAB",
+            "text": "Literally the best 过桥米线 you’ll ever find in New York!! A huge bowl of delicious noddle with a plate full of beef/ lamb slices for $14, it can’t get better than that"
+        },
+        {
+            "date": "1년 전",
+            "language": "zh",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuejlIWDdRRRAB",
+            "text": "凉拌米线最近蒜头味太浓了 有待改进下"
+        },
+        {
+            "date": "1년 전",
+            "language": "zh",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIXzhQS193RRAB",
+            "text": "经常吃他们家的过桥米线，味道很不错。 服务方面几乎为零，水只会上给老外。里面的员工还期望着这样的服务能拿多少小费似的。"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIaFpiejF3RRAB",
+            "text": "best rice noodle I’ve ever had 🤯🤯🤯🤯 service is amazing too"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIanIzNWZ3EAE",
+            "text": "Good place to have soup w/ 饵丝 noodles."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnaWN1WXRRRRAB",
+            "text": "Love this place.  I started eating at this place when it was a hall in the wall. The owners moved to this current location and I followed.  It is one of the best noodle places in Brooklyn and very reasonable priced. I come here at least once a week. The reviews are accurate.  Crossing the bridge noodle is my favorite. My friend loves the beef stew noodle.  When we are extra hungry we order the hot and sour dumplings too. So Yummy! They have the air conditioning blasting and a fan going during the summer time so you can still enjoy the delicious noodle soup!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3Z1lQeUpREAE",
+            "text": "FYI this is why no ones picking up the phone"
+        },
+        {
+            "date": "1년 전",
+            "language": "zh",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3bEtPX053EAE",
+            "text": "电话永远打不通 如果不要电话可以把电话从网站上撤掉"
+        },
+        {
+            "date": "1년 전",
+            "language": "zh",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3NlBiUVpREAE",
+            "text": "打电话没人接"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiNFB5NTh3RRAB",
+            "text": "Good!!! Go here sometimes and it always slaps."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiMF9fSTR3RRAB",
+            "text": "No frills delicious and cheap noodle soup!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURydjhlS3pnRRAB",
+            "text": "Good food, good price, but no tea no water served. Tipping required."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyLU8zXzhBRRAB",
+            "text": "Got my favorite go to Lu Mi Xian. Yummy yummy 😭so good. Reasonably prized."
+        },
+        {
+            "date": "1년 전",
+            "language": "zh",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUcDhtWlhREAE",
+            "text": "不知道是不是我点错了 就挺一般的 点的过桥米线 12刀"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUalotbjBRRRAB",
+            "text": "Very nice lady amy"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqdjZ2WUV3EAE",
+            "text": "Delicious soup. We found this place from my wife's you tube people who enjoy eating.\nWe got the beef stew and braised chicken along with Cucumbers.\nSuch a cool vibe also you sit at big round tables with random people.\nAbsolutely delicious. We'll be back.\nAlso crazy great prices."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREaWNpNlp3EAE",
+            "text": "Not bad. would be there next time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREa2Rmd0dnEAE",
+            "text": "I think the food was meh, like personally the dumplings had a strong vinegar taste and it felt like the meat wasn't too fresh. For the noodles, the meat given for the braised chicken was very little and although there was a lot of noodles, the soup flavoring had a strong pepper taste to it. The aftertaste of the soup was really weird, so I personally do not recommend ordering this. The customer service attitude was also really lacking. This was especially obvious when a nonasian person came into the store. They immediately served the person with a glass of cold water and a plate of appetizer, which my table of 4 people did not get. The attitude they gave the nonasian person was much more pleasing and complient, while their attitude with my table was very nonchalant. I would say the food is decent enough for the price, but I would not come again.\n\nRice noodles with braised chicken - $8.5\nDumplings with Hot & Sour Sauce - $8.25"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWMW9pRi1nRRAB",
+            "text": "Yun Nan Flavour Garden in Brooklyn is a culinary gem, renowned for its delicious noodles and exceptional braised dishes. The menu boasts a tantalizing selection, capturing the authentic flavors of Yunnan cuisine.\n\nWhat sets Yun Nan Flavour Garden apart is not only the delectable taste of their noodles but also the excellence in their braised dishes. Each bite is a flavorful journey, showcasing the rich and diverse culinary heritage of Yunnan.\n\nThis restaurant's acclaim is further solidified by its feature in newspapers, a testament to its popularity and culinary excellence. The cozy ambiance and friendly service enhance the overall dining experience, creating a welcoming space for patrons.\n\nIn summary, Yun Nan Flavour Garden is a standout noodle house in Brooklyn, celebrated for its mouthwatering offerings and recognition in the media. It exemplifies the diverse and exceptional culinary experiences that define Brooklyn's vibrant food scene."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOdGREYmR3EAE",
+            "text": "I remember this place before they even moved into an actual restaurant, it was just a small stall shop on 49th street with just a standing table. I cannot find this flavor anywhere else!! I love every single dish here but especially the zhajiang mi xian (no soup version), the sour spicy dumplings, and the pork intestine noodles. 😍 this place has to be on my list of top 10 favorite noodles."
+        },
+        {
+            "date": "2년 전",
+            "language": "zh",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4aDVIVXh3RRAB",
+            "text": "味道很专业，服务也不错，我第一次来点的是牛肉羊肉过桥米线，14元最贵的那种。肉片不错可以嚼烂。汤也专业。估计其他类型的米线味道也不错。下次尝尝其他米线。\n扣掉一分的原因是，1没有蔬菜或者太少。2没有网络wifi。3汤太多了，喝不完。\n补充一点优点，准备的勺子非常不错，很专业。不是那种很小的一次性勺子，需要喝一万口才会喝足的那种。"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaNElqaGdBRRAB",
+            "text": "I have been hankering for good Yunnan rice noodle for months, and this hole-in-the-wall noodle spot finally indulged my cravings. They really need to hire a better person to translate their menu into English properly though...\n\n#9 Rice Noodle w/ Lu Mein 滷米線 $8.25\nThe first one is dry noodle with braised pork and cilantro, and it was right up my alley with its flavorful sauce. Few months ago you def won't catch me eating cilantro, but now I have higher acceptance of its pungent taste. I added some chilli oil yet it wasn't spicy enough and only gave a slight numbing sensation.\n\n#11 Rice Noodle w/ Crispy Meat Sauce 脆腸米線 $8.75\nThe second bowl is rice noodle soup with crispy pork intestine. I don't eat intestines, but my company had high praise on them, saying they were clean and crispy.\n\nTheir rice noodles were perfectly cooked and carried a bouncy texture. We were surprised that we didn't feel thirsty after slurping the entire bowl, which means their rice noodles weren't salty and didn't have MSG."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3Z0t6akl3EAE",
+            "text": "Service was terrible.  They don't give you water and they scream the orders from the front to the kitchen.  The bridge noodle was not worth the price.  It's nothing special so get the cheaper noodle options which taste better.  The dumplings in hot and sour sauce was good."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3NG96aEhREAE",
+            "text": "The noodles are amazing here. Got the crispy bacon and intestines noodle. The broth had a great deep flavor.\n\nWe also got the traditional Yu Nan rice noodles. All of the ingredients come separately. Then the server will add the items to extremely hot broth in a particular order. The broth feels very refreshing.\n\nThe service here is very inefficient. It's typical in Chinese restaurants to get attention only when you ask for it but this place is so slow. They constantly got orders wrong. It's clear there's no process and no clearly defined roles. You need to be aggressive to get everything"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPZzhyeUZBEAE",
+            "text": "On a rare occasion we decided to explore the original Brooklyn Chinatown in Sunset Park despite the horrific BQE congestion. After traversing the entire length of 8th Ave within the Chinatown, we ended up here for a light meal. Yunnan is a province in southern China, bordering the Southeast Asian countries.  So it’s no surprise that its signature noodle dishes are reminiscent of Vietnamese pho. Yep, that’s my impression anyway after trying their menu item #1, Crossing The Bridge Rice Noodle $12.\n\nIt’s like pho, the broth is clear but more gingery, the rice noodle is round - not flat, the proteins shredded instead of whole slices.  The takeout version came with 2 separate big containers of broth one of which is a souped up chicken broth.  I found it quite odd but Not complaining.  I think I was supposed to mix them into the same bowl, but I simply dunk rice noodle into one and never get to the second broth as I’d finished the rice noodle.  I ended up drinking the second broth on my next meal.  Both broth were beyond delicious. The proteins were way too little however.  The rice noodle had a unique and intriguing texture.\n\nMy family also tried #3 - the beef & lamb version of #1 for $2 more, #5 - Rice Noodle with Beef Stew $8.50, and #14 Noodle with Lamb Stew $9.25. From what I gathered, I would recommend the latter 2 even though they are not their signature soups. They came with noticeably more protein and thus much better value."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHMzh2dkV3EAE",
+            "text": "I like their rice noodles with crispy meats (fried pork intestines, in case you wonder what kind of meat it is). The noodles are silky, great broth! Also tried their dumplings with hot & sour soup, highly recommend! Cash only. Staffs are friendly."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlNklEVERREAE",
+            "text": "This restaurant really stands out among all Chinese cuisine in Brooklyn. The YunNan rice noodle is authentic and I like the soup.\nHighly recommend the traditional cross bridge noodle with fish fillet.\nWent there on a Friday night at 6pm, no needed to wait and the service was awesome."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaaUx5blNREAE",
+            "text": "It would be perfect if the restaurant could offer some add-on options for the bridge noodles (e.g. to purchase additional protein since the thinly sliced meat can be a bit sparse when cooked). Very interesting Yunnan-style experience overall!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKbVpYUGxRRRAB",
+            "text": "Yunan is a province in China, whose specialty is soup noodles.  The ingredients come on a plate - a quail egg, slices of pork, 4 pieces of black chicken, bean sprouts and dried tofu skins.  The cooked noodles are served in a bowl. Then a large  bowl of piping hot broth follows. The ingredients are put into the broth bowl.  Once the meat is cooked to your liking, then you are ready to eat. It's like eating a bowl of hot pot."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHcTZLUXJRRRAB",
+            "text": "Good service and excellent food. I got the beef 雲南過橋米線, the noodles came with delicious and peppery broth. The servants will come and assemble your bowl of noodles in front of you. I would say that this store is a must try."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlbVpUQ0xnEAE",
+            "text": "Definitely a lesser known style and flavor of China in this country, but is more than worth it. Had the crossing the bridge beef & lamb and hot & sour dumplings. If exploring the different facets of Asian cuisines is your thing, don't miss out on this."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNteF83QW1nRRAB",
+            "text": "Great service and delicious noodles! The flavor of the soup was amazing and the crispy pork and intestines were delicious! I do wish there were more crispy pork haha. The good came out super fast but quality was really good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEdEoyc2F3EAE",
+            "text": "It is a true hole in the wall flavor bomb restaurant. Looks and decor can be ignored. Just order the food and enjoy the amazing flavors."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwbXF5RzVnRRAB",
+            "text": "Dark and dingy vibes with that C rating, but their noodle soups are flavorful, portioned well and cheap.  One of the best dine in cheap eats in Sunset Park.  Recommend #8 rice noodle w spicy meat sauce, #20 noodle w crispy meat and #40 assorted cold meats"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJdnIzX293RRAB",
+            "text": "LOVE THIS PLACE. Been eating the owners cooking when she was at the small shop on 49th St. After she expanded and moved to this location,  I've been eating here even more often.  It's my GO TO SPOT esp during the winter months.  The…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVejktaGhBRRAB",
+            "text": "Despite taking 20 minutes to wait for my take out, the cold noodle’s rice noodles are very good. The slightly spicy taste really added to the kick. But the topping that was added on had a weird texture that I did not like.  I know it gets…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtb3J5NWF3EAE",
+            "text": "Sooooo good! By far the best yunnan style rice noodle in the Brooklyn and Manhattan chinatown!\n\nThis is a very popular spot for locals. The few times I've visited they've been pretty busy, it takes about 15-20 minutes for food to come out."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBZzRLbUpBEAE",
+            "text": "About $12 For the crossing bridge noodle, the regular noodles are half the price.  These noodles comes with a bowl that is about the size of your head.  Pretty big.  The meat/fish are raw when it was first served and put in the hot soup as…"
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnX0lpQ3V3RRAB",
+            "text": "PERFECT cross bridge rice noodles! I have yet to find another place, in America, that serves this dish!\nAnother reviewer said there was no water/tea served, but I didn't find that to…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKbnFEendRRRAB",
+            "text": "Recommended by local here, it’s delicious .. tried the rice noodle with crispy pork and pork bung. It’s great."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJMXZIMXVBRRAB",
+            "text": "The soup is soooo good! I can taste the pepper in it. The fish and noodles are also great! It warms my stomach and heart in a cold winter."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnMDlYc2FnEAE",
+            "text": "Came here for the best cold rice noodle! Indeed it was great. Cash only. Will come back when I am around."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyaF9hMExREAE",
+            "text": "Best traditional Yan Nan Chinese Restaurant in 8ve Brooklyn and the noodle taste great with flavor and you can try other sides too and you won't regret. Closed today 9/1/22"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBd2VuWmF3EAE",
+            "text": "After being in New York for almost a week nothing hit the spot like the cold noodles at this place. Very refreshing yet filling the noodles had a excellent texture and the tangy broth was delicious."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNndjhHajl3RRAB",
+            "text": "Cheap and good. About six-ish a bowl. Noodles are very tasty. \"Communal seating\" aka there's like seven round tables to share."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBck5LM1ZBEAE",
+            "text": "What an authentic flavor! I really miss this special Yunnan food, btw the staffs are very nice they will help you with your food if you don’t know the order to put them into your soup."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwei1iZ3lnRRAB",
+            "text": "It's a really nice environment, and the servers were very patient with me. And the noodles and tea were wonderful"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5a3Nfb0dREAE",
+            "text": "The noodles here are actually quite good. I especially like the Noodle with braised pork stew. However, this restaurant has a big problem: there is absolutely no service. When customers arrive, they are not even offered a cup of tea or water. I don't know how the owner trains their employees. The owner only gives Waitress a very low base salary and expects them to earn their income through tips, but owner don't teach or provide tea for the Waitress to serve customers. It's been years and there has been no improvement. This is unacceptable."
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnMk8zclV3EAE",
+            "text": "Get the cold noodles. Spicy, cool, porky, peanutty goodness. Also the cucumbers = So Good!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKOU4zV25BRRAB",
+            "text": "Yun Nan Flavour Garden is my family’s go-to place for authentic Chinese noodle soup. I’ve tried the Crossing the Bridge Noodles, but my order is always the Hot & Sour Noodle Soup with Dumplings,  The noodles are incredibly bouncy and delicious, the chili broth spicy, rich and tangy, and the dumpling is bursting with flavour. Try it, you won’t be disappointed!"
+        }
+    ],
+    "reviews_count": 77
+}

@@ -1,0 +1,558 @@
+{
+    "name": "Yafa Cafe",
+    "place_id": "ChIJk6UAi79bwokRgb_Wkj3qhkY",
+    "grid": "BK7",
+    "address": "4415 4th Ave, Brooklyn, NY 11220, USA",
+    "rating": 4.7,
+    "user_ratings_total": 582,
+    "phone_number": "(347) 464-3999",
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWbGNVeDVlR0V4TTJ0VmNtcHhWbTh6VkVaMU5GRRAB",
+            "text": "i love yafa!!!! ive had the chicken sandwich before its so good. today i just got a bunch of drinks and they're all so beautiful. staff is super nice and friendly :-) im only visiting from LA but i always come to yafa when im in NY"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BdFMxVjJRbVZXVDB4bk1tWTRjbXRKVkcxamJVRRAB",
+            "text": "Nice and fun coffee place in Sunset Park.\nGood music, stable wifi, friendly staffs."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOQllXc3dYelYxUTNKRGJXSnRNR2R2VUdKaFJFRRAB",
+            "text": "Yafa is the best! My favorite cafe in NY. The only place I go for beans. Love the Dirty Tonic. Great staff. Great place to work."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOUGNuRXRNbFpHYzNCclVFbHRUbTl2VlhKTWNFRRAB",
+            "text": "I really like my oat flat white from Yafa, unfortunately now I have to ask for regular drip,  the espresso machine steamer is always dirty and I have a serious dairy allergy, sorry guys, I hate to do this."
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGNk9WQTVVbEZWYjNGR1lVUlVTM0pMVjJGWlNWRRAB",
+            "text": "Super rico"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KalZGTnhNQzFsVFZNdE5uWnVTM2hpVWxwelJuYxAB",
+            "text": "This place is incredible. The flavors stay in your heart and trap your soul. I hope they are around for many years and that they expand."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCamNXcFljSEJ3VVVjeVVqaDBXaTFhTTNGWFZsRRAB",
+            "text": "Great place"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ad1dWaEJhbmhtUlVkQ1gxODNkV1YzU1VsRWNHYxAB",
+            "text": "I had the latte with chocolate croissant. Really good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGZlZuaHNRM1UyVjJ4WVowbHJOMk5mZDFScVgxRRAB",
+            "text": "Amazing food and coffee"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GNUxXRkZVM1J1UlRaQ1dtcEdNMDFRZDB0M2NIYxAB",
+            "text": "i’ve been going here since they opened (still remember their sunset sammy + coffee special!) and it’s one of my favorite cafes. the staff is always nice and i’ve tried a good portion of the food menu. super appreciate the fact they don’t charge for alt milk! going to yafa is always a treat."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SblVsZEZPVlJRT1hRd1dIbFNlbkp5TURWTFUxRRAB",
+            "text": "Slammin food, slammin coffee, slammin staff. Great spot."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Kc2FXRlNXREJ4Y2xWNFpVeHpZMFU1WkVGcWNFRRAB",
+            "text": "Amazing coffee quality and great service.\nIs easy to get your order from your table.\nThe only thing is the Wi-Fi. In the back there's not really good wifi if you want to work there. But it's a perfect place to be relaxed and get a good coffee or a meeting with friends."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205MllqWjNNMUZXYlUxTVRFdFdYMVp0VUc1VVRWRRAB",
+            "text": "Tasty pistachio latte and fun atmosphere"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNd1RFdG1OVmhqU1RKaVUydHJVMmh6WjFNMWJVRRAB",
+            "text": "Kunafa Used to taste good! Sadly we had it recently and it was wet and doughy. Not supposed to be that wet at all (supposed to be crunchy)\n\nI would hope they get better cuz they seem like nice people."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twNmJqaDBMVXg2YVc0dFdtTmhZV0paVnpaSVduYxAB",
+            "text": "Rude service. Horrible food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NMFkwVkJTSFpVUVVOSWNqZ3lORXBWY0dsaWFFRRAB",
+            "text": "⭐️⭐️⭐️⭐️⭐️\n\nYafa Cafe is such a special place! The food is absolutely amazing — full of authentic flavors and cooked with so much care. But what really touched me was the Yafa coffee. The moment I tasted it, I felt like I was right back in Yafa, reminded of my grandma’s qahwa — warm, comforting, and unforgettable.\n\nThe staff are so kind and welcoming, and the whole atmosphere is cozy and relaxed. It’s the perfect spot to enjoy a delicious meal and a taste of tradition. I can’t wait to come back again!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4eFZUTlhUbnBYVTJKcWQyMDVVRVU0UjFKcWVVRRAB",
+            "text": "Cool place. Lost custody to my child here but the chicken sandwich made me feel better. The fries are really crispy! 🤌…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xamVtbENORVp3Y1RkVE5XVnRVbFp2ZUhOdmFYYxAB",
+            "text": "Cozy, well laid out, lots of seating. Espresso is decent & I love their cardamom drink options. There’s a ton of seating in the front & there’s also a fairly large back room with more tables. Public WiFi & restroom! I didn’t try the food but it looked insanely good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCb05VTXRSMHN5UkZoaE1ERkthSE10VDJwWlEwRRAB",
+            "text": "After attending the pop-up with Akram Cooks, we decided to come back the next morning for breakfast at Yafa Café—and I’m so glad we did! My sister is actually a regular here, but this was my first proper visit. I usually stick to the typical pancakes, but I wanted something different, and Yafa’s menu did not disappoint.\n\nThe variety was so impressive that we honestly had a hard time deciding what to order—we almost got everything! Every single dish that came out was perfect to the tee: fresh, beautifully presented, and full of flavor. You could really taste the love and quality put into the food. I enjoyed every bite from start to finish.\n\nThe atmosphere is warm and inviting, the staff are friendly and attentive, and the overall vibe makes it the kind of place you can happily linger in. If I lived in New York, I could absolutely see myself becoming a regular here. Since I only visit once a year, I’ll be looking forward to making Yafa Café one of my must-stops every trip."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWmFuWnZRbkl6YkhKS1NtOUxlbGRMVTFSeGVsRRAB",
+            "text": "Great coffee and service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toaE0yUTBUbGRWV0Vzd1lYWnZSMWxZU2pkaWJVRRAB",
+            "text": "I love this spot. Good drinks , good food and good vibes. The orange blossom lemonade was refreshing and tasty.\nI asked for a special cardamom matcha and it was delicious ."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUVVsSnJja2hXYjJ0QlgyUTBTSHA0Um5SR1RHYxAB",
+            "text": "Place was amazing! Very friendly staff! Wish I could take it back to NC with me!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kRGRuY3pjRFJrVDBscmRXeFBhSGhQTFhod04wRRAB",
+            "text": "super cute cafe tucked away in sunset park.. flavors were rllly yummy and i always love #woke"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sRGVGaHplWFpSYkVwVlEzQTNTbTQyV0VWdVUyYxAB",
+            "text": "TLDR: Good but pricey food, spacious with lots of seating, slow service.\n\nWe (party of two) arrived on a weekday for lunch, around 1:30-2pm. We placed our order at the counter. The cashier was polite. We ordered the chicken wrap and lamb sandwich. The total came out to be about 35 dollars which was quite steep by first impressions, but I held judgement until I actually saw the portion sizes. We sat in the back where there were alot of tables but tables were taken. It was also quite cold there with the AC blasting full on in people's faces, so we moved to the front which ended up being too warm. Weird.\n\nAfter maybe 15-20 minutes the food came out. Everything was served on real plates and with real silverware. Ketchup and salt and pepper were available for self service near the counter. The food was pretty good and fresh. The lamb sandwich came on toasted bread and had plenty of meat. The lamb flavor was prominent. However, the sandwich was slightly on the dry side; any sauce that may (or may not) have been put on was definitely not enough to be apparent. The chicken wrap was also good, with many vegetables including peppers inside, but the meat itself was slightly dry. I did need to add salt to both sandwiches, and I normally never do at any restaurant, so take that with a grain of salt (pun intended). The fries on the side were fresh and crispy. Overall, good food. But honestly, for the price, it wasn't mind blowing.\n\nIf you're looking for a space with ample seating to get work done in a cafe setting, this is the spot. Maybe we missed out by not trying the coffee, but the food was fine."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOemJITjRUMWczU1hac00weEdSelJQWnpOaVJHYxAB",
+            "text": "I have known the Yafa family for many years. They have been serving our neighborhood for 30 years. The friendliest people. This cafe is warm and inviting for everyone in the neighborhood. It is so nice to have someone in the neighborhood create something beautiful for us. Thank YOU Yafa!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205NWNrSmtaVWN3U1dOaE1qRXpNbGx2TkdKak1sRRAB",
+            "text": "A must try\nBetween the unique coffees with elevated syrups, the delicious, well-portioned, and reasonably priced food, and the welcoming staff, Yafa Cafe really stands out.\n\nWe came on a Sunday and were pleased to find spacious seating in the back. The decor is intentional, bright, modern, yet homey. The food was phenomenal. We got the Yemeni breakfast plate, the lamb poutine, and split the batata hara (spicy potatoes). I got a cappuccino — the espresso was bold and smooth. I also added their house-made cardamom and rose syrup. My partner got the ginger turmeric latte- also delicious.\n\nIt’s also right off the R train for easy access."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCamIwUjNTa1pmV1dWSVFXaFVjemRGWkhablZIYxAB",
+            "text": "They make the best matcha lattes in all of tri state new york, and trust I’ve tried so many spots and to this day nothing compares to yafa’s matchas"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NNFNWcHBWa3B4VFVRMlJGaERURWc0Y21kMU1sRRAB",
+            "text": "I orderded catering for the team today—burgers, fried chicken, hummus, and lamb were a hit! Thank you all for helping fuel our team and keeping everyone well-fed.\nMuch appreciated."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210UmNHSmtjR041T1dwM2FrNTFiSGxpTjBwWVFVRRAB",
+            "text": "A nice little coffee shop with both prepared foods and baked goods. They even have their own roasted beans for purchase. There’s a good amount of seating, so I was able to have my coffee and a toast to stay. I ordered a flat white with oat milk and a fig toast, totaling around $17.50. The flat white was a bit thin, and the toast was a bit small for the price. The toast had both fresh and dried figs but definitely more dried. I wish it had more fresh figs, as the honey topping was a bit too sweet. Both were still good overall, but pricey for what it was."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Bd05GRXdTRTlLVkRBeVRreFFkemh0VDBvMWFXYxAB",
+            "text": "The chicken sandwich 🥲"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOMmNUQjJhbFoyTUdGSFFXRnBORkJqT1doaVpYYxAB",
+            "text": "Delicious Yemeni and other Arab/Mediterranean favorites."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxTVNtVkpNRkZUYUdwbWJHdG9Sazg1VEZJMk9WRRAB",
+            "text": "The shakshuka was incredible!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQN2hwWTJDNHNxUjZRRRAB",
+            "text": "I ordered for delivery, not expecting much. I got a chicken sandwich and a mint lemonade and everything wasssss soooooo gooood! The mint lemonade so refreshing and not sweet! So happy I discovered this place close to my work!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VMbXQ5YldfX2YzUGJREAE",
+            "text": "I usually come and get the breakfast sandwiches here, which are amazing, but my experience today was underwhelming to say the least. finally came on a weekend to try the shakshuka, only to be disappointed that the $17 dish was the size of my fist. in addition, i tried the $9 yemeni coffee to be served in comically tiny glasses as well. we left still very hungry and out too much money. the portion size for these two considering the price is not justified, especially for the shakshuka considering none of the ingredients are very expensive."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQbWJ6c0NENU5MNUJREAE",
+            "text": "Great little spot"
+        },
+        {
+            "date": "5달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMdUQ0OTNPaHUzM3lBRRAB",
+            "text": "Le café Maple datte est juste wow!!! Au delà de soutenir la cause c’est super bon"
+        },
+        {
+            "date": "5달 전",
+            "language": "ar",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOejE3Y3FHOUphRHFnRRAB",
+            "text": "شهادتي في هذا المكان مجروحة من حبث حسن الاستقبال والضيافة ومن حودة وطعم المخبوزات والحلويات يستحق فوق الخمس نجوم ويستحق الزياره الخاصة له"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJSDk1NUQ1eWFYRzhnRRAB",
+            "text": "My girlfriend and I loved eating here, will return"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvdXRDSURBEAE",
+            "text": "Entered the cafe with little to no expectation and was pleasantly surprised with the experience. There is a hallway to the back where its pretty spacious. The burgers are pretty good too!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZNk1DT2Z3EAE",
+            "text": "Beautiful ambience, good food great staff and service"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvanN5cFZREAE",
+            "text": "I love this place.. the coffee and food here is the best!!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvNG9pam9RRRAB",
+            "text": "Forever one of my favorite neighborhood spots! Their cardamom brown sugar latte is divine and I've never had a bad meal here. I recommend the fig toast and chicken sandwich."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvaUxHUl9nRRAB",
+            "text": "Atmosphere is amazing, love the vibe, staff are so friendly and very welcoming."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJOUx6YzVRRRAB",
+            "text": "Great coffee, food, and space for doing work. This place is a gem. Also has great customer service - I accidentally made one of my drinks too sweet, and they replaced it with a smile. 10/10 all around!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJOVpMcE5REAE",
+            "text": "Delicious coffee and food and such warm, friendly service."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3eHQ3b0dBEAE",
+            "text": "Good coffee. There's no extra charge for the milk."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3OU5iUVpnEAE",
+            "text": "The 7-dollar iced pistachio cappuccino I ordered was a big difference from the regular ones. No milk foam in it and it’s only 12oz. Disappointment was not enough to describe my feeling; I was got cheated."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3NC1DTFBnEAE",
+            "text": "Yafa Coffee Shop is a true standout when it comes to quality and hospitality. From the moment you walk in, you’re met with exceptional customer service that makes you feel genuinely welcomed. The coffee is always fresh, rich, and expertly brewed, reflecting the shop’s commitment to excellence. The ambiance is warm, inviting, and perfect for both work and relaxation. A special acknowledgment to Kenneth and Farouk for their outstanding service—they go above and beyond to ensure every customer has a great experience. Yafa Coffee Shop is undoubtedly a must-visit for coffee lovers."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3c2JXUS1RRRAB",
+            "text": "I ordered the egg with hashbrowns on uber eats and goddamn!!! It’s SOOOO GOOD!! Will definitely be trying their coffees and other options on the menu next time!!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfb0x5S1l3EAE",
+            "text": "What a lovely coffee spot. Loved the calm and relaxing atmosphere. Staff is super friendly and helpful with recommendations. The cardamon brown sugar latte (w/ oat milk and iced) was great, and had a nice soft kick to the flavor. A perfect spot to sit down and unwind for a little while."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRbkllbjhBRRAB",
+            "text": "This is a very nice, spacious, comfortable, modern, and quiet cafe. ***Apple Pay is required for mobile ordering when you’re seated, just scan the QR code on the table to order, they’ll bring you the food. Pay for your tab after ordering or when you’re done eating.\n\nYou can also order at the front counter if you don’t want to do mobile ordering or don’t have Apple Pay.\n\nThe chicken sandwich was delicious! Perfectly flaky and crispy with a layer of coleslaw and some pickles. Fries were also made to the same flaky and crispy perfection."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyX3RYajNnRRAB",
+            "text": "Yemeni cafe serving a variety of drinks and food. I had the Oaxaca blend drip and found great notes of pear and some tones of green apple. Very nice roast of beans! The pita bread & hummus and the fried halloumi cheese were tasty — the cheese came with a cinnamon dipping sauce. The food prices are kinda high but the drinks are all reasonable."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyd2RUbHJnRRAB",
+            "text": "I had an incredible brunch here - the ambiance is lovely, the place feels low-key even when busy, and the art on the walls is wonderful. I had the lamb haneeth sandwich and it was FANTASTIC, hefty without being overstuffed. It's genuinely one of the best sandwiches I've had in Brooklyn. And the coffee's great too! Will definitely be coming back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURidDdiVlZREAE",
+            "text": "Cool cafe. It was nice walking in and seeing the classic elements of a hipster coffee shop - t shirts for sale, serious people at laptops. The coffees were delicious - I love the blend of modern and traditional stuff. The food options look pretty good too. Fingers crossed hopefully they introduce homemade baked goods at some point. It was definitely a place you don’t expect to see while driving down fourth avenue."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiOE1QS0FnEAE",
+            "text": "This place!!! Loved everything about it. Everyone was friendly and gave great suggestions. My latte was good and loved the halloumi sticks and chicken wrap. Additional seating in the back provided a comfortable space for us to hangout, eat and chat."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGeDZXOC1RRRAB",
+            "text": "Some of the best coffee I’ve ever tasted. Their food & desserts are amazing.\nVery nice staff.  The place is clean & well kept.  I’m very happy to see a cafe that is promoting Yemeni coffee to the world. If you’re ever in NYC, this is definitely the place to stop by!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmN3NhTG5BRRAB",
+            "text": "Yafa is such a gem. I’ve had the lamb haneef, the chicken sandwich and today, the BAT. Let me tell you. For such a simple sandwich, it was awesome. 10/10 hands down! The turkey used is flavorful and not the typical salty turkey bacon in the store.  Paired it with the Hibiscus drink with rose. Don’t stop with the quality Yafa 👏🏽"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREdHNULU1REAE",
+            "text": "Cute coffee shop in Sunset Park. I had the Tahini Chai latte iced and the chicken sandwich. Both were good. No complaints here. A lot of people there working on their computers. Nice space."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTcC1uZ0RBEAE",
+            "text": "The breakfast platter and lamb sandwich were pretty good and filling. The portions were generous and the presentation is nice, but the lamb was in large thick chunks that were hard to eat. The specialty pour over was good, but more expensive than other places. The sit down area in front is very bright and cozy; the back less so. Everything is nicely decorated, and I particularly liked the pictures of Yemen."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNab2FtUGR3EAE",
+            "text": "☕️Love visiting Yafa Cafe when we are in Sunset Park. My son, who lives there, says it's one of his favorite spots for coffee. The flavors of the coffee are beyond delicious.  Food served here is just as tasty.  We've tried a few things and enjoyed it all.  The little teddy bear pastry is cute and yummy! 🐻  Can't wait to visit next we are in Sunset Park! 🌆"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoMmFPbHdRRRAB",
+            "text": "Wonderful experience with an intriguing atomosphere. Flavorful chicken added to the Tabbouleh salad was okay. Maybe I am biased because Tanoreen in Bay Ridge has a Tabbouleh salad like no other. Yafa had ample seating and great service. Food came out quick and many options on the menu .Try out the blue dream latte! It was a highlight."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmcHRfajd3RRAB",
+            "text": "“If you’re looking for an authentic Yemeni experience with a wonderful ambiance, I highly recommend visiting Yafa Café! The place boasts and charming decor that beautifully reflects Yemeni culture. The staff there are absolutely fantastic—professional, friendly, and they make you feel right at home.\n\nI tried the Yemeni breakfast, and it was incredibly delicious, capturing the essence of traditional flavors perfectly. For coffee lovers, the café offers an amazing selection of authentic Yemeni coffee that will captivate you with its aroma and unique taste.\n\nMy experience at Yafa Café was exceptional, and I enjoyed every moment I spent there. I highly recommend it to anyone looking for a combination of heritage, authenticity, and outstanding hospitality.”"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQdm8yZWlRRRAB",
+            "text": "Very nice place. The workers are polite and respectful, the place is clean and stylish. I loved the coffee, and teddy was definitely worth it. Highly recommend. Thanks guys, good job."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqaDRUWHVBRRAB",
+            "text": "Only tried cappuccino which was about the average. It was not creamy enough. What I observed was that they were too busy that day so the barista rushed my coffee, didn’t make the foamed milk properly.\n\nThey sent wrong drinks to guests before me, and I waited 15+ mins for my one cappuccino. About 2-3 groups of guests after me got their drinks and left earlier than me.\n\nI love the whole space and was thinking about trying their food next time tho."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGNE5HN2lBRRAB",
+            "text": "Yafa is a little gem of a coffee shop and well worth the visit if you’re near the area. It’s one of two or three of the best cafes in Brooklyn and I’d put it in my top 5 coffee in New York. They serve excellent food, have plenty of space and the staff are great. Coffee - 8.2: the bean selection for their blend is very good, rich flavour with very bitterness. They use a medium roasted Colombia & Costa Rica blend that has notes of chocolate & brown sugar. The notes were there but they could have come through more. It would have been nice if they’d have a fruitier blend but I know they’re just catering to a market. Temperature is spot on and the milk work is nearly perfect."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1OTUtME5REAE",
+            "text": "Best Latte I had during my business trip to the States.\nWho would have thought that I would find such a great place over at Brooklyn, with great coffee from Yemen.\nThe cup was big, latte perfect, staff super friendly.\nThey also offer breakfast options.\nDefinitely check it out!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPcDhQZnNnRRAB",
+            "text": "We had an average experience. The Avocado toast was not good. The fried chicken sandwich was much better. Did not like their chips at all. They should substitute with something better. Also their milk tea was full of cardamon taste. Would not like to visit here again."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpOW9tRXRnRRAB",
+            "text": "Bomb 💣 dot com food.\n\nI went hard here with the haneeth sandwich & the fried chicken sandwich. Both unique and great items.\n\nCoffee is fresh to death.\n\nI had a field day and they represent Yemen 🇾🇪 as necessary these days.\n\nCheck them out."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxbjZ6ZnRBRRAB",
+            "text": "Great cafe! I was volunteering for the city counsel protest, I had came in multiple times to buy breakfast, snacks and use their bathroom. Their vegan rice pudding is delicious, made with oatmilk & I absolutely fell in love with their Yemini Honeycomb Cake. It’s a MUST try if you’re going in! I’d only not say 5 stars because they’re a bit pricey for this neighborhood. Out & indoor dining is available."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwc3JDbnNRRRAB",
+            "text": "Love their unique food selections. The seasoning is to perfection.  It’s a very calm and cozy place. Love coming here to eat breakfast in the morning and work remotely on my laptop to do some paper work.\n\nI would recommend it to anyone."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiNHB2andRRRAB",
+            "text": "staff were friendly and food was good! gf said it was the best shakshuka she's had in a while. we had shakshuka and the sujuk platter.\nthis place has a lot of potential. a little more love with the interior vibes would make it 5/5"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMX1p2WXNBRRAB",
+            "text": "Chill vibe, fantastic new flavors, great fried chicken sando, fun Yemeni breakfast, stellar BEC. Cute presentation"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtdk8tODd3RRAB",
+            "text": "I live near by and finally had a chance to stop in and try their coffee & food. I ordered a cappuccino with almond milk and it was F* delicious. Everything looks good on their menu but I had to try the chicken sandwich w/ fried egg. Wow, amazing! The chips are so good also. Will definitely be back on the regular 🤤🤤"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxLUszMGp3RRAB",
+            "text": "Stopped by as I was in the neighborhood in search of a yummy latte. This place is so lovely and most importantly the service was so so wonderfully pleasant and kind, I got a delicious latte, highly recommended. Loved to see how vegetarian friendly the menu is!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwdjltYk13EAE",
+            "text": "I had high hopes after reading the rave reviews and I wasn't disappointed. The food is excellent and moderately priced and the selection of fresh juices, coffee, and the teas are second to none. I had the Yafa fried chicken sandwich with…"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlNWIyTTlBRRAB",
+            "text": "Great vegetarian options. The place has nice positive vibe. Food is delicious. Coffee hits the spot. I've been back every weekend for over month now."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoNS1LLWx3RRAB",
+            "text": "Great atmosphere, love the food & lattes & also very aesthetic.\nordered the yafa fried chicken sandwhich & the lamb haneeth sandwhich, both are really good."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1cy1PbXFBRRAB",
+            "text": "This is definitely best place to drink coffee in this neigbourhood. Staff is friendly and coffee is great (if you like it traditional). Unfortunately, tables are dirty and it ahould be cleaner. Also, QR code for ordering is not working."
+        }
+    ],
+    "reviews_count": 78
+}

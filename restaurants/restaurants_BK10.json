@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Cavatappi NYC",
+        "address": "8024 13th Ave, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJV5TfyihFwokRcDihkO3VeWo",
+        "rating": 4.7,
+        "user_ratings_total": 274,
+        "phone_number": "(347) 497-5212"
+    },
+    {
+        "name": "Gino's",
+        "address": "7414 5th Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJh-vySVpFwokRlqjYXgXa2rg",
+        "rating": 4.6,
+        "user_ratings_total": 2307,
+        "phone_number": "(718) 748-1698"
+    },
+    {
+        "name": "Terina",
+        "address": "8424 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJVzwnSHtPwokRW1m_WDhZoqQ",
+        "rating": 4.9,
+        "user_ratings_total": 194,
+        "phone_number": "(718) 619-1191"
+    },
+    {
+        "name": "Skinflints",
+        "address": "7902 5th Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJ1a9fp15FwokRAjESmgtDpOg",
+        "rating": 4.6,
+        "user_ratings_total": 1615,
+        "phone_number": "(718) 745-1116"
+    },
+    {
+        "name": "Positano",
+        "address": "10018 4th Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJL8K2QYZPwokRRq-qmhec19s",
+        "rating": 4.5,
+        "user_ratings_total": 1276,
+        "phone_number": "(718) 833-1313"
+    },
+    {
+        "name": "Mama Rao's",
+        "address": "6408 11th Ave, Brooklyn, NY 11219, USA",
+        "place_id": "ChIJCTWhGjhFwokR4oswpf19-dc",
+        "rating": 4.7,
+        "user_ratings_total": 737,
+        "phone_number": "(718) 745-2269"
+    },
+    {
+        "name": "Annabelle's Pastaria",
+        "address": "717 86th St, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJVaKv92ZFwokRcHZGIuOZois",
+        "rating": 4.5,
+        "user_ratings_total": 298,
+        "phone_number": "(718) 836-9444"
+    },
+    {
+        "name": "The Corner",
+        "address": "8602 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJeRxeZQBPwokRu1D46XqfMAY",
+        "rating": 4.7,
+        "user_ratings_total": 140,
+        "phone_number": "(718) 333-5757"
+    },
+    {
+        "name": "Moon Flower House",
+        "address": "7617 13th Ave, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJ8fNg1PtFwokRvU5EAHTbuSg",
+        "rating": 4.8,
+        "user_ratings_total": 172,
+        "phone_number": "(929) 292-2007"
+    },
+    {
+        "name": "Amuni",
+        "address": "7217 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJj_Vs0TFFwokR7sSASt8lkpw",
+        "rating": 4.9,
+        "user_ratings_total": 135,
+        "phone_number": "(718) 833-7833"
+    },
+    {
+        "name": "Meze",
+        "address": "6601 13th Ave, Brooklyn, NY 11219, USA",
+        "place_id": "ChIJZY5EPzlFwokRNeTcmPu579Q",
+        "rating": 4.6,
+        "user_ratings_total": 700,
+        "phone_number": "(718) 234-6393"
+    },
+    {
+        "name": "Laila Bayridge",
+        "address": "8530 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJ41GzBwBPwokRhRc0N9ckwk4",
+        "rating": 4.8,
+        "user_ratings_total": 1194,
+        "phone_number": "(929) 416-5295"
+    },
+    {
+        "name": "Piccante",
+        "address": "7410 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJq6q2g1dFwokROj-WwfhUPjI",
+        "rating": 4.6,
+        "user_ratings_total": 391,
+        "phone_number": "(718) 833-3919"
+    },
+    {
+        "name": "The Brooklyn Firefly",
+        "address": "7003 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJ-xzeGldFwokRY7G9JXYvCvM",
+        "rating": 4.5,
+        "user_ratings_total": 767,
+        "phone_number": "(718) 833-5000"
+    },
+    {
+        "name": "Greenhouse Cafe",
+        "address": "7717 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJhReR7FhFwokR8bS-WjMXqk0",
+        "rating": 4.5,
+        "user_ratings_total": 744,
+        "phone_number": "(718) 833-8200"
+    },
+    {
+        "name": "Tanoreen",
+        "address": "7523 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJoWqUUFhFwokRgLdrJbh0bBg",
+        "rating": 4.8,
+        "user_ratings_total": 2942,
+        "phone_number": "(718) 748-5600"
+    },
+    {
+        "name": "Tequila Restaurant",
+        "address": "8321 5th Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJiVO74zdFwokRC8Sbs3siAVs",
+        "rating": 4.8,
+        "user_ratings_total": 60,
+        "phone_number": "(347) 578-7461"
+    },
+    {
+        "name": "Pho Table - Dyker Heights",
+        "address": "6821 Fort Hamilton Pkwy, Brooklyn, NY 11219, USA",
+        "place_id": "ChIJtwW9S4lFwokRk3MS3KPIIJo",
+        "rating": 4.7,
+        "user_ratings_total": 190,
+        "phone_number": "(718) 259-1091"
+    },
+    {
+        "name": "Bar Chuzo",
+        "address": "9324 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJZ3IAwKdPwokRvVp59xU15kA",
+        "rating": 4.8,
+        "user_ratings_total": 141,
+        "phone_number": "(929) 471-5499"
+    },
+    {
+        "name": "Ponte Vecchio",
+        "address": "8810 4th Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJedZFMGBFwokRLXwXImJDWio",
+        "rating": 4.5,
+        "user_ratings_total": 592,
+        "phone_number": "(718) 238-6449"
+    },
+    {
+        "name": "Yucusiama",
+        "address": "484 77th St, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJSwPcLtlFwokRSprHJuUGYOk",
+        "rating": 4.8,
+        "user_ratings_total": 159,
+        "phone_number": "(718) 333-5487"
+    },
+    {
+        "name": "Fire Kabob",
+        "address": "535 86th St, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJzYm5V_ZFwokRGCGrE2rb8Sc",
+        "rating": 4.8,
+        "user_ratings_total": 269,
+        "phone_number": "(718) 333-5361"
+    },
+    {
+        "name": "Mama's Noodle House",
+        "address": "1782 Bay Ridge Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJ077xDwBFwokR6Lm73BYnSG8",
+        "rating": 4.8,
+        "user_ratings_total": 102,
+        "phone_number": "(646) 897-3171"
+    },
+    {
+        "name": "Tacos Por Favor",
+        "address": "8125 5th Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJQ_sLuU9FwokROpt89rjSWnc",
+        "rating": 4.8,
+        "user_ratings_total": 287,
+        "phone_number": "(347) 497-4280"
+    },
+    {
+        "name": "La Villa",
+        "address": "1529 86th St, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJHbRlaW1FwokRkXiBnAWtMdQ",
+        "rating": 4.6,
+        "user_ratings_total": 1153,
+        "phone_number": "(718) 256-3100"
+    },
+    {
+        "name": "Salty Dog",
+        "address": "7509 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJEdFITlhFwokRXjI1Gakz_UE",
+        "rating": 4.4,
+        "user_ratings_total": 1228,
+        "phone_number": "(718) 238-0030"
+    },
+    {
+        "name": "BurgerFi",
+        "address": "719 86th St, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJ74yx92ZFwokRf58QGNeJklA",
+        "rating": 4.4,
+        "user_ratings_total": 1539,
+        "phone_number": "(718) 836-0836"
+    },
+    {
+        "name": "Vesuvio Restaurant & Pizzeria",
+        "address": "7305 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJ9acCK1hFwokRJjwus2Ai6Z8",
+        "rating": 4.4,
+        "user_ratings_total": 1640,
+        "phone_number": "(718) 745-0222"
+    },
+    {
+        "name": "Cebu",
+        "address": "8801 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJpSFqk4pPwokREokUaeLkQj8",
+        "rating": 4.5,
+        "user_ratings_total": 1430,
+        "phone_number": "(718) 492-5095"
+    },
+    {
+        "name": "Krispy Pizza- Brooklyn, NY",
+        "address": "7112 13th Ave, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJFXKydz9FwokRnHG_4a9z8Gc",
+        "rating": 4.5,
+        "user_ratings_total": 2215,
+        "phone_number": "(718) 745-9618"
+    },
+    {
+        "name": "Ayat Bay Ridge",
+        "address": "8504 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJBSKRV89PwokRcofsyKk26CM",
+        "rating": 4.6,
+        "user_ratings_total": 2002,
+        "phone_number": "(718) 831-2585"
+    },
+    {
+        "name": "Yi Poh Kitchen Asian Cuisine",
+        "address": "6415 11th Ave, Brooklyn, NY 11219, USA",
+        "place_id": "ChIJffPabWZFwokRzPu5ZwlJ1u8",
+        "rating": 4.8,
+        "user_ratings_total": 489,
+        "phone_number": "(718) 234-1688"
+    },
+    {
+        "name": "Marcela Cocina Mexicana",
+        "address": "7121 Fort Hamilton Pkwy, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJw9KfeGNFwokRIg529dl1pfQ",
+        "rating": 4.6,
+        "user_ratings_total": 345,
+        "phone_number": "(845) 867-4209"
+    },
+    {
+        "name": "Mancini's",
+        "address": "8504 5th Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJ7zdfl2BFwokRPOhb_qxrZJs",
+        "rating": 4.7,
+        "user_ratings_total": 692,
+        "phone_number": "(718) 333-5209"
+    },
+    {
+        "name": "Fonda Garibaldi",
+        "address": "6732 13th Ave, Brooklyn, NY 11219, USA",
+        "place_id": "ChIJm5ZG-FFFwokR3C5k_xOudtc",
+        "rating": 4.7,
+        "user_ratings_total": 224,
+        "phone_number": "(347) 497-5877"
+    },
+    {
+        "name": "Chick N’ Baos",
+        "address": "7314 13th Ave, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJN5VRiTdFwokRjmODdjRqLvE",
+        "rating": 4.9,
+        "user_ratings_total": 213,
+        "phone_number": "(917) 933-8813"
+    },
+    {
+        "name": "Istanbul Bay",
+        "address": "8002 5th Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJf8iznV5FwokRN0yuv7STdbw",
+        "rating": 4.3,
+        "user_ratings_total": 1184,
+        "phone_number": "(929) 292-2353"
+    },
+    {
+        "name": "Parkway Restaurant",
+        "address": "7504 13th Ave, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJ-_43HkBFwokRwMZ1q8gP7Pc",
+        "rating": 4.4,
+        "user_ratings_total": 334,
+        "phone_number": "(718) 745-4371"
+    },
+    {
+        "name": "The Common",
+        "address": "first floor, 9406 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJX7Tv1xlhwokRQbVL1ZTyrfE",
+        "rating": 4.8,
+        "user_ratings_total": 587,
+        "phone_number": "(718) 680-3030"
+    },
+    {
+        "name": "Panino Rustico of Bay Ridge",
+        "address": "8901 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJZ7mb7_9PwokR1jU1yvRbLEE",
+        "rating": 4.5,
+        "user_ratings_total": 122,
+        "phone_number": "(718) 333-5144"
+    },
+    {
+        "name": "Chong Qing Wharf Hot Pot 山城码头火锅",
+        "address": "6324 Fort Hamilton Pkwy, Brooklyn, NY 11219, USA",
+        "place_id": "ChIJnb9yDJ5FwokRxvta_ABUFug",
+        "rating": 4.8,
+        "user_ratings_total": 3582,
+        "phone_number": "(718) 489-0333"
+    },
+    {
+        "name": "Brooklyn Roots Italian",
+        "address": "8620 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJ52cyMsFawokR5wmmg9YUenk",
+        "rating": 4.6,
+        "user_ratings_total": 604,
+        "phone_number": "(718) 333-5122"
+    },
+    {
+        "name": "East Harbor Seafood Palace",
+        "address": "714 65th St, Brooklyn, NY 11220, USA",
+        "place_id": "ChIJZVJwHU9FwokRBuD4swvPWjY",
+        "rating": 4.3,
+        "user_ratings_total": 2090,
+        "phone_number": "(718) 765-0098"
+    },
+    {
+        "name": "Bay Ridge Fish Market",
+        "address": "7608 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJTzhX1zJFwokRTEIF_WG1_HM",
+        "rating": 4.7,
+        "user_ratings_total": 245,
+        "phone_number": "(347) 560-6019"
+    },
+    {
+        "name": "Maqluba Restaurant",
+        "address": "7025 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJ9dbpMN9FwokR0u7CNqGn9KA",
+        "rating": 4.6,
+        "user_ratings_total": 196,
+        "phone_number": "(929) 699-3897"
+    },
+    {
+        "name": "Bay Ridge Diner",
+        "address": "8017 5th Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJS_wigl5FwokRDeZ2VX9-KEg",
+        "rating": 4.2,
+        "user_ratings_total": 567,
+        "phone_number": "(718) 921-0266"
+    },
+    {
+        "name": "Ubani - Bay Ridge",
+        "address": "8309 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJnyj5t9tPwokRzZB8MaTh8Ng",
+        "rating": 4.7,
+        "user_ratings_total": 765,
+        "phone_number": "(718) 333-5363"
+    },
+    {
+        "name": "Boca del cielo BRUNCH ALL DAY",
+        "address": "8511 3rd Ave, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJe4mGUPVPwokR9OqFnqrWrxY",
+        "rating": 4.3,
+        "user_ratings_total": 693,
+        "phone_number": "(347) 560-6899"
+    },
+    {
+        "name": "Frankie's of Bay Ridge",
+        "address": "279 71st St, Brooklyn, NY 11209, USA",
+        "place_id": "ChIJa7IV_wxFwokRbHCdp1ZAb5o",
+        "rating": 4.7,
+        "user_ratings_total": 110,
+        "phone_number": "(718) 238-7100"
+    },
+    {
+        "name": "Jimmy's Place",
+        "address": "7118 13th Ave, Brooklyn, NY 11228, USA",
+        "place_id": "ChIJmdcmdT9FwokRebnUBIgTnn8",
+        "rating": 4.3,
+        "user_ratings_total": 414,
+        "phone_number": "(718) 748-5934"
+    }
+]

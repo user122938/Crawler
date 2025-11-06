@@ -1,0 +1,474 @@
+{
+    "name": "Villa Fiorita",
+    "place_id": "ChIJq6QuHRFFwokRSESp64jqQOg",
+    "grid": "BK11",
+    "address": "7720 18th Ave, Brooklyn, NY 11214, USA",
+    "rating": 4.7,
+    "user_ratings_total": 154,
+    "phone_number": "(718) 837-7950",
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCYVkyRjNTemN4YUdSc1lYZHhMWFpaUkVsWWFFRRAB",
+            "text": "Winner, winner, chicken Fiorita dinner!!! Excellent food. As someone who likes to cook, this is the highest quality food. Beautiful family restaurant in a great neighborhood. Got my food to go, make sure they give utensils."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJM1duZzVOVzQ1VVhWWmIyaG5jVnA0UW5aeFVtYxAB",
+            "text": "The mussels in white wine sauce were cooked perfectly, however the white wine sauce was tasteless. Shrimp in shrimp Oreganata and Francese were cooked perfectly but both sauces were tasteless. Servings of veal parmigiana were quite small and the veal was tough. Clams oreganata were very good. Restaurant was small and cozy. Owner of restaurant was extremely nice and friendly. Waiter was very accommodating. Service was slow and we were not rushed and spent a nice evening dining with friends. None of us will be returning to this restaurant because the food was not very good."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WbE5teDFUSG93YkZwTlV6QnFVR2MzUWpsd2JuYxAB",
+            "text": "My husband and I have been coming to Villa Fiorita for 41+ years. We absolutely love this place. It’s like family. We had our son’s baptism party here in 1984 and our son’s daughter’s baptism party here 29 years later. In between we’ve had quiet dinners and family celebrations here and we are going to be there again soon. I can’t recommend this place enough!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xadlJrcFFUV2xCVGt4bk4wUXplRzFoUWtGcVQwRRAB",
+            "text": "The soul of this restaurant comes through in every detail. The food here is exceptionally good. The tables here are rarely empty. The workers are uncommonly friendly to all guests. I'm head over heels for this spot."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGaGEyNW1SVlpPVDBaUFRsRkVTR2w1V1VsU1EzYxAB",
+            "text": "The food is delicious and the service is top notch. It’s like being home."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tScFpHSlpkMkl0VmpNMWJYSlpURVJTV2paVk0zYxAB",
+            "text": "Very Nice seafood dinner"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3MlpucXlBRRAB",
+            "text": "Love the food great family friendly place."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURReE4zajlBRRAB",
+            "text": "We had a great time. Great food, great service and the music in the background was pure italia."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRaThiU3N3RRAB",
+            "text": "Great restaurant with delicious food and friendly staff. Price is reasonable."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBdG9QeDVRRRAB",
+            "text": "The fried calamari  is my favorite it was perfectly crispy, golden-brown on the outside while tender and flavorful inside but you should definitely try other options on their menu. Good atmosphere and a very welcoming vibe. Service here is amazing too, staff is very friendly and attentive. Good food and good service, I would highly recommend!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfazZQd1Z3EAE",
+            "text": "Food was Delicious, the best Tiramisu ever! The Staff were so kind and it was so cozy!!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfamNlRHZnRRAB",
+            "text": "Food was good (particularly the fried calamari and stuffed mushroom). I think they need more staff for Saturday dinner service."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYc2VhM05REAE",
+            "text": "The food was excellent and the portion sizes were generous. The owners are always pleasant and do everything they can to make dinner enjoyable. Not many of these \"old school\" italian restaurants left. You can order from the menu or just tell them what you want and they will make it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYeGVURTRBRRAB",
+            "text": "The food was very good. The service was right on target.  2 things I would have preferred was that it wasn’t so dark.  I felt like I was in a basement from the 50s and I wish they served alcohol.  They did have wine\nWhich was good.  I would recommend this restaurant just for the food alone."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNudUpTVHh3RRAB",
+            "text": "Old school family joint. Delicious food, excellent service. Feels like Grandma's place."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBb2RXQk93EAE",
+            "text": "Simply the best"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiNklxa2tRRRAB",
+            "text": "Plenty of seating but feels very cozy. Staff is professional and courteous. The food is excellent. Everything tastes homemade. Highly recommend the chicken country style. Stuffed mushrooms and calamari. We ate too much so we didn't have room for dessert. But next time, will definitely try those as well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMdmRTNGdnRRAB",
+            "text": "Was here today for a graduation party. The food and service was terrific. I felt like it was a Thanksgiving dinner."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqdnFiMjZ3RRAB",
+            "text": "This restaurant is like walking into your grandma's kitchen for a good meal.  The food is excellent and comes out hot and ready to enjoy.  The service is super.  If you are looking for a place where the waiter is constantly at your table you are in the wrong place.  The service is based on what you need.  Laid back, friendly and overall excellent.  We love the feel of the place.  Just a really great place to eat and enjoy an evening with friends or your better half.  A favorite of ours for many years!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqcVByU1V3EAE",
+            "text": "Service was poor dirty fishers were left on the table to the end of dinner.\nThe food was less desirable\nThe prices were higher than they should have been"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqbUxlZ2F3EAE",
+            "text": "Villa Fiorita has been recommended to me many times by various people. I've been busy going to other places, trendy and modern, so I've hesitated going to such an old-fashioned place. I will admit that I was so wrong to take so long to come to this place. Yes, the aesthetics are lacking, the outside is unpretentious and the inside is rustic and homey. But, what you come here is for the food and the service. I was awed by the genuine warm welcome and the five star service.\n\nThe service alone was beyond great, the waiters so attentive and caring that it felt like I was being served in my own home by caring relatives. Yes, its family-owned and operated, so there a level of dedication hard to find in many other places. The atmosphere created here was relaxed - a perfectly slow Sunday  feeling. The customers were clearly regulars, everyone familiar with each other, and each table was occupied for a full house.\n\"Atmosphere is more like a family reunion than an impersonal restaurant.\"  More importantly, you were expected to stay as long as you liked, there was no expectation you should leave as soon as your dessert was done - \"Be prepared for a leisurely dinner as they don't turn tables.\"\n\nAs for the food, there was some wait time - the time necessary for fresh food to be prepared for your order. We had the baked clams and the fried calamari. Fresh seafood, you can actually taste the freshness as if the fish had been brough in just that morning. The baked clams were also flavorful, with a bottom sauce that I enjoyed so much I ended up dipping the fried calamari into that sauce. The fried calamari was exquisite, fresh, tender, and crispy. The accompanying tomato sauce for the fried calamari was so good, I enjoyed dipping my bread in it after the calamari was gone. For entree, we ordered linguine with clam sauce and saltimbocca alla romana. The portions were grand and the food was beyond exceptional. The linguine with clam sauce had beautifully fresh clams and whole cloves of baked garlic - scrumptious. The saltimbocca was tender over a bed of green spinach topped with prosciutto and the most amazingly crisp egg.\n\nWe didn't make it to dessert - we were too full with their generous portions.  Everything was very reasonably priced and so affordable for the quality and portion. So, I will come again to Villa Fiorita and highly recommend this place to anyone who has appreciation for good food and good atmosphere. If you want to be spoiled, desire a leisurely dinner, and appreciate fine Italian dining, Villa Fiorita is the place for you."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROb0xTQ0h3EAE",
+            "text": "Great food ! Great service! Close to home! You have to give it a try. Definitely going back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOX1ppb25nRRAB",
+            "text": "Nice old school Italian restaurant. The resturant gives an intimate setting. All the dishes are absolutely delicious & mouthwatering."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxOHNpMnFBRRAB",
+            "text": "So God's honest truth, this is the first review I've ever done. Being that I own a small business myself I've always shyed away from leaving reviews knowing how sensitive it can be for a business. Even knowing this, I can't resist leaving this place 5 stars ON THEIR FOOD ALONE... living in bensonhurst for 47 yrs I've now come to realize that I'm a \"strunz\" for never trying this place lol.. The baked clams are great but to say the linguine pescatore is great, is an UNDERSTATEMENT... Words cannot describe it so I'm done writing lol...TRY THAT DISH, it beats ALL OTHERS IN BKLYN, HANDS DOWN!!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsdHJiV1RREAE",
+            "text": "Delicious food, great service and fair prices. Love the atmosphere, cannot wait to return!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGeFpuZjBnRRAB",
+            "text": "Great hot peppers"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGNmR6VGJREAE",
+            "text": "One of the best things in being in South Brooklyn is that you are surrounded with really good Italian home cooking. Villa Fiorita has been here for generations and the food here makes it feel like you’re eating in your nonna’s villa. My go-to is their linguine con vongole. They make different kinds of fresh pasta everyday so while their linguine may not be homemade, I still recommend trying their homemade pasta. I tried the pappardelle instead of linguine recently and it was delicious! I definitely will look forward to trying more of their pasta."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKcXAta1NREAE",
+            "text": "I love this place . It’s a neighborhood restaurant where almost everyone knew each other, the food was delicious and the staff was great!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKN19HSk5BEAE",
+            "text": "Highest quality Italian food at reasonable prices."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKN2J6QzNBRRAB",
+            "text": "I find this rustic and authentic. Very homey and a nice taste of good Italian cuisine in my opinion. Give this place a try and I hope you would love it like I do."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRak1xU0JnEAE",
+            "text": "Very nice restaurant. A lot of regulars that come to eat. Stuffed artichoke was delicious."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSM19fek5nEAE",
+            "text": "Nothing fancy but The service was unreal.. so hard to find these days. Food was Excellent."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSelkyaU93EAE",
+            "text": "Never disappointed\nNever rushed. Treated like family.\nFood is outstanding\n❤️❤️"
+        },
+        {
+            "date": "2년 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNScUpmWVN3EAE",
+            "text": "Как-будто снова побывали в Италии! Белоснежные скатерти, аутентичный интерьер, еда и музыка. Было особенно приятно как нас встретила пожилая сеньора и  как очень старались официанты. Всё было очень вкусно! Мы еще обязательно вернемся к Вам!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoOE5MemlRRRAB",
+            "text": "If you are looking for good Italian food try this place out"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCcnJ5NDhnRRAB",
+            "text": "I used to live near here and I love this place, great food"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtZ1B6YmFnEAE",
+            "text": "Everything was phenomenal. It's a very old school Italian restaurant. That traditional food and hospitality. Absolutely delicious!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtbWJ5VzFRRRAB",
+            "text": "Came here so many times with my dad before he passed. Food exceptional. Service exceptional. My dad made the owners cds   He would always tell us that when we went.\nRIP Dad. Tony Maniere"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlblAybFJnEAE",
+            "text": "Love, love, love this place. ♥️♥️♥️ Good old school home style cooking..😋🤤😋"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlbVlMdE1REAE",
+            "text": "Bro...lemme tell u. The wait for the food and the service was slow as molasses. But. Bigg but. The friggin sauce and the chicken Parm was 🔥🔥. Ridiculous. Like homemade cooking from an old Italian grandma from Italy. Chicken, breadcrumbs, cheese, sauce , pasta all delicious. Worth the wait…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlOG9xUW1RRRAB",
+            "text": "Service very slow.  Food is good but not outstanding."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1aklyQm9RRRAB",
+            "text": "Place was cozy, service was beyond great. I would say the food was good but not great. I ordered the seafood linguini for my entree it was really good but the stuffed mushrooms were just okay. My mom had ordered the shrimp linguini dish she said it wasn’t special. I just think it all depends on your taste. Very old school and the food was yummy just have to know what to order according to your taste buds."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1c1B5SXBBRRAB",
+            "text": "Don't judge a book by its cover. While the outside can use a little esthetic TLC, don't be fooled. The food was absolutely delicious.  The service was great too. I highly recommend."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJNXFPQWxRRRAB",
+            "text": "Best Italian restaurant in the the neighborhood. Food and service are great."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyOGRxa2ZBEAE",
+            "text": "Homemade Italian food!! Family owned & operated. Pop cooks, grandma bakes. Incredible food. Been going here for 30+ years"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXdjlpb01nEAE",
+            "text": "Food is excellent and service too."
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtcGRxa0RREAE",
+            "text": "Exelente"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtNmVhcV9BRRAB",
+            "text": "👍👍👍👍👍👍…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtcWVLdmVBEAE",
+            "text": "👍👍👍👍👍👍👍👍👍…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtNy1QNjNRRRAB",
+            "text": "Best food in Bensonhurst.."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJajhYV3lRRRAB",
+            "text": "Nothing is fancy here but homey. When we walked in the door, we instantly felt warm and cozy. No one is rush and the waiters are very friendly and attentive. As for the food, again it’s not outstanding but homemade style. Overall we enjoyed our dinner here indeed and definitely come back again."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM4d2ZqY21BRRAB",
+            "text": "We have been coming to Villa Fiorita for over 25 years and it never fails to deliver. Family run restaurant from the kitchen to the wait staff, who treat you like one of their own. The food is great from the appetizers, pasta, main course…"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURjb3UzOFVBEAE",
+            "text": "It's family run the parents do the cooking.she make great desserts. I think they have been around since 1978. I'm sorry I haven't  updated the Villa Fiorita Restaurant. They are open for business an I'm happy to say. I was there for…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDaWNYMTBRRRAB",
+            "text": "This is one of the best restaurants I’ve ever been to! My dad, Joe King, is in here every day and he is a tough critic. The food head is phenomenal and made with love, and the staff is so lovely and amazing. We love it here!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnaFlIa1BREAE",
+            "text": "Some people rave that this place tastes just like your grandma's cooking. Some things were tasty, but overall I felt the quality of the food did not meet its price point. Its truly a restaurant that you need to try yourself and cannot rely on other reviews...perhaps including this one."
+        },
+        {
+            "date": "11년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnX2VqQVp3EAE",
+            "text": "Without a doubt , my favorite Italian restaurant in Brooklyn.  Family owned and operated. Mom and Dad cook and sons serve. Everything is fresh and cooked to order - Mom makes the deserts too. Very reasonably priced. Be prepared for a…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVN1B1TS13RRAB",
+            "text": "I've been going to this wonderful & cozy restaurant for over 30 years and everytime I feel at home and like family! Always a great meal and great conversation. I am proud to call the owners of this fabulous place my dear friends!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNaWVLZkhBEAE",
+            "text": "Great restaurant! They had us in and out in less than 45 minutes and the food was amazing! Servers were kind and willing to help us with any thing we needed."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNrbGN5UWd3RRAB",
+            "text": "An absolute neighborhood gem. This place is nestled in the heart of Bensonhurst and never fails to deliver. Everything I’ve had from this menu is delicious and the service and atmosphere is wonderful. I’ve come here for girls night out, birthdays and Friday night dinner and I always leave with a smile."
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnc3JtNzFRRRAB",
+            "text": "I can never get enough of their Zappa di clams.. Or their food.. Omg everything is so good!!!\nAnd yes the owners know their wine. He picked me out the perfect Tuscany for my dinner!!! Always will go over and over authentic as it gets!!!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVeWR1TVFREAE",
+            "text": "Excellent food! Appetizers, entrees, desserts, the whole large group of us were happy- and that almost never happens. Best Italian food on 18th avenue, by far."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBdDYyXzdnRRAB",
+            "text": "Fantastic authentic Italian food..this is a family favorite every sat or Sunday we come here to eat .  Indeed we are never rushed and the atmosphere is very warm and genuine.  Fantastico"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVOTVlZnN3RRAB",
+            "text": "Nice waiters, Italian crowd. The real deal. My dish was good but can't say it was amazing. I would go back to try other dishes and feel like I am in Italy."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2cUlfSTRBRRAB",
+            "text": "The service was great, as well as the food. Enjoyed it. It's pricey but if you enjoy real Italian food it worth it."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNROFlPY2FREAE",
+            "text": "Cozy place and the food is very Good"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLa09uZzFBRRAB",
+            "text": "Food was delicious. Service was very good. Thoroughly enjoyed the evening. Can't wait to go back."
+        }
+    ],
+    "reviews_count": 66
+}

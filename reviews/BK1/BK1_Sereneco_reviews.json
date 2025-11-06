@@ -1,0 +1,474 @@
+{
+    "name": "Sereneco",
+    "place_id": "ChIJH_-tMGlZwokRqIqHR22D-zU",
+    "grid": "BK1",
+    "address": "113 Franklin St, Brooklyn, NY 11222, USA",
+    "rating": 4.5,
+    "user_ratings_total": 478,
+    "phone_number": "(929) 295-0152",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twWFpYVk1kM0ZhVTFwUGRGbFBSa3B6Y2xvMFFrRRAB",
+            "text": "Great menu. The burger was perfect!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nMVltcEVXa0ZWZGxoU2J6UnBWbk5tYWxKSGFuYxAB",
+            "text": "The food and service was excellent"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSdmJYRmtVWGRRTVVOaFRrRXdjblZrUWpscGQzYxAB",
+            "text": "Beautiful spot for brunch in Greenpoint. The inside is quite crowded but if the weather is good, the outdoor seating area is wonderful."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25STlVGaDZlRGxrYkZoV1ZtMWtWMnBXZG1sc09GRRAB",
+            "text": "Great service"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gd1FteHdkV0Y0WjNwbWFtZ3hRM0ZuY2pSRVdFRRAB",
+            "text": "Some of the worst food I’ve had in New York. How they are in business surprises me."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21STVJVOWxVREZyT0VwdmJUUnhTakl0WlZKNFlXYxAB",
+            "text": "Delicious brunch on a Sunday. Sat out front in the shade. The whipped ricotta was so good."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Wb016TnRhVmRyZDJ0WVZGWXRielk0TkVkQ1QxRRAB",
+            "text": "I visited this location about three days ago with my two children and decided to return for Saturday brunch with my family. Upon arrival, I was told that since I didn’t have a reservation, the only seating available was outside. I said “no problem” and stepped outside, expecting the host to guide us to a table. However, no one followed.\n\nI walked back inside to ask the male host for assistance, but he was already helping someone who came in after me. He asked me to wait a moment, which I agreed to. As I waited, he walked outside, and when I followed, he let the door shut in my face rather than holding it open. This felt dismissive and unwelcoming.\n\nI was genuinely looking forward to enjoying a meal here with my family, but the initial experience of being received and welcomed is just as important as the food itself. Because of the lack of courtesy and attentiveness, we chose to leave. Sadly, this is the only reason I feel compelled to give this place a low rating."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1cE9tcmRREAE",
+            "text": "Family friendly. Great selection of good. Very delicious."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bVpsSlZUREYyU3pkVk5DMXdWVGN5V201SlZGRRAB",
+            "text": "Everything was perfect"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xTlIwcEpSbFI2ZUhwak5HdzNjVWhsWkROZlJXYxAB",
+            "text": "Rarely rate places, but not sure how this place has such high ratings. Guy who greeted us just made us feel unwelcome. Place was 75% empty for brunch, asked for table for 2, seemed like he made no effort to find us a table, told us no tables available and to sit at the bar, then handed me two menus and we went and found seats. I get it maybe there are a bunch of reservations about to come in, but just the vibe he gave off was so unhelpful and off putting. Bartender was nice though. Food was fine, and just kind of flat/soulless. This place seems like they try to put effort into looking cool/hip (though tbh I also feel the aesthetic is kind of bland and generic) but with no real substance behind it. Also the wall of tables was still largely empty when we left so not sure what the no tables available thing was all about."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paUVdrbzNkWFpEVFhKTU5WUnNZa2hwWTNaaVlsRRAB",
+            "text": "Stopped in for a bit with a group.  Food was good and as ordered. Service was fast professional accurate."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMVpEbEpObXhyVGt0SmJqWTBjVkJwUlhCeFRHYxAB",
+            "text": "Always the best experience, every time.🙌"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4MGIyUjNPSFZ6UVhKQ1oxSjBlVFl5Y1doRGFtYxAB",
+            "text": "Perfect spot for a brunch! Delicious pancakes"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aS00yWlZPVFU1TkcxclZqUkNaVzlOYjJwS1YwRRAB",
+            "text": "Dylan was great! Beautiful outdoor seating and food was delicious. We will definitely be back! Thank you."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREeXZmNzBnRRAB",
+            "text": "Amazing food!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SNlIwTjFUalo0YUU5R09WaHJTbGt0TlZKNVlWRRAB",
+            "text": "I love fresh oysters and good atmosphere."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rNFF6WjRlVkpMVTBWQ05YZExjSHBtWlZKVlVYYxAB",
+            "text": "It's very good food and place"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5U1EzZDRVV3BJVGxsSGJsWkxURVY0Wm1sdGRIYxAB",
+            "text": "Absolutely fantastic food and service. I am a foodie, this meal was spot on. Oysters, olives, cod, skirt steak, Cesar salad, everything was a 10."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKdVREWlhabGxLVUdaSWJHczJPRWxFUVd4blZuYxAB",
+            "text": "Came here on a Saturday afternoon! Great vibe, great food, great drink! Nice place to hang with friends or have a date!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210bGVHeHZUazh0VUUxNWFqQk9jbXAxTFhCa2FVRRAB",
+            "text": "food came out incredibly fast despite how busy they were (2pm saturday brunch) and was suuuuper tasty"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oYWJHaGtNM2xWV0hkeWRsaG1UVkp5UzBoa05sRRAB",
+            "text": "Really enjoyed my meal here.\nThe waiter was remarkably friendly for a Sunday rush and the food was well priced and delicious."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSb3ZTRkhREAE",
+            "text": "( 평범했던 프렌치토스트빼고 )모든음식들이 최고. 특히 리코타치즈 맛과 직접 만든 소세지는.. 식감이 예술. 감자도 튀긴듯이 나와서 더 좋았고, 육즙가득한 햄버거도 굿 !! 일단 채광이 가득한 분위기라 기분이 좋아요 🤎…"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSMllTWDJBRRAB",
+            "text": "화요일마다 무료 재즈 공연이 열리는 친절한 레스토랑! 다 먹고 해변가 걷기도 조음"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCSU4zTk5WR1k0Y21ac1ZqZDFla1Z5UkRnek5uYxAB",
+            "text": "We tried the burger, burrito, short rib sandwich, and pancakes. The burrito and burger were delicious, but the sandwich was dry and lacked juiciness. On the other hand, the pancakes were amazing.\n\nThe service should be improved."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNM1oyRjJPR0UwYVhock1WWlpVM2R0UVY5dWNsRRAB",
+            "text": "This was an amazing brunch!!!! I want to go back for dinner.\nWe sat at the bar because we showed up at 1 pm on a Saturday but super easy to get a seat.\nWe got the pancakes, shashuka and breakfast burrito…and holy hell it was delightful."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RM1QwMVJXRVV4UlVNNWNFUllkbTVLZDB0bWVrRRAB",
+            "text": "We visited Sereneco in Williamsburg and the food was truly delicious — we had the roast chicken breast, burger, whipped ricotta, oysters, and crispy eggplant, and every dish hit the mark. The burger, especially, was outstanding.\n\nThat said, the service was underwhelming. I'd give it a 3–4 at best. The staff didn’t seem very welcoming or engaged — it felt like no one really wanted to be there. When you're spending over $100 for a meal, you naturally expect the atmosphere and service to reflect that level.\n\nGorgeous place, amazing food, but the hospitality could use a serious lift."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3NDgySkt3EAE",
+            "text": "Have been wanting to go here for a reeeeeally long time. Went on a low key Thursday night, not too busy at all. Service was quick and efficient and everything was well portioned and yummy. The tagliatelle was okay, but the star of the show was the Brussels sprouts and the Spring Risotto. Porn Star Martini was delicious. Okay second star of the show was the rosemary focaccia and whipped ricotta for appetizer. Would definitely come back for dinner/drinks and it has such a nice interior."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQemg4OWJwbU1Ia1hnEAE",
+            "text": "Went to Sereneco for a solo dinner and had a fantastic experience.\n\nIt was quite busy when I arrived around 5:30pm, but the service was quick and attentive throughout. I started with the charcuterie platter and a pornstar martini—both were excellent, especially the cocktail. For my entrée, I had the steak, which was absolutely delicious and cooked perfectly.\n\nGreat atmosphere, great food—I’ll definitely be back!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBM2FldjZRRRAB",
+            "text": "The vibes are immaculate here. Every aspect of a restaurant executes to perfection. The aesthetics are out of control beautiful. Service is top notch from the hostess to the bus boy. And the food is phenomenal. We had the butternut squash soup, mortadella croissant, shakshouka, and the pancakes with strawberry compote. The drinks were stellar as well. We can’t wait to go back to try even more at Sereneco."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWR1RrVmZNMTlCWlZsNVZIQjNPRlI2ZGtSblVtYxAB",
+            "text": "I came to Sereneco for brunch with some friends on a Sunday. It was easy to secure a reservation which was great! It’s nice and airy inside and beautiful. Service was great— quick and easy. We had the breakfast plate, which weirdly doesn’t allow you to switch to eggs Sunnyside up, they HAVE to be scrambled. We also had the Sereneco burger which, despite some of its bad reviews, was pretty solid!\nThe salmon plate was good but the portion of salmon was pretty small. The pancakes were excellent. The cocktails were fine and basic — not memorable but good. Overall, it was a nice brunch and I’d go back as an old-reliable but not exciting."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvNHV5ZDdnRRAB",
+            "text": "Such a beautiful place, with delicious food and great cocktails! The burger is perfect, especially with additional caramelized onions 😍 and the porn star martini? One of the best I’ve had!🍸"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkTmExTXlTakZXTjB3NVFtSTJaemRFYmpFeVNtYxAB",
+            "text": "A great lunch/brunch spot in Greenpoint. We came here after a tumultuous experience at Ferox Athletics and were understandably famished. This breakfast burrito with added pork sausage seriously hit the spot. The eggs were cooked beautifully and had a super fluffy texture, the sauce was tangy and vibrant, and the vibes were amazing. Definitely come check this place out if you're ever in Greenpoint."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kweGIyTXRNMVZrZUVobWJsTXRUVFIyUXkxS1oxRRAB",
+            "text": "their 2025 restaurant week deal is soo good at 3 courses with a wide range of options for $45, but the food & atmosphere is great here all the time. typically looks busier on the outside than it is inside"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJOU5XUVhREAE",
+            "text": "I enjoyed the cocktails and the wine selection. They are superb! The food is appealing and delicious.\nThe service experience is excellent, all in a airy, bright, sunny comforting setting. Great happy hours menu too!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMmJTUnJnRRAB",
+            "text": "A must visit place in Greenpoint Brooklyn! Delicious burger and veggie sandwich. Fries top notch. The wait staff is on task and decor is chicque. It is very city styled and I loved it. Drinks looked amazing but we didn't drink there. Please go see them! Tell em Barsnobs sent ya!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJVDBsdXJUMXJxWGNREAE",
+            "text": "When we first arrived at this restaurant, it wasn’t full yet.\nWe waited for 20 minutes and no one came to take our order. We tried to get a server’s attention, but no one was around.\nWhen someone finally came, their attitude wasn’t great. During the meal, they only checked on us once, and we also had to wait a long time to pay.\nThe restaurant has a nice atmosphere, and surprisingly, the food was quite good."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBMVpmSzZRRRAB",
+            "text": "Our experience at Sereneco in Greenpoint was absolutely lovely! The ambiance was warm and inviting, and the food was delicious. Every dish was thoughtfully prepared, and the service was top-notch. A wonderful spot for a cozy meal!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJbU9lb3V3RRAB",
+            "text": "Procrastinated for quite some time however shame on me for this long. This Greenpoint spot exceeded all my expectations and more. Trust me everything from drinks, food, service, crowd and VIBES is second to none.\n\nKeep on keeping on."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNveGVfRlNnEAE",
+            "text": "Delicious meal and beautiful space…very disappointing service. I was told to find a seat anywhere then ignored for quite some time as many servers walked by until I stared someone down with pleading eyes. That sadly only resulted in the same man who walked by multiple times on his phone dropping a menu off on my table without even a glance at me, “we’ll be right with you”, “anything to drink?”…nothing. My meal was brought out to a table who had literally just sat down so I had to flag them over then it was just plopped on my table without a word. Truly bizarre - everyone working here looks like they hate their job. There are many other lovely spots in Greenpoint where I can spend $50 on a lunch bowl and side of fries that probably won’t treat me like I’m invisible. Can’t win them all!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBM3BMNXNBRRAB",
+            "text": "I’ve been coming to Sereneco regularly for years now. Years. It’s that good.\nThe brunch here is fantastic! During the weekdays, it’s a great laidback sunny place to get coffee & breakfast while getting some work done. Saturday and Sunday brunch gets pretty lively so make sure to book a res if you want a table for your party. Order the shakshouka or the breakfast burrito. Highly recommend trying the pancakes at least once!\nDinner is awesome too. Great place for a romantic date or girls night out. Best happy hour menu in the neighborhood for value. Whipped ricotta is a must and their spicy marg is to die for. Service has always been very attentive and kind when I’ve dined in.\nAlso… it’s such an impressively beautiful space. Seems like it would be a great venue for events."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkWlZ6bHJkRWR4WVdORFZGQnhkalJvYzIwd2NtYxAB",
+            "text": "This place deserves way more recognition. From the moment you walk in, the cozy atmosphere wraps around you like a warm blanket. Sereneco has an inviting vibe that makes you want to stay all night.\n\nThe food? Absolutely phenomenal. Every dish feels thoughtfully made, packed with flavor, and beautifully plated without being over the top. And the staff? Warm, attentive, and genuinely welcoming without hovering."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4blpHbnd3RRAB",
+            "text": "I made a reservation at the last minute before I go to the restaurant on Saturday. Amazingly, the host got me a table for two outside with my dog, so lovely to dine in with my furry friend. We got some snack with Shishito Peppers and Crispy Chickpeas. Follow up with Seared Sea Scallops and Grass Fed Boof Burger and got easy tipsy with Aperol Spritz. Food taste good, also good amount of it. Our servers were just ok, cooking time a bit slow. Vibe of the place is casual and easy. It is a crowded area but so much of life and joy."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paVVdtaHhlamt6TWtkelpXbHdkM2hmUVhSTFVVRRAB",
+            "text": "Wait staff are super nice.  Food is mostly really delish.  Nice both indoors and outside along the street in relatively quiet Greenpoint.  We have been twice for brunch.   Breakfast burrito is great and really filling.  Short rib sandwich is a bit greasy but tasty.  Kale and white bean salad also nice if you like smoked fish.  Thick cut bacon is especially nice. Smoked salmon was a make your own plate with toast, just so so.  We appreciated the simple syrup for our cold brew. We’ll be back."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyNHRhWDZnRRAB",
+            "text": "Great service. I only had one dish during happy hour - the salmon crostini and it was delicious! The crostini bread was chewier than I expected which I loved. Had the apple on the side because I don’t usually enjoy sweet with savory but I ended up eating them together because it worked! Unexpectedly! Great flavors. Really enjoyed. Ambience was excellent, sat outside and soaked in the afternoon sun. The inside also looked really peaceful and open and clean."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoNmF6aGN3EAE",
+            "text": "Tried this place for the first time.  The atmosphere is relaxed.  The space is modern and sleek with high ceilings.  The service is good.  I had the Sereneco Derby which was good.  The Whipped Ricotta with Focaccia, made in house, was tasty.  The prices are what you would expect in this type of place and in this neighborhood.  I would return to try some other dishes."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNicWZfQk5nEAE",
+            "text": "Had the fingerling potatoes and breakfast burrito. Burrito had a lot of flavor but but a little sloppy near the end. It’s tough getting that moisture out when doing breakfast burritos but those that do, it’s much better and not as messy. The rosemary fingerling potatoes were absolutely amazing. Would get those every time I come here.\n\nFor a drink I had a Le mone spritz. I think it’s ok. Not as citrus forward as I would have hoped so might as well go with a normal spritz while here."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyM18ycHhRRRAB",
+            "text": "Overall a solid experience- I would consider it “upscale American”. It’s a bit pricey but I enjoyed trying this place out. Made reservations through Resy for a Wednesday night and sat outside since the weather was good. Service, food, drinks were great quality. The interior design is beautiful and modern. The burger was very substantial, and it comes with mini/fingerling potatoes (didn’t get a picture).\n\nThey have a small window for people to order coffee from in the morning."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPOVAzcHJnRRAB",
+            "text": "We went to the Nike x LV exhibition in Greenpoint and was appealed by the artsy exterior of Sereneco, so we decided to give it a try. The indoor seating is narrow-spaced so we highly recommend to dine out if the weather is allowed.\n\nThe brunch options were limited and we got their Breakfast Burrito with Sausage & Buttermilk Pancake with Raspberry Sauce. The portion was huge, especially the pancake and we even couldn’t finish all. Their food was overall decent but not special & memorable. We love their thick & satisfying pancake and it’s soft & puffy."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoUGFFSXpOR05CYmtwQ0xVdEJlbEpHY25KTFgwRRAB",
+            "text": "My friends and I had such an incredible dining experience at serenco . From start to finish, everything felt thoughtful and well-prepared.\n\nThe cheeseboard was the perfect way to kick things off, beautifully arranged, balanced, and full of flavor. The burger was absolutely phenomenal, cooked to perfection and packed with flavor that makes it stand out among Brooklyn’s best. The eggplant fries were a real surprise hit!! crispy, light, and addictive, a dish we’ll definitely be coming back for. And we can’t forget the whipped ricotta!!\n\nTo end the evening, the sorbet and brownie made the perfect finale, refreshing yet indulgent, the best way to close out summer. Paired with a couple of glasses of wine, the whole meal felt like the perfect night out in Greenpoint.\n\nSerenco  isn’t just another spot, it’s a place that delivers on flavor, atmosphere, and hospitality. Highly recommend for anyone looking to enjoy a memorable evening with friends. And thanks to Chris O for amazing service!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIcU5IeHZ3RRAB",
+            "text": "Beautiful setting, we love the structure. Nice lighting. The breakfast plate is terrible. Salad is salty. We also had the tomato-mozzarella sandwich but also couldn’t finish the salad."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4d3U3anFBRRAB",
+            "text": "solid food in a beautiful space… it’s not the best breakfast burrito ever, but it was tasty. it was great to be able to sit outside and enjoy brunch on the street in greenpoint. i think the vibes are very on point of the restaurant, but the food is on the more basic side. the short rib sandwich was very good, and a good savory option… I thought the lemon pancakes were not worth the price point. I think the service was a bit slow, and we found ourselves having to help ourselves more often than not."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1aFpxRVlBEAE",
+            "text": "solid dinner experience! appetizers mushrooms and brussels were delicious fresh and perfectly seasoned. the mains we ordered are well balanced as well. good sized menu to choose from, vibe is great music is slightly too loud."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSazk3RDVnRRAB",
+            "text": "Overall rating: 4.9\n\nAn absolute must visit! I hope you’re able to read this before Tuesday!!\n\nI went around 5:30 and one of the first few people that was there. I love the space and the staff was so so nice.\n\nI went for the jazz which I learned started at 6:30, so I do wish I went a bit later. It ends at 9:30 so you have plenty of time. The whipped ricotta is sooo good. I highly recommend! And they have an all night weekly happy hour which can’t be beat!\n\nThe asparagus got me back on the asparagus train because it was soo good. Going solo I really liked that I didn’t feel rushed. Highly highly recommend. 🤩"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGazZqcTlnRRAB",
+            "text": "Sereneco is my go-to spot!! The food is reliably good every time and the staff are some of my favorite faces to see. I need to have the pancakes and/or breakfast burrito at least once a week and the ricotta toast on the dinner menu is amaaaazing. Overall the vibe is always right here. It’s an elevated spot while still maintaining a totally welcoming energy. A great spot to host out of town guests and also a last minute working lunch at the bar. Can’t say enough good things about Sereneco."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPa3RqYUJ3EAE",
+            "text": "Upscale new American bistro with a strong focus on fresh vegetables. The small dishes are great for sharing. Highly recommend their whipped ricotta with honey and pistachio, paired with crispy focaccia made in house. The octopus was tender and delicious but a bit small. Overall great experience and good ambiance in their lofty space."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzdXMyb1h3EAE",
+            "text": "Es un restaurante hermoso, cada detalle estuvo muy bien pensado . Fuimos en la happy hour y la comida fue exquisita y a muy buenos precios . Pedimos la ricotta , también la hamburguesa y ostras para compartir. 100% volvería a este lugar y lo recomiendo"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5dHZHZlBnEAE",
+            "text": "awesome food in a stylish renovated building. love the old brick walls in combination with new materials. the food is perfect soulfood to start your day right. especially the whipped Mascarpone with focaccia is just delicious. also the short rib panini comes with an arugula salad with tumeric vinaigrette. gives just the exact kick with acidity and sweetness you need to get an extraordinary flavor. definitely we will come again"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKVFAyNkhMZzRlZzhnRRAB",
+            "text": "We reserved a table of 4 with a toddler for weekend brunch. They have indoor seating with A/C and outdoor dining to enjoy the nice weather.  We were seated right away at our reserved time. With high chair available. Deco is neat and clean, very high ceiling. Staffs are super friendly and restaurant itself is super kid friendly. Food was superb, the short rib sandwich and the Burger are a must.   Iced drinks could improve with larger sized cups."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtaF9QU3dBRRAB",
+            "text": "Really great. Good apps. Had the Brussels and Ricotta. The bread is so good. Then had the short ribs which were fantastic. All 5 people at the table got them and only 2 of them had any pearl onions, mine was one without them, which was the only disappointment. We also had a bottle of cab franc and a cocktail before the apps, and came to $90 a person with tip. Great overall experience. Will be back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqanAycFpBEAE",
+            "text": "Sereneco is a safe brunch option in an ever crowded Williamsburg.\n\nThe brunch menu will have no surprises and that's ok. You will find all the staples you would expect and each dish will be well prepared.\n\nEach time I have been to Serenco it  has been with friends for brunch and it has been ideal for that."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1enBibTlBRRAB",
+            "text": "Got here in time for happy hour (ends at 7pm) for their $10 cocktails on a Saturday night. I enjoyed my hibiscus marg. You must try the whipped ricotta. Not only is it smooth and sweet, they serve it with a toasted focaccia bread stick, perfect combination. We also had the caponata crostini, which is surprisingly large portioned for a \"small plate\" dish. Based on other Google reviews, we also got the half chicken. I was concerned the white meat might not be flavorful enough, but because it was served with a saucy potato and cheesey brussel sprout side, every bite was delicious."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCN0ktX1ZnEAE",
+            "text": "Great atmosphere, fresh ingredients, and tasty food. Went for brunch on a Friday and spent the afternoon working on my computer. Not too crowded! Will definitely be back!\nThe grass fed burger was cooked to perfecting and tasted incredible!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1X2JmX2FnEAE",
+            "text": "Great service and atmosphere! Grabbed dinner with a friend and also caught their happy hour. The hibiscus margarita was refreshing and worth having two of. The grass fed beef burger with fingerling potatoes was delicious, tried one of their beers on tap as well. Really enjoyed our meal here 🍴"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHdkxDTEp3EAE",
+            "text": "Get the short ribs and go for date night alongside a hip, vibrant Greenpoint crowd. The corner location is in a former pencil factory with high ceilings punctuated with giant Noguchi pendant lamps. It’s fun. The menu is a little unfocused but the dishes are all really well executed. Service is warm and welcoming and it would be almost impossible to not have a great time here."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzMHRhSHF3RRAB",
+            "text": "I came here for the pancakes. I was waiting for the bus to go home but I was so hungry and looked up pancakes on Google and this came up. I’m happy I chose this space over the other ones in this area. The matcha latte and pancakes were good. They had other options that I was looking into but I calculated that I would end up being here all day. They have a lot of natural light and they have really good and honey features like exposed brick, the colors of paint they used match really well with the wood, marble and tile that are found in Sereneco. I’d definitely come back here by myself again to relax and kill some time while enjoying food and beverages. They also have Chartreuse for those of us looking for it."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcDdLdGpBRRAB",
+            "text": "New to the neighborhood and will definitely be frequenting this place!  Highly recommend sitting outside in this awesome neighborhood on a beautiful sunny day. The pancakes and breakfast burrito were absolutely scrumptious. Our server, Rebecca, was so lovely, charming and attentive, she honestly made the experience. 10 10 10s across the board!"
+        }
+    ],
+    "reviews_count": 66
+}

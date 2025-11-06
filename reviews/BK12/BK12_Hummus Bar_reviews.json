@@ -1,0 +1,565 @@
+{
+    "name": "Hummus Bar",
+    "place_id": "ChIJTaRA91NFwokRtvMgITi96WM",
+    "grid": "BK12",
+    "address": "1011 E 12th St, Brooklyn, NY 11230, USA",
+    "rating": 4.3,
+    "user_ratings_total": 298,
+    "phone_number": "(718) 381-6550",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205c2NUaFFNVmMyV0hsTVNHOUxNRGRQTWpGa1dWRRAB",
+            "text": "Best falafel sandwich in town! Totally worth the 25+ minute trip to get here, despite many similar options closer to me. Delicious food! That’s what you’re there for. Everything tastes fresh and flavorful. Dining in option is not really a highlight, as the place gives off an ambiance of a fast food restaurant. Thankfully the high quality food they offer, does not match the atmosphere. Service is always friendly and fast paced."
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCaE1rTlhiM0ZVVm1oVVRHTXdVM1phTWtWSWExRRAB",
+            "text": "Best kosher Shawarma I’ve had outside of Israel, even though kosher shawarma outside of Israel is decent. This place stands out, fantastic quality, popping flavors, tender enough, doesn’t fall apart. Definitely hits the spot and leaves me…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsQ01GWk5ia0pMUmpCT09IbEljamxtT1d4cVYzYxAB",
+            "text": "They have good food the problem is that its never consistent"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sa1JqZzJOWEpvYW1wNWRGWm1UV0pmWWprd1ZVRRAB",
+            "text": "The customer service is phenomenal"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFelIybExjRzg0U0hJeGVUTjNURmhNUkdwd0xWRRAB",
+            "text": "Best. Schwarma. In. Town.\nHands down.\nGreat food, great service and I love the vibe.\nEliyahu is the best, always hits me up with that beef."
+        },
+        {
+            "date": "1달 전",
+            "language": "iw",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSTlJGWkJNbk5sYzJSSlgzZDRaazFPVkhaR2NtYxAB",
+            "text": "אוכל בשכונה יהודית, ישבנו לאכול.\nהמוכר שראה שמתקשים לבחור, היה בעצם ישראלי שעדיף לדבר באנגלית מאשר לעזור לישראלים ( חבל וחבל מאוד).\nיש אוכל טעים,  עם זאת בפנים יש ברחשים,  והמקום טעון ניקיון."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsaFEybGFkazlyV2pKRGQzaFJXVGRLYWtSUlZFRRAB",
+            "text": "We picked up two beef and lamb shawarma pitas and they were unbelievable. Pretty expensive for shawarma, but you get your moneys worth — the pita was filled to the brim with a ton of meat. Delicious."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xemJHcFBWSFpIUldsRGEwcHNUMmhRTmtveWFVRRAB",
+            "text": "🔥"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Wa04zaFFNVWhWYVhJMllqbG5ZVE5HWm5Nd1VrRRAB",
+            "text": "the food is amazing"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKd2RuVjFiV1pNWkVoMGIzbHdURE5WYkU1NGEzYxAB",
+            "text": "Descent food and average prices"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nMFYxVlZkMFZFYTJOWU0wZzBNMDVUTW00dFZYYxAB",
+            "text": "The guy behind the counter barely looked up and took the order. Not welcoming at all.rhe turkey was rotally dry and they didn’t even offer chicken. Very disappointing for almost $50 for two things. Gross."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSdVFqRm5SMEV5Umt0R1VEZDJaV2xFZFZwcVFWRRAB",
+            "text": "Best Beef Shawarma in the world besides Halo T"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSd01WRjRTVEpQU0dSM2VtWXlWMjVmTjI5V1dXYxAB",
+            "text": "The cashier has an attitude problem."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aWk1sTkRPV3hKUVZkRWEzSnRhREJTZUdSNFZsRRAB",
+            "text": "I haven’t tried a sabich like this in a long time in New York. Unmatched with Taim. Everything from the ingredients including the pita bread and dips/sauces tastes fresh and delicious, not dried or burnt to the crisp at all."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJYkhpT2ZXM2ZpWV9RRRAB",
+            "text": "My wife and I have a very good experience at Hummus Bar. Their food is so delicious. Their shawarma is really, really good, so as the other food. Food is fresh, their service is supper friendly. Here's the kicker, their french fries and…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZMUp1UWR3EAE",
+            "text": "It feels sitting in an Israeli restaurant in the food is delicious"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvc3FyR3VnRRAB",
+            "text": "Nice staff"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJcnFfSk5BEAE",
+            "text": "Delicious Falafel Pita!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "iw",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3aXVXWmVnEAE",
+            "text": "אוכל ממש טעים 😋 מחיר פחות 👎 מבחינת הטעם מרגיש ישראלי 🇮🇱 אני ממליץ הלכתי לשם פעם אחד פעם 🔁 אזור יהודי 🕍 ממליץ בחום למי שבברוקלין ורוצה לטעום טעם ישראלי חם 🤗🥰👍"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMjhhWjN3RRAB",
+            "text": "Sometimes little things say a lot\nThe falafel balls eggplant were perfectly fine and tasted amazing! The green Schug, Amba & Tahini were also on spot\nI got a Shawarma last time I was here and really liked it"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnNjRHZlBREAE",
+            "text": "Best Israeli shawarma outside of Israel! 🇮🇱❤️"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBbTlPUDh3RRAB",
+            "text": "Best shawarma and falafel!! 😋 Delicious!\nFriendly staff!"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPaUk3a1ZBEAE",
+            "text": "A beef platter is a must to try"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfdDZyd0hREAE",
+            "text": "I really enjoyed their Shawarma"
+        },
+        {
+            "date": "9달 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfcjRyZzBRRRAB",
+            "text": "Ever heard a Mexican speak Hebrew? ללכת או לשבת?"
+        },
+        {
+            "date": "9달 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmdFlHbTN3RRAB",
+            "text": "שווארמה עגל מעולה!! שירות מהיר ומחיר סביר"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmMllLNmpnRRAB",
+            "text": "Exceptional falafel, pita and salads.  Try the side sauces."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2NkxIT3BRRRAB",
+            "text": "Such a delicious beef shwarma there's nowhere else you'll find it!"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPcTRTaGJREAE",
+            "text": "The down fall... this place is straight up the worst in bk stay away far far away"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2cGM2LWtBRRAB",
+            "text": "This place used to be the holy grail of shawarma. Idk if it was new ownership or something else but recently its been disappointing. The laffa is thinner they barely put hummus or tehina in the laffa and theyre mad stingy on the shawarma. Did they forget im dropping a mortgage for this shawarma?!? Sell the business back to the old guy. So sad to see. Holy schnitzel probably a better move these days."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2cFk3WnVRRRAB",
+            "text": "This place used to be the best place in brooklyn now it's hands down the worst. The new owners ruined the name, The laffa is about one inch thick store bought, they are very cheep, when u take a bite it's like your eating bread... the dips they give you to go, there's literally almost nothing inside... the taste has changed its just so crazy the downfall of this place. will never come back !!!!!!!!!!!!!!!!!!!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQLVluS3hRRRAB",
+            "text": "I will not order from this restaurant again.."
+        },
+        {
+            "date": "11달 전",
+            "language": "iw",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQbWNtYXhRRRAB",
+            "text": "נותן תחושה  של אוכל ישראלי טוב , בפועל האוכל מאוד תעשייתי ולא איכותי\nלא יקר"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzbzdQeXh3RRAB",
+            "text": "Haven’t visited in a while and suddenly craving their hummus and fresh pita so I felt compelled to write this review lol. Their shakshuka is top notch as well. Can’t wait to go back"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYNDhqZkN3EAE",
+            "text": "I ordered online and then called in to add stuff to order, the service I received was exemplary and the food was very good.\n\nThe turkey shawarma is delicious."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYak1IZjBBRRAB",
+            "text": "This was a great place! I waited 5 minutes and they got my food to go. The place really smells good. I saw outdoor seating too. GREAT food. The fries were delicious!"
+        },
+        {
+            "date": "1년 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuazlQcjlBRRAB",
+            "text": "אחלה של מקום אוכל טוב רמה גבוהה מקום מאוד חמים אווירה אששש"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNubHU2ZWV3EAE",
+            "text": "Food was quite good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNubklqZURBEAE",
+            "text": "WOW Delicious! Shawarma lamp so good!!\nHighly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIenFucG5nRRAB",
+            "text": "Chicken has to be better quality"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIeXZLU0FnEAE",
+            "text": "The best kosher laffa in Brooklyn! This place is incredible."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPMzVDb25BRRAB",
+            "text": "Delicious Shawarma fresh food fast delivery\nNice size portions highly recommend the best fresh tasty hummus Tahina and spicy sauce in Brooklyn"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3by1EYnVnRRAB",
+            "text": "This place is hidden and they do horrible job advertising - but OMG!! Finally a shawarma spot in Brooklyn that's worthy of being called a real Israeli shawarma spot! (Though turkey and lamb is more common than beed n lamb- and they didn't have pargiot..) Achla shawarma! Kol hakavod!"
+        },
+        {
+            "date": "1년 전",
+            "language": "iw",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3ZzRDcWxRRRAB",
+            "text": "כבר פעם שניה שזה קורה\nהאוכל הגיע באיחור חסר פריטים מההזמנה והביאו לי דברים שלא הזמנתי ומה שכן הזמנתי לא הגיע  זאת הפעם האחרונה שאני יזמין מכם פשוט זוועה של מקום!!!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsOWMtVlFREAE",
+            "text": "They have very tasty shawarma at a good price and excellent service"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3bXRDS2V3EAE",
+            "text": "Delivered wrong order\nNo way to contact no one is answering the phone"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3cW9iSVJnEAE",
+            "text": "Food is delicious they have the best shawarma BUT THEY NEVER PUT THE SAUCES IN THE BAG THEY ALWAYSSSSS FORGET! THEY DONT EVEN PROVIDE NAPKINS!  THIS IS CRAZY. I Just spent $30 and I can't even enjoy my meal.  So disappointed. Do BETTER!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3Z3BXMjhRRRAB",
+            "text": "Best hummus"
+        },
+        {
+            "date": "1년 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiZ29tc09BEAE",
+            "text": "אחלה מקום"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyM01LdUdBEAE",
+            "text": "Higley recommend great food clean place wonderful service and great price"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxOVByd2FREAE",
+            "text": "The customer service was AMAZING here. Really kind staff, I needed to give a shout-out!\nAs for the food, everything always tastes delicious. I like to come here every so often, and I’m Never disappoint. I also love taking family from out of town here, to get a feel of a home-y lunch/quick dinner vibe.\nI’d say they are very clean as well, and are priced nicely too. I’d recommend and definitely will be coming by again.\nPs. Their fries are a MUST MUST!!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxbjU2YS13RRAB",
+            "text": "For years now I have been craving the real taste of authentic hummus and everything that comes with it, I have to say I have yet to find one for many years until today!\nI thought it's going to be another disappointment but my God these guys know exactly what they're doing!\nService is fast, hospitable and courteous.\nTHE FOOD is absolutely amazing I would even dare to say mind-blowing.\nEverything is made fresh and right in front of you no back kitchen, highly recommended."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCbUt5bVJREAE",
+            "text": "Super fresh and delicious! We ordered to share: 1) turkey shawarma pita combo, and 2) the falafel salad platter. Both were superb! It is expensive but the quality is there! Staff was also very friendly and helpful. Highly recommended!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKN0x2U013EAE",
+            "text": "Very nice place for lunch ,\nWe took a beef lamb laffa, was delicious !\nShakshuka and hummus platter very good\nNice service.\nRecommend this place"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1MU03RVp3EAE",
+            "text": "If I had to describe the taste of the shawarma in one word it would be AMAZING! This place offers  perfectly spiced soft tender beef and lamb sliced and stuffed into in to a pita bread with fresh and tasty salads added inside as you wish. Eddie who prepares the exceptional food is an absolute master at his craft. Sometimes the place can be a little cleaner but the shawarma is so good they are still getting 5 stars from me. They offer other foods including a turkey shawarma or falafel  but ever since trying the beef and lamb I cannot deviate and always come back for it!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1aWZlZ1FBEAE",
+            "text": "This is a 5 star Shawarma spot. I love this place. The food is always amazing. The shawarma is out of this world. If you haven't tried it before it's a must!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwbnNYNDl3RRAB",
+            "text": "Unfortunately a huge disappointment from start to finish for all who love real Israeli cuisine and atmosphere. The unfriendly young man behind the counter misunderstood our order and added extra items increasing the bill. Needless to say it’s also super expensive here, especially for a place that doesn’t have real plates or silverware. Portions were small: Schwarma dry, room temperature, and flavorless. Hummus itself is fine but nothing special. Pita is okay though. Otherwise it’s pretty dirty in there, they don’t change overflowing trash etc.\nThe most absurd part of the evening came when an elderly Israeli man entered and asked for a pita with hummus in it (which you could get in Israeli at any place like this). The cashier refused to sell one to him claiming it’s not on the menu, but a real humus place should offer this.\nEssentially this place lacks good food and the warm Israeli hospitality. Would never go back."
+        },
+        {
+            "date": "3년 전",
+            "language": "iw",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURleDRIMVJnEAE",
+            "text": "מקום ישיבה נחמד . אוכל חם וחומוס . אחלה פיתות . שקשוקה פגז ."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPOWJqUWhnRRAB",
+            "text": "Their Lamb Shawarma is out of this world!!! So Delicious!! Taste like Israeli Lamb Shawarma. Super fast service, friendly staff. I'm happy I've tried this place!!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLMFAyTlZREAE",
+            "text": "Amazing food. Great, friendly service. Yummy Sabich, generously loaded."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLOTg2dUZ3EAE",
+            "text": "איזה כיף לגלות מקום כזה רחוק מהבית! טעם ישראלי אותנטי, הכל טעים טרי ונקי, השירות נהדר והמחירים שווים לכל נפש. המקום רק נפתח לפני כמה ימים אבל כבר ברור לנו שנחזור שוב. בהצלחה רבה לדורון ולעובדים!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHdlAzUDdBRRAB",
+            "text": "Fantastic experience. Falafel and fries are crunchy and delicious. Hummus fool (Fava) is awesome! Plus, they gave me some hot sauce on the side. But best of all, it cost $21 for enough food for two people, and the food came out in THREE…"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxeXM2c1Z3EAE",
+            "text": "I like the fact they open untill late unlike allot of places in my area that close by 6pm, I had shawarma in laffa and it was great"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHODdPZlFREAE",
+            "text": "Cozy ambiance, delicious hummus. Food looked fresh and clean.\n\nFalafel a little spicy for my taste."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhaHVqdk9REAE",
+            "text": "Insanely good! Cool vibe. Terrific value. Go!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkdU5YM2ZBEAE",
+            "text": "They have beef shawarma the best on I ate in nyc"
+        },
+        {
+            "date": "1년 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxbXZDS3RBRRAB",
+            "text": "מאוד טעים אוירה ישראלית, ממליץ מאוד למי שמחפש משהו לאכול קל טעים ועם אוירה ישראלית חמה"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLZ1BxenpRRRAB",
+            "text": "Second time eating here hummus very good and place is very clean,definitely will recommend to anyone."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtbGJlb0lnEAE",
+            "text": "Fresh fantastic food! A little pricey but oh so good! Clean environment."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0X3B5a2dRRRAB",
+            "text": "This place has the best shawarma 🥙 I’ve tasted in New York from many years.  My daughter ordered the beef/lamb version, and it was fresh and extremely tasty. Surprisingly, it was not too greasy nor full of fat. We didn’t try the turkey shawarma, which is far more easy to come by kosher. The hummus was terrific, and my shakshuka was great. Very highly recommended!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMMTd6V0JREAE",
+            "text": "2nd time ordering on ubereats from them and they call me 30 minutes after i order and tell me that they don’t have what i ordered. takes them 30 minutes to notify me? and then they tell me they cancelled the order when they didn’t. had to call uber for 30 minutes to deal with this. save your time and order somewhere else"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxOG95LU93EAE",
+            "text": "I went here to buy lamb/meat shwarma combo with fries and drink.  Price listed at counter was 22.16 plus tax. The brown hair funny looking guy behind the counter was very rude. He rung me up and gave me a price of 27 dollers and change. I asked him how he got that number if the price is listed as I said. He told me there's tax , I said 5 dollers in tax? I told him it doesn't make sense but paid anyway. He took my food , threw it at me and said he doesn't want to deal with me. I find this to be very unprofessional and people like this should not be servicing people , very bad for buisness.  I enjoyed my shwarma sandwich but regardless I will not come back and make sure the people I know won't eat here either."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSazRMME5nEAE",
+            "text": "I really, really liked the warm pita here, and I also very much like that outdoor seating is still available.  The hummus was adequate but I don't think I liked it as much as the pita; I think I tend to prefer hummus that has more garlic perhaps.  I would definitely go again!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEcHRqRk5nEAE",
+            "text": "The place is a little hole in the wall...  Not much in the way of seating, but don't let that fool you...\nYou are going to want to get the shawarma, and the real one, not the fake one... And you will have had the best shawarma I've had in all of ny..."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxajhiTk1REAE",
+            "text": "Very kind, clean and Delicious! Very filling"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtem8zODJBRRAB",
+            "text": "Got the hummus shakshuka. It was delicious. Definitely going to go back."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1NWR1cURREAE",
+            "text": "Good Food. Good Priced.\nI have one issue that bothered me a lot.\nI asked the man behind the counter for a little extra of the red onions.... no jokes.....\nThe response was sorry you need to pay for it.\nI told them I will post it on line.\nIf your the boss of this business let me know is it worth to having this type of worker...\nIf your a customer, Go buy thear it's worth it.\nVery good food."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxaGV1NjRnRRAB",
+            "text": "This place is incredible. The prices are reasonable and the portions are huge and delicious. Service is great and I agree this place has the best shawarma in NYC"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1bXF5OGJnEAE",
+            "text": "50 stars out of 5. Great location. I get my food a few minutes after ordering. David behind the counter has great energy. Most importantly, their food is incredible. Their shwarma is delicious and Hummus Bar is my favorite falafel place. -Simcha"
+        }
+    ],
+    "reviews_count": 79
+}

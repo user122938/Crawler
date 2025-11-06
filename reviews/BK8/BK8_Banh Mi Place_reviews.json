@@ -1,0 +1,530 @@
+{
+    "name": "Banh Mi Place",
+    "place_id": "ChIJQeVGnaBbwokRtYYHA4MKOJc",
+    "grid": "BK8",
+    "address": "824b Washington Ave, Brooklyn, NY 11238, USA",
+    "rating": 4.5,
+    "user_ratings_total": 601,
+    "phone_number": "(718) 552-2660",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aUVlucEZiM1J2WWxFMVZHZzVhRGxoVEV4QmEzYxAB",
+            "text": "I am a native SF Bay Area woman with specific needs - and Banh Mi Place hits. Over the last 4+ years, I consistently enjoy the classic and braised beef as well as a grilled pork sparingly. Their summer rolls are filling and the peanut sauce is close to perfect.\n\nI don’t often order pho from here, however I will pick up a side of broth almost every time I order.\n\nStaff is attentive, communicative, and sweet."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1YWJGcFdVakpvTFVsemVERktWVE0yTm5KV2MyYxAB",
+            "text": "Great spot to grab a cheap meal. Tons of vegetarian options and the vegetarian pork banh mi is quite good."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsYWVURklXVGMwU0doSFIya3plSGx6TlVkVldrRRAB",
+            "text": "Fantastic Bahn Mi at a great price. One of my favorite spots."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoVExYRmhTREJxV2psNFUzUllZV04wUm5WaWNGRRAB",
+            "text": "favorite banh mi around!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVE5HOTFZWHB5ZFZKSU9XdzFTMUpTYVRRNU1tYxAB",
+            "text": "outstanding food and boba. great staff"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SbE1XTlJkbXQ0VjBWMGNVc3dkR2czVjFGTFoyYxAB",
+            "text": "I was hesitant to order banh mi from this place since I’d tried so many spots and none could beat Lucy’s for a vegan/vegetarian option. But yesterday I walked by and decided to try their vegetarian chicken banh mi—really, really good. Generous portion, under $12. Honestly, I might not be going to Lucy’s anymore lol."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnNVQybG1WRGRuYldOalVTMUJiVFozTjJJNE5tYxAB",
+            "text": "I love the vermicelli bowls! Great bahn mis"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toMVRVUmZUWEpXV1VGTVVYVlVXRlYzUjJwR2EzYxAB",
+            "text": "Un excelente restaurante😍"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oTlYzbDRNbVE1ZUU5WlUyRjJja1kwZFZabGNFRRAB",
+            "text": "Solid Banh Mi for lunch nearby the Brooklyn Museum."
+        },
+        {
+            "date": "2달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201V05HZzJiRVk0U0hWbVIxWmFaRW8xWHpRNWNrRRAB",
+            "text": "저는 클래식 반미를 먹었고 동반인은 비프 포를 먹었어요. 포는 표준적이었다고 했고 반미는 맛있었습니다. 만족스러운 점심식사였어요!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZMkxXNXZMV3AyZGxWMU5uQk5TRlJSVDB0aFZIYxAB",
+            "text": "Boutique/take out style pho shop. Grilled pork was delicious. Fresh ingredients!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOaFFWRjRWVU5EUTFoMlJqRjNRbGxPVG5aR09GRRAB",
+            "text": "Delicious Banh mi"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210UWJXcENTVXN0V1VoYVdFeHdUbVJUTkhoVk1tYxAB",
+            "text": "A good choice for a quick bite. Just 2 minutes walking distance from the Brooklyn museum. We stopped by after the museum visit, luckily got the table as seating is very limited. Good grilled pork Banh Mi and Vietnamese coffee. Efficient service."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGeVIxTlVNMmhaTW1weWRFRkJjMlpGY1V4TlRIYxAB",
+            "text": "The braised beef rice platter was so good 🙌🙌"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SbVRWUXdZVVE1V2s1MGVVWkVRamxHU2s1b1JrRRAB",
+            "text": "Super delicious banh mi sandwiches. I plan to come back!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOTlpXazJiMGxYYldaRmVYZzJSRzgxWVdKSFFXYxAB",
+            "text": "Very tastey. Got the dumpling app, classic and grilled pork sandwhiches. Will be back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KUmRtczFObHBvU0dWSlpsUmpNMWgwTldRNE1HYxAB",
+            "text": "Had the grilled chicken Banh Mi.. Omg, soooo good!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paWGJGZG9UVUZ3WnpSdE0wcGtTRmR4TVVoVVdXYxAB",
+            "text": "The best Banh Mi I’ve ever had, I get it all the time"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaR1VVaEJVWGx0UTFCS1RURklhVXQyZVdacGVtYxAB",
+            "text": "is good food"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSMWJHY3dVMWt4ZVVwRWJUQlZkbkphTW10dU1tYxAB",
+            "text": "Fast fresh delicious. Good vibes. A little small to eat in. Love that they have a dark meat chicken option (grilled chicken sandwich)."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KRlJFdE5NbFJNUnpWclEzVTFUM2hwYVdSTWNtYxAB",
+            "text": "real talk - this place is just the best"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oYVpDMTFVMkp5ZEZsWlJGcDJkbmhmYjFjeWNHYxAB",
+            "text": "Simple, delicious food. Casual. Consistent.\nGreat soups, great sandwiches."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214RlVqVnRUVFZOY1VGTFlsQlphVEpIWHpCU00wRRAB",
+            "text": "Bahn Mi was delicious. I got the classic. Lady at the counter was very helpful and had a beautiful smile"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQS3czTTNtN1BMazJ3RRAB",
+            "text": "Went there with a friend and had banh mi. Had to return within 24 hours for another banh mi. 10/10 would banh again."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOUFoySXlyNGYtdWZBEAE",
+            "text": "Went here on a rainy day with a hangover looking for a good soup.\nI had the pork pho bo which was amazing. Also had the shrimp rolls.\nOverall excelent experience. Good food served by good people.\nI will surely come back here again👍"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMV0YyNVhqNmV1anNBRRAB",
+            "text": "Good food and great prices. I had the pork noodle salad it was $13."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNnItd3d3RRAB",
+            "text": "Solid spot for banh mi!"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJeWVlSlVBEAE",
+            "text": "I had the tofu pho and vegetarian fish and let me tell you, it was delicious! You can taste all the flavors, the broth is delicious. The vegetarian fish flavor and texture is something else. Shoutout to the lemonade with lime! Really good! I’ll be back for sure!\n\nVegan options!\n\nEdit: went back for the banh mi and the sandwiches were extremely disappointing."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvdjZpQ3VBRRAB",
+            "text": "My favorite Brooklyn Restaurant!!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvZ1BtT3JBRRAB",
+            "text": "What a meal! After a bowl of my grilled pork pho, I was ready to go to bed! So filling and flavorful! The young lady that took my order was such a sweetheart! She was very attentive and welcoming. She really added to the restaurant's experience! My only con is a place like this deserves a bigger space, it's a small spot. Definitely will be back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJajg3VFlnEAE",
+            "text": "Bahn mi and summer roll are fresh crispy and tasty"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJNWR6bzl3RRAB",
+            "text": "Excellent Banh mi spot. Friendly people, great flavors. I had the vegetarian pork banh mi medium spicy. Everything awesome except it wasn't spicy at all. Flavors were fantastic, but def need to add more spice next time"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJNWREbUN3EAE",
+            "text": "Delicious banh mi at a great price. I had the classic sandwich, and it was packed and tasty. I will say that the medium spice level was mild, so when they ask what spice level you want, I'd go a level up. Also had a tasty hot Vietnamese coffee - solid, but not mind-blowing. Three small tables and three stools with counter service make it toght in there. There is brisk pick-up and delivery business. It felt like there was a mini-army behind the counter, cranking out the sandwiches and drinks, but each and every person was nice and friendly!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJMktIQm5RRRAB",
+            "text": "I’ve heard so many good things about this place but honestly I wasn’t a fan. Portions and flavor were underwhelming. Barely any seating."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3OUtMNmpBRRAB",
+            "text": "Favorite bahn mi spot - always fresh bread, juicy ingredients; also good pho.\nNote: no restroom and surcharge for card payments"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3eE1HLWNBEAE",
+            "text": "I used to go every wensday and it is so good, I perosnall6 recommend passion fruit with lychee jelly"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRdWVmcDh3RRAB",
+            "text": "Delicious bahn mi. Short walk from  central Brooklyn Public Library. Kind and fast service.  Tight space\nGets busy too"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRbDRfbVFBEAE",
+            "text": "Amazing Banh Mi. I had the Grilled chicken mild hot with dark meat and everything about it was perfect. Gonna come back.\n\nEdit: Happened to be in the area the next day, so I went back! This time I got the Pork Bahn Mi but upped it to Medium hot. Even better!!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRMUl2OEtnEAE",
+            "text": "love the location.  flavors were great wish grilled pork for the bánh was slightly more tender but still a 8/10"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNneTZmS2ZREAE",
+            "text": "A pillar of the community, I actively seek out their $7 pho broth when I'm sick (ask for JUST the broth). The seasoned pork is unbeatable, and their bubble tea is great as well."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBdjl1TXdnRRAB",
+            "text": "A hidden gem.  Very good pho!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBNDdyd3N3RRAB",
+            "text": "I live in Texas and I often think about this specific Banh Mi. Its the best I've had"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBMGNPWW9nRRAB",
+            "text": "Very authentic Vietnamese Bah mi place. Took me back to the time I was in Vietnam. Absolutely delicious and it comes with 4 sauces on the table. Also very reasonable prices for Brooklyn!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBd05mLThnRRAB",
+            "text": "Their pho is not really Vietnamese pho, especially the soup. However, it’s not bad."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfaXFHaXN3RRAB",
+            "text": "I love this place! Last year I’ve given it a bad review which in my defense was clouded by my pregnancy and some things looked worse than it actually was and deleted later😂BUT! I do think that after that review things got much better. Sandwiches are way more moist. Mild is mild and spicy is definitely spicy. Substantial amount of meat and pickled veggies. I love it all!\nI’ll do say that if you get noodle salad, get double protein and double the fish sauce. You’ll most likely end up with left over iceberg salad otherwise. It’s so close and they’re always super fast. Just call for pick up. ⬆️\nI’m pretty sure the owners are the ones working there everyday. Who doesn’t love a gem like that?  :)"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2NjQ3am5RRRAB",
+            "text": "Better than Lucy’s!! This is probably the best bahn mi and pho I’ve tried in New York truthfully. The chicken in the pho tastes like grilled teriyaki, the broth is rich and tasteful, and the pork ban Mhi is perfectly cooked saturated in sauce. This is one of the underground places you need to try!"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEcDdqcGh3RRAB",
+            "text": "Absolutely delicious! I got the grilled pork, and it was so moist and tender. I also got the summer rolls which I could’ve skipped, but these didn’t take away from how amazing the sandwich was!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQM3VYQ2x3RRAB",
+            "text": "Fantastic sandwiches"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzbmZhY1F3EAE",
+            "text": "Really tasty sandwich with fast delivery"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzN3NhNEVREAE",
+            "text": "Always so good #consistency.\nMy go to is a shredded chicken Banh sandwich!! Yum."
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRbHZ5VlBBEAE",
+            "text": "그릴 치킨 브라운 라이스 가격 저렴하고 맛있어요!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqbUp1TGdRRRAB",
+            "text": "Wait was pretty long, but the sandwich was solid. Medium spicy grilled pork. Would come back again if there wasn't a 30-minute wait.\n\nThanks for the food!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSc3U3VnJRRRAB",
+            "text": "I have eaten here twice and honestly the food is just OK. The pho had no flavor. The broth tasted of water.  The green Papaya salad was all carrots. The banh mi was skimpy on the meat.  Overall disappointing. This is a hole in the wall restaurant.  The dining area is tiny and uncomfortable.  The bubble tea was fine but all ice if you ask me."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJcGQtMmNBEAE",
+            "text": "I haven’t been able to stop thinking about the faux chicken Bahn Mi! This place has great portions, prices, and quality. It’s only a couple blocks walk from The Brooklyn Museum, so a great place to have lunch when you’re visiting. My…"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMME96eE1nEAE",
+            "text": "I got a grilled pork banh mi, and to be very fair, the pork tasted really good. But I have to give it 3 stars because it was kinda sad to see how little filling they put in the sandwich, I wish they had filled it up some more. Again, the taste is great, no complaints there. I probably would not come back to this place for banh mi again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3cjg2NVlREAE",
+            "text": "🤤 the samwhiches were rlly Gud especially the seafood one, a lil sweetness and so juicy!! The chicken was great too since it kinda reminded me of how my chickens come out (not too juicy but not dry but could be juicier). Great place to go if you wanna grab a friend, snag a lunch and head to prospect park to sit down and chomp! Absolutely scarfed it down. Hope you like my photography skills ✌️🤠"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2a2ZibGZREAE",
+            "text": "Banh Mi Place is a quick walk from The Brooklyn Museum.  It has a reasonably priced menu of a variety of Banh Mi's. The restaurant is very small. There are 3 stools to sit on if you decide to dine in. I had the shredded chicken Banh Mi; I got it to go. The ingredients were fresh with the vegetables having a bit of a bite to it. It was delicious. Would visit again if I was in the area."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKdWNmY1hnEAE",
+            "text": "I actually really like this spot- the food is good, service is fast, prices are reasonable, the location is good.\n\nThe reason I am giving one star is because, for whatever reason, they never make my sandwich actually spicy. Every time I ask, I expect it to be the 🌶️🌶️🌶️ level as indicated on the menu, and every single time it is milder than a cup of milk. Today I looked at the person taking my order in the eyes and asked “can I please ACTUALLY have it spicy?” to which they replied “yes,” and my sandwich came with half a sliver of jalapeño for the entire thing, and mayo milder than dew drops on a rose.\n\nIf the restaurant replies to this review and explains why they cannot make a spicy sandwich, and agrees to actually season my food as I ask, and to match the level advertised on the menu, I will update to five stars.\n\nUPDATED: thank you to Banh Mi Place for replying. Unfortunately, I went today and asked for a spicy sandwich, and it was still not spicy. See second photo with same half a jalapeño and mild sauce."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGaFlpNFFBEAE",
+            "text": "Mediocre food. Certainly not bad but the shredded chicken itself is pretty bland. I don’t think it was marinated. Pretty heavy on the mayo. 3.5 stars for food\nKnocked down a half star because of the pricing. Post tax and pre tip, a banh mi…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIajhudXVBRRAB",
+            "text": "The banh mi was pretty solid—definitely the highlight of the meal. The pork was flavorful. The bread was fresh, with that perfect crispy crust and soft interior. I also loved the creamy mayo and tangy pickled vegetables, which added a nice balance to the sandwich.\n\nUnfortunately, the pho was a major letdown. The broth tasted bland and watered down, more like the free soup you get with a lunch special than the rich, aromatic broth you’d expect from a good pho. It lacked the depth of flavor and the comforting warmth that make pho so special. The noodles and other ingredients couldn’t save it either."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSOXJPVXV3RRAB",
+            "text": "Tried their banh mi pork. I really enjoyed the pickled veggies, more than the meat itself. The bread is crunchy wished the meat wouldve been the highlight but it was not.\n\nJalapeños is always nice  which was in the sandwich.\nOverall convenient place, small with window bar seating and i think one or two tables."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxcS1HT253RRAB",
+            "text": "There was a time I would order from this place multiple times a week. Their vegetarian options are great. Light, fresh, Vietnamese food for take out! Their seating’s limited but you could easily go to the Brooklyn Museum or Prospect Park."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1MXFpZU1BEAE",
+            "text": "Overall a good experience. Walking distance from the museum and gardens. Quickly prepared. Good presentation. Packaged nicely. The shrimp didn’t look “real”. I ordered the vermicelli. Good amount of food but the proportion of vermicelli to shrimp/vegetables were 75/25. Wish more bites I could have a whole taste.\nAs I thought about my experience returning home I remember the guy who took my order specifically said I would get “grilled”\nShrimp. I found that weird. Then when I see this “shrimp” was not not grilled, had no texture, had an imprinted shrimp look it seems they may choose who gets the authentic shrimp and who gets the fake “shrimp” based on that I wouldn’t recommend."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVblo3V2dnRRAB",
+            "text": "I got a pork pho with a mocha bubble tea and my friend got a grilled chicken sandwich with a mango bubble tea. The food was really good and I liked that they had a wide selection of both traditional Vietnamese food and American favorites.…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSb1pqZjNnRRAB",
+            "text": "Super delicious bahn mi! We stumbled across this place and saw it had a decent crowd which hinted that it would be good and it did not disappoint. On a weekend we had to wait around 10 mins for our food but it was worth the wait! Would recommend if you’re ever in the area. The sandwich was generously portioned and for a very reasonable price!"
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBOFpmQVNnEAE",
+            "text": "This place is the banh. The sandwich is huge and it's really tasty. The baguette is served at the perfect temperature-- toasty (but not too hard) outside but warm and soft inside. I ordered the grilled pork and my girlfriend had the grilled…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLeDhHdUVnEAE",
+            "text": "Great bahn mi sandwiches. I got the vegetarian “pork” and it was very flavorful. If they can do this much to the tofu version, I’m sure the real meat is even better. Will stop there whenever I’m in the area again."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURjLVAyOVNnEAE",
+            "text": "Hole in a wall spot that serves Vietnamese sandwiches and bubble tea. I tried the grilled chicken and the grilled pork bánh mì, which were both excellent. If you are looking for a quick, cheap, and delicious sandwich.. check out Bánh Mí Place!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKOFBhYUNBEAE",
+            "text": "Small but excellent place. The summer roles are very good and beef pho noodle soup is super flavourful. Really good place for a quick bite"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHN0wzX2VBEAE",
+            "text": "7/10 - tofu banh mi too much Mayo. Tofu itself was unmemorable. No texture or flavor. Bread was well toasted but general flavors, filling and ingredient distribution was meh."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGa19hdHN3RRAB",
+            "text": "First time ever trying pho noodles and they completely ruined my experience! First how it came was thrown off and there were no utensils, lucky for me I had some chapsticks in my house and I definitely lost a lot of noodles and broth because of poor packaging! Never again"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5aXFYQllBEAE",
+            "text": "Great spot and delicious food! I would definitely recommend spicy or extra spicy selection for the Bahn Mi and their summer rolls are delicious!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHNmY2UFFnEAE",
+            "text": "Bad bread toasted to hide the quality, mediocre ground pork. The highlight was the pickled carrots, so that saved the sandwich but i won't be back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOMlAyN1FnEAE",
+            "text": "One of the most consistently good bahn mi places I’ve been too. The bread is sturdy yet super soft, the pickled veggies are the perfect level of acid, and they definitely don’t skip on the protein! Highly recommend the new braised beef sandwich. :)"
+        }
+    ],
+    "reviews_count": 74
+}

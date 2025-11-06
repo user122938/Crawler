@@ -1,0 +1,642 @@
+{
+    "name": "Yi Poh Kitchen Asian Cuisine",
+    "place_id": "ChIJffPabWZFwokRzPu5ZwlJ1u8",
+    "grid": "BK10",
+    "address": "6415 11th Ave, Brooklyn, NY 11219, USA",
+    "rating": 4.8,
+    "user_ratings_total": 489,
+    "phone_number": "(718) 234-1688",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aQmRtWnlUMHh0V0hOeFJUbFVhMU5oZGxObVQwRRAB",
+            "text": "汤汁非常美味，面很足和牛肉很好吃牛肉丸也很Q弹，推荐来这里品尝"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pneGRFczRUWGRpZUROM2NXWlFSRVpsZUdjMlVHYxAB",
+            "text": "Amazing prices for delicious dishes. Love their stir fried beef noodles!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WM1JUWndkRU5YWW1rM1VEVmpTVk5NVVY5Nk1tYxAB",
+            "text": "Amazing food, good service. Would come again"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sc2NYTXhZVEpmZWtGQ2Mza3hTM05wTnpBeVNsRRAB",
+            "text": "Really enjoy the restaurant and the food looks amazing!"
+        },
+        {
+            "date": "2주 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKb01rZFpObTB4TTJoMWFtUjJRVkZJUkZOMmIzYxAB",
+            "text": "服务很好，一直回购，馬拉餐最好選擇"
+        },
+        {
+            "date": "2주 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KSmFGVnpXbTFNV2xWVE4yVlFkMHRwWlU5a1EyYxAB",
+            "text": "來好幾次了 每次味道都很好 店裡氛圍也好 適合家庭"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOVE1tbHJjekl3ZVZkNVZYbHBUMHgxZEU5RVVHYxAB",
+            "text": "The food came super quick and everyone loved it"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SNVVsTlZRM2hvY25CRFEzbzRRMjFKT1ZOcVduYxAB",
+            "text": "Great place, flavorful! Clean and organize! Recommended!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwdlYwNWhaRE5YZG5Gd1gyZGpXbmg2YzNCSlYzYxAB",
+            "text": "The workers were very nice and polite to us as we walked in. They greeted us and made sure we were situated comfortably. 10/10 recommend☺️ food was so good we didn’t even want to eat it because it looked so pretty. Plan to come back when I visit nyc next year"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxWFVUTjVTa2x0TldaVmJVVlRVV001Um5jemRXYxAB",
+            "text": "The place is very welcoming & the employees were very nice and I definitely highly recommend checking this place out the food smells and taste delicious"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wak1HNHRZWGxsUnpOQ05XdFNjR3BpZVdaYWQzYxAB",
+            "text": "Definitely recommended! Delicious food and amazing portion!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5bWNGQkZRbXBIVWpCYVF6RmFZak42WXprd09IYxAB",
+            "text": "It’s a cute little space that’s nice and clean. Fresh ingredients and tasty food. Definitely recommend."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kT2JVaEdXVmxMY2xRdFNscFZWRVJ3YkVJM1FtYxAB",
+            "text": "Food is good. Recommend"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OdmNsSmZkVEExUzI5dU5VdHRZMUYzV2pOQmNXYxAB",
+            "text": "The food is amazing ! Recommend !"
+        },
+        {
+            "date": "4주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FM1VFVlhNek5xWlc1V1duaHZhMHRxVkZKalVuYxAB",
+            "text": "哎，我天天来我觉得太好吃了，真的太好吃了，天天买的太好吃"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONVUzVnBNV1Z4TWtWYVpFcDZZakpKZVVsWWMyYxAB",
+            "text": "Bold and delicious! I ordered delivery from here and the food came packaged well and piping hot. I ordered the Curry Laksa and Sizzling Tofu. Both were good but the sizzling tofu was next level. Each bite brought an interesting discovery of flavors. Pork, shrimp, guessing peanuts? And anchovies? The tofu was fried crisp on the outside and soft and buttery on the inside. Will be ordering again soon!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVNWNqa3dMV3RLWVdKb1JreE1VVGhNUkUwM1IxRRAB",
+            "text": "Nice workers and love the food ."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oNFdYZFBPVVZ3YzBaM2IzbDZURFZSVURST1owRRAB",
+            "text": "Suitable for Asian tastes.  More common places"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKRVZFdElNbWhrYlV4bFltRjBhbXB5WVZKTVFsRRAB",
+            "text": "My daughter said that it’s one of the best pearl noodles she’s had. And she’s been eating pearl noodles since she was 3.  Place is clean and bright. Very welcoming."
+        },
+        {
+            "date": "1달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkZlkzaHhkaTFyYkdZNFdFVm1TRGhmU0ZCbGVXYxAB",
+            "text": "very good！非常好！有猪肚鸡米粉，暖暖的很开胃！"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1S2FHc3lNVzFzTW1FMldrSkhiMFUyT0U5RFUxRRAB",
+            "text": "I love the rice noodles here, very traditional"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21weFlrMXVZVmhDVVZkVGFISkxTVlJGTW1rek9HYxAB",
+            "text": "Get the hainanese chicken and chile pepper soy sauce."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GU1h6WXpXbkpvVTJ0Q1ptMTFNR1IyWTJaMVdrRRAB",
+            "text": "Awesome"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aNVQxazFZV1pqVjJFMloxUkdUMGsyU0ZwdE4yYxAB",
+            "text": "Delicious food!! Highly recommended!"
+        },
+        {
+            "date": "1달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGS1gyaG9NbEl0V0VZdFZFaFNTRlp6YW5CU1pGRRAB",
+            "text": "超爱他们家的沙爹牛肉串和滑蛋🥹🥹🥹\nbk 独一家👍👍👍👍"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twTk5VSllYMHRMTVU5UFlYSXpjSFZHTmtaMVFsRRAB",
+            "text": "Amazing food! I like it !"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxTU56azNjV00yWXpaclRrVnlVMFYzY0VGSFRsRRAB",
+            "text": "Me and my roommates come here often!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wcmVYZzNlV0kxTUZkaFZFbFVjMGMzZVZSSVFXYxAB",
+            "text": "perfect place for Malaysia food"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214SmNXeDNWME5IV0dGVlRrZElWbHBJUnpWS1pYYxAB",
+            "text": "Delicious Malaysian food 😋  they're always consistent and fast!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214VU9XaFlSekkwTkROcVEwNU9VM1EwVGxodU1IYxAB",
+            "text": "Love the food here! The chicken and roti are a must!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOVFNXRnBZV3BGTW5GaWFtcEZSV3BZUlZBNWNXYxAB",
+            "text": "Warm service and Cozy place for lunch and dinner!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkTlh6RnNZazFxTjBwQ1ZUWmZWR1ZTTWtseFRXYxAB",
+            "text": "Food is really nice. The staffs are also super friendly."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twallYaFBUVTEyVjJsS1puSktNbWRwV0ZaU2JuYxAB",
+            "text": "The food here makes me happy, and the area around it has charm too. This restaurant provides the right energy and likable people. The workers were helpful and the space was wonderful as well. Tasty creations with attentive staff in an inviting setting. You won't regret spending money here."
+        },
+        {
+            "date": "1달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOcFkxVjFlRzFxVmtWa1JDMXlVbWRYWDAxaGRWRRAB",
+            "text": "味道很不错 它值得！"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSelpscHFlWEZsVjB4bFNWSlRZVFJYVWtWUlptYxAB",
+            "text": "Great service, great food. Will highly recommend."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KbWR6SjNiR2swU2xOMVJFdFRiemRuWDBFNFVXYxAB",
+            "text": "The food teste really nice, very good customer service, I really love the place, pretty, comfortable and confident, a good place to go with your partner or family, it really deserves the five stars⭐️!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kS1YxWnlhR1ZMTjJONlUxWjVPSFZUVGxGRU1YYxAB",
+            "text": "The food is soooo good, the personal is so kind and nice with u. Is my favorite place to eat noodles 🩷"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twd1QwaGpRMDgzVlRCU01HWTRPWGhYVkY4NFdYYxAB",
+            "text": "The food is really good and also the people is so nice with u and they are so kind. I think is my best place to eat noodles 🙂‍↕️👍🩷"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSWRFczNhMkZxY0dobmNWZzBTWFYxYlRCMVZXYxAB",
+            "text": "Service is A +, I bought a half Hainan Chicken to go and when I got home , I noticed that they didn’t give me any sauce for the chicken, then I call back and tell the lady what happened, she didn’t question me anything , just say she will give me back the half chicken to make it up, this is what I call great customer service should be.\nAfter three months and I go there today to pick up my chicken, she still being very nice to me， I didn’t just go for the credit chicken, I also order the curry beef stew noodle soup, it was delicious, thank you very much."
+        },
+        {
+            "date": "1달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGYU5XOVBhVVZNYkMxNlVFMHlTRWN6V1haaVJIYxAB",
+            "text": "耶👏好吃😋！"
+        },
+        {
+            "date": "1달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paVE4xVjRUMEZQVURGME9EQnZORGRtU2pGMVNFRRAB",
+            "text": "环境优雅，服务很好"
+        },
+        {
+            "date": "1달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GQ1RHZG1iRkpxVDBWUFNXTm1YMU5RVkhWcGQyYxAB",
+            "text": "食物很好，服务很棒"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gek1FZGpaMGRoVUdONU5FcERkRk41UkMwd09XYxAB",
+            "text": "Every feature of this restaurant is well-executed. The restaurant shows attention to style and hygiene. The team delivered service worth mentioning. You can taste the quality in everything. I'm glad I found this restaurant."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rNGVWZHVXakpWWVZKUU9YaHdMVlk0VEZwbmQwRRAB",
+            "text": "Was like 15 ppl in the establishment, and some were ordering but yet they saying they closed, I feel like I was profiled cause even after staying outside I see guy going pay stand, wait n left with food"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twbFVsZHpUVzFLWm10RWIwNXVlRFJpVTNkU2RGRRAB",
+            "text": "The service was excellent. The staff were friendly, attentive, and always checked in at the right time without being intrusive. They made the whole dining experience very pleasant"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGclMwbGpWakZ0UkUweWQxVkNNRWRDYTBoSlRIYxAB",
+            "text": "Delicious food and friendly service! The place is clean and cozy. I’ll definitely come back again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMmMxSjVVRWN6TjBVelRqSndVa3haZW10MVExRRAB",
+            "text": "Deliciousness AND Kindness in the City: I popped in here when I was VERY jet lagged and was trying to get my body to eat in waking hours. I sipped the delicious chicken noodle soup while some of the kitchen staff sat together laughing and preparing green vegetables. The ladies next to me were from Malaysia and Vietnam and we swapped long haul flight stories. My waitress was so kind and patient as I strained my bloodshot eyes to read the noodle choices (they have about six!) and eventually read them aloud to me."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSNU1XdEtlV2N4ZVVSaGJFTXdRMWw1UW14aWEyYxAB",
+            "text": "This place has an incredibly friendly and welcoming staff who are not only very nice, but also extremely respectful. They make you feel comfortable, valued, and well taken care of every time you visit, which really adds to the overall positive experience."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkUVQzTlVZbVJLZUVkNFVISjNPRFZuWVVZd1ZWRRAB",
+            "text": "Amazing food and great staff. Will recommend it"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwRmVtaFRYMEV4YkhCcVEyUjFia2d4ZG1GcWEwRRAB",
+            "text": "The waiters are very nice they are so kind"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wU1QwVjVjR1EzY2t0R2RGUjBPVkl3UW5oSFRFRRAB",
+            "text": "We came here on a Sunday morning (around 10:30-11 am) and it was quiet and calm with a couple of other customers here. This spot is very homey and giving mom and pop shop. We ordered the pad thai and the baked rice with minced pork and shrimp. The service here is great and the food came out fast. We also got the iced milk tea and iced lychee. Will definitely be stopping by here again if I find myself around the neighborhood!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jeFIybFdWazQzWjNnM05IQkVSRGd5V1dodVZuYxAB",
+            "text": "An very family friendly atmosphere, with efficient service. The most authentic Malaysian cuisine in brooklyn by far other than its second shop 9 aves down. Food is absolutely stunning starting from its satay skewers to is sizzling plates. The home made tofu is just to die for when paired with rice."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNMjd0ZGVrMC11NVVREAE",
+            "text": "I had a great experience at Yi Poh Kitchen and would definitely recommend it to anyone who loves delicious, affordable Asian food. The place is very clean and well-maintained, which made me feel comfortable and welcomed right away. The staff was friendly and helpful, and the service was quick and smooth.\n\nI ordered the beef noodles, and they were absolutely delicious. The noodles were soft but chewy, perfectly cooked, and full of flavor. The beef was tender, juicy, and seasoned just right. You could really tell the ingredients were fresh and made with care. The portion size was generous too — I felt full and happy without paying a lot.\n\nWhat I really liked about Yi Poh Kitchen is that it has a nice, calm environment. It’s clean, peaceful, and perfect for a casual lunch or dinner. Whether you’re eating alone or with friends or family, it feels like a cozy spot to enjoy your meal.\n\nThe prices are very affordable, especially for the quality of food you get. It’s a great place if you’re looking for good food on a budget. Everything is in good condition, from the chairs to the restrooms, and you can tell they care about keeping the place nice for customers."
+        },
+        {
+            "date": "4달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLelV4NzZEd3BlMVV3EAE",
+            "text": "這家分店做得好好吃啊！我們四個人吃了7碗白飯。空心菜非常嫩，鐵板豆腐有雞蛋液和醬汁完美包裹，超級下飯。相比另外一家我更喜歡這家新開的，各方面都做得更好。小姐姐也都很有禮貌，服務態度和反應速度滿分"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VeFVFdFhTMWcyVURSTGJIQnJja3haUkY5eFMzYxAB",
+            "text": "The restaurant is clean and neat as well of being comfortable. The waitress was kind and was willing to explain stuff in detail to us ❤️ But the most important part was the food as it a massive portion and tasting divine. It is definitely a place you should visit as it worth the price 😋"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJeE1rRXhjWGwyUlhWRk1UWjFUMUIyY1hCNGJVRRAB",
+            "text": "Came at a good time, place was empty and service was quick. The waitress was really attentive. Food came out real quick as well but once it hit 6:30 the place became packed quickly"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNN08tNWU4eGJtSXhBRRAB",
+            "text": "Authentic food in large portions. Very clean and well maintained environment. Will definitely recommend to others and visit more often in the future!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sMWNFVXhXVjl0TFZnNWVGSTBWVk55T1djNWFWRRAB",
+            "text": "Yummy authentic food. Friendly staff. Clean and cozy atmosphere."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLMzYxNFNKNVpqUHNRRRAB",
+            "text": "I have noticed this spot has been open for years, but I had no idea it was a Malaysian restaurant. I stopped by a few months ago, and I was pleasantly surprised. They have an authentic tri-sauce selection on the table, which includes sambal bawang, sweet and sour chili, and pickled peppers. I haven’t looked back since. The dishes are delicious, and the service is phenomenal. Guess what? My kids agree with my assessment as well. The only disappointment I have is that they don't serve nasi lemak (coconut rice) with the namesake dish."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TFFsbEhlR1IyTUdGYVluZEVXbk00YmpReWRIYxAB",
+            "text": "Service and food here are really good. Came here a few times. I really like the hainanese chicken and Ipoh Belacan three veggies. Finally found a place that makes the veggies with shrimp paste and its stirred very nicely."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQcmVoX0RjN082N0NnEAE",
+            "text": "Always order from here; decided to go sit down and eat. Very attentive staff! Food portions are great for price!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNM1ZVOVpTREkzVDNkaUxUSlBWblI2TWpKWU1tYxAB",
+            "text": "Randomly came across this Malaysian restaurant and decided to try it out. Food was excellent! Prices and portions were very reasonable. Staff was friendly and attentive. Would go back again!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poSlEyUmFPSGhVVldSM2JVeG5RbDlOVGs1S1JsRRAB",
+            "text": "Everything about the dining experience here was wonderful. We loved the food we ordered (roti canai, bake curry beef shank, and shrimp wat dan hor) and the coffee was delicious, too."
+        },
+        {
+            "date": "5달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJV0ZydmVYNllPaXdRRRAB",
+            "text": "印度面包很软 搭配的咖喱汁很不错 肉骨茶味道很浓 排骨泡的很松软 可以直接脱骨 花蛤很新鲜"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210NlpscGpabkp2ZW5oRk5VRTBSSGRMTFRoamFtYxAB",
+            "text": "Great Malaysian place. Recommended by a Malaysian friend and decided to give it a try. Was pleasantly surprised by the taste. Definitely would recommend!"
+        },
+        {
+            "date": "5달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQX1AzS1g3bjZMTzVRRRAB",
+            "text": "環境很乾淨，很舒服。\n酸菜雜錦粿條湯頭清而濃，食物份量也很足夠。\n龍眼冰夏天喝很解渴。"
+        },
+        {
+            "date": "5달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNS2R5OG43d3BTWUpBEAE",
+            "text": "经常在这吃，味道棒极了👍👍，小姐姐服务也好👍.值得推荐"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5UGRHZ3RTa3gwTFMxWk5UQTRhMlJIUVRsV1UzYxAB",
+            "text": "Delicious food, super fast service, friendly staff, and clean environment. Great value for money — will definitely come back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkMVJteHZhMjQwTkRWNGEwRmxiVmt6WWxBMFZYYxAB",
+            "text": "Favorite place to have family dinner.  Best hainanese chicken in the neighborhood. Homemade tofu dish is delicious."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLNnJoSUsxdUpIa2dRRRAB",
+            "text": "I had the pleasure of enjoying two standout dishes that beautifully captured the essence of Southeast Asian comfort food. So delicious."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VPU24wWmYtXzc1URAB",
+            "text": "Delicious Malaysian foods with reasonable prices! Food prepared and served fast. Highly recommend to everyone!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKVHR3LWY3aDh2d1pnEAE",
+            "text": "Very authentic sweat and sour pineapple pork! Vegis are good too. Highly recommend!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQMDV5aWxRRRAB",
+            "text": "One of my favorite restaurant in Brooklyn. The menu offers fantastic variety of Malaysian classic. I had Roti Canai, which was perfectly crispy on the outside a soft inside to pair with flavorful curry. Hainanese chicken, the skin was smooth and the meat was tender, love it, love it , love it. I also had a clam vermicelli noodle, delicate flavorful broth and natural sweetness from the clam is definitely perfect for cold weather!!!! Check out this place! Highly recommended!!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rME1YaEtOVWRWU1RoSU5tdGhjWGRPVWpCd2VHYxAB",
+            "text": "Good atmosphere, good food, good service. One of the only good Malaysian restaurants left in the area."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJNkE2NkQxNmM3UzVRRRAB",
+            "text": "Here for lunch with family. Food is always delicious. Restaurant is clean and service is superb. Always my go to for Malaysian food."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWaVNGQldkemhYY0ZCRGFtcFdUMGd4VjA1RVRVRRAB",
+            "text": "Restaurant is very clean and the temperature feels just right—not too cold nor hot. Waitress very welcoming and explains anything if you have questions."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQVFIxOWJicnNIcTJnRRAB",
+            "text": "Great service and the food is affordable and delicious!"
+        },
+        {
+            "date": "5달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLVHZ1T2JFXzhPS0dREAE",
+            "text": "每次经过布鲁克林都会来这里吃一份酸菜鱼头米粉。 这里酸菜鱼头很正中"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmeGFhUHN3RRAB",
+            "text": "Really great addition to the neighborhood.  Excellent Malaysian style food.  The foods really tasty and delicious. The servers are really nice. Small place delivering quality tasting food"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKdjR4ZVBOblpxWWZ3EAE",
+            "text": "Great Malaysian restaurant in the Brookyn. I have try both their location. Always a great experience. The food is very good as well as the prices."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsVGNWcHJTVkZFT1ZaNlEzaEVVM0JoUlhCdWEwRRAB",
+            "text": "Excellent service, food came out very fast and taste great. I would highly recommend."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1Mk1qSm1WMU55T0dkNFQxSkdXVGhrVFdJNGMxRRAB",
+            "text": "This spot hits all the right notes for becoming a regular haunt. Each plate demonstrates good flavor and fresh components. Everyone working here has a friendly attitude that adds to the atmosphere. The place surpassed verbal description. That's my individual assessment."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKOXVmMTV3RRAB",
+            "text": "This new place is really good. The Hainan chicken is amazing and fresh, haven’t tasted anything like this in a while. Also had fried rice and baked chicken in rice. The amount was a lot and price was very good. It’s a good new spot in the neighborhood and I will definitely come back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNbnVpc2pHMUs3M0hnEAE",
+            "text": "Absolutely phenomenal! This Malaysian restaurant delivers an authentic culinary experience that’s bursting with bold, complex. The service was warm and attentive, and the ambiance made us feel right at home. A true hidden gem. Five stars without a doubt!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKUzF2S19VMW9fR2J3EAE",
+            "text": "I love this restaurant food, special the chicken soup. And the service very nice and polite 👍，I come very offended."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYc3NmZnhBRRAB",
+            "text": "My favorite dine in restaurant in the neighborhood. They have the best noodle soups and Hainan chicken rice.  Their clams are fresh and go well with any type of noodle soups."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUbWFlc1lREAE",
+            "text": "Ipoh Kitchen is a popular Malaysian restaurant in Dyker Heights, Brooklyn. It was recommended by my relative's malaysian friend, so I assumed their dishes are quite authentic.\n\nWe went there in a group of 8 so we ordered a whole spread of their signatures. Our all-time favorite is def the Grilled Satay Chicken (we tried satay beef before it wasn't as good).\n\nOur recs:\n- Grilled Satay Chicken\n- Hainanese chicken (whole)\n- Sizzling Black Pepper Beef\n- Saraug Burong\n- Ipoh Coffee\n\nNot recommend:\n- Ipoh Fried Pearl Noodle\n- Golden Spare Ribs\n\nIn general, their dishes were indeed flavorful, yet quite oily and heavy for my liking. Better get Iced Ipoh Coffee to quench your thirst (very rich and creamy!)"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKRFl0cTdfcXV1bmVnEAE",
+            "text": "The food here is really good. I liked the Hainanese chicken rice and the Gu Lao Rou and more! The Ipoh milk tea was tasty too.\n\nThe staff were friendly, and the place was clean and comfortable. Prices were fair for the quality.\n\nGreat spot for Malaysian food!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLU3J0NW1TcTRuN3F3RRAB",
+            "text": "like this place a lot. Dine in here several times, never disappoint"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUE0wdDVaM1JHWDFoNVVYbDFOV3BWWlV0WE5IYxAB",
+            "text": "Excellent dining experience. The atmosphere was warm and inviting, the service attentive without being intrusive, and the food fresh, flavorful, and beautifully presented. I always come here to order food and take home😚 A place I would happily return to and recommend."
+        }
+    ],
+    "reviews_count": 90
+}

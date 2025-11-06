@@ -1,0 +1,509 @@
+{
+    "name": "BurgerFi",
+    "place_id": "ChIJ74yx92ZFwokRf58QGNeJklA",
+    "grid": "BK10",
+    "address": "719 86th St, Brooklyn, NY 11228, USA",
+    "rating": 4.4,
+    "user_ratings_total": 1539,
+    "phone_number": "(718) 836-0836",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25seVMwcEdka0pJTmtaUWFtcGZiMXAxVFhsT1FXYxAB",
+            "text": "Been here a few times, but yesterday wasn’t a good experience for dine in. Order two fries were cold, the chicken sandwich is made with tenders instead of chicken breast( it used to be chicken breast).  Tenders were not temperature hot or crispy.  Spent $50 and didn’t feel worth it"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xONFJqRXdPSFEyWXpoWWRrRjBOSEpuY1VrM2VsRRAB",
+            "text": "Food took forever to get when dining in, food was awful tasting (including undercooked/raw chicken).  Overpriced and not worth the visit."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVGVUaHFaMmQwT0VNNU5EZExhbGh3ZG1kVVZVRRAB",
+            "text": "I hate to sound like a karen, but I'd avoid ordering from here. I ordered a combo to go and some of my french fries were completely raw, and the center of my patty was really cold.\n\nI was dipping my fries into ketchup and ended up taking a bite of a raw french fry, then inspected the rest of my fries to notice that some others were raw as well. The top part of my portion was cooked, and underneath at the center of the portion were raw fries with only the skin of the potato \"cooked\". I live only a few minutes away from this Bay Ridge location, so it wasn't an issue of travel time causing my food to be cold either.\n\nI decided to dispose of all my food after noticing the raw french fries. Unfortunately, soon after, the small quantity of food I ate ended up upsetting my stomach. The staff were nice and the interior is fine -  my only issue was with the food."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnd1kxUlRTMUZoZW01S1dXWm1NMHRQUzBGcVJtYxAB",
+            "text": "Second time for pick up, I ordered the chicken sandwich. The first time they gave me grilled chicken, which I did not ask for. It was horrible. This time they gave me a thin piece of chicken that’s sooo hard, I damn near broke my teeth trying to take a bite out of it. I live far away and can’t go back to have it corrected. They have no consistency when it comes to their chicken sandwich; I’ve had it a couple times before and it was fantastic. The last few times was a big bummer."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOaFJHdG9kRWczVmpWamQzUXRYME40Vm0xSE9IYxAB",
+            "text": "Burger was very salty, fries were refried to the point they were burnt. That happened twice in a month."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xUlVqRnpaVTFGUkhOaVdrcFVReTFOUjBzelJuYxAB",
+            "text": "I really liked the Hangover burger/sandwich.  Food is a bit too salty.  French fries were not great too greasy overfried and too salty."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvMmNVUkVXVE5OUjJKemNVVlRUa2xpVDJwTlEzYxAB",
+            "text": "Food is so so....and a little bit over price, I would prefer 5 guys with similar price"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KbGRGOUxNVGQ1TjBJMFZXMXdiM0kyV0ZCSVlVRRAB",
+            "text": "Disgusting food, the burgers have horribly smelly meat. It’s not the first time I’ve noticed that their meat smells like manure — literally like crap — it’s impossible to eat."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xseGVVNUlhME5LWWtrdGNqbHpWbFpaZEd0aVRGRRAB",
+            "text": "Me ha encantado!"
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFNFgweHRObFl0WXpSU1pXUTBNekEwV1ZaTmRFRRAB",
+            "text": "Les Burger sont savoureux! Même le coca cherry que je n’avais pas goûter depuis un moment était goûteux! La qualité du Burger et des frites étaient délicieux. J’adore les burgers et pour le coup celui-ci était parfait. Je recommande fortement si vous passez dans le coin de vous arrêter & l’ambiance est chouette en intérieur 🪩"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxc0tXY0dnEAE",
+            "text": "Just awful…. I don’t blame this individual location. I blame corporate every time we want to order BurgerFi. It’s literally an ordeal or a fight because by that time we’re already hungry and we just want some fast food once every now and again to have a fun meal .   But corporate keeps messing up the names of dishes and how you order them for example I want a single cheeseburger. I don’t want stuff with it. I’d like to order an individual large cheese fry. Can’t do that anymore because they change the app to some urban style or Parmesan cheese what happened to the regular cheese sauce Every time with you guys it’s a freaking problem. Learn from Shake shack and do the right thing."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toelUzazRiRTUzY1ZJdFRqSm1helpKTmpRd1FXYxAB",
+            "text": "Great burgers."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSNmFFRXlZbWxHU3pkVmRXWk1WVEJyYTNVeFYwRRAB",
+            "text": "Staff said ac is not working - it was boiling in the dinning hall but the bathroom was nice and ice cold. Service is soooo slow."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5UlNHNHlYMk5PV0RScE5GSmZMWFJRU21waU5YYxAB",
+            "text": "Very creative variety of hamburgers."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkV1dGaHBZVEJrZFdKS1owSmZSWFY0U3psaVJtYxAB",
+            "text": "Great burger joint (only 1️⃣ in the borough). Got the BurgerFi Double 🧀 🍔 combo 🍟 🥤 here."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRZ3BUOF93RRAB",
+            "text": "I like the burgers and fries! THE WINGS ARE good!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMFRWRTJkbk41TkdOWFgzRkNURUY0Y1MxQlRtYxAB",
+            "text": "A bit pricey, but the food is really good."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWT2FqRkdVRWR6T1ROTU5IbFpSR05sYzNsNlptYxAB",
+            "text": "Good natural food.."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxdTlEYjJnRRAB",
+            "text": "Update i ordered a cheese burger, but they didn't add the cheese. Also, the onion rings were too oily. I wouldn't recommend coming back there again.\n\nThe burger is good. I didn't really like the way they made their fries. The single onion ring felt double fried."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Nd1UxOW5hRnBKYVhFNExVTm1XblpZVTA5d2JuYxAB",
+            "text": "Food was yummy, staff was friendly, the location wasn't out of the way. Highly recommended for a great spot to relax and enjoy a nice quiet lunch."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQX1Y0TDdPaVpPQ1ZBEAE",
+            "text": "As a visitor from Asia traveling in America,\nWe stayed across the street of this restaurant. We just walked over without knowing this is A Germ.\nThe burgers were absolutely delicious—everything we ordered was great.\nDespite it being well past the usual lunch hour (around 2 p.m. on a Saturday), the place was still packed. That alone speaks volumes about the quality of the food they serve.\nI forgot to take the picture of the burger. You have to come and try it yourself.\nA big Thumbs up to this restaurant ."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VMZk5yZnZuOTlXMlh3EAE",
+            "text": "Whenever i order online, the staff gets my order completely wrong. It happened again. I paid for extras and only received one item on the burger.  I guess no reads the orders correctly."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLZWFfcTc5OHN6NkZnEAE",
+            "text": "Buen lugar para pasar en familia la hamburguesas están muy ricas y las papitas deliciosas 🤗"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPWHd2NnJONzVyN2dBRRAB",
+            "text": "Buen servicio muy acogedor"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlMDlIcXBBRRAB",
+            "text": "It’s like a family style joint. Prices are ok. But could be better"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZOGFXM2dBRRAB",
+            "text": "Solid burger joint! Closest thing to a shake shack in Bay ridge. Check it out!"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJeGM2UTBnRRAB",
+            "text": "Anyone writing a positive review here is insane. The chicken was rubber. The worst thing possible with chicken. Shows it’s old and frozen. The burger literally had zero flavor. If you look at the meat, it looks really really bad. I eat everywhere. From 4 Charles prime to McDonald’s. This place is so bad. Fries terrible. Onion rings zero flavor. The worst 100$ ever spent. I cannot give a lower score but would love to. I wish i could find the pictures I sent to Uber eats so you guys could see this. I did it through the app and couldn’t save to cam roll. Stay away. Long story short. They spend more on packaging than food quality. Nuts.\n\n****I have zero interest in contacting you on your email. EYE ROLL. Your food sucks. fix it. Period."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJdjdYSWJREAE",
+            "text": "A great burger. Sides are also quite tasty as well."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3bDY2X2hBRRAB",
+            "text": "Good Burger. But are very sloppy the way they put burger on bun."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3b0lTYU5BEAE",
+            "text": "My kid wanted burger and fries for her birthday on March 9th. We were 2 Adults and 3 children. We spent approximately $140. The burgers could’ve use some seasoning but overall it was ok. There were plenty of options, including chicken and veggie. The fries are hand cut. The manager Raven was friendly and attentive. She made her rounds visiting the tables to check on each customer. The other workers were also patient and friendly. Overall we had a good time and enjoyed the food. We were too busy eating we forgot to take pictures.\nYes we would visit again."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbThEVVl3EAE",
+            "text": "Great burgers, great shakes, loved their fry selection. If you like Shack Shack you would love this place. I recommend and will definitely return."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnN1pHTVJ3EAE",
+            "text": "Burgers are on point staff is a amazing"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5bnYzWElnEAE",
+            "text": "Perfect place. Very calm place. I can confidently say - very tasty. Double cheeseburger beyond the competition"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnaXUyakp3EAE",
+            "text": "Cute fries place. Veggie and beyond burgers available. Wish there were dairy free shakes cus the dairy shakes look great!\nNo step to enter, small incline ramp. Two large gendered ADA restrooms."
+        },
+        {
+            "date": "8달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnbk9iQWFREAE",
+            "text": "Muy buena comida"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBMW9uTEJREAE",
+            "text": "Delicious burgers and fries! ！Make sure to eat them hot"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfcXMzVjNBRRAB",
+            "text": "The fries are burnt all the time I order, no matter the time of day it always looks like in the pic.\n\nThe burgers are mid for the price. I wanted well done and it’s pink and the meat is very pale looking like in the pic.\n\nI am unsure why they have changed the way they make their food because burgerfi was the best in BK."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmOTVTYk53EAE",
+            "text": "The food is really good for what it is, a fast food joint. It's great. But the Friday night take-out service is lackluster."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNma1pTcXlnRRAB",
+            "text": "Food is awesome!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmNXZ2NWNBEAE",
+            "text": "Delicious burguer and the place is not expensive"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2bWJtc2FnEAE",
+            "text": "The onion rings are great. Service was too slow."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2N2ZtSDRRRRAB",
+            "text": "Very clean and friendly. Service time varies on day and time you go. But the freshness is worth it"
+        },
+        {
+            "date": "4년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhaW9DUFFBEAE",
+            "text": "빵과 패티의 굽기정도, 야채와 드레싱의 조화가 좋음. 감튀도 소금을 과하게 뿌리지 않아 케찹에 찍어 먹으면 간이 적당함."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNdTdLWW53RRAB",
+            "text": "퍼팩트한햄버거의맛을느낄수있었습니다^^"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIMEs3UVpBEAE",
+            "text": "The fast food restaurant is located at 719 86th Street in the Dyker Park/Bay Ridge section of Brooklyn.  It has food that is better than other fast food restaurants.  I ordered the vegetable burger that was well-prepared.  The french fries had a nice taste and I requested \"no salt\" in my order.  I also had the New York style hot dog that had mustard and sauerkraut.  The restaurant is clean and well-managed."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4NTlUMXpBRRAB",
+            "text": "Was impressed. Placed my order online using their website, scheduled my food for pick up an hour later.   Food was tasty. Burger was juicy, but little salty.  Huge family sized fries.  Ordered sauces for the fries, each sauce was equally delicious."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlNTZ2S09REAE",
+            "text": "been here many times now — it’s my go-to guilty pleasure restaurant. their burgers and onion rings are something else. the chicken tenders were alright. their sauces were so great as well; they have many options. i got the cheese, ghost pepper honey, and burgerfi sauces. it’s on the pricier side, but the quality is well worth it — absolutely nothing like traditional fast food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWNTQ3ZkhnEAE",
+            "text": "I had the beyond burger 🍔 with fries and a root beer. The burger special. It came with one large onion ring on the fries. The fries were good, crunchy, and tasty. The onion ring is not so good, I could have done without it. The beyond burger with all the fixings was delicious 😋.  The atmosphere was great 👍."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkZ2ZfY0dREAE",
+            "text": "TLDR (Too Long Didn’t Read). Read the whole post if you’re interested.\n\n-Hidden gem in Brooklyn\n-Extremely welcoming and warm with a rustic feel\n-The staff is SUPER friendly and actually talk to you if the place isn’t packed. Which it usually is\n-Presentation of the food is perfect. The burgers, fries, the tray you receive, and how the food is cooked is 10/10\n-The entire seating area and bathroom are CLEAN!\n-Quality of the food is genuinely fresh!\n\n10/10. If could rate it higher I would\n\nBig shout out to Matt for the awesome service!\n\nI’ve been coming to Burger Fi for years and I can personally vouch for these ratings I’m giving. Being born and raised in Brooklyn, you learn the “Spots” and this is on of them.\n\nBurgerFi has a rustic warm feeling the moment you come in. Since it sits on the corner, the owner took the genius idea to have full ceiling to floor windows/doors installed so there’s LOADS of natural light. The windows themselves can be removed for more room during the warmer seasons. The moment you walk in, you’re greeted by the staff which in NYC is extremely different. There’s floor mats which lead you directly to the counter so there’s no confusion as to where to go like in other burger joints. If you’re not dining in there’s a separate exit/ entrance that you’re encouraged to take after you’ve received your food so there’s no clutter if you’re leaving. You enter from one entrance, order and leave from the next. The menu is above the registers in big lettering so you know exactly what you’re ordering.\n\nSo you place your order and the FRIST THING I NOTICE is how friendly the staff is. Matt was on shift that day and we were talking as though we knew each other for years. Unlike other places, the staff BRINGS THE FOOD TO YOU! Personally, that’s crucial for any food spot because it’s what separates regular places to this one. I ordered a double BurgerFi Cheese burger and DAMN it was good.\n\nThe burger was CAREFULLY placed so nothing spills out when you take a bit. The cheese was placed perfectly on both patties making a real cheese burger. ALL of the ingredients were fresh and didn’t have that refrigerated taste to it. You get your order on a metal tray with a paper cover on it which promotes it’s app with a QR code so you don’t have to search for it. The drinks are self served and CLEAN unlike AMC theaters. There’s 2 soft drink machines with the condiment station in between both of them making it simple to get everything that you need.\n\nThere’s napkins at every table so you never need to go to the counter for napkins. Your first bite into the food is immaculate because you can taste how well cooked the burger is. The cooks in the back are clearly trained correctly! Walking in here and eating here reminds me of having a BBQ burger at the park as a kid. It invokes that deep happy memory and it’s why I drive all the over here to eat here from the other side of Brooklyn.\n\nWhat I found pleasantly surprising was the sleeve the burger came in. It’s not wrapped like in most places, it’s a open ended sleeve so you can hold the burger without making a mess everywhere. So if sauce comes out the burger, the sleeve catches it. The fries has potato skin on them which gives it more flavor and they’re not TOO salted like McDonald’s or FiveGuys and the lunch special comes with an onion ring which isn’t over or undercooked. Food from here isn’t meant to scarf down without thinking. You take your time and savor the flavors and sauces. I recommend EVERYONE to come here and try they’re food even if you’re vegan. They have LOADS of vegan options here and will cook it to your liking.\n\nI really wanted to emphasize this right here by itself. The place is CLEAN. I don’t mean tidy. I mean CLEAN. As of 2/15, the snow was melting but still everywhere and the floors indoors weren’t sticky. The owners and staff take GREAT care of this place. The bathrooms were cleaned and pleasant! Usually I’d hesitate but I don’t have to here because it’s actually CLEAN!\n\nThis place is MUCH better than Wendy’s, McDonald’s and FIVEGUYS."
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBMjRXR3l3RRAB",
+            "text": "My family and I came here for lunch on a Sunday.  We were able to order our meals quickly.  The cashier was friendly, helpful with menu recommendations, took my order accurately, and poured a good beer!  There were  plenty of seats and our…"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnbmRHRDV3RRAB",
+            "text": "The food here is excellent.  Burgers, fresh cut fries, shakes, and HUGE onion rings.  Very similar to shake shack.  Love the atmosphere.  They also have outdoor seating which is great if you want to bring a pet.  Staff is very friendly and…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNla05lNlN3EAE",
+            "text": "Shake shack and bare burger move aside you are no match for this little establishment.  The flavors of their burgers, fries and price is  the full package for a fast food restaurant. And they serve tap beer. I am surprised they have not…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwbGZ5bVF3EAE",
+            "text": "Very clean, plenty of seating and music was great. The food was DELICIOUS! Had the Bacon Cheeseburger with Parm and Herbs fries and My wife had Bacon cheeseburger with plain fries and we shared a order of Onion rings......everything was seasoned and tasted great. BUT the Crem Dela Crem was the shakes we had. I had the Orei shake which was perfect and my wife had the Banana Churro Shake.....IT WAS SLAP YOUR MOTHER AMAZING."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJaWRUUW5BRRAB",
+            "text": "This place is amazing. For “fast food” it’s hands down one of the best organic/grass fed burgers I’ve had. Even though the price can seem high for some. The flavor and excellent quality of food you get is worth it and you can tell. All the…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLNWYyUHVBRRAB",
+            "text": "Like it more than Shake Shack bc it's less greasy and you don't feel a heartburn afterwards. I like their fries too. It's piled up high and you can actually taste the potato.  I like my double cheeseburger. It's so tender and juicy and it satisfies my craving. Definitely coming back!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyeFAtdndRRRAB",
+            "text": "If you’re looking for the best vegetarian burger joint this is it!! Made order for pickup and it was right on time. Place was super clean going in and staff was nice.\n\nMost veggie burgers are smaller but this was the size of a real burger, this really felt like a real treat. Got the beyond meat burger and it was cooked to perfection melty and caramelized. Ordered the “regular” fry and portions are huge literally a regular is two generous portions. The onion rings are thick onion slices. The burger was fresh. The sauces on the side, burgerfi sauce and ranch, were excellent for fry dipping.\n\nIf you’re veggie and you’re craving a hamburger get it from here!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuNnJHUjdnRRAB",
+            "text": "I ordered a CEO burger OMG worst than McDonald. It was flat small squished soggy cold nothing on it just horrible for that money. I will never buy it again. They should get an example from five guys they are so much better. Fries and onion rings cold as well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMdWQzTzBnRRAB",
+            "text": "I ordered online and ordered a side of Cole slaw it was $3.65 before taxes and this is what I received. I was shocked! It was the tiniest cup and only half full."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSOWJiTXp3RRAB",
+            "text": "I came here to get a burger and something to drink with my friends. I got an Oreo Mint Shake which was really sweet but still really good and creamy with tons of oreo in it. Along with the Bbq rodeo burger which tasted a bit bland with the taste of barbecue sauce being really strong the bun and meat both had a slight crisp. I still enjoyed my time here!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1bzlMOUNREAE",
+            "text": "We had delivery at work and this was my first time eating here. Good stuff and variety of flavors you can get is nice as well. Would try again."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCZ2RpeVFnEAE",
+            "text": "Was quiet on a weeknight. Relatively fast and courteous service, the food tasted good and the space was clean enough. Would visit again."
+        },
+        {
+            "date": "5년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDNWVMcFN3EAE",
+            "text": "Me encanta Este lugar tiene unos buenos precios tiene un buen sabor es accequible tiene un buen servicio personalizado ya se puede comer adentro y está bueno, y esta al lado de mi casa 🏡\n\nI love this place, it has good prices, it has a good taste, it is accessible, it has a good personalized service, and you can eat inside and it is good, and it is next to my house 🏡🍔🥤🍺"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNdWRIRHh3RRAB",
+            "text": "Pretty good burgers, but nothing to write home about. The service was quick, the CEO burger was good, and the fries were decent. Pricey for a fast food joint."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBbGNhR2pBRRAB",
+            "text": "Delicious burgers. Grace R was very friendly and accommodating when taking our order. No brioche bun or thicker weight burgers available nor could one select the temp of the burger. Fries we had option of getting it topped with Cajun…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNrdUp2azR3RRAB",
+            "text": "Simply love this place. Always good for a small bite. It can get hectic at times but the mgmt have always been good tried their best to apologise. I I've got extra drinks for the prolonged wait. Lovely local business and great food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYckpEZVhREAE",
+            "text": "Great tenders and the fries are hefty. Everything is decently priced. The atmosphere is like a casual neighborhood joint. They also have vegan options. Bathroom was clean and the terrace is nice as well. Great spot to grab a quick bite."
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2cHVMTnlnRRAB",
+            "text": "Local agradable, con un buen wiffi, se encuentra en el barrio de Dyker Heights (Brooklyn), donde se encuentran las casas decoradas superbonitas por navidad,\npedimos tender y pesar de ser frito, no estaba nada grasiento, lo recomiendo."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDbDlQVXNBRRAB",
+            "text": "55$ dollars for everything. but\nFrench fries for 7$ dollars  was no good\nfries over fried and tasted like Double fried\nBut overall is good"
+        },
+        {
+            "date": "3년 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXcUxuRDVRRRAB",
+            "text": "Meu segundo hambúrguer favorito dos Estados Unidos! Saborosíssimo, bem feito e tudo muito fresco! Amo amo amo! Vou sempre que estou nos EUA!"
+        },
+        {
+            "date": "2년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCdzV1MV93RRAB",
+            "text": "Ottimi hamburger e patatine! Si sente che sono fatti con ottimi ingredienti! Prezzi contenuti (hamburger classico attorno a 9$)"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtc2VMZW13RRAB",
+            "text": "Really good burgers and fries\nAfter a long time\nChicken sandwich and the swag burger was awesome"
+        }
+    ],
+    "reviews_count": 71
+}

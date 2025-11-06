@@ -1,0 +1,551 @@
+{
+    "name": "Industry City",
+    "place_id": "ChIJBzJseMBawokRVfGOLobHpJc",
+    "grid": "BK7",
+    "address": "220 36th St, Brooklyn, NY 11232, USA",
+    "rating": 4.6,
+    "user_ratings_total": 8951,
+    "phone_number": "(718) 865-3740",
+    "reviews": [
+        {
+            "date": "13시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0VE1ESm1kVE5mYkhjMFkwSlJOVkY1VUhCUk0zYxAB",
+            "text": "Industry City is such a vibe! Amazing food options, cool shops, and tons of spots to hang out and relax. Love the outdoor seating areas and constant events popping up. One of my favorite places to spend the day in Brooklyn."
+        },
+        {
+            "date": "수정일: 1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KeVdsQlJNRXd6ZDBwUWVHZEdlalJEVDJoVlZYYxAB",
+            "text": "Good places to eat, Japanese Grocery is a must to visit.\nSmall eateries for hanging out, serves alcohol also!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKa1luZENjR2x0YW01NU1FRlBjWEEyY214b1EzYxAB",
+            "text": "Love this place. Lots of food choices and shopping options! Specially Japan village!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxa1gxTkZRazVpWTFCa1lUWkxTbGxNUm1GbVNrRRAB",
+            "text": "We love visiting industry city. Always find fun things to do. Food for everyone. Plenty of kids activities and nice shopping for adults and kids."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNFZITjJjWEZtYURCelFVZHFTRTAyZWxSelIxRRAB",
+            "text": "Nice place\nThe rice balls are the best\nScape room\nAnd amazing coffee"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sR01rTkhRVWRvYnpCeE1VZ3dRMGgyTFVSdWJFRRAB",
+            "text": "Always a great time! Lots of food options, drinks, and playtime for the little ones!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WTmJHWk1RWE5tZERoa1dXOHRTWFpKU0ZSVE1XYxAB",
+            "text": "Awesome place to go and have a wonderful time."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSRGNXSjJOamc1ZWtaclJVeE1RVXAwWmxCdU1tYxAB",
+            "text": "So many places to visit, eat, drink and chill"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21waU1XZDBiVUZ5YVVkbk5VMXRRVzB0YzNGb1RVRRAB",
+            "text": "Shopping"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWUllYSkpkbTFxT0VoUlowODRUblZUWldSb1NFRRAB",
+            "text": "Interesting to spend some time and shop"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVWRuRlJWMWt5TVRKc1ZHUm9MVW8xTTFOME4yYxAB",
+            "text": "Live this place! You can easily spend whole day no matter work or fun, alone or with friends, with kids or pets.\nSooo much good stuff"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOb1dubGlVWFJXUW10T2QzRjJXbTB3VTA1MlprRRAB",
+            "text": "I attended the recent Halloween party hosted by ZERO at Industry City - what an amazing experience!\nThe venue was fantastic, the atmosphere electric, and everything was organized…"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NeU0xWTRNM2RpV1VGV05Hb3hWeTF1VkZVeGVXYxAB",
+            "text": "Great place"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoRVVYbDBPRVJWTlU5dE1USkdja3hPTkcxQ05sRRAB",
+            "text": "Excellent food"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWd2VXTk5iblJUWWpab1lsQldUM0pZT1RkcVZtYxAB",
+            "text": "HUGE!!!\nExcellent spot for the conference I attended."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPcGJxRE9BEAE",
+            "text": "Though many find the buildings easy to lose ones direction, the lure of unity, mysticism, and creativity make this industrial labyrinth an absolute treasure. If you didt know, you now know.. cheers to that...."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWMlpsUnZkSGxvWmxBM09IcFhORzV0UjNwV1drRRAB",
+            "text": "I’ve worked many events\nAnd I’ve explored the area regularly. The pictures were taken by building 7 and 8 however from about building 1- 6 there’s something to do. There are many shops…"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GVWJVNVFVRTQ1YlRGc2RHSnRNbTF5Ym1oa1FsRRAB",
+            "text": "Great & cool urban place. Great atmosphere."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwcGVGUkpTVWhmWjJ4WFdGSXdUbEpVTlVaUU1WRRAB",
+            "text": "Visited Floor & Decor to get tiles and grout for my kitchen backsplash...Nice place"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4bE1tRnhjbFJvYkU1UVRDMDNVMjh4ZFdoSFdXYxAB",
+            "text": "I always have a great time whenever I go. I enjoy the little shops in Japan village, it is a great place to get lost in and discover cool shops, watch chocolates being made, and play capsule games. Also, visit Sunrise Mart to try new snacks at an affordable price."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CQmFqSk5SM1Z2YUdKaFgxRktNMUIzZVhSU1pGRRAB",
+            "text": "Very nice"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGd1dXTTFaMWhFU2s5RFltcEtMVEpHY2tSS01WRRAB",
+            "text": "A bunch of  businesses  in highly  renovated buildings .. these buildings was  very dilapidated yrs .. ago.."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wQldqVmxVakJDTVV4aFRWRmxiR050YURodlRXYxAB",
+            "text": "Amazing versatile place."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWR2NsZFJVME5uVGswMk1EZE5YMDVmVjA5d1RGRRAB",
+            "text": "I’m not really sure what to take from it. I think it’s a mall. It’s probably a mall."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wMVZIa3RUMkV0T1d0bFpXMWlNWG96Y1MxWlZrRRAB",
+            "text": "This is a very cool place to visit while you’re in NYC. What a sensible solution of using these old factories rather than tearing them down. So many unique businesses to explore."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxUlJraFhVa2xSU2tGc056SlZZVnBDZWxGR2JXYxAB",
+            "text": "A magical place! I recommend it for both adults and children."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OR2FtNTRiMmhNV2tSUVdIbFdPRkJEVWpCeU5VRRAB",
+            "text": "I love this place. Great Japanese food court with great prices. I always get onigiri whenever I come here. Downtown BBQ is here, too, and always has an available table when compared to the one in Red Hook. There are so many great shops here: Daiso, LiLac Chocolates, Moore Brothers Wine...great way to spend a couple of hours!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aWk5tczRTV1pLUlRnNFNVaDBYMlE0VFRoakxWRRAB",
+            "text": "Great variety of restaurants and store to shop"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1X0pUa3pRRRAB",
+            "text": "Lots to explore"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxU2NuVm1kbTFYT0RaTWJtYzViRzVRZWtVeFluYxAB",
+            "text": "Industry City is one of those rare places that manages to feel creative, cultural, and communal all at once. It’s a living ecosystem — art, food, design, and energy all flowing together in this massive industrial playground.\n\nYou can walk from a high-end gallery to a ramen bar, grab a local roast coffee, then stumble into live music or a film screening — all within minutes. The mix of people is what really makes it: families, creatives, entrepreneurs, and travelers all sharing the same space without stepping on each other’s vibe.\n\nThere’s something inspiring about how Industry City has turned old warehouses into a creative hub that actually feels alive. It’s not trying to be trendy — it just is.\n\nIf you’re in Brooklyn and want to experience the pulse of what modern New York creativity feels like, Industry City is it."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCMVQydzVia3BJV0RWT01UQlpjbXhYUjBkMGMyYxAB",
+            "text": "Nice place"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOSWMzcFplamhWZWtodFZYaHNkRGRpVjI5MGNuYxAB",
+            "text": "A lot of places to explore, kinda expensive food!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3bEw2eHhnRRAB",
+            "text": "시간이 충분하면 가보세요\n9개 건물에 여러종류의 상점과 사무실이 있어요\n평일 이라 그런지 복잡하지 않았고\n건물 사이 의자가 있어 쉴수 있고 식사할수있는곳이 많아 좋아요\nJapan village 는 마트가 있고 옆에는 food court 있는데 조금 실망스럽네요\nSahadi's는 중동 식료품과 nut을 파는 bazaar가있는데 품질이 좋아요\nNut butter를 바로 만들어 주고\nDaiso는 ¥ 300인거는 $4.50이고 별도 표시가 없으면 $1.99\n1923년 시작된 Li-lar chocolate  있어요\nBrooklyn made 품질 좋은 티셔츠와 기념품 있어요\nRemix market 재미있는게 많은 antique shop\n월요일이라 휴무인곳이 있어요"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtODRMNUN3EAE",
+            "text": "브루클린이 산업지역에서 트랜디한 쇼핑단지가 되었습니다. 유명 맛집도 많이 있어서 쇼핑과 식사를 함께 즐겨서 주말 시간 때우기 알맛 습니다."
+        },
+        {
+            "date": "8달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRckpQajlnRRAB",
+            "text": "브루클린네츠 체육관. 아무나 갈수 없는데를 가서 더 좋았음."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCMzlTWDNRRRAB",
+            "text": "뭐가 참 많아서 다양하게 구경하기 좋다. 가격이 저렴한지는 모르겠지만 충분히 시간보내기에 좋은것 같다\n낮에도 건물사이 정원에는 추울수 있음\n건물내 지도에는 현위치 표시가 안되있는곳이 많아서 길을 좀 헤멜수도 있다"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNNNDkwYhAB",
+            "text": "뉴욕에서 가장 사랑하는 곳"
+        },
+        {
+            "date": "6달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvOXRUQ21nRRAB",
+            "text": "힙 플레이쓰"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCM1JuWnBlRzlVV0VSaFlubHFkR05SZWxsSWNtYxAB",
+            "text": "Industry City is such a cool spot! Great mix of shops, food spots, and creative studios—perfect for wandering around. The food options are awesome, from casual bites to unique eats. Love the vibe and the events they host. A fun place to explore with friends or just grab a bite!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJWGxoTHlfell2S0V3EAE",
+            "text": "‏A Hidden Gem in Brooklyn: Industry City is an Absolute Must-See!\n‏Words truly can't capture the magic of Industry City – it's a five-star experience through and through! I was absolutely floored to discover this vibrant, multifaceted wonderland right here in my Brooklyn \"backyard.\" It's so much more than just a complex of buildings; it's a destination that truly transports you.\n‏The description of a \"wonderful Japanese village\" is spot on, but that's just the beginning. The grounds are incredibly family-friendly, with so much open space to explore and plenty of intriguing nooks and crannies to discover. Every corner seems to hold a new surprise, from incredible art installations to unique boutiques.\n‏And the food! Oh, the food! From diverse culinary delights to charming cafes, there are endless options to eat and enjoy. We spent hours wandering, Browse, and, of course, indulging in some truly delicious treats.\n‏Whether you're looking for unique shopping, fantastic food, a beautiful place to stroll with the family, or just an unexpected escape, Industry City delivers in spades. It's truly a place where you can spend an entire day and still feel like you've only scratched the surface. I cannot recommend it highly enough – do yourself a favor and experience Industry City!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZNGIzRTl3RRAB",
+            "text": "Industry City in Brooklyn is hands-down one of the coolest and most dynamic places to explore in NYC. Whether you’re looking for great food, unique shopping, art, or just a fun place to walk around and hang out, this place has it all. The mix of industrial architecture and modern design gives it such a creative and energetic vibe.\n\nThere’s an amazing variety of food options, from authentic Asian noodles and tacos to gourmet ice cream and coffee. You can easily spend hours here just eating your way through the different vendors. I loved how spacious and clean everything was, and there’s plenty of seating both indoors and outdoors, which makes it great for all seasons.\n\nWhat really stood out to me was the sense of community. There are local artists, pop-up shops, cultural events, and live music happening regularly. Every time I visit, there’s something new to discover. It feels like a perfect blend of innovation, culture, and comfort.\n\nAlso, it’s super family-friendly and dog-friendly, which is a huge plus. You can shop, eat, relax, and enjoy some fresh air all in one place. Whether you’re a local or visiting from out of town, Industry City is absolutely worth the trip. A true hidden gem in Brooklyn that keeps getting better!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvejZubER3EAE",
+            "text": "Just experienced Industry City for the first time, and wow! The concept of converting those five warehouses into a vibrant hub of shops and restaurants is fantastic. Even on a busy Saturday, the energy was infectious, with people happily…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxek0zQk1OWHBRVHpFMFdETnBaMUF3T0ZkR1dWRRAB",
+            "text": "Wow! So many choices for food and drinks, cute shops, and the long, wide, decorated courtyards are so fun. I’ve been twice and really enjoyed it, there’s enough stuff to keep going back and still not see everything. I love the furniture and…"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNM1YwNWtaRTlFVjJKVGJTMVRUR2w2ZEV0YWJHYxAB",
+            "text": "Lugar muy especial en Brooklyn, muchos bares, restaurantes, tiendas especiales cada una con su toque de diseño industrial.  Ambiente muy agradable y acogedor, en cada lugar todos muy atentos, se espera que se abran nuevos espacios ya que…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjMlREY3RaMUIzY2pBNFMxTmhXRjk2TTJOWFduYxAB",
+            "text": "If you’re not sure what to eat or do you’ll find it here at industry city without a doubt. I’ve been here for a Latin food festival, salsa on Friday nights and martini expo. There’s always something to do and you’ll definitely find plenty to eat."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJMk93OTNlX3J1M0dnEAE",
+            "text": "Industry City is a cross between a mall and an amusement park. There is so much to do! Between restaurants and food courts, bars, mini park areas, art, random events, and a plethora of shops, it will take more than a single day to fully explore.\n\nI particularly enjoyed Japan Village. When I was there they had a full on Sumo tournament with about 20 contestants, and several related kiosks set up around a stage outdoors near the Japanese food court.\n\nThe industrial buildings converted into shops and stores gives the whole place a very interesting and unique vibe. They did a great job of making it look nice, and decorating it with artistic sculptures and murals, and adding various landscaping.\n\nMy friends and I will certainly make the trip to thoroughly  adventure around this place soon!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZeVkzTjNjRXgxWVRWQ05tdEhVVEl5ZVVONGVIYxAB",
+            "text": "They frequently host events here that are paid, or sometimes free. It can get crowded on the weekends. Options for everyone to shop and eat. Just a little expensive. Bathrooms need more servicing. They took away some chairs from the tables in some buildings."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURveTlIWDlnRRAB",
+            "text": "Fun day trip to Industry City April 28/2025\nBeautiful weather can be enjoyed in the courtyards with seating for dining and relaxing. There’s a kids play area and even a fire pit. Great shopping. Today hit the West Elm Outlet where mark down prices have additional savings between 20 to 60% off. Some products are new in box.\nDefinitely worth the trip. Weekdays are quieter than the weekends. Table 87 pizza is one of the best slices in Brooklyn and you can get it here. Lots of restaurants to choose from and a food hall and cocktail and beer stops.\nLots more check out their website."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKaVRrNU5OV1F5Vm1FNE5VVmlPRnBxWnpJd1VsRRAB",
+            "text": "Great place to go and enjoy the music and dance. To eat was a different experience. Not pleasant nor accommodating. Customer service basically stops at your seat. Waited for food over half an hour regardless of whether there was staff…"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnOHBiVk1REAE",
+            "text": "⭐⭐⭐⭐⭐\n\nAs a lifelong New Yorker, I recently had my first visit to Industry City, and it was absolutely awesome! The variety of food choices available was incredible, showcasing a fantastic range of cuisines that made it hard to choose just one. To top it off, the drinks were even better—there's something for everyone! The atmosphere is vibrant and welcoming, making it a perfect spot to relax and enjoy with friends or family. I can’t wait to return and explore more of what Industry City has to offer! Highly recommend it!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NeGIwdHJORXAzTkVsS2JtOUlUa05QYmxOa1pWRRAB",
+            "text": "Awesome venue. Visited for the first time today for a pre-birthday celebration. I had a great experience. The Executive Director, Julian, is awesome. Highly professional, responsive and service oriented. I can’t wait to return. A time was had!!!!!"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVc2V1NWJ3EAE",
+            "text": "Japan Village at Industry City is a hidden gem in Brooklyn! From the moment you walk in, you're transported straight to Japan. The food hall has a great variety of authentic Japanese dishes—whether you're craving ramen, sushi, or fresh…"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sS2VreG1OelF5ZHpKNVFURTRPWFZRTkhWNGQyYxAB",
+            "text": "A great way to spend an afternoon. There are many shops to browse in and so many tasty spots to try. Live music in the open areas provides a nice backdrop as you sit and watch or chat with a companion."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsRWRFSlFhRTVKYkRONVdYTmFRM295ZUcxTVFXYxAB",
+            "text": "This place is really cool. If you arent a whimp, you can get on the roof and see the green lady.\nTons of places too eat as well."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwaGNUYzVabTFEVDNZNWNVVkdVVEkyVEcxQk1GRRAB",
+            "text": "Great place to eat, hang out, explore and chill. so much to do!! hidden gem tbh"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3LUtyVG5BRRAB",
+            "text": "This place is a hidden gem! I didn’t know the place until last week a friend of mine who was born and raised in Brooklyn and he told me that he know eh no a place that not many tourists know and wow this place is amazing I could imagine how…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOTHF6dVhEME5mZndBRRAB",
+            "text": "I attended a complex magazine event in building 7. This place is huge with lots of different play areas, restaurants, bars. I started in building three or four and walk through the middle of the buildings to get to the building where my…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twWFpVaHdkbTFsTFhwNmRXbElSVXhaWm1KcVgwRRAB",
+            "text": "The shops are nice, the building is clean. The variety of places to eat are phenomenal. When I arrived they had the Latin Festival in session. Lots of great food and good music. You will have trouble finding parking so take public transportation and enjoy yourself."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNWRqQjVNRlZpVXpORVNFZE1RMWMwZDJsbWJtYxAB",
+            "text": "Love Industry city! My favorites are Japanese Village, and a lot of creative businesses and cool furniture stores like abc carpet and design within reach"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kalpXRnRjSEoxU0VaM00wZGZkbWxDVGtoaGNtYxAB",
+            "text": "Lits of restaurants and stores in one within several buildings. Plenty of parking.  Up and rising location and easy to access right from highway."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aV1lXMDBVbGR1YjJrMGFFUktSRzVhZWswd2RVRRAB",
+            "text": "Went for a Brazilian party on the outside area of the building. The Industry City by itself (building) seems to be big and with a lot of options for food and entertainment."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJOVBHV2JnEAE",
+            "text": "Great spot with huge food vendors, craft shops and book store.\nEasy pick for a family time with places for the kiddo and drinks for adults"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVOGNMeUNnEAE",
+            "text": "Pretty good Japanese food court and supermarket, reminiscent of mitsuwa marketplace in Edgewater New Jersey. The location can't be beat since it's easily accessible to most New Yorkers by car or by Subway. On a nice weekend day, it's worth spending a few hours in this area, and explore the neighboring shops and complexes."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsVE1saFNVazAxWVZKcVZFOVlMVWxxT1dkcWFrRRAB",
+            "text": "Very well developed industry location. Definitely worth a visit when being in Brooklyn"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2cU5iMHFBRRAB",
+            "text": "It's always a good time. Food court have different variety  cuisine and they all taste amazing.  Love the ice skating ring in the winter times. Every Thursda,  they have this event called \"cheapskate\" where people only pay $10 to skate plus rentals. They also  have this delicious candy hot chocolate to go with the holidays vibes"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkck5raERNa05HTWs5WWVqUnVlbnBoTFRkalptYxAB",
+            "text": "always a fantastic place to visit. I'm always discovering new things here. This time we discovered Knight Times, a great board game and rpg store/lounge (they have snacks). They have lot of indie RPGs, amazing."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNib1o3cjdBRRAB",
+            "text": "Wow the 6 million square feet how many stores and food places and then Use and game rooms are so much fun to explore. There’s so many places to sit and eat and enjoy live music and places with interesting things to do like sing karaoke and…"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkbXJDSHRnRRAB",
+            "text": "I attend physical therapy at the HSS located inside this building.  Very clean, top notch security and plenty of parking in the lot across the street.  I go to the HSS in building 10 the staff in the lobby are all welcoming and friendly.  Everything in the building is modern and secure.  You cannot access any of the floors in the building without being cleared by the staff and then they will use their key card to unlock the elevators.  There is a coffee shop in the bottom of the building, and the NY Nets have a practice arena at the top floor of the building.  There is also a large parking lot across the street."
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfbEk2aTBnRRAB",
+            "text": "Beautiful place, very nice to have something to eat, as tourist a nice place at Brooklyn, to spend the evening  with many activities to do. They also schedule activities at night so you can have a nice moment overheated  cozy with many stores for you to pick."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwZ3J1Mk9nEAE",
+            "text": "overall really appreciated the visual designs of the park - such a thoughtful and diverse collection with very aesthetically pleasing colors. the orientation and navigating were very confusing tho. it’s one of the places that you have to…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSbVV6SkZjalkwTTNSUmFHVlpRVXc0YnpnMWVtYxAB",
+            "text": "Went to see a band. Great venue. Great selection of food. Had a great time"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMZzYtVUpnEAE",
+            "text": "It's a place with a lot of potential, it's not very popular, there are a lot of Hispanic and African American events, and Costco, the big shopping mall, supports some of the traffic. The interiors of several large buildings are distinctive and industrial, with some niche bars and shopping shops. Suitable for photo punching."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYaThTZ0FnEAE",
+            "text": "Super cool place! You can find a lot of stores outlets and there’s a Costco too! A Starbucks and a food court for your lunch and a big area for your kids to play!!! West Elm, Design within reach and Petco…recommended if you’re looking for…"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3dXEtN0FnEAE",
+            "text": "Loved it, I’d say go in early because a lot of businesses close before 8pm. Went there thinking my bf and I would have time for the arcades but they closed at 8pm. The food stands were also running out of food.…"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmcnBqc2F3EAE",
+            "text": "Interesting place to check out and visit.  Lots of different food shops and a bunch of trendy stores.  I would like to come again and try out another restaurant, but nothing else is calling me back here."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4dU9HUFlnEAE",
+            "text": "I enjoyed the revamped warehouses and factory space now turned into a shopping, dining and whole outdoor oasis. So much to see and you can spend a day here easily.  My family and I ventured here for Japan Village mostly but we were happily surprised by the retail and food offered here. Comic book store, liquor for sale, bars and outdoor spaces throughout. Best part of this place was the outside meets inside spaces. One building flowed into the next with a beautiful outdoor passage in between. Multi floors too, in each building. Elevators available. I just wish the parking situation was better, pricey but close. Free spots are hard to come by, on the avenue."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5d1RGaHFWMEkzWmtKSWNXWnpTMFl4Tm1ZMlluYxAB",
+            "text": "Having visited three times now, this spot has become a regular destination for us whenever we're in New York. Although it's a bit far from the city center, it's absolutely worth planning your day around it. If you find yourself in the area, it's a must-visit.\n\nWe particularly enjoy exploring the various distilleries, each offering unique flavors and experiences. The food court is phenomenal—you never know what culinary delights you'll discover. On our last visit, we even came across a unique liquor from Iran made solely from raisins.\n\nOur favorite hangout is Bitter Monk, located in building 6. The ambiance and offerings there make it a standout bar that we always look forward to revisiting.\n\nHighly recommended for anyone looking to explore diverse flavors and vibrant atmospheres in New York.\n\n---"
+        }
+    ],
+    "reviews_count": 77
+}

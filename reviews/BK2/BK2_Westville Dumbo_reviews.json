@@ -1,0 +1,565 @@
+{
+    "name": "Westville Dumbo",
+    "place_id": "ChIJI4YtUjFawokRirhCTkv48p4",
+    "grid": "BK2",
+    "address": "81 Washington Street Apartments, 81 Washington St, Brooklyn, NY 11201, USA",
+    "rating": 4.6,
+    "user_ratings_total": 2293,
+    "phone_number": "(718) 618-5699",
+    "reviews": [
+        {
+            "date": "20시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ga1EyZHhiMUUxWjB0NVFYWTBZMmRxV1VSWVFYYxAB",
+            "text": "Rodolfo was super nice! Good experience"
+        },
+        {
+            "date": "수정일: 1일 전",
+            "language": "de",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FNFYxVlZkamRSYlRoMFQxRXlTMEZJVlY5R1JXYxAB",
+            "text": "kleine Lokal mit leckere Speisekarte, da wir nicht viel Hunger hatten... gab nur was zu trinken und selbst gemachte süß Kartoffeln pommes ... lecker"
+        },
+        {
+            "date": "수정일: 2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwMVdWcDVSVzF5YW5ST1dsUjBSV1pQY3pKVExYYxAB",
+            "text": "the GOAT spot in Dumbo - go here they got you"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twV1ExSkVVWEkzV1RkNU0zUXlkRTV2VWs1TlFYYxAB",
+            "text": "Their Caesar’s Salad is one of the best I’ve had."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWdGVXZHNPVU41YVRsQmRWVnRObHBPUVhReVJHYxAB",
+            "text": "Great service!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSNVZqUmtNRU0xWVd0d2RWRlJkeTF3WW5kUFZuYxAB",
+            "text": "Great spot right on Washington  so you can get your Brooklyn Bridge/Empire State Building photo! Try the breakfast burrito!"
+        },
+        {
+            "date": "수정일: 3일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNjeDYyY3NnRRAB",
+            "text": "Edited in 2025: always had great experiences before. But during my most recent visit, I think the waiter didn't know the meaning of dairy allergy, which was not a great experience for me afterwards."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kaU1HZG9ZbGR2ZDFacFFrcHZkSEZ6WlZCNWMxRRAB",
+            "text": "Roberto was so sweet and gentle, very attentive and caring. He made sure we were comfortable and was very respectful. We surely would come back, thank you!"
+        },
+        {
+            "date": "수정일: 3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tveFJXRmlXVkJNT0RoVExXRnFkbWxEV2xOeGFuYxAB",
+            "text": "I visit my son in New York and we always try a new place.  I will definitely be coming back the food was so good so fresh perfectly cooked.  Service was excellent and I love the atmosphere.   I recommend the salmon plate I got the asparagus with Parmesan cheese and the kale with caramelized onions.  My son got the kale salad. We also ordered the empanadas for an appetizer everything was excellent. I can't wait to come back"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCMVlYTjBVMUpPYURodGRGTnBXVVJWTm1kYWIzYxAB",
+            "text": "Nice. Great poached eggs and burgers were 👌. Busy but chilled restaurant and no reservation but they found a lovely table for us and we were served in good time. Service swift and attentive and prices some of the best we have encountered in NY! $15 for a full plate whereas $23+ has become absolutely normal."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taWmREUlNUbGRoUlRWM09FVm9ZVzh5T0RoUVdVRRAB",
+            "text": "The hamburger left notes of truffle —Jacobo Sanchez"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twU1EyMU1URFpIU25WNU4wWkRObEZKWHpkNlIxRRAB",
+            "text": "Tasty pickle juice margarita! 🍹"
+        },
+        {
+            "date": "5일 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFNVRHcG5Ra0pTY1VocmFta3RMVFJHTjBoa1QwRRAB",
+            "text": "Superbe adresse dans Brooklyn - typique :) et surtout on y mange très bien ! Le service est impeccable 👌👌"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGSU5WQkpMVEJqV1d0TmRuRmpaa3cwWlc1VE0xRRAB",
+            "text": "Exceptional service"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGd01sUjVkVkJNYW1vM1FrMUNiRWhvUmxveFkyYxAB",
+            "text": "Lovely staff, lovely food, perfect location."
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVek5EUTBhM2hJTFdreWFpMDJPRTFoVlhsT1FuYxAB",
+            "text": "Belle découverte 🤩🥗🍪"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NNFNVeHNOamxWTmpWcmJrUkZjMEZsZGtzMFoxRRAB",
+            "text": "Good mac and cheese !\nQuick and nice service"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxNVRVVTJUVVpvY1UxSWJGTnNkR0p1WVU0MWNXYxAB",
+            "text": "It was a perfect brunch, thank you 😊"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swNGNVOUpZblpWVEROb2RuWlhSbFZ3V201S01VRRAB",
+            "text": "Awesome food, drink and service in general"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGb1lsb3ROR0ZoWkZSSFgwbGZiV294TlVaWFdFRRAB",
+            "text": "Fan…. Bloody…. Tastic!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GZlFXOWlWRVF3Y1RWRGRqSmtSRmcxYW1KeFIwRRAB",
+            "text": "Amazing empanada"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVeGRGTjNhRk00YkhSRk9XNU5TemxmWW5wck1sRRAB",
+            "text": "10/10 no notes! Loved the variety of food options to choose from, especially all the fresh market vegetables. And the cute little patio had great ambiance. Friendly service, would definitely come back. We had the breaded chicken cutlet with cauliflower and yuca fries, and the lemon basil spritz!"
+        },
+        {
+            "date": "1주 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOUU1HTkljVVZuWm5OT2FtcEdaSEpJVEd0VU5tYxAB",
+            "text": "Er fijne plek om te eten"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CVVIyMTJSMVl4ZUZwemEwTmxabGxwVG1GVVVIYxAB",
+            "text": "Great lunch spot before heading to the Brooklyn Bridge pedestrian walkway nearby."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKNkxXTm5WakZwUlZKZlNHd3laVzFmVUZkME5uYxAB",
+            "text": "Lovely place with nice atmosphere and tasty food"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5MmMxOXhTak56TFZkUVZtZGlPVGxFVkc5aE1YYxAB",
+            "text": "Our waiter was very friendly and efficient!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sRFJHRmpTRGhJU0hocFduRnlTR2d5WmtOU2RWRRAB",
+            "text": "Amazing"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sTVNYYzJRM0pZVUhwcmEyNHlUbk5EU1dGWlozYxAB",
+            "text": "It's fine."
+        },
+        {
+            "date": "2주 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21obmRIVmxNbGh6UjJkU1oyZFdiVTUwYVhrdE9IYxAB",
+            "text": "Garçom Roberto muito atencioso"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20welRYZENORWt5WkV4UGVXY3dUbms0ZUV4T1RtYxAB",
+            "text": "Roberto was a wonderful waiter. Very friendly. The French toast was amazing!!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMVRXTlRVbGQ2VEVoSldtdEtibk5uVERCcVFXYxAB",
+            "text": "La comida muy buena y lo mejor la atención de nuestro camarero Roberto. Excelente"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNscXFHSHZ3RRAB",
+            "text": "원스어폰어타임의 영화 포스터 장소 뿐 아니라 많은 영화가 여기서 촬영되었죠.\n평일에 가시면 덜 붐벼서 사진 찍기 좋아요.\n\n여기만 딸랑 가시면 너무 아쉬워요.\n4분? 정도만 걸어가면 제인's Carousel 이 있어요. 회전목마인데 2달러면 탈 수 있는데다, 실내라 여름에 시원하고 겨울에 따뜻해요.\n회전목마를 안 타더라도 경치가 진짜 좋으니까 꼭 가세요.\n그리고 여기가 브룩클린 브릿지 파크 안이거든요. 이 공원에 포토스팟이 많으니 사진 찍으시다가 배고프면 TimeOut Market 가셔서 먹으면서 쉬실 수 있어요. 안에 EssaBagle도 있고 유명한 브랜드들 많이 있습니다.\n여기서 쉬시다가 선셋 타이밍에 브룩클린 브릿지 올라가셔서 야경까지 보고오시면 딱입니다^^\n\n그리고 마그넷이랑 키링은 여기 가판대가 젤 저렴해요^^"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyZ2M2QldnEAE",
+            "text": "음식 맛있었고 사이드 야채를 자유롭게, 많은 종류를 고를 수 있는 게 좋았는데 자리 중에 굳이 가장 구석에 낡아서 끈적거리는 테이블을 배정해준게 좀 웃겼네요\n우리가 2인이라 그 유일한 2인석 테이블에 앉힌 걸수도 있으니까 인종차별이라고는 생각 안 하려고 해요 다른 2인 손님은 4인석 앉아 있었긴 했지만요ㅜㅜ"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4czgzZXJ3RRAB",
+            "text": "그릴치즈 샌드위치 불맛 나고 맛있네요. 엄청 친절하십니다. 커피 마시다 남아서 투고 잔으로 부탁드렸는데 새로 담아주셨어요. 굿~♡"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNMzdPT09nEAE",
+            "text": "친절한 서비스 적당한 가격 ... 내가 좋아하는 랩과 오픈 샌드위치 커피 및 팁까지 포함 40달러 내외였던걸로 기억"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzdGQydXJRRRAB",
+            "text": "캘리포니아 브런치.. 16불에 연어추가 총 19불.\n커피3불요! 가격도 좋고 너무맛있습니다. 양도 적당해서 브런치로는 딱이네요. 바도 있어서 혼자 오기 좋아요"
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnamF5cGZ3EAE",
+            "text": "구글맵으로 우연히 찾아서 들어갔는데, 사진찍기도 좋고 맛있는거 많아요ㅎㅎ 가격은 20달러 내외로 괜찮은 편입니다:)"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzenRpX0JBEAE",
+            "text": "위치는 덤보와 거리가 매우 가깝습니다. 맛은 무난합니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREcjhhSFF3EAE",
+            "text": "칠면조 버거 비추\n치즈버거 강추"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJMklmQ3JRRRAB",
+            "text": "구글맵보고 찾아갔는데\n너무 맛있고 배부르게 먹었네요"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtdkxiMVF3EAE",
+            "text": "미국 맛집 맞네요.\n우연히 가게 되었는데\n브루클린 다리랑도 가깝고.\n가격도 비싸지 않아 좋아요.^^"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVOV91UTBBRRAB",
+            "text": "샌드위치 햄버거 다 맛있다"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNjc1BfWDZ3RRAB",
+            "text": "존맛"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wZlVFNDVkbVV5WmxkMFpGTlJPRkY0YUUxZlVIYxAB",
+            "text": "Precioso lugar en Dumbo. La calle con mejores vistas de la zona.\nAtención esmerada por el personal, muy atento y servicial. Buenos productos, bien preparados y presentados. Relación calidad/precios inmejorable. Como siempre las bebidas alcohólicas son costosas. Para todos los gustos. Recomendable 100%."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GRGVIVkhVVmxPTkhaRmJIaDRNbEoxZDBadVNGRRAB",
+            "text": "Came in for brunch on Saturday and was very impressed by the food and service. The waffles were fantastic and the eggs were nice and fluffy. Definitely would recommend for a decent priced spot in the area"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzeVVsQktWbGRmVFZoSFRHWTBUMEptZWpKU1QxRRAB",
+            "text": "Great spot in Dumbo! The chilaquiles were delicious and the food overall was fresh and tasty. Loved the beautiful outdoor space—perfect for a relaxed meal. Friendly service too. Would definitely come back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvaHNQZUVBEAE",
+            "text": "Westville DUMBO is my go-to spot for fresh, healthy, and consistently delicious food. I’ve ordered delivery and dined in, and every time the experience is excellent. The staff is always friendly and welcoming, and the vibe is relaxed but vibrant. Whether you’re grabbing a quick bite or sitting down for a full meal, everything is packed with flavor and feels good to eat. Highly recommend for anyone looking for a wholesome, satisfying meal in the area!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscGFHMXlabU5EWWpCdldVNTZRalZ1VGxGNVQwRRAB",
+            "text": "Service was great !\nWhy 4 stars not 5 ?...\nSame salad on all dishes which was nice but mid.\n3 oz steak and 2 scrambled eggs for 29 dollars !\nSat in patio, fans were not on and AC did not work ! Why lol !\nBest dish: birria\nWorst dish: avocado toast"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25acVREQTVUV0ZCUjAxWWFreG1jMUowUlhGUlkyYxAB",
+            "text": "One of the best brunch spots I’ve ever been to. Costumer service was amazing and the place was very clean."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOdVRzNTZzOXRHOUdnEAE",
+            "text": "Had a vegetarian burger and coffee here. Both were good. Especially loved the burger with fries.\n\nService was decent and the guy managing the incoming audience is friendly and helpful.\n\nBit of a slow service otherwise but if you reach out to him he certainly helps."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNGMwbDJNVmhqTUdGelkwcFlUV3hPVmtwa1kwRRAB",
+            "text": "Attentive service, a lovely patio with warm lights, and a great variety of healthy dishes—meat, fish, veggies, fries, yuca, and more. Delicious desserts too. We’ll be back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSVNtMHhaM1U0WVZkd1ZWWXlXVWR4VldndFZtYxAB",
+            "text": "I would call this place hidden gem. Food is delicious. Little feedback. I think you guys need better waiters. But in general food quality covers everything. And location is great"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGaE0ycHZORlJsWWpWYWNISnNOMHhYWWkxVlVGRRAB",
+            "text": "Wow… what a fascinating place. Because it was Tuesday, they had free kids’ meals, so we went in… and it was absolutely delicious. Even the fries were tasty. The prices were quite reasonable too."
+        },
+        {
+            "date": "1달 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1aGRqTkpiRVl4ZFV0aWIyeHFWMlJqTmxoelIyYxAB",
+            "text": "Super vriendelijke bediening. Het eten is goed en de sfeer relaxed. Je voelt je hier welkom. Service is prima. Fijne zaak om wat te eten als je Brooklyn bent."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OTFlXWndSbVZWWXpSZk1IbEZWM3A1Y0ZGS1lYYxAB",
+            "text": "My best dining experience this far. The staff is super friendly, food and drinks on point and atmosphere was great. 100% recommended!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqMUp6dmV3EAE",
+            "text": "First time coming to Dumbo location, the service was slow. Waited for a bit to order. The server was all her alone for outdoor sitting.\n\nThe drinks and food came at the same time, which was not what I prefer for brunch.\n\nThey only have limited options for brunch. Which was another disappointment. I usually get pesto chicken salad. But they didn’t have it in the Dumbo location.\n\nI got steak sandwich with fries, my boy friend got the hamburger. And we got Greek salad to share.\n\nThe salad was not fresh at all. The feta cheese was delicious. The dressing was very good. I hope it could be fresh, when it comes to greens in salad I prefer when it’s fully fresh ingredients.\n\nThe hamburger & sandwich didn’t really taste good. It was 5/10 to be honest. The fries were too oily for us. The taste of oil makes me really uncomfortable after ate.\n\nCocktails was not good as it used to be as the other location offers more option and more fresh ingredients. Not sure if we’ll visit again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzbHZiUVFBEAE",
+            "text": "Dumbo. An unusual name for a neighborhood if you are a tourist. And yet New York manages to make so many things sound cool - even the term Dumbo being used for a neighborhood. Located right across the river on the other side of Brooklyn Bridge - after walking the entire length of the bridge we chanced upon Westville, Dumbo.\nA bit of a quirky, but fun place to be. Daily specials for beers on tap and a regular menu meant we ordered a Ceasar salad, Fries, Mac n Cheese for the kids and finished it all with a slice of American Pie.\nWhile the food was good, service was astonishingly slow. Especially being used to the pace of NYC by then, it was almost as if we were part of the furniture!\nThankfully the food worked out and it was refreshing to sip fresh beer on tap after crossing the Brooklyn Bridge on what was deemed to be the hottest day in New York up until that point!\nFor views of the bridge itself, it is walkable from here, which makes it convenient."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQMW9QaERREAE",
+            "text": "Food was absolutely delicious!!!! 100% recommend especially if you want fresh produce prepared in the most delicious way. Didn't take long for food to be prepared. A bit pricey but the portions are pretty big. It was my first time visiting and the waitress could have done a better job with recommendations or explanation of the dishes. She also took quite some time to take empty dishes away or go bring the bill."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNUGs2YWZNNTdQZmVREAE",
+            "text": "We loved our meal here! A large assortment of delicious vegetable side dishes, or for a main course."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfOE9UYkhnEAE",
+            "text": "Didn’t plan to come here but crossed the Brooklyn bridge and got a little hungry. This was a wonderful find; great fruit and veges market platter, and the best sweet potato fries. The buttermilk chicken burger was a bit dry but still tasty. Would come here again!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3MWJxVjN3RRAB",
+            "text": "The homemade veggie burger here is sensational - it's their newest menu item, a special they've been continuing because it's doing so well. I'm a carnivore and yet I crave this veggie burger. It's so good that even my dog loves it and he always spits out veggies. I always upgrade to their sweet potatoes cause they're delicious. They've also got a lofty brunch menu, and I'm a fan of their waffles and scrambled eggs dish for that savory-sweet combo. Thanks for the weekly veggie burger bonanza!\n\n5 stars!!!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjNVdXZGFNSGRKYkZNd2QwaHRSbU5hVmsxM1gyYxAB",
+            "text": "Westville is always a solid go-to, and the two things I never skip are the truffle parm fries and the kale salad. The fries are a must-try if you’re coming. The kale salad is simple but really satisfying—I added breaded chicken and salmon to mine.\n\nIt comes with walnuts, cherries, and a few other ingredients which were a surprisingly good combo, all tied together with a light lemon vinaigrette. Pairing the fries with the salad feels like the best of both worlds, something hearty and something light.\n\nIt is on the pricey side though, I paid around $45 for everything. Would definitely get again but be aware it’s not cheap."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwdE4yYzBaV1psVFhOdmQwVjRSRVJvUlRVM1puYxAB",
+            "text": "Food was excellent. My girlfriend was completely spoiled for choice which rarely happens because she’s quite picky with food. My steak was excellent and the peas with bacon and onions were fantastic.\nHighly recommended for anyone coming to Brooklyn or NYC on holiday/vacation."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURneF9Uc3RnRRAB",
+            "text": "Delicious! And the people are so courteous and sweet.\n\nIt was my first time here from India and so got their classic margarita and Asian Crispy Chicken, it was yummy.\n\nThe vibe is amazing and Miss Jessica got me a free chocolate cookie on the house because it was my first time in NYC. Can’t get better than that.\n\nHighly recommend!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SS00wRk1UV1puYUU1eGFucEllR3QxVlZoYU1HYxAB",
+            "text": "This restaurant delivers on its menu promises. All offerings provide eating enjoyment. The service was AWESOME! The mood here is perfect, everything's clean, and service is welcoming. I enjoyed every moment of my visit."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOT1lqRkpUR0ZPV20xS1pVTmFUVzFZWlhGemFHYxAB",
+            "text": "Carlos was an exceptional server, always attentive and quick with a warm smile that made our dining experience truly enjoyable. The food was nothing short of exquisite; each dish was a work of art, bursting with flavor and beautifully presented. Without a doubt, we will eagerly return to savor another delightful meal in this wonderful establishment."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaNFoyOTZNM053TTNJNU4yWkdWMTlFUWpSZldsRRAB",
+            "text": "I loved the garden (outdoors). It was relatively quiet. We had egg Benedict and Burritos and they were great. Staff friendly."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzNWRmVC1nRRAB",
+            "text": "The restaurant was beautifully decorated and pleasing to the eye. However, the food and drinks (cappuccino, chorizo egg and cheese, chilaquiles) didn’t meet the expectations).\n\nThe westville waffles were nice and filling.\n\nThe customer service was great!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiNnRYNHR3RRAB",
+            "text": "Randomly chose to come here for lunch and we were not disappointed! Conveniently right on the iconic Dumbo street.\n\nSpace: Very spacious; there were seats inside, at a covered patio, and outside! Came in a group of 5 because the weather was amazing we decided to sit outside.\n\nService: Normal, we had a friendly server and we were seated right away\n\nFood: Great! For the appetizers/sharable, we got the Smokey Mac & Cheese($13), Sweet Potato Fries($8), and Truffle Parm Fries($9) all were actually 10/10! As for the entrees, 3/5 of us got the Grilled Marinated Sirloin Steak($29 ea), cooked perfectly to each of our liking as well as the Grilled Salmon($21), wasn’t dry! Both steak and salmon is part of the “plates” so it came with 2 market vegetables. Market vegetable; Asparagus with parmesan (10/10 this was the best side), Kale with spinach, shallots, and pumpkin seeds (6/10), Green peas with bacon and caramelized onions (8/10 my friend throughly enjoyed it), Roasted sweet potato with sour cream and scallion (8/10), Roasted mushroom with leek and fresh herbs (5/10 I LOVE mushroom so i was really looking forward to some mushroom but my friend and I couldn’t get passed this taste that we couldn’t tell from guessing the leek so not for us) and lastly Roasted rainbow carrots with fresh herbs (7/10 just carrots). We also got the CBLT with side salad($16) and it was okay nothing grand.\n\nDrinks: Lemonade ($6) very refreshing!\n\n20% gratuity is auto added for groups of 6 or more and it was added for us even though we were 5 which we were going to anyways so that’s not really an issue for us, just a heads up for others."
+        },
+        {
+            "date": "2년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGNjdMTFRREAE",
+            "text": "Ottimo! Personale gentile, cibo delizioso e bell'ambiente. Se si è nei pressi di Brooklin nel quartiere Dumbo, questo è il posto adatto per gustarsi un buon pranzo.\nGli ingredienti sono genuini e pieni di gusto. Assaggiato il petto di pollo grigliato, con cavoletti di Bruxelles e pure di patate all'aglio ed era buonissimo.\nBowls e insalate sono anche da provare.\nConsigliato"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210M05HWk9jMEpQUm14NlRqWnpkbTF5UkhjMGQxRRAB",
+            "text": "Beautiful outdoor garden with great people watching on the Main Street.  Great cocktails, great food.  The kids said it was the best Mac and cheese they’ve ever had and believe me they’ve tried many all over the world.  The staff were also so warm, it’s hard to believe a restaurant in that popular of a location still maintains its “we’re happy you’re here” vibe."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6anVXekFREAE",
+            "text": "2/5 stars because the outside dining area was nice and the Greek salad. Besides that, 0/5 stars. The hostess took us outside to get seated and seemed frustrated/annoyed that they’d forgotten a menu for us, but we said it was fine. 10 minutes had gone by and no server came to our table to ask for drinks and it seemed like there was just 1 server for the entire outdoor space. We had to wave the server down to get their attention.\nWe got the Greek salad to share which had kind of a lot of dill seasoning inside but regardless it was fine. I got the BBQ brisket with sweet potato fries and the person I was with got the grilled chicken with some side veggies. Sweet potato fries were fine. However, my sandwich was so disappointing. There were only fat slices, barely any meat, on the sandwich. And the meat was super chewy, overcooked. It literally felt like a scam. And there were no servers that came to check on us so I could say something, zero!! The person I was with, their chicken was so disgusting dry you had to sip water to swallow the food. I even questioned if it was precooked and microwaved.\nWe ate what we could to basically make our moneys worth, at the very least. We had to wave a server down again to pay for the check.\nOverall, I’m never coming again. Huge waste of money. The only good thing was the Greek salad (which was quite mid) and the outdoor atmosphere."
+        },
+        {
+            "date": "1년 전",
+            "language": "da",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyb2ZPWkNnEAE",
+            "text": "Her spiser du godt i et ungdomligt moderne miljø. Maden smager frisk har god energi, og er rigtigt godt sat sammen.\nDer er mange muligheder i den sunde og vegetariske genre. Alt vores mad smagte bare godt og ikke mindst kunne man tilvælge eller blande ingredienser til retten. ♥️ tak for god mad hvor pris og kvalitet mødes.. 4 personer 100 usd 4 gingerale. 💪"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQdHB5UnN3RRAB",
+            "text": "This could be one of my favorite places in new york.\nThe food is not salty but savory, the beer and espresso martini was perfect. I was so touched by the bartender's kindness. Thanks to him, my friend and I (from korea) made a great memory.\nI recommend the burger with cheeze, It was sooo nice:)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiMzRPUXZnRRAB",
+            "text": "Very tasty food at an amazing location and with a large patio. Its a perfect spot to grab a delicious and healthy meal. They cook veggies spectacularly and I always end up eating them all!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmNHZPSWd3RRAB",
+            "text": "I ordered the salad with added meat and it was one of the best salads I've ever had. The rest of my table ordered the chicken sandwich and wings, and everything was cooked to perfection. Our server, Irais, was excellent, she took our order exactly as we wanted it and was attentive to our table throughout. I'll definitely be back to try more items on the menu."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmbXFIRWZnEAE",
+            "text": "Great food, good ambience, good service. The Market Plate option was our favorite. Drinks menu has a bunch of good options too, including non-alcoholic cocktails."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VKdWh1cmFPOXNmTFVBEAE",
+            "text": "I usually love to order from this location but I’m unfortunately disappointed by the amount of food I’ve been receiving. For $30 I should expect more than just one scrambled egg. Really?!"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKbk8yLXBRRRAB",
+            "text": "I was there a few months ago with my friends for one of their birthday. The food was great. The waitress was very kind and even gave us a candle on a slice of cake for her. We enjoyed our dinner. I would definitely recommend this restaurant. As a matter of fact I might be visiting with another good friend this Sunday. I do hope you will have the fish taco. I would like to try it. Once again I visited with my friends and the food was delicious also the drinks. Roberto our waiter was super good. Kudos,& Westville continue with your delicious food and excellent service. Best of luck. Hope to vid again."
+        }
+    ],
+    "reviews_count": 79
+}

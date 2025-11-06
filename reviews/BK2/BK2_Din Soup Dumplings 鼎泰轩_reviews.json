@@ -1,0 +1,649 @@
+{
+    "name": "Din Soup Dumplings 鼎泰轩",
+    "place_id": "ChIJWWAmRa5bwokRrCSDiFtd8-g",
+    "grid": "BK2",
+    "address": "162 Montague St Fl 2, Brooklyn, NY 11201, USA",
+    "rating": 4.7,
+    "user_ratings_total": 987,
+    "phone_number": "(718) 550-3888",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205dmJXVkpaRFZWWjNOUFVqQkllWFZXVW5acmIwRRAB",
+            "text": "Din Soup Dumpling really impressed me — everything from the food to the service hit the mark. The soup dumplings were perfectly made: thin, delicate wrappers with rich, flavorful broth inside that burst with every bite. You can tell they care about freshness and technique.\n\nThe staff were friendly, attentive, and quick to check in without hovering. The atmosphere is cozy but still feels modern, great for both casual lunches and date nights."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tneldHdDFiSEF4V0UxeFpUSlhTek54VWxwclNtYxAB",
+            "text": "The food at this restaurant is simply outstanding—every dish bursts with authentic flavors and is cooked to perfection. The xiaolongbao are a highlight: thin, translucent wrappers encasing piping-hot, savory broth and tender filling that explode with umami in every bite. Service is equally impressive; the staff are warm, attentive, and genuinely caring, offering thoughtful recommendations and ensuring every need is met with a smile. From start to finish, dining here feels like a treat—delicious, welcoming, and unforgettable!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4Rk1Fb3hNRWcwZUVGSFgxVXhNUzFvT1VGS1RGRRAB",
+            "text": "Service was not so good. My friends and I were stared at the whole time as we were the only black ones there. They treated my friends and I terribly, the waiter was kinda mean and seemed like she wanted us to leave immediately. And then updated my fee once I left by $4 extra dollars. I will be calling this place for a refund, if not my bank will refund the extra money ($4)."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodWNsZHNZWEIxZGtkek5YWkRSMjEwT0d3NU1uYxAB",
+            "text": "Sat for over 10minutes and watched as people entered and were seated and given menus/attention while my sister and I were ignored. When we tried to get the waiters attention, they were unresponsive. I also had requested a seat in the back and they refused since we were only 2 people. 5minutes later a party of 2 walked in and were given the same table I requested. After reading other reviews, it seems this is common! I prefer to go places were customers are VALUED."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZeE0xWmlaSGhKUm1GM2FITTNkM05qVDJWTFgwRRAB",
+            "text": "Hands down the best dumplings and Chinese food in New York. Everything was so incredible and authentic. Highly recommended ❤️"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Sek5VSnlOME5YUld0a2JteDZXak50UVVOQ1VYYxAB",
+            "text": "Deceived by Google reviews once again. This place is definitely not my flavor.\n\nI came in here because Lichi Nut wasn't able to process credit card payments at the time.\n\nI ordered the passion fruit green tea, peanut sauce noodles with fried chicken, scallion pancakes and the pork steamed buns.\n\nMinus the passion fruit green tea, everything else was disappointing. The peanut sauce noodles were bland, like the peanuts were diluted with oil. The chicken was clumpy and all stuck together kind of like candy corn that's been sitting in the bowl for 6 months. The scallion pancakes were undercooked and almost runny. The pork steamed buns were mid, but the sauce was off putting. It was sweet. Normally steamed bun places serve their sauce as black vinegar with sliced ginger.\n\nWhen i was waiting for the steamed buns, one of the workers came up to me and said \"WOULD YOU LIKE ANYTHING ELSE?\" Yes, I would like the last of my order. I felt like I was getting rushed out of there.\n\nThis place is NOT IT. Will not be returning."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paTlkwcGhNa1psYkhCU1ZIRlhiRVpKT1dKdlpYYxAB",
+            "text": "Best soup dumplings I've had ever"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OV2VFcFliMDA0VTFBMWMybFZlRzg1UmpCRWFFRRAB",
+            "text": "Food was delicious, service was great!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sQmRFVnVWRXhETkVOQk1sQjJaMEpQY0U1SFkyYxAB",
+            "text": "We had a lovely meal and great service, highly recommend"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFMFFqRTBUbWQ2YVd0cmFFaHJTMWR3TldObWFsRRAB",
+            "text": "The food was amazing! The Pork Soup Dumplings are the best I have ever had. The staff is friendly and the water is free. I also recommend the stir fried green beans and the edamame."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jMFRuVkdkVWhtWDBsNVFuSm9YM1ptWkRkMU1XYxAB",
+            "text": "i love this place! the wonton soup dumplings are great and the staff are adorable"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkWlZuaDJha1E0WkhjMlV6VjBYMlE1Wm1GaVJIYxAB",
+            "text": "Hit the spot! I had the crab and pork soup dumplings and the scallion pancake. Loved them both and excited to come back!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWMVYwNTFPWGg1TjB0WlpIcGFjVzVUYkU5VGRGRRAB",
+            "text": "Great"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBaThiOW9nRRAB",
+            "text": "Uniquely delicious Soup Dumplings and Shumai and Scallion Pancakes among other treats, with staff including Steven being perfectly helpful and welcoming… on a recent return visit I found the ‘scallion pancakes’ seemingly completely lacking in scallions 🧐though the Pork Soup Dumplings were as delicious as ever."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVNWExSk1hREpEVEhGcFozaDVjRlp5TkRCT2JVRRAB",
+            "text": "The dumpies were bangin"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214TFMyMUxUakp6WWpKMVNrVTRkbGhRT1ZCQmNXYxAB",
+            "text": "Fantastic food, and we had a great time!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsclJWRlJZekZpTUhOcGQyZGZjMEpHVFRCWlRtYxAB",
+            "text": "It’s amazing food !"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psc2EzYzNUVGsyVUMxTVpVdHhWeTFxT0d3MVJWRRAB",
+            "text": "great soup dumplings! the crab especially hit well. soup broth on the noodles was nice and rich"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xS05uQnFUbWxoWkhCTWEyVk5iMEZrYTI1Qk9VRRAB",
+            "text": "What a gem. They made everything from scratch and the food came out hot and juicy. I love this place!"
+        },
+        {
+            "date": "4주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxVE4zaHZkRTVuWXpObVdWOVVNRkJpVlY5NFFYYxAB",
+            "text": "服务很好 鱼也很好吃"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUVgzRlZkVTg1VWw5eGFuVmFhbWxKY0ZsMFZXYxAB",
+            "text": "Excellent and attentive service. Food came out quick and hot, delicious."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxU1lrTjZhREJ5U25wWll6bE9iRUY2V2paNlZIYxAB",
+            "text": "This has become my go to lunch spot. I work nearby, and it is impossible to beat the combination of reasonable prices, great service, and delicious food.\n\nI think I've tried every dim sum on the menu at this point and have not been able to find one that I dont like.\n\nEasy 5/5"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GbWMzTlpjV1ZqUTBsUFRFOUdSRXhQWVZCNVgyYxAB",
+            "text": "Highly recommend this place. Great service and great food and price is reasonable. My favorite soup dumplings!"
+        },
+        {
+            "date": "1달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOYVoxWTNaa1JqYzNZdE9HWk5aMHhxY1ZoeFJXYxAB",
+            "text": "小籠包！"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJek1rWkZkVTlsWDJ4cU9UVldPVEZGYkVGSFNrRRAB",
+            "text": "Best soup dumpling ive had in a while. Very friendly service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGUWNGaG9lSGhaWVZSdk1XUkRURlZ1VVY5UFZIYxAB",
+            "text": "Try the tiny buns, they were amazing and well priced."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4UVVsTTJXVWRYUVZwek4zbDVYelpKTmxwNVNXYxAB",
+            "text": "Fantastic and very authentic dim sum. Highly recommend the Xiao long bao. Lots of vegetarian and vegan options, and reasonable price. I would add a picture but I ate everything before I could photograph any of it"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21od2FHbEdVRGhIZFdoRldTMWZTVE0xYzNwc1ExRRAB",
+            "text": "I work in the area and these are the Best dumplings in Brooklyn heights and all the staff are very friendly!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWaWVuTmFPVFpHUlU5SE5WTm5hVTFSYjJwVFNGRRAB",
+            "text": "What not too like about the famous soup 🥟 dumplings . My favorite the spicy ones with peanut sauce.."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toaVNHVTJNMXBRYTJkMWEyOVhNRzlzYW0xUWRVRRAB",
+            "text": "Authentic and very good Chinese restaurant! The soup dumplings is the best I have tried in the city. The lunch specials are very reasonably priced with great portions."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210WU5ISjZTbVo2YzFCbWVVMXJabkpXUVVWb1gyYxAB",
+            "text": "Just unbelievable. If you’re a fan of dumplings, this is the place. I would say better than most places in Chinatown. Service is exceptional as well. Very sweet and caring."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGRFpFVjZUVU5aTjNGUk5VcGlSMUV3VkZkdE0xRRAB",
+            "text": "amazing soup dumplings! they are huge and tasty. i think they’re the largest soup dumplings i’ve ever had. 100% recommended if ure in brooklyn. 🤍"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWbFpIUjNUM2hvUWkxcVJWYzJlRXRsVWs5cWIwRRAB",
+            "text": "Very good dumplings! Dumplings are big!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sdlpTMVRlWGcyU0dKV1pVMUtlWHBEUm10ek9WRRAB",
+            "text": "Super delicious and well seasoned. Steven"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMmMwbHpVMnBWVUdscWFWVkxMVE5NY0VORVVuYxAB",
+            "text": "Second time ordering from Din Soup Dumplings and so glad we did! This time I picked up the order and appreciate the attention to detail they offered for dietary restrictions. We enjoyed the following:\nBeef Fried Noodle (will try chicken next time and beef was a bit rubbery)\nS1. Steamed Pork Soup Dumplings (6) also very good and tasty!\nP3. Pan Fried Pork Dumplings(8) my favorite!\nD2. Steamed Shumai w/ pork & shrimp (4) (didn’t like the flavor of the shrimp and wish they had pork only but it was fine)\nD4. Mixed Dumplings(3) w/ Pork, peanut, water chestnut (this was tasty and fun!)\nMiso Soup w/o scallions was nice and cozy!\nWe also had a side of steamed chicken but will see if they can make it similar to the chicken fried noodle for more flavor.\n\nOverall, a great experience and will come back for more!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KaVZrMVhUbEZtVG05d1RIRlVUbHByYm5OQ2IwRRAB",
+            "text": "Soup dumplings and sticky rice in lotus leaf is great."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkWExUbHVXa1JuWjNKMVEwbHhUMGxwUTNaMldtYxAB",
+            "text": "We had a delicious stop at Din. We enjoyed peanut noodles and 2 orders of the pork soup dumplings and agree it’s the best we’ve had in this part of Brooklyn. We’ll definitely be back for a full dinner next time."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OcVFrRlVhRmQ2YVZJeWJHRjBWbk5vY0dkV1ZXYxAB",
+            "text": "Astoundingly delicious food that won’t break the bank. I stumbled into this place because I live nearby and really wanted peanut noodles. My god, I didn’t imagine it would be THIS good. I got the pork and veggie wontons with spicy peanut sauce and let me tell you - I used to travel to the upper west side for my favorite wontons and these are my new fave! Environment is super chill, service is prompt which makes for the perfect lunch spot if you work nearby. Hope you give it a try to see what I mean for real"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wcVJHVm1WbWxKYldsemVHMVJWMlpEY0VOVlptYxAB",
+            "text": "The food here had great taste and there is a great amount of food in each order. In my opinion I think it has a unique taste and I will definitely come here too eat very often."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWclUwbFZNMUpPV0VORFZtRmpaalpxVTJaWVpuYxAB",
+            "text": "Delicious food, the tea was great, and the staff are kind and attentive."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6eDh6ZGZnEAE",
+            "text": "So good and yummy"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OS1NISnFka05OU1Y5a00xWllSMk4xU2s1WWJHYxAB",
+            "text": "Love this place! Always great service and food. Def my go to dim sum spot in the neighborhood"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCNUtLbEFREAE",
+            "text": "I recently discovered this place and it is one of my favorite places. The food is delicious. People complain about slow deliveries, so go and pick up your food yourself of you want it hot and delicious."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SVRYWmxSV1pyVHpKQmExOVhUbHB4VGpaVGFFRRAB",
+            "text": "I got the pork soup dumplings and scallion pancake lunch special. The dumplings were to die for and the pancakes were delish. I will definitely come back. Our waiter was Steven, and he was absolutely amazing!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KSU5teHFSSG95T1hsRGVUSXpPRU5QWDFoVVpGRRAB",
+            "text": "So great amazing lunch special deal! Steven was the best!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoc2NXMDRlVmxaTURGWVJscERWRVpwTjNwbE4wRRAB",
+            "text": "awesome food, great service, great vibes, reasonably priced especially for NYC. steven was an excellent server. highly recommend !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCc2RpMWpkSFZ6VERKUVIzYzBWME4xWVRKTVNrRRAB",
+            "text": "Loved the vegetable dumplings,scallion pancakes, and Steven!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaa2JtcHNiSFo1VTFseFlYcHpSRzF2VG5saWFXYxAB",
+            "text": "The noodles are delicious! My toddler almost finished the entire plate by himself! Staffs are really nice as well. Restaurant is clean and play soft music in the background."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvd1IyZGlTMFZZYlRKYVpXdElXRnBFWlVwT1dGRRAB",
+            "text": "Lunch special was too good to beat and the food was delicious to boot!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsME1HdGZVRE5LUkVJdGN6RnRNVFJZUTFZelJHYxAB",
+            "text": "The store was really amazing, the dumplings here were so delicious and good. The ramen was also really yummy."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNyNXYxYhAB",
+            "text": "언니 회사 근처라서 들러봤어요\n토요일에도 런치세트가 가능한데 정말 저렴하고, 맛있습니다.\n딤섬은 Shrimp dumpling과 Shumai를 시켰는데 담에 또 오게된다면 Pork Soup Dumplings도 먹어보고싶어요!\n누들은 소스와 함께 드시길 츄천!\n치킨과 오이도 정말 맛있었어용"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURueDZETlNnEAE",
+            "text": "쌀쌀한 날씨에 국물 요리 먹고 싶어서 들어갔는데, beef ramen 맛있게 잘 먹었어요. 슈마이도 맛있었어요!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIb2VTNnVnRRAB",
+            "text": "음식이 맛있습니다\n특히 새우 딤섬이 맛있었고\n볶음면과 탕면 둘다 먹었는데 볶음면이 조금 더 맛있어요"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSURlbC00ZBAB",
+            "text": "딤섬은 너무 맛있었습니다!\n우육탕면은 생각보다 별로네요.."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twbFRHZFRUVWh4TWxWU1dsZGFORGxNWkZORlMyYxAB",
+            "text": "⭐⭐⭐⭐⭐ Absolutely Delicious & Authentic!**\n\nI tried the **Spicy Beef Noodle Soup** and **Cumin Lamb Noodle Soup** at Din Soup Dumpling, and both were incredible! The broth was rich and flavorful—the beef had a perfect kick of heat, while the lamb was tender with aromatic cumin seasoning. The greens on the side were fresh and balanced the meal well. Every bite felt like a taste of home!\n\nIf you’re craving authentic Chinese noodle soups, this place is a must-visit. Can’t wait to come back and try more dishes!"
+        },
+        {
+            "date": "4달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jMlR6aEZOR05aTnpSV1ZtcDBObFZEZDNRNWRXYxAB",
+            "text": "非常正宗的虾饺和小笼包，都是名厨在明厨亮灶里现做现卖！我们点了米线和豉汁排骨也非常好吃，在纽约这寸土寸金的地方量给的不算少哦！餐厅气氛很好，所有服务员都超级热情和善，我们吃的很开心。推荐！"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oc1kwRm9aWFpNTTB0T1JuUnJabGx3ZUZGQ2JHYxAB",
+            "text": "Believe me: those are from afar the BEST soup dumplings I have had in New York, and I am very picky with my food, I don’t have a big budget and I tried a LOT of different places in Manhattan and Brooklyn, the fancy style, the mini ones, the market ones etc. I keep coming back here cause it’s simply delicious and very reasonably priced. The service is lovely and they even have a loyalty card! I bring every single person who visits here cause it’s just simply the best, and they all agree with me. I highly recommend all soup dumplings, shumai, all handmade steamed or fried dumplings (love the cod!!) and the pork in lotus leaf!! Thank you 🩷🩷🩷"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VKV0N1WVMzOHJEOURBEAE",
+            "text": "Food: 4.5/5\nService: 4/5\nAmbiance: 4/5\nValue: 3.5/5\n\nA solid spot for soup dumplings in the Upper Brooklyn area!\n\nSoup Dumplings 4/5:\nFlavorful and on the sweeter side with a meaty filling. The only downside was the delicate skin tore a bit too easily.\n\nPan-Fried Buns 4.5/5:\nThese were my favorite! The texture was chewy, smooth, and slightly thin--almost like they used tapioca flour.\n\nMushroom Buns 3.75/5:\nUnique and cute. While they weren't super juicy, the mushroom filling was tasty\n\nShanghai Beef Fried Noodles 3.5/5:\nNot bad at all, the beef was tender, but it leaned heavy on noodles with not enough meat and veggies in the mix."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKeVQzbzBja1JNU0c5alJHTlNhVkpSYVVSUU5tYxAB",
+            "text": "The BEST pan-fried pork buns at an underrated gem in Brooklyn Heights. If you like your SJB with a thinner wrapper and a crispy bottom, this is the spot.\n\nI admit I was super skeptical when my family suggested it—the restaurant’s Chinese name is clearly trying to imitate Din Tai Fung lol. Plus, the menu is a mash-up of Shanghainese, Szechuanese, and Cantonese dishes, which usually screams \"inauthentic\".\n\nBut I was so wrong. Their soup dumplings and pan-fried pork buns were mind-blowing, all freshly made in an open kitchen. Even the dessert blew me away.\n\nIf you can’t snag a reservation at Din Tai Fung, check out Din Soup Dumpling instead. It’s more affordable and just as satisfying.\n\n＊Pan Fried Pork Bun 生煎包 $9/4pc, $12/6pc\nI’m not exaggerating when I say this is the BEST sheng jian bao in NYC. It's hard to find SJB with a thin wrapper, even when I was in Hong Kong. Each bun was packed with rich meat juice and wrapped in a thin, chewy skin. They were so good that we had to order another round🤤\n\n＊Crab Meat & Pork Soup Dumpling 蟹粉小籠包 $12\nThese crab and pork xiaolongbao were juicy, and meaty. The dumpling wrapper was thin, making them less doughy than those at many other places.\n\n＊Shrimp Stir Fried Thick Noodle 上海粗炒 $14.25\nThe shrimp was bouncy and fresh, but the noodles and overall flavor were just okay. Not particularly memorable.\n\n＊House Vegetable Bun 素菜包 $7.5/2pcs\nMy relatives raved about these veggie buns, but I didn’t quite get it. The steamed buns were soft and fluffy, but the filling lacked flavor imo.\n\n＊Sweet Osmanthus Rice Cake 桂花拉糕 $6\nNext time, I’m saving more room for these! Infused with osmanthus syrup, the rice cakes were chewy and mochi-like. They were smaller than expected, but every bite was light and satisfying.\n\n＊Peanut & Brown Sugar Mochi 紅糖麻糍 $7\nSkippable. I wasn’t a fan of the crumbly, nutty filling, and the \"mochi\" wasn't really mochi. It was more like a thin, pan-fried dough rolled up."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOdUwxSjZMNC1TR3pRRRAB",
+            "text": "Visited Friday lunch time without reservation around 11:30AM. Dumpling was exceptionary especially truffle soup dumpling. Tomato noodle was also good with decent flavors. However, boba is not recommended."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfLTR5YzBnRRAB",
+            "text": "Incredible soup dumplings!! Really enjoyed our dinner here after a quick decision in the area for a late meal.\n\nQuick and friendly service. There is also a booth in the restaurant where you can see them rolling out and making the dumplings - nice touch to walk by.\n\nDefinitely get at least one order of soup dumplings (we went with pork but there were a few different options) and the sautéed green beans were top notch.\n\nIf you’re in the area, definitely worth the stop in for lunch or dinner."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvbF9TN0pREAE",
+            "text": "Best soup dumplings I've ever had. This place is better than all of the restaurants I've gone to anywhere and I've eaten a lot of soup dumplings. They are a lot bigger here and have a lot more soup. Incredibly flavorful. The scallion and peanut noodles were delicious too. Steven was an amazing server. Very friendly place. Can't wait to be back and try more things on the menu too"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNva2F1N0d3EAE",
+            "text": "The food was delicious. The server was nice. I haven't had a pork bun in forever and they did not disappoint. The noodles with peanut sauce was great, as was the miso shrimp bowl."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvam9Ua3VnRRAB",
+            "text": "Absolutely the best Chinese restaurant around this neighborhood. Everything was so delicious and flavorful. We only had the pork soup dumplings, the string beans and the rice noodle soup with beef. None of the dishes disappointed us. We will definitely be coming back here to try other dishes.\n\nA true hidden gem."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWT2VYcElWMVkzVDJGb1FVcFJObVpaZVc1cVFrRRAB",
+            "text": "Really nice flavor on the scallion pancakes—thin and crispy. I enjoyed that the most. Soup dumping broth was a bit more sweet than savory for me but tasty. Garlic green beans were solid. Pickled chilli cod dumplings, unique."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNbi1tX1A3OHAzUFhBEAE",
+            "text": "I came in for a quick bite so I could go back to jury duty in a timely manner. Ended up with some of my favorite rice noodle and soup dumplings in nyc. Soup dumplings were perfectly seasoned and didn’t even need the vinegar dip. Rice noodle was also delicious and actually held the flavor of the broth which again was well seasoned."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvaV9fOG1BRRAB",
+            "text": "Steven provided amazing service at the restaurant. Authentic Chinese food, great price, great location, very friendly-feels like home! Anybody should come in for a delightful meal with Xiaolongbao and Noodles, fast service and quality food! Definitely my favorite spot to go to in the neighborhood. 💯💯💯"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2bElIQW5nRRAB",
+            "text": "If you want dumplings eat here. If you want great and friendly service eat here. The dumplings burst with flavor explosions in your mouth. Spiced perfectly with a soft texture. Highly recommend the Black Truffles and Pork dumplings simply exquisite!\n\nI am in between courses but was so excited about the dumplings couldn’t wait to post my review. The staff is friendly and proud. When I went to take photos of the artwork a staff person explained all the various pieces of artwork. Notice the brightly colored photo this represents the Peking Opera. The fish in one photo brings good luck.\n\nBefore my dumpling experience I had the pork bun which was excellent. The bun was so soft it melted in my mouth. The only issue with the pork bun is the bun and sauce was more powerful than the taste of the pork. That said, it was still delicious.\n\nCan’t wait to come back and have more dumplings and try other dishes."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmb3ZyaWh3RRAB",
+            "text": "A wonderful little shop for some delicious Chinese food. The food is fresh, delicious, and comes out quickly. We got the pork soup dumplings and the crab soup dumplings, and they were so good! Full of flavor and a good amount of soup within.\n\nThe staff are very friendly and attentive. I highly suggest this place if you are in the area"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfeDZ6dGNBEAE",
+            "text": "This a fantastic spot for dumplings in Brooklyn Heights. The open kitchen lets you watch chefs making dumplings fresh, which is always a good sign. And they do not disappoint.\n\nThe wontons in spicy peanut sauce pack a nice heat, and the shumai and soup dumplings are chewy with tasty filling. I also enjoyed the pork buns, which similarly are stuffed perfectly with a tender outside. The reasonable prices will make you want to come back for another meal. Definitely recommend!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVVNqVm1RWGhxTlRKcVlVVkJkSFl0TURSaldXYxAB",
+            "text": "order 2 lunch specials on Saturday with the parents and we were full. parents really like the peanut noodles  and chicken and the xlb dumplings were juicy. love the bogo deal with the drinks, got the peach and mango refresher!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMN2lfSVg0MUpudGFnEAE",
+            "text": "It’s above another spot, so make sure to enter the right one. It’s cute and authentic in its own little way. With beautiful drawings throughout the restaurant and light music. Came for the lunch special after visiting the library and Supreme Court building. They have a wonderfully affordable and great tasting variety of foods."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBeDRpakRnEAE",
+            "text": "We had a lovely evening. Reserving a table will definitely save you a headache. It can get busy. But even if you have to wait a little I’d say it’s worth it. The service is great, the prices reasonable and the food exceptional. Every time I go I’m tempted t order the whole menu. I’d give 5 stars for the atmosphere but there was a total mosh pit of delivery guys around the counter last two times I was there. ~will update if they find a solution to that"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLeUwyOVhPOFB6Z1hREAE",
+            "text": "Had the lunch special and it was absolutely delicious. Also had Phoenix bun for dessert and it was pretty good. Will definitely return!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNneW9mVjRBRRAB",
+            "text": "I can’t believe we’ve been sleeping on this place! Excellent soup dumplings - thin skin, quality gingery broth. We also had the finger tiny buns which were delicious and came on top of a drink (lol). Peanut scallion noodles were good and chewy. Loved the cucumber salad too. We will definitely be back! Good prices and friendly staff."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfMXY3U3FRRRAB",
+            "text": "This restaurant was coincidentally, found by ChatGPT when I was craving for some soup dumpling restaurants. I asked ChatGPT to do some deep dive research and find me a restaurant in Brooklyn, where it was convenient for me to go after work. And had very delicious and most authentic soup dumplings in the area. Because I don’t know about you there are many times. I have not enjoyed a soup, dump, and Restaurant due to a thick skin, and the feelings were not good enough. Honestly this place has a great amount of feeling and especially the crab soup dumpling was amazing even the skin for the soup dumpling. It was perfect. I enjoyed the small pan fried dumplings as well along with a drink. It was very very delicious and I enjoyed it every single time I look forward to coming to this place more, along with my family and friends."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUc2UzcTdRRRAB",
+            "text": "Randomly stopped in to this spot and fell in love! My partner has always loved dumplings so we figured why not. First impressions are everything and as soon as you walk in everything is nice and clean. The tables are perfectly spaced out and the place is large enough to accommodate walk-ins and not be overbearing. The food was great! We had the vegetable dumplings, spicy tofu, spring rolls, cucumber salad and the pork dumplings in peanut sauce. BOMB! Left absolutely stuffed and satisfied. The pricing is fair, you may be like me and think “only 6dumplings” but trust me, it’s enough. You have the option to choose your dumplings steamed/fried/pan seared. Will be recommending this spot and bringing people here. Thank you for your hospitality as well!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2aU9uRHlRRRAB",
+            "text": "I had an amazing meal at Din Soup Dumplings and left completely satisfied. We ordered the pickle chili chicken dumplings, beef pan-fried dumplings, lamb ramen, seafood shumai dumplings, and sesame balls. Every single dish was packed with flavor. Not a single leftover was left behind.\n\nThe service was just as impressive as the food. Our waiter, Steven (hope I got the spelling right), was fantastic, polite, and welcoming. He made the whole experience even better.\n\nThis spot is a gem, and I’ll definitely be coming back. Highly recommend if you’re looking for great food and top-notch service!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKVGN1NHpCdHZEa3d3RRAB",
+            "text": "Quick service and fantastic dumplings! The pork soup dumplings were fantastic and the staff was helpful enough to give us spice to add to our ramen! Would recommend."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGSGJWQjVOV1pITmtaRVNFOHdjMFUxWlZoNFMzYxAB",
+            "text": "The pheonix buns were amazing, I’d come back just for those. The soup dumpling broth was good and the skin was nice and thin, compliments to the chefs."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNicXBLZENnEAE",
+            "text": "What a great find for passionate shanghai dumplings and soup noodle lovers!\nThe restaurant does offer you free Hagen dazs ice cream if you write a positive review while you're there and show it to them, but I am doing this without any need for ice cream as I have genuinely enjoyed my lunch there. Very reasonable prices $15 Dollars for a chicken broth rice noodle soup with brisket and it was such a nice soup!\nAlso 5% discount of you pay cash.\nThumbs up!"
+        },
+        {
+            "date": "6달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJNnJUMndRRRAB",
+            "text": "是这家老顾客了，每次不知道吃什么的时候都是去这家，碳烤猪蹄是我的最爱，香锅味道也很美味，这家不论是价格、味道、服务、环境都值得五颗星"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJOXFld3V3RRAB",
+            "text": "Din Soup Dumplings is a must-visit for soup dumpling lovers. The dumplings are handmade, bursting with flavorful soup, and wrapped in perfectly thin skin. Favorites like the crab and pork soup dumplings are fresh and delicious every time. Add in friendly service and a clean, cozy space—this place hits every mark."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJb2N1T25RRRAB",
+            "text": "I was told about this place and it did not disappoint! Came in during the lunch special time and I was highly pleased by the food, staff and the flow of this lil gem. The only thing is that this location is Downtown Brooklyn so parking is a nightmare. Just park in a garage or don’t drive at all. The train is about three blocks away."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twa2REQlJlbkEwWjNoWk56RXlWWE4zUjNkQlFtYxAB",
+            "text": "Food was good and fresh! Flavorful, the soup dumplings were surprisingly tasty. And the homemade dumplings were super meaty!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREMVByaUJnEAE",
+            "text": "We had an office party and decided to order pretty much everything off the menu. Surprisingly, this place has very good dumplings. 🥟 The quality is great and the craft of them was very artistic. The mushroom baos actually look like giant dumplings the way they charred the dough. Very creative. The scallion burrito style wraps with beef were incredible. Overall you can’t go wrong with any of the dishes. The price is pricey but the quality is very high. Highly recommend ✨"
+        },
+        {
+            "date": "11달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzLVpIQzFnRRAB",
+            "text": "Posto molto carino a Brooklyn Heights ma soprattutto prezzi per zona e new York in generale assolutamente modici. Acqua, bel piatto di noodles e decina di nuggets fritti a 11 dollari più solita tassa obbligata scegliendo dal menù lunch. Da passarci assolutamente, tutto intorno prezzi molto più cari.\nNota: ricordate che essendo ristorantino è uso la mancia, dal 10% in su, a scelta."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvbDZtZ1RREAE",
+            "text": "Steven took care of us. Loved the shrimp dumpling and cucumber salad. Tsingtao beer was my first experience trying it. Highly refined this place. Really friendly staff and good food!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNidDcyM1JBEAE",
+            "text": "Comfortable neighborhood spot with many menu options. Small plates so good to share and try a little of everything. Everything was flavorful, especially the bang bang chicken. We also got the soup dumplings, pan fried dumplings, and tomato noodle soup. Delicious!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJalByWmJBEAE",
+            "text": "Delicious food, very sweet staff. I was unsure if i wanted to take my food to go on my train commute or dine in and Steven was very patient with me! Im so glad i ended up dining in, it was a very welcoming environment and i liked that i saw so many other people having solo dining experiences and just genuinely enjoying the food. I got spicy stir fried veggie noodles and the serving size was perfect to fill me up and have leftovers for linch the next day :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwNExYaGhTVXRUTWsxcFFtRjZOMU56TkdaZk4xRRAB",
+            "text": "The food at Din Soup Dumplings was quite exceptional. We had dinner here after wanting to stay local and avoiding the highway traffic to go into the city. We live local and the place is an unexpected local gem. We had two kids and a parent with us, who is vegetarian. The menu has a wide range of choices to please everyone. The service, ambiance, and food quality is first class. We plan on coming back again. Thank you."
+        }
+    ],
+    "reviews_count": 91
+}

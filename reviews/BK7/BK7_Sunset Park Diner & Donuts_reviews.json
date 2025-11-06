@@ -1,0 +1,579 @@
+{
+    "name": "Sunset Park Diner & Donuts",
+    "place_id": "ChIJ2ab6rMdawokRg4-Q2l2P05o",
+    "grid": "BK7",
+    "address": "889 5th Ave, Brooklyn, NY 11232, USA",
+    "rating": 4.2,
+    "user_ratings_total": 1190,
+    "phone_number": "(718) 871-1037",
+    "reviews": [
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0eFNEUTVSV3hTYW5OSE0zSjJVVmt3ZEZWcFNXYxAB",
+            "text": "Cozy environment, very nice and friendly staff, wings was very tasty and also zinger was vey tasty. Highly recommended."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwemJVUnNhR2xGVTNGd2FGbExjMTlGTmtwbU5tYxAB",
+            "text": "Very expensive Heinekens, costs roughly a little more than $7 for one. Foods great and prime location."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONlowTlBjVmN5YjJGUlVUVldkMEUxUjJwUVRrRRAB",
+            "text": "Cash only but great food and wonderful service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aMlowNDNYMGRKTWpoSVNHSlhZMU55ZVU5ZlpWRRAB",
+            "text": "Horrible service\nHad to wait  for my food\nNo one in the establishment and I brought  6 individuals to the diner. And they brought out everyone's food except mine....at this  point I lost my appetite watching  my guest and friends eat as I had to wait for my order. I will never return  to this establishment. Bad service.  No concerns to having one individually waiting for his order....keep in mind, I'm  the original person  to order  all meals and pay....and my meal came last"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCbWFYaHVRVzVJWVZkbVgwZGlSRmRCTjFsZlJHYxAB",
+            "text": "Good food 😋"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkak4xcHJOekJrZGtsRWNUbGtXVEZyVGxGWGRrRRAB",
+            "text": "Great customer service and the food was delicious!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkUk5GSkpRWFptWVU1RlRWcHNWRnByZDJGQ1FVRRAB",
+            "text": "Nice diner"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscFYxWmZOelZHWVhwTVVXbHhaMEp3Wmt4NlNrRRAB",
+            "text": "I like the restaurant look good 👍"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkT05VSlNWbmxaUTJOdVVWaG1iRlUyVTJoMmRXYxAB",
+            "text": "Tipico diner Americano , ottimo cibo, personale accogliente, ambientazione tipica , aperto 24/7 prezzi giusti, consigliato !!!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3NzdtVW5RRRAB",
+            "text": "One of my favorite spots.\nThe brunch is amazing, and chorizo hash is super good.\nHighly recommend."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCVE9YSjVkbXBFVFZaRFpraENaekpWTlVsZlltYxAB",
+            "text": "Awesome donuts"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GcWRFY3dXRGRYUTNoemRUaG9lbGRGVlVkalgyYxAB",
+            "text": "The food is very good\nService good"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Kd1NqSm5WVEZ1UlhGMFNIWlpjVXhaV0cxS09YYxAB",
+            "text": "One of the best brunches in Brooklyn! Love their breakfast. The Chorizo hash and eggs keeps me going all day. Don't forget the donuts, the pancakes, and the rest of the menu."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWlVVTXlYMDlqV0VaRExVOXlVWEpTVjJoQ1JIYxAB",
+            "text": "I love the food and the place in general and the great thing is that is 24hrs!"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bVQyNW1ia2hMZWsxNGRYRXphRjlhWkY5eU4wRRAB",
+            "text": "I've had burgers from here twice, both were great! The brewed iced tea is good. The coffee and flan are great. Just be aware, it's cash only.\n\nUpdate: Oh, my goodness, the meatloaf sandwich! This is not your grandma's meatloaf. If it is your grandma's meatloaf why are you thinking about eating out? Go see Grandma! Otherwise, get in here! No photos, I ate too fast!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVVQwOUhjVTFWT0ZOalFVVnphMlJHTVZaeE9YYxAB",
+            "text": "Very cozy, Clean, excellent service and food was really good!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toZldtZE9WR3BIY0dJM09YZHRNRmQwVDNKck1GRRAB",
+            "text": "I went on a Friday night around 10 pm. So the diner was not full at all. Nevertheless, the staff were extremely friendly and attentive. I had breakfast for Diner (of course), and the food was good and tasted fresh. The bathroom was actually nice and clean at that time."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkS1pVdHJlbXN6WldoV1VFSnNNSEoyVEUxR1UyYxAB",
+            "text": "Excellent service"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkMFMyeFBjVjl6WVUxTGVIcDVhRzVqYTBaYVJGRRAB",
+            "text": "Tried to walk in @430am and they told me they were closed. Can’t be 24hrs. They don’t accept cards, cash only"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VQUzZocFh4cXFXZFdnEAE",
+            "text": "Great diner food, great donuts and decent coffee."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4M1FsZ3laVlIxWDIxRlFYbGZWa3hGYWxrMlNHYxAB",
+            "text": "Big portions, friendly staff. They accept only cash. Nice diner, had breakfast there and I was satisfied."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VQak5pOWJOOElUQ0lnEAE",
+            "text": "Great food. Jessica is the best server.  Always speak nice,  tender,  number one!\nPeter jonathan"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VNLXY5UFAwdE4zZ3JRRRAB",
+            "text": "The burger was excellent"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNZXNoOW5HODlfTTh3RRAB",
+            "text": "This place is great! The food was really good, and the staff are nice too. It's a great place to visit, and I wish I had a place like it in my hometown!"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VKV0NwcV81M0wtLXlnRRAB",
+            "text": "No atienden bien no tienen personal profesional"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveC0yVlVREAE",
+            "text": "Food and costumer service are top tier! Had breakfast for dinner at this lovely diner  and it was one of the best decisions ever 😋"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMWNhT0xBEAE",
+            "text": "I love there food but they were randomly\nClosed for no reason ."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvOTQ2c1JREAE",
+            "text": "Food portions decent. However, my lamb Gyro was too dry."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3NEptS3V3RRAB",
+            "text": "I love this place. I started ordering a couple months ago - the food is consistently delicious and inexpensive. I’m so happy they’re in the neighborhood"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3azZ1MVVREAE",
+            "text": "The food is exactly what you’d expect when ordering at a diner."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3NE5ycVdREAE",
+            "text": "I love the weekend breakfast/brunch. We got the farmers eggs which came with chorizo, fried cheese, eggs, tortillas, rice, and beans. No matter the time of day, the food and service is always great."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRazlLdDV3RRAB",
+            "text": "24/7 but cash only"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRNmItMTZBRRAB",
+            "text": "Typical diner, though their food is good. It is not anything to write home about. I ordered a hot cappuccino to go, and because I wanted a 16 ounce and not a 12 ounce I was charged for two which was Around $13. It’s 24 hours which is convenient. The donuts are homemade as well as the desserts and the food is better than most diners, especially in this area. I usually order takeout. They do not take cc cards, but they have an ATM out in the Vestibule. Plenty of seating at the counter and booths available for privacy…"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRck52Mk1nEAE",
+            "text": "Great breakfast spot! Fresh orange juice is some of the best I’ve had, and a generous portion. Service excellent and fast. Omelette and pancake with eggs platters were good and very filling. Definitely coming back to try the more traditional Mexican dishes. Cash only. It was pretty full but not more than a 5-10 minute wait for most places."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRZ09mYzFBRRAB",
+            "text": "Waited 20 minutes wasn’t even given a menu so I left."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnaTRMZll3EAE",
+            "text": "Amazing food. The corned beef hash is homemade and done perfectly! I’ve been looking for hash like this since I moved to NY 11 years ago. Open 24 hours, I will be here often."
+        },
+        {
+            "date": "8달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnbWR2amtRRRAB",
+            "text": "J'y suis allée début décembre 2024 et vraiment, je me suis régalée, c'était très sympa, du coup nous y sommes retournés 2 fois, on a été très bien reçu, et nous avons même eu droit à 2 donuts en cadeau par le monsieur qui s'était occupé de nous à chaque fois, une attention qui m'a énormément touchée ! Merci, merci, merci.\nJe recommande vraiment"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBaEx1VGJ3EAE",
+            "text": "Classic diner. Really good pancakes. The employees are nice. Great donuts"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBdWUyZTh3RRAB",
+            "text": "We went to this diner with enthusiasm from all the stories my aunts and uncles of told us.  Probably the administration has changed, and the poetry had been lost, as we were denied counter seating and than obligated to leave."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfX3JTMUdnEAE",
+            "text": "Great food, fast service, and good portions. Just a short walk from the 36st station and close to Sunset Park. Only complaint:\nCash only."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmM2M3b2FREAE",
+            "text": "When in the area and I need something to eat in going here"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmdkllTGNREAE",
+            "text": "Enjoyed the food here. Wings are very good. Get the sampler with the three types of sauce. Meatloaf has onions on top. I tried the chili cheeseburger and onion rings. Donuts are good too."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dDRfcWpBRRAB",
+            "text": "The person on the phone was incredibly kind and patient, even though I had to keep asking him to repeat himself because of the noise on my end. The taco was pretty good, though I was a little disappointed to discover the sauce only after I finished one of them. On the bright side, the buffalo wings were amazing, especially when paired with the green sauce that came with the tacos which surprises me."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2X3FfVGFREAE",
+            "text": "Perfect diner."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2dDhTa1VnEAE",
+            "text": "Great food! An awesome East cost diner. Recommend!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2MGN2dEx3EAE",
+            "text": "I love the way they cook"
+        },
+        {
+            "date": "10달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQcDRteHRnRRAB",
+            "text": "Very good restaurant, good food and very friendly and attentive staff.\nVous pouvez venir manger sans problème."
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaNV95ZWNREAE",
+            "text": "Muy buenos huevos rancheros, excelente atención"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQaTl2MkxnEAE",
+            "text": "All 3 dine in take out or delivery\nEverything is just amazing"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzZ3FxTFh3EAE",
+            "text": "The breakfast I ordered for take out was delicious. I ordered a Western Omelette and some Cheese Grits! Everything was cooked to perfection!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYdGZUcUF3EAE",
+            "text": "In Brooklyn for an art exhibit and we got there too early so we decided to stop in for coffee and a snack.  So happy we did!\nThe nicest people working there ❤️, great coffee, perfect fries and yummy donuts.\nWill return for a proper meal 😁\nAccessible ♿️, street parking.\nVaried menu with lots of healthy choices.\nWhen we got to the art exhibit we met a couple that, when they lived in Brooklyn, considered Sunset Park Diner their absolute favorite diner!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4a1B6dlZBEAE",
+            "text": "My family and I had a brilliant breakfast here when we visited New York.\nThe food was delicious and the staff where very friendly and kind.\nThe only thing I would change is being able to pay with a card, but they do have an ATM inside the diner."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNId3BXeE9nEAE",
+            "text": "Sunset Park Diner\nEst. 1981\n\nLayout/atmosphere\n*Booths; seven seat counter; TV; cash only; 24 hours\n\nService\n*Solid\n\nFood/drink\n*Chorizo & eggs (three over easy) with home fries & rye toast - good\n*Donuts (Coffee roll - good; huge [favorite]; plain cruller - dry, didn’t like it; cinnamon sugar donut - good; glazed donut - good) - all yeast style donuts"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6ODUyVm9RRRAB",
+            "text": "Great atmosphere and the food was delicious, the menu has it own creativity and be prepared to only use cash"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5dWZiZmJREAE",
+            "text": "A very good breakfast platter! The price was good as well as the portions and taste. The food was quickly prepared and delivered. I enjoyed the breakfast platter so much that I ordered it twice in a row."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5dTR2Y2J3EAE",
+            "text": "Surprised to still have found a traditional breakfast spot like the old days. Great fresh tasting food. Not a single complaint. Even the staff here is super friendly. Great prices as well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5Z01PaTdRRRAB",
+            "text": "I love it here. It’s not a fancy place but you will love the food and the customer service. The kids where asking me, mom when are we coming back. The lady who took care of us was the best waitress I ever had. She was so nice. Offer to take our pictures and gave us free donuts for the kids. I really love the place. It’s clean and peaceful and excellent food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqX2JLZkhBEAE",
+            "text": "French Toast was great when I had it. Only issue is that they aren’t really “Open” 24hrs. Around 4-5AM they close which I found out the hard way. CASH ONLY but there is an ATM in the restaurant if you don’t mind"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1c29MTUFREAE",
+            "text": "Had a breakfast egg platters with home fries & sausage and it was tasty. Open 24 hours and close to transport."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZdGRLYU5REAE",
+            "text": "This place is pretty cool. We had an incredible server. She was welcoming and very friendly. Very tasty diner food. The most memorable part of the meal was without a doubt their desserts made in house. The cheesecake was delicious and MASSIVE. The blueberry pie, which I ordered, was also spot on."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNncHYzd2l3RRAB",
+            "text": "Food could be better . All 4 eggs were broken.\nPancakes were terrible. 2 People had them and neither one liked them. Staff could do a better job with rowdy customers.…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyc2Z6MXZBRRAB",
+            "text": "12am I'm starving & want pancakes sooooo here we are & let me tell you something. QUALITY diner. The chocolate chip pancakes were made from scratch and were absolutely delicious. I'm not a fan of eggs but when you're getting them on a deal, why not.\n\nBut now the turkey bacon. See. I love me some turkey bacon and eat it frequently. When our waitress asked if I would like the turkey bacon well done I hesitated for a moment, I had never been asked that before. Since she stumped me I obliged and I am so happy I did because the cook on that turkey bacon was EVERYTHING. It had a beautiful char and smoky flavor without being burnt or too crunchy. Honestly some of the best turkey bacon I've ever had.\n\nI'll be back, no question."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpdzRYSTl3RRAB",
+            "text": "This diner has been here for years it's frequented by the MTA workers at the bus depot. It has good food I ordered two eggs sunny-side up and home fries I wasn't able to actually dine in do to covid-19 restrictions. But the eggs and home…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRbkluczZRRRAB",
+            "text": "Food is good, prices are great! Turkey burger with curly fries was delicious. Kool, relaxed ambiance.. would definitely recommend & it’s 24 hours!"
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPeDl6VVl3EAE",
+            "text": "Buen diner para desayunar. Personal muy agradable. Hemos ido dos veces y muy bien. Comes el típico desayuno americano. Se paga en efectivo. Muy limpio, limpian la mesa después de cada uso."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaeXJUQzNBRRAB",
+            "text": "They have the best pasta! I love the flavors and can’t get tired of it. They only take cash, so we did pick up through Uber. The pasta was amazing, and we ate happily! We just love the taste of it, and it comes in a big portion too."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSanNYRmZnEAE",
+            "text": "The food was amazing! The stuff is nice too and the prices are great for their food. I highly recommend this one!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXaGRTLW13RRAB",
+            "text": "What a great way to start the morning. The coffee is good and actually has some body. Had the Chorizo and eggs. The dish came with toast and home fries. Delicious meal. Service is friendly and attentive."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBbS1EaDlBRRAB",
+            "text": "We came here two days in a row now. It's been great both times. They are very polite and attentive.  They work as a team to serve you. The restaurant is clean and cozy. I had corned beef hash and it was great. My husband had French toast…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzeDUtblp3EAE",
+            "text": "Delicious food, comfortable/cozy atmosphere, excellent service and great prices. I highly recommend trying it out!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoMzUyaUxBEAE",
+            "text": "DONUT PANCAKES!  The day we visited they had a special, Donut pancakes with fresh blueberries and strawberries.  It was ‘RIDICULOUSLY DELICIOUS’.  We ordered that as a side and shared it.  So good!   Our entrees were very good as well."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvNWFiSjR3RRAB",
+            "text": "Fantastic little brunch spot. The service was perfect, very attentive, very prompt. Food was amazing and very quick. Great atmosphere and great location. Would definitely recommend to any breakfast enthusiast"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMweVlPaVZREAE",
+            "text": "The french toasts are moist on the outside and on the inside (when they should be crispy on the outside and soft/moist on the inside). The eggs were very good though, and that's why I give 3 stars. I recommend if you get some regular toasts, bacon and eggs but stay away from the French toast."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1bWZyZzN3RRAB",
+            "text": "Really great place to get breakfast. Had the chorizo with eggs and some fried cheese. Fried cheese? Yea! It’s good!"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3emFMamF3EAE",
+            "text": "It's a nice cozy place with good food and fair price."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3eVlXRUd3EAE",
+            "text": "To say delicious food would be merely an understatement! I've never tasted anything so amazing! This is definitely my go to spot next time I'm in Brooklyn! And the service is great too!! Two thumbs all the way up!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURILXFPbXpRRRAB",
+            "text": "Solid diner food that was reasonably priced and tasty."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoemItQ3VBRRAB",
+            "text": "Lovely diner! So friendly service and good vibes. Recommend the tasty sandwiches"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuLUo2SkNREAE",
+            "text": "I love this diner! We had brunch and it was so delicious! The staff were the epitome of good service. We got donuts to go and they were yummy too!\n\nSuper kid friendly, delicious food, amazing staff, and cool venue; it doesn’t get better than that!"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1MVB1c2JnEAE",
+            "text": "Personal muy amable y comida de diez, un buen lugar para desayunar."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3eDdLUUR3EAE",
+            "text": "This diner is such an amazing blessing to have in this neighborhood. However, they ONLY take CASH!! Either way, they're wonderful. Great food, servers are always amazing 24/7. The atmosphere is just what is needed as well. I frequent late at night and they're always delightful. 😁"
+        }
+    ],
+    "reviews_count": 81
+}

@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Cucina Modern Kitchen",
+        "address": "4420 18th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJOV9WARVFwokRxtGKVH3ySRA",
+        "rating": 4.8,
+        "user_ratings_total": 47,
+        "phone_number": "(631) 784-0600"
+    },
+    {
+        "name": "Mendelsohn's Pizza",
+        "address": "4418 18th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJwVMEqNZEwokR1qji1JdAy3s",
+        "rating": 4.6,
+        "user_ratings_total": 1430,
+        "phone_number": "(718) 854-0600"
+    },
+    {
+        "name": "La Sova",
+        "address": "1301 E 13th St, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJd4ZQ28BEwokRG8Jcv97-APw",
+        "rating": 5,
+        "user_ratings_total": 838,
+        "phone_number": "(718) 676-9005"
+    },
+    {
+        "name": "Glatt A La Carte",
+        "address": "5123 18th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJJwEg-ddEwokROudgJLI-Kt0",
+        "rating": 4.9,
+        "user_ratings_total": 1775,
+        "phone_number": "(718) 438-6675"
+    },
+    {
+        "name": "Pescada New York",
+        "address": "1359 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJYZURPrlEwokRUn3XSSWYPhY",
+        "rating": 4.6,
+        "user_ratings_total": 998,
+        "phone_number": "(718) 766-2759"
+    },
+    {
+        "name": "Corner Cafe",
+        "address": "2 Ditmas Ave, Brooklyn, NY 11218, USA",
+        "place_id": "ChIJ5ya-yNREwokR-5BLpYUw67s",
+        "rating": 4.6,
+        "user_ratings_total": 992,
+        "phone_number": "(718) 435-2233"
+    },
+    {
+        "name": "Kai Pera",
+        "address": "1312 Avenue J, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJDck8HwBFwokRWbpNGu_zvsI",
+        "rating": 4.8,
+        "user_ratings_total": 125,
+        "phone_number": "(718) 338-8156"
+    },
+    {
+        "name": "Smash House Brooklyn",
+        "address": "1387 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJ0TN3OFhFwokR56L7a1XP6XY",
+        "rating": 4.7,
+        "user_ratings_total": 61,
+        "phone_number": "(718) 688-1900"
+    },
+    {
+        "name": "Family Uz Restobar",
+        "address": "1915 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJGX_6BulFwokRHQZGarJBoPs",
+        "rating": 4.6,
+        "user_ratings_total": 87,
+        "phone_number": "(929) 441-8040"
+    },
+    {
+        "name": "Table 40",
+        "address": "4001 13th Ave, Brooklyn, NY 11218, USA",
+        "place_id": "ChIJLeNeWtRawokRsyBc5FDjiag",
+        "rating": 4.8,
+        "user_ratings_total": 611,
+        "phone_number": "(929) 234-5444"
+    },
+    {
+        "name": "Margez Grill House",
+        "address": "1018 Avenue M, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJ92ITmWBFwokRSvKc5mXGXEk",
+        "rating": 4.7,
+        "user_ratings_total": 231,
+        "phone_number": "(718) 369-0979"
+    },
+    {
+        "name": "Bordeaux Steakhouse",
+        "address": "1922 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJq3ogpOtEwokRKoIeubTWEoc",
+        "rating": 4.8,
+        "user_ratings_total": 1690,
+        "phone_number": "(718) 942-4040"
+    },
+    {
+        "name": "Hummus Bar",
+        "address": "1011 E 12th St, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJTaRA91NFwokRtvMgITi96WM",
+        "rating": 4.3,
+        "user_ratings_total": 298,
+        "phone_number": "(718) 381-6550"
+    },
+    {
+        "name": "Crunchy's",
+        "address": "1468 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJJ5lJGExFwokRCWgnmYq4LZ8",
+        "rating": 4.8,
+        "user_ratings_total": 195,
+        "phone_number": "(718) 513-6828"
+    },
+    {
+        "name": "Kababz on the Wheelz",
+        "address": "J2R9+VW, Brooklyn, NY 11218, USA",
+        "place_id": "ChIJV1mCegBbwokR2tGoXDx-hEY",
+        "rating": 5,
+        "user_ratings_total": 1,
+        "phone_number": null
+    },
+    {
+        "name": "Moldova",
+        "address": "1827 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJTWBiRyRFwokRISxI83s0RL8",
+        "rating": 4.4,
+        "user_ratings_total": 775,
+        "phone_number": "(718) 382-1118"
+    },
+    {
+        "name": "El Mexicano Restaurante & Cafe Inc. 4",
+        "address": "1013 E 14th St, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJpy3fAktFwokR1EzeY4REbSQ",
+        "rating": 4.8,
+        "user_ratings_total": 124,
+        "phone_number": "(917) 789-9823"
+    },
+    {
+        "name": "Sunny Side",
+        "address": "4510 18th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJoQZysQdFwokRoMmY21jgWew",
+        "rating": 4.3,
+        "user_ratings_total": 11,
+        "phone_number": "(845) 320-3927"
+    },
+    {
+        "name": "Wheated",
+        "address": "905 Church Ave, Brooklyn, NY 11218, USA",
+        "place_id": "ChIJIYCk0DpbwokRZaTcJmohk1Y",
+        "rating": 4.7,
+        "user_ratings_total": 699,
+        "phone_number": "(347) 240-2813"
+    },
+    {
+        "name": "Milk And Honey Cafe",
+        "address": "1119 Newkirk Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJD9wZTTNbwokR77qf0Dw91f4",
+        "rating": 4.1,
+        "user_ratings_total": 2193,
+        "phone_number": "(718) 513-0441"
+    },
+    {
+        "name": "Holy Schnitzel",
+        "address": "4102 18th Ave #4126, Brooklyn, NY 11218, USA",
+        "place_id": "ChIJsa_KDvNFwokR1UeexG4uxuM",
+        "rating": 4.2,
+        "user_ratings_total": 240,
+        "phone_number": "(929) 565-4659"
+    },
+    {
+        "name": "Amnon's Kosher Pizza",
+        "address": "4814 13th Ave, Brooklyn, NY 11219, USA",
+        "place_id": "ChIJi9IXAS1FwokRzW4igeHSUkg",
+        "rating": 4.4,
+        "user_ratings_total": 1882,
+        "phone_number": "(718) 851-1759"
+    },
+    {
+        "name": "Sangizar Restaurant",
+        "address": "1371 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJ8UrPW35FwokREZ1OVSno-Yg",
+        "rating": 4.1,
+        "user_ratings_total": 48,
+        "phone_number": "(707) 741-7171"
+    },
+    {
+        "name": "Cafe Paris",
+        "address": "4424 16th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJCYcjeCpFwokRAbDOv66Ptj8",
+        "rating": 4.6,
+        "user_ratings_total": 458,
+        "phone_number": "(718) 853-2353"
+    },
+    {
+        "name": "Falafel Tanami",
+        "address": "1824 Avenue M, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJVYUouLhEwokR0P6kpq9x2pk",
+        "rating": 4.8,
+        "user_ratings_total": 1220,
+        "phone_number": "(718) 483-9100"
+    },
+    {
+        "name": "Taste of Akko",
+        "address": "1724 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJBT5GEyNFwokROjngL3wkVEk",
+        "rating": 4.8,
+        "user_ratings_total": 363,
+        "phone_number": "(718) 552-2818"
+    },
+    {
+        "name": "Olympia Steakhouse",
+        "address": "1419 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJiyUFDsZEwokRjQh8jDdjx48",
+        "rating": 4.5,
+        "user_ratings_total": 1613,
+        "phone_number": "(718) 795-4333"
+    },
+    {
+        "name": "Estihana",
+        "address": "1217 Avenue J, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJ225B68hEwokRRE8EmbDr1_A",
+        "rating": 4.3,
+        "user_ratings_total": 483,
+        "phone_number": "(718) 677-1515"
+    },
+    {
+        "name": "Munch Street Food",
+        "address": "1376 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJf82kWPFFwokRrtKFcvn5zqw",
+        "rating": 4.5,
+        "user_ratings_total": 578,
+        "phone_number": "(718) 521-2626"
+    },
+    {
+        "name": "Lutali (Kosher)",
+        "address": "1111 Avenue K, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJZy_PSRJFwokRSKfNhwaI-Mc",
+        "rating": 4.7,
+        "user_ratings_total": 126,
+        "phone_number": "(718) 551-5390"
+    },
+    {
+        "name": "Pizza Time",
+        "address": "1324 Avenue J, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJtX9c9chEwokRtL2Z7OjW9Sg",
+        "rating": 4.6,
+        "user_ratings_total": 982,
+        "phone_number": "(718) 252-8801"
+    },
+    {
+        "name": "Corner Street Food",
+        "address": "1360 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJoyh5EWZFwokRoJ2k6F18Buw",
+        "rating": 4.4,
+        "user_ratings_total": 10,
+        "phone_number": "(929) 617-9821"
+    },
+    {
+        "name": "Essen NY Deli",
+        "address": "1108 Avenue J, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJz_2fr8hEwokRfBn3jwtsLkg",
+        "rating": 4.5,
+        "user_ratings_total": 1437,
+        "phone_number": "(718) 859-1002"
+    },
+    {
+        "name": "Chikurin",
+        "address": "1777 Ocean Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJZchNI6xFwokRpdYtwIm6k-Q",
+        "rating": 4.4,
+        "user_ratings_total": 123,
+        "phone_number": "(718) 338-1818"
+    },
+    {
+        "name": "Village Cafe",
+        "address": "1968 Coney Island Ave, Brooklyn, NY 11223, USA",
+        "place_id": "ChIJna0sf-tEwokRYnVW5JRHDnc",
+        "rating": 4.4,
+        "user_ratings_total": 778,
+        "phone_number": "(718) 975-3373"
+    },
+    {
+        "name": "Freund's Kitchen / Yedid Gourmet",
+        "address": "4305 15th Ave, Brooklyn, NY 11219, USA",
+        "place_id": "ChIJWXcMvipFwokRlexwf2K3duA",
+        "rating": 4.8,
+        "user_ratings_total": 240,
+        "phone_number": "(718) 851-1111"
+    },
+    {
+        "name": "Ortobello's",
+        "address": "6401 Bay Pkwy, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJGVsYUuBEwokRHsFR2Poibfk",
+        "rating": 4.6,
+        "user_ratings_total": 518,
+        "phone_number": "(718) 236-9810"
+    },
+    {
+        "name": "Yard and Abroad Bistro",
+        "address": "1827 Flatbush Ave, Brooklyn, NY 11210, USA",
+        "place_id": "ChIJI6VJs2RFwokRYl3fDXieR0c",
+        "rating": 4.3,
+        "user_ratings_total": 19,
+        "phone_number": "(929) 333-9020"
+    },
+    {
+        "name": "Hungarian Kosher Cuisine",
+        "address": "5009 16th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJ0SCQCClFwokRBADg7Pdf3OI",
+        "rating": 4.9,
+        "user_ratings_total": 95,
+        "phone_number": "(718) 851-0400"
+    },
+    {
+        "name": "City Cafe Kosher",
+        "address": "4923 18th Ave, Brooklyn, NY 11204, USA",
+        "place_id": "ChIJJbfp2qhFwokRX2j5UjFrzgE",
+        "rating": 4.3,
+        "user_ratings_total": 215,
+        "phone_number": "(929) 234-6536"
+    },
+    {
+        "name": "1012 Kitchen",
+        "address": "1012 E 15th St, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJX3BcEjxFwokRrHcNnubqzes",
+        "rating": 4.3,
+        "user_ratings_total": 22,
+        "phone_number": "(917) 648-1639"
+    },
+    {
+        "name": "Shashlik House",
+        "address": "1273 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJtYP3M-5bwokR1kjvKE-55WU",
+        "rating": 4.5,
+        "user_ratings_total": 928,
+        "phone_number": "(332) 251-9664"
+    },
+    {
+        "name": "ISTANBLUE KEBAB HOUSE(Ave J)",
+        "address": "1416 Avenue J, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJq_ZaGBdFwokRrvF4VbV22tM",
+        "rating": 4.2,
+        "user_ratings_total": 377,
+        "phone_number": "(347) 462-4655"
+    },
+    {
+        "name": "Sushi Ta'eem Flatbush",
+        "address": "1307 Avenue J, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJ4ZoSBM1FwokRskL-aL-I6oY",
+        "rating": 4.7,
+        "user_ratings_total": 456,
+        "phone_number": "(718) 500-3025"
+    },
+    {
+        "name": "King Solomon Palace Glatt Kosher Restaurant",
+        "address": "1787 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJR6Pq1cFEwokRqZLee9P_W44",
+        "rating": 4.6,
+        "user_ratings_total": 512,
+        "phone_number": "(718) 975-7676"
+    },
+    {
+        "name": "NY SMASH",
+        "address": "1360 Coney Island Ave, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJ59E2L9FFwokR7MIkks03yWI",
+        "rating": 4.6,
+        "user_ratings_total": 63,
+        "phone_number": "(347) 371-9435"
+    },
+    {
+        "name": "Mi Barrio",
+        "address": "3415 14th Ave, Brooklyn, NY 11218, USA",
+        "place_id": "ChIJR7I_jSlbwokRZU37G6d6oL4",
+        "rating": 4,
+        "user_ratings_total": 318,
+        "phone_number": "(718) 972-9669"
+    },
+    {
+        "name": "Jentana's",
+        "address": "5102 Fort Hamilton Pkwy, Brooklyn, NY 11219, USA",
+        "place_id": "ChIJJViFajNFwokRIHD0z7i6ewE",
+        "rating": 4.6,
+        "user_ratings_total": 313,
+        "phone_number": "(718) 871-4050"
+    },
+    {
+        "name": "Di Fara Pizza",
+        "address": "1424 Avenue J, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJM2mGRMhEwokRv1Fy6oFJ570",
+        "rating": 4.2,
+        "user_ratings_total": 4520,
+        "phone_number": "(718) 258-1367"
+    },
+    {
+        "name": "Mazza & More",
+        "address": "412 Avenue M, Brooklyn, NY 11230, USA",
+        "place_id": "ChIJJ3AzzMJEwokRReaRDKL_VYU",
+        "rating": 4.7,
+        "user_ratings_total": 294,
+        "phone_number": "(844) 466-2992"
+    }
+]

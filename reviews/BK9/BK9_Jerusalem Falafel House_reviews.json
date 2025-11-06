@@ -1,0 +1,495 @@
+{
+    "name": "Jerusalem Falafel House",
+    "place_id": "ChIJv-lmYmJbwokRE8QU-HUI0QA",
+    "grid": "BK9",
+    "address": "1026 Nostrand Ave, Brooklyn, NY 11225, USA",
+    "rating": 4.7,
+    "user_ratings_total": 196,
+    "phone_number": "(718) 484-0317",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0UmRDMHdVMWQ0Ym01UVlXd3lTMVJyYkZNMlNWRRAB",
+            "text": "The best"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsT00xaDFNVjlGV1VOalp6YzBSVlZYY0hwcFpGRRAB",
+            "text": "So fresh, friendly service. Great coleslaw and falafel. Will be back!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCSWVFSTVWVTQ1VUZZekxYUnJXazB5VkdabVZGRRAB",
+            "text": "I’ve had many falafel wraps in my time but this one was by far my favorite! Crispy, flavorful, well-fried but not greasy. The staff were very kind and helpful as well. Thank you Jerusalem Falafel House!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FME5XUnlRMnA0TjBONU9WVnRkR3hMV2tKaVltYxAB",
+            "text": "Great food, affordable price, and amazing kind Mohammad!!! Mashallah!! Thank you!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUVZISkpiVGx0TUdSUmRWSjJiVmhUYjJWbmJXYxAB",
+            "text": "Delicious Palestinian food!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMFdXWlRUVXBEYzJoZlJsWlpkRGhGUlVabFJGRRAB",
+            "text": "Everytime my parents are in town they have to  get a wrap or plate from this place. They’re obsessed with the habanero sauce (it’s actually spicy!)\n\nBig portions, great price, super fresh ingredients, and super nice guys working there . I’ve pretty much tried everything including the sweets- recommend it all.\n\nI just ate half my wrap and already dreaming of eating my other half."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5d09Vd3pZVzFGYjNrMlMzWk1VMHg1VmxSU1RYYxAB",
+            "text": "Love this food but disappointed this week to see ANTISEMETIC PROPAGANDA displayed inside their establishment."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwSFJpMXpiRFptZDNCRVdEZHRkR280WVU1S1gxRRAB",
+            "text": "I’ve been stopping in here for a couple years, and the food is excellent. I almost always get a chicken shawarma pita — which is always super yummy. You get to choose whatever you want on it, and they aren’t stingy with the toppings (be sure to say yes to the white garlic sauce). I recently also picked up a flatbread pizza kind of thing (I don’t know what it’s called!), and it was extremely tasty — I’ll definitely be ordering those again when they have them. A strong, good casual restaurant in the neighborhood. Highly recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVlgzZHhNa281WlhsWFdUTndRVU5wT0RkNU5FRRAB",
+            "text": "Beautiful hospitality"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWTlFqZDNUSGc0UWt4SVgwSkRXbVptY0VaSVZFRRAB",
+            "text": "Great taste, great portions, great price"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trMWFGaE1hVm80Y1daRGVUaHhkWFZrZEdnelMwRRAB",
+            "text": "Best chicken shwarma over rice I’ve ever had"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poTE5uWlNibFpYU0ZoelJYQTRWVFpETm1GdGNFRRAB",
+            "text": "Honestly, this might be the best chicken shawarma in NYC. Haven’t found another place that does it as well as this place. Same with the falafel. Service is very good. Food is excellent. My go to for mediterranean food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5bFRraFFjbVJrT1hsbVZraFFaRWd3VmpKVlEyYxAB",
+            "text": "I decided to order delivery from here on a whim and I’ve gotta say that this is the best chicken plate I’ve had in a looooong time. EVERYTHING was flavorful - the chicken, the rice, the sauces. The pita is properly fluffy and soft. I’ll be ordering here a lot more from now on.\n\nIt was so good I went to try to order again the next day (a Sunday) not realizing they’re closed on Sundays and now I’m a little bummed."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aZlEzRlFOMjlGZUZaU2FuaG9jbmd4VkdNdFlXYxAB",
+            "text": "Excellent middle eastern food, best spinach pie i have ever had, and they even have muhammara. (If you are vegan, you already know what's what!). (small place, a few tables, mostly takeout)"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuMTl5dml3RRAB",
+            "text": "Update (8/9/2025): My previous review was 10 months ago, decided to give this place another try, it was delicious and well made, I got a beef shawarma, fries, salad, soda, all for 10$. Prices can’t get any better than that. Seems like they improved. Moved up from a 3 to 5 stars.\n\n——\n\nShawarma was quite dry, a shawarma is supposed to be juicy. Garlic sauce tasted off and was a mess, the bottom of the Shawarma was entirely garlic sauce.\n\nOverall, it feels like the shawarma tasted really off.\n\nI gave it 3 star because it wasn’t entirely horrible but it was quite bad, however +1 stars for the affordable prices.\n\n10$ for Shawarma sandwich, fries, and Soda is pretty cool for their lunch special, but I don’t I would go here again.\n\nThey really need to correct their preparation methods, ingredient, and overall the way they cook their food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SeU1tdDFiRzVFT0UxQ1RHaE9XVnBYYlZvMVUzYxAB",
+            "text": "so good they are so nice they give you free pastries as a welcome gift the beef shawarma is to die for !Highly recommended !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SV1MzQkVURUZFYkdWSGRXNU1WM0Y0Y1U0eVNIYxAB",
+            "text": "A beautiful spot with a warm, inviting atmosphere that instantly transports you to the heart of the Middle East. The charming looking restaurant, wonderfully authentic food, and the staff are exceptionally friendly making the whole experience truly memorable."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wUWFYZDNPVGhET0hoT1NERkJUSFE1UVVaVGMwRRAB",
+            "text": "I’ve come here 3-5x a week in my two month sublet nearby and I will miss it dearly. The food is always so fresh and so delicious but on top of that the employees are so kind. Try both the walnut and pistachio baklava!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkM1JHeGZjM05PWW5ORGRXbEtkbTh5TXpKdFEyYxAB",
+            "text": "Flavorful Palestinian food served in heaping portions. The chicken shawarma is pretty good but the falafel is phenomenal. The laffa wraps are better than the pitas. They have every topping you could possibly want, especially pickled veggies. They have two harissas - the hot one is INTENSE. They always seem to doubt me when I ask them to keep heaping it on but otherwise the staff is very friendly."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xreU1XZzJabko2Y1U0d01sUXRXbVZEYm5KUVkzYxAB",
+            "text": "Consistently tasty food from friendly folks."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wcWQwOVplV3R6U1ZacmNYVmhOVVJMVjFwa1IzYxAB",
+            "text": "Food was very tasty and fresh; Very nice employees/owner!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCeGJXOTBNMGRoYUZZMldFbFNTV1Y2TFU5NFoxRRAB",
+            "text": "I've been here a few times, including last night for dinner. This is exactly what I want out of a local, no-frills middle eastern place. Everything is fresh, the tastes are awesome, the portions are big, and the prices are right. Definitely recommend."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMcUV2Y1BDbi0zMTFnRRAB",
+            "text": "First time here and the food was amazing.\nHad the chicken shawarma plata over rice and it was superb.\nExcellent service from their staff.\nWill definitely come back for their other plates."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLN1d6b2o3enRXaERREAE",
+            "text": "Had a shawerma combo\nThe food is amazing and it great value for the money\nThe staff are very friendly\nHighly recommend"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJdlpfTjZNZ2Fub1BREAE",
+            "text": "Everything 10/10"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJcU1lRzdnRRAB",
+            "text": "Been here a few times. Unfriendly, unwelcoming service and unauthentic food. Local customer, went in, asked for their recommedations. The lady behind the counter was rigid and cold and answered my question with, \"whatever you want\". I ordered their combo platter which includes a little taste of everything. Food was cold, falafel was extremely dry and unappetizing. I was looking forward to having this place in the neighborhood, but they greatly disappointed my family and I. No return business."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBcE5QbDVnRRAB",
+            "text": "This place is simply amazing. Food is delicious! Everyone is so nice and the chef is great. Thank you for being the best!!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfMGQtb3B3RRAB",
+            "text": "Kind people great food. Support ya local\nPalestinian businesses!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmcThYWGFnEAE",
+            "text": "The best lentil soup"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmN2MzUmxRRRAB",
+            "text": "Amazing and fresh! Kindest staff"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2cjdMd2FnEAE",
+            "text": "The best chicken shawarma wrap I've ever had.  Great value too - the wrap, a delicious salad with hummus and fresh & pickled veggies, and a huge container of delicious fries for $15.  And the people there are very friendly and give great service.  Very happy and proud to have this place be local to me."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2MjdPU2x3RRAB",
+            "text": "I ordered chicken shawarma over rice with Ayran milk, and the food was absolutely delicious. Chef Mohamed personally introduced himself, letting me choose my favorite salad. The portion size was generous and satisfying."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2NjdXaUZnEAE",
+            "text": "Amazing Delicious food & friendly staff.."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2dHFQd0F3EAE",
+            "text": "Rice dishes / platters are great, wraps are not. I don’t know if they’re using l tortillas or what, but it’s the wrong type of bread for a shawarma and ruins what would otherwise be a pretty good wrap."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQOHRPWGJBEAE",
+            "text": "Best falafel pita in the townnnn\nGreat energy\nAnd they gave me a free piece of cake\nlol this place is great\nShwiaaa"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYeWRuQWpRRRAB",
+            "text": "I always get the chicken over rice and it never disappoints. Added Makluba since I wanted to try it out and it was delicious! Meat was tender and it came with the side of fresh herbs and sauce -not included in the pic.  The price fits the quantity and quality of the food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURublpiQXR3RRAB",
+            "text": "My only complaint is that this place is not next to my house! So clean, fresh and nourishing. However, if you want a little treat the dessert selection is outstanding."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuaXJYMWRREAE",
+            "text": "My go to spot for a quick meal in the neighborhood. Great people."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSMmRLRVBREAE",
+            "text": "Ma fav cafe in Brooklyn! And they start to sell a Dubai Chocolate 😍😍😍\nAlso, the cheeseburger was sooo nice and juicy. Highly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuaDR2aE13EAE",
+            "text": "Exquisite, tastes like home cooking, gorgeous pickles, generous portions"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuNWRUS1VBEAE",
+            "text": "Incredible food. Wonderful owner. The falafel sandwich took me back to my time in Jerusalem with one bite. Absolutely worth many visits!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIdFlMY2ZnEAE",
+            "text": "I got the chicken and lamb over rice plate. Absolutely fantastic. Highly recommend. Another thing I really like this place is super clean!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3aVAtY0Z3EAE",
+            "text": "Absolutely great food at a great price. You can load up on meat and vegetables, and the portions are huge. They have a lot of options and some hard to find Palestinian specialties. They also happen to make really good burgers."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3cWFhZC1RRRAB",
+            "text": "Staying an away from this place …. The food very nasty."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiazREbDFnRRAB",
+            "text": "Love this spot. Such excellent quality food and great portions. And the staff are lovely, always giving out samples of new items and chatting. Makes a warm environment for this local gem"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiM2ZhWWtnRRAB",
+            "text": "Great falafel and shawarma cafe near the Nostrand 2/3 Stop! I used this place to cater an event I had at work recently for 30-40 ppl. The platters of shawarma were delivered and the presentation was excellent. I loved the falafel and salads, and my guests absolutely RAVED about the chicken and lamb and beef shawarmas! I've since returned again and again for lunch and my colleagues at work keep asking me for their contact information. Their in-house eating area is small but not overly crowded. It is very clean and great for a quick lunch. The images on the wall will transplant you to Jerusalem! The owners and workers are all so friendly and efficient! A great place in the neighborhood!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURidUpiWjZRRRAB",
+            "text": "You know the food will be bussin when everything is served on paper plates and the guys behind the counter don’t speak a word of English but answer yes to everything anyway. Very tasty food for a price you can rarely find nowadays. Had a falafel and fries and everything cost $10."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiaUthd0RBEAE",
+            "text": "They make all the falafel fresh, great topping selection, good prices, come here once a week. Love it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURycGRPUTVRRRAB",
+            "text": "I'm giving 3 stars because sometimes ordering here I have a 5 star meal and sometimes ordering here I take one bite and throw it in the garbage.Please consistency is important"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMMHVhZURnEAE",
+            "text": "This place is outstanding. What a great value. Just look at the plate in front of me. $15 and my daughter and I split it and were full. If you get the plate version of the chicken shawarma, then they let you put as many toppings on it as you want. Food tastes terrific. Cute, nicely kept place with clean rest room."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1cW8zOFdnEAE",
+            "text": "If you enjoy Middle Eastern cuisine, then this place brings fresh ingredients to your table or to take out. Clean and cute place\nStaff members are very sociable and friendly.\nVery very good chicken shwarma and falafels!\nVery big thank you Jerusalem Falafel House!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWNV83R1J3EAE",
+            "text": "This neighborhood needed some authentic middle Eastern Street food and what it got was some great falafel sandwiches that was crispy flavorful and with an abundant of options for fresh toppings. The chicken shawarma was excellent and freshly roasting on it's shawarma grill. All the food was made fresh to order and we didn't wait long for it as we watched them prepare it."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1Z0tLajNBRRAB",
+            "text": "The first time you visit here you must try the chicken over rice, full stop.  The hand marinated flavors of the juicy tender chicken, the vast options of tasty sides, toppings, and vegetables, all paired into an unparalleled dining experience.  For 13$ in this economy is outstanding.\n\nAt the Jerusalem Falafel House I've met some of the kindest and proud chefs who work tirelessly to make every meal one by one.  It's not common to see this kind of service, most restaurants opt to treat orders like an assembly line, but not here.  It's all home cooking, you will be able to instantly tell with a single bite.\n\nI come extra early to make sure I can get the best charred crispy parts of the chicken, thinking about it now makes my mouth water.  This is a must try stop recommendation for me to all of my friends and family in the crown heights area!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSOWRhcVhREAE",
+            "text": "Very kind and knowledgeable staff.  They form the felafel by hand!\nNothing frozen, everything fresh.  About $11 for a felafel wrap that was tastier and bigger size wise than a chipotle burrito.  Support this local business please!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxdExlR2xnRRAB",
+            "text": "What a great addition to Our neighborhood restaurant scene. And it is Family run, authentic and delicious. They make EVERYTHING in house and You can tell from the freshness and the great pride taken in their cuisine."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNadmQtbmt3RRAB",
+            "text": "Food is great service was great the cook always gives me samples of food to taste. The wraps are good you can put what ever you like on it. I go there at least 2 times a week to order food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5bjlMZFNREAE",
+            "text": "Just tried for the first time and will definitely be back frequently! The shawarma was delicious.\n\nReally generous portions, good quality, and everything was made fresh to order. I liked that I could choose from a lot of sauces and fresh and pickled veggies to add to my dish. This isn’t fast food and it was a little slow because I went during lunch rush, but service was still great."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1MVBMTGpRRRAB",
+            "text": "A ridiculous amount of food for great prices. its fresh, flavorful and made with care. The staff is very kind. You cant find better in the area for sure!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4N0tPaUxnEAE",
+            "text": "I really wanted to like this place because we desperately need some quality food in this area, but I was deeply disappointed and unable to finish my order.\n\nThe beef was extremely dry and overcooked and almost powdery in my mouth, the pita bread was stale and cold and the sauce which was not a generous portion to begin with was lackluster and flavorless. Heating the pita bread up may have made a difference.\n\nThe prices were also very high, considering the lack of quality.\n\nI cannot recommend the restaurant at this stage and can only speculate about some of the glowing reviews. Was there a sudden nosedive in quality? Did I visit the restaurant on an off day?\n\nI always like to give an establishment a second chance because anyone can have an off day, but I see sprinkled into the positive reviews, some sentiments that match my own. One reviewer described the food as \"average\" and another commented on the sauces \"lack of taste\". Dry overcooked meat seems to be a recurring theme.\n\nOne redeeming feature was the excellent customer service. The people behind the counter were wonderful and personable.\n\nI would say to the owners, we are rooting for you but you have to do right by us. You have a wonderful opportunity to make a profound impact in this community by offering fresh and delicious food. Take the feedback to heart and make the necessary changes asap."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1dDhiN1RREAE",
+            "text": "Absolutely delicious food made and served by kind and caring people.\nThe lovely people working here take the time to go over every ingredient with us so our food allergy toddler can get her favorite eats here. The chicken or beef over rice is SO good. The wraps and zatar bread are amazing. The  fries are really good too. We can't get enough.\nBig portions, affordable, healthy with tons of great vegetable options. Authentic and fast!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGdDZXNGdBRRAB",
+            "text": "Delicious, fresh, and convenient! I especially love the falafel which is made to order - everything is prepared individually to your specifications. The service is always very attentive and friendly. The portions are generous and the prices are very affordable. I’m so happy to have a wonderful Palestinian restaurant in the neighborhood!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKN0lHWWpRRRAB",
+            "text": "Jerusalem Falafel House had tasty food, great service and a very welcoming atmosphere. I had the chicken shawarma plate and it was absolutely delicious. I especially liked how you were able to choose what vegetables you wanted on the plate. All of the sauces were delicious too! My absolute favorite was the garlic sauce!! This new place is definitely worth trying. The prices were really good for how much food they give you. I definitely would recommend this place to anyone. I can’t wait to come back and try something new! :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNENE5IenZ3RRAB",
+            "text": "I forgot to mention to them \"give me hot sauce,\" thus resulting in a good food but less pallette-able par my taste. Chicken was nice and flavorful, the rice was great, and the portions were great for the price. They said, \"Everything on the side.\" I said \"Yes\" getting the value out of my buck. So lots of vegetables, meat and rice... not bad for the price, but I really needed that hot sauce.\n\nStill... a lot better than 'Muncies'"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkdk9IWGtnRRAB",
+            "text": "I’ve come here now almost every week for a couple months. Worth going a little out of your way for. I always get their chicken gyro. Their chicken schwarma is delicious as well as their sides. It’s straight to the point and has balanced great flavor. Better than all the other pita/falafel spots in the area."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1NHYyeVh3EAE",
+            "text": "So delicious. I truly can’t quit thinking about the meal I had here today. Do yourself a favor and check them out! Flavor amazing. Portions generous.\nWe were handed fresh, warm and super tasty falafel samples as we waited. A blessing to our neighborhood. ♥️🇵🇸"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxcU5DUkZnEAE",
+            "text": "This place is awesome. Hands down the best middle eastern food in our neighborhood. Delicious, always fresh, great value for the money, and delightful team. Will be a regular as long as they’re in business."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWNC0zNmZ3EAE",
+            "text": "One day I walked by this place and said I'll try the food when I'm in the area again.  So I was able to finally try the food.  There were 2 men working there and they were very nice.  When my food was done the cook brought my food to my table.  I had the chicken shawarma wrap (my 1st time having chicken shawarma) it was okay. A little different taste from the chicken gyro."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSeGFtLTFnRRAB",
+            "text": "The owner & the lady working behind the counter are really nice people. I received great customer service. But I have to be truthful.  I didn't enjoy the chicken over rice.  My chicken was too dry. But on the other hand, my husband really enjoyed his falafel over rice.  He said that was the best falafel he ever had."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURocS15dVJBEAE",
+            "text": "I’ve been waiting for this spot to open since I saw they were coming to the neighborhood and it did not disappoint. The chicken shawarma wrap was delicious. The wait is a little long but they made up for it in portion size. You can’t skip out on the garlic sauce and hot sauce, so tasty!"
+        }
+    ],
+    "reviews_count": 69
+}

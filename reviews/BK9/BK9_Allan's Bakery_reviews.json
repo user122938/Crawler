@@ -1,0 +1,509 @@
+{
+    "name": "Allan's Bakery",
+    "place_id": "ChIJv8lwzG9bwokRuOS0aoXcSZQ",
+    "grid": "BK9",
+    "address": "1109 Nostrand Ave, Brooklyn, NY 11225, USA",
+    "rating": 4.3,
+    "user_ratings_total": 2084,
+    "phone_number": "(718) 774-7892",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWdWQyUnNZbVpJWjJvd2FtOUJlVTB3V0dWUU5sRRAB",
+            "text": "Currant roll\nFriendly and helpful!!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWMFpWZ3lNWGh3T1Y5aVlrZEpOSFkwUW1OVmFrRRAB",
+            "text": "Currant rolls excellent, as were the coconut rolls. Don't forget to bring cash."
+        },
+        {
+            "date": "수정일: 5일 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMNjg2aE1nEAE",
+            "text": "Usually I like your current rolls, something changed about it, It does not taste the same."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oa1pGOVRhMUI1YWtwVFZrTkxNV00yVG1wdGRHYxAB",
+            "text": "Just wanted to thank Janielle. She went above and beyond in her busy schedule to take my order. She was very professional. Will follow up when I receive my order. I received my order. Currence roll still rocks after so many years. Packaging was exactly the way I asked it to be boxed. It was a pleasure dealing with Janielle. Thank you!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taQlNFWlZNM05QZDJaS1RtdDZkaTFOYkRGRVVWRRAB",
+            "text": "Going to Allan's Bakery for many years, friends of friends with them from years ago. Always quality bakery goodies to enjoy. Best birthday cakes ever!!! Patties, coconut slices, sweet bread and more."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taRGJYQTJVMHR2UlhWdlUyb3lOVXBuUXprMVJHYxAB",
+            "text": "GREAT CARIBBEAN BAKERY PRODUCTS."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oS2RsYzBVRmREVjJreUxUUnpMVjl3UWpaRmVVRRAB",
+            "text": "I got here for Karaoke every Friday night.. from 11pm-2pm Stress Therapy Karaoke. With Jp Shomone.. Always a vibe.."
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3LWFEMnlRRRAB",
+            "text": "I have been coming here fir many years. The staff is friendly and professional. He service is great. They carry mostly baked goods. If you were to visit, try everything. Good people  and delicious baked goods. This is the best bakery in Brooklyn."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSVQyNU1PR2hIV21FdFRtVk9NM0ZvYmxJdFZHYxAB",
+            "text": "Food is a 5, but the service of the staff needs some work. Yes, the clientele is hard deal to with, but the attitude is not needed."
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnbnFiNW5RRRAB",
+            "text": "I love it. I been going there since I was 5yr's"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2MU5QRXZnRRAB",
+            "text": "Food great"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4ak9VVnBObXhIV0d4MmIxWlBiM3BOUVRaSWNtYxAB",
+            "text": "The fish cakes were terrible.   The oil was stale.  I bought 3 packs; started to eat one from the pack.  The taste was terrible.   I threw them all away.\nThe currants & coconut rolls were good.  No complaints about those."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRdWV2QnZ3RRAB",
+            "text": "Not as good as it once was"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0Q2JtWTBWMWt3YmtaSU1UaFZVVFJhUzFKU1JVRRAB",
+            "text": "This is the place for original West Indian pastries & snacks; just be mindful that is cash only transactions."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0amVqQkJkazFPVUdSbGJtMTJiRnB0WVc5TVJIYxAB",
+            "text": "Currant roll lived up to the hype! The carrot cake cheesecake was unexpectedly great too, the crust layer is super good and similar to the top of an italian crumb cake"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taclFsWlpkRzV6VXpkQ01HNXJibmMyYTFKak5YYxAB",
+            "text": "Current roles are not as they used to be. It’s just some syrup with a couple of currents. they need a new baker, not worth the money I spend"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CU1dqQjJZM2htWW1odFJIUkdNV2s0WDNCZlVXYxAB",
+            "text": "I ordered bake & Codfish which it's so very small with a little bit of meat"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSb1NEUTFPR1pGY1haVFNHVlBkazEwVTBGR1ZtYxAB",
+            "text": "This place has the worst food I have ever tasted  also  Hot food must be at 140° F (60° C) or higher.\nNone of which is being followed. I bought food today from here and I  had to visit the restroom as soon as I reach home it gave me a diarrhea and made me vomit."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aRFNHNVFXRWN3VUhoRGVUUTBaM0pzT0dOTk9WRRAB",
+            "text": "Good bakery. The price and size should match. Coconut and currency has gotten smaller within the last two years."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWQlRrRkNkVWxOYVVwSlltNWhNVlJqWm5GamFYYxAB",
+            "text": "Currant Rolls is top tier!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jM2JFcE1kRzVJU21sSlJUVlJha2h0V0U1aGRuYxAB",
+            "text": "Bar none the best currant rolls ever ⭐️ ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️\nWish you had a bakery in West Palm Beach Florida!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OaGNVdEtWa0pzU0VOSFoyTXlSMnBsY21vM1luYxAB",
+            "text": "Love their cheese puffs and currants rolls."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREcHV1N2ZnEAE",
+            "text": "This bakery is a classic. You gotta know what you want to order like so many Caribbean spots. I get the hard dough bread, some currant rolls and the bake and fish cake."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSU9HRmZVek5HZURabFRteGhNVjh0VFVkTWMxRRAB",
+            "text": "Allan’s is not what it used to be the bread is hard the pastry well is not pastry at all it’s not flakey it’s too much shortening. I gave it a 2 because the patties are below what an average homemaker can make."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOcFp6TlNWSE0zVG1GME1WSnNkRnBNZVRka1VsRRAB",
+            "text": "On Sundays and holidays get there before 7am, or you will be standing in line for an hour or more. So many people love Allah's bakery food just like I do and my family do Too"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBLXQ2TGN3EAE",
+            "text": "Current Rolls!!!!!\nNuff Said"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pORFoxOVFWM1o2ZVdocVZ6WlZVa013YVU5UFZsRRAB",
+            "text": "After all these years, this bakery is still a dump, with underutilized glass showcases and boxes cluttering the space, such that patrons don’t even have enough space to line up. They don’t even have a menu of products.  It’s as if they are stuck in time. It’s quite depressing to go there to buy goods."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205aU9IVkZiWHBtTFRBMlRrZGpPVW94WlVoWVQzYxAB",
+            "text": "2025 and you still not accepting cards. That insane and one way to loose customers."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VLRHY2LVM5bUlIM01BEAE",
+            "text": "I bought the hard dough bread for the first time at Allan's bakery. It's the worst I've ever had. The bread tasted SALTY and only Raw Dough. I literally had a headache after eating it. I would never recommend this bread. I'm so disappointed 😞"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VLLVd3Ni11NWV5dndRRRAB",
+            "text": "Today i visited Allan's bakery on father's day, I bought two supposedly red velvet cake which turned out to be \"saturated red oily cake\", as the key ingredient was missing and its not no velvety. The cake is not edible and I'm very dissatisfied as it was highly recommended. Honestly, I would consider closing down the bakery as my disappointment is really bad. My 2 year old baby loves red velvet cake, and this one i bought at Allans for the forst time, she refused to eat it and spit it out, i cant express any further how disappointed i am. Additionally, the guy who was packing the bakeries  he didn't neatly packed the bag, I watched him threw my stuffs in and I did talk about it and he didn't even care."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VLN2x2clhJLXJueEdnEAE",
+            "text": "The short dark skin skinny female worker was extremely  rude and disrespectful. I asked her for a bag of 4 coconut drops. She said their was no more but found a bag with 4 .I asked  her how much and she was guessing the price and try to charge me for the price of6. I told her to ask her boss how much\nSo she got a attitude and threw the bad aside. I still wanted to to know the price  but she refused to inquire. So she gave the bag away few minutes later without asking if I still  want it or not. So I left  and went to another bakery where i was well served."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJT1Z0ci1ZdVpEWWJ3EAE",
+            "text": "Still have it's Touch"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJT1ctY19JMnF6M0hREAE",
+            "text": "I am sooooo happy!! I'm 35 and been coming to Allans my whole life.  I always got 4-6 packs of coconut buns. At some point they changed (not for the better) but TODAY, they taste and look like the buns I've gotten for years and I am so happy.\n\nThe coconut bake & codfish is delicious. Ima start frequenting this place again. 👏🏽👏🏽👏🏽"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKX2NuTGFkeVotSkh3EAE",
+            "text": "Great cakes"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZbEtLdjlRRRAB",
+            "text": "I absolutely love this bakery. It’s my go to bakery 1000 out of 1000 stars will always recommend!! will always go!! Will always get my pastries, desserts, and anything else I can get from here. Just the best!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveFBlM0F3EAE",
+            "text": "It gets too busy, but customer service is great."
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvMWFlQm1nRRAB",
+            "text": "Muy malo"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNva2VLZWVBEAE",
+            "text": "I placed an order a couple days ago, and waited 20 mins before I was able to speak with someone. They kept putting me on hold. Today I called because I need to charge something with the order, waited 30 mins and again they kept putting me…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNk95bUNnEAE",
+            "text": "Ordered a red velvet for a birthday and didn’t receive that. Received a plain cake.  That was so upsetting and disappointing. It was decorated nice, but not what I ordered."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJOGVpVXFnRRAB",
+            "text": "been eating there bread and pastries for years love them...bklove"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJaVB2SWh3RRAB",
+            "text": "Same place, same vibe, same great food."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJbmZqZHVnRRAB",
+            "text": "Had the doubles and the $4.50 bread it was good, also I had their current roll it was great too.\nThe doubles I got as a gift which I appreciated. Thanks very much,"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJNlBuODRnRRAB",
+            "text": "Allan’s has been a part of my family all my life! Everyone in my family gets their birthday sponge cake from Allan’s! It’s a tradition at this point! Not to mention all of their other baked goods are amazing! The breads, currant rolls, cross buns, fish cakes, patties, etc.! All fresh & baked daily! I still need to try dem doubles one day!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxejRDMjF3RRAB",
+            "text": "Great experience! Line was long but went by quickly (probably a 7 minute wait until I was serviced). The staff was super friendly and gave me a choice between a beef patty or a salt fish and bake. I chose the salt fish and bake which was delicious! Definitely a great quick meal for breakfast or lunch when on the run.\n\nThe currant roll was great, I love all things raisins in deserts. I love that they raisins were highlighted without taking away from the flaky sweetness of the pastry.\n\nThe coconut roll was great. Definitely great for anyone who loves coconut."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5akxMWVNnEAE",
+            "text": "This is one of the few West Indian bakeries that actually sells slices of fruit cake (black cake) with icing all-year round.  A lot of other bakeries only do that for the Christmas holidays.\n\nThe fruit cake (black cake) is moist like I like it.\n\nThe cod fish balls are spicy and tasty, but they are a tad skimpy on the fish.  Nevertheless, they are the best cod fish cakes that I have tasted in Brooklyn."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDM3VhSWRBEAE",
+            "text": "Allan bakery review\nBlack currant roll is excellent with a crunchy crust, sweet and mildly tangy currants and a rich dough. It is a popular choice of many customers. Hardo bread…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpMUpUUGV3EAE",
+            "text": "Picked up my treats for the winter. We only come to New York a couple times a year and Allan's Bakery is always on our list to stop in and pick up our baked goods. When we get home we slice them up and freeze them. Works perfect for us. We…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnM1BPUmxRRRAB",
+            "text": "Really loved the currants rolls, bought a few when they were fresh out of the oven and still warm. So good! Friendly folks, affordable prices, and a true neighborhood business."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsOUpXUWVREAE",
+            "text": "Got a specialty cake.  It tasted great and looked beautiful, but it fell apart. The cake itself was thick and moist and delicious.  Forever loved Allen's bakery ... cake with pineapple filling"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQbnZ1Wkt3EAE",
+            "text": "Very very crowded. Beef patty too salty. Hard dough bread has been a staple for the last 40 years."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURza1pxYUNnEAE",
+            "text": "The childhood memories of this place.  My best friend lived 3 blocks one way and my closest friend 4 blocks the other way.  I gained so much weight eating currant slices.  They are still just as good.  The changes they made to the meat patties is criminal. They are now something that should be served to prisoners of war.  These are an insult to the quality of Allen's bakery goods.  Bring back the flaky crust meat patties.  Black cake is great but overpriced.  So many great memories.  I love this place and the $46.00 I spent is my monthly indulgence well spent.  I'm going to have to swim an additional 5 miles to loose the weight I gained but I'll do it.  I love and miss this bakery and it will continue to be a destination stop for me while in NYC.  I love it!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLaU95ZldnEAE",
+            "text": "It's clean Covid 19 prevention in place. This was the first time I was in there was impressed at all carribbean snack, bread and cow foot souse was a little disappointed they did not have chicken foot souse  but it's cool now I love current…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3NnZ5VjBRRRAB",
+            "text": "They open at 7 am and I got there at 8 am.No long line service was great. The current rolls and hot cross bun amazing"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmcnFxcU5BEAE",
+            "text": "we had the currant roll and the guava pastry - both were excellent! the guava filling was too sweet for me but the pastry itself was very flaky and crunchy. i don't know how they do it. the currant roll was also quite good but was a bit too sweet as well. no photos because we finished them too quickly 🥲"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwbnFTWmt3RRAB",
+            "text": "Always a please going to this food establishment. They are attentive, friendly, efficient and professional. The food is fresh and the bakery is clean. They greet people with a smile. I was luck to catch them on a slow break because usually they are very busy. Exceptional five star customer service!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfbE1Tbk5REAE",
+            "text": "Now I see why the line circles inside the store and probably outside at times! Great homemade food. I had the codfish balls and the beef patties. Reminds me of the codfish cakes my friend's mother used to make! Delicious!!! The beef patties were perfect: the dough was well balanced, not doughy or dry and the beef well seasoned, not too spicy, too dry, or too greasy. I wish I had bought more, but there's always next time! My friend said she always gets the currant rolls, so I think I will try them next time. Service was courteous and quick so they can accommodate a lot of customers. Hope to make another visit soon!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMydWNUNGdBRRAB",
+            "text": "they are the best 👍 it's worth the detour, for your money you will taste the texture and a warm welcome that you would not get elsewhere…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPeGVEM2ZBEAE",
+            "text": "MOLD on my delivery (second time) Have been a supporter here for years, but this is the second time I’ve received a molded cake order. This is incredibly dangerous and careless oversight Allan’s. We want Black owned business to stay in the community. Unacceptable. Pull it together."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpcHRTUE9REAE",
+            "text": "Today May 20 2022 i  bought $20.00 the coconut roles were begging for coconut.  You can not raise prices,  and cut back  too..RIDICULOUS   1 🌟 WHERE IS THE COCONUT IN THE COCONUT ROLL…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2cy1iSERREAE",
+            "text": "This place has been here for decades. Growing up my dad took me here plenty of times and now I'm middle-aged. 😅 Beef patties and current rolls were and still are the best, one of Brooklyn's finest landmarks.…"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBaXUtNFZnEAE",
+            "text": "I've been coming to Allan's Bakery since I was a child. One of the best bakeries I've ever been to, and they still make the most amazing Currant Rolls. I will say that their cake quality isn't as amazing as it used to be. I find that the past few times, it's been extremely dry."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuamE3RkJBEAE",
+            "text": "Parents went here for over 45 years, now I go for them but I'm all that time the service and the food hasn't changed one bit.\nHands down best currant rolls in the business! There hard dough bread is also on point but there's entire menu had always been great with reasonable pricing imo."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlejd1UlpREAE",
+            "text": "Always long line and famous! It was $2.50 cash for one current roll and it was yum!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBcjQtRXZRRRAB",
+            "text": "Allan’s Bakery has the most professional staff and the best… THE BEST carrot cake & whole wheat bread! Thank you Sharon for the AMAZING customer service! Made my day! Blessings to you!"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUdHJ2a1FREAE",
+            "text": "Friendly staff, fresh & delicious Trinidadian baked  goods at a reasonable price.  However their beef patties could use some seasoning but to fix this I cut open the patty and some added Grace Hot Sauce which gave it flavor."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzek82b3BRRRAB",
+            "text": "Best Currant rolls I've ever had. The patties were good, but honestly a little too seasoned for me, they were very salty. That could just be personal preference though."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmMGRPZzVBRRAB",
+            "text": "I don't usually write reviews, but after my last experience with Allan's Bakery I felt compelled to. I have been patronizing Allan's bakery for years. On Christmas Eve, I ordered my usual sponge cake with pineapple filling at 8am. I was told that it would be ready at 5pm. I understood the late pick-up because it was Christmas Eve. I got to the store around 6pm and waited for 25 minutes to pick up the cake they said was ready because I called before I went. I finally picked up the cake amongst all the confusion in the store. When I got in my car and placed it on the seat, the top piece started sliding all over the place. I kept shifting the box so it would stay in place. When I finally made it home, the cake, filling, and icing was a mess. I could not take it to the planned event for Christmas. The next day was Christmas so they were closed. I called the day after and was on hold forever. Finally, I was put through to the \"so called\" manager. She told me that this has never happened before and the cake was good when I left so I must have melted it somehow. \"There is a first time for everything\". Not sure how that could have happened unless I drove home in a sauna. The heat was not even on in my car because it was not freezing cold that day. Me looking at the cake for a hot minute in the store before leaving does not mean that it was in perfect condition. I  commute to this bakery from Queens. All I expected was a sorry, or i'll reimburse half your money or something. Received nothing but, sorry the cake was fine when you saw it and left. Allan's bakery would rather lose a loyal customer for $47. I was so disgusted and disappointed in their treatment of a customer whose FAMILY and FRIENDS patronize their establishment. Like I said, I had to write this review. Hopefully someone reads it and takes heed despite their 4 star reviews."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNZMGJib0hnEAE",
+            "text": "Super popular Caribbean bakery. The lines are always long but it’s definitely worth the wait. I had the currant roll, which was delicious and tasted exactly like the Eccles cakes we get back home in England. On weekends they do a chocolate and currant roll, so I’ll be back to try that."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3cnRUcGtnRRAB",
+            "text": "Wait times can vary. Sometimes it's a 5 min wait, other times it's a 20 min wait (Saturdays around noon). Go early for less wait time. Roti and doubles are ok. Currant rolls, coconut drops, bake, and phlourie are awesome."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmcXNDOVJBEAE",
+            "text": "Great bakery for Trinidad breads and a large assortment of cakes. I noticed that everyone waiting on line complained that customer service is moving to slow. I would admit, it was slow. I think if they had a third person working the cash register, they would have zero complaints."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRNU9YaFl3EAE",
+            "text": "Everytime I go there its like I'm back home in the islands.i just wish they serve homemade drinks as well.There bakery is legendary as always.is it worth the trip ? Most definitely.just make sure to bring cash to avoid ATM withdrawal fees."
+        }
+    ],
+    "reviews_count": 71
+}

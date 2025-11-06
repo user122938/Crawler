@@ -1,0 +1,502 @@
+{
+    "name": "Jauja Mexican Kitchen",
+    "place_id": "ChIJry4T9ipbwokRuu2fNpIxvCk",
+    "grid": "BK9",
+    "address": "695 Flatbush Ave, Brooklyn, NY 11225, USA",
+    "rating": 4.5,
+    "user_ratings_total": 213,
+    "phone_number": "(347) 365-9522",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWbmRsUmFXRGQ2VkhOc2MyVnlXSFZuTUhoeWJXYxAB",
+            "text": "The food is consistently sooo good. The steak nachos are my fave go to dish"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMlVEUlJNMTlxT0VjelIweElWbEpoTFhkUE1uYxAB",
+            "text": "Very fresh and thoughtfully-prepared dishes can be found at this small but welcoming spot. As a vegetarian I highly recommend the generously-sized poblano pepper burrito, and am curious to try their veggie enchiladas de mole."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210NloyNUdMVkpoVUVwM1gyUXdSVEpDWmxCeGJtYxAB",
+            "text": "The tamales were absolutely delicious. I will definitely go back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kRU5WaEJSM2g2TUdGVGJtTkpMVUZ1UkdWZlEzYxAB",
+            "text": "Good 8.5/10"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsVVZWTmpTbEpxUm05WFUwVTFXR1ppZG1rM01FRRAB",
+            "text": "Best Mexican food in PLG. Specifically the tortas and tamales."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNTEoyYUNDejhtRXJRRRAB",
+            "text": "I've been ordering from here for a long time but finally went in to eat. Their food is packaged well when delivered, and it's nice to know that the quality of their food remains the same for both delivery and dine-in. I personally love their chimichurri skirt steak dish. I have to agree that when it comes to a burrito, they could use more meat. Their tacos are also delicious."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyaU5HN1hREAE",
+            "text": "Simple and delicious. Deliciously simple.\nNo fuss, home cooked Mexican food at affordable price. Just wish the consommé was included in the price of birria tacos or quesadilla. It’s $4.00 extra."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZZ1k2QVhREAE",
+            "text": "Super impressed and satisfied my snobiness about Mexican food. Even the house salad was great! The tamales are big plump and juicy. Can’t wait to go back and try the mole and chiles rellenos."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJOVpQNDJBRRAB",
+            "text": "My go to. Nachos cannot be beat. Food made for quality, not speed, they make it as spicy as you like, or not. flavors explode. Great value for a small Mexican place."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRMklpNWJREAE",
+            "text": "Amazing food that feels homey. The owner and staff are very nice. I live far away but I come here whenever I’m in this neighborhood."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnN0ktV3pRRRAB",
+            "text": "Not a bad spot"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5bjhQV1ZBEAE",
+            "text": "The food is always great and fresh!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBXzZUbGhBRRAB",
+            "text": "Delicious food and wonderful people! Yummy :)"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIODVmU1NnEAE",
+            "text": "Kinda mids for a Mexican place. The ratio of rice to meat in their burritos is unsatisfactory and the green salsa is meh"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmeGN5cDN3RRAB",
+            "text": "So yummy!!!!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2anVYX0RREAE",
+            "text": "Without a doubt my FAVORITE Mexican restaurant ever. We order from here just about weekly and it's always something I look forward to. They have a very talented chef there creating some complex flavors. All of the dishes we've had have been delicious. Always very fresh as well and decently priced. We are so lucky to have discovered this GEM of a restaurant. This review is long overdue."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYc3JTX09nEAE",
+            "text": "My husband and I order from here at least once a week! Such a lovely staff and definitely the best Mexican in the neighborhood."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIb3VuZnVBRRAB",
+            "text": "Waited for over a half hour for $16 mediocre burritos. We had 3 burritos, Birria , Al pastor and vegan and we were all disappointed. Especially after waiting for over a half hour. We should have been ravenous, but none of us finished our plate. In a city with great Mexican food everywhere this place is one to avoid."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURicWFxYTFBRRAB",
+            "text": "I am a h u g e mole fan and have been on the hunt for authentic Mexican mole and have been led astray by everywhere except for this spot! Taste like Mole from Oaxaca. Best mole I’ve had in NYC thus far and the price is ideal."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2OVpTcGJBEAE",
+            "text": "I’ve had most of the menu at this point and it’s all been fantastic. The Torta Nortena is one of my favorite sandwiches in NYC."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyNFk3WjJ3RRAB",
+            "text": "I have been coming here since it opened and having food here was always a blast, especially when I met with the owner, greeting me with a big smile and ensuring my order was on point.  I can't tell you what to get because everything on the menu is amazing and makes wanting more. Try the Tacos, try the Quesadilla, try everything. The place is family-friendly and there is enough seating for everyone to sit."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMX2JYWF9BRRAB",
+            "text": "Great Mexican food! The owners are super friendly and the food is cooked quickly and fresh. Easy spot for take out for lunch or dinner. Recommend the torta with al pastor or the birria tacos"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMM296dGZBEAE",
+            "text": "Best tacos in town, flown all the way from London to have them. 🌮"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6MXBUVnZRRRAB",
+            "text": "I ordered for take out. I’m not really a huge mexican food fan but had an odd craving for it. The food was soooo good. I got the steak with rice and beans and also a chicken empanada and quesadilla."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6b3VtQ0FREAE",
+            "text": "Food is always top tier"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6amNDdGpnRRAB",
+            "text": "Pozole Soup is delicious! And the quesadillas is amazing. It is a little more expensive then other Mexican restaurants in the area but the quality is worth it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUaC03bzFBRRAB",
+            "text": "Quiet and charming place. Great food, great prices and awesome service. The music is great as well. It made me forget I was in the middle of NYC, and transported me to a Latin American country.\nI ordered tacos de carne asada, tamal con mole and aguas frescas de melón."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUeV82em9RRRAB",
+            "text": "Probably my favorite Mexican restaurant in the neighborhood. Love the Chicken Flautas and Birria Tacos."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqX0tYaG5BRRAB",
+            "text": "Woowww! Explosion of flavor and love in your mouth."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqc0lyS1BnEAE",
+            "text": "Everything was just okay. If you love near here great, but don't go far out of your way for it\n\nGood thing is that they are nice and food is cheap. But it's not super authentic, and the atmosphere is just regular"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEaXNMWDhRRRAB",
+            "text": "Very good. A little slow when you have larger orders, but that can be expected. The great taste of the food is worth waiting longer. I advise you order ahead and pickup when it's ready.\n\nI recommend getting the nachos. They are amazing!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkeHZXNU5BEAE",
+            "text": "I don’t order takeout often but when I do it’s usually Jauja. A++ authentic Mexican food it’s a hidden gem. My faves are the birria, al pastor, and shrimp tacos. The beef birria burrito is an honorable mention. Honestly nothing here disappoints. The food is consistently good. Sadly I have no photos because I scarf it down every time"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0Mm96ODNRRRAB",
+            "text": "We’ve been pretty big fans for a long time as they are always so quick and the food is good, but this time I’m so sorely disappointed. We ordered our food on the phone around 10 minutes before arriving. When we arrived and were told it was not ready. We waited in the restaurant for a solid 30 minutes— watched people who placed their order on the spot get their food before us and waited until the entire place cleared out with still no word from the person up front as to whether or not our food was ready. We were the only ones in the restaurant except for a delivery worker. Finally the owner asked us what we ordered, we clarified and as soon as the owner walked into the kitchen to check on the situation the person up front called out our order. Nothing came out of the kitchen so it seems that the person up front had it the whole time just forgot even though we were in their line of vision the whole time. By the time we got our food it was 40 minutes past — probably would’ve received it faster by just ordering delivery. Food is cold and soggy now from the wait."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxc1kyM2lRRRAB",
+            "text": "Decent carne asada tacos for Brooklyn area."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1MExHWnZnRRAB",
+            "text": "Food is incredibly mediocre. They use mozzarella cheese in the burrito, which tells you everything you need to know. I ordered a tostada with avocado and got served a packaged tostada chip with bland beans, lettuce, and 2 slices of avocado on top. When I went up to ask for more, they charged me $2 extra, bringing a meatless tostada to $7.50 total. The rice lacks flavor and they use too many onions in their pico de gallo. They’re also sparse in adding real Mexican cheese or crema to your food, which is a real shame. I tried coming to this place many times, and even brought friends here hoping their experience would be better. Unfortunately, I won’t be back after today. Would NOT recommend."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1aWFfc1JBEAE",
+            "text": "Had several different plates of food and everything tasted high quality and authentic!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1MGVfeTd3RRAB",
+            "text": "Absolutely phenomenal food, highly recommend. Looks are absolutely deceiving here, don't let the small size fool you"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaX1p5UkpBEAE",
+            "text": "I loved the Birria tacos! So delicious and authentic."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaLW9Lc2NnEAE",
+            "text": "Rice needs more seasoning, its pretty bland. Orange sauce is smokyyy spixy i loveee it. Green sauce didnt have much taste and isnt good. I’m a fan of green salsa usually but in this case, no.\n\nI liked the tacos, shrimp was great. The shrimp tacos is fried shrimp w ingredients in tacos like jalapeños i loveeeee. Al pastor is flavorful and I would order again. Boing wasnt a big fan, I preferred it in a box from now."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwMTVYLW93RRAB",
+            "text": "Ordered through uber eats first time. Food was hot and very yummy. Followed instructions on order and the chicken tacos dorados were really really good. Chips with guacamole were tasty as well. 5 stars, excellent restaurant definitely will be ordering again!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwdE9LNUd3EAE",
+            "text": "I ordered nachos and tacos and my order looked like they threw it together none of my order was really sloppy. I thought I would have had more meat. No lime with my meal . I've had better Mexican food. I lived in TX for 20 yrs so I know want that should taste like."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoLVp6a1NREAE",
+            "text": "Just show up with an empty stomach."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwaXNfU3dRRRAB",
+            "text": "My go to for Mexican food. Taste delicious."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKOXRPVVlnEAE",
+            "text": "Moved here from LA two years ago and never expected to find anything that would compare to the mexican food there. Jauja fit the bill.\n\nDon’t let the humble store fool you, there’s some serious food coming out of there. The birria bangs. Steak burrito and ground beef hard tacos are also favorites of ours. also carries out well. Order this!!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKdEtyOXNnRRAB",
+            "text": "they should put the pickup orders in front of the counter. you have to wait 10 minutes in line to pick up your order behind the counter."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4bmZQRktnEAE",
+            "text": "The esquite was fairly disappointing for the wait. Could’ve had more cheese. There was no mayo or butter."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4cmZualRBEAE",
+            "text": "Who doesn't like tacos? This is a great little spot with consistently good food. The Birria tacos are ah-mazing but the birria consome is a disappointment. It tasted like lightly seasoned water with a lot of raw onions. I was expecting a thicker sauce with a hearty flavor. The shrimp taco has a battered fried shrimp reminds me of tempura. It was ok but I prefer grilled shrimp. The tamarind agua fresca is pretty good.\n\nThe staff is friendly and helpful. The cost is average about $5 or $6 each taco. The portion size is average."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4d3MyWWd3RRAB",
+            "text": "Love this services .good 👍"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4OUtYMmVnEAE",
+            "text": "My favorite Toco restaurant"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSdzlUWHFBRRAB",
+            "text": "Nothing authentic, flavorless and disappointing."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5cThPRTVnRRAB",
+            "text": "Enchiladas verdes is my staple Mexican go-to order and I’ve already had these twice here. The sauce has a sweet and tangy taste, not spicy (which I prefer). The rice & beans pair fabulously and I also like to order a side of chips to scoop…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlaGVpYzFnRRAB",
+            "text": "A scoop of rice, a scoop of beans and 7 shrimp for $20.75.\nThe burrito is decent at $15.00 but that scanty portion of Camarones Al Ajillo is disappointing.\nAnd the shrimp are not tasty and do not taste like garlic.\nI'd stick to burritos and the like to get your money worth."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLcEpybVRnEAE",
+            "text": "Very nice staff. Quick service for pickup. Burrito was amazing. Surprisingly wet because if the lettuce juice that seeped under it, but somehow that still didn’t ruin it.\n\nNachos were great. Just wish the chips were much more fresh. They were a bit stale.\n\nStill... This is overall the best Mexican food that I have tried in the neighborhood.\n\nThe guy working there said they are still working on the full menu....\nAll I can say is that if they add churros and breakfast burritos to the equation they are going to have a regular customer from me for certain."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtN2VpVGFBEAE",
+            "text": "Ordered takeout from here. Steak burrito, al pastor tacos, and the chicken mole tamale. It was all delicious! Super flavorful. Would definitely come back."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5NktQLUFREAE",
+            "text": "Super delicious food here! The birria taco and chicken burrito were 😋. Definitely one of if not the best Mexican joint around!…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2Z0xlQVV3EAE",
+            "text": "Very good food nice lowkey spot a most go back to ..nice lit in and out food..good place if your on a diet"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLdXRtMjJnRRAB",
+            "text": "Nice birria tacos, good tortas, think this might be my favourite mexican food in the area. The steak cemita is a thing of beauty."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtc3IyY19nRRAB",
+            "text": "Amazing fish and shrimp tacos. Easily the best I’ve had in NYC so far. Each taco was fresh and filled with so much flavor. Between the tortillas, they had mozzarella cheese which was a nice touch. I’d for sure be back for more."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLMzlmaFhBEAE",
+            "text": "Stumbled upon this place and I’m SO glad.\nThe birria tacos and consommé were 🤤\nFriendly staff too.…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2bUtmMU1BEAE",
+            "text": "Tacos are amazing, their tortilla are fresh off the grill with the perfect little crunch on the edges when you bite. Birria to die for, so much flavor and perfectly cooked, tender. Corn esquites in a cup is so fresh and has a nice charred…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPZzczcGx3RRAB",
+            "text": "Great food and great prices, will be back!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhejhLNzFRRRAB",
+            "text": "I had a last minute small gathering order and they were super helpful in ensuring my order would be ready the next day! The food was so tasty and well seasoned! all of my guests were so impressed as these were the best tacos we’ve had! Highly recommended!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLaGVuZ1BBEAE",
+            "text": "Amazinggg. My friend and I decided that we wanted to try tacos one day, so we came here. Best decision we made. I got the birria tacos and al pastor. I do not have photos of those but I came here today to get some more tacos and they were delicious. 10/10 would recommend. The owner was also very kind and friendly."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5eXNxcXF3RRAB",
+            "text": "Such good Mexican food! I lived in Mexico for years and my husband is from there so we're always looking for authentic places and they can be pretty hard to find in New York. Everything we've tried here has been great (chilaquiles!!) but…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5X2RUUVN3EAE",
+            "text": "I never write reviews unless I believe the food and service is a true 10/10. This is one of my new favorite places in the neighborhood. Amazing food, large portions, and super friendly staff :D Definitely go here!! I’ve tried their chorizo, birria, and bistec tacos—all were amazing."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5c2VqekRBEAE",
+            "text": "I just moved to Brooklyn from the Mission in SF, a neighborhood specifically known for their taquerias. I tried looking for something of the same quality here with no success until I discovered Jauja.\n\nThis place is the best burrito and taco spot I’ve had since moving. I highly recommend it."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtaWF6WnpRRRAB",
+            "text": "Basic Mexican food. Menu never changes. Most dishes served with boring black beans and white rice. Owner no a very good business man. Last time I ask if I can buy an extra stuffed poblano pepper and he refused to sell it to me. He wanted me to place another order."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5b3VPbWNnEAE",
+            "text": "Wow!!! My roommate and I have been searching for authentic Mexican food (we’re from the west coast so we have high standards)…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoeWQtTVpBEAE",
+            "text": "The food wasn’t great, but it wasn’t awful. I definitely think it was overpriced for what it was, which is why I gave it 2 stars instead of 3. We were deterred from ordering more items because the prices were a bit high ($12.50 for chips and guacamole??). Probably won’t go again."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5b3VPWGt3RRAB",
+            "text": "Hands down best Mexican food on flatbush. I’m from Tucson Arizona and have been looking for food that reminds me of home and you guys exceeded my expectations. Rice and beans , tacos and enchiladas were amazing and I can’t wait to come back for more !"
+        }
+    ],
+    "reviews_count": 70
+}

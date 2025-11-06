@@ -1,0 +1,482 @@
+[
+    {
+        "name": "Aromi",
+        "address": "552 Court St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJNfj_HvRbwokRe5uCgeIzrf4",
+        "rating": 4.9,
+        "user_ratings_total": 584,
+        "phone_number": "(347) 529-5752"
+    },
+    {
+        "name": "Black Oak on Fifth",
+        "address": "200 5th Ave, Brooklyn, NY 11217, USA",
+        "place_id": "ChIJrxuNPgpbwokR96B6j7XvYh8",
+        "rating": 4.5,
+        "user_ratings_total": 255,
+        "phone_number": "(347) 599-0491"
+    },
+    {
+        "name": "The Common Park Slope",
+        "address": "548 4th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJR-zfafZbwokR3jOrzYj-8gU",
+        "rating": 4.7,
+        "user_ratings_total": 227,
+        "phone_number": "(718) 971-9580"
+    },
+    {
+        "name": "Le Fleur Rouge | Creative Chinese-French Dining in Park Slope",
+        "address": "392 5th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJicP02PFbwokR4AqslSztaDs",
+        "rating": 4.6,
+        "user_ratings_total": 184,
+        "phone_number": "(718) 534-0110"
+    },
+    {
+        "name": "Stone Park Cafe",
+        "address": "324 5th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJF6deL_5awokRh2ohKTMG2HE",
+        "rating": 4.5,
+        "user_ratings_total": 901,
+        "phone_number": "(718) 369-0082"
+    },
+    {
+        "name": "Terrace Restaurant & Bakery",
+        "address": "280 5th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJD1RILYNbwokR7YX0yLFLlpQ",
+        "rating": 4.8,
+        "user_ratings_total": 739,
+        "phone_number": "(929) 624-2646"
+    },
+    {
+        "name": "Scottadito Osteria Toscana",
+        "address": "788A Union St, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJQXPSUAdbwokR0zX-AI0TuBw",
+        "rating": 4.6,
+        "user_ratings_total": 1080,
+        "phone_number": "(718) 636-4800"
+    },
+    {
+        "name": "Piccoli Trattoria",
+        "address": "522 6th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJjQi6GeNawokRjUBOUzfGGCk",
+        "rating": 4.6,
+        "user_ratings_total": 677,
+        "phone_number": "(718) 788-0066"
+    },
+    {
+        "name": "Pasta Louise Restaurant",
+        "address": "1114 8th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJL3A6GhNbwokRqLfp_VxiKUw",
+        "rating": 4.4,
+        "user_ratings_total": 709,
+        "phone_number": "(347) 725-3883"
+    },
+    {
+        "name": "Luana's Tavern",
+        "address": "449 Court St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJqwd2aGlbwokRjotGcADIRFE",
+        "rating": 4.6,
+        "user_ratings_total": 221,
+        "phone_number": "(929) 298-0321"
+    },
+    {
+        "name": "Café Mars",
+        "address": "272 3rd Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJk6_emFpbwokReeza0hzar2c",
+        "rating": 4.6,
+        "user_ratings_total": 155,
+        "phone_number": "(347) 987-4225"
+    },
+    {
+        "name": "Flatiron Steakhouse - Park Slope",
+        "address": "397 5th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJxzcBM6dbwokRiFKcy7YgCuk",
+        "rating": 4.6,
+        "user_ratings_total": 236,
+        "phone_number": "(718) 965-4000"
+    },
+    {
+        "name": "Lemongrass Brooklyn",
+        "address": "156 Court St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJP1sRv09awokRDPi8okFBDOM",
+        "rating": 4.6,
+        "user_ratings_total": 3639,
+        "phone_number": "(718) 522-9728"
+    },
+    {
+        "name": "Frankies 457 Spuntino",
+        "address": "457 Court St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJm7uvMfZawokRNR0XRCotzWY",
+        "rating": 4.5,
+        "user_ratings_total": 1419,
+        "phone_number": "(718) 403-0033"
+    },
+    {
+        "name": "6 Restaurant - NYC",
+        "address": "481 Court St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJDfRavFtbwokRijMBw1NobfM",
+        "rating": 4.9,
+        "user_ratings_total": 75,
+        "phone_number": "(718) 766-1112"
+    },
+    {
+        "name": "Levant on Smith",
+        "address": "223 Smith St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJQeCPaFRbwokRXIJeDP_gwUg",
+        "rating": 4.6,
+        "user_ratings_total": 417,
+        "phone_number": "(347) 689-3694"
+    },
+    {
+        "name": "Chela",
+        "address": "408 5th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJ3Vkgyv1awokRa95N29fo1DY",
+        "rating": 4.6,
+        "user_ratings_total": 1347,
+        "phone_number": "(718) 701-1891"
+    },
+    {
+        "name": "Gersi Restaurant Brooklyn",
+        "address": "316 Court St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJtYepGlpawokRWA-rkbFEHSg",
+        "rating": 4.5,
+        "user_ratings_total": 593,
+        "phone_number": "(347) 889-5077"
+    },
+    {
+        "name": "al di là Trattoria",
+        "address": "248 5th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJpcjScgBbwokR8tFzxMCfFqM",
+        "rating": 4.5,
+        "user_ratings_total": 1048,
+        "phone_number": "(718) 783-4565"
+    },
+    {
+        "name": "Provini",
+        "address": "1302 8th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJ4VBHoB1bwokRs_4cudpKjpY",
+        "rating": 4.5,
+        "user_ratings_total": 408,
+        "phone_number": "(718) 369-2154"
+    },
+    {
+        "name": "Palo Santo",
+        "address": "652 Union St, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJYZfAu6pbwokRiqt0jqEm3Ng",
+        "rating": 4.6,
+        "user_ratings_total": 720,
+        "phone_number": "(718) 636-6311"
+    },
+    {
+        "name": "Miriam Restaurant",
+        "address": "79 5th Ave, Brooklyn, NY 11217, USA",
+        "place_id": "ChIJ_yaCB6xbwokRzsbqAJUYxpY",
+        "rating": 4.4,
+        "user_ratings_total": 2196,
+        "phone_number": "(718) 622-2250"
+    },
+    {
+        "name": "Terre| Pasta & Natural wine",
+        "address": "341 5th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJAQBkGv5awokRLBtMzvEyPys",
+        "rating": 4.6,
+        "user_ratings_total": 638,
+        "phone_number": "(718) 788-2285"
+    },
+    {
+        "name": "532 Court Restaurant",
+        "address": "532 Court St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJSXQReQBbwokRbzIeatw7qyc",
+        "rating": 5,
+        "user_ratings_total": 18,
+        "phone_number": "(347) 844-4648"
+    },
+    {
+        "name": "Marco Polo",
+        "address": "345 Court St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJMQaH8VlawokRbgV_LdYg6Yk",
+        "rating": 4.6,
+        "user_ratings_total": 648,
+        "phone_number": "(718) 852-5015"
+    },
+    {
+        "name": "Cremini's",
+        "address": "521 Court St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJc752HKFbwokRACCC8-zc3lg",
+        "rating": 4.9,
+        "user_ratings_total": 378,
+        "phone_number": "(929) 305-2967"
+    },
+    {
+        "name": "Da Nonna Rosa Restaurant & Pizzeria",
+        "address": "140 7th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJl6FlKQdbwokR_kzrYgx6HCE",
+        "rating": 4.5,
+        "user_ratings_total": 947,
+        "phone_number": "(718) 788-6225"
+    },
+    {
+        "name": "Cafe Spaghetti",
+        "address": "126 Union St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJYbpEwr5bwokR46uCQtL8Kmg",
+        "rating": 4.7,
+        "user_ratings_total": 545,
+        "phone_number": "(718) 207-6084"
+    },
+    {
+        "name": "Hilltop Tavern Brooklyn",
+        "address": "256 Prospect Park W, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJ1ZTytNFbwokR8Gs-d_gVW-M",
+        "rating": 4.4,
+        "user_ratings_total": 76,
+        "phone_number": "(718) 788-7800"
+    },
+    {
+        "name": "Mariella",
+        "address": "492 6th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJUwMg1OJawokRo8LuRuIah0Q",
+        "rating": 4.6,
+        "user_ratings_total": 519,
+        "phone_number": "(718) 499-2132"
+    },
+    {
+        "name": "Verde on Smith",
+        "address": "216 Smith St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJv9sG_FBawokRla6TIaJSNM4",
+        "rating": 4.5,
+        "user_ratings_total": 1391,
+        "phone_number": "(718) 222-1525"
+    },
+    {
+        "name": "Krupa Grocery",
+        "address": "231 Prospect Park W, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJDXCWZh5bwokROj_-7EfM3NI",
+        "rating": 4.6,
+        "user_ratings_total": 876,
+        "phone_number": "(718) 709-7098"
+    },
+    {
+        "name": "Fausto",
+        "address": "348 Flatbush Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJh0UvcqhbwokRSLfJGK9kNDg",
+        "rating": 4.5,
+        "user_ratings_total": 609,
+        "phone_number": "(917) 909-1427"
+    },
+    {
+        "name": "Convivium Osteria",
+        "address": "68 5th Ave, Brooklyn, NY 11217, USA",
+        "place_id": "ChIJTy7DG6xbwokRyIA78PxUDsk",
+        "rating": 4.2,
+        "user_ratings_total": 592,
+        "phone_number": "(718) 857-1833"
+    },
+    {
+        "name": "Flora",
+        "address": "1021 8th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJmSW13xxbwokRBtzKoZS_4t8",
+        "rating": 4.6,
+        "user_ratings_total": 289,
+        "phone_number": "(347) 844-9480"
+    },
+    {
+        "name": "One More Charm Thai Restaurant",
+        "address": "236 7th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJd2hGCblbwokRLqSabtvsuqE",
+        "rating": 4.8,
+        "user_ratings_total": 1406,
+        "phone_number": "(929) 250-2052"
+    },
+    {
+        "name": "South Slope Restaurant & Bar",
+        "address": "486 5th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJBe3zvvxawokRsofldJ383uU",
+        "rating": 4.4,
+        "user_ratings_total": 379,
+        "phone_number": "(718) 499-0005"
+    },
+    {
+        "name": "Patsy’s Pizzeria",
+        "address": "450 Dean St, Brooklyn, NY 11217, USA",
+        "place_id": "ChIJw1fUka5bwokRCj8l0DgopDY",
+        "rating": 4.4,
+        "user_ratings_total": 923,
+        "phone_number": "(718) 622-2268"
+    },
+    {
+        "name": "Boran",
+        "address": "462 Court St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJ__8-glhawokRIO4EVluMr6s",
+        "rating": 4.5,
+        "user_ratings_total": 483,
+        "phone_number": "(929) 298-0022"
+    },
+    {
+        "name": "La Villa Pizzeria",
+        "address": "261 5th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJyXI4PwBbwokRHipo5L9uCHc",
+        "rating": 4.6,
+        "user_ratings_total": 1549,
+        "phone_number": "(718) 499-9888"
+    },
+    {
+        "name": "Swoony's",
+        "address": "215 Columbia St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJhzICb2NbwokR82d76MPpbBs",
+        "rating": 4.7,
+        "user_ratings_total": 208,
+        "phone_number": "(718) 207-3686"
+    },
+    {
+        "name": "Gus's",
+        "address": "215 Union St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJTb3cUH1bwokRqVj5vctMMXs",
+        "rating": 4.5,
+        "user_ratings_total": 146,
+        "phone_number": "(929) 724-7621"
+    },
+    {
+        "name": "Charm Bar & Restaurant",
+        "address": "448 Dean St, Brooklyn, NY 11217, USA",
+        "place_id": "ChIJgRd23gFbwokRFaACKwWIF7E",
+        "rating": 4.7,
+        "user_ratings_total": 3311,
+        "phone_number": "(347) 799-2345"
+    },
+    {
+        "name": "Bar San Miguel - Carroll Gardens",
+        "address": "307 Smith St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJB7DcQldawokRn0ot1gyAk9c",
+        "rating": 4.6,
+        "user_ratings_total": 451,
+        "phone_number": "(718) 576-3852"
+    },
+    {
+        "name": "Brooklyn DOP",
+        "address": "237 5th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJnX_OINlbwokR8DEjtfXUSQY",
+        "rating": 4.5,
+        "user_ratings_total": 458,
+        "phone_number": "(347) 599-1913"
+    },
+    {
+        "name": "Mockingbird",
+        "address": "213 7th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJ7wYurJJbwokRWyU3U8SsuHM",
+        "rating": 4.7,
+        "user_ratings_total": 40,
+        "phone_number": "(347) 687-0087"
+    },
+    {
+        "name": "Shan",
+        "address": "191 Smith St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJG8MBdtNbwokRxOR3oVutbPE",
+        "rating": 4.6,
+        "user_ratings_total": 465,
+        "phone_number": "(347) 294-4660"
+    },
+    {
+        "name": "Masalawala & Sons",
+        "address": "365 5th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJHYhISIVbwokRNcIdAD0mKjQ",
+        "rating": 4.5,
+        "user_ratings_total": 1093,
+        "phone_number": null
+    },
+    {
+        "name": "Fragole",
+        "address": "394 Court St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJb1KxsVlawokRdYrhlC_2ryI",
+        "rating": 4.5,
+        "user_ratings_total": 434,
+        "phone_number": "(718) 522-7133"
+    },
+    {
+        "name": "SottoVoce",
+        "address": "225 7th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJ0Ugi3QNbwokRb7buk0GpqzU",
+        "rating": 4.5,
+        "user_ratings_total": 558,
+        "phone_number": "(718) 369-9322"
+    },
+    {
+        "name": "Sisters",
+        "address": "900 Fulton St, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJi73FVqNbwokRZ4KIqLtNoFw",
+        "rating": 4.3,
+        "user_ratings_total": 1500,
+        "phone_number": "(347) 763-2537"
+    },
+    {
+        "name": "Sandwich Girl Cafe",
+        "address": "339 7th St, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJGWXdSAGNwokRS4_XZ-2r0rg",
+        "rating": 4.9,
+        "user_ratings_total": 362,
+        "phone_number": "(347) 422-0139"
+    },
+    {
+        "name": "Brooklyn Bread Cafe",
+        "address": "347 7th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJmZVVXNlbwokRgSkZZooZkBw",
+        "rating": 4.4,
+        "user_ratings_total": 228,
+        "phone_number": "(929) 491-0700"
+    },
+    {
+        "name": "Piccola Cucina Casa",
+        "address": "141 Nevins St, Brooklyn, NY 11217, USA",
+        "place_id": "ChIJCy6Gv01bwokR8yZSWy2D8BY",
+        "rating": 4.8,
+        "user_ratings_total": 318,
+        "phone_number": "(929) 295-0015"
+    },
+    {
+        "name": "Runner Up",
+        "address": "367 7th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJa7TQMZFbwokRjivvo3SFNDQ",
+        "rating": 4.6,
+        "user_ratings_total": 100,
+        "phone_number": null
+    },
+    {
+        "name": "The Grape Leaf",
+        "address": "404 Court St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJqUYlbT5bwokRMjO6K9L-Dlc",
+        "rating": 4.8,
+        "user_ratings_total": 137,
+        "phone_number": "(718) 534-0631"
+    },
+    {
+        "name": "Noodle Lane",
+        "address": "230 7th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJwwTn2ftbwokRNOluIoXdPNE",
+        "rating": 4.6,
+        "user_ratings_total": 222,
+        "phone_number": "(347) 599-2009"
+    },
+    {
+        "name": "Vinny's of Carroll Gardens",
+        "address": "295 Smith St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJwcrFSFdawokR0u_-xs509gs",
+        "rating": 4.5,
+        "user_ratings_total": 805,
+        "phone_number": "(718) 875-5600"
+    },
+    {
+        "name": "BIGTINY",
+        "address": "244 Smith St, Brooklyn, NY 11231, USA",
+        "place_id": "ChIJeTg3wlBawokRJ4iUc-glO4g",
+        "rating": 4.7,
+        "user_ratings_total": 332,
+        "phone_number": "(347) 689-4658"
+    },
+    {
+        "name": "Fonda",
+        "address": "434 7th Ave, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJYQSLXuJawokR-7ax6J_p62g",
+        "rating": 4.4,
+        "user_ratings_total": 960,
+        "phone_number": "(718) 369-3144"
+    }
+]

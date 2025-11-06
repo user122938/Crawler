@@ -1,0 +1,502 @@
+{
+    "name": "MáLà Project Greenpoint",
+    "place_id": "ChIJlc0Qm1xZwokRREsqzm8pGg0",
+    "grid": "BK1",
+    "address": "603 Manhattan Ave, Brooklyn, NY 11222, USA",
+    "rating": 4.5,
+    "user_ratings_total": 250,
+    "phone_number": "(718) 500-3881",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CNVl6ZDJUVjlpYjBsdlMyOWtjekJsZDNSclJXYxAB",
+            "text": "We found hair in our delivery order. Food was great otherwise. Will never eat here again, this was disgusting"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toMU4wSmZPRFZ4VERKWlJEbDZTV3B6UzBoTmIyYxAB",
+            "text": "The food is phenomenal and so are the ambience and the service! I love to come here for the dry pot. I wish they still sold Chinese baijiu! It’s a perfect pairing with the spicy Szechuan flavors :)"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poRk4yMWFhMG94U1U1UFkxWnFTRUZ3T1d0d2JGRRAB",
+            "text": "Food are delicious but the service is very bad..I have been ordered food so many times and anytime I pick up  the food, the staffs were treated me like I have been asking them free food..very bad attitude... Not even say Thanks...I ordered the food for this store because the food is delicious but service always dissatisfied..they need to improve the service..."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWV1VsQkVXSEJ5UlRsd1JDMUJSWGxrWkhGcGJGRRAB",
+            "text": "Ryan took great care of us. Would highly recommend!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxdk0zRlRha3BaWjNObVNrWjJZVkl0V25od2RXYxAB",
+            "text": "For a flavorful and affordable meal, try their Chinese cuisine, and don't miss the exceptional service from staff like Sofia, who creates a welcoming atmosphere and takes the time to explain the dishes and get to know customers. You'll even get a glimpse into the kitchen and meet the cooks. This place is definitely worth checking out. (POSITIVE VIBES ONLY!!!!)"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWeE5rWlJhMlpaT1hsbWNVMUVTV3BzY1VobWJYYxAB",
+            "text": "I loved the house fried noodles, and the “No Going Back” cocktail was amazing! Had such a great experience with Sofía"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twdmFUTXphVzlGYVdKeWJFWlNNMVk1VVRaTllVRRAB",
+            "text": "We arrived just minutes before the end of Happy Hour, but our server, Ava, didn't hesitate to make sure we squeezed in our orders. We got the scallion pancakes, leftover fried rice, and sirloin steak with broccoli, and the food was easily 10/10. The drinks were fantastic, too. I loved the Dr. Yīshēng cocktail even more than the already-improved lychee martini. I absolutely need to come back to try more of the menu!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twUGNqZEdXRVJtWW1VMFJVaFhWa1JNZDB4Uk1FRRAB",
+            "text": "Sooooooo good - appetizers were amazing, food was 11/10, vibe was just as good as the food. Sofia the server was great!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OM2VqRk1YMVIxWnkxT1MyTjZPSGhEWm04MGNFRRAB",
+            "text": "I went here a couple of days ago,  and the drinks where incredible it was a wonderful day, with the nicest, Efficient and Diligent server Sofia thank u so much for the recommendations…"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1NGFGVXlZa2xGUTJrM1ZYWldabEIzUTNOMmJWRRAB",
+            "text": "Really good food and really good service .  Staff is so nice and welcoming . Will definitely be back again ."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSSmJsVXRVRWRxTjFwalpVWmZUMUJ3YkdwdkxXYxAB",
+            "text": "Was my first time in NY and Im really pleased not just for the food but for the amazing service that Sofia delivered. Friendly, welcome and warming. Definitly gonna come here again on my next visit!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21keFVtNHRiREEyVGxOaGRWOWZSRWxwTjBocGNsRRAB",
+            "text": "food and service were amazing. Sofia is the best!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kQmFVVlNaM28yVkhRNFJIRmlkMEZYVGpoaVMxRRAB",
+            "text": "Ordering Mala Project to eat in while sinking into my couch has long been a favorite Friday night past time of mine. Finally got a chance to visit in person and the vibes were even more succulent than the beef tendon in their dry pot. Sofia and José were amazing and chill as hell."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBMVNXRklVa0pzZG1WR2FHRXRNV3h3VWpkM09FRRAB",
+            "text": "We had a great time here! Delicious dry pot that never disappoints. Very cute interior, fast and attentive service. Sofia and Jose were so fun to chat with."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5VFpGQnBaRVZNZEd4eWJXUm5kbmRLVDA1V1ozYxAB",
+            "text": "This place literally amazing like the music and the vibes are so beautiful. Excellent service from Sophia Tatianna and Jose and definitely will be coming back. The food was so good aka the house fried noodles. I felt at home here but like even better than what I know home is"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Wd2JtNXRYMDVDVjFSMlEzRkRkalpaVURVNVNsRRAB",
+            "text": "This food is genuinely the best food I have ever tasted. It’s like I was transported straight to the Szechuan  Province.  The only thing greater than the food was rhe service! Thank you to Tatiana, Sophia, and Jose! Highly recommend the hot and sour soup paired with a Tsingtao!!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZNGFWb3hUVGd3WlVsdWN5MXhZek5OUm1VMVpWRRAB",
+            "text": "Sister… the food, ovah. the service, ovah. the spice levels, not for the faint hearted. 10/10. Sofia, Tatiana, Jose deserve a raise."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214WmN6TjRORlZEU0hoa1MzRXhhMjEzUVdsblVYYxAB",
+            "text": "The food and service was amazing! Sofia l, Tatiana and Jose were amazing. The entire staff was incredibly friendly and the food was incredible"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoa2FuY3pPSGw1UjJkUlNGRTNTV3RmV1hoSFRVRRAB",
+            "text": "So delicious!! Best staff, amazing chefs, we love!!! Sophia, Tatiana, and Jose, THANK YOUUUUUUU"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oS05rbHVNVUZ5WTJWT1F6Uk1aME5GVVhkVE5VRRAB",
+            "text": "Anytime my friends and I go out to eat, someone in the chat brings up Mala Project and we end up there in Greenpoint every single time!\n\nIt’s our absolute favorite restaurant in New York. The food is amazing and we love that you can choose your spice level and cater to so many dietary restrictions, so our vegetarian friends can make their own amazing drypot. Love the scallion pancakes and the “little spicy” sauce- so good with the fish filet and boy choi! The seaweed fish fritters are also so crispy and delicious. The cocktails are a great addition to balance out the meal.\n\nI’ve never had anything there I didn’t like there. Highly recommend going for a birthday, since they have a delicious birthday treat.\n\nIt’s also a beautifully decorated space that is bigger than you think- check out the back room. Make sure to take a pic in the old-school black and white Photo Booth too!\n\nThe service is so friendly and the staff genuinely treat you like old friends- shoutout to Ryan and Sofia for being so amazing! We love Mala Project <3"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOWll5MDFUemRZY21aUFoxSjNZbWhwT0RkeVRXYxAB",
+            "text": "Sofia was excellent!!! I am in awe at how good this food was. Literally insane. Already added to my list of places to bring visitors! We got the dry pot (pork belly, chicken thigh) scallion pancake and cucumbers !"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJME1pMTRjSE5UTlVkVWVtMUxjM3BmWmsxT2VWRRAB",
+            "text": "Sofia was amazing! Great food and service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTlYxVlBNV1F0VkhCVlEzUXRhblJHY21FNFVVRRAB",
+            "text": "One of the best meals you can get consistently. Sofia was great!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xObldHRnJSbHBpVkdOdk1qRnBjVGx0T1Zkd05WRRAB",
+            "text": "The dry pot is authentic, flavorful, and simply delicious. The team at Málà is welcoming and attentive, and Sofía’s service in particular was outstanding. The ambiance of the restaurant is also very inviting.😮‍💨"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGR01ETkJRV3B3YzNCcVNteHNVV0ZrTXpFemQyYxAB",
+            "text": "Love this place !! Amazing atmosphere the most delicious food I loved the drinks as well they were perfect ! I loved the people there as well especially Sofia !! She was so amazing kind and super enthusiastic I think she’s amazing !!! She has the most uplifting and memorable energy ever she is the best !!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4M2VWaGZiMmhyYTFSSmRXWlJXVlk0YWswMVlVRRAB",
+            "text": "Ava was our server for the night. Wow, I am without words. Superb service that surpassed my expectations. Will be back, will bring friends."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFd1RrSlBZMU41VlcwMVFXbFdSbTVoVUdGaFRuYxAB",
+            "text": "I love this place so much. Goated Greenpoint establishment. Fire staff fire decor. The dry pot hits diffy. Getting the waffle fries next time."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CSFlXZzFURGd4YW1WdVJtaDZORWRNTUZRNU1WRRAB",
+            "text": "10/10 as always. Love the Greenpoint location. The staff are so cool and kind and the dishes never fail to leave me wanting to come back for me. The fried noodles are my favorite!! This is your sign to go."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SU05HMDRVbTkwTkZOd1IyaHllR2d0Ym1Gd01WRRAB",
+            "text": "Sofia rocks! best server ever!!!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NmVIazRXRzFRWVdzNU1sVXlZeTA1YVRaQ1kxRRAB",
+            "text": "Sofia was great and food was delicious"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4dE5sUTBObFJaWVRWbldHWjFaMWRoTkhkMlJYYxAB",
+            "text": "Phenomenal dry pot that’s actually spicy!! Sofia was great to us. Excited to come back"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGVFIwRnVjM1UzYzFkUWJ6ZDRXalZTZUhabFRWRRAB",
+            "text": "great food, sofia is the best"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25semJFMUtOakZTY0RkMVV6RTViblY0UVhkb1kyYxAB",
+            "text": "Super cute and cozy spot! Perfect for solo dining or small group. I tried the Dan Dan noodle, ma po tofu, scallion pancake. Everything was delicious and flavorful! Spice level was good too. The quantity is a lot. They also have a cute Photo Booth"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JeE1HZFhRMWh2VDFaR1R6UjZkMlYyV0U0NGIxRRAB",
+            "text": "One of my favorite restaurants. The ambiance is always great and the Dry Pots are phenomenal. One day I will work up to the extra spicy."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1ekxYaE5aMW80UjNaTlptWXdNbHBDZEhNM1JFRRAB",
+            "text": "The food was great. Jose Miguel was the best server ever!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2todWEyRTFSM3BXZW1ka1QyUmlTR1Z2TldreVUwRRAB",
+            "text": "Jose was a great server who gave us great recommendations for the pork belly in the dry pot! He was quick and attentive and very friendly! The dry pot with two meats, two veggies, and fried rice was the perfect amount for two people. Def coming back!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OMk1IaHNSV2RPV1RNdFZqaEViVzVQUVZOUFZWRRAB",
+            "text": "sofia was the sweetest and gave great food recommendations. delicious !"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OTFltVTBjMXBsYUVZek4yMTJja3hvWW1OWVNYYxAB",
+            "text": "Went here on a date and was served by just the sweetest and most helpful woman named Sophie!!! She had great recommendations for us and made the experience wonderful! I heavily recommend"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoWFdHRXhkRFZzYVRWR09URnVTSHBrTVd4WlUwRRAB",
+            "text": "The staff are all walking red flags but that’s exactly why they are the best :) Vibes were on point, food was the best, it was a good time. This is my regular spot, always come here."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25acVp6SkJRelJ5Yms1WVdYUjJabXAxUkc1RmJYYxAB",
+            "text": "Always a favourite, my go to in NYC. Also Jose came with an extra pair of chopsticks the second we dropped a pair I didn’t even realize what happened yet and he came up with a new pair I have never seen someone move that fast before. So impressed"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kdmNXMVBjbEJwWkVRNFMzSXdWV2xtU1hkdVJGRRAB",
+            "text": "The service and food was amazing, Jose brought me a change of pair chopsticks half a second hafter i dropped it because he heard the sound of the chopsticks drop on the floor."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poeVlVUlFOR1kzU1Vod1NrTmlaR3RuV1ZnMWVVRRAB",
+            "text": "Delicious as always. On the pricier side, but you can't go wrong here."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVk4zaGZOUzFuYWpaalptNUhja1JEUm5Ga1NGRRAB",
+            "text": "We order 4 things for take away and they were all delish!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoTVRrWlJibHBTUWprMVNtZHhXakJsV0dOQ1YxRRAB",
+            "text": "They have to be more polite\nEmployees don't respect the customer\nWhich is very sad"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SdVVuaDRWWHBaUTFSMFZtdEJkRzlhUkVSV1owRRAB",
+            "text": "I had an excellent experience from the service to comfort, stopped in on a humble just a spur of the moment. Food was delicious 😋  hadn’t had duck in a while also wanted something different than my regular choices of food .\nLet me tell you … the Duck Salad was EVERYTHING ! Tore it up no dressing just the juices from the duck - clean dish. 😋 Taste and satisfaction on a plate. I’ve been thinking about it ever since.. I will return and I truly recommend trying."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWRmQwcEdUR2x5ZHpOcFpscFpVRkY1VG01SVNVRRAB",
+            "text": "Never actually ate here but I get take out ALL the time. The lunch special pricing is amazing. The value is SO GOOD. And the dry pot is always perfectly cooked and delicious. The least spicy has a really good balance of spice and flavor. If you like it spicier, the regular spicy is quite a bit hotter, but still very flavorful. The soy ginger is OK, I think you need it to be spicy to be tasty."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaYWQxZExTMUJpTTNOMFIxWmtPVUkzVlU1UlkyYxAB",
+            "text": "Had some friends in town, so wanted to check out this spot. It’s a really chill spot, the food was good and came out quick. Staff was super chill! Everything was amazing! Will be back"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVVRUZENValpoYTBwWlRrVnlja3hzT0dkSWRuYxAB",
+            "text": "Food and service were amazing! For those who like spicy, level 3 was sufficient to enjoy the dry pot with nice heat. Would def recommend getting a few apps as well!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aMlZqWjRNRVozV0RKQlNrdzVRblZUWmtGemRGRRAB",
+            "text": "$18 mapo tofu and $22 fried chicken AND NO WHITE RICE WITH EITHER MEALS?!!!! 👎🏽…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OUU5EaFhNek5WYVRWMlQzbElWRm80VGxKb2VrRRAB",
+            "text": "We were told due to the language barrier between our server and the kitchen she couldn’t find out if we could get parts of dishes on the side. Found this really odd and a bit concerning for anyone with allergies or dietary needs."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNlUwODJNVFZHWjFoMlYxYzNkVlZpZDNwRFNuYxAB",
+            "text": "Super cute place! The atmosphere was really nice and there was a photo booth in the bar/dining area. The servers were also really attentive.\n\nFood was good and very flavorful! I don't normally eat spicy food, but the Little Spicy (2nd level of spice) was good for me. The dry pot pairs well with rice or noodles so I would recommend getting it together. The scallion pancakes were also super crispy and the sauce was good! The mala dry pot was enough for 2 people (+ takeout). Overall, a great meal and I would recommend for a yummy and filling dinner."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3dzUzSmRBEAE",
+            "text": "Missed the mark, I came here with my family after seeing it plastered all over social media and it was not the experience we were expecting.\n\nFrom the moment we walked in, the girl at the front informed us she needed the table in an hour and a half because we didn't reserve, but on their own website and on Resy, their reservations for this evening were completely open.\n\nWe came as a family outing but it was very undesirable, even the waiter? (Maybe?) And the same host wouldn't stop coming to the table like they were trying to hurry us to order to get in and out.\n\nI won't be back to this location based on this experience. We ordered drinks and Duck Tacos to go because it was just not the welcoming vibe we were hoping for especially when we eat Dry Pot in Flushing all the time.\n\nThe Duck Tacos took a bit which is fine as I saw tons of Togo orders going by.  They tasted okay but they were also cold? My only intuition is they tried to westernize a Bao. So now I don't know why we waited so long for them.\n\nMaybe it's better to order out than visit this particular location of the chain. Your mileage may vary, it wasn't for us."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNweXRGaxAB",
+            "text": "The service was great, and the atmosphere was a Brooklyn vibe. However, I was a not blown away with the food. The dumplings had thick dough that overpowered the filling, and the house noodles had very little meat included. The duck tacos…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYa3BmYTZBRRAB",
+            "text": "Vibrant and cozy interior with delicious food. My friends and I shared a dry pot which was great. However the tastiest dishes in my opinion were the cold noodle salad (spicy) steamed beef dumplings and the scallion pancakes."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsamZxRzdRRRAB",
+            "text": "Have you ever ate at a place and enjoyed the full flavor of every dish that you tasted? Well this place was wonderful. Each dish was unique and so flavorful. I loved the soup, fried rice, and fish. We made our own drypot too. The mixed drink I got was tasty. And they have a happy hour until 7pm, with $3 off. The staff was friendly and helpful. And the place was not to busy.  I hope to visit again soon."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1bzlqdm9RRRAB",
+            "text": "Fell in love with Dry pot my last trip that during this past weekend when visiting NY, I ate dinner there two days in a row.  I am obsessed with the great taste.  The staff is amazing!  Shout out to Ben and Ryan....they are great.  I hope they expand to the West Palm Beach area soon."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNadGNMWUxBEAE",
+            "text": "I loved the place. Please know that the acoustic is very loud in the back room. The front room is quieter. Book accordingly. The food is nice, a bit spicy. Ask for mild in case you're sensitive. Service is nice and the decor is lovely."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYbUp5NkhREAE",
+            "text": "Delicious Szechuan (spicy and numbing) food! I always love this restaurant since the flavors are spot on and the dry pot items are full of veggies.\n\nThe prices are a bit steep! I had to downsize my day pot to 4 items so it wouldn’t be crazy expensive. Tip 1: if you use Instacart+, there might be deals! I got $15 off $35 (before taxes). Tip 2: the lunch menu saves a ton of money! Go there 12-4pm and save!\n\n12-4pm lunch specials on food! Dry pot items are about half their usual price!\n\n4:30-7pm(?) happy hours on 3 cocktails, wine and beer."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJZU44TXowb3E2Nl9RRRAB",
+            "text": "For starters, I love this restaurant l, I have been here to dine in at least 10 times in the last 2 years.\n\nThe food: I am a vegetarian, but I also have a broad palette and appreciation for spice. Mala delivers on both fronts!!! This place has sooo many vegetarian options and most dishes are customizable to accommodate dietary needs. I’ve pretty much tried every veg option on the menu. I LOVE THE DRY POTS!!!! Honestly, the amount of vegetarian ingredients I can choose from is overwhelming sometimes, in a good way!! I never get the same pot twice, but they have soo many delicious ingredients to choose from such as many types of mushrooms, greens, tofu, noodles etc!! And regardless of the mix it’s alwaysssss delicious. Personally I love the “little spice” (actually kind of spicy) option (like a medium) but every level has its own delicious merit depending on your vibe. (Don’t let this deter you if you don’t like spicy food- just order the “ginger” sauce and def tell the server if you don’t do spicy)\nDry pots are definitely shareable too, as you can include as many ingredients as you want and share amongst a group! (They have a ton of carnivorous proteins that I can’t speak upon but friends always love!)\nAlso, get the pickled veggies for apps and herbal jellies for dessert. Not even kidding I was super skeptical of both but once I tried them they instantly became favorites/staples for me.\nThe staff is also superrrr helpful and knowledgeable/accommodating with any questions you might have!\n\nThe staff though truly deserves a gold star. I came in tonight and Amari, Ryan and Ava were working. They took care of my large group without a hesitation. Drinks, including several different cocktails were made promptly and DELICIOUSLY, served while we were waiting for our food to come out so we had time to enjoy them while we waited. Amari was so sweet and on top of her game, taking several drink orders at a time and serving them quickly. Ryan was also on the ball ensuring our food was delivered promptly and piping hot out of the kitchen! If the food wasn’t enough, the staff here will always keep me coming back with their friendliness, hospitality and warmth, making this feel like a true neighborhood gem.\n\nTLDR: Go to MáLà Project, try everything on the menu, and strike up a conversation with the staff. You won’t regret it."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1NnBiNDd3RRAB",
+            "text": "Amazing staff. Always welcoming and a great atmosphere. Food is always super fresh and comes out perfectly. Fun drink menu with non alcoholic options. Highly recommend the popcorn chicken and the dry pot. Definitely save some room for unique modern twists on traditional Asian desserts. My go to spot to bring guests when they’re visiting me."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaN3RhSDJBRRAB",
+            "text": "Had dinner here tonight— two dry pots, mala pickles, and two cocktails. Everything was great, the dry pot especially was warming and tasty. (We got the medium spice level, which was solidly white people spicy lol, but not too crazy.) Our server Howard was extremely attentive and friendly. We’ll definitely be back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaMFpUWGJnEAE",
+            "text": "I wish I had pictures of the food 😂 but I ate before I could take any.\n\nThe interior is fun! I love the neon in the window that reflects off of the wall of mirrors. The water feature in the back room and the menus are so cute!\n\nI love the drypot, you can pick whatever you want and the spice level. You can also get chili oil on the side to make your own plate spicier. My fave dessert was the herbal jelly. 10/10 will go again 😋"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaN2J2LWFREAE",
+            "text": "I honestly can’t believe the rating because this is the best Chinese/Sichuan food I’ve had in almost a decade in NYC. A friend took me to the 46th location one night and I woke up the next day prepared to make the journey from Brooklyn just to have it again, so discovering they have a Brooklyn location that delivers made me unbelievably happy!\n\nSo far I’ve had the Dry Pot, Sweet & Sour ribs and Spicy Chicken with cucumber appetizers, and the Xiāngī Fried rice. Got the Extra Spicy Dry pot and it was absolutely amazing - I mean BURSTING with flavor. When they said 24 spices, not a single lie was told. Fish fillet & Enoki mushrooms were delicious additions to the dry pot. And I LOVE their XiangXi fried rice - it has this extremely savory yet slightly sour flavor profile that’s mouth watering. As for the Sweet & Sour pork, I dreamt about it the same night I tried it the first time - so that about sums it up. The chicken with cucumber cold appetizer was okay (I think just personal taste as I discovered I’m not a fan of cold chicken).\n\nI’m so glad my friend personally took me to this place because their food is a solid 6 stars."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGbzU2Qk93EAE",
+            "text": "I've always been a fan of the Manhattan Mala Project locations, and I'm so excited there's one now in Brooklyn closer to me! Their signature dry pot is not for the faint of heart, so if you're not into spice this may not be the right place for you. The dry pots are most ideal when you have a larger group, so you can share the large bowl and order more ingredients.\n\nSome other favorites of ours from the menu are the Dan Dan Noodles (also spicy), the purple rice, and the Herbal Jelly dessert. But honestly, you should be going for the Dry pot. We love these in the dry pot: Pork Short Rib, Lamb, Pork Filled Beef Ball, Spam, Fish Fillet, Boy Choy, Chinese cabbage,  Shiitake Mushroom, Firm Tofu, Konjac Noodle, Roe Filled Fish Ball.\n\nThis new location is definitely an update from the East Village location that I'm used to, it's much more modern, punchy, and contemporary-it definitely feels more Brooklyn, but glad that they've maintained all the same flavors and spices."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wNVpsUlBYMFZDYzNZeGMxRk5PV05yYVdaeU9YYxAB",
+            "text": "AMAZING place, the food in insane, the service, the ambiance, dessert! The dry pot Mala Wow just wow"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMaE1IQ0l3EAE",
+            "text": "I was craving Sichuanese food and this hit the spot. This place is great for when you want a mix of different meats, veggies, etc.\n\nI’ve been to the Málà project in Manhattan and have to say the quality of food was better there. The taro, lotus root, and glass noodles could’ve been steamed/cooked longer. Still tasty though, but given I paid $50 for the meal I wish it would’ve been improved.\n\nThe meat (I got lamb and chicken breast) was surprisingly juicy and delicious. Lamb and chicken breast tend to be on the dryer side, but that was not the case here.\n\nThe atmosphere is nice, but it’s definitely a more “fast casual” feel. My server was attentive and welcoming.\n\nOverall, I had a good experience."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VONzQ5LVhYNWJuZTN3RRAB",
+            "text": "Mala Project is amazing. We love going here with friends, great place to share a communal meal. Greenpoint location is great because the wait time is never too long. Service has always been amazing as well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6a05qdmx3RRAB",
+            "text": "My friends and I were hungry today and the idea of eating here popped up as we love the food here. On the ride there I was telling my friends what a great experience I had last time with my family and our server Jose. He made our time there very pleasant. To my surprise, Jose was there today as well and was my server again. Cannot commend his work anymore than I already have, it was great like always. I don’t come as often as I wish, but thanks to him I will certainly be back.\n\nEverything is perfect, the only gripe I have is that every time I have gone there the food for everyone doesn’t come out at the same time so we are left oddly waiting for everyone’s food to get there."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWamNfekpnEAE",
+            "text": "Delicious food. Their dry pot, all of the appetizers, and sweet potato mocci are just YUMMY.\nAlso, cocktails with the great twist are definitely worth trying.\nStuff is very friendly !"
+        },
+        {
+            "date": "1년 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3OTd5UHVBRRAB",
+            "text": "肥牛，鸡翅，牛蛙，藕片，香菇，小青菜，五香豆干，土豆粉都好吃。特别推荐肥牛和藕片。价格还不错。两个人点了八样配两份米饭一共$60+。"
+        }
+    ],
+    "reviews_count": 70
+}

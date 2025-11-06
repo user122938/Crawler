@@ -1,0 +1,402 @@
+[
+    {
+        "name": "BKB | Brooklyn Brasserie",
+        "address": "327 Stuyvesant Ave, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJX6erawBdwokRDF1_2-ISne8",
+        "rating": 4.9,
+        "user_ratings_total": 96,
+        "phone_number": "(929) 234-3202"
+    },
+    {
+        "name": "Peaches HotHouse",
+        "address": "415 Tompkins Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJoxuT5Y5bwokR4BUNuEswrcI",
+        "rating": 4.4,
+        "user_ratings_total": 1950,
+        "phone_number": "(718) 483-9111"
+    },
+    {
+        "name": "Macosa Trattoria",
+        "address": "310 Tompkins Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJS-vA-dRbwokRH3li5S8p6HM",
+        "rating": 4.6,
+        "user_ratings_total": 413,
+        "phone_number": "(646) 574-7866"
+    },
+    {
+        "name": "For All Things Good Bed-Stuy",
+        "address": "343 Franklin Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJpRiQFlFbwokRZjSvEE0BXc0",
+        "rating": 4.6,
+        "user_ratings_total": 357,
+        "phone_number": "(646) 238-2068"
+    },
+    {
+        "name": "Chez Oskar",
+        "address": "310 Malcolm X Blvd, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJ86PF_LlbwokRNScSCVf3u84",
+        "rating": 4.4,
+        "user_ratings_total": 1259,
+        "phone_number": "(718) 852-6250"
+    },
+    {
+        "name": "L'Antagoniste",
+        "address": "238 Malcolm X Blvd, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJM8cEj3NcwokR5_Ja7rhmjoY",
+        "rating": 4.5,
+        "user_ratings_total": 517,
+        "phone_number": "(917) 966-5300"
+    },
+    {
+        "name": "Rustik Tavern",
+        "address": "471 DeKalb Ave, Brooklyn, NY 11205, USA",
+        "place_id": "ChIJd9qVa5VbwokRJ7q_7M3XbIQ",
+        "rating": 4.5,
+        "user_ratings_total": 1327,
+        "phone_number": "(347) 406-9700"
+    },
+    {
+        "name": "La Donna Re's",
+        "address": "325 Lewis Ave, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJfRomEIpdwokR4pq58lJHixQ",
+        "rating": 4.8,
+        "user_ratings_total": 95,
+        "phone_number": "(347) 601-8264"
+    },
+    {
+        "name": "Good Ol Days Diner",
+        "address": "212 Patchen Ave, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJlbZlYAxdwokRcrM-F0kE2V4",
+        "rating": 4.7,
+        "user_ratings_total": 355,
+        "phone_number": "(347) 384-1401"
+    },
+    {
+        "name": "Peaches Lewis",
+        "address": "393 Lewis Ave, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJvSMmN3ZcwokR2Q8U305wnnQ",
+        "rating": 4.3,
+        "user_ratings_total": 3451,
+        "phone_number": "(718) 942-4162"
+    },
+    {
+        "name": "Bunny",
+        "address": "449 Nostrand Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJmQ_VbpBbwokRZfBhNKWigEc",
+        "rating": 4.7,
+        "user_ratings_total": 215,
+        "phone_number": null
+    },
+    {
+        "name": "Trad Room",
+        "address": "266 Malcolm X Blvd, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJ__978HNcwokRJMR_zap8RcQ",
+        "rating": 4.5,
+        "user_ratings_total": 750,
+        "phone_number": "(347) 240-5760"
+    },
+    {
+        "name": "Korkscrew Bistro",
+        "address": "165 Tompkins Ave, Brooklyn, NY 11206, USA",
+        "place_id": "ChIJU-6tKQBbwokRof-JBf0peCs",
+        "rating": 4.9,
+        "user_ratings_total": 273,
+        "phone_number": "(718) 759-6507"
+    },
+    {
+        "name": "BKLYN BLEND",
+        "address": "194 Tompkins Ave, Brooklyn, NY 11206, USA",
+        "place_id": "ChIJd_XT8fJbwokRIRr2Y937e1E",
+        "rating": 4.7,
+        "user_ratings_total": 1250,
+        "phone_number": "(718) 484-2247"
+    },
+    {
+        "name": "WARUDE",
+        "address": "385 Tompkins Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJD4Pkzo1bwokRT8tURQ6KU68",
+        "rating": 4.6,
+        "user_ratings_total": 699,
+        "phone_number": "(718) 684-4449"
+    },
+    {
+        "name": "ZACA CAFE",
+        "address": "426 Marcus Garvey Blvd, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJCyQP7NZbwokRgQJgZMBRJlg",
+        "rating": 4.5,
+        "user_ratings_total": 607,
+        "phone_number": "(718) 443-2500"
+    },
+    {
+        "name": "Winona's",
+        "address": "676 Flushing Ave, Brooklyn, NY 11206, USA",
+        "place_id": "ChIJtQTimnNbwokROjOc_Cfzm4k",
+        "rating": 4.6,
+        "user_ratings_total": 346,
+        "phone_number": "(718) 388-4900"
+    },
+    {
+        "name": "Pita Point",
+        "address": "508 Marion St, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJj8eHa5JdwokR877CmL02l4I",
+        "rating": 4.9,
+        "user_ratings_total": 456,
+        "phone_number": "(347) 414-5570"
+    },
+    {
+        "name": "DOLORES",
+        "address": "397 Tompkins Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJwYDDibRbwokR7p0WTQvV1Y8",
+        "rating": 4.7,
+        "user_ratings_total": 61,
+        "phone_number": null
+    },
+    {
+        "name": "Sonbul - Korean Cafe and Kitchen",
+        "address": "356 Throop Ave, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJf7ScdnxbwokRU8zvnU7k5Xc",
+        "rating": 4.5,
+        "user_ratings_total": 110,
+        "phone_number": "(718) 388-0013"
+    },
+    {
+        "name": "Blossom's Soul Food Fusion",
+        "address": "911 DeKalb Ave, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJ-U67gG1bwokR9DvNuRdQebw",
+        "rating": 4.3,
+        "user_ratings_total": 296,
+        "phone_number": "(347) 365-3021"
+    },
+    {
+        "name": "Uptown Veg Bk",
+        "address": "364 Lewis Ave, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJwU1FF3ZcwokRr1KWWQX9LsY",
+        "rating": 4.8,
+        "user_ratings_total": 61,
+        "phone_number": "(718) 484-3586"
+    },
+    {
+        "name": "Ursula Brooklyn",
+        "address": "387A Nostrand Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJTf8taJRdwokRq3Bm3GY9lK4",
+        "rating": 4.5,
+        "user_ratings_total": 572,
+        "phone_number": "(347) 365-4905"
+    },
+    {
+        "name": "David's Brisket House",
+        "address": "533 Nostrand Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJuRAJ55pbwokRqGveFjbVWkw",
+        "rating": 4.5,
+        "user_ratings_total": 1456,
+        "phone_number": "(718) 789-1155"
+    },
+    {
+        "name": "Little Grenjai",
+        "address": "477 Gates Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJvWLTO_1bwokRrZDrq9PGaWg",
+        "rating": 4.5,
+        "user_ratings_total": 241,
+        "phone_number": null
+    },
+    {
+        "name": "Brooklyn Beso",
+        "address": "370 Lewis Ave, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJ2QqDF3ZcwokRX0EBn3HpcjI",
+        "rating": 3.7,
+        "user_ratings_total": 1708,
+        "phone_number": "(347) 915-2900"
+    },
+    {
+        "name": "Café Calaca",
+        "address": "505 Franklin Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJ_8iCOwNbwokRgm1nJR3hZ_o",
+        "rating": 4.7,
+        "user_ratings_total": 185,
+        "phone_number": "(718) 483-9832"
+    },
+    {
+        "name": "Sally’s",
+        "address": "151 Tompkins Ave, Brooklyn, NY 11206, USA",
+        "place_id": "ChIJPynGWUFbwokRDyYQF6YjDiM",
+        "rating": 4.4,
+        "user_ratings_total": 318,
+        "phone_number": "(718) 388-8788"
+    },
+    {
+        "name": "Concrete Sicilian Eatery",
+        "address": "906 Broadway, Brooklyn, NY 11206, USA",
+        "place_id": "ChIJI2kKw_dbwokR5GBtrXU8rMc",
+        "rating": 4.7,
+        "user_ratings_total": 548,
+        "phone_number": "(917) 966-8440"
+    },
+    {
+        "name": "Le Paris Dakar",
+        "address": "518 Nostrand Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJJZ-ZnZpbwokR_8LTZk2IuXc",
+        "rating": 4.6,
+        "user_ratings_total": 540,
+        "phone_number": "(347) 955-4100"
+    },
+    {
+        "name": "Saraghina Pizzeria",
+        "address": "350 Lewis Ave, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJN6a8BXZcwokRTpACTb3PxvQ",
+        "rating": 4.5,
+        "user_ratings_total": 2262,
+        "phone_number": "(718) 574-0010"
+    },
+    {
+        "name": "Toad Style",
+        "address": "93 Ralph Ave, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJRbXDTm1cwokRlm9STYnpxJA",
+        "rating": 4.4,
+        "user_ratings_total": 891,
+        "phone_number": "(347) 789-1589"
+    },
+    {
+        "name": "Ginjan Café",
+        "address": "333 Nostrand Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJGUjxOFtbwokR833quGvO258",
+        "rating": 4.7,
+        "user_ratings_total": 62,
+        "phone_number": "(929) 248-9696"
+    },
+    {
+        "name": "Laziza",
+        "address": "306A Malcolm X Blvd, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJlXP_FQBdwokRUdtJIfvzTHw",
+        "rating": 4.6,
+        "user_ratings_total": 133,
+        "phone_number": null
+    },
+    {
+        "name": "Golda",
+        "address": "504 Franklin Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJJwdM0JlbwokRzXGoI7P-8dQ",
+        "rating": 4.2,
+        "user_ratings_total": 373,
+        "phone_number": "(718) 484-7065"
+    },
+    {
+        "name": "LunÀtico",
+        "address": "486 Halsey St, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJESF5DXZcwokRVyeGiPtTMfY",
+        "rating": 4.7,
+        "user_ratings_total": 965,
+        "phone_number": "(718) 513-0339"
+    },
+    {
+        "name": "Olmo",
+        "address": "103 Saratoga Ave, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJIYMm9JldwokR3JTojl_rf8A",
+        "rating": 4.9,
+        "user_ratings_total": 74,
+        "phone_number": "(718) 635-2184"
+    },
+    {
+        "name": "Ma-n-Pop",
+        "address": "349 Lewis Ave, Brooklyn, NY 11233, USA",
+        "place_id": "ChIJRxnjDnZcwokRkN4m_wiL5b8",
+        "rating": 4,
+        "user_ratings_total": 645,
+        "phone_number": "(718) 574-6735"
+    },
+    {
+        "name": "Hart's",
+        "address": "506 Franklin Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJhYcE0JlbwokRVjovgUYR65M",
+        "rating": 4.6,
+        "user_ratings_total": 395,
+        "phone_number": "(718) 636-6228"
+    },
+    {
+        "name": "Bombay Grill",
+        "address": "1176 Bedford Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJt_gdL5dbwokRTPYFUspqe0A",
+        "rating": 4.7,
+        "user_ratings_total": 695,
+        "phone_number": "(718) 484-0004"
+    },
+    {
+        "name": "Bad Luck Bar",
+        "address": "492 Nostrand Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJ7-MrkwlbwokRuAegavWfwrg",
+        "rating": 4.6,
+        "user_ratings_total": 129,
+        "phone_number": null
+    },
+    {
+        "name": "Chilo's",
+        "address": "323 Franklin Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJ_ar-yZVbwokRtr_5W6WIZ98",
+        "rating": 4.5,
+        "user_ratings_total": 565,
+        "phone_number": "(718) 676-5245"
+    },
+    {
+        "name": "Copacabana seafood and brunch",
+        "address": "1318 Fulton St, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJP6g9N45bwokRtVTfYn1HSo4",
+        "rating": 4.3,
+        "user_ratings_total": 235,
+        "phone_number": "(347) 240-7557"
+    },
+    {
+        "name": "Cpt. Dan's Good Time Tavern",
+        "address": "497 Greene Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJzfp-qZNbwokRPNi37sfG25I",
+        "rating": 4.4,
+        "user_ratings_total": 777,
+        "phone_number": "(718) 975-3887"
+    },
+    {
+        "name": "The Bedford",
+        "address": "110 Bedford Ave, Brooklyn, NY 11249, USA",
+        "place_id": "ChIJC9ZN6VxZwokRQD2Rzzd5DlQ",
+        "rating": 4.3,
+        "user_ratings_total": 1163,
+        "phone_number": "(718) 302-1002"
+    },
+    {
+        "name": "Mao Mao",
+        "address": "1000 Broadway, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJnQxdCoNdwokROLos5NIpK8Q",
+        "rating": 4.4,
+        "user_ratings_total": 411,
+        "phone_number": "(929) 600-5965"
+    },
+    {
+        "name": "Bedford Gardens",
+        "address": "172 Bedford Ave, Brooklyn, NY 11249, USA",
+        "place_id": "ChIJqdEJl-pZwokRBDhYkP_ocL0",
+        "rating": 4.8,
+        "user_ratings_total": 313,
+        "phone_number": "(347) 844-9008"
+    },
+    {
+        "name": "Bar Camillo",
+        "address": "333 Tompkins Ave, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJYcU9WphbwokRTsiZXcFZl9k",
+        "rating": 4.5,
+        "user_ratings_total": 189,
+        "phone_number": "(347) 533-6340"
+    },
+    {
+        "name": "Buntopia",
+        "address": "994 Broadway, Brooklyn, NY 11221, USA",
+        "place_id": "ChIJE3ZLsglcwokRZCXH87CJjZY",
+        "rating": 4.6,
+        "user_ratings_total": 659,
+        "phone_number": "(347) 435-3660"
+    },
+    {
+        "name": "Atomic Wings - BedStuy",
+        "address": "1227 Fulton St, Brooklyn, NY 11216, USA",
+        "place_id": "ChIJKQ_TJrBbwokRQTOCP6bU5MY",
+        "rating": 4.5,
+        "user_ratings_total": 229,
+        "phone_number": "(347) 221-0621"
+    }
+]

@@ -1,0 +1,495 @@
+{
+    "name": "Mama Lupita's Bistro",
+    "place_id": "ChIJfUX4XqhbwokRngDYb_IkY0M",
+    "grid": "BK7",
+    "address": "904 4th Ave, Brooklyn, NY 11232, USA",
+    "rating": 4.7,
+    "user_ratings_total": 208,
+    "phone_number": "(917) 909-0522",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRlYxVkNibEp1TldSc1ZtdDJZWEpUUVVscVNtYxAB",
+            "text": "Great food, friendly staff, reasonable prices. Will be back!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kMFpVTkxUVFowVUZWRE1HdEhZVFZhU25WcE4wRRAB",
+            "text": "Excelent Mexican restaurant. Had dinner here with 6 people. We all loved it. When you are with a group and you like Margueritas, take the pitcher. Maybe not the best cockyail in town, but you will not be disapointed.\nThis restaurant is cheap. Bottle of wine for $25.......  In most places a glass is $14 so you can not go wrong.\nFriendly staff."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWeGRVWlFRMkUwVTJOeVQzVk1SM1pCU0ZCcGIxRRAB",
+            "text": "This is one of my favorite restaurants in the neighborhood! Everyone is super friendly and you really can’t go wrong with anything on the menu. Happy hour is great!"
+        },
+        {
+            "date": "4주 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5TFIwVXhObW90VG1oVU5tMUhaekEyYURaV1puYxAB",
+            "text": "Sehr gutes Essen in guter Qualität, freundliche Bedienung und gute Sauberkeit.\nSehr zu empfehlen!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21waFowcDVZWEpPVkhGclpuTnFjVTlWTUVGSGFHYxAB",
+            "text": "I mean ya phenomenal. Corn quesadillas?? Vegetarian and gluten free options ?? Sooo yummy idk if I’m just lowkey kinda intoxicated but honestly it tasted like the best Mexican food I’ve had in a while. Ate it to the bone"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNd1lsUjNiblpWZEdwblptaHBaVVpIUmxoMlRuYxAB",
+            "text": "One of my favorite local spots. Authentic Mexican at good prices. Staff is very friendly."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wSGFYRXdja0ZaWmtKa1lreDBXRzlRZFVKS2NYYxAB",
+            "text": "Everything, but everything, is super tasty and made from scratch. Horchata is to die for!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SMmJ6aENhSEZDZW5ObVEyNDBSRkJPTFZGSWQzYxAB",
+            "text": "This place fed me for a couple days as I stayed at the hotel down the street. It was a very nice experience. Tacos Dorado with a small Mamas salad was satisfying, and it came with a side of rice and beans. The squeeze of lime on this fresh salad was perfect, don't ruin it with dressing. Second visit was Nacos Con Carne with the chipotle pulled chicken. Both dishes were an equal balance of frito y fresco. I ordered the classic margarita both times, once with salt rim and once with spiced rim. My only critique may be that the margs could be a wee bit bigger. But who wouldn't wish that? Anyway, the margarita flavor was fresh and hand made. The service was attentive, quick and I was remembered which made me feel special. You can tell that love of making food goes into the dishes. The pricing for the portion sizes and quality in NYC is very fair.\nHighly recommend!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NmRWVmtORWxJYkdsSWEwcHdaR0ZQU3preE0xRRAB",
+            "text": "I got chicken empanadas, were delicious along with a smoothie. Was great, would recommend"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGZlVrcHNkSGQxWjJ0WWVsWXpTamRKV0ZWUGQwRRAB",
+            "text": "Horrible quesadillas. They put sour cream and lettuce inside. It gets all watery and gross. You have to explicitly tell them not to put sour cream and lettuce inside the quesadilla. The guac was missing salt and didn’t have enough…"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kd1FXZERTR3A0YmxwdmVrSk9VVGxFWDBnNGMwRRAB",
+            "text": "No me gustó  la comida y son muy aprovechados agarrando propina como ellos quieren mal servicio"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKSFJrZGlaakJOVVhkNldrZGtMVXAzWmt4Sk9VRRAB",
+            "text": "Delicious food, though I would say the Mole was too sweet.  Green sauce enchiladas? Great! Guacamole? Great!    The only real problem was the DJ (this was early dinner, like 5:30, full daylight).  It was some of the worst DJing Ive ever heard, crashing songs on top of each other, playing the radio sometimes for a few seconds, but not…on purpose, or anything, just a mess…all at EAR SPLITTING VOLUME THROUGH OUT ENTIRE MEAL!  There wasn’t a party…there weren’t even many people! I mean it was kind of funny for a while, but we got realllly sick of it.  Kind of ruined the whole meal! Boooo.  So…if theres a DJ?  Dont go!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGdlgxUkRSalowZUdscVpFRkVORU01TjB4MlZHYxAB",
+            "text": "had a delicious vegetarian torta! very friendly service, good value!"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKYmo4TzJSei1mZ2hnRRAB",
+            "text": "great 🌮"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNZWRfTmVZMnVQNk9REAE",
+            "text": "General atmosphere is quaint, casual and friendly. But the food is big on flavor. Genuine dishes from an incredibly friendly staff."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJT0M2NW55OEx2RnRnRRAB",
+            "text": "These people writing reviews are all wrong. Just ordered food for a birthday party. The enchiladas were like chewing on a wet sock. The chicken was tough and chewy. The tomatillo sauce was watered down and so acidic it burns like store bought orange juice, so awful. The burrito meat is dry and hard like dehydrated chicken or beef, (might be frozen) eerily similar to the dehydrated meat in ramen. Mama Lupita can't cook, such a shame. Their reply says it all. Removing stars for service."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZc2N5ZVdnEAE",
+            "text": "The food was good and the service ."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZc3RDTFRBEAE",
+            "text": "I just ordered a burrito bowl for takeout and it was amazing. The ingredients were fresh and flavored well. It had a good portion size and most of all I loved the green sauce!\nAlso the service was exceptional. The guy at the counter explained things well, was very polite and respectful. So happy I decided to stop by solely based on its 4.8 star. It lived up to it."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNkt5dDd3RRAB",
+            "text": "It’s just really good."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvbHNuNnJRRRAB",
+            "text": "Listen, I don’t know what kind of culinary sorcery this place is doing in the kitchen, but the food here is so authentic and delicious it made me wanna slap my mama, her mama, and then call customer service to report myself.\nFrom the moment I walked in, I was greeted by the warmest, most welcoming vibe—like stepping into your favorite tía’s living room, but with better lighting and fewer passive-aggressive comments. The ambience? A+ comfort with just the right amount of “I might start dancing after this third horchata.”\nLet’s talk food. I took one bite of the chicken nacho fries and blacked out. When I came to, I was holding a sope in one hand and sobbing into a plate of nachos with joy. The flavors are so bold and real, I’m 87% sure abuela herself is back there stirring the pot with a chancla for extra seasoning.\nAnd the service? Top tier. The staff was friendlier than a golden retriever on its birthday. Attentive without being all up in your salsa—just the right balance of “I got you” and “I know you need time to cry over that milanesa de Rez platio .”\nIf you haven’t been to this place yet, cancel your plans. Forget your diet. Get in the car, hitch a ride, call an Uber, steal a scooter—whatever it takes. Your tastebuds deserve this fiesta."
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNveHVQbE1nEAE",
+            "text": "Muy buena atención por parte de la camarera."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMkxXdld3EAE",
+            "text": "Lovely food and friendly service. Also the beer was cold and the Marguerita spicy."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJaWZQaFJBEAE",
+            "text": "Terrific food! Inexpensive. Great  service.  What more could you ask for!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJZ0lqOTFRRRAB",
+            "text": "If you're searching for authentic Mexican comfort food, look no further than Mama's Lupita! This laid-back, family-owned gem serves up a slice of home with every bite. I’ve indulged in their tacos, tostadas, and huaraches, and let me tell you, they really hit that home-cooked sweet spot! The atmosphere is so inviting, and the service is top-notch—friendly faces ready to make your meal special. Whether you’re dining in or taking out, you’ll leave with a smile and a satisfied tummy! Next time you crave some delicious Mexican food, Mama's Lupita is the place to be!"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfaS1QRkpnEAE",
+            "text": "Amazing service and flavors. Theres only 1 photo because this was delicousness and devoured first. Whatever came afterward didnt stand a chance. Its run by family, so we were able to know if any allergens confidently!"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURydXFySm5BRRAB",
+            "text": "Reasonable prices, honest service. Theres a mama in the kitchen--family run. ALSO refreshing habiscus tea for the win!!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnOU1XRDdnRRAB",
+            "text": "Love this place.  Food was delicious.  Drinks were great.  I had a spicy margarita, which had the perfect amount of all ingredients.  The service was great!  Highly recommend!!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnelA2VDZ3RRAB",
+            "text": "It's good"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBamRhN2VREAE",
+            "text": "Food was absolutely delicious. Had the carnitas sopes. They tasted fresh and homemade. Definitely coming back. Service was perfect!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfcHVhUnpnRRAB",
+            "text": "Great,  authentic Latin food at fantastic prices."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfdVAtTzVnRRAB",
+            "text": "Great family run restaurant. The food was about the best I’ve ever eaten outside of Mexico. Very warm and welcoming. I’d go out of my way to go back again next time I’m in Brooklyn."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmMWJQcDdRRRAB",
+            "text": "I think about these gorditas all of the time. I’m coming back for more tomorrow!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2d3Nfd0p3EAE",
+            "text": "Great family run local restaurant. Good pricing, beautiful fresh food. Recommend"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2dVB1OWNBEAE",
+            "text": "Great, friendly service.  Excellent mole enchiladas, and a good Negra Modelo michelada with tamarind on the straw.  My son said it wad the best chorizo taco he ever had.  Funny posters in the bathroom."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzcGN6VFRnEAE",
+            "text": "Food was yummy but the beef was tough and music too loud"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqclBhbTJBRRAB",
+            "text": "Margarita de tamarindo 👌"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuN0lQUkZ3EAE",
+            "text": "Everything is SOOOO good here and so reasonably priced. The chicken empanadas especially are so good. Definitely worth a visit."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIdF9fNmR3EAE",
+            "text": "Agradable lugar , buena atención del personal"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIM1pMczVRRRAB",
+            "text": "Fantastic food! We love Mama Lupita’s—our favorite local Mexican place! We get takeout here pretty much once a week. The tacos and burritos are excellent, but I cannot recommend the huaraches enough—especially with chipotle chicken. It’s homemade and soooo good. We like eating in the restaurant as well; it’s basic and clean and everyone is kind and welcoming! Love, love, love!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3MmJhUnFBRRAB",
+            "text": "Now this is authentic Mexican flavor! I felt like it was my grandma cooking for me, everything is so tasty just like back home. I highly recommend it! This is food for the soul!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3MmNMeVNREAE",
+            "text": "Best nacho fries with al pastor I’ve ever had in my life. My only complaint is that I ate them all so fast."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNid0pDNlhBEAE",
+            "text": "So good!!🫶🏻🫶🏻"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMMllIdnRBRRAB",
+            "text": "Mexican food is one of my favorites. The food was amazingggg. I had the steak tacos with a small guacamole. My boyfriend had the nachos fries with Chipotle chicken. DELICIOUS...DID I SAY DELICIOUS.  Mama lupita has gained new costumers.  The waitress Shayla was awesome. Very welcoming and accommodating.  Answered all our questions and was super sweet and nice. If I could give them a 10 out of 10 I would."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMOXZYN19BRRAB",
+            "text": "Great food and excellent service. Thanks, Mama and Sheila, youse made us feel very welcome."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMOXFTNkNnEAE",
+            "text": "Definitely give this place a try. I had the roasted pork burrito and it was so delicious. The taste and texture was spot on. Reasonably priced and yummy."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMOV9ibDF3RRAB",
+            "text": "Fire all around great service and good drinks and food"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMaWNmNVl3EAE",
+            "text": "Really good food and prices are very reasonable as well"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMZ3RiQ0RnEAE",
+            "text": "The staff was super warm and welcoming restaurant. I came by myself. Had the Lupita Torta. The bread was freshly made and the sandwich was delicious."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMdEtXUDB3RRAB",
+            "text": "The food was amazing. We got the Al Pastor burrito and the steak burrito and it was just so flavorful. The green salsa is a must and their freshly fried nacho chips are so yummy. The place is really clean and had a good vibes. Price was very reasonable and our server was really nice. definitely going to come here more often."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6blpmbEpnEAE",
+            "text": "Amazing food! The cheese was yummy!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSbTRmZVVBEAE",
+            "text": "The owner is super nice and friendly! The place is very clean and cozy! The prices are very reasonable! This place is a hidden gem!\nWe just wanted to get a quick bite and walked in to the place with not expecting anything special, the owner started explaining the menu and we got excited about the food and we absolutely loved it! The food was very fresh and delicious with great flavor, service was great!\nI highly recommend this place!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteU1qMXR3RRAB",
+            "text": "Comfort.  Some places are more comfortable than others.  Mama Lupitas feels like a family restaurant although I don’t know if it is.  Our waitress was so sweet and the food was so comforting that I felt like I was at an old friends house.  I think my favorite thing was the feeling of having been there before."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtenF1Zl9BRRAB",
+            "text": "This was some of the best Mexican food we've ever had. We had nachos, burritos, quesadillia, and braised pork with cactus. The beans were super creamy and tasty. Definitely a great spot for lunch or dinner and would enjoy being able to visit again!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkd2VYTm93RRAB",
+            "text": "Wow! One of the best food I ever had this little mexica place is the BEST! Glad I find it! Thanks Mama Lupita’s Bistro"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtb1kyVlZ3EAE",
+            "text": "Amazing dinner! I ordered the tacos dorados and my boyfriend ordered the enchiladas in mole. Both were absolutely perfection, full of distinct flavors. The service was also very friendly and attentive. The affordable price was a bonus. I definitely recommend dining here!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtLXRxYWJnEAE",
+            "text": "No complaints 👌🏾 at all... mouthwaterinG food... is so Good to eat.... the shrimp are HuGo Boss BiG 😋 🙌🏾 👌🏾 😎...... Real Comfortable Feel... This place is Gonna have Oprah Here.... Fr."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTcjg3aEVnEAE",
+            "text": "Excellent torta milanesa. It’s a loaded sandwich that uses soft bread and is stuffed with breaded chicken, cheese, avocado, beans, lettuce, tomato, onion and pickled jalapeño. Very hearty sandwich, well wrapped and delicious. You can choose many different types of meat."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0X3V6Z3dnRRAB",
+            "text": "Great service and great food with big portions. Check it out if you are in the area."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXNmRIRjdBRRAB",
+            "text": "Excellent Birria taco special on Sunday! The fresh homemade salsa was also soooo good! We loved everything about this place. So clean.so friendly. So delicious"
+        },
+        {
+            "date": "2년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSeHB6NmtRRRAB",
+            "text": "Serveur très agréable et professionnel. Plats délicieux et copieux avec des produits frais pour des tarifs raisonnables."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlcDZfbmp3RRAB",
+            "text": "Excellent restaurant. The food was delicious, the staff was friendly. And it was very affordable"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCci1YcmlBRRAB",
+            "text": "Unbelievable torta. The salsas are fantastic. The beer is cheap. Very reasonable prices for food. The service is amazing."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkaG9UV3ZRRRAB",
+            "text": "The best decision i made today was coming to Mama’s!!! Cosy, friendly, tasty and yes healthy."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSZ08yM1F3EAE",
+            "text": "Absolutely awesome is how I describe this place. Some of the best Mexican food I've had in a long time. Everything is freshly prepared for you and did I mention that the food is AWESOME!\nGreat service with great prices and great customer service, you will not be disappointed. Give them a shot if you're in the area."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4aTdHQU93EAE",
+            "text": "The food is amazing, but it's okay to just come for drinks and this desert!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoamVLRTl3RRAB",
+            "text": "This is, without a doubt, the best place you can find in Brooklyn for delicious, authentic, and affordable Mexican cuisine. Their food is delicious, their prices are still somehow reasonable, and the owners are so welcoming and gracious to all of their guests. This is genuinely the first review I've ever publicly written for a restaurant. But this one deserves it. Not because it is trendy or trying too hard. It's just simply great. And deserves your business."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtb2JTR2RREAE",
+            "text": "Delicious food, friendly service, casual and comfortable atmosphere. Can’t wait to come back."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNweXB6cnhnRRAB",
+            "text": "Love this place. My husband and I come here often for dinner and the food is always amazing, the staff is kind and helpful, and the prices are very reasonable. I recommend the breaded chicken with the homemade tortillas but really everything they make has been amazing. Great addition to the neighborhood."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKa2FqR0JBEAE",
+            "text": "The people who work there are friendly and provide a comfortable atmosphere. The food is fresh as well!"
+        }
+    ],
+    "reviews_count": 69
+}

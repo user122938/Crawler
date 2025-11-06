@@ -1,0 +1,530 @@
+{
+    "name": "U Omakase",
+    "place_id": "ChIJl6gWMxpZwokR2jvrV4VUlVQ",
+    "grid": "BK1",
+    "address": "173 Greenpoint Ave, Brooklyn, NY 11222, USA",
+    "rating": 4.9,
+    "user_ratings_total": 178,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKc1FqaDZhRVV5UkdWNFduVTFRVnBwZEc4dE5sRRAB",
+            "text": "Just perfect."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUWExWlpOemhOYTI1UFpuTXlOV1Z1YkdWVU1rRRAB",
+            "text": "loved the diversity of the tasting menu! mussel cappuccino, shiitake rice, and truffle wagyu were my personal favorites."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OS2NYcE9aV1E0ZUU1WWNGbFVNVWgxWVV3elFuYxAB",
+            "text": "A beautiful experience. I took my boyfriend here for his birthday and the atmosphere, food and experience were great. One piece of hospitality feedback for the main servers: one of the glasses in my sake pairing had a bug in it halfway through the pour. I pointed it out and they politely took it away. I didn’t need more sake, but I did want them to offer to pour more or apologize as I did pay a $60 fee for the pairing. When I’m paying $400 for dinner, I expect acknowledgement of the incident, a resolution. Ignoring it felt… unprofessional? Otherwise everything was great and I do recommend coming here."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWFJteG1WREJpWTBsRGNuWlViUzFwU2tSVmFFRRAB",
+            "text": "Amazing experience & delicious food in a relaxed setting."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sb2NYY3dSRzAwWkRCMVptcGxNVUY2YjBWblluYxAB",
+            "text": "the best in the neighborhood"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKc2QzVm5VRUo0Y21GVFZtMWtXRk42TldreVdYYxAB",
+            "text": "While my partner and I had high expectations going into this restaurant, we were BLOWN away by the experience. The service was great, sake pairing done well, presentation AMAZING, and food matched it all. I can’t wait to recommend this place to all our friends."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWb2VVeGFPVEJLVUZjME9IQmZUbWMzTWpWV1dYYxAB",
+            "text": "I loved it here. Food is fantastic. The service is lovely. It’s been a long time since I’ve gone to a restaurant and felt relaxed. I could just enjoy myself, the company I was with, and the overall offerings of U omakase. 10/10 recommend."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWWWRtaHNiMWhpVUU1M1gxRm1lbmsxTTFkSk4wRRAB",
+            "text": "We had expectations going into U Omakase, after being recommended by a friend. I can honestly say that the food surpassed those expectations on every course. It was really just hit after hit. It’s funny, some comments talk about the music, and the playlist does jump around quite a bit, but I love The Strokes, Lenny Kravitz and Bill Withers. So, while sometimes the music doesn’t fit the mood, isn’t it nice that we have places that just do their own thing? I’m not there to eat the music.\n\nOne thing I would request for future is some non alcoholic options. Not sure if maybe we just missed it? But I’d love some kind of fruit forward soda.\n\nAt the end of the day, it was a great time and the food was fantastic. I’ll definitely recommend it to my friends."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSdFVFMWZTMkUwY0RsdFNXbEJXV0pET0RndFoyYxAB",
+            "text": "Food was great and service was amazing! Great spot for date night"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxcWRFRnVaSGxVV2pKRWVXWlVjbWRNT0UwNFkyYxAB",
+            "text": "This place is fun and the food is excellent. The service is personal and the atmosphere is really fun. Go on a date night or with a small group."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkYU16bHRObko1UjBwVVVUa3hVWFl5VjNWM01VRRAB",
+            "text": "Of the few omakase places I’ve been to in the city this was the most delightful. I will be coming back on how good the desert was alone."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aTVZWbGtZV2R4WlZWc05HeE5hM1Z1Um5sMlpHYxAB",
+            "text": "Absolutely loved it here. One of my favorite tasting experiences. Food was great, service was wonderful, and I loved the laid back vibes. Every dish was fresh and different and made the whole experience so fun! You can also bring your own drinks (with a corkage fee). Cant get better!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCNE5rdDBlbG8xVlhoaFZsOTZhVzU0U2tsMGFVRRAB",
+            "text": "We've been to Michelin restaurants and u omikase is easily up there with them. Staff was great and felt more like friends than staff. If you are visiting NYC/Brooklyn and are looking for a date this is a good spot. We were able to get a reservation for 4 hours later on a Sunday."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURieDRHOU1REAE",
+            "text": "Totally overrated. Food is completely tasteless, unfortunately, even if the atmosphere is very nice. probably one of the worst Omakase experiences in New York."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKako5OGlkamR2WEZ3EAE",
+            "text": "I really liked it. This is my first experience, but it was magical\n\nThe only thing, I also want to do something extraordinary with the dessert, because we want something more special at the end. If it is possible to do something with yuzu - it would be perfect\n\nI also want the light brighter to make the photos even more beautiful 😀"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLVDA4ZWZzc3JPam93RRAB",
+            "text": "By far the best dining experience in all my years in New York. Phenomenal"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMcjczUHlyLWNLb3FRRRAB",
+            "text": "What an AMAZING experience this was! Luis and the other chefs were very professional and attentive, the food was superb, every single dish was full of flavor and unique. Would definitely recommend this omakase experience!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQdnltNlBKNXNhbnZRRRAB",
+            "text": "11 course menu with a variety of meats, vegetables, and seafoods. We liked the shiitake mushroom, waygu, fatty tuna, soft shell crab, and mussel cappuccino! The smoke and fire elevated the presentation of several dishes."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPS2hwSU9lOXRLb0Z3EAE",
+            "text": "Excellent food, laid back vibes. People who obviously care about their guests and this restaurant. Highly recommended."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZd3YtQ09REAE",
+            "text": "Absolute banger, especially for the price. Great place to enjoy good food and have intimate conversations. The vibe is perfect"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZdk83VHVnRRAB",
+            "text": "One of the most creative omakase experiences in Greenpoint. Go say hello to chef Luis!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvemJETHZnRRAB",
+            "text": "Everything was great - especially the food. Just be careful if you are looking for traditional omakase, this one is fusion. But really worth it. Also for those visiting from abroad, the $50-100 range displayed by google is misleading - it doesn't include a couple things including the expected tip which reaches $50. 2 people, 2 glasses of wine, we paid $270. Again, worth it IMO considering the food and other similarly priced restaurants."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvLUxlLWxBRRAB",
+            "text": "celebrated my birthday dinner here. the food was incredible, every dish was bursting with flavor. the service was stellar, left feeling so full and happy! cannot recommend this place enough."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvME9IelZBEAE",
+            "text": "Great food and service, all if tge dishes were excellent."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvbDlQUUF3EAE",
+            "text": "Celebrated my boyfriend’s birthday here. Great food and experience! Good value for the price. Will be back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJcTRENDBRRRAB",
+            "text": "unassuming and untraditional omakase spot in greenpoint , Brooklyn. visited for a friend’s bday party & had an amazing time!\nthe owner was so accommodating & allowed us to bring in sake & cake for the end of the 15 course meal. the food was served in a relatively short amount of time & presentation was beautiful. they have an open kitchen & we can see the whole process of cooking,plating,and serving - it was delightful!\nThe dishes themselves were works of art <3 they were a fusion of different cultures and inspirations. This wasn’t your typical Omakase dinner but you’re in for a pleasant surprise. Loved every part of this experience and definitely will be coming back here."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJeS11UVlBEAE",
+            "text": "Beautiful venue, I love the intimate setting. Staff was an absolute joy and you could see their passion. Delicious."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBaWRQSmpRRRAB",
+            "text": "This place loves kids! It’s hard to find an Omakase spot that not only allows you to bring your kids, but also gives them the best service! We came to a 5:30pm seating with a toddler and a newborn. The staff was super friendly and the chef even prepared a kid friendly version of the menu for our toddler. The food and sake were fantastic and the atmosphere was great. Highly recommended!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBcWZMOXZRRRAB",
+            "text": "Best restaurant in Greenpoint. 10/10 🙏🏼"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmOTdpRzFBRRAB",
+            "text": "Everything was perfect. An intimate experience!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2c3VfVVFBEAE",
+            "text": "The most fun you will ever have at an Omakase. It is the hidden gem of Greenpoint!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzdE5UYzNBRRAB",
+            "text": "How do I live a few blocks away and did not know this place existed? Maybe because you can literally walk right by it and not notice there is restaurant there… it almost has this speak easy mystery vail sort of vibe. From the moment you walk in however, you know that this will be a magical experience. U shaped table that sits about 15 around it stands in the middle of a very stylish interior. Chef station in the back is bustling with preparations and the staff carefully sets up the table for the guests. Chill music playing, giving off a very welcoming and not at all stiff vibe. Dim lighting adds to the amazing ambiance of the space. It almost feels as if you came to your fancy friend’s house for a holiday dinner.\nAnd then the magic happens! The small plates come out swiftly and are placed in front of all guests. Each plate is carefully curated and beautiful, and the staff makes sure to explain what is being served. There is not one dish that was mediocre. Every plate was stunningly beautiful and even more delicious. This really was the BEST sushi I had in all of NYC!\nThe staff is amazing and super friendly and by end of the evening you will probably make friends with the others at the table.\nLuis and Isabella make everyone feel at home and go above and beyond to assure that everyone feels welcomed and at home!\nI can’t recommend this place enough! Although it may seem that the dinner is pricy, I assure you that it is worth every penny and you will be dreaming of the experience for days! We are already looking for the next occasion to celebrate at U Omakase.\nThank you for one of the best dining experiences I’ve had in a long while! Can’t wait to do it again!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzeHUzdS1RRRAB",
+            "text": "best omakase in nyc hands down - thank you luis and team"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYd0x6amtBRRAB",
+            "text": "We had an amazing experience here! We came to celebrate an anniversary and got the sake pairing. The staff were so nice and the pours were very generous. They gave us extra sake tastings, a dessert course for everyone and a shot of Japanese whiskey for everyone to celebrate our anniversary!\n\nThe food was thoughtful and well executed. There was also good variety amongst the dishes. My only con, which is very minor, would be that the staff was clearly very tired as we came for the last service on a Sunday night so we may not have gotten the full descriptions on some food/sake. It was still very good and would highly recommend especially given the price point."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYdDRERU9BEAE",
+            "text": "Amazing, unique experience. Well executed in design and quality of food. Will hopefully be back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYMUpPMVp3EAE",
+            "text": "I've been here twice and it's a really special place! It's a great mix of omakase style sushi pieces and tasting menu dishes. Always very unique and different dishes and such a fun environment. Luis is so kind and makes sure it's special, personalized experience every time. A perfect place to celebrate a special event and have some really memorable bites!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYc0lPVDBBRRAB",
+            "text": "Best 13 course meal I've ever had! Walked away feeling full and content. The food was incredibly fresh and the service was lovely. A great hidden gem in the heart of Greenpoint! 10/10"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqaU1YRWlBRRAB",
+            "text": "Excellent Omakase with French and Latin American twists! Every bite was delicious, and we were particularly wow'ed by the clam soup, the wagyu and the final scallop course. The owner Luis and his team created a welcoming and engaging experience. We will be back!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURudEtld2JREAE",
+            "text": "Highly recommended! Very interesting set up and very friendly staff!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuZ3E3OThBRRAB",
+            "text": "U Omakase offers a unique Chef’s Tasting experience in Greenpoint, blending traditional Japanese flavors with a modern twist. We the 13-course $89 Chef’s Tasting.\n\nThe clam consommé was rich, buttery, and packed with umami – my personal favorite. The torched scallop had the perfect balance of smoky sweetness, and the A5 Wagyu with mushrooms was melt-in-your-mouth delicious.\n\nOther highlights included the smokey king salmon, and the refreshing kampachi with basil jelly. Each course was inventive and beautifully presented, making for an unforgettable dining experience. If you’re looking for a creative, not-so-traditional Japanese omakase, U Omakase is a must-try!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuMHJpeGl3RRAB",
+            "text": "Our omakase experience was amazing.  Every dish was beautifully presented and ridiculously delicious.  The staff were very friendly and took the time to explain the ingredients involved in each of the 16 dishes.  The decor was beautiful and the ambiance was relaxed and fun."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIejVTS25RRRAB",
+            "text": "Thank you to Luis, Corvette & the rest of the team for a truly great birthday experience! Highly recommend"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIOHAzVDBnRRAB",
+            "text": "Amazing place.  Great hosts, great food - my wife, friends and I had a fantastic experience. Hidden gem."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3cWJmZVhREAE",
+            "text": "I’ve been to many omakase spots in NYC and this one is definitely one of the best. It’s not traditional by any means but the flavors and techniques made each course exciting! For the experience, the price was right and the chef is super…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiNXRfbXJBRRAB",
+            "text": "just the best omakase around"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiNmU2RXRRRRAB",
+            "text": "Best deal out there"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNid3U3MlRnEAE",
+            "text": "Good venue and service but serving fake crab meat at omakase is wild"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURycy0yTnBRRRAB",
+            "text": "Best omakase in the city. Hands down."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNydjR6SmZnEAE",
+            "text": "Fantastic omakase spot! I am so impressed by this place. The food was so delicious and prepared well. You get a bit of everything and it’s all so so unique and such a one of a kind experience. I love how small and intimate this place is. They only take small groups so it’s a nice spot for a date night or to catch up with a friend. I was actually quite full at the end, there were several courses I lost count! Service was fantastic and it’s also BYOB so we got a bottle of wine from a wine shop a block away. I really enjoyed the experience and will be back!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyMTZIRy1BRRAB",
+            "text": "Incredible Incredible flavors throughout. The chefs clearly curated an experience and executed well. I wish they had some more Nigiri and traditional sushi but can’t complaint at all. Hidden gem that won’t be hidden for much longer."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSNm9XUmFnEAE",
+            "text": "The food and overall experience was excellent. Some pieces were missing a small kick, but for the most part, all very good. The setting/atmosphere was awesome. Everyone on the staff was very welcoming. What stops this from getting 5 stars for me personally, is that compared to some other Omakase experiences I've had, this one didn't feel as refined. Still a great place to eat though, and I'd recommend it."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGOW9DSmNBEAE",
+            "text": "I recently had an amazing Omakase experience at U Omakase, it felt like a combination of an Omakase experience with Michelin-style fine dining. The food was simply incredible – creative, tasty, luxurious, and extremely satisfying. However, there was much more to this exceptional experience.\n\nFirstly, the hospitality. Chef Louis provided an exceptional warm hospitality, with free-flowing Sake and personal attention. The large U-shaped table created a sense of community, and before long, it felt like I was sharing a meal with a group of friends.\n\nThe overall experience at U Omakase was truly unforgettable, ranking among the best I’ve ever had. This hidden gem is a steal at $89.\n\nI can’t recommend it strongly enough.\n\nThanks Chef. 🙏💖🙏"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqc2FTMEJnEAE",
+            "text": "This was just a great experience! Came here with a few friends. It's much more casual vibe than most omakases but don't let that fool you: the quality and flavors of the food was excellent.\n\nI won't spoil too much but I am still dreaming of that snow crab. The dinner lasts about 2 hours. It's BYOB but they also serve you house sake!\n\nConsidering the food, ambiance, and sake, I'd say this is one of the best omakase deals in the city. Looking forward to returning!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyeEx5MVZREAE",
+            "text": "Good value as an under $100 omakase experience. The food does lean more towards fusion than pure Japanese but the dishes are interesting and generally well executed. Some favorites were the buttery clam consommé, crab risotto with truffle, and a king salmon with smoke."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNocGJXTGF3EAE",
+            "text": "A lovely intimate dinner with the most delicious food!! My boyfriend and I came to U Omakase for a ~fancy~ Valentine’s Day dinner and we were not disappointed. Each course was memorable, and the duck had insane flavor. The service was great, the music was fun, it all made for an enjoyable dining experience. Will definitely be back for a special occasion meal!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4czhQT2VBEAE",
+            "text": "It was a fantastic time, best omakase we’ve had in nyc so far! (+ A couple of the dishes were the best food we’ve ever had!)\nWhere they shine is their intimate, down to earth hospitality paired with exceptional, creative dishes. Definitely a must try!!\n\nMore Info:\n- 75min seating, but plan for ~2 hrs\n- It truly feels like a gathering of friends, but no need to be intimidated as it just feels very comfortable, no pressure to mingle\n- Look out for the street sign for the entrance, it looks like a house from the outside\n- You will not get to see the chef’s at work up close, as their kitchen is in the corner (but open concept)\n- BYOB no corkage fee (but your new friends may share some of their drinks with you ;))\n- Menu may change, depending on the fresh ingredients sourced that week\n\nRoom for improvement? (With love):\n- The seats at the very middle (bottom of the U) were always served last, meaning we had to hurry and eat to return the dishes so as not to hold up the next course, get less of the birthday cake, and also the unfortunate ones not to get the planned dish if there aren’t enough (the alternate dish was just not as exciting and felt like a rushed after thought…) Perhaps the serving order could be alternated, to start from the middle/ends. It did feel like the worst seat at the table for food.\n- The creative dishes were sooo exceptional that the simple nigiri’s seemed average in comparison. Mixed feelings within my group on which ones we did enjoy.\n\nOverall an amazing place, hence the 5 star. Can’t wait to be back again, thanks for the amazing time & food!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtb1B6Z3B3RRAB",
+            "text": "This is one of the best dining experiences I have had in NY. It was amazing to see how much passion and love went into each dish. The quality of fish was beautiful. I highly recommend going and can not wait to share this experience with more people."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMZzhHQ1ZnEAE",
+            "text": "loved all the dishes. chef brings a lot of flavor and creativity with each dish. service and atmosphere was great. 13 course, byob, and they give you sake. can’t wait to come back."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNldVAyVFRBEAE",
+            "text": "A wonderful experience. The chef creatively takes you through a story with each interesting dish… it not only entices your taste buds but your senses are delightfully moved.  Bravo owners, you created a gem in Greenpoint Brooklyn."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURod2RXR0xnEAE",
+            "text": "If I can give zero stars I would. One of the worst omakase and overall dining experiences. First off, the wait staff was abysmal, they had no idea what was being served to the customers. Every time they put a plate down, I had to constantly ask what was being served. They were not attentive at all and I felt as if I was spending more time trying to get their attention more than anything else. To top it off, I had a live bug on one of my dishes and when I told the wait staff they just took my plate, said “thank you” and replaced it without any further comments.\n\nSecond was the actual meal, the fish felt like it had been sitting out for a while and almost tasted spoiled. Anything smoked was overdone and tasted burnt. Anything raw lacked the high grade sushi quality expected. Even the cooked dishes had an odd taste to them. It was so terrible that I had to walk out of the dinner with 4 courses still left. I will never come back here again nor would I recommend this place to anyone who remotely wants to have an edible meal."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlb3NQVVVBEAE",
+            "text": "My husband and I came to U Omakase's official grand opening night to celebrate our wedding anniversary. Let me say- WOW... I hope we get to spend every anniversary meal here!  The staff went above and beyond to create what felt like an…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGcFpmV0VnEAE",
+            "text": "Out of the 13, I only enjoyed 5. There was a fish scalp in my carpaccio, The smokes salmon was falling apart, The tuna with watermelon water was soooo fishy. I couldn’t get the fishy taste out of my mouth.\n\nOverall nice people but the omakase was just okay for me just because there was so much sauce and the fish didn’t taste fresh to me."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGdHNEQ2lnRRAB",
+            "text": "Food is good.\nService is ok  but I am not sure whether it is worth for 25% tips.\nWhen I booked the place they did not say that I had to pay 25% tips.  When I confirmed the place couple days ago before, they said they needed us to pay 25% tips.  I think it is ridiculous.  They did not mention the tips anywhere on their website."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtMnRtRGZBEAE",
+            "text": "I’m a big omakase lover and let me tell you, U is one of the best in the city! If I could give 10 stars just for the vibes I would. Great music, great ambiance, great service. Highly recommend for a date night. Each dish is slightly untraditional and the flavors are exciting… keeps you on the edge of your seat for what will come next."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMta2JEWTVnRRAB",
+            "text": "So let's start off with its service. Louis and Isabelle were very friendly, warm, attentive, and kind, occasionally socializing with us diners and refilling our complimentary sake/water without being asked to. Service is 5 stars. Now the food:\n\nFirst - Oyster with ponzu, sesame oil and chives. 3/10\nAlthough the oyster was fresh, the sesame oil that accompanied it was so overpowering that it completely masked the ponzu, which made the overall oyster a lot less citrusy and more sesame oily.\n\nSecond - Miso soup with leek, shiitake mushroom and shrimp. 4/10\nThis unfortunately wasn't anything too special, was just miso soup with little bits (1-2 small piece) of shrimps.\n\nThird - King salmon with chili oil, chives, tobiko and fried onion. 8/10\nAesthetically pleasing and delicious as well! The smoked component of the dish was unique and infused the king salmon perfectly. The fried onions were a delicious addition to the dish and complimented the soft king salmon deliciously!\n\nFourth - Soft shelled crab with cauliflower purée and pickled cucumber. 9/10\nThe soft shell crab was so delicious and paired greatly with the soft cauliflower purée, which was so smooth it tasted kind of like mashed potato haha.\n\nFifth - Fluke with ponzu I guess? 6/10\nYou can definitely taste the ponzu and the fluke was fresh. It was tiny, however, and because of its small portion, I couldn't really make out its taste that well.\n\nSixth - Bluefin tuna carpaccio with wasabi and yuzu. 8.5/10\nVery fresh bluefin tuna, which was fatty enough that it paired greatly with the yuzu sauce and wasabi! I liked this a lot, but I think they can enhance this dish even more by using a bit of soy sauce to bring out its umami!\n\nSeventh - Shima aji with preserved vegetable. 7/10\nVery meaty and fresh shima aji, where the preserved vegetable brings out its otherwise plain flavor.\n\nEighth - Wild caught salmon. 6/10\nThis was hard to grade because the freshness of it was impeccable, but there was either none or a very mild droplet of soy sauce brushed on. Hence there were nothing bringing out and enhancing the incredible freshness of the salmon.\n\nNinth - Langoustine Shrimp with beurre blanc sauce. 10/10\nIt comes with a cream sauce (beurre blanc) that paired with it perfectly, which adds a non-Asian twist to the dish. Would totally order another one if possible, that's how good it was!\n\nTenth - Madai fish from Shiba, Japan. 5/10\nFish was fresh as well, but the lack of soy sauce didn't bring out the fish's flavors. Easy fix!\n\nEleventh - Baby Marilyn - chefs unique creation with scallop and chef's unique sauce that can only be found here. 10/10\nThis was both a fun and delicious dish to eat, for the head chef came around torching our scallops one at a time until we hear a crackle, signaling the perfect timing to eat it! It was extremely delicious and the sauce tasted both like a creamy Mayo/butter infused fish roe.\n\nTwelfth - O-Toro tuna with Santa Barbara uni. 10/10\nThe name says it all, can't really go wrong with seared o-toro and uni!\n\nThirteenth - Sea eel from Japan. 5/10\nThe sea eel was fresh but kind of too bland to my liking unfortunately; maybe a little sprinkle of sea salt may help bring out its natural flavors and freshness! (:\n\nFourteenth and last - gooseberries infused with sake, mirin, and fresh cream! 10/10\nVery unique dessert and my first time trying gooseberries. The cream was so fresh that it really complimented the sake-infused gooseberries! You can't get this kind of dessert anywhere else, so I hope you can try it!\n\nOur overall experience was an interesting one and definitely an omakase experience that varied creatively than many others. There's some areas where they can improve upon, and some where they shined incredibly blindingly. There are some special dishes that you simply can't get anywhere else, and that's where they give you the best, delicious experience. I hope they will continue to grow and come up with new, unique, and memorable dishes!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkbzlfTG9nRRAB",
+            "text": "We had an amazing dinner! Food was amazing, delicious and creative.\nIt’s a different way to live an Omakase experience.\nService was friendly and everything worked as planned.\nDefinitely will be back soon :)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaX2VUUXpnRRAB",
+            "text": "What a gem this place is! Excellent food, the atmosphere is amazing and service implacable. Best of all is that you can bring your own drinks."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURodS1iSVdnEAE",
+            "text": "Such a fun time celebrating at U Omakase. The food, vibes, service - all 10/10.  All of the pieces were memorable and exceptional. Highly recommend. We will definitely be back!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqdnBpc1FBEAE",
+            "text": "What a hidden gem. Possibly the best ratio of price and quality for an omakase in NYC. Great atmosphere, every course was delicious, and the BYOB makes the and price value just great."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSOXRTam53RRAB",
+            "text": "Every course was really good and unique and the atmosphere was very fun, good communal feeling. Great price point for omakase as well. Thank you for an amazing night!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwdWZ2MmNnEAE",
+            "text": "Such a hidden gem, everything from the food to the service was amazing. They curate a really fun and friendly vibe for all - can’t recommend this place enough!!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSamRheGNREAE",
+            "text": "I was pleasantly surprised to come upon  this spot in Greenpoint. It was a little difficult to get the reservation as this place has limited seating. There are only fourteen seats and the open kitchen concept works well. The decoration has a good vibe & the music playlist was great. The food was seriously amazingly good."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKNHQtaXpBRRAB",
+            "text": "Great service, delicious food and super nice hospitality! We celebrate a girlfriends birthday party and we were super happy! Definitely recommended!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6d2FlQ2lRRRAB",
+            "text": "We celebrated my husband’s birthday at U Omakase with a group of 10 last night, and it was an unforgettable experience. The food was unbelievable, offering a unique and intimate dining experience that almost felt like private dining. The music set a great atmosphere, and the dessert at the end was delicious. Love that this place is BYOB, although they do offer complimentary sake and a shot of whiskey. They even accomodated for a friend who was pregnant. We had a great time and would highly recommend it! Thanks again to Luis and his team! 👏🏽"
+        }
+    ],
+    "reviews_count": 74
+}

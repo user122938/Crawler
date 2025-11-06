@@ -1,0 +1,614 @@
+{
+    "name": "Chama Mama",
+    "place_id": "ChIJvXMOAbFbwokRZR7e3KnBBc4",
+    "grid": "BK2",
+    "address": "121 Montague St, Brooklyn, NY 11201, USA",
+    "rating": 4.6,
+    "user_ratings_total": 503,
+    "phone_number": "(347) 689-2725",
+    "reviews": [
+        {
+            "date": "12시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210SWNFbGZlVGw1YzJkQ09IVTJjM3BZY1hWbGFtYxAB",
+            "text": "Great wine!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaeFJUVnZRVEJ5VW5sWVMxSkRaM1IyYnprM2JWRRAB",
+            "text": "Been to quite a few Georgian restaurants. This one is now my least favorite. When being seated, asked the waiter if we can be moved to a different table and pointed to a particular table. He said that table is reserved, it was only 70min later that they seated a person at that table. So that was a lie. The salads were ok, have had better at other Georgian spots. The cheese bread was ok, had larger portions with better options for toppings in other spots. The Angus beef was good, the side sauce with it was very bitter, when I asked if they have a different sauce instead they suggested a spicey red one, and then charged me extra for it. Kind of petty.   The Mezcal Coma was good. They didnt have regular carbonated water, only their salted version. Atmosphere was nice. The bill was too high comparative to overall experience. Would not come back here."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUlQzSmlkMlUyWTBaUGQwZHhibW96V2pOMlltYxAB",
+            "text": "Perfectly adequate Georgian food. Better places in NYC…"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSbWExTk5jbHBMZVY5c1ZYSTVYemc0VVd0dFYzYxAB",
+            "text": "Fantastic dining experience! This was my party’s first introduction to Georgian food, and we were all very pleased. We tried a variety of dishes, including the taste of Georgia sampler. Definitely order an extra portion of bread to enjoy with your entire meal. The khachapuri we chose was fantastic and an absolute must when dining at Chama Mama; it’s like fondue inside of a bread boat! The selection of entrees was great and there’s something for everyone. Everything tasted fresh and high quality, and all the flavors were well-developed. The atmosphere of the restaurant was beautiful and the waitstaff were helpful and friendly."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SbmVEZ3pVVE51WVRCNlFtbG5NakF5VmkxRlprRRAB",
+            "text": "The nicest customer service and the best food in the area. The atmosphere is so cozy and beautiful 🤎🤎"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZNGNIbzVTVlJGWkRNMlh6QTFOVFpMU1RSWWMyYxAB",
+            "text": "I love chama mama! The food is absolutely incredible and the new location is SO incredible. Thank you for being so hospitable! This is one of my favorite restaurants"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NNGVETnlTek5ZU0ZCclV6UkljR2hFTTJwaFkzYxAB",
+            "text": "Every single item we tried was delicious. The atmosphere was beautiful. And all of the servers were not only extremely helpful and thoughtful, but also just kind. We had a beautiful evening, highly recommend"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFelZqUXpWVXgzV2pCRlRtOWFiVjlST0dnNVJYYxAB",
+            "text": "everything was fantastic! this was my first time trying georgian food and i was blown away. i especially loved the khachapuri - it was so buttery and cheesy and delicious. the three sauces with the side bread was also amazing, my favorite were the walnut and the pumpkin spreads. the service was also great. we were checked in on plenty without it feeling overbearing. lovely staff, lovely food, lovely atmosphere. my only regret is that i was too stuffed for desert, but i will absolutely be back to try some!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twbGFFUk1WSFZHVFZZelNscDBUSE5IVlRCclRIYxAB",
+            "text": "The food, service, and atmosphere was so warm and lovely. The way they spiced everything was perfect, 10/10 recommend. So excited for the new locations!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KdE5tNWxjRzl4UlcxNVowSlpUbUpCYjBGSlJHYxAB",
+            "text": "We came from Atlanta to have a dinner at Chamamama and we felt like home 😍\nThank you both Natia and Tina, Jemiko and others for hospitality and amazing service  you are providing\nDefinitely will be back ❤️"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SS1JraEROSEozUTBORE9VODRVbFY2WlhKblMzYxAB",
+            "text": "It was such an amazing experience to enjoy delicious, authentic Georgian food — it truly felt like a taste of home! The flavors and atmosphere brought back so many wonderful memories. The staff were incredibly friendly and welcoming, offering warm Georgian hospitality that made the experience even more special. Highly recommend to anyone who wants to experience real Georgian cuisine! Thank you ladies for making our visit so very special! Looking forward to seeing you again soon."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1Q1oxOVZjVU5HUlRSV1NGYzRlbHA2TTNscVUyYxAB",
+            "text": "Literally unlike any dining experience, you’ll find anywhere and in Brooklyn that is saying something. If you don’t get the Adjaruli khchapuri you are nuts."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKSldIRmpVbFU0YkhaSWVVOVpUMUJhWkVSRmJFRRAB",
+            "text": "Disappointed with food. Georgian salad was huge pieces of cukes and tomatoes with no dressing, no nuts, no pomegranate, nothing. Adjapsandal portion was so tiny that couldn’t qualify as an appetizer, could not taste any veggie — only mix of spices. Meat bread (mountain puri) very oily, made with stinky sunflower oil. Otherwise atmosphere very nice and warm. There are simpler Georgian places out there deeper in Brooklyn that serve better quality food but lack the fancy vibe."
+        },
+        {
+            "date": "2주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WT04zZHVNR2RhTTNkYWIyWlZRMlZSTldOd1VHYxAB",
+            "text": "Les plats étaient vraiment typiques et très bons, avec des portions généreuses. Le service était excellent, agréable et accueillant tout du long."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Jd1YzcE9OSG8wWTNKamVtNDNSMU42Y1dOVWNtYxAB",
+            "text": "The menu online and the physical menu at the restaurant are slightly different so just pay extra attention if you have any dietary preferences!\n\nWe were able to do all vegan except for the ice cream dessert…it was very hard to resist trying out the special flavor from Caffe Panna.\n\nI loved all the mushroom dishes and the soup was my absolute favorite! Was not used to the cornbread so will skip that in the future.\n\nThe Brooklyn Heights location was really nice and would be interested in trying out their Manhattan location that’s included in the @michelinguide as well!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CV1N6SlFkR1U0UzI4elluTldOMDVpTUdkR1prRRAB",
+            "text": "Amazing food as always. One of my favorite spots in NY"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prMFMydERlSGxyTlVSV1ZrZHpSeTF6VTJaMlJWRRAB",
+            "text": "Great dining option. The food was fantastic"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taMFFWRXphbEJ0YlRsT1VGSmhUSGMzUWt4ME5HYxAB",
+            "text": "The cheesy bread is always so so so good.\n\nI also ordered the lamb chops which were $45 for “a rack” which turns out to be 5 pieces. Press “x” to doubt, because when I buy a rack of lamb it’s usually 7-9 pieces.\n\nSalads are ok.\n\nThose three dishes added up to $85. You can get better food for that price.\n\nService was a bit annoyed with me for really no reason so yea."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sa1VqQnZWWFJsUzBad01saFFSalkwV25jM2NFRRAB",
+            "text": "Food is okay. Not worth the price"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1UFdrdHhXR05TUW1Ka1VEQmZlR2xFY2t4UFkzYxAB",
+            "text": "the food were just amazing!!! great ambiance. Thanks for wonderful service, Madloba🙂"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkQlVtODRObEp0Yms5UVRVRlJZaTFVZUMxdFpIYxAB",
+            "text": "service not good"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxbFNGUnJaV2xKTVc5M2RGOVRia0kyZUdONVVtYxAB",
+            "text": "Not good service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaU0xWUjFOSFZDWkcxVlptbDRkbGxpTjJKRmMxRRAB",
+            "text": "Chama Mama is consistently fantastic. I’ve been to Georgia and the food at Chama Mama rivals the best of restaurants I went to while in Tbilisi."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKelRFcHVUVzFTY0c4eVUzUkVOelZDYWpaSmRVRRAB",
+            "text": "The food was so tasty but the portions were on the smaller side and I personally thought they were really expensive for what they were. We had the lamb khinkali, the khatchapurri, and split a few appetizers. The drinks were meh. Nothing special in terms of wine and cocktails.\n\nOur waiter was extremely accommodating and very friendly. He was eager to answer any questions we had, and gave us plenty of *very-needed* ordering tips.\n\nThe atmosphere was nice but the restaurant was freezing! Even in September! Bring a cardigan or hoodie with you. It was also pretty loud but maybe that’s just the time of day we went ( 6:30 - 8 ish ). Overall, a cute place, but there’s better out there."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGM1RuaGljVzVEWTJnM1VXY3RWbUpDTjBFMldsRRAB",
+            "text": "Georgian food is the best! Great food that you won't taste anywhere else, great service, great restaurant! Madlobt!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOeVZFOW9SbWgxYW1JeWNsOWlWVWgzZFhkVmRFRRAB",
+            "text": "Very disappointed. No Georgian lemonades or even regular soft drinks — only their own homemade lemonades, which is not the same. The khinkali were tiny, nothing like the proper traditional size. For a restaurant that represents Georgian cuisine, the drinks and khinkali should be authentic and generous. Definitely needs improvement."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWaVFrc3RUMTlDUzNSV2NWa3RXRk4wYTFGaU5HYxAB",
+            "text": "Small food and too expensive for a family"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKRlZrRTVSa1pxT1hOcllXcEljVmcxVDNvdFJFRRAB",
+            "text": "Beautiful restaurant and delicious food!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSaUxUYzRjalJ3YkV0NVVVbHpTRUZDYUdSVVkxRRAB",
+            "text": "The food here is insanely good, so many authentic Georgian dishes and everything tastes homemade. They’ve got a really nice wine and cocktail list too. Plus, it’s easy to get to from Manhattan and the space is way bigger than most NYC spots."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSlluRjFWVTF2ZEdWZmIxaHlRbFJITUU4d1dXYxAB",
+            "text": "Had a wonderful experience for my first time at Chama Mama. The staff took great care of walking us through the menu and recommending a nice variety of dishes. The cocktails are also UNREAL! I look forward to returning."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200M01HTldUMnRpUTJGa1F6QkdTRFl4Wm5CRGVFRRAB",
+            "text": "This is fantastic place if you want to try Georgian food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wQ1FuQlFNVUkwYm10c09GZEpTSGx5UTBsTU5sRRAB",
+            "text": "My favorite restaurant (regardless of location) in NYC"
+        },
+        {
+            "date": "2달 전",
+            "language": "ru",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210TGIwNUpXRGh3TldGcU4wd3hSRkoyZDBzNGRFRRAB",
+            "text": "Красивое место, очень вкусные хинкали, но дороговато для такого блюда. Все понравилось."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sclpFOXNaMmxNUkhwSU1sRlRNRWwxZUhwU1dYYxAB",
+            "text": "Really good food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKUFRYVnZhVmxzTmpOb1JHWlVTWFZGVVVOUlNtYxAB",
+            "text": "Khachapuri and appetizer were good. But I make better khinkali: meat did not taste well, it seemed it was frozen and unfrozen multiple times. An absolute nogo for that dish. It hast be 100% fresh. Also they don’t put the client in the center. Waiters were not flexible. I know better places for less money, specially if you want a good khinkali."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205TVoycGtNVkptY2tsb1dIbHZZVTQyWVVoM1EyYxAB",
+            "text": "Excellent. Different food, good chacha (like a higher strength wine)"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdU1VNVJOVlUzT1Zad04wdFpTVGhMTmpsblRsRRAB",
+            "text": "Excellent place. Khinkali was a bit undersalted and thicker than I’d expected, but still have to give 5 stars in general for the ambience and great service as well as the best Imeruli Khachapuri I have ever had in any Georgian restaurant (and I have tried plenty!)."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OQ2VtMXRiRE5sVjJSTVJFUldRemRxVkZwb00yYxAB",
+            "text": "This restaurant is AMAZING. I found them a while ago and we went there on our anniversary this May. And everything was perfect. True georgian hospitality and food. Authentic but new, rich and tasty. Coctails are just on the next level. The stuff was soo nice. We were the last customers who left, but there was absolutely no pressure from them (don't do it tho lol)\nCan't wait to comeback.\nI used to learn Georgian and still remember a few words, but I was embarrased to say them when we were there lol. So გმადლობთ"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25abVpTMUxkMjFET1dveFFXeFROMU5LTVVvd1NIYxAB",
+            "text": "Vegan options clearly marked! Very nice ambiance"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0MWNIRkJjRU41VkhreVVUZGhaRzlUVmpSU1NuYxAB",
+            "text": "Might be the best food I’ve had in New York!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOalRrbE1aMjFRUzJGblkxTk5SamxsYVU1eE5uYxAB",
+            "text": "I frequent the one in upper west side and always bring my friends and family there. See my review for that location if interested, i had nothing but good things to say. Unfortunately the one in Brooklyn was one of the worst experiences I’ve ever had at a restaurant. I brought a friend from out of town and hyped this place up to him. We made reservations and got there 5 mins before our time. They seated us immediately and we ordered since we knew what we wanted. The staff was nice, atmosphere was beautiful, we got our drinks and waited. Almost 2 hours later, and after several waiters walked by our table seeing there’s no food and empty drinks, we finally look for one that can help. They ask us what we ordered. When they asked that I became so irritated and asked for the check so we can leave. Here I was hyping this place up to my friend and we haven’t even received appetizers after 2 hours. They apologized and said our order will be out in 10 minutes. I decided to stay because mistakes happen, but the food came out 20 mins later with no appetizer or 2nd round of drinks. Just cold lamb chops and soup. It wasn’t the soup I wanted (I expected the creamy mushroom soup instead of a broth one so that’s my fault) and I told them I didn’t want it. We just decided to close out and leave. 77 dollars paid and I didn’t have a single morsel of food. Just 1 pretty in pink drink and a bite of lamb chops. I’m so disappointed in this location. Maybe it was a bad night, but that was enough to leave a bad taste in my mouth. Being neglected like that after having a reservation makes it feel personal even if it wasn’t."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4d1VsQkNYMDFuYUhaRFgxcGpVRUpLWWtSelZrRRAB",
+            "text": "This place was on my “check it out” list for a while! I am upset that I waited too long to go! The food is incredible,service is impeccable and wine is … well Georgian wine is amazing to say the least! My friend and I had Khinkali and Khachapuri, followed by chicken kebabs and crispy potatoes (must have if you are a potato lover like me)! The food was so good I forgot to take pics! Highly recommend! We didn’t need a reservation on Thursday night but it was raining so I am not sure it was a typical Thursday."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1RVFXaHpVVVZ2ZDBsV1ZYcExhMDVGTkRGeFRuYxAB",
+            "text": "A warm, inviting place with flavors I'd never before tasted, but which I hope to taste again!! What an incredible cuisine! It seems like a blend of Persian, Nepalese and eastern European."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kM05sbFBabkJsTWtkblZqZzFTREprWkVveGQzYxAB",
+            "text": "This place is fantastic!!! We had the best waiter, his name was Jamal. He was very informative and helped us with our choices as we weren't familiar with Georgian food. What a great guy! We started with the lamb stuffed grape leaves that were so delicious I could have eaten the whole order myself. It comes with 4 and the garlic sour cream you can eat by the spoonful it was so good! We also had the seasonal Khachapuri, it came out like a pizza. It was incredible, with the chama mama cheese blend covered in tarragon and basil..just delightful. We topped it off with some Lamb Khinkali, which was fun to eat. Perfect dumplings with delicious broth inside. Take a small bite, drink the broth and then eat the rest..simply delicious!! For entree we shared the Chicken Mtsvadi which was marinated chicken skewers served with tarragon tkemali and red onions. Very juicy and delicious. We also shared an order of crispy smashed potatoes that were delicious as well. Napoleon for dessert was ridiculous. The creme patisserie was superb!! We also got the Peach Pelamushi because why not? It was an authentic Georgian dessert and was very good. I cannot wait to go back! The atmosphere was wonderful, the music was fun and the service was impeccable. Drinks were great too. The old fashioned came out with a marinated walnut, shell included! It was so meaty and delicious,you would never guess that you're eating a walnut with the shell. Go there today!! You won't be disappointed"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twa2NscEpRMjR6Y0VWWmFsVlhRakpsT1RSaVZHYxAB",
+            "text": "Despite the marketing of allergen free dishes on the menu (eg gluten free, tree nuts), this place does not accommodate people with genuine allergies or celiac disease. They should remove their misleading labeling from the menu"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wRVh6STVSbFpwU0RsWmFuSjJTalZqWVhwak5uYxAB",
+            "text": "Peak food and staff"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twa1VDMXlSVGh2UVhVNU5EZFBSeTA1U0ZZMlpIYxAB",
+            "text": "As a Georgian, I was really disappointed with Chama Mama. The prices were insanely high, and some of the dishes didn’t even follow traditional Georgian recipes. On top of that, the staff was rude and made us wait 45 minutes for a dish that usually takes 10 minutes at other restaurants. Definitely not going back — and would not recommend."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsbGJrSXpkRTE2VDFONmJFeHliVXA1ZVRCMVNWRRAB",
+            "text": "Loved cheese boat before I showed up and theirs was excellent. Tried the Megruli Kharsho too and it was great. Get them together and dip the cheese boat in the sauce!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOcWJXVlZObHA2VFc5TFFqTlhSVVpmZFZoZmQwRRAB",
+            "text": "Have been twice, lunch and dinner both did not disappoint. Khachapuri with egg and cheese is SO good, also really like the chicken soup. Wide drinks selection, good vibes, excellent service."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VLYWk0Sk9wc01uQ3p3RRAB",
+            "text": "Very nice restaurant definitely worth a visit. Very good atmosphere. Absolutely worth a visit to see if it’s the kind of food you like.  The dumplings were good but had a bit of a funky taste. The bread with the lamb dish was excellent but they really heap the spices on the lamb itself.  The eggplant-mix and mushroom starters were very good.  I’d give all the dishes 7 or 8 out of 10.  Note that the wines are only Georgian and like Greek wines, not that great."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQN0wzcGZuNzZyOEpREAE",
+            "text": "It was my first time having food from Georgia and doing it at Chama Mama was the best decision we could have made. They walked us through the menu and gave us amazing wine recommendations. The food they recommended was also the best. They brought us several sauces that were exquisite. The service was incredible. Our waiter Irakli was very kind and consistently came in to check on us. He walked us through how to eat the food and gave us the best experience. Would highly recommend Chama Mama if you love Georgian food and if you have never had it as well!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkUVVGSmtWVzVWYmtKWFRUZGZWa0Y1VVZwMFdFRRAB",
+            "text": "I loved the space and atmosphere of this restaurant. Very spacious and classy.\n\nFood was great - taste of Georgia, kachapuri, mixed grill - all were fantastic.\n\nI also LOVED my mocktail - pineapple wild. My husband has the pretty in pink which was also delicious.\n\nService was attentive. I think this will be a go to spot in the neighborhood - very glad that this restaurant opened in our nook."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201b01qSjJaekZuYlVObVlYaGpiV1JGTWpkdFlsRRAB",
+            "text": "Amazing food, service and environment. 100% would return here.\n\nWe tried all khinkalis my personal favourite was the lamb. Succulent and juicy and the pastry was great. I loved their take on the nigvziani badrijani (eggplant and walnut paste), so wonderfully refreshing and I wish it was a staple in any restaurants salad.\n\nThe bread with chilli sauce (Abkhazian sauce) was incredible and I NEED the recipe to that sauce. I would be jars and jars, it’s taking LaoGanMa to another level.\n\nMust try, highly recommend. Try their wine and cocktails. Everything is fantastic."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJa056YldBEAE",
+            "text": "Everything about this place was superb.\n\nThe interior is absolutely breathtaking and caught my eye first. Stopped here for a quick bite before heading to the airport.\n\nHad a glass of white wine and some cream of mushroom soup.\n\nEverything was so good.\n\nThe staff was very friendly and professional. They were quick to serve, attentive and good at explaining all the options.\n\nThe interior decor in this place takes the cake though. Perfect atmosphere for a date or a casual weekday dinner meet up with friends."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKRHRocTZDOTZ5YlJBEAE",
+            "text": "Absolutely wonderful experience!\nThis Georgian restaurant exceeded all expectations. The food was incredibly flavorful and authentic — from the perfectly baked khachapuri to the tender khinkali, every dish was a delight. The atmosphere was cozy and welcoming, with beautiful touches of Georgian culture in the decor. The staff was friendly, attentive, and clearly passionate about what they do. Whether you’re already a fan of Georgian cuisine or trying it for the first time, this place is a must-visit. Highly recommend!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZMEotd2pnRRAB",
+            "text": "We celebrated our wedding at this restaurant — and it was absolute perfection!\nThe food was incredibly delicious and abundant — every guest was blown away.\nThe service was exceptional: warm, attentive, and thoughtful. Everyone made us feel so special and truly cared for. And the ambience created (flowers and candles) was just so touching!\nWe’re endlessly grateful to the entire team for making our celebration unforgettable ❤️"
+        },
+        {
+            "date": "7달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3d0t1eWFREAE",
+            "text": "Eccellente ristorante georgiano a Brooklyn.\nSe si è amanti dei sapori mediorientali o semplicemente curiosi, consiglio questo locale.\nA menù sono presenti svariate preparazioni tipiche, tutte molto interessanti.\nI piatti sono realizzati in modo ottimo con ingredienti di qualità.\nIl personale è molto cordiale e attento. È bene farsi consigliare durante la scelta dei piatti.\nIl servizio è ottimo.\nIl locale è molto ben arredato e posizionato in un bel quartiere di Brooklyn."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQcHJhLUJ3EAE",
+            "text": "A Must-Try Georgian Gem in Brooklyn, NYC\n\nThis is hands down one of the best, if not the best, restaurants I’ve eaten at in Brooklyn, New York City, from an ingredient quality and flavor perspective. The Georgian Salad is absolutely sensational—fresh, vibrant, and full of flavor. The bread with cheese (a mix of four different cheeses and egg) was good, though slightly overrated in my opinion; it could benefit from a bit more seasoning to balance the cheesiness.\n\nThe Khinkali with lamb was decent, but the lamb could use more seasoning, and the dough could be thinner to enhance the overall experience. On the other hand, the cabbage dish was out of this world, and the chicken was fantastic—tender, flavorful, and perfectly cooked. The Georgian wine was another highlight, and I would highly recommend trying it.\n\nThe atmosphere is warm and welcoming, making it a great spot to hang out with friends. The staff were incredibly hospitable and provided excellent service. While it is a bit pricey for the portion sizes, the overall experience makes it worth a visit. If you’re in Brooklyn and looking to try authentic Georgian cuisine, this place is a must!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJazgybmFREAE",
+            "text": "The lamb stuffed grape leaves were AMAZING! Gosh, I could eat two plates on my own as a meal.\n\nThe mixed grill plate is SO good. It is a lot of food but just get it to go!!\nAll the meats were very well cooked - a tad bit salty on a small portion of the grilled meats but that’s ok! The dish as a whole was so good.\n\nI wouldn’t order the salad again as it was nothing special.\n\nThe service was fine - took some time to get our servers attention a couple times when we wanted to get more drinks and the bill. But the front staff and we think the manager or the owner of the restaurant were very nice."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLVG5oOHE2dWFHUG9nRRAB",
+            "text": "Long story short. This was my Friday time trying Georgian food is all i have to say is that the food and the people, are amazing. 10/10 no words. The vibe, the waiters, the energy in this establishment is the best :)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VKM3hoTDdfMDhXV0tBEAE",
+            "text": "Just because I’ve been here before and know how this restaurant usually operates, I’m giving it 3 stars this time\n\nWe went today and ordered 3 dishes- 2 came out quickly, but the 3rd one arrived about 15 minutes later. While waiting for the last dish, the food on our table got cold.\n\nNo one checked on us for water refills either. Really disappointed with the service today, especially compared to past visits."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnc1pES2pBRRAB",
+            "text": "The food was tasty and it was put on our table rather quickly regardless of how busy the place was. I’m a big fan of khachapuri so definitely recommend it if you like h cheese. Love the potatoes with the sauce, it’s kind of sour so if that’s not your thing then keep it in mind."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvNnJ6X1p3EAE",
+            "text": "Such a fantastic place with delicious food and creative cocktails. Impeccable service, great atmosphere. Adjaruli Khachapuri is something you should definitely order and save some space for their khinkali. Great wine list, perfect selection of traditional Georgian wines ( Saperavi is my fave). Try their amber wine to trigger your taste buds with a complex taste."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNycG83aDhBRRAB",
+            "text": "This is hands down one of the best if not the best restaurant I’ve eaten at in NYC by ingredient quality and flavor POV. The Georgian salad is sensational. The bread with cheese was unforgettable. The cabbage was out of this world and the chicken was fantastic. Also the wine flight was AMAZING. We wanted to go straight back the next day and Michael was so welcoming and gave the best service."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNib2FmNExREAE",
+            "text": "The food, service and setting were all great! There were so many different menu options to try. There were three of us and we ordered a variety of things to share. The food was so fresh and the dumplings were very unique and delicious! We also each tried a wine flight- which was fun!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBOFluSUh3EAE",
+            "text": "Chama Mama is memorable, and has very good food— I do think it could be more flavor forward.\nThe carrot pkhali was fresh and I highly recommend it as a side.  The beef and pork kebab was good but had a very thick piece of meat, lavash that was a bit dry and chewy, and imo could be more flavorful.  I loved the pomegranate with it.\n\nThe adjaruli kachapuri is a must get as long as you like cheese.  Its simple and fun to eat.  Tastes just like you would expect it to!\n\nOur waiter was excellent, amazing service and helpful with explaining the menu.  The greeter (owner? host?) at the front gave off a slightly weird vibe and handed us a brunch menu for dinner, so theres that.\n\nDespite some improvements that could be made I highly recommend this restaurant- its memorable, a great spot for a date or nice occasion."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNudDkzSmNnEAE",
+            "text": "Georgia is basically in the middle of where Europe and Asia meets within the Silk Road. At Chama Mama, you can find the flavors of those cultural influences where foreign ingredients and styles are incorporated together. Step foot in this beautiful restaurant with real lit candles with amazing hospitality for flavors of the world. Try out some appetizers, salads, and soups then Chama Mama’s famous kebabs and mtsvadi. Add a bread for a complete meal. Stop by Chama Mama and try some delicious Georgian cuisine with three convenient locations located in Chelsea, Upper West, and Brooklyn Heights."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBdUplT1pBEAE",
+            "text": "I like to dress up and come sit at the bar when I visit this location of Chama Mama (otherwise I frequent their Chelsea location). The decor just has a very nice and open space with terracotta and earthy green colors, and the bar and the artwork are beautiful. I love to order at the bar, my favourite is dumplings usually, lamb stuffed grape leaves are delicious and Georgian Amber wine. I always have a great experience as staff is very friendly and knowledgeable and have a great time whenever i visit solo or in a group."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0aE5xQUNBEAE",
+            "text": "Fantastic brunch spot in Brooklyn heights. So if Anthropology was to open a restaurant this would be the vibe. I love the warm rustic tones and all the wild fresh flowers decor.The restaurant was very busy with lots of families. Food were all very tasty and fresh. We ordered 4 dishes with one cocktail and they were all excellent for sharing and we were very very full. Our bill came to be around $50 each. So glad to have tried Georgian food and happy to come back again. Service was fine nothing special but the lady host was very welcoming."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3MDVxNHdRRRAB",
+            "text": "I have been twice to this Brooklyn location and will be returning many times. Great food, service, and beautifully decorated. Out of all, my favorite is a little spread I like to put on anything with bread -- the Imeruli ajika (onion walnut) spread. It is a powerful tangy and sweet flavor that seems to upgrade anything!\n\nGeorgian Chicken Salad Sandwich - Good flavor from the pickled red cabbage and salad. Even better when adding one of their sauces (Imeruli ajika for me of course). The salad dressing makes the filling of the sandwich nice and moist. And, the house-made Georgian bread is excellent.\n\nGrilled Chicken Wrap - This one had a mild flavor profile and was almost dry. The Imeruli ajika made it tasty and added some moisture. I'll be ordering their Chicken Salad Sandwich again instead of this wrap.\n\nImeruli Khachapuri - For me, this is the perfect balance of cheese and bread. Again, add one of their flavorful sauces to complement! I loved it with the Imeruli ajika.\n\nKhinkali with beef and pork (Georgian dumplings) - Good flavor, nice dough. We have re-ordered for the table.\n\nWinter Grain Salad - Nice flavor mix and texture with the roasted chickpeas, pomegranate seeds, and herbs. Very refreshing."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0bUtTdXJnRRAB",
+            "text": "It is not my first time having Georgian food, and this place doesn't disappoint. The food is delicious, and the presentation is well executed. The sunny-side-up eggs with kebab are simple yet delicious.  We also had the Georgian pancake. It is not your typical pancake, and when it arrived, we thought it was going to be a dry pancake, but it was the opposite of that. The pancake melts inside your mouth, a new food experience for sure! The drinks were top-notch. We will be back to try the other items!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2MHRDdXZnRRAB",
+            "text": "Such amazing food! Went here for a biz meeting with colleagues and it did not disappoint. Georgian food is meant to be shared and we loved all the great dips to go along with everything."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNneXIya0N3EAE",
+            "text": "The atmosphere was pleasant, but the portions were small and overpriced. The Imeruli Khachapuri was disappointing—the dough didn’t taste right. A tiny 100ml glass of wine cost $17, which felt excessive. Overall, I’d rate it 5/10. I wouldn’t recommend it and won’t be returning"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqbU1fRW9RRRAB",
+            "text": "Great spot in downtown Brooklyn. The food is unique and delicious. All of the salads I tried were spectacular - as was the chicken. Try the bread and dips too. The interiors are beautiful. Really great space. Oh and they do flights of wine, so you can try a selection."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1U1J6TXljVFo0V1RWQlJYZHFTRXhZZVZGTlVXYxAB",
+            "text": "Really nice food, lovely staff, only downside was wait times were quite long due to the festival. The kebab was excellently tender, also had the bread which was really tasty"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyM1BfWEN3EAE",
+            "text": "We went there early for brunch. Everything was great! The food was excellent, and the interior was beautiful. We got Adjaruli khachapuri, eggplant pkhali, chiji piji, and honey cake. Every dish was very tasty and we enjoyed all of them!\nI'll definitely go back to try more items on the menu!\n\nUpdate:\nI recently tried their machkatebi as well, and it was very delicious, though the portion is quite small."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsbDVLUEZnEAE",
+            "text": "Can't think of a better place for a romantic dinner with a hint of culinary exploration. Georgian cuisine is not that popular, as this makes it more of a gem. The food was delicious, and the staff was great as guiding us through the menu. 100% recommended"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiMXFXc3p3RRAB",
+            "text": "I’ve been dying to come to this place. Great ambience! Lively ! Suuuper good food and drinks! The presentation of the dishes were excellent as well. The staff were friendly and helpful. Overall great experience.\nThank you Chama Mama!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuX2Q3Ty13RRAB",
+            "text": "Excellent food and cocktails, great service. Lovely atmosphere. I've had Georgia food at a couple of places and this has been the best so far, the soup in their dumplings is divine!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5dnRqZlBnEAE",
+            "text": "I think this is my first all-5-⭐ rating! Delicious food, pleasant service, and a lovely atmosphere! Such a fantastic lunch time experience during a gloomy rainy Saturday.\n\nA former coworker and I shared the beef kharcho soup, the Georgian salad, and the imeruli khachapuri cheese bread. All of these were really just delicious, but especially, especially the imeruli khachapuri!! This was my first time having Georgian food and this bread, but I think it was kind of like quesadilla but like 10 times better!\n\nI won't even bother going into describing the main dish because the stuff above is really already quite memorable.\n\nBoth of us also tried the amber wine flight. I'm not much of a wine person, so I couldn't tell how good it was. I tried it because I was really just curious what amber wine was like. Overall it wasn't bad, and that was all I could tell about it 🤣\n\nThe restaurant was also delightfully designed and decorated!\n\nOverall this was totally worth a 35-40 minute trip from midtown Manhattan during a rainy day 😄"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmNXR5dzZBRRAB",
+            "text": "If I had to recommend just one restaurant to visit while in NYC, it may just be Chama Mama.\n\nThey have consistently blown me away when it comes to food, service, atmosphere, and just overall experience.\n\nThis is clearly a place that not only leans into its incredible heritage but is so proud that it gets to share this culture with all!\n\nThe food is absolutely phenomenal, always a 10/10. There are certain staples such as the famous Adjaruli Khachapuri (the beloved open face cheese bowl, they curate table side), dumplings, and kebabs. But they also have incredible rotating seasonal items that are fantastic. I was over the moon for my side salad (and I am a human who came in ready for some extra cheese bread and meat, so that is a huge feat!)\n\nThe food is always interesting, I feel like I learn something new about Georgian culture every time I go.\n\nThere are extensive vegetarian options, as well as plenty of vegan and gluten-free. The wine is natural, imported from Georgia (along with some of the beer list), and also very renowned. I am not a drinker, but everyone I have brought raves about it. And on that note, the mocktails are fantastic! They are very original and tasty.\n\nOn my last visit, I got to try the Fig Nut with early grey tea, lemon juice, and fig-walnut syrup.\n\nSomething that strikes me about Chama Mama is they use immaculate ingredients, and there are things I normally wouldn't gravitate to (harvest salads, figs!). But in their hands it is such a treat. So much love and thought is put into this menu, and it is very obvious with every bite.\n\nDo yourself a favor and stop by here at least once. It will likely become a part of your regular rotation."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3eXFlR3V3RRAB",
+            "text": "I saw this restaurant on DoorDash and knew I had to come try it in person—I'm so glad I did! I'd never had Georgian food before, but this restaurant does such a great job making authentic dishes. Our table got the Winter Grain Salad, Seasonal Khachapuri, and Chicken Mtsvadi, and everything was absolutely delicious. The lemonades were a perfect touch as well. I highly recommend this restaurant for its amazing food, beautiful atmosphere, and friendly service!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYcTQ3Zk1BEAE",
+            "text": "Great place to taste Georgian food, big highlight to the Kachapuri - delicious combination of egg and cheese in a crusty bread. The service was excellent. My only suggestion is that we also ordered the Taste of Georgia but is a little bit expensive for what the dish is. But genuinely an amazing that we will go back again to taste the rest of the menu and repeat the Kachapuri"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5NlkzWnVibVJLYzBGdlJGbHVORkZKVG5WbWVHYxAB",
+            "text": "Chama Mama – Great Food, But Plan Ahead\n\nChama Mama serves absolutely delicious Georgian cuisine—flavorful, authentic, and clearly made with care. The khachapuri is a must-try, and the grilled meats and traditional sides are packed with bold, satisfying flavors. If you’re looking to explore Georgian food, this place is a gem.\n\nBUT — make a reservation. Seriously. Don’t just show up expecting to grab a table, even if the place looks half-empty. They stick strictly to their reservation policy and won’t seat walk-ins, even when there are visibly open tables. It can be frustrating, but that’s how they run things.\n\nSo if you want to enjoy the amazing food without the hassle, book ahead. It’s worth it—but don’t go without a plan."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwcE1fUVNBEAE",
+            "text": "What a great addition to our neighborhood! We visited 2 days after the opening on a Fri night and the place was 95% busy and buzzy! Finally a decent sexy place on Montague which can compete with Felice. The menu is still in a soft mode but everything we ordered was awesome: the mushroom appetizer, the jonjoli salad with a  unique georgian pickled flowers was bursting with flavors, the grape leaves stuffed with lamb had so much lamb unlike in many places! The roasted cauliflower in walnut sauce - great but I wish it was a warm dish like they serve it in Ubani.\nOne piece of advice - to get another brand of tarkhun (tarragon lemonade) which actually would have tarragon herbs. Or just infuse the herbs in house, it is easy and healthier. Also I wish a phali dish was smaller and cheaper, like a regular appetizer.\nThe prices are on a higher side but it is understandable for such nice level of food, service and ambiance.  We will be back for sure."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuaGNpc0pBEAE",
+            "text": "Second time going to Chama Mama to confirm my impressions of my first very positive experience. I went with a bigger party allowing me to try more things.\n\nWe got all khinkali types: lamb, pork, and mushroom. I don't think I ever had a lamb dumpling and I was so happily surprised (I think it was my favorite one). I also got the pork kebab, which was cooked to perfection. The next time I go I would like to try the mixed grill.\n\nI tried the lobio, which was good but I don't think it's in the same league as the dumplings and the grill.\n\nThe other lesson I learnt is to always ask for the trio of adjika: it improves all dishes.\n\nService was very kind and helpful. We even messed up our reservation online and they gave us a table despite our mistake."
+        }
+    ],
+    "reviews_count": 86
+}

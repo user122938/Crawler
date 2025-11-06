@@ -1,0 +1,482 @@
+[
+    {
+        "name": "Colonie",
+        "address": "127 Atlantic Ave, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJY8i4kEVawokR4uFtFh8npMQ",
+        "rating": 4.6,
+        "user_ratings_total": 1027,
+        "phone_number": "(718) 855-7500"
+    },
+    {
+        "name": "Elephant District",
+        "address": "9 Old Fulton St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJIQFtrv1bwokRkEaNwb8ltZQ",
+        "rating": 4.8,
+        "user_ratings_total": 1372,
+        "phone_number": "(845) 314-3606"
+    },
+    {
+        "name": "Boutros",
+        "address": "185 Atlantic Ave, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJh0mec09awokR8AJ75UQHixY",
+        "rating": 4.6,
+        "user_ratings_total": 648,
+        "phone_number": "(718) 403-0055"
+    },
+    {
+        "name": "Chama Mama",
+        "address": "121 Montague St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJvXMOAbFbwokRZR7e3KnBBc4",
+        "rating": 4.6,
+        "user_ratings_total": 503,
+        "phone_number": "(347) 689-2725"
+    },
+    {
+        "name": "Henry's End",
+        "address": "72 Henry St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJLdYpATdawokRiMEMn3lHExk",
+        "rating": 4.5,
+        "user_ratings_total": 576,
+        "phone_number": "(718) 834-1776"
+    },
+    {
+        "name": "Vineapple",
+        "address": "71 Pineapple St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJkdevwDdawokR0j_3ECiQ8rE",
+        "rating": 4.5,
+        "user_ratings_total": 891,
+        "phone_number": "(347) 799-1035"
+    },
+    {
+        "name": "The River Café",
+        "address": "1 Water St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJ2QZOdTpawokRU_eN_EPJaX8",
+        "rating": 4.4,
+        "user_ratings_total": 2418,
+        "phone_number": "(718) 522-5200"
+    },
+    {
+        "name": "Khaosan",
+        "address": "128 Montague St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJP0J9AE5bwokRwOAvtU84Xtk",
+        "rating": 4.8,
+        "user_ratings_total": 1001,
+        "phone_number": "(347) 294-0179"
+    },
+    {
+        "name": "Chez Moi",
+        "address": "135 Atlantic Ave, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJAQsbm0VawokRcg7_fS48m1g",
+        "rating": 4.5,
+        "user_ratings_total": 700,
+        "phone_number": "(347) 227-8337"
+    },
+    {
+        "name": "Clark's",
+        "address": "80 Clark St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJ4wBp3jdawokRZf_Uh0IhaXY",
+        "rating": 4.4,
+        "user_ratings_total": 1737,
+        "phone_number": "(718) 855-5484"
+    },
+    {
+        "name": "Harriet's Rooftop",
+        "address": "60 Furman St Floor 11, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJPxACDBpbwokROc8Ds_8m9WQ",
+        "rating": 3.8,
+        "user_ratings_total": 775,
+        "phone_number": "(347) 696-2554"
+    },
+    {
+        "name": "al Badawi",
+        "address": "151 Atlantic Ave, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJL_1fstBbwokRVaeht7CPayA",
+        "rating": 4.7,
+        "user_ratings_total": 1764,
+        "phone_number": "(718) 689-5888"
+    },
+    {
+        "name": "Ingas Bar",
+        "address": "66 Hicks St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJP6l_znFbwokRpT1_G9i2i_Y",
+        "rating": 4.6,
+        "user_ratings_total": 221,
+        "phone_number": "(917) 909-1177"
+    },
+    {
+        "name": "Café Brume",
+        "address": "80 Montague St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJfVWx3SpbwokRXGOs1emov60",
+        "rating": 4.8,
+        "user_ratings_total": 62,
+        "phone_number": "(347) 227-2852"
+    },
+    {
+        "name": "Grimaldi's Pizzeria",
+        "address": "1 Front St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJgzfayTBawokR9jTsF6hLf40",
+        "rating": 4.2,
+        "user_ratings_total": 9380,
+        "phone_number": "(718) 858-4300"
+    },
+    {
+        "name": "Felice Montague",
+        "address": "84 Montague St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJieXewR5bwokRqDs_MCqYH9U",
+        "rating": 4.5,
+        "user_ratings_total": 464,
+        "phone_number": "(718) 475-9877"
+    },
+    {
+        "name": "Mint Heights",
+        "address": "46 Henry St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJH6LdXwlbwokRWGiaqbe4vPY",
+        "rating": 4.4,
+        "user_ratings_total": 579,
+        "phone_number": "(347) 916-0325"
+    },
+    {
+        "name": "Dellarocco's Brick Oven Pizza",
+        "address": "214 Hicks St, Brooklyn Heights, NY 11201, USA",
+        "place_id": "ChIJRYqTNEZawokRuSMWeyyinyI",
+        "rating": 4.6,
+        "user_ratings_total": 1275,
+        "phone_number": "(718) 858-1010"
+    },
+    {
+        "name": "Lantern",
+        "address": "101 Montague St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJu_V1zUdawokRajRClD40UIc",
+        "rating": 4.3,
+        "user_ratings_total": 1083,
+        "phone_number": "(718) 237-2594"
+    },
+    {
+        "name": "Cecconi's",
+        "address": "55 Water St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJB2xIGTFawokRSX4sCtT9djg",
+        "rating": 4.1,
+        "user_ratings_total": 3008,
+        "phone_number": "(718) 650-3900"
+    },
+    {
+        "name": "Taboonette (Brooklyn Heights)",
+        "address": "138 Montague St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJr7YDu3VbwokRdw7xLzXwPx4",
+        "rating": 4.3,
+        "user_ratings_total": 90,
+        "phone_number": "(347) 916-0711"
+    },
+    {
+        "name": "honeygrow",
+        "address": "194 Joralemon St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJpVQjKUlawokRqwVnM92_hxQ",
+        "rating": 4.3,
+        "user_ratings_total": 605,
+        "phone_number": "(347) 422-0714"
+    },
+    {
+        "name": "Montague Diner",
+        "address": "148 Montague St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJc5j1BABbwokRA4csWdGzsU0",
+        "rating": 4.3,
+        "user_ratings_total": 474,
+        "phone_number": "(718) 500-3287"
+    },
+    {
+        "name": "Tutt Heights Cafe",
+        "address": "47 Hicks St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJAQAsDTdawokRbXcJnQ55gBM",
+        "rating": 4.5,
+        "user_ratings_total": 600,
+        "phone_number": "(718) 722-7777"
+    },
+    {
+        "name": "Westville Dumbo",
+        "address": "81 Washington Street Apartments, 81 Washington St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJI4YtUjFawokRirhCTkv48p4",
+        "rating": 4.6,
+        "user_ratings_total": 2293,
+        "phone_number": "(718) 618-5699"
+    },
+    {
+        "name": "Grand Canyon Restaurant",
+        "address": "143 Montague St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJ9xQS6wJbwokRjKiBiw09eWA",
+        "rating": 4.4,
+        "user_ratings_total": 507,
+        "phone_number": "(347) 889-6670"
+    },
+    {
+        "name": "Xisan de Classic",
+        "address": "151 Montague St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJWTDNM-hbwokR1ijgAI9CLN4",
+        "rating": 4.9,
+        "user_ratings_total": 114,
+        "phone_number": "(347) 294-4544"
+    },
+    {
+        "name": "Table 87",
+        "address": "87 Atlantic Ave, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJN0LWs0VawokRlblPt3vRdBU",
+        "rating": 4.5,
+        "user_ratings_total": 1012,
+        "phone_number": "(718) 797-9300"
+    },
+    {
+        "name": "MeatUp Mediterranean Restaurant",
+        "address": "22 Old Fulton St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJHdQt1hpbwokR63shN2Iv4jE",
+        "rating": 4.9,
+        "user_ratings_total": 379,
+        "phone_number": "(718) 600-1199"
+    },
+    {
+        "name": "Heights Falafel",
+        "address": "78 Henry St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJxTLeuTdawokRtU1jFLvi9hg",
+        "rating": 4.7,
+        "user_ratings_total": 904,
+        "phone_number": "(718) 488-0808"
+    },
+    {
+        "name": "River Deli",
+        "address": "32 Joralemon St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJy7j_j0ZawokRrnTeTM1Ke0s",
+        "rating": 4.4,
+        "user_ratings_total": 578,
+        "phone_number": "(718) 254-9200"
+    },
+    {
+        "name": "Luke's Lobster Brooklyn Bridge Park",
+        "address": "11 Water St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJv1e4pTBawokRBEaJGGqb1YQ",
+        "rating": 4.3,
+        "user_ratings_total": 1278,
+        "phone_number": "(917) 882-7516"
+    },
+    {
+        "name": "Juliana’s",
+        "address": "19 Old Fulton St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJAQr5tjBawokRBBESUv8Tw5I",
+        "rating": 4.6,
+        "user_ratings_total": 6558,
+        "phone_number": "(718) 596-6700"
+    },
+    {
+        "name": "Bevacco",
+        "address": "60 Henry St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJUWWFrjdawokRD37DlCJC6gU",
+        "rating": 4.2,
+        "user_ratings_total": 401,
+        "phone_number": "(718) 624-1444"
+    },
+    {
+        "name": "Curry Heights",
+        "address": "151 Remsen St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJ4yVW4UhawokRUCnb9yh9xaw",
+        "rating": 4.2,
+        "user_ratings_total": 1054,
+        "phone_number": "(718) 260-9000"
+    },
+    {
+        "name": "Noodle Pudding",
+        "address": "38 Henry St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJaZ3zATdawokRwWdbyV9OwmY",
+        "rating": 4.4,
+        "user_ratings_total": 705,
+        "phone_number": "(718) 625-3737"
+    },
+    {
+        "name": "Henry Street Ale House",
+        "address": "62 Henry St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJ3wxUrjdawokRCvceYKTpXFU",
+        "rating": 4.3,
+        "user_ratings_total": 706,
+        "phone_number": "(718) 522-4801"
+    },
+    {
+        "name": "Next Stop Vegan",
+        "address": "88 Livingston St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJtxeOqXdbwokRa1M5fa8HJXE",
+        "rating": 4.8,
+        "user_ratings_total": 931,
+        "phone_number": "(917) 966-6066"
+    },
+    {
+        "name": "Diem Eatery",
+        "address": "79 Atlantic Ave, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJz1ghIXVbwokR8p2L3_ci3KA",
+        "rating": 4.7,
+        "user_ratings_total": 230,
+        "phone_number": "(917) 909-1037"
+    },
+    {
+        "name": "Botte Brooklyn",
+        "address": "327 Gold St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJ1U-nemFbwokRLVb7ULwu3B0",
+        "rating": 4.4,
+        "user_ratings_total": 484,
+        "phone_number": "(718) 586-5090"
+    },
+    {
+        "name": "Iron Chef House",
+        "address": "92 Clark St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJ4UIE2DdawokRt7NVO-poGhk",
+        "rating": 4.4,
+        "user_ratings_total": 610,
+        "phone_number": "(718) 858-8517"
+    },
+    {
+        "name": "Shake Shack Downtown Brooklyn",
+        "address": "409 Fulton St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJUSwK_UtawokRSrPzsarZbUI",
+        "rating": 4.3,
+        "user_ratings_total": 5181,
+        "phone_number": "(718) 307-7590"
+    },
+    {
+        "name": "Brain food the smart kitchen",
+        "address": "111 Court St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJvWrnyjZbwokRCtj-ABP_YUU",
+        "rating": 4.6,
+        "user_ratings_total": 311,
+        "phone_number": "(347) 599-0538"
+    },
+    {
+        "name": "Kogane",
+        "address": "76 Henry St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJAzOhuTdawokRE9fIT1EpNEo",
+        "rating": 4.4,
+        "user_ratings_total": 1026,
+        "phone_number": "(718) 875-2828"
+    },
+    {
+        "name": "Brooklyn Bridge Bistro",
+        "address": "63 Tillary St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJS7SXB0pawokRHgpV2LXWhBI",
+        "rating": 4,
+        "user_ratings_total": 703,
+        "phone_number": "(718) 858-0007"
+    },
+    {
+        "name": "Vinegar Hill House",
+        "address": "72 Hudson Ave, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJ1xNe4cxbwokRnDw-6Rvhxng",
+        "rating": 4.4,
+        "user_ratings_total": 1017,
+        "phone_number": "(718) 522-1018"
+    },
+    {
+        "name": "Henry Public",
+        "address": "329 Henry St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJoZPin0VawokRilJi0l11ubA",
+        "rating": 4.4,
+        "user_ratings_total": 638,
+        "phone_number": "(718) 852-8630"
+    },
+    {
+        "name": "Din Soup Dumplings 鼎泰轩",
+        "address": "162 Montague St Fl 2, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJWWAmRa5bwokRrCSDiFtd8-g",
+        "rating": 4.7,
+        "user_ratings_total": 987,
+        "phone_number": "(718) 550-3888"
+    },
+    {
+        "name": "Shake Shack Dumbo",
+        "address": "2 Water St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJD1oupTBawokR2QGltehQGwY",
+        "rating": 4.3,
+        "user_ratings_total": 5129,
+        "phone_number": "(347) 435-2676"
+    },
+    {
+        "name": "Cafe Volkan",
+        "address": "85 Bergen St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJB84FwlhbwokRo2vDprY6CIw",
+        "rating": 4.8,
+        "user_ratings_total": 299,
+        "phone_number": "(347) 384-2239"
+    },
+    {
+        "name": "Superfine",
+        "address": "126 Front St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJYSFd6zNawokRpLteYhPEu_A",
+        "rating": 4.3,
+        "user_ratings_total": 1349,
+        "phone_number": "(718) 243-9005"
+    },
+    {
+        "name": "Brooklyn Curry Project",
+        "address": "383 Bridge St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJk0BX_z1bwokROkslWHySAz4",
+        "rating": 4.8,
+        "user_ratings_total": 164,
+        "phone_number": "(929) 248-2311"
+    },
+    {
+        "name": "Gage & Tollner",
+        "address": "372 Fulton St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJwZz-LWlbwokR_hshOuzdrkw",
+        "rating": 4.3,
+        "user_ratings_total": 1229,
+        "phone_number": "(347) 689-3677"
+    },
+    {
+        "name": "Saketumi Asian Bistro",
+        "address": "118 Montague St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJucCLBkRbwokRctf7F9azpPo",
+        "rating": 4.6,
+        "user_ratings_total": 595,
+        "phone_number": "(718) 855-8688"
+    },
+    {
+        "name": "La Vara",
+        "address": "268 Clinton St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJVT21BE9awokR_TVyGHmHvtU",
+        "rating": 4.6,
+        "user_ratings_total": 866,
+        "phone_number": "(718) 422-0065"
+    },
+    {
+        "name": "O'Keefe's Bar & Grill",
+        "address": "62 Court St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJL3MqLUlawokRhjCRuHT-sts",
+        "rating": 4.2,
+        "user_ratings_total": 1139,
+        "phone_number": "(718) 855-8751"
+    },
+    {
+        "name": "AlMar",
+        "address": "111 Front St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJuTX9WzFawokR3Bbq2zI2ESA",
+        "rating": 4.3,
+        "user_ratings_total": 796,
+        "phone_number": "(718) 855-5288"
+    },
+    {
+        "name": "L&B Spumoni Gardens",
+        "address": "46 Old Fulton St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJ67MPr4JbwokRkmqWUXvYyTY",
+        "rating": 4.4,
+        "user_ratings_total": 318,
+        "phone_number": "(718) 596-4646"
+    },
+    {
+        "name": "Monty Q's",
+        "address": "158 Montague St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJS3I-8khawokR689mgyHq0GE",
+        "rating": 4.1,
+        "user_ratings_total": 642,
+        "phone_number": "(718) 246-2000"
+    },
+    {
+        "name": "Kazi Halal Food",
+        "address": "195 Joralemon St, Brooklyn, NY 11201, USA",
+        "place_id": "ChIJuYtyWl9bwokR0klO_2HxehI",
+        "rating": 4.9,
+        "user_ratings_total": 84,
+        "phone_number": "(929) 766-8191"
+    }
+]

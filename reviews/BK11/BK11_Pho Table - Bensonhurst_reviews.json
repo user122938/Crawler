@@ -1,0 +1,635 @@
+{
+    "name": "Pho Table - Bensonhurst",
+    "place_id": "ChIJR83arAFFwokRHw_RxJ74xYk",
+    "grid": "BK11",
+    "address": "6814 18th Ave, Brooklyn, NY 11204, USA",
+    "rating": 4.7,
+    "user_ratings_total": 542,
+    "phone_number": "(718) 208-5148",
+    "reviews": [
+        {
+            "date": "19시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SRVpsOXRUemhVYUVWT1RsVkJSRWR5TWtkeWJuYxAB",
+            "text": "Great option for a chilly NYC-Brooklyn day.\nI’m writing this review from my seat, just finished my small beef brisket pho bowl and chicken sandwich. Absolutely delightful. The broth flavor is spot on, plenty of protein. I ordered a small pho bowl and it was plenty. Price is very reasonable, they can easily charge more. I gave this place a 4/5 on atmosphere because it’s a cozy place, not fancy."
+        },
+        {
+            "date": "19시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poNU5XZDBhQzF3UWtNMlNIYzJNbXd4UXkxalEzYxAB",
+            "text": "The was really good, very flavorful. The chicken sandwich really surprised me. It was tender, exploding with flavors from the meat itself and the coleslaw. I will definitely be coming back. Their sparkling water wasn’t bad either, it wasn’t too sweet and it didn’t have an artificial taste. I really like this place, the person serving us was really helpful and kind."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OTFNVaERlbmxqYjI1U1NVcGZkRVpIWjI1RWQyYxAB",
+            "text": "This is an amazing place! My wife introduced me to yet another golden location in Brooklyn. Love the summer rolls very fresh and shrimpy and amazing!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CeGJqQjNRVVJZY1RSblQwWllibDlwUWpGWU9GRRAB",
+            "text": "Great food & atmosphere, clean and you can see into the kitchen to watch your food being made. Big size and small size available! Strong viet coffee!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSdVZsaHFaelJYVVRKNGQzRlhPV1pYYXpGaGMzYxAB",
+            "text": "Pho has great broth. Portions were good. Food came fast. Service was attentive and friendly."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsQmNHSjJSelIwYW0wMWVHVkpjbmh1VFc1c1ZXYxAB",
+            "text": "Delicious pho with rich broth and fresh ingredients. Friendly service from Alvin and fast delivery of food. Definitely a spot I’ll come back to!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GdFYwcEtaV1pEZW5JM2JURnRSR0owVUc4NFJHYxAB",
+            "text": "This was by far the best decision I could’ve made on a rainy day in NYC. The beverages were well balanced and the pho was SO comforting. And the staff are so sweet, and know exactly when to intervene. I will be coming back."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOM1ZIQk5NMDFNTkRWT1FVVmZXVzFIZUU5RFRrRRAB",
+            "text": "The vietnamese coconut coffee was amazing and the service was great! Cool vibe and no one was trying to rush us out."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ST2RrOVdRV2Q2VjFONVdUTk9Va2h0Vm1OVlptYxAB",
+            "text": "The food here is like coming home after a very long day. Whether you want to have a 23 hour pho (bone broth), or their amazing Bahn Mi, so much homey comfort. My brother showed me this place literally in June and being asd I've ordered this sandwich literally twice a week religiously. And you know that subway sandwich smell you hate when you have nothing else to eat? Smell lingers- you'll want this food to linger 😋"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxYWQyZG9TbW93TTJZMldrcE1abTVCVFV4Wk5FRRAB",
+            "text": "Excellent Best in Brooklyn . Enjoyed my Lunch! Great Soup Great Brisket!! Only go here!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CTmNUVklSUzAyUVc5NExUVnJNelV6YTJSc2JYYxAB",
+            "text": "Actually one of the better pho spots in Brooklyn. Would recommend this place over Pho #1 in Bensonhurst"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUlEzUlBPVWRHTW0xa1prOWpZVlJUWjJRdE4wRRAB",
+            "text": "Great pho here!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKa1VrSnRWVzQ1T1c5QlFsbHdOR0ZGZVRreVdXYxAB",
+            "text": "Service here is really good. I ordered the sliced brisket pho and banh mi and they did not disappoint. I recommend you come check this place out. 100% coming back"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsS1dYWmpjR1UwUzBaTU1UZGFObFpKY3pBMVVsRRAB",
+            "text": "Got the house special pho & grill pork banh mi, it’s very good. Service was very good."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BeU1IZ3lOVkV6WHpSdlNGOXRlVmRyUTBwbVpIYxAB",
+            "text": "House special pho was very delicious would recommend again."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gc05UUmxhRVozV0dkemJtazRXSEo0ZERaeVdrRRAB",
+            "text": "I had an outstanding experience. The workers were very professional and friendly causing great service and a great atmosphere. I would definitely recommend this place!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aa1ZUZFNiRFZzYURrMFdIcFdMVkV5VFZsVWVGRRAB",
+            "text": "free drinks are very worth it"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoSGEyVTFZMFJ6TUdnMU5YQmpZMnR0T0hGWVJVRRAB",
+            "text": "Erica is the best"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSU1JuWkNaQzB0YUVObk1WcENlVzVHYkRCWk5VRRAB",
+            "text": "Omg this pho is soo good!! The waitress Erica was so nice with the customer service. I came here looking for warm pho after a badminton tournament\n10/10 would come again!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRVkwNW9iWEpwT1c5WFJqRmZUMFZvYVMxRFRFRRAB",
+            "text": "The place is very hygienic and the food is very good. They provided 5 star services to their customers and are very friendly. Our waiter Erica was a very good example of this. She gave us very good service and the atmosphere of the table is very good!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GMWJreFRjRmN3ZDBReWVXZ3hhMWcwVVZsSFFsRRAB",
+            "text": "Pho table has a really nice atmosphere. Instead of having a 25-30 minute wait they arranged the tables and allowed us to get seated in minutes. Our waiter Erica was also really nice and was always there to help us whenever we needed. 10/10 experience would come again."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wbmRWVjZUVFp3TlZSRlNGVldkakl5ZUZKc1RXYxAB",
+            "text": "ERICA IS THE BEST EVERYTHING IS SUPER GOOD AND HIGH QUALITY 10/10"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KTWFsUTBja3RSWkRsTFV6TTVjR00xV0d0QlMwRRAB",
+            "text": "I have ordered for pick up from here multiple times but each and everytime, my order is always late at least by 30 minutes. I end up waiting for minimum 30minutes each and every time. It’s very disappointing that they can’t be on time despite the fact that we always come after their “deadline”\nThey need to work on their punctuality bc there food is decent"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bmFra3dOVEoyU3pWMmVYQkNUR3BoYlZZd01FRRAB",
+            "text": "Alvin was great with his recommendations. Vietnamese coffee with coconut was tasty. Pho and summer rolls were great as well."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4eVNHNU5ibGRRY1d0ZmFTMXRNV3g0ZEVGd1VWRRAB",
+            "text": "great place food is cheap portion sizes are large the staff are nice and the service is quick very nice experience for me and my wife"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JMllrRkJSbWN6TWpkSGVFeERhRUZwU0c5elNYYxAB",
+            "text": "The pho comes in a huge bowl for only 12.99, honestly a steal and the flavor is amazing"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxYWRHdFpMV3BTUm5CQlYwOVdValpEZFZjM2FtYxAB",
+            "text": "Long wait for the food to be served. Bad service. But the pho is very good. The pork chop doesn't taste like barbecue at all; they use the same pork chop on the pork bahn mi, but I'll come back for the pho. One of the best I have had so far."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25welpHNVNSMFJKVkc4dGMweEJObGRuUW10MGIyYxAB",
+            "text": "The broth for pho was very flavorful and delicious! Would definitely come back."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210WWRtMHlUVlpzY0V4Zk5YTmFValJqYTFKc2NVRRAB",
+            "text": "One of the best phos I've had in the city, waiters were kind and quick, food arrived fast as well. Would recommend for anyone in the Bensonhurst area."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0alNGRmZUM1EwVEdoaFdVUjNXa1JpTkZGMU1IYxAB",
+            "text": "Rly good pho, love it here! Will def come again and again"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUWJYTkZXRmcyYVVaRE5FdzVTRVZXTWs1UVZtYxAB",
+            "text": "The service was fantastic. Alvin was a wonderful server and made the experience 100 times better than I have experienced at any restaurant. His energy and love for his job was infectious. I’ve never in my entire life experienced service like this and will most definitely be coming back!!!!!!!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNeVVHcFJNVXh4TjJkS1pubHVhVVJ1Wm5kRmFWRRAB",
+            "text": "Our server alvin was very nice and provided excellent service to our table"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wSWRHazNMVU13WW5SVFh6YzJUR2RyTWpSWk9HYxAB",
+            "text": "Alvin was a great worker."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201V1IxcEpRblZmTVZNMVZYazBlVlExUlRSVWVXYxAB",
+            "text": "excellent service from alvin VERY VERY FRIENDLY"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210d2VVczJNQzFXUkZReVUwcDJNRkY2YkRSUlJtYxAB",
+            "text": "I had a lovely experience here. Food was great! Big portions for the pho. Attentive servers! I would recommend and come here again!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sUlNreEZVSE52VVRRNE4wWnhhWE5VU2pGdVpsRRAB",
+            "text": "Been ordering take out from here, but you definitely need to dine in to taste the fresh “23 hours” broth. The soup was flavorful, clean, and tasty but not salty like MSG (Make shit good). They have windows to the kitchen so you see the entire cooking process. The set meal is a pretty good deal! I can’t see how this spot won’t be a local favorite soon."
+        },
+        {
+            "date": "수정일: 4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUaDZmYnd3RRAB",
+            "text": "Food and service is very good"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0SVh6UnBkVWd5TTBSM2JuVmtlbEZCUmtKbVJWRRAB",
+            "text": "I was really hoping for a flavorful and authentic Vietnamese meal, but unfortunately, the food didn’t live up to expectations.\n\nThe Vietnamese coffee was quite strong, but it lacked that smooth and rich body I expected. It was also supposed to have coconut flavor, but I couldn’t taste any at all — it just felt like a regular strong brew.\n\nThe pork chop rice was underwhelming. The pork didn’t seem to be marinated enough, so it didn’t have much flavor, and the meat is not that tender.  The spring roll that came with the rice was just average in taste.\n\nThe biggest disappointment was the Vietnamese beef noodle soup. It was promoted as being made with broth simmered for 23 hours, which sounded amazing, but the flavor didn’t match the promise. The soup lacked depth, richness, and complexity — it tasted more like a regular clear broth. The sliced beef was slightly tough, the beef balls weren’t bouncy or chewy enough.\n\nOverall, everything looked decent but didn’t deliver on flavor. It wasn’t terrible, but for the price and hype, it felt underwhelming. Hopefully, they can improve the seasoning and make the dishes more flavorful"
+        },
+        {
+            "date": "1달 전",
+            "language": "zh",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201c1ZqTnBZMnRWTkUxRE1qbG5PVEp5Y0RGWlZGRRAB",
+            "text": "品种较少，味道就这样没有太多惊喜。"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSMWNUZEZTVmxVVVRoTmVXNURPRWd4ZUZvNVFtYxAB",
+            "text": "Cozy atmosphere that smells delicious. Excellent service via Erika. Fast and delicious. I would come here again!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxS2ExWmFjMGRIU2xBeU5IRm1iSGxpVmtwUWRsRRAB",
+            "text": "My host was Erica, she was very polite and the food was amazing. Especially the Beef and Rice platter."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTE4yUjZXRnBMTW05TlVXdDBTRGwzUWtnelEwRRAB",
+            "text": "Erica was super nice and kind to us. The thai tea was super sweet and refreshing."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xseGNrUk1TMUJCVUhkT1FsUndSMjlDZDNRMWVIYxAB",
+            "text": "Food is good and also the drinks"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rd1oxY3dkVGxZVVMxTE9USmhNRVZOTlZkMWNYYxAB",
+            "text": "Beautiful spot !!! You should come and try !! Leos service was great !!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGU1MwZERiSEJmVFZSYVZGSlRhVFJmYlZvM1ltYxAB",
+            "text": "Amazing food and service is great. Leo was very kind and helpful. definitely would come back and recommend."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Bd2EwZFJUM1ZYU2tWS09HRjVhbVptUm1wT2EyYxAB",
+            "text": "Great comfort food and quick reliable customer service. I highly recommend giving the Bahm Mi a try, great price and flavor!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5VmNHUjJVSGRtUmtkNVZFNVBVVWd3UWpOaWJFRRAB",
+            "text": "Tried this new pho place on 86 street for the first time. The pho portion size is HUGE!! Definitely worth the money! The pho is delicious but the soup is a bit salty and lacks a bit of flavor, other than that the pho beef and noodles were good. I was told that the banh mi and the spring rolls were good. The summer rolls dipped in peanut sauce were delicious as well! We also ordered drinks. I ordered the Thai milk tea which came with boba with less ice and it wasn’t overly sweet I would say. Someone else ordered the brown sugar boba milk tea and asked for a little sweet but it was still very sweet to them. Overall, this is a good pho place! Staff are attentive as well."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoYWFVOHRTbXBhU1RrNGJuZDRiMVpYTFVsM1MyYxAB",
+            "text": "I love this place! It's my go to for pho! I love that they have a set combo - pho,drink,and spring rolls."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOM1YyTmtNbVYyY1hsVE9XcDJVSGhyV1MxSlNrRRAB",
+            "text": "me and my boyfriend went here and the people who work here are so friendly, they always check up on you while you’re eating and refill the water often. wait line isn’t too long we got seated immediately. The prices are pretty good compared to other spots that charge 30$ or more for the same amount of food we got. overall we were satisfied with everything and highly recommend this pho spot ."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kQk1GZEZaamRPUVd0VlZrRlpVRlZuU1hZMmFWRRAB",
+            "text": "the pho is so delicious and the broth is amazing. i highly recommend this place. i got the sliced pho special im pretty sure. our server was erica. so sweet"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCMlVEVnpiWFE1VGxGQlpITjJaMXBZWWs5bVRIYxAB",
+            "text": "Absolutely worth coming here. I saw many review had their bowls finished, and so did we.\n\nService: great\nPortion: excellent, bigger than my hand or iPhone (for reference)\nSoup base: clean and not too salty, flavorful. Doesn’t taste like those extreme MSG soup.\nBeef: tender and thickness is just right\nPrice: omg, very reasonably priced\n\nOur 3.5 year old toddler finish all his food too and he can eat the noodle, beef ball, chicken, rice and spring roll. He literally ate everything\n\nFor 3 of us, was $45, incl 2 coffee and 1 soda. We also order one more side order chicken to go because we love it.\n\nEven the rice was well cooked having aroma is so rare to find these days.\n\nEverything was great, coffee was amazing. I feel like we went back to Vietnam. We visited a few times and this was close to authentic"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOS2VuSkRWRjl0WTE5cWVGbHNTbFl6VG5Sd1VVRRAB",
+            "text": "The atmosphere here is very cozy and very clean. The food and drinks are really good. The portion was REALLY big. The broth was super rich and was simmered 23 hours. The noodles were cooked to perfection. The brisket was soaked in the amazing broth, and it rips to the touch. The tea was brewed fresh daily. Our waitress was very nice. I would definitely recommend this place, and I would definitely come again"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FeWVreEhVelUzZDFoVVIxUlpRakZ4VnpOQk1FRRAB",
+            "text": "I had the best experience eating here. I loved the ambience and the food was delicious. Our server, Erika, was the sweetest and super accommodating. I would definitely come back here more often!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rNGFYQlJaMmxSYzJoZllXRXdRMDVHYkVKcE5HYxAB",
+            "text": "The portions are huge—definitely come hungry. The broth was rich and flavorful, everything tasted super fresh, and the service made the whole experience even better. Erica, our waitress, was incredibly sweet, attentive, and made us feel right at home. Highly recommend if you’re craving a big, comforting bowl of pho!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wU1JraG5jVkJZWmxkTFNsZE1iSEZTWm5OckxYYxAB",
+            "text": "Amazing customer service, the food came incredibly fast, and Annabelle and Erika were super friendly and welcoming. The food was incredibly delicious and I finished the house special in under 10 minutes. The Vietnamese  Coconut Coffee was really good too!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214UU9UQkJSSFJKYmpOS1QySjRjQzFuTlhWcGEzYxAB",
+            "text": "food was so good , been here 3 times and it never fails to taste good , the waitress Erica was such a sweetheart and I love this place . If you want tasty food definitely recommend it"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQYkJpTTJkdnA2bldnEAE",
+            "text": "I love this place, their service is amazing here, especially Krystal and Janie because they were super nice and gave our food really quick on a very busy day. The restaurant is also really quick and cools you down when it’s really hot outside. Their beef broth is really flavorful and their pho is full of toppings and ingredients! 5/5 star would recommend"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sa1owNUVkVlZuVG5GcE5rdGxNRlF5ZUhKVmVHYxAB",
+            "text": "Amazing portion size for the pho. I always leave here extremely full. I like the house special pho. You can tell the broth took a long time. Chicken banh mi was a surprising find and pretty good!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvNGRUVllNM0pEUm1OUVNISmZWMEpmVUU5dVVuYxAB",
+            "text": "Very small but amazing restaurant that delivers Everytime. Their house pho special has never been a let down. The consistency is definitely top notch. If you’re down for some hot and warm soup no matter what time of year, this is the place to go! Get that with their combo and enjoy their Viet iced coffee and I’m almost certain you’ll be awake to accomplish anything that day."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aaE9UVnJPRXBrWW5kcldrTTFYMVZwY0ZWMlkxRRAB",
+            "text": "Service is amazing. Our server came to check on us quite frequently and it was really sweet of her. Food service was really fast as well. restaurant is very clean and so was the bathroom lol. Portions are ginormous, and the food is very flavorful."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfb1k2SFZBEAE",
+            "text": "Pho Table is hands down one of the best dining experiences I’ve had in a long time. Excellent service from Tee, Erika, and Anabelle!! They are friendly, patient, and happy to answer questions or make recommendations. I got the Sliced Brisket pho and the ingredients are fresh, and you can tell a lot of care goes into every bowl. If you’re a fan of Vietnamese cuisine—or just amazing food in general—Pho Table is a must-visit. Highly recommended!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kU09WOUxVV3BpVDFablNtVktXblpYVEVZNVpVRRAB",
+            "text": "Went to this place today. The food was super good and the service was also really nice. The atmosphere of the store is also excellent. Their pho is to die for!!! Their broth is so nice and clean and the noodles were perfectly cooked. Their house special pho also comes with different cuts of beef. If you are in the area, I highly recommend giving this place a try."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNMlJYTmZXRlowV0RocFRXaG1kakYyWTBGM05tYxAB",
+            "text": "The best pho in Brooklyn ny!\nTheir menu is small but they have some of the best options. And also the serving size for the pho is huge and so is the amount of protein, you can also sub the meat for grill chicken! I’ve been to many different places in Brooklyn for pho and this one is on the top 2 for me and my friends list!  They dumping was delicious (10/10) and so was the spring roll was also (9.5/10). The pho is ofc (10/10) and the brown sugar bobo tea is a good (8/10). Love the service and Erika was super sweet, lovely girl and great service with a real smile! Definitely our pho go to spot!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoV09HSlVRV2MxTFhoTFNWaDVWR05NVDBoVGRrRRAB",
+            "text": "Absolutely incredible pho! The broth is rich, flavorful, and clearly simmered to perfection—no shortcuts here. I tried the beef skillet pho and every cut of meat was tender and fresh. The herbs and toppings were generous and vibrant, and the noodles had the perfect texture.\nThe service was fast and friendly, and the space was clean and welcoming without feeling overly fancy. You can tell the staff takes pride in what they serve.\n\nIf you're a pho lover (or even just curious), do yourself a favor and try this place. You won’t be disappointed!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxb2RrRmtVbkpTZEhCUmNGSXlUVE4xVkZWQk5uYxAB",
+            "text": "The food was very delicious and filling for about 15 dollars. Erika was very welcoming and nice. I would come back here again 100%"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OMmEySjVXVTFPU21saFJXVmpWRTAyY0ZkcVNXYxAB",
+            "text": "The food came really fast and in big portions and we didn’t have to wait long to get a table. Our waiters Mandy and Vincent, were really kind and generous."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KS1V6WnhSRkZIUnpCcmJESmpRM1pWV0ZkWGJuYxAB",
+            "text": "Their pho is amazing, no complaints at all. However, the bean sprouts, lime, basil and jalapeño are always not fresh every time we go which has been over 10 times. I can tell because whenever they give it to us it looks dry and the lime has ZERO juice coming out, we end up asking for more. I just wish they could do something about this problem, however I will still continue to come because their pho is the best in the neighborhood."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paTExYZGlSbFpxVm1aVmQyc3laazFWTTNCTWFrRRAB",
+            "text": "Best pho place ever and food quality is amazing. Customer service is amazing, very friendly and kind. Cashier erika very nice and amazing with her service. 10/10 recommendations to bring your friends and family here. Prices are reasonable and trust me their food is so worth it"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzb0xhdDJBRRAB",
+            "text": "I really enjoy the Pho here, the place is a nice warm and welcoming place. The food is always amazing as always, I’ve had great experiences both dine in and delivery. Erika attended me and my family in my recent visit and she was super sweet , kind and very attentive. Great experience, overall recommend this place to anyone looking for pho/ Vietnamese food in the area :)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOdFFreEliV1ZIWXpkUloxOVZObVZXYUZoa2JFRRAB",
+            "text": "Great service Mandy and jonathan were very nice had take out. Ordered the new lemon grass pork chop noodle. Pork chop was very tender and juicy."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdmJrZ3dXV2gxYTBjMldFOVpObWxLTUZOaVptYxAB",
+            "text": "Amazing food, tender broth, and juicy briskets. Ordered Brisket Pho and I was full by the time I finished! The Lychee Yogurt I ordered was also amazing and thirst quenching!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJeU03MWtBRRAB",
+            "text": "The food was very good! Highly recommend their brisket pho and their gyoza. Their Thai tea was perfectly sweet and the boba was chewy. Adrian and Erika, the waiters, were very kind and considerate; the food came quickly."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204MmIwSTFZM1Z6YmxSSFRtcHpjelJXWjBkQlVtYxAB",
+            "text": "One of the best pho soup I’ve ever had , great portions for the price !!! Jonathan was very attentive   made sure we felt very  comfortable and made sure the table had everything we needed  would definitely come again!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJa29mZGdnRRAB",
+            "text": "Pho Table is incredible! The rich, flavorful broth is perfection, packed with fresh noodles and generous toppings. Every bite is comforting and authentic. Anabelle and Erika were amazing servers—friendly, attentive, and made the experience even better. Don’t miss the fresh spring rolls and bold Vietnamese coffee. A must-visit for pho lovers!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwamVpMWFkVTVoVDBKZlVrMXNaM05TV2pVd01XYxAB",
+            "text": "I never come to the restaurant but I always order Uber Eats from here when I want something warm and fills my soul. Every time I order they never disappoint. But this time was especially delicious as I was having a bad day and this made me feel so much better 😌 I also added chicken to my beef bahn mi this time, so yummy 😋"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KVVYzUm9aVEJwUVhoMVdHeEhhMFpXVmtGclFYYxAB",
+            "text": "I ordered the house special and the broth was phenomenal. It was perfectly salty and savory. I also got a thai milk tea and it wasn't too sweet which was perfect for those who don't like overly sugary things. Def reccomend"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURINGNHMG5nRRAB",
+            "text": "walked in to give it a try and it really exceeded my expectations! The pho was very delicious, meat is tender and the portion was decent size. The summer roll is really good with the peanut sauce. The pork banhmi is extremely juicy! I highly recommend this spot and I think dining in and eating it fresh is definitely better. Also， the staff was so friendly!"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZd3Y3emh3RRAB",
+            "text": "Pho Table I would rate as a good resturant to dine in or to get a take out, I prefer the first. 10/10.\n\nPortions:\nThey are generous in the portions which is alot and will get you full. The soup taste amazing!\n\nBeverages:\n-$4.95 for Large Milk Tea is quite a deal just saying. Especially in the time where Boba Milk Tea prices can hit $10+ per drink and send a RT-2 Intercontinetal Ballistic Missile directly into your wallet.\n- Some drinks have different portions please let the customers know. For example Thai milk tea has a smaller portion than Brown Sugar Milk Tea.\n-Rest I don't know, you should probably ask.\n\nService:\n-Some of them are bilingual.\n-Is okay I guess they would greet you and then get you seated. Its usually not busy but you still wait.\n\nCustomer Loyalty Benefits:\n- You can request a punch card and getting 9 of them you can get a Pho for free. ~10% Progress per Pho.\n- You get a 5% discount if you use cash.\n\nNeeded Improvement:\n- Please have the app or have it work in a website for Android devices.\n- Also include calories in the menu would be nice.\n- Include a portions definitation on the drinks menu"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQbk1XUXZBRRAB",
+            "text": "This was my first time here, and I had such a wonderful experience with my friends. From the moment we arrived, everything felt welcoming and enjoyable. Erica, Mandy, and Adrian were truly amazing servers. They were friendly, attentive, and made sure we had everything we needed throughout our visit. It felt like they genuinely cared about making our time special.\n\nThe food was absolutely delicious—every dish was fresh and full of flavor. You could tell a lot of effort went into preparing it. The atmosphere was also very nice, making it a perfect spot to relax and enjoy with friends.\n\nI highly recommend this place to anyone looking for great food and excellent service. I’m already looking forward to coming back again!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kS1VsSkxOR2x4T1VWS1kxZFJZVWMyWW1KMFluYxAB",
+            "text": "Best food ever. Especially the house special pho. Very tasty and delicious. Customer service is amazing Especially Anabelle with great customer service provided. Love the food and definitely recommended to come. Also this Thai tea is amazing"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJOV9paklBEAE",
+            "text": "Excellent service from Alvin and Erika. The Beef Brisket Pho was delicious. Spring Rolls were crispy, and the Thai Tea was excellent."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiMnRMWHpBRRAB",
+            "text": "The restaurant is located in the Bensonhurst section of Brooklyn.  They prepare a new Vietnamese fusion type of cuisine.  I ordered online the \"set\" option which includes choice of pho, appetizer and drink.  I received a discount on my order.  I arrived and the food was ready for pickup.  The food was packaged extremely well  and included a small high quality reusable bag with the name of the restaurant on it.  Additionally I was given a loyalty card for future discounts.  I chose the beef meatball pho which was a generous portion with meatballs and noodles.  The broth was very tasty.  I selected the shrimp summer roll which included 2 nice sized rolls.  I had the cappuccino smoothie which had a nice flavor and was not too sweet.  Friendly and helpful staff."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNcmg3ODdqOFB1UVlBEAE",
+            "text": "We ordered the House Specials, along with a grilled pork sandwich and some spring rolls.\n\nThe food is absolutely delicious, and the service is fantastic!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRdktlbW5nRRAB",
+            "text": "I have ordered the grilled sirloin and the house special here several times and the quality of the food is always top tier. The price is also affordable and the staff is always friendly, especially Erika, you'll feel very comfortable around her because she is very social. The atmosphere is also very relaxing and has a sort of cafe vibe to it, especially with the music!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQbWhqY3lvMHYyU2JREAE",
+            "text": "This pho was sooo good! The broth had a lot of flavor, and the portion was huge. The Thai tea with boba was amazing. 10/10 would totally eat here again!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2aThMYm1nRRAB",
+            "text": "First time and the food is yummi. The bone broth pho was so flavorful and filling. The summer spring roll is good too but with the sauce...delicious! I got boba, but it was just ok. Will buy again."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQalpyV01BEAE",
+            "text": "This was an excellent experience. The pho here is solid and hits the spot when you’re craving something comforting. The staff named Erika makes the place really welcoming. The broth is flavorful without being overly salty, and the noodles are cooked just right. While the toppings are fresh, the portion size could be a bit more generous. Overall, it’s a good option for a casual meal."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPM2h5S0Nja3FTV0pREAE",
+            "text": "The house special pho is good! The broth has more of the spice flavor. Good for a quick lunch!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNTHR4OXZoOUlUejlBRRAB",
+            "text": "Pho Table is a great place in the neighborhood for a delicious, well priced meal. Prices and portion sizes are amazing!"
+        }
+    ],
+    "reviews_count": 89
+}

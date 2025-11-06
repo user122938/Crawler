@@ -1,0 +1,530 @@
+{
+    "name": "Bonafini Italian Restaurant",
+    "place_id": "ChIJWbVgsRRbwokRA8DSvuD9JrA",
+    "grid": "BK9",
+    "address": "663 Flatbush Ave, Brooklyn, NY 11225, USA",
+    "rating": 4.5,
+    "user_ratings_total": 1036,
+    "phone_number": "(347) 770-9746",
+    "reviews": [
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oVk1tcDBXR1F3Y0RGM0xVMXRkWEZVY1ZjeFVVRRAB",
+            "text": "Ordered dinner and drinks, no appetizers.\nWaited 30 minutes, dinner was brought before the drinks. Drinks were brought about 10 minutes later. No real excuse given, they were not exceptionally busy.\nThe Chicken Milanese was very good, but just came with a big pile of arugula and half of a very small cherry tomato."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTFltMVVjVWRMVVVjMmVGUlhlV1YxV1VscWIyYxAB",
+            "text": "Food was good. Service was great. It's a nice place to bring a date or friends, without spending too much."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZeE9EaG9kM055UTBGbFFXWjVTR3huWkRoWU9HYxAB",
+            "text": "Great food, nice atmosphere and friendly staff.\nWe went for brunch and were not disappointed"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2todVpuTmZhSHB5U1ZGR05UbFplbVZKVkZGdlVYYxAB",
+            "text": "Love this spot! They have a cool intimate backyard. Great date night spot. The pizza is so good"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OMkxWUkxXRTVFZFZaRlN6UkVXRVpDVlVOSWVFRRAB",
+            "text": "French toast was amazing. Pizza was good, had more oil than I expected but was still good"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWalR6UmZiMDlYT0RkbU9GQjZlRVZhUlRWR2NYYxAB",
+            "text": "I've been here twice and unfortunately was underwhelmed by the food twice. My first visit I got the Cavatelli i believe it was called. This may have been an error of selection on my part, but the pasta lacked what I like in a pasta--warm, flavorful, slightly indulgent. The dish came out almost room temperature and had a very mild flavor. The sausage was a little tough, pasta very \"dente\" and altogether with the fact that the dish wasn't very warm, I wanted to like it as it was my first time in this neighborhood spot but I could barely eat half of the dish. The 2nd time I still had high hopes that this was a nice place to get food..My family came here for brunch and by the end of the meal we were closely acquainted with 3 roaches that kept coming out and peaking at us right next to our table (yes I'm being serious, the ran out into view every 2 minutes almost like clockwork). The service was very nice and our mocha lattes were delicious but I was severely underwhelmed by the shakshuka which was just nasty. I've had shakshuka in cafes before that tasted much better. The shakshuka seemed to be made in the simplest and cheapest way possible. Very little depth imo and just tasted flat and nasty. Eggs drenched in tomato sauce can either be a rich and delicious dish or quite disgusting."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sQlkwUkNTMDVDV1dvM1YwOU1OMmRtY0hCVk5VRRAB",
+            "text": "Great pizzas. Went during the in-between meal so the menu was more limited than I would've liked but that's understandable. They don't start dinner until 5 fyi. Our server was also very kind and friendly. We had some time to chat about our pets, which I always love."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201WE5VMDVlbXR3UjFsTFVUZ3djV28wYVZNdFVWRRAB",
+            "text": "older food is very good and it’s very nice and presentable. I will be coming back here and it’s also affordable."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214a00yWkliMUpzWlZwTmRqVlRRVFJrYURSNVJFRRAB",
+            "text": "We had a nice brunch.  The wood was tasty,  the service quick . Overall nice experience."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CM01ETlJTM1ZZYlU5TmRHbGFXbTh6UVhCTE1WRRAB",
+            "text": "This dish is maybe the best option on the menu and it’s $18. Then you’re left with the decision to spend another $18 on something else because you are still hungry or just go somewhere else."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkV1FuUjVSbXRHYzJFM1VESXRlWGhpZDBWVFZsRRAB",
+            "text": "Highly recommend this place. The food is sooo good!! It is authentic - the owner is from Italy."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sweE9FaGphazloZVV0TExUVXRla1ZZU205R00zYxAB",
+            "text": "Our server was great!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xaVlUSXlURU5hWjBGTWN6VlpVVUU0ZEhsdWRrRRAB",
+            "text": "Visiting Brooklyn, we were in the mood for brunch and stopped by Bonafini, an Italian spot.\n\nEven though it's primarily Italian, that didn't matter -- we went straight for American brunch classics.\n\nI had the pancakes, which came with blueberry compote, Greek yogurt, and hazelnut spread. My dining partner went for what I believe was the Sicilian Shakshuka -- tomato and vegetable stew, olives, bread, and eggs.\n\nThe pancakes were solid: just the right amount of maple syrup. They were a little on the dry side, but still tasty, helped along by what seemed like Nutella or another chocolate-hazelnut sauce. Not mind-blowing, but satisfying and definitely hit the spot.\n\nOverall, a pleasant brunch -- we left full and happy. I'd be glad to come back the next time I'm in Brooklyn.\n\nLast visited: August 23, 2025"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOUFVqSndVbGhGUm5GT1pUTkJhaTFRYURSWE9GRRAB",
+            "text": "Gorgeous 😍…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GTFZtZEZlbU5tVm05S05YZENlbTlaUzFZMk5WRRAB",
+            "text": "Such a nice vibe, food and service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOMFgzZFlRVEJPVW1oaFZrdDFabDgyWVVoMVFuYxAB",
+            "text": "Came for brunch and started out with a red wine and Bloody Mary. My wife said Bloody Mary was done correctly. Also pictured is Italian grilled cheese. Spectacular! Our server was da bomb!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJNFZHWkNNblJCZEU1eWRrRjNWRFpXVUdOb1RuYxAB",
+            "text": "I had a lovely time at this establishment. The food was impeccable and the staff was equally as impressive."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oT2FWcEdVbnBCZEZFdFdqbFFjVVJzU0RSM2VHYxAB",
+            "text": "My wife Parker, my best friend Dex and I went to Bonafini for Parker’s birthday, and to also celebrate the memory of a dear friend of ours who passed away. Everything was amazing, especially our server, Barrel. They had to leave early due to an emergency, so please pass our praises along, and we hope everything is alright! As trans people just trying to exist in the world, they really, REALLY made our experience special. Thank you Barrel and Bonafini for fostering such a wonderful and safe environment with the most delicious brunch around 🫶"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjelVUbERNV0ZUUzNaZlpXcDRPRnBFVFUweFRXYxAB",
+            "text": "No complementary bread is a real problem for me."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKVmNIbGtiekJZTkRkbFRIaHpjV0ZtUVdWd05XYxAB",
+            "text": "Was walking by and decided to go in.\nDELICIOUS!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZM2VFRTFVMk51Y2twVGNHeFVYeTFuUXpCS1VtYxAB",
+            "text": "It’s a very cozy (romantic) setting. The food was amazing and overall I think it was very affordable. Definitely would recommend and would go again!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poSFNsSm5WazFrVEVGZlZtWmxRWEpCYlROdE5GRRAB",
+            "text": "Whipped ricotta appetizer followed by lasagne & a mushroom pizza. Enjoyed rosé wine & a cocktail. Everything delicious-highly recommend."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1UWFrVkJjMG94VVV4T2NYUlBlR1IzTnkxNlNXYxAB",
+            "text": "good food and service but no AC which was super uncomfortable in the summer. would only go when it’s cooler out"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ReWFuaGFibVZJUkhKdGNsZFNkMVJOUWtWcGVtYxAB",
+            "text": "Food is really great! The service I experienced the last time I visited was horrible though. The woman who was our server had a sort of English accent. She acted as if we were bothering her while ordering and then literally avoided our table. Although nothing rude was said, she just seemed annoyed. I literally had to get up and go over to where she was texting on her phone in order to get a refill. She kept her back to us the entire time. Other than taking our order, the only other time she came to our table was to tell us to leave because there was an upcoming reservation. The interior of the restaurant was nice but it was incredibly hot. It’s not great to be sweating while eating. Overall the service stood out as particularly bad."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxeWNtZHFXbVJUZFU4M1MxazVkRXBCUlRSQ1ozYxAB",
+            "text": "Excellent service and food tastes splendid. I would definitely visit this place again."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JM1dFRm9ZMFU1VFZKNVdERjBOblF6V2pnM2JGRRAB",
+            "text": "Great service! Staff was amazing, food came quickly and was delicious. My favorite local Italian spot, highly recommend!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkcGFWVlhaakZtUlVSTVQxTkNXbW8zVEU0dGRrRRAB",
+            "text": "We came to support our local friend from the neighborhood, we really enjoyed our lunch. We ordered the Prosciutto Pizza and the bolognese lasagna, they were both delicious! I had a sparkling lemon water which was super refreshing. We also tried the salted caramel and chocolate ice cream. The waiter was super attentive and friendly. The space was well designed, cozy and welcoming."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSaGNreEpabXRxTkMxRFFUWXhSR1Y1Umw5dFVsRRAB",
+            "text": "A very pleasant and quiet place offering delicious, fresh food. The prosciutto pizza was exceptionally juicy and tasty. The host, speaking with an Italian accent, was very kind, considerate, and sympathetic. However, the overall mood was affected by a waitress with piercings and pins on her apron. She was passive-aggressive towards my service dog, refusing entry until I explained its purpose - which was illegal, and repeatedly coming over to ask if she could clear our plates, even though we hadn't finished eating."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vMmJHOVJObWxyT0MxV00wTmpVMDFYYjBGclpVRRAB",
+            "text": "Very tasty and good service"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJYkoxSmVfMU5mVktnEAE",
+            "text": "Very friendly staff excellent service food is awesome"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPUDhfZXVPbU1pbUhBEAE",
+            "text": "Went here recently with my grandma and it was a lovely time."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VPYkcyZVRjbnVXSzl3RRAB",
+            "text": "The brunch menu was pretty limited, I wish they had some pastas on there, but the overall experience was great. The food was quick to arrive and our server was great at making sure we had what we need but not hovering too much"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNU1hqb3J1cnBLUUtREAE",
+            "text": "Amazing food with great service! Everyone who works here is so nice. Can get quite busy so make a reservation"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLbk1ndWlRM09lbFV3EAE",
+            "text": "Amazing food in a beautiful, classy, casual space."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOWDhqSW5oMWVqLTVBRRAB",
+            "text": "The food was great, my fiancé and I decided to try here after moving to the neighborhood and everything was great from the service to the food."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJejRzOUNIdnBDb1VREAE",
+            "text": "Great service and apps and dinner were excellent!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMSHB2NlN5Nk5UZDRBRRAB",
+            "text": "Amazing place with amazing food and the best service!"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VNLThxN084cTZlSWNnEAE",
+            "text": "Gracias por la cortesía del pastel de cumpleaños. 🎂"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZb3NDeG93RRAB",
+            "text": "Bonafini delivered an unforgettable lunch experience—elegant, comforting, and beautifully executed from start to finish. Every dish we tried was a standout, beginning with the Breakfast Pizza, which was a true revelation. The salmon pastrami paired with robiola and mozzarella was rich and flavorful, perfectly complemented by the roasted scallions and the creamy egg nestled in the center.\n\nThe Lasagna was simply exceptional—layers of tender pasta, hearty beef & pork bolognese, velvety béchamel, and just the right amount of parmigiano. It was a warm, nostalgic dish elevated to a fine-dining level.\n\nWe finished with an Affogato that struck the perfect balance between bitter espresso and silky gelato—a simple pleasure, executed flawlessly. The Mezcal Negroni mocktail was another surprise: smoky, complex, and incredibly satisfying even without the alcohol.\n\nA special mention must go to Anna, our Server, who brought the entire experience together. She was super enthusiastic in a genuine and sincere way—helpful, informative, and clearly passionate about the food and the restaurant.\n\nWe sat in the backyard, which was quaint and cosy—a peaceful little escape that made the meal feel even more special.\n\nBonafini manages to feel both sophisticated and deeply welcoming. The service was thoughtful and attentive without being overbearing. We’ll absolutely be back. This is the kind of place You instantly want to recommend to everyone You know."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvMV8tY21RRRAB",
+            "text": "location kinda busy sketchy but very good food and service"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvbGJTSllBEAE",
+            "text": "First the good. Very welcoming warm spot. The waitresses were kind and gave us amazing service. The appetizers were good! We had the calamari and kale salad. I could see myself going there just for the salad. The pasta was bland. It was like almost good, like almost hit the spot but not quite it."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNveV9qOXF3RRAB",
+            "text": "We went for brunch and lunch. We love all the food we ordered and service is pretty fast. It’s a gem in the neighborhood and a go to place for us."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJZ0lXeWJREAE",
+            "text": "Came here with low expectations for the dinner service after seeing most of the reviews were about the brunch service, and am happy to say that they are very good.\n\nI highly recommend the Calamari & Zucchini and the Prosciutto pizza. The calamari/zucchini batter was very light, crunchy and decently oily with lots of flavor. The prosciutto pizza was thin, crunchy, and delicious with the fontina giving the pizza a mildly tangy flavor complimented with the prosciutto.\n\nThey had sadly run out of tiramisu by the time we had dinner, but our waitress recommended the Salame al Chocolato which we initially were skeptical about but it turned out to be extremely good with a delicious cream to complement it on the side.\n\nOur main waitress Beryl (might be spelling her name wrong) was extremely friendly and hardworking and gave our table wonderful service in addition to the other staff that helped in between. If you have her you'll be in good hands."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJMi1YNGRnEAE",
+            "text": "This is one of my favorite restaurant on Flatbush Ave. I come all the time and I have the greatest experience when the owner is present. I come in with my dog and we are always welcomed. This past weekend a woman was serving I believe her name started with a B and she had orange highlights in her hair. She was extremely rude to me… I’ve never been talked to with such disrespect. This woman told me I couldn’t come in with my dog which was not a problem being as though the policy has changed. However the tone of this woman’s voice and her putting her hands in my face telling me I had to leave. I’m not sure if she was having a bad day but she does not need to be working in the service industry."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJcGNHRkh3EAE",
+            "text": "Vibe was good. It’s a cool spot and busy.  The service was good. Super nice and cool. The food was good not great. Prosciutto pizza is great, cavatelli was fine. I got the Brownstoner cocktail, great as well"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRNF9fc3JnRRAB",
+            "text": "Great service, great pizza. Very friendly staff."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRdzdYcXhBRRAB",
+            "text": "A neighborhood favorite for brunch! The staff is so sweet and pleasant."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNReHZqWEV3EAE",
+            "text": "Came for brunch and it was pretty good. Will definitely come back. The ginger cocktail was really good. Loved the hash browns. The shakshuka was okay - felt like it could have been a bit richer in flavor and thicker in consistency but it was still enjoyable. Best brunch I've had in this neighborhood. The server was incredibly friendly and helpful."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMXV5aTh3RRAB",
+            "text": "Very friendly staff"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBdThTVFFnEAE",
+            "text": "Almost everything about this place is great. The food is delicious and filling. The natural light fills the restaurant beautifully. And our server Ann, was excellent, affable and  checking in on us regularly.\n\nAt first we were sat in a table in the very back looking at the storage space, but other seats opened up that gave us a real view of how nice the restaurant can be."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYOTVhdkF3EAE",
+            "text": "Tried this spot 3 times, the first time was about a year ago and we were very disappointed. Had 2 entrees and both pastas were underwhelming and bland. But the appetizer (veggies) was great!\n\n2nd time was for brunch and again, just bland but portions were good.\n\n3rd time was recent and we had a much better experience. Pastas and desserts were fine, and drinks were good. I’ll give it 4 stars for now and will definitely give it another try!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqaHF1SHBnRRAB",
+            "text": "What an incredible gem on Flatbush! I’ve been meaning to come here for a while, and finally decided to pop in for brunch, and I’m so glad we did. The food was incredible and the service was so friendly and hospitable! We got blueberry Pancakes, the scramble with mushroom that was soooo good, and my sister got the sausage sandwich! We also got pressed juice!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWbUxmTXRBRRAB",
+            "text": "Came here for lunch but they only have brunch food on Sundays. The place was a bit too loud, but cozy. The potatoes were very oily, and the salad is just arugula, but other than that good dishes for the price. Would love to try the pasta at night."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpN3Jyd1dREAE",
+            "text": "Found this location after googling \"brunch near me\" on Sunday. Greeted at the door by a hostess who warmly informed us that due to capacity maximum the wait would be 30-40 mins. We were surprised to be informed our table for 4 was available…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5XzdYVkd3EAE",
+            "text": "Stopped here for dinner before a show at Kings Theatre. It was a Wednesday so they had a jazz duo playing, which was fun. The server was very attentive and knowledgeable about the menu (I appreciated her suggestion of wine). We had the fried calamari & zucchini appetizer and I had the Cavatelli for my main. It was all delicious. I would absolutely come back if I was in the neighborhood."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnNXVTYjV3RRAB",
+            "text": "Had an authentic breakfast in a lovely atmosphere.\nWould definitely  recommend the place.\nFood is really fresh.\nI had Portobello Mushroom, Roasted Tomatoes & Cheddar Scramble (w/salad, toast) and organic lemongrass-ginger tea.\nWill come back again!!!\nStaff is also very friendly:-)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCak11eUNREAE",
+            "text": "Came here for brunch, it was easy to reserve but when we got there it was quite busy. Service was friendly. The matcha latte was nicely foamed but they didn’t use a good grade of matcha which is my main complaint. I had the montrealer…"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5a08zdjlBRRAB",
+            "text": "A very great Italian restaurant with great cuisine and atmosphere.  The dishes are well presented with taste and aroma (which we need to bendac in the places like that).\nNote that you have to wait a little while for the dishes not delivered so quickly.  Good quality wines, not much choice, and the drinks and beer menu are poor.\nI definitely recommend this restaurant 👌"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXanVuLTVRRRAB",
+            "text": "This place is a new little hidden gem in Brooklyn.\nProof of vaccination is required upon entry.\n\nThe waiters were attentive, positive & courteous.\n\nThe food takes a while but when it came out, boy was it gooood! My French toast bread was huge blocks and was kinda dry but still delicious.\n\nFor a quick breakfast & brunch, GO HERE!"
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvN3VQMnJBRRAB",
+            "text": "The NY strip steak and cheese eggs are some of the best I have ever had. Their pancakes are definitely something different. A mix of berries, chocolate chips, and creme fresh. Each bite was perfection. To top it off, the mocha was creamy and perfectly brewed at just the right temperature. Their chai latte was the right blend of spices and just like the mocha, perfectly creamy and brewed.\nEdit: We stopped here for breakfast before heading back to Oklahoma and I left my bag here. The waitress ran a block after us to return it. So not only do they have great service, they are amazing people. I will definitely be coming back to Bonafini ony next Brooklyn trip."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSdU1fMkxBEAE",
+            "text": "Nice atmosphere. I’ve been for both brunch and dinner. Brunch is a little overpriced, but I think that of most brunch places. The pasta is really good for dinner!"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnMFBHZFFREAE",
+            "text": "Nice place for brunch on Sunday. Good music, not very expensive. Very good attention, everybody was very kind. WiFi available.\nThe chocolate chips pancakes are EXTREME. Couldn’t finish them. Should have a smaller version for solos. Coffee from $2.5 to $4. Pancakes $12. Bottle of tap water for free."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3dnZxcFd3EAE",
+            "text": "Portion sizes are very decent, fair price for yhe high quality and the live music really added to the charm of this little restaurant. Will definitely come back!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdTd6VjJRRRAB",
+            "text": "I really like this place , excellent service and food.\nNext time I have to try the dessert ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqbU5xbjNnRRAB",
+            "text": "One of my favorite restaurants in this area! Perfect for a celebration, hot date, or just a really good meal. The portions are incredible, the service is great, and everyone I’ve ever taken there loves it."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtdm9qd05BEAE",
+            "text": "This was a very relaxed and quaint restaurant! Highly recommend from multi diners! We all enjoyed our food and were highly satisfied! Nice sized portions for the price! The desserts were delicious and yummy too!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkbDhlVE13EAE",
+            "text": "I love this place! It’s perfect for a date night, family dinners, and the Sunday brunch in Brooklyn with the cool kids! Owner Liliana is the best and always treats you like family! A neighborhood staple with charm and a great Bloody Mary!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtOFBHUldnEAE",
+            "text": "The food was surprisingly delicious, and I say surprisingly because the brunch menu is very simplistic and almost basic. But they knock the simple things out of the park. The greens with the hash browns are just the perfect combination together. The breakfast sandwich, both the one with bacon and cheddar and vegan were so tasty. I got the one of their juice presses, golden girl, I think and it tasted very fresh and vibrant. My only problem is that for brunch they kick you out in about 2 hours, usually we like to stay and talk and order more drinks leisurely and we had to hurry up and eat here."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSOHBPeHFRRRAB",
+            "text": "Overall rating: 4.6\n\nI remember coming here for dinner once and to be honest I didn’t love it. I thought it was overpriced for the location & while the pasta was good, it wasn’t anything special.\n\nTHEN, I went for brunch! Oh, my, god. I am obsessed with the French toast. Like obsessed. Like best I’ve ever had. I also got these “fries” or hash browns and it was a bit overwhelming tbh.\n\nBut I will definitely be coming back just for the French toast. It is SO good. Their juice is also really good!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXNnFqRjJRRRAB",
+            "text": "Everything was soo good. Came for a birthday celebration and they helped us hold a cake to surprise our birthday girls.\n\nFood was amazing. Service was amazing.\nWe ordered calamari, mussels and all the sides to share and each got a pasta. I got the gnocchi. All great. Even the free bread.\n\nMy favorites would definitely be the mussels, cauliflower puree, and tagliatelle. Yum, yum, YUM! I'm in love."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXNk1lSnh3RRAB",
+            "text": "This restaurant is so quaint and cute. I came for brunch and it was crowded but not overly crowded. The tables were decently spaced out.  I ordered the avocado toast w egg and it came with a half a plate of arugula. The toast was sizable,…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwMXNtcXFnRRAB",
+            "text": "Food was great. It just Took sooooooo long for it to come out, at least 45 minutes. And the  service was terrible. I'm not sure if the waitress was having a bad day but there's no need for attitude.  But food was fantastic."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSX05IOUpREAE",
+            "text": "My wife and I tried Bonafini’s brunch months ago, and recently came back to try the dinner menu.\n\nIt’s a really nice date spot with amazing food, good ambiance and reasonable nyc prices.\n\nWe will definitely come back for the pancakes at brunch time! 🤤"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnMkstWVR3EAE",
+            "text": "The french toast was fantastic. It was the perfect consistency - a slightly crispy and tough outer crust with a super soft and moist inside. Delicious.…"
+        }
+    ],
+    "reviews_count": 74
+}

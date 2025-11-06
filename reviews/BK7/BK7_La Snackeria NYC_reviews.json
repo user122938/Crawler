@@ -1,0 +1,551 @@
+{
+    "name": "La Snackeria NYC",
+    "place_id": "ChIJbSgMJ-xFwokRvDN1T4XpirM",
+    "grid": "BK7",
+    "address": "5823 5th Ave, Brooklyn, NY 11220, USA",
+    "rating": 4.2,
+    "user_ratings_total": 244,
+    "phone_number": "(347) 799-2953",
+    "reviews": [
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKalVtTkhhbVpMU0Vzek1sRTFNRUZ3TWt0b1JtYxAB",
+            "text": "I just ordered a birria pizza I asked for utensils nd was not given I also got the wrong drink that I was charged for and I didn’t get salsa 🙄"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210VlpWWmxVVlowYkV4bmIwMU9kbkJsUlU5VVVsRRAB",
+            "text": "Es la primera vez que compro algo aquí , pedí una rusa preparada que por cierto estaba muy buena , ordené unos esquites quedé un poco insatisfecha por qué no le ponen chile en polvo ,cuando pregunté que porque no llevaba chile el muchacho me dijo que ellos no le agregan chile en polvo a los esquites, pero de todas maneras me ofreció  Tajín\nEl muchacho muy amable sin duda volveré para probar la comida !!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OTVJFbzJPVXh2UzJOMVFrRldNemxsTlhwcGNtYxAB",
+            "text": "The carefully selected decor creates the right feeling. Employees show consistent friendliness during each visit. Each item was cooked with precision. This restaurant stays clean and those who own it are pleasant, helpful and direct. This La Snackeria NYC is wonderful!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xseVZXWXpkR2x5YXpFdFNWWmFUM013UjJOelUxRRAB",
+            "text": "La Snackeria never disappoints. The food is incredibly flavorful — every bite is packed with taste! Their beverages are just as good, refreshing and perfectly paired with the meals. On top of that, their delivery service is super fast and reliable. Everything arrives fresh and perfectly packaged. Highly recommend if you’re looking for delicious food and great service! La comida es deliciosa!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNNVYwMWtiVmxYWVhRNFVsVmFPV1JrTFdkNlZtYxAB",
+            "text": "I went in for an esquite and they charges me 7 dollars for what looks to be leftovers scrubbed from the bottom of the container. When I asked why so little I was told by the girl at the counter  “because it’s just the plain one” as she shrugged her shoulders and to top it off look how dry it was smh will not be recommending to anyone anytime soon"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPYW9zOXY1elltb1lREAE",
+            "text": "Stopped buy for the first time and got a cheese and one birria/cheese empanada.\n\nIm so glad i dont live in the area because im telling you I would have empanadas breakfast lunch and dinner! Delicious"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQLTUtNE93cnVmZFR3EAE",
+            "text": "If you haven't been to La Snackeria NYC yet, you're missing out on the best savory treats in town! We absolutely loved the chicken, beef, and cheese empanadas—each bite was pure bliss!  Their lemonade slush and horchata boba were the perfect refreshing companions.  Plus, with board games on hand, it’s a fantastic spot for families!  Amanda’s attention to detail and exceptional service really make a difference. It's amazing to see a business that genuinely gives back to the community! We adore La Snackeria for their integrity and delicious food. Can't wait to go back!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJNFo3WXZ3RRAB",
+            "text": "I’m Mexican American and I was raised in the southwest. I am always so disappointed whenever I try Mexican food in NYC.\n\nLet me tell you—- this was the best Mexican food I’ve had in the Five years I’ve lived in New York!\n\nI got the Birria tacos and a mangonada. Absolutely delicious! Highly recommend!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3b3FyUUlnEAE",
+            "text": "Place where you can have family time . Eat snack and have fun with their board game"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURncHRxUUNREAE",
+            "text": "I had high hopes for this place unfortunately it wasn’t that great first and foremost the girl kind of had an attitude I mean I would understand she was the only person working there but the food was lack in flavor & I ordered an esquite it didn’t have cheese I also got a chicharon preparado it was poorly made."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURneW9uSlRBEAE",
+            "text": "Food is OK but their customer service is wack. Their demeanor is  rude,negative and dismissive. It's like they don't even want to be there taking your order."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEcXJhNHNBRRAB",
+            "text": "Overall, I feel like this restaurant was very popular once it was opening but lately it’s been a little down lately. I recently went after a while and noticed that they give smaller proportions of food and don’t cook it the same maybe it’s just a new cooker but it’s definitely not the same vibe as before I guess the food is still worth it.\n\nEn general, siento que este restaurante fue muy popular una vez que abrió, pero últimamente ha estado un poco abajo. Hace poco fui después de un tiempo y me di cuenta de que dan proporciones más pequeñas de comida y no la cocinan de la misma manera, tal vez sea solo una cocina nueva, pero definitivamente no es el mismo ambiente que antes, supongo que la comida todavía vale la pena."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBOXViTWp3RRAB",
+            "text": "A single bite in… less than a table spoon of chicken in an empanada is crazy.  Either increase the price and add more meat or lower the price because this isn’t worth $3.00, the size is right the portion is wrong."
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKb3F5cG5BRRAB",
+            "text": "Birria Tacos & Birria Ramen were the best"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzXzZDMF93RRAB",
+            "text": "I have had a lot of birria tacos in this area and unfortunately these were not the best. They were very salty and were a bit bitter from the onion. The birria ramen was also very salty and the noodles were as if they used instant noodles. The good thing was the parcha slushee with Tajin, that was DELICIOUS!!!! The place inside was very clean and the board games gave the place a fun atmosphere. I would come back for the drinks but not the food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIb3Q3eFNBEAE",
+            "text": "Very crammed.\n-When i ordered they forgot about my drink had to wait 20 more minutes.\n-the food is mediocre at best\n- my dead grandma can cook better than wha they serve at la smackeria\n- the lady with the glasses is the only hard working person there goat 🙌"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURieEtuU3F3RRAB",
+            "text": "The food is quick and it’s usually packed, but I like aesthetic because it’s pink. I order other dishes, but I only have pictures of the Frases con crema and Horchata. I am a huge fan of mango so I ordered the one on the right and it was really great. I love the chili powder and the Chamoy with the candy"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNianZQS1hBEAE",
+            "text": "The quesa birria is absolutely out of this world the best birria I’ve ever had so far 10/10! The churros are amazing with lechera. My husband loved his torta cubana and taco de chorizo he totally recommends."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyZzhmTW93RRAB",
+            "text": "The best food ever. I love it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyaE9hQzVnRRAB",
+            "text": "I placed a pick up order on the phone and went to pick it up, but they said it was accidentally given to somebody else and that they were bringing it back now I told them that I did not want that order that was given to somebody else because you never know what they could’ve done with it it started touching it and then figure out it’s not their order when I went back inside. I told him I want another fresh order. I do not want something that some other people left with they told me no problem. I watch the lady walking with my bag that she mistakenly took , and then all of a sudden my order was ready  … When I got the food like I always do in my car in front, I open it to eat some And Of course, the Birria empanadas were all soggy and lukewarm Just like the rest of my $60 order! When I went to say something, they tried to assure me it was a fresh order. No fresh order is coming straight out of oil to my hands soggy and cold! Be careful everyone I have not been back since. And I was very loyal there"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMMDhhZmJREAE",
+            "text": "Came by on a Saturday evening, food and service were amazing. Staff greeted us upon entering and constantly checked in on us if we needed anything else. Food was made quickly and tasted great. Best birria I have ever tried. Would definitely be coming by more often !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMdXFPYXF3RRAB",
+            "text": "Last week my cousin told me about this place and I was craving something sweet but spicey and I saw the \"Dulces Enchilados\" and I was like that looks good and apparently it was."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6aWNiRl9nRRAB",
+            "text": "service sucks"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6OXVEem5RRRAB",
+            "text": "I’ve bought at this establishment so many times and today my mom walked in to use the restroom and the fat girl with glasses (who is always kind of snotty by the way) told my mom she needed to make a purchase in order to use the restroom. I…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6azd2aDhRRRAB",
+            "text": "They make the best birria tacos"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6alpUanFRRRAB",
+            "text": "Two years ago my sister had told me about “La Snackeria” and their delicious Mangonadas. So I had to come and see it for myself.  When I arrived I fell in love with the pink decoration. So far I’ve tried; las fresas con crema, Nutella açaí bowl, omg the shrimp tacos, and the steak burrito bowl and was never disappointed. What I also love is that they have board games. Thanks for filling me and my stomach with joy :D\n\nI fully recommend anyone to go and give it a try."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6b0pMZkZBEAE",
+            "text": "AMAZING food & a great atmosphere. Could not recommend enough!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6b09LN3VnRRAB",
+            "text": "Really nice place the tacos was delicious !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUMzR5cm13RRAB",
+            "text": "That was awesome with the girls taking care the cashier and Help the customer"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUeHREYThRRRAB",
+            "text": "A great little hidden gem in the neighborhood. The food is amazing. The service is great and it’s female owned."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqanZMbldnEAE",
+            "text": "Sorry to give one stars, but me and my boyfriend experiences here was awful, especially the servers please do me a favor you guys could hire a better servers than that, I am a servers myself and I have so much manners and respect. When I ordered and i know that the worker was only working there herself but when she food  was ready, there she completely ignored it and was keep doing what she was doing which making drinks.  Like that’s common sense to serves food first before it’s get cold no? . Never checked on us on how we doing anything. The food was AMAzing like the chef did an amazing jobs but I think the place in order to survive is the customer service skills because you guys live off tips no?. Anyways… there a sign saying “ please waited to be seated “  and we got a tiny of seat in a weekdays which it was super empty why can’t we get a better seat if you know there plenty of seats, I’ve read the comments most complaining about the servers lack of energy   Or of joys. I do not feel welcome at all. Like just because you have a bad day doesn’t mean you have to make someone a bad day.  Will only order for takeout honestly"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqd0lHN0JnEAE",
+            "text": "Chipotle Burger! Go to for a good burger"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREazZEZl9RRRAB",
+            "text": "the food is always perfect and they’re so incredibly sweet."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5czlYUFRBEAE",
+            "text": "The atmosphere is okay the service is a problem. The girl taking your order is so rude, she makes you repeat yourself penalty of times. It took me 30 minutes to get my order in and I was the only one. The food is okay it’s not that good. The place itself is a 3 star definitely needs better staff though."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkMWUtTUJREAE",
+            "text": "Tried it at the adidas event and the tinga empanadas were insaneeeee. Super good."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0LVBDM2xRRRAB",
+            "text": "Uber eats the bira pizza\nIt was soggy not that tasteful and the consume was a bit on the tasteless side too, also there was a “glitch about the churro shake” maybe we’ll try one in store one day"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOLWZiXzF3RRAB",
+            "text": "This place is very unprofessional at what they are doing. Service was a 0 since it took 25 minutes for three order which was a scoop of ice cream, an açaí bowl, candies with chamoy. On top of that she forgot to do the candies with chamoy. The employee was taking too long and taking her sweet time. As well as there was nobody at the place which was outrageous."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOeE1LT093EAE",
+            "text": "Everything I had was absolutely amazing I’ve been dying to go back I live in Long Island and I’ll go back to Brooklyn just for the food and drinks  time and Time again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURseHNUSlV3EAE",
+            "text": "Truly this is one of my favorite spots in Sunset Park. I usually like to try something new each time I go to a restaurant, but I got the burrito with Birria  and now this is my weekly splurge. Staff is always friendly, place is clean, leans into the millennial pink aesthetic with games for groups and a beach adjacent theme. But it’s all about the food and I’m sold. 🤤"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURsLUliRFB3EAE",
+            "text": "My girlfriend recommended this spot and it was delicious. Must try the tortas and the birria tacos."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyanBYRllBEAE",
+            "text": "My go to place whenever I’m craving for some birria tacos!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsMkpXTmR3EAE",
+            "text": "pretty expensive. 3 tacos and birria (small bowl) for $15 seems like a fair bit.."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaaTlueXRnRRAB",
+            "text": "Pink place, pink drinks 🩷!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwb3JuNkpREAE",
+            "text": "What makes this place nice is the atmosphere.This place was way better when it was only snacks the whole idea of have dinner is what made this place start its downfall.We had to get up from our table to ask for drinks,water,napkins it’s not dine in ! It’s just seating so don’t say it’s dine in.Service isn’t the best.Boardgames are very outdated.I wish the soup with the birria was spicier would give it more flavor.The birria tacos themselves were good.The door by the kitchen and one table kept banging the table so avoid that table.I wish this place would go back only to snacks/desserts."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwb1BPX0RnEAE",
+            "text": "I went yesterday to get a bionic n the lady was super rude with an attitude worst experience ever the other girls working there were super nice and friendly but the lady that was there yesterday had a big time attitude cause I was trying to order more things don’t recommend"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4cmZfbVV3EAE",
+            "text": "Pink 🩷 vibes! Lots of good Latino snack options! I am From South Texas and this reminded me of home snacks\n! I would recommend."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKX2ZqcVhBEAE",
+            "text": "This place is perfect for delicious Mexican food on the go! The quesa tacos with Birria and grilled chicken are fantastic. They offer a variety of taco options including beef, shrimp, pork, grilled or Chipotle chicken, and steak. Don't miss the refreshing Las Mangoneadas drink. The lively music adds to the great atmosphere!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKaG92UVBBEAE",
+            "text": "My favorite place to come when I crave Açaí Bowls!!\nThe açaí bowls are extremely good and Would recommend!👍🏻\nBTW I come from far away just to get these açaí bowls !!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSeWNqVmd3RRAB",
+            "text": "loved the birria tacos, the pink aesthetic was everything. definitely try their mangoneda"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4NmRxNlV3EAE",
+            "text": "Les recomiendo El lugar excelente comida"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSbWRfbkt3EAE",
+            "text": "Everything I ate here was the wow effect. It had me saying wow I absolutely love the food here. Everything was 5 stars. Nothing was bad. I hope they open a bigger spot they have the right chefs. This is definitely a hidden gem in sunset. You must try. You wouldn't be disappointed. Staff here is always with smiles and helpful and attentive. Good vibes, phenomenal food."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhMXF2N1h3EAE",
+            "text": "I went in today to get the birria tacos with consume. I also got 2 horchatas with my friend. The place was very busy so we had to wait a while. Our server was really nice! The birria tacos were good, but it was kind of on the oily side. It was my first time drinking horchatas, and it tasted like bubblegum. I don’t think horchatas are supposed to taste like that. I believe they used instant horchatas? Anyways I got the passion fruit ice cream. It was flavorful and delicious! My friend had the mango, and that was delightful too!! I would definitely come again, like I said service was good, but it was just too busy."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCMGYyRkx3EAE",
+            "text": "Great spot for some quick Mexican eats! Love the quesa tacos with Birria and grilled chicken! Taco options can be from beef, shrimp, pork, grilled or Chipotle chicken, and steak. Some nice drink options like the Las Mangoneadas has a nice refreshing kick to it. Also music was upbeat and nice!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1bnRlV1RBEAE",
+            "text": "I can't stop eating from this place 😆 I really love how they make there tacos !!! There so good I tried so many already. The nachos are really crunchy and very good as well. lol I also love there passion fruit slush. The place is not that big but trust that does not matter. The food is amazing!!! The staff may be small but there really nice and make sure you always get what you want !! You got a customer for life lol the vibe is pretty cool too, they have board games and a really calm setting. Theres a lot to try as well !"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyb2VXMk1BEAE",
+            "text": "I went with a friend today for lunch (she recommended this place). We got the Ground Beef Empanadas, an Acai Bowl (didn’t catch the actual name listed on the menu), and the Quesa Birria Tacos (Combo). The place was small, to be completely honest, I thought it would be a bit bigger. There was pretty much only a single female server, so service was a bit slow (the Empanadas and Quesa Birria tacos were worth the wait, but it was heavy with grease and oils, which I sort of expected, since they both are fried foods.) Although I should mention it wasn’t that busy today. My friend’s Acai Bowl wasn’t great though. Our total was around $32.12, not bad, but I would come back and try other things on the menu."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2dlBheUl3EAE",
+            "text": "Ive been searching for the right place who makes good Mex snacks. Was a bit hesitant cause I’ve been searching for a specific snack which is Fresa w/ crema. Not everyone makes them the way they should I’ve been very disappointed. Today was very different with the help of Daisy an employee that day. Daisy had a very amazing attitude and knows how to talk to customers. She was very nice in answering my question and I decided to come back and buy to delicious snacks here. Will definitely be back to buy my same snack and new ones too!!! My snack spot now😁😁😁😁"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhNU5pdUNBEAE",
+            "text": "I’m sure a lot of folks saw this place from the viral Tik Tok, as did my friend who suggested we go here. But the food did not disappoint! The birria quesadilla was absolutely amazing and so were the Maduros and the Vado Loco drink I had.…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSMTVudTFnRRAB",
+            "text": "Ate here just 30 mins ago, food is very good, i loved the birria tacos, the ambiance of this place is so good, super clean and i love the decorations inside and the board games you can play with. However, customer service was awful, while…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoNGF2RVhnEAE",
+            "text": "First time eating in. The food is great, atmosphere is great. There was only one person working at the front, the cooks were great people too. Hamburger is a must & so is the boba drinks.. They should give the chick who worked on Valentines…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2dnRmZnhnRRAB",
+            "text": "Nice people working there. Definitely try to chips and guacamole, it's fantastic and taste like great. Highly recommend the shrimp tacos as well. They have lots of variety of drinks and desserts, as well as candy and ice cream. This place is for those that have a sweet tooth."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1anNuak93EAE",
+            "text": "First time eating here and it was amazing. Distance was kinda of far for me but the drive was worth it. Had a few things like birria pizza, toastados, chicken tacos, steak tacos, chicken quesadillas, their frozen drinks (passion fruit and…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlbE12cGJ3EAE",
+            "text": "I’ve been here twice and the first time I went, I’m not sure I got the correct burger but it was good anyway. I got the corn with hot Cheeto dust on it and it’s nothing special. The food is good and would recommend this place as a hangout spot since they have board games. Definitely don’t recommend if it is busy since the place is small. It’s a cute Mexican snack place that I would recommend to my friends"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLd0wyN09REAE",
+            "text": "If I could give this spot 10 stars I would! I moved from NYC but this is deff my favorite taco spot there. Their quesatacos, which is birria tacos with cheese, are soooo yummy! The best I’ve had so far and I’ve tried a few places. My…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPeThxWGdBRRAB",
+            "text": "So my husband & I have gone here 2-3 times and each time we always get the Birria pizza and try changing up our drinks and sides to get a feel of other menu items. So far we haven’t had any issues. Food has always came out hot & delicious and drinks great as well. Only complaint was the last time we went they were making something with onions and the smoke the food was making with it had us both with some stinging eyes but lol it’s not their fault. Things happen 🤷🏻‍♀️"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxaE1UQWlnRRAB",
+            "text": "The food was fresh and delicious. First time having birria anything and we got a bunch of the quesabirria taco combo, a birria pizza, and tinga de pollo fries. Everything was delicious but the highlight was the birria pizza. Crisp tortilla…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2Z3RidUR3EAE",
+            "text": "Looks like they managed to delete my review I made a few weeks back\nSo Decided to order from this place ,i called and placed my order and showed up promptly ,first of all they gave us a birria pizza that was already made probably sitting there since I saw they had them already prepared , no way they made the birria pizza so quick!!that was not fresh at all ,the cheese was inedible and cold and totally not worth the price. Save your money and go to a taco truck instead. And no lie I had an upset stomach the next day ."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2ck9iODlRRRAB",
+            "text": "My bestfriend took me here today, absolutely the best food I've had that beats anywhere that I have been to this yr. Her plating was on point , the chicken quesadillas with the crisp lettuce on the side was crisp an fresh. I had it with Jamaica Lychee 🔥 her milk tea boba was very good as well it was almost like a hint of cinnamon candy vibe to it. definitely will be coming back with family!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhc3JfTUZREAE",
+            "text": "Walking into the store gave me pink millennial vibes and of course the food selection did not disappoint either! There were tacos, burritos, burgers and BIRRIA PIZZA!! Not only was the birria pizza mouth watering, the consomé dip was spot…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2cktidVlBEAE",
+            "text": "Food amazing, fresh. Drinks amazing, fresh. Everything was plated beautiful. I'm a professional cook and I seldom admit that anyone can cook better than me, needless to say, I wanted their recipes...kept saying it in my head \"I need to know…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXM0xHRm53RRAB",
+            "text": "I have ordered twice..good Quesadilla Pizza just Yummy Shachipapas too the cute lil hot dogs that look like lil octopus too cute for my 9 yr old..I had the Ice Cream Donuts  too, Rico..indeed!!!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5eWVDdm1nRRAB",
+            "text": "Great customer service, delicious food, will be great if they use the Oaxaca queso de hebra!!!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxbk9QNllBEAE",
+            "text": "10/10 I ordered a Birria pizza, a mango bowl and hibiscus agua fresca and it was all amazing!!!!\nI will definitely be ordering again !!!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1OE1yLVVBEAE",
+            "text": "Very good food, the spicy elote was so good... And the mangonada drinks will keep you coming back."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5cnZLZVBnEAE",
+            "text": "Great food, however the nieves are a little off, otherwise the food is great!! So many mexican snacks to choose from."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhcnJYTmhRRRAB",
+            "text": "great food, fun environment they had many board games that we got to enjoy!! And good customer service!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPb3JYVEx3EAE",
+            "text": "I had a delicious tacos with beef for less than 4 dollars. I loved it. I recommend the food and the place"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhdmJmN0NBEAE",
+            "text": "I drove all the way from jersey for their Birria tacos because my daughter wanted those tacos from this particular spot. I don’t eat red meat so I ordered 2 of the fish tacos and drove off. Now I’m the V bridge, wishing I’d ordered more of…"
+        }
+    ],
+    "reviews_count": 77
+}

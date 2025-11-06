@@ -1,0 +1,516 @@
+{
+    "name": "Carro Cafe NY",
+    "place_id": "ChIJwXzlJMJdwokR74zvIDCGVcQ",
+    "grid": "BK5",
+    "address": "3472 Fulton St, Brooklyn, NY 11208, USA",
+    "rating": 4.2,
+    "user_ratings_total": 881,
+    "phone_number": "(718) 348-9406",
+    "reviews": [
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZeFlXbFRZVmRKTm1weFkwWTRNRzF1ZG5sR1dsRRAB",
+            "text": "Cozy and relaxed atmosphere with attentive service — a great place to enjoy a meal."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214YVQybzFVVmRrU0RnelJXSlNPR1pLUjNCblJHYxAB",
+            "text": "Good food."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKM2MxVkxSbEZEYWsxWFVqWmFWMVpqTWpkWllWRRAB",
+            "text": "Professional, courteous, and very efficient"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWQk1VVkhRVkl3WVhCVU1HNXJNbXRpU1ZsaE5YYxAB",
+            "text": "Food and service are great. I love getting my steak on a hot pink Himalayan salt. Gives it so much flavor! Live music & just over all a good time.\nHighly recommend.\nThey also have a location in NJ will try next."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VMN3AwYV9idUozYi1nRRAB",
+            "text": "Buena atención! comida riquísima!! Precio súper alto"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNVIzbHVOekJ0Y0dSWVRrczJVVlZ2UTBsRGNIYxAB",
+            "text": "I suspect they freeze their meats ahead of time and then reheat The food. Because, the core of meat was cold. Very disappointing and food taste mediocre.  This is more of a drink bar."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNZjRrb0M5MTkzUFh3EAE",
+            "text": "Fantastic dining spot"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKM3N3ZC1laGF2d1N3EAE",
+            "text": "Un buen ambiente y buena atención love"
+        },
+        {
+            "date": "8달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBLUt2aEdREAE",
+            "text": "Tenía mucha espectativa por visitar este lugar ; lamentablemente no salí en agrado con el sitio…. Mi esposa ordenó una hamburguesa en el menú decía q costaba $19.00 y oh sorpresa cuando en el bill me cobran $2.00 por el tomate, $2.00 por la lechuga, $ 2.00 por el queso y $ 2.00 por la cebolla …. En mi vida había visto esto !!! Les faltó cobrarme el pan , el huevo , la carne y lo de la freidora por las papas….. Para q la gente no salga hablando mal del lugar , por favor pongan en el menú q la hamburguesa vale $30.00 y uno decide si la pide o no? finalmente  una buena hamburguesa vale eso; pero queda uno con el sabor amargo del fraude y este lugar es muy bonito y cómodo para este tipo de artimañas"
+        },
+        {
+            "date": "9달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBenU2ZzVRRRAB",
+            "text": "Excelente comida y servicio !!!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfeDRIZFZREAE",
+            "text": "They charged a 20% gratuity on a 2 person dine-in bill. Not noticing, I added another 22%. When I saw that I called them to take off 22% EXTRA GRATUITY, she said she will but never did. Never will visit this place again."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfcV9fM0d3EAE",
+            "text": "The service was horrible, especially the dj. Will never ever go back!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQdWN6SGh3RRAB",
+            "text": "Nice food"
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQekxPZ3NnRRAB",
+            "text": "Muy buen servicio"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzMmNYbXdBRRAB",
+            "text": "This is the lowkey bring your girl to spot!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzMy1iU0FREAE",
+            "text": "What a great find!  Happened to find this place for lunch while in Union City for something else. Everything was top notch, we had sushi, mafongo, and salad in a fun elegant atmosphere.  Perfect place for sports and auto lovers who also want great food and drink. Can’t wait to come back her for live music. ¡Todo fue excelente!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzbktfRFRREAE",
+            "text": "Muy rico todo 10/10"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYZzRTUVF3EAE",
+            "text": "Good for the ambiance, but service is slow, so don’t come hungry. The quipes were the best part of the meal. The lemonade is overly sweet, and the passion fruit juice too sour. Mofongos are also a bit underwhelming. Overall, Carro Cafe is ideal for its atmosphere, but it could improve on service and food quality to match the setting."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuOWVIY3ZRRRAB",
+            "text": "Very nice place. Good food. Good drinks. Good atmosphere. The service was good. The people were good. Music was good. Karaoke was amazing."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuck5QeEp3EAE",
+            "text": "Drinks were really good service is amazing"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIbllqYVJ3EAE",
+            "text": "Miguelina was great 😊 she’s very nice and attentive."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIX04zbHJBRRAB",
+            "text": "Always like this place nice atmosphere"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtN1lfN05REAE",
+            "text": "Great place love the drinks"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3cVlLYktBEAE",
+            "text": "Always great service"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3cWJ5eE53EAE",
+            "text": "Food is good. Drinks are amazing. Always a good time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiaHB6VnZ3RRAB",
+            "text": "I love Kareoke Friday's.  Is majority Spanish music,  no cumbias o vallenato (we can't have everything) but DJ Jimmy plays a good variety of Salsa, Merengue,  Bachata and then some (awesome classics)."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiNU5XUk9nEAE",
+            "text": "A cozy atmosphere, good music and good service to enjoy with the family.\n\nThe price is not so reasonable for the place it is, but I would definitely return."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMdDlMZG93RRAB",
+            "text": "La piña colada es un robo ni siquiera piña le echan. El servicio al cliente está malo que admitieron que ni siquiera fruta le echan a eso.  Una piña colada disque a 15 pesos eso es un fraude llamen a la policía"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUaE5EWGFnEAE",
+            "text": "Muy buen ambiente, me divertí mucho en familia"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqdFllTlRBEAE",
+            "text": "La guinea no es una buena opción en este lugar y el servicio de algunas empleadas del dia no es nada carismatico."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqME1ycjdBRRAB",
+            "text": "A very friendly atmosphere to share a drink with a friend or even your partner. Service was very fast and hospitable."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5MzlpSUhBEAE",
+            "text": "Muy mal servicio. Llame para hacer una ordena. Y después de  casi un hora pasé a buscarla y no la tenían lista. El restaurante vacío y me dicen que tengo que esperar 10 minutos más. Ya pasaron 20 min y nada. Yo asumo que se le olvidó mi orden. Típico.pero rápido a cobrar si estaban."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5d0llZFJREAE",
+            "text": "The food was bad."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4dkwyRTlnRRAB",
+            "text": "Excelente Servicio 1A lo recomiendo 💯 % el ambiente es muy acogedor buen lugar para compartir junto a tu familia la atención es de primera me gustó mucho y el Dueño es tremenda persona muy amable"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0dG9iQ1lnEAE",
+            "text": "Love the vibe. Very nice karaoke and live music. Waitress was excellent. Food serive excellent. Love that the have a seating are at the back for families. Love it."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOaHFHRllBEAE",
+            "text": "Cocina dominicana con un toque gourmet. Excelente calidad, una cava de vinos y un hermoso ambiente"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSZzR2TDdnRRAB",
+            "text": "I recently visited this amazing  lounge and was blown away by the experience. The lounge had an excellent wine selection, and I was able to find the perfect glass to pair with my delicious steak and sides. The menu was impressive and offered a variety of options that catered to all palates.\n\nThe most impressive aspect, however, was the service. The staff was attentive, knowledgeable, and went out of their way to ensure that every guest had an exceptional experience. They were also very accommodating and helpful when it came to choosing the right wine.\n\nThe attention to detail was evident throughout the lounge, and it was clear that the owners had put a lot of thought into creating an atmosphere that was both elegant and comfortable. The music in the background was the perfect complement to the overall ambiance, and it added to the relaxed and enjoyable atmosphere.\n\nOverall, I highly recommend this lounge to anyone looking for a memorable night out. The combination of great food, wine, cigars, and excellent service makes it a must-visit destination for anyone who appreciates the finer things in life."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNleTYtNWlnRRAB",
+            "text": "My food took an hour to come and I only ordered some appetizers while it was empty inside. The staff sucked. But The place is super nice inside and decked out with great TVs, a lot of lighting, they have a lot of great top shelf liquor. Also there’s an outdoor seating area. It’s huge inside, I have never been here although I walk past it a lot and I was taken back with how large it was. Won’t be coming back though."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhLU02TUJBEAE",
+            "text": "We were in the area. They said they have good drinks. We wanted to eat. Very nice and clean. Good music helps the ambiance. Just in time for happy hour. Bravo to the chef the food is delicious 😋."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNadXZXTDhRRRAB",
+            "text": "A lively cultural ambiance with energetic music and dancing couples, complemented by exceptionally welcoming staff. This is the place renowned for crafting the finest drinks"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXaU1UeGVREAE",
+            "text": "I loved the food. The restaurant is not big but deco is nice. Drink was too sweet for me. If I'll come back to this restaurant? Definitely yes!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSbE11b21nRRAB",
+            "text": "The food…amazing. The music…loud and awesome…the vibe…LIT. This place is nearly perfect for a date night and if you wanna stay and party, they are open until 4am! Definitely going back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCazVlMEVREAE",
+            "text": "This place is such a vibe. The ambience is beautiful, it’s such a nice vibe and very affordable. Drinks are so good and strong. This is my second time and now a favorite of mines"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsMlo2ZVBBEAE",
+            "text": "The food is not good, they use the same dressing for all the dishes, that is why all the dishes taste the same. The service is very bad, the waitresses are disrespectful, they also do not even serve you water at the table. I personally asked the waitress to give me marinade sauce for my fried calamari and the sauce was never brought to me. I waited for about 20 minutes and when she returned to the table she told me that it takes the cook an hour to prepare the sauce, the waitress told me to eat them without sauce"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhem95V2R3EAE",
+            "text": "terrible service.  They have to improve. Who they hire because sometimes they put girls who do not know, they forget things and have no experience.\n\nThey take a long time to serve you the food takes a long time and the prices are a little high & the food is not worth the price. You do not have such an impressive seasoning that means that I can pay the same that I am paying here in another restaurant and eat much better.\n\nI used to like to go to that place a lot, but not anymore. It is better to go in the afternoon for lunch but in the evening mainly on weekends they take hours to bring food.\n\nI live nearby and I love having a nice restaurant close to my house but I never go back this restaurant has been damaged, it no longer has the same fame it had before, it getting worse."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNdGZpdHF3RRAB",
+            "text": "Ok if you're near Rockaway Blvd and 76th - it's right around the corner but it was a bit pricey for Queens - waitress didn't speak much English - $100 for 2 people and I'm the only one that ordered food [app and entree and we had like 3…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoa1o3SFFBEAE",
+            "text": "The place is very nice, clean and had good music playing. The drinks are nice and sting for happy hour $5 margaritas."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1Mlp6VkhBEAE",
+            "text": "Mi lugar favorito. Ahora quiero un nuevo mofongo que tienen, el mocano."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURrbDR1cVRREAE",
+            "text": "The food was delicious, service its ok. Place is nice and cozy. .!!!."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4NlBPdExBEAE",
+            "text": "Excelente comida, buen servicio, mucha variedad de música (se escucha a un nivel agradable no molesta) y muy buen ambiente"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtX2N1cEFnEAE",
+            "text": "Este lugar es fabuloso! La atención es maravillosa y la comida muy sabrosa"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURocnFpZmdnRRAB",
+            "text": "Muy rico servicio me gusta todos aquí. Buena atención y rica comida"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXODZtdWpBRRAB",
+            "text": "Waitress was a delight, food was delicious but overpriced."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURocnZUSXZnRRAB",
+            "text": "Amazing food and drinks lets not forget the great music to."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHM1lHV2xRRRAB",
+            "text": "Great Service. Great Food. The tomahawk is spectacular!"
+        },
+        {
+            "date": "5년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM4eWNTVG1nRRAB",
+            "text": "Excelente servicio llame por tel para ordenar mi comida y  KATERIN TOMO MI ORDEN MUY SERVICIAL Y ATENTA GRACIAS POR PERSONAS COMO TU MERECE REGRESAR 👌excelente ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️Jenny atendió mi mesa muy amable ⭐️⭐️⭐️⭐️⭐️…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZbV91QXpBRRAB",
+            "text": "Some times you end up in the hood. But there is quality at Carro Cafe. The food is very good the service exceptional if you ever find yourself in this neighborhood this is the best place around."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3N2ZuYWxRRRAB",
+            "text": "Very good food best in Brooklyn 👌🏻👌🏻👌🏻nice lounge too with good djs…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1cWNYbVF3EAE",
+            "text": "It was great excellent Great service can't wait to go back again"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPaU1lSGVnEAE",
+            "text": "Great food!! Service on point love it 100%recomended Gley And  Melissa very Good service!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSeE15Zk9REAE",
+            "text": "One of the worst places I been to in a long time. I dine out with my wife every week and never felt so uncomfortable while dining out. To start we ordered two beers and they brought them to us at room temperature. when it was brought to our waitress attention she stated that they were cold. After that we order appetizers and dinner. The first time that I have ever been served my dinner along side my appetizer. When I asked the waitress why I was getting served everything at once she stated that is how they bring out their food. What makes this matter worst is that the owner sat in a corner drinking his whiskey and not once did he come over to ask what was going on. Well maybe he was just drunk, not really sure. Advice to the owner pay attention to your business. Also I have never been embarrassed at a restaurant in front of people. They refused to take my American Express card. This is America, how do you not accept a credit card. I have never been to a restaurant that doesn’t accept my AMEX. I have travel the world and never encountered a place that posses a higher grade establishment that doesn’t accept AMEX. I won’t be coming back to this location. I also advise to save yourself the aggravation of going here. You also will feel like your being watched by the staff as I noticed that our waitress was staring at us while we ate."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlLXJlRFNREAE",
+            "text": "Love this place. Good music, karaoke nights are fun too. Very small so no dancing, although people still squeeze in a dance here and there lol. Food is great too. Not as over the top expensive like other places in that area exaggerate. Still not cheap like others either though."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWeWN5MTR3RRAB",
+            "text": "I have mixed feelings about this place\nThe food was OK, prices seem to be like a little higher for the place and the atmosphere they offer, the music was too loud that my ears were literally hurting , servers were friendly and sweet but they didn’t accommodate our request to move us to a quieter corner when they literally had a different room that was lot less loud, It can be so frustrating when your dine in experience is affected by the noise level and you’re trying to have a conversation dinner with your friends but other than that if you want a night club experience with dinner then you should definitely check them out"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnNk1icWl3RRAB",
+            "text": "I love this place! It's the only local bar, that possesses a great atmosphere in the neighborhood.  As a woman, I feel really comfortable going alone to grab a drink or a beer.  Some, may argue and say that the drinks are expensive, but hey it's NY.  I have never been disappointed with the food, as well,  the food is always amazing."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLOWQtY2RBEAE",
+            "text": "Drinks and atmosphere was great but the food took forever. By the time the appetizer got to us we were ready to leave and we didn’t even ordered dinner because we didn’t want to wait again. Definitely need to improve in food time. Don’t come here if you want to eat it’s more of a party and drink atmosphere."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoeVlQUkNnEAE",
+            "text": "great staff and great food definitely recommend!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4Nk11V3RRRRAB",
+            "text": "Beautiful scenery, amazing food and great costumer service 😊"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxNkstc3BnRRAB",
+            "text": "Great place! Family friendly. Mariselys is the best!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVZ05LSnBRRRAB",
+            "text": "OK. Right to the point. Food was excellent, service just OK. And drinks were light. First visit to Carro Cafe (weird name have to inquire about it, lol) was last Sunday afternoon post brunch. The place was not packed and the service…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKOHVxclpBEAE",
+            "text": "My favorite spanish food restaurant. Food is delicious, service is excellent, alcoholic drinks to die for, as soon as you walk in u are costeously greeted! We always go mid afternoon because we go with our little one but if u go late afternoon-night u will find the adult astmosphere u r looking for. Ppl say the restaurant is pricy but to me is worth it, the food quantity is great and delicious, can't order appetizers bc if i do i wont b able to finish my food. Overall go try it u wont regret. Esther is very nice and corteous, they all are but Esther is my #1 girl"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPeTVxS1dREAE",
+            "text": "Love this place! The environment is great for people who want to have a great time, enjoy music, and NOT concern about young crazy kids getting into drunk fights! Not that there are no younger folks, just people who aren't looking for trouble. Last night we had empanadas, which were amazing! They were golden and perfectly cooked. Crispy outside, meaty and soft center, great seasoning, and very good portions! Not on the small side at all. The green salad has an amazing balsamic dressing. It's a bit on the sweet side, but a very nice contrast to the freshly grated parmesan cheese they give which is conveniently on the side for those who prefer not to have it.  The dinner ordered was flank steak, medium well. Excellent portion, worth the price! This part was a bit inconsistent as my husband's was perfection! Buttery soft meat, just under with salt (as is the norm for restaurants), perfect amout of herbs. The second was a bit tougher but not much. Slightly over cooked, and the bottom had a bit of charred crispy surface on one end. Normally this wouldn't be bad on a cut of steak, but not what I expect on a churrasco. Just an oops this time I guess.  The chimi sauce for the meat was okay. Rice and beans were standard for restaurant. Next time I would love to try the seafood dishes as they smell exceptional when those platters pass by! On previous visits I've had tostones, wings, and calamari all perfectly cooked. Never had a cocktail. The bottles here are also priced quite nicely in comparison to other bar/lounges. The DJ is also very good! They have a bit of dancing space as well if you are the type to get down. Def recommend going here!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVdHBicm5RRRAB",
+            "text": "If you’re looking for a classy time with guaranteed seats, this is the place for you!\nCame here for my birthday and had a pleasant time.…"
+        }
+    ],
+    "reviews_count": 72
+}

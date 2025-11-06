@@ -1,0 +1,572 @@
+{
+    "name": "Aromi",
+    "place_id": "ChIJNfj_HvRbwokRe5uCgeIzrf4",
+    "grid": "BK6",
+    "address": "552 Court St, Brooklyn, NY 11231, USA",
+    "rating": 4.9,
+    "user_ratings_total": 584,
+    "phone_number": "(347) 529-5752",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KalYwMXZXRXRpTWtsclZYazJhSEZ4YVcxU1RFRRAB",
+            "text": "Aromi is such a charming little restaurant the food feels fresh and full of flavor I tried the pasta and it was perfectly cooked with a rich creamy sauce that tasted homemade The pizza looked amazing too thin crust and just the right amount of cheese The atmosphere is cozy and elegant at the same time you can come for a casual lunch or a nice dinner The staff are really friendly and make sure you’re taken care of without rushing you Honestly it’s the kind of place that makes you want to stay a bit longer and enjoy every bite"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KcE5sZG1MV1Z2T1RSM1YxWXdVbWhRWDJOZlJtYxAB",
+            "text": "Food is excellent. I definitely recommend"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5cVIwc3RiV3BKT1hWNmQyMTNjM0ZrUlY5QlNuYxAB",
+            "text": "I don’t even know where to begin with this review! As an East Coast transplant, now living on the West Coast, this place made me feel like I was home. The Rigatoni Vodka was seriously the best I’ve ever had and one of the best dishes I’ve ever had in all of Las Vegas. The services was also 10/10. When we sat down with our 2 year old, the waiter offered to start some butter noodles immediately. Our son ate the whole plate and was in a noodle-coma in no time at all, so mom and dad got to enjoy the rest of the meal in peace! I have no notes for this place! Thank you for an amazing night out with family."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taUE5uUkRaRWxKVURWWFVXaHdlbFZEYURaTGQwRRAB",
+            "text": "What a phenomenal dinner!!! Omg!!! Best pizza - hands down!!! (Did not have such a delicious pizza in Italy). Try MBP - mortadella, burrata, pistachio- thank me later - your life will never be the same.\n- crispy calamari- not greesy, perfectly crunchy and the black ink mayo brings it to another level.\n- branzino with clams and mussles  - wow! Fish was flacky and moist - phenomenal!\n- tiramisu - so rich and satisfying.\nAnd the atmosphere of this restaurant is amazing: it is busy, lively, happy, and makes you feel like you are somewhere in Italy: the waiters are very knowledgeable and professional. Our waiter gave us great recommendations for food and wine. The hostess is accommodating and welcoming.\nI cannot wait to be back! (That's the thought I have in my head every time I leave this restaurant"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVFZFUTFORzlyWkVaMGNucG9Sa0pwV0hwamRXYxAB",
+            "text": "Great place, fantastic food!!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkcE5uWlVRWEZqYTNkRlVXZDNTME40WW1GUlJGRRAB",
+            "text": "Italian restaurant owned and operated by real Italians, the quality shows."
+        },
+        {
+            "date": "1주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGUk16QklaSFpqU2trME0yVTJSamxxY0dKaVVIYxAB",
+            "text": "Esperienza top! Trovati benissimo, torneremo sicuramente."
+        },
+        {
+            "date": "1주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sUVRESnVZbmgwVFdocWVFTlNOMFJoUXpKRWVYYxAB",
+            "text": "Servizio eccellente. Da italiano una delle pizze più buone che abbia mai mangiato. Consigliatissimo!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBdFpXMU9XbVkyYW01d2VGVkdZWGhMYkd4RFJYYxAB",
+            "text": "One of the nicest restaurants in nyc! Great staff, perfect service and AMAZING pizza (Italian writing, should mean something)\nLovely place to spend the night With your significant other"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCdnVHQWNnEAE",
+            "text": "Il miglior ristorante di cucina italiana a New York.\nSono tornato a settembre. Sempre fantastico"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxVmRFczJXVUY0YnpCMUxVVm1lR1pLVWt0UFVuYxAB",
+            "text": "Delicious food"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxRVVVbGpObTFqWXpOclZsZzFkMUZuZWxsbFVYYxAB",
+            "text": "My favorite pizza 🍕 place! Come here all the time."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xORVgwNWlhV2h2Tkdsb2ExUTNaR3QxUWxreVYwRRAB",
+            "text": "The carbonara sauce was rotten"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oa2FVNVlSbEpJZEc5amFIZFdiazVIWm1SdGEwRRAB",
+            "text": "Went for dinner and got a really bad food poisoning"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210bE1VaEdhbkl5UnpKVlVrNXJOa2xZZDI5TGNXYxAB",
+            "text": "Excellent! That’s it"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toTExVWmZTMngxWXpKRmJGQTVZV05rWDA5RVlrRRAB",
+            "text": "Pizza was phenomenal and the people were extremely nice and helpful.  If you’re curious if you can bring a stroller in, the answer is yes but it’s much easier in the table  in the back corner of the coveted patio."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTmIycG1RVTB6VkdwMmJVWnNXbEJVTjNsQ01GRRAB",
+            "text": "Excellent all the way around!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKMlpFMXdRV0V4U1hST1QwVjFXV3hTTVdSWlVWRRAB",
+            "text": "8 of us needed to go to a place before a show.\nAll of us were pleasantly shocked at how amazing the food was. Even just coming from Italy we thought, how wonderful and authentic the food was"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNM1pHSTBNVE0zUzIxaFRrbG5XRjh0TkdneVNHYxAB",
+            "text": "We love Aromi! We stumbled upon upon the restaurant after being turned down for a table at Frankies and haven’t looked back. The best Italian restaurant in Brooklyn. The focaccia is amazing, as are the pastas."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205cWFETkNSRVEwTmpSZk1VVjFjMDlET0VGbGJVRRAB",
+            "text": "very good pizza dough, good pasta and great service reasonable priced"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205SVlXSlhjVkpmZEhoVFEyVkRVREl3VFVNMWFYYxAB",
+            "text": "Cannot rave enough about this place, the food, the warm service. That is what food should taste like! The pizza is baked in a brick oven you can see from the dining room. While waiting for your order they serve fresh slices of rustic bread with a flavored olive oil that is tangy. Every detail is like that - genuine and delicious."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJM01VcFZialZFYXpsRWVYVlFSekExVERoRlNrRRAB",
+            "text": "One of the best meals we have had. Great service, food and atmosphere. Loved it"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WWGRIVkpRWGt0TVhwSGEwdDBNVU5JYldoYWFVRRAB",
+            "text": "Stopped here while in town on a work trip. We had the best drinks, and most amazing food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204NVFXa3libll0ZGtkSVdERnJlREl5T1V4NWNWRRAB",
+            "text": "Great food.italian dishes with a slight twist. Very thoughtful staff and service. Will def come back"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VMU9WQkpOVlYzVm5CVFRFeFdkblpFVFVGaGVYYxAB",
+            "text": "Pizza and pasta were both excellent staff were friendly."
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKUlNHVm1ja3BqTUhaNU4yVXdNM1ZQVkd0MVpFRRAB",
+            "text": "Locale top sia per cibo servizio e personale.\nPizza veramente buonissima"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psSVpIRkZRMEpuYWpOaE0wUjNVWFJRTm01SU1GRRAB",
+            "text": "Pizza is amazing, the focaccia triangles are next level and I loved the mussels!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVlkxOWpYemRwYTA5Tk5FWjZTM1JCWkcwdFdHYxAB",
+            "text": "Great service and atmosphere. Food flawless. Good choice of drinks. Enjoyed the complimentary bread and limoncello."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5WU0xVnpiVUUxWkV4SWJEQTNhVWhrUVhCdVZWRRAB",
+            "text": "Great carbonara and great pizzas."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWck9HVkRiekpsWTBKbFYwbzNaMHBZY2pKNmNHYxAB",
+            "text": "My girlfriend and I came here for dinner and had such a great experience. We ordered the margarita pizza, meatballs, and chicken, everything was delicious, fresh, and full of flavor. The atmosphere was really cozy and everyone was friendly and welcoming. As an interracial lesbian couple, we felt completely comfortable and at ease. Definitely recommend and we’ll be back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodGNrZ3hXbXhFWTBodGRIa3piMnRyVW5GcmJGRRAB",
+            "text": "Phenomenal food and service. 10/10."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xWmNGTkViM2x0ZVd4TFZWcGhURWxrVm1jMU1rRRAB",
+            "text": "This place is as good as Lucali without the hype. Incredible food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSWEyOVBPVGxOZUV0bFZtYzRhMFprUkROUFowRRAB",
+            "text": "Aromi is a unique gem of a restaurant. Authentically Italian (just right here in Brooklyn). Vibe is relaxed, cozy and yet just the right amount of elevated. Perfect espresso martini - had the mixed berry Panna Cotta - delicious!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jeGJFeEJjbEl6V1VsQ01EbEZhMVZGUVZGb2EzYxAB",
+            "text": "Had a birthday dinner for my wife with 8 guests. Had an awesome evening. The food and service were spot on!  The pastas were home made. Very quaint atmosphere. The staff were gracious and very attentive. I really couldn't ask for more. Will definitely be back!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvM2JuZDVjVFZLUXpsd1IxZFdZMWM1WDFsSVdYYxAB",
+            "text": "We were in Park Slope with a desire for a good REAL Italian pizza and we booked last moment at Aromi.\nWOW!\nWe were really pleased. Very cozy atmosphere, excellent appetizers (delicious crispy tasty fried calamari, eggplants timballo and tuna tartare!), VERY good Italian style pizzas (one Margherita and one Sausage with broccoli rabe) and final excellent tiramisu and pannacotta.\nVery good service, Alessandro (one of the three owners) is a real gentleman.\nAbsolutely recommended!"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WeFIySm9Uemg1VmxRMFRuVmxaVXRFWVZwNFptYxAB",
+            "text": "Pizza buonissima ( e dolce con la nutella eccezionale), proprietari e dipendenti gentilissimi e simpatici, pulizia top....una bellissima scoperta!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCMVpISnlNMUZDVDJ4eU1FcFVjbTAzVG10cGNHYxAB",
+            "text": "I had 45 minutes to kill and I was hungry…..the best thing that happened to me, I walked in this establishment I was bought by the wood burning pizza oven, I got e warm friendly welcome. I got a seat in the front room, I order a pizza and a glass of wine, great service the pizza was unbelievable, just like in Italy if not better I had to call a friend because I changed plans so she came in and I order a steak for her she was impressed. We where lucky to meet the owners: Sara and Andrea lovely, people, friendly. We had to try the tiramisu and it was absolutely delicious. If you never been there you must try this place you ll be happy that you did and you ll be back.  I highly recommend it."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25seGNWVkZaVXRLVGt0RVFtOHhaRVpWZEVaZlQzYxAB",
+            "text": "I came for dinner with a friend and had such a great meal. The back room is so cute and made us feel like we were not in Brooklyn at all. We shared the calamari and mussels to start and then i had my favorite pizza capricciosa. It was so good and just like how i remember having it in Italy. Overall I really liked it there and I will definitely be back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JM01GbGZTbGh3Y2s1d05UZzFjelpGVEd4M1NXYxAB",
+            "text": "Love this place! ❤️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0aVZsWTViVmRVUlhsNVVtMWxlbGg1ZDAwelUxRRAB",
+            "text": "Here you can taste the real Italian food!\nLovely place, specially in the garden, with friendly staff and good vibes."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VM2JXeEdTRUpIUWxScWRYSkVXazVwZDJSS1pIYxAB",
+            "text": "Cibo e servizio impeccabili,cordialità e simpatia fanno di questo ristorante un luogo unico a Brooklyn!!!\nUltimo giorno qui' e non poteva mancare una cena saluto..\nA prestoooooo"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBek1YRjBjbEZ6ZFVweE16RjFUMDFCUjJ4TE1XYxAB",
+            "text": "My friend and I visited them to try their Restaurant week menu, and everything was absolutely perfect. The focaccia and the pungent salad were particularly impressive. We’ll definitely be returning soon."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jNFYzRnpUMlZJTVd4WGVtbEpTRGxCY1c1V2NIYxAB",
+            "text": "We had a lovely lunch here. The restaurant feels like a true neighborhood spot—warm and cozy. We ordered oysters and lasagna, both fresh and delicious, but dessert was on another level. The ambiance strikes the perfect balance between elegant and relaxed. I highly recommend this place."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poaVVrdGlSRVJqUWxkeVoyNXhWRmRJWkZwblkwRRAB",
+            "text": "This place was super cute.\nThe food was pretty good. We didn’t order drinks directly from the menu, but they made something for each of us and we enjoyed it.\nWe were so hungry that totally forgot to take a pic of our entrees but they didn’t disappoint.\nWe got the restaurant week special and we will be back again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201YVkxaE9hak54Ym5ad1dWcEtZMVIzUjJscloxRRAB",
+            "text": "Excellent Neapolitan pies, incredible meatballs, pasta Pomodoro, and so on. Solid drinks and wines. High marks all around."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poNWVUZFVkM2N5YmxkWVIwMXdXRVpaUnpKMVkwRRAB",
+            "text": "Mark, was absolutely tremendous. I’m not sure to begin, everything from start to finish was a pleasant surprise. House made bread w/chili oil, (damn) Tuna Tartare, hmmm Bolognese also Calamari all delicious. Please try the panna cotta and tiramisu…this is a must try place"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CRGRFRllkRFJQYUVkck9XRkliM0JWUkVaa1RYYxAB",
+            "text": "Ristorante gestito da italiani\nPizza buonissima altrettanto i dolci!\nCordiali con i clienti e attenti ai dettagli\nAlla prossima!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sZldpMWhNVUZJWlVWbU5rTmtPVWhZY205V2FFRRAB",
+            "text": "Absolutely Delicious!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ST09IazFSSFIwZGxnMFdVRkVZVmxHVERSZlkyYxAB",
+            "text": "The restaurant was quite well to have family and friends. Not to mention the food was amazing. A few of them needs some refinement, but overall was done well and it was given and served with perfect timing."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMlQwcHBUVVYwVGxOVVVVeExUWFpWWlc5dlprRRAB",
+            "text": "Amazing Pizza and service. The owner Andrea was really kind and took care of us"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvOXFDYkRnEAE",
+            "text": "This place is super cute, the server were a gentleman and very polite. We ordered bruschetta and a pizza. Both were absolutely delicious. Ingredients were fresh and pizza crust was so thin, crispy and yet soft! Loved our meal and would totally recommend!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNengtN25PejhiMk13EAE",
+            "text": "Fantastic pizza with airy dough and charred bubbles, crispy calamari with squid ink aoli that tastes of the sea. Desserts are a meal of their own, recommend the tiramisu and the refreshing limoncello and lemon sorbet creation.  The interior is warm and inviting, the staff is friendly and attentive. A charming find!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kNWVGSlROWFpwT0hsRWVrUlBVR2d6Tms5ck1VRRAB",
+            "text": "This could be one of the best pizza dough I ever have tasted. It was amazing! The atmosphere and service were real chill with a great drink selection. My only complaint was the veagana pizza had way too many olives and capers. Salt overload!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toVmNVSmZZVEZPZUdWSllteEdMVXBzT1ZCNldWRRAB",
+            "text": "Great spot in Carroll gardens. Super friendly staff. The pizza is one of the best I have had in brooklyn, truly authentic neopolitan style. Pasta is well done, especially the parpardalle bolognese.  Looking forward to going back again."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxeloyNUZlR1ZwYlVoQ2RFZFlNVEpqTmxCdWNuYxAB",
+            "text": "The vibes are beautiful, their food is full of flavor, I love their pizzas and Lasagna. 5 stars service and how fast they are. Keep in mind it gets very busy there and making a reservation in advance would help."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKQ1EycnYwLU51VVdREAE",
+            "text": "I tried a little bit of everything, I missed the picture of the salad and desserts though.. but the dinner overall was fantastic! If you are in the area and feel like having some 100% Italian taste, this is your spot, enjoy, Buon Appetito!❤️"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvN2VLUVF3EAE",
+            "text": "We had pizza and lasagna. The dough of the pizza was light, crisp, and thin crust. The flavor was on point. The lasagna was a very comforting dish, rich meat flavor and sauce. Everything was absolutely delicious!!! The restaurant was beautiful inside, charming. The service was great 👌🏼 thank you for the advice for places in Catania 😊"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3b1B2aHh3RRAB",
+            "text": "The vibes inside Aromi are great - I really loved the atmosphere here. Once seated, we did have to wait a while for our food because of a mixup but that was fine, we weren’t in a rush. Our food was heavily salted and I mean heavily - I never really thought about how salty food could get before this. The service was great but I’m not sure if I’d come back for food."
+        },
+        {
+            "date": "3달 전",
+            "language": "de",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSlRUaERibUkxWTJWVFNsOUlNV2RKU1ZCdlNtYxAB",
+            "text": "Die Pizza war lecker aber nicht außergewöhnlich. Service war gut und es war gegen 19:00 Uhr am Wochenende keine Reservierung nötig."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBNDV2VmFBEAE",
+            "text": "I love Italian food . Vegan pizza was quite to my liking, we enjoyed the drinks and gelato. I was surprised to see the quick turnaround. The customers went in and out, the spacing was a bit rushed, and we felt as if we could not really relax and enjoy this evening. The servers were coming to the table, making sure everything is great. But overall, we felt a bit rushed and had to order extra food just to feel that we deserve to stay in this place a little longer. Maybe it’s just us, but it felt a little bit uncomfortable on the server was ready to hand us our receipt before we even asked for a second round of drinks. I feel a little bit ashamed of how this cozy feeling of a family owned restaurant quickly changed to something like a food court where everybody wants you gone. Still I can recommend this place wholeheartedly for couples who just want to go on a quick date."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBaHRpZlRnEAE",
+            "text": "Aromi was really a beautiful experience. The service and ambiance make for an amazing date night. The food left a little to be desired but I have to admit I ordered possible the best cappuccino I've ever had and the tiramisu was amazing. Will definitely return and try some other menu items."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6azdLUzZRRRAB",
+            "text": "I really do like the Cobble Hill area lately. High quality Manhattan style restaurants with very tasty food, easy parking for much less $. So this place I found by pure strike of luck,  as Brazilian restaurant where I had reservation has been closed already,  we decided to give it a try to its next door neighbor. So, this is an Italian place where everyone from the owner to the waiter speaks Italian... Should I say more?\nThey specialize in pizza as they have a real fire oven, and your pizza will be prepared as you order. They have a variety of good pastas, but you definitely have to try their ribeye steak!!! This place gets on top of the list of my favorite steak places! The finger potatoes that go and the side are out of this world, too.\nThe stuff and the owner are very friendly and helpful to make sure that you will be satisfied to the fullest. Really great place! Highly recommended, I will be back again."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzaktHUlZ3EAE",
+            "text": "We absolutely loved this restaurant. The ambiance was warm and inviting, with families of all sizes gathered around, enjoying their meals together—a rare, heartwarming sight in Manhattan’s dining scene, where family-friendly vibes are less common.\n\nMy son had the kids’ pasta, and it was exceptional. Unlike many places that simply add butter and grated cheese, this dish was crafted with care. The chef emulsified the butter with pasta water, creating that perfect \"cremosa\" texture. It was beautifully simple, and the taste was outstanding. I enjoyed it so much that I plan to order it for myself next time!\n\nI ordered the linguine al nero al frutti di mare, which was flavorful, and we also shared the Pizza Margherita. The dough, with its perfect texture and craftsmanship, was a standout. While the sauce and cheese were light in flavor. Next time, I might go for a savory topping. A pro tip: I used the crust of the pizza to soak up the sauce from the linguine—a move I’ll definitely repeat.\n\nWe also enjoyed a delightful Frappato from the wine list, which I highly recommend. The service was lovely, and our waitress, Rachel (if I’m remembering her name correctly), took great care of us. We’ll be back soon for more!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMME5MX29BRRAB",
+            "text": "“Where can I get the best pizza in NYC?” I definitely want to say that Aromi has the best pizza!!! Stuff is so welcoming and treat you like family and friends. This place is so cute… I had an espresso martini ( fantastic) and Margaritas pizza. I have to be honest that I never finished the whole tray of pizza by myself but I couldn’t stop eating them from the first bite. Absolutely recommend to my friends to try. Glad that I found the hidden gems in Brooklyn ❤️ can’t wait to come back !!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSNzdPNGJREAE",
+            "text": "This place is super special. The food is excellent, authentic Italian cooking with a mostly Italian team taking care of everything. The decor is on point. Ambiance is smooth and calm, dark and yet well lit. The two owners are attentive and on hand to mix cocktails and ensure your visit is personal. We were speaking to Alessndro for the majority of our meal as he was behind the bar mixing, before he revealed he was one of the owners, shows a certain kind of humility which I really like. Drinks are well made and perfectly balanced. The food is well presented. Finally, the music is good. Which ever one of them is responsible for the music selection gets extra points as it’s well matched for the scenery. Thank you for a memorable, for your generosity and for the very satisfying evening."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnakxDMU9BEAE",
+            "text": "The food was amazing. All the bread and pizza we had were like perfectly toasted clouds. We order the calamari and it was gone before they put it down! The back area was beautiful and heated. We had a party of 10 and they were able to accommodated us. Singing happy birthday to my 16 year old on her birthday was the icing on the cake. Of course the tiramisu was to die for. Alessandro (I believe) was just as amazing as the restaurant itself, and made perfect suggestions for us. 10 out of 10 will be back!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCb0xWcEhTMmxGWmxGNFpXbDVkSGhKTm5sd2VWRRAB",
+            "text": "Get here if you are in Brooklyn. Great little spot. Pizza is not your big slices but a great taste of fresh ingredients and crust. Bread and pasta amazing as well. Do not skip if you want some great Italian in a family friendly setting"
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIek1iZmdnRRAB",
+            "text": "Favoloso\nAlessandro ed i suoi ragazzi sono fantastici.\nHo mangiato e bevuto la miglior pizza napoletana e miglior spritz  di New York.\nPizza cotta in forno a legna\nLocale accogliente e caratteristico\nPrezzi nella media\nDa tornarci!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSNnAyRkxBEAE",
+            "text": "Lovely little place in Carroll Gardens Brooklyn.  Very starchy/light dough for the pizza and rosemary focaccia. Roast octopus was very tender but expected a little more than just one leg considering the price. Very satisfied taste wise and…"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtNDU3djhnRRAB",
+            "text": "I came with high expectations and left wowed with the excellent food and cozy atmosphere. The space at Aromi provides great ambiance for a romantic dinner, with dim lights, the fire from the oven visible in the background, and lots of plants.\n\nThe food is another highlight with excellent ingredients. The toppings on the mortadella and burrata pizza were generous and delicious. The pasta was perfectly cooked at tasted amazing. The lasagna was delicious and so cheesy!\n\nThe staff is very friendly and regularly checks in with the tables."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCX3VfSWVBEAE",
+            "text": "This is my new favorite Italian restaurant in New York City. I highly recommend everything pictured here, and I’m sure everything else on the menu is equally delicious.\n\nThe service was impeccable, friendly, and warm. The interior was cozy, romantic, and intimate. The food was fresh, flavorful, and super filling. Everything was really made to perfection.\n\nTop tier calamari, ravioli, and tiramisu 😍\n\nWe were given free limoncello shots at the end of our meal which really put the icing on the cake.\n\nLove this spot, it’s a must for anyone visiting Carroll Gardens!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3aE1TeDdBRRAB",
+            "text": "Awesome place, best italian restaurant I have ever been! Fresh ingredients, amazing pizza, pasta and appetizers. Drinks were phenomenal, service was above and beyond."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMMzcyV293RRAB",
+            "text": "Average dining experience. The food is passable, but it lacks  flavors . Ordered a mezcal jalapeño drink and it was undrinkable. Similarly, the service is just okay—staff are courteous but not particularly attentive or speedy. It's a decent place for a casual meal, but don't expect to be wowed."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3bzYyOG13RRAB",
+            "text": "Incredible just like we were back in Italy! The vibe, the food, the drinks were all on point. Don’t miss this special spot in Brooklyn. Just like dining with family. ❤️"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqMktTSl93RRAB",
+            "text": "So Aromi is a pizza cucina. And a Bentley is 'a car.'\nThis is a sleek, sophisticated, well-tuned restaurant that offers gorgeously-done food, well-presented and supported.\nWe made reservations for 3 at about 7 pm on a Sunday. Wanted to sit outside; back porch full; so sat in front (they just opened this option.) (Would like to have had backs on chairs, not benches.) Excellent gin and mescal Negronis to open. Then appetizers of Pungiente walnut/spring greens salad (to split) and ... a *spectacular* kalamari with black squid mayo. As far as I'm concerned the dinner could have ended right there. I've never had that combination, and the owner tells me he and his partners worked that out themselves. Spit three ways it was copious. Splendid.\nWe had a branzino al cartoccio, black linguini with mussels, and (evening special) a pappardelle Bolognese. A delightful Montepulciano that punched above its weight.\nIt's hard to say what was the most enjoyable. I think the linguini with squid ink and mussels was the most creative dinner; the bolognese was the most 'user-friendly'.  The service was excellent; a young Sardinian is doing excellent work; the owner and wait staff were delightful but not intrusive.\nAn absolutely delightful dinner.\nI can't wait to come back.\nVery highly recommended."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNfbzd0eBAB",
+            "text": "Authentic Italian spot.\nWe had the prosciutto pizza …AMAZING!\nGreat espresso martini and the Nutella desert was the best way to end the night."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqajVEQkFREAE",
+            "text": "This is a quaint Italian restaurant in Brooklyn, NY. They have a good selection of homemade pasta, pizza,focaccia and cocktails. We enjoyed catching up with friends over good Italian food."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3M3EzcG53RRAB",
+            "text": "Great ambiance and delicious food. Great selection of specials. The wait staff were attentive and warm. I was delightfully surprised that they made me the best cappuccino I’ve had in ages"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMLTVfSUV3EAE",
+            "text": "Might be my new favorite Italian restaurant. Went for a late lunch early dinner with my friend and stumbled upon this absolute gem. There were few people when we first sat down and had to chance to meet Alessandro who was incredibly nice and helped us pick a few items on the menu. We had the focaccia, Margherita pizza, and eggplant app. They were all absolutely incredible. Their bread/olive oil is phenomenal, and the red sauce is the best I’ve been able to find in nyc. Couldn’t recommend it enough."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCbTl6UEp3EAE",
+            "text": "Amazing restaurant. It has a darkly lit atmosphere and the back room is really nice too and is perfect for private parties. The food was really tasty we met one of the owners, Andrea. He was super friendly and accommodating. We came on New Year's Day since so many other restaurants were closed for the day, and gave it a shot as we had never been. It instantly became one of my favorite Italian restaurants in the Cobble Hill neighborhood. Definitely check out the meatball appetizer and the carbonara. Highly recommended. 🙂"
+        }
+    ],
+    "reviews_count": 80
+}

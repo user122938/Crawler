@@ -1,0 +1,607 @@
+{
+    "name": "Restaurant Relax",
+    "place_id": "ChIJwRJqUE9ZwokRPRQ4Apbnx_A",
+    "grid": "BK1",
+    "address": "68A Newel St, Brooklyn, NY 11222, USA",
+    "rating": 4.9,
+    "user_ratings_total": 362,
+    "phone_number": "(718) 389-1665",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMWRqVXpZbGxJVG14VlMwZEhZakp6TWtSck1HYxAB",
+            "text": "It’s the best"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxQ2NWUklXa05ZU2tJNGRVVk1jWFpIVTBnNFpVRRAB",
+            "text": "Loved it! Definitely coming back :)"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VNVQyRlRYMnB5V2t4NFFUSjJSbGxRVFdzdFUzYxAB",
+            "text": "Everything was delicious! I had vegetarian barszcz with krokiet, pierogi with potatoes and cheese, pierogi with sauerkraut and mushrooms, and three different kinds of salads. The food was very flavorful, fresh, and tasted just like in Poland. I miss Polish food, and this meal made me feel at home. The staff was very nice! I’ll definitely be back when I’m in New York again. Thank you!😊"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4NFowcG1kM3B0Y0ZGNWMzVkRaMnhZZEVoQlUyYxAB",
+            "text": "All I can say is - DELICIOUS!! I had the plain Borscht soup to start! So good!! Then I had the Polish Platter, everything was really really tasty! Portion size was good, I am kinda stuffed… Lol The interior is beautiful and super clean!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOakxVOTVVVGhxYzNnMlNrUlFhRTlsVm05YWJVRRAB",
+            "text": "this place rocks!!!!!!!!!!!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORVJVcGFjM1JwYzJGNFdVOUlObGN5WkhZelUwRRAB",
+            "text": "i really enjoyed my visit here. the lady at the front was very nice and took the time answer my questions about the menu.\n\ni’ve tried other polish delis and restaurants in the area, and while they’re great for the local community, they can feel a bit closed off if you’re a POC and/or don’t speak Polish. this place on the other hand felt more open and friendly. definitely coming back !"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1b2JWTmFWWE4yUVZVdGVUSmpWMGcxT1ZsQllrRRAB",
+            "text": "Best pickle soup"
+        },
+        {
+            "date": "1달 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSWFExTktiMUpPUjFKbFUybzJSbmRoYkhsSGNGRRAB",
+            "text": "Najlepsze jedzenie w całym Greenpoint 🤩"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214b0xYTllTVTg1UzJoamNXcGlhakE0WXpWVGRtYxAB",
+            "text": "5 stars"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ObllrRkpTMGRtYURNMmEzQTBSMWRqU1hoQlFYYxAB",
+            "text": "Secret treasure hidden in Williamsburg. The best polish cuisine I ever tasted in NYC. And don’t miss out their polish beer, it’s really good!"
+        },
+        {
+            "date": "1달 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bVdXcDRMVkJYUlZCSGRUVmxNbFJMVERac1VHYxAB",
+            "text": "Polecam wszystkim"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210elVrOXpRVEozUWtWRFdIUXdabTVwUmtwVVVuYxAB",
+            "text": "Classic Polish home cooking and specialties in an environment that blends rustic and modern. The entrees and sides have been fresh and delicious on each visit!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5Tk1sSnBRMFIxZGtKS1JrNWFabmxsZFZkYVEzYxAB",
+            "text": "Amazing food! Especially, the cream of Mushroom soup! My favorite Polish Restaurant:)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vd1NWRTBOR3c0ZDFCVE5DMTVjazFGVHpCU0xXYxAB",
+            "text": "Amazing!!!!!!! This restaurant has delicious food. The soups are out of this world. Everything I tried was 5 stars.  Cannot wait to come back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCTlpUaHNhMU40VERNNFUwOVNNMGg1V2tjdE9XYxAB",
+            "text": "A unique place where you pay first and eat after but the food is superb and home made."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GUllXeERjM1pwUzFsWVpHWklSbkZyVDNkdVJtYxAB",
+            "text": "Good Polish food. Fair prices and kind service!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205a05HcGhORE5EYmxodFVGaFBPVEY1ZDNwSGVGRRAB",
+            "text": "good place"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rM2NEUk1XRWhDU1V4SlRFTmhNSFJRVFZsRWNsRRAB",
+            "text": "Delicious, authentic, hearty cuisine!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xneGFHRTRZMmc1TldWaVkxOU9TRkpsV0hock5WRRAB",
+            "text": "One of the best local restaurants in Greenpoint!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3ck9uUTdRRRAB",
+            "text": "Very good and fresh Polish food, highly recommend!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tobGFVTjZVemhPWWxsa1ZEaENXRTV4Y1Zsb1RFRRAB",
+            "text": "Like eating the sun"
+        },
+        {
+            "date": "2달 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swdGRHaHNjV05JU3paV09IcGFaall6Y1cxcFFWRRAB",
+            "text": "Jedzenie było smaczne, świeże ( było słychać odgłos bitych schabów ), porcje duże, zamówienie podane szybko. Obsługa bardzo miła. Polecam z czystym sumieniem Restaurację Relax."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVWQxRkVSbWh6ZURWaFVUVjJXamcwYWxrd2FHYxAB",
+            "text": "Very good very good!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wZlMwMUhUSEJSU0hGek5WUjNOeTFuVFdKSmVYYxAB",
+            "text": "Good"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkT1JsbFVXRVEyYTFneGRXczVUMHRVZEVKWVRWRRAB",
+            "text": "Amazing kind staff and delicious authentic polish food would recommend anyone who comes to greenpoint and the building looks amazing"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WS1lYZG9ZWFZ2TWtKemNUaFpORkpmTjB3eFRGRRAB",
+            "text": "I left feeling like my best friends mom just cooked me a home cooked meal 🔥🔥The stuffed cabbage, potato dumplings, schnitzel, sausage all DELICIOUS!! And the service was top notch. Thank you for a wonderful evening in Brooklyn."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOa1pEaEJibVZDUkVOUFJsWXhUamxITUc5cFdWRRAB",
+            "text": "Great quality and the portions are generous."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUVJWWlpjbkpUWkRjNE5YcE9jV1pXYjFVelNFRRAB",
+            "text": "Bigos wasn't really authentic though for me. Not a lot of meat, just mainly sauerkraut/cabbage."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toaVlYZGlVRkpNVlhoU2VtZGFUMUYxZVV4S2ExRRAB",
+            "text": "Such amazing polish food. Highly recommend"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oTFkxSjVTSGxvYkVGYU5XMVdaMmxSZGpaMmQzYxAB",
+            "text": "Excellent polish food and staff was very nice. Some of the best polish food in Greenpoint."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wRmIwSkZhakpzY1ZaelJsQkNlamxGT0hGWWJtYxAB",
+            "text": "The beautiful Boleslawiec Polish ceramics deserve 5 stars already. Everything was so tasty. Tomato soup, red barszcz, croquette, pork chop, potato pancakes, salad. Sooooooo delicious!!! I’m drooling already as I’m writing the comment…"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jeGVERmpURVpKU1RaM05UazBYM1ZhVW00d2FFRRAB",
+            "text": "Relax specifically provides the best homemade Polish food. It’s exquisite and varied!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnMFNHUnpUa3BCTUVzNFMyMWxWMFZKYkZSUU1rRRAB",
+            "text": "Had a great meal here - thanks again"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJck83WWRREAE",
+            "text": "Food is great but portions have gotten alot smaller and pricier over the years. The place is a tiny space and a very simple operation. You go in, order at the counter, and they bring the food out to you. No waiting staff. Its a 3-person staff from what I can see so things take time.\n\nIt can get frustrating at busy hours as the woman up front takes care of the orders, cashier, and brings out food. This is more of a take out than a sit down dinner. Place is brightly lit and when it gets busy, the line to order can get long, then you have to hope a table opens up. Best to order take-out."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4eE9GOXFNVjkwVVRGTGJrZEVTelExVGxkaE9YYxAB",
+            "text": "Food was amazing! Worth the trip from New Jersey! The only complaint was the music was a little loud, we couldn't talk comfortably. We will definitely be back again."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rM2QwRmFVbFprVjBKR2VHMHpXVWRhVVVsRWMyYxAB",
+            "text": "My favorite Polish restaurant in Greenpoint"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQQzkwdldQZ3N5YkJREAE",
+            "text": "Yummy food good prices"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VFQzWnJhSFJmZFZCVVkwaExaMUZXUlVkWFdsRRAB",
+            "text": "Superb! Excellent food, great beer, friendly staff, more than fair prices. Go!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQN3UxcFMzNGQ2RFZ3EAE",
+            "text": "insane"
+        },
+        {
+            "date": "4달 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKZThsZm5La1BiMmx3RRAB",
+            "text": "A great place with traditional Polish cuisine. They have all the traditional Polish dishes. I ate delicious pierogi and red borscht. Taste the same or better than at home, in Poland. Very clean and neat. The lady serving behind the bar very friendly and helpful. I felt at home, especially since the staff speaks Polish.\nIf you are in Greenpoint stop by for a good and tasty meal. I recommend.\n.\nŚwietny lokal z tradycyjną polską kuchią. Mają wszystkie tradycyjne polskie potrawy. Zjadłem pyszne pierogi i barszcz czerwony. Smak taki sam albo lepszy niż w domu, w Polsce. Bardzo czysto i schludnie. Pani obsługująca za barem bardzo przyjazna i pomocna. Czułem się jak w domu, tym bardziej, że obsługa mówi po polsku.\nJak będziecie na Greenpoincie wpadnijcie aby dobrze i smacznie zjeść. Polecam."
+        },
+        {
+            "date": "4달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJVGVpcVdtaHMyVGdnRRAB",
+            "text": "Extraordinaire !"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMdXltdlNCeTRfUENnEAE",
+            "text": "growing up in a household where authentic homemade Polish food was a normal occurrence, my standards are very high. Restaurant Relax makes me feel right at home, as if my relatives are preparing the food in the back. This will always be my go-to spot for Polish cuisine!\n\n(could be placed in the Top 10 for cleanest restaurants in NYC!!)"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aMmRreEJURzlDYmtSSVdXZGhZbmh3UzJ0b00xRRAB",
+            "text": "Super friendly staff, great service, and amazing Polish food!!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNbXo5OHJhajZybklnEAE",
+            "text": "Delicious food"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKZVlfc0RBd3VHdk93EAE",
+            "text": "Delicious Polish food. Cozy cabin-like environment. I felt transported from Brooklyn to Poland."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNZmhzY3ppaHNhTS13RRAB",
+            "text": "One of my new favorites"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOZTAxb3ZmbllHaUN3EAE",
+            "text": "This place is an authentic gem.  The food is amazing,  affordable, and best if all, it gets served by a Polish grandmother.   5 stars all the way"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPN2gwdk9NOEozb1lnEAE",
+            "text": "Pierogies for days"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZOUpfV0lnEAE",
+            "text": "Really amazing food and nice people. You can’t go wrong with anything and we’ve been back to try it all."
+        },
+        {
+            "date": "6달 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZcUkzOWdBRRAB",
+            "text": "Jedzenie lepsze, niż w Polskich górach😋\nRosół domowy bardzo dobry😋\nPlacki ziemniaczane świeże, chrupiące - z gulaszem smakowały obłędnie. Pierogi z mięsem pierwsza klasa😋 Wszystko podane na pięknych talerzach a w tle nastrojowa muzyka🤩 Szczerze polecam to miejsce!🥳 10/10!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNneXBHcXhRRRAB",
+            "text": "Roaming around BK, we came across this establishment. Everything on the menu is delicious. Seriously. I've tried almost all Polish restaurants in around this location and this one has probably the most authentic dishes. Everything is top notch when it comes to presentation, quality and taste. I will be back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0b05YVEZ3EAE",
+            "text": "This place is truly a local Jewel on Newel street. It strikes there perfect balance of tradition and modernity. The food is all freshly made with love and care, you can surely taste the dedication. The casual milk-bar style dining popularized during Soviet era Poland is nostalgically revived accompanied by traditional Polish art and decorative motifs on the walls and fixtures. The selection of regional foods is exciting with considerable vegan and gluten free options. The staff and owners are super friendly and helpful. Highly recommend this place. It’s great for takeout and sit down though your food will taste better if you eat it fresh and enjoy the Polish atmosphere."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJNXFTS05nEAE",
+            "text": "My go to spot for authentic home cooked polish food! Been coming here since I was a kid. Always delicious, excellent value, beautiful aesthetics (they renovated pretty recently). If I’m in greenpoint and hungry. This is my go to ;)"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2MmRTRGt3RRAB",
+            "text": "My wife and I are seasoned foodies, but we have never tried Polish food. During a recent NYC trip, our Polish friends took us to the Polish neighborhood in Brooklyn and we were very lucky to have stopped by Restaurant Relax.\n\nFrom the moment we walked in, the restaurant felt warm and welcoming. We have never visited Poland, but it was like stepping into a restaurant in the country itself. The charming decorations and cozy atmosphere set the perfect vibe for a wonderful meal in a cold winter day. There were so many tempting options on the menu, so we asked our friends for any recommendations and ended up ordering a little bit of everything. Though we over-ordered, we couldn't have been happier with our experience.\n\nEvery dish was absolutely delicious, from the borscht and crispy kielbasa to the stuffed cabbage and cauliflower soup. We even paired our meal with a refreshing Polish beer. Not to mention, the staff was incredibly friendly, welcoming, and provided us with a wonderful dining experience.\n\nThe only downside is that we live 2.5 hours away, so we can’t visit as often as we’d like. If you're ever in Brooklyn, Restaurant Relax is a must-visit. Amazing food, amazing people, and amazing service. Restaurant Relax, Dziękuję bardzo!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfbGRhV21BRRAB",
+            "text": "We stopped by Restaurant Relax on a cold winter day for some brunch and it just hit the spot.\n\nLets start with the food:\n- vegetarian polish plate (4.5/5): we got 3 different types of pierogis (spinach cheese, jalapenos cheese potato, and mushroom sauerkraut), and they didn’t have the lentil pate but changed it for the mushroom croquette (which was very well made!). Came with a side of red cabbage salad which was great.\n- flounder filet with French fries, beets and carrot salads (4.5/5): while it was a fried fish, it still tasted fresh somehow. Solid portion! Salads were solid - particularly the carrots.\n- crepes with cheese and apple (4/5): very nice and again, great portion size. Our mistake was ordering the crepes with the rest of the food since it all came out at the same time, and it was more cooled down by the time we ate it. Suggest either ordering it later or letting them know to bring it out later.\n\nVibe: it feels like you’re in a cozy polish mountain ski hut. This place has been around since 97 but they def updated the restaurant since then. It had a very family-owned restaurant feel. Would love to come back and try some of their soups.\n\nIf you’re looking for a no-frills, cozy, good price-to-portion ratio spot, this is your spot. Music was also great."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3OXAzcklREAE",
+            "text": "So far have tried the pierogies, potato dumplings, rotating soups, kombucha and compote. One of our favorites in the neighborhood. They are worth a visit. Nice place to lunch, as well. I can’t wait to try more!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURINnNuS09BEAE",
+            "text": "I wanted to try everything but we were only two people. I love trying new cuisines and will come back to try their soups! Simple delicious homemade food."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6c3J1MVh3EAE",
+            "text": "A lovely casual restaurant with simple and clean deco. I appreciate Polish heritage/culture information is shared on their dining tables. Food will be brought to the guests after ordering from the counter. Although no draft beer or hard liquor served, the bottled Polish beers and homemade drink(fruit compote) were good options. The food was delicious and comforting. Also, while dining in I noticed there were many locals who had ordered food to be picked up. It's definitely a good sign. I would highly recommend this restaurant. I'm super eager to return and try other items on their menu. ;)"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGcXZpeDVBRRAB",
+            "text": "I have dined in this place after many years as food here was always good. Although the interior- remodeled- looks really nice, food is not good. Haven’t eaten polish food for some time we went with classic- pork cutlet and potato pancakes with goulash.\nCutlet was good, potatoes and salads ok but potatoes were covered with a goulash gravy sauce that was bad.\nUnlike the first, potato pancakes were disappointing.  Pancakes were either made from powder or there was too much flour added you didn’t feel potatoes, they were tasteless, not seasoned well with salt and paper so just like fried flour. Goulash meat was not bad, it was cooked well, but grave sauce - same that we got on potatoes- was bad. It might have been powdered gravy, but didn’t taste like nothing than water with flour thickening. This food is not worth more than $5 or not worth going at all.\nIt is self service place, folks&knives and thin napkins you need to get yourself. Line to order food like old times communism line. Long wait. This place is not like Poland looks like, maybe 30 years ago so don’t get it wrong.\nService very nice and the cashier woman taking orders super nice but that is not enough to return. Sorry. Not recommended to anyone that wants to try polish food, this place is not like polish mama food."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCenBPX1RREAE",
+            "text": "I highly recommend visiting this restaurant! Absolutely authentic Polish cuisine. Everything is fresh, tasty, prepared by professionals with love. Excellent service, attentive staff. Loyal prices. Thanks for the time spent in your restaurant!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIa1BPbTZ3RRAB",
+            "text": "A friend recommended this restaurant when we were in town. Absolutely amazing! The food was delicious and the staff were super nice. It was a great place and we would definitely come back again."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzeGZmQVJREAE",
+            "text": "This place is amazing. As a Polish person, I give it my full approval :) Nothing better after a full day of sightseeing than some Polish food and a beer.\n(On the picture: roast pork in sauce, silesian potato dumplings, red cabbage & sweet sauerkraut salads)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwNkkyWU53EAE",
+            "text": "Really homey polish food, big portions, and lots of smash potatoes come with everything. Worth check it out, we don't have many authentic Polish food left in Greenpoint."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJaVpMSWd3RRAB",
+            "text": "This place is a hidden gem in the neighborhood. The prices are extremely good. A full meal for around $15-$20. The food is high quality and delicious Polish cuisine. The staff is super nice too. Ula, a waitress there, is very kind and gives everyone wonderful service! I highly recommend coming here instead of spending $25 on a burger somewhere else."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaOXU3Zk9REAE",
+            "text": "Overall rating: 4.9\n\nCute, authentic, polish spot. I LOVE THEIR PIEROGIS. The service is a mom and pop shop and they are so cute.\n\nWhile this is in Greenpoint/ Williamsburg, it doesn’t feel that way which I really like. Dare I say, it’s better than the popular one in LES? YES.\n\nYou order & pay, then they serve you which I really enjoy. It feels like a shop in Germany."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYNXNmR213RRAB",
+            "text": "An excellent place to eat. The vibe is homey and comfortable. It’s the type of place where you can get a coffee or a beer; dine with others or alone. Many good vegetarian dishes. Helpful and friendly staff. Can’t wait to come back and try more."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0NFBPVXdRRRAB",
+            "text": "Loved our dinner at Restaurant Relax! We got a variety of dishes - the potato & cheese pierogis, potato pancakes, mushroom soup, chicken noodle soup, and the chicken in dill sauce. All were so delicious and came out super quick!  We sat right down, ordered at the counter, and got our food within 10-15 mins of sitting. Cozy spot with great service."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURveFl6V293RRAB",
+            "text": "I'm a Polish person living in America for 30 years, growing up in Greenpoint and leaving it behind to move to the city. I came back today to visit my stomping grounds.\n\nThe food was just as good as my fathers. I've eaten in almost all the Polish restaurants in Greenpoint many times. But this is my first time here. Let me say this might be my #1\n\nFrom food to service to a warm dining experience. I support their endeavors and delicious taste of my home country.\n\nDo try!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkNklEajFnRRAB",
+            "text": "Came here at the suggestion of a Polish colleague. The food is super authentic, portions are generous, the atmosphere is very casual, and Ula was so helpful describing the dishes."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5MU9xVEJnEAE",
+            "text": "On a rainy Saturday afternoon, I finally made my way to Relax and I only wish I had been going here sooner. This place is truly a gem. I ordered the buckwheat pirogies and the zurek soup. OMG, absolutely delicious, perfect and heartwarming. I immediately felt welcomed, like I was going to a family’s house for dinner and the food came out incredibly quick. This Polish/Hungarian American cannot wait to come back and try everything on the menu!\n\n(Also whatever that fruit juice is, LOVED IT!!)"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1b05HY2p3RRAB",
+            "text": "Satisfying and tasty Polish home cooking.  A wide selection of salads, creative and well-prepared.  Modest but very pleasant surroundings for dining."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvb3F2OHRBRRAB",
+            "text": "Amazing food, always comes out fast too! Love their soup and pierogis, kielbasa and schnitzel is also so good"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvdDZXRTFBRRAB",
+            "text": "The best Polish restaurant in Greenpoint! I've been coming here for years. Huge portions, reasonable prices. I love their cheese crepes and chicken cutlets with sauerkraut. Great for dining in or takeout"
+        },
+        {
+            "date": "1년 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYaVpQckJ3EAE",
+            "text": "Zdecydowanie polecamy Relaks każdemu, kto chce poczuć smak Polski w Nowym Jorku.\nWłaścicielka była przemiła, a atmosfera bardzo przytulna. Dania były pięknie podane na oryginalnych talerzach Bolesławca, a smaki autentyczne i pyszne. Wszystko na najwyższym poziomie!\nBędziemy wracać :)"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJZ0tpcWhRRRAB",
+            "text": "This place is an absolute hidden gem in Greenpoint. The food is delicious, the portions are large, the staff is great, and it has a very cozy atmosphere. Definitely my favorite Polish food in the neighborhood. Highly recommended!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXdGNXcnhnRRAB",
+            "text": "I was finally able to visit Restaurant Relax after reopened! I waited so long for the renovation, and happy to visit there to get tasty Polish food!  Everything is authentic, home cooking style Polish food to me.\nPortion is big enough for a meal, but I normally order a soup and entree, take half portion of entree for lunch for the next day.\nHighly recommend!"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtNV9HczVRRRAB",
+            "text": "While it may not be noticable it's actually easy to get here by the B48 and the G train. It involves a little walking.\n\nThe hostess was friendly and the service was fast. I was able to get my boiled Cheese & Potato Pierogies within minutes.\n\nIt is cash only at this place but it's interior is clean and well decorated. There is also a nice restroom here as well.\n\nWhy not check it out and RELAX for a while?"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4My1PWEdBEAE",
+            "text": "Like a big hug from a Polish grandma to lift your mood after a rough day. The food here is soulful and comforting - loved the sauerkraut and mushroom pierogis and croquette, goulash, and stuffed cabbage (it's huge!). A wide assortment of nice salads, including beet, cabbage, homemade pickles, beans, peppers, and more. Everything was flavorful and hearty and I can't wait to go back."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveFp5U1NREAE",
+            "text": "Stumbled upon this wonderful homey spot with my Polish boyfriend (who's a food snob) and we had some pierogies and beer on a sunny afternoon. The service is excellent and the food is even better, we will be back anytime we are in Greenpoint ❤️"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtNGN6aXJ3RRAB",
+            "text": "Simply delicious food, I love polish food and have been to a few places in the neighborhood that are great but none better than here! You know your in the right spot when everyone but you is speaking polish. Couldn’t recommend this place enough, an absolute hidden gem of a place in Greenpoint, can’t wait to go back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEdHNhY2dnRRAB",
+            "text": "Super teasing food a must try is like being in Poland with out being there.\nIt seems like it’s run and served by the owners, super friendly."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXNk1lZ2FnEAE",
+            "text": "Great little spot for delicious Polish food. You feel like you're eating at your friend's grandma's house. Good food and portions for the price. Very clean and nice people."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfNGFHbDJBRRAB",
+            "text": "This is an authentic Polish place. The plates and ambience are very traditionally Polish. The food is fantastic and the service is very nice. I really recommend the Hungarian potato pancakes, meat dumplings, and pickle soup. I love the homey feel and have come back many times."
+        },
+        {
+            "date": "1년 전",
+            "language": "pl",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNON1BxZ2dBRRAB",
+            "text": "Tragedia, uslyszalem najpierew ze do placka nie ma soruwek, bo jest tak duzy, ze klienci nie jedza calego(musialem dokupic sobie). Jak na zdjeciu widzicie jest 5 malych kostek miesa z gulaszu(no normalnie wysytraszylem sie, jak ja sobie poradze z tak porcja). Placek smakowal jak stare przesolone ziemniaki. Nie polecam tego dania na 100%, do tego piwo bylo cieple. Tragedia."
+        },
+        {
+            "date": "1년 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6NXJqc1dREAE",
+            "text": "Domowe, polskie jedzenie, pyszneee. Duże porcje. Chrupiący schabowy. Bardzo czysto w lokalu. Kompot rewelacja."
+        }
+    ],
+    "reviews_count": 85
+}

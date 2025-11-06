@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Risbo",
+        "address": "701 Flatbush Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJBb-QzRRbwokRk_PoI4uduws",
+        "rating": 4.5,
+        "user_ratings_total": 982,
+        "phone_number": "(347) 425-9116"
+    },
+    {
+        "name": "The Green Room PLG",
+        "address": "408 Rogers Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJ76Sit8FbwokR6i3pO17pVPQ",
+        "rating": 4.9,
+        "user_ratings_total": 119,
+        "phone_number": "(718) 218-3331"
+    },
+    {
+        "name": "Bonafini Italian Restaurant",
+        "address": "663 Flatbush Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJWbVgsRRbwokRA8DSvuD9JrA",
+        "rating": 4.5,
+        "user_ratings_total": 1036,
+        "phone_number": "(347) 770-9746"
+    },
+    {
+        "name": "Camillo",
+        "address": "1146 Nostrand Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJxV-NUm5bwokRtHUmJiQYucw",
+        "rating": 4.6,
+        "user_ratings_total": 774,
+        "phone_number": "(718) 576-6886"
+    },
+    {
+        "name": "Rancho Avocado",
+        "address": "1166 Nostrand Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJjySo4ydbwokRo4zBqFlNhEE",
+        "rating": 4.9,
+        "user_ratings_total": 125,
+        "phone_number": "(347) 632-2982"
+    },
+    {
+        "name": "Grill Zilla",
+        "address": "589 Flatbush Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJx-2-SmlbwokRRiLThPlI6ng",
+        "rating": 4.8,
+        "user_ratings_total": 22,
+        "phone_number": "(929) 714-4443"
+    },
+    {
+        "name": "Sweet Catch BK",
+        "address": "1222 Nostrand Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJH6P3kklbwokRis1YQwtwC20",
+        "rating": 4.4,
+        "user_ratings_total": 649,
+        "phone_number": "(347) 240-7799"
+    },
+    {
+        "name": "PLG Coffee House and Tavern",
+        "address": "499 Rogers Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJT8GkcG5bwokRby0XYER8lxc",
+        "rating": 4.1,
+        "user_ratings_total": 742,
+        "phone_number": "(347) 413-7944"
+    },
+    {
+        "name": "Palooza Flava",
+        "address": "708 Parkside Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJr4ecliBbwokRp85N1pUO0jk",
+        "rating": 4.8,
+        "user_ratings_total": 47,
+        "phone_number": "(347) 365-3629"
+    },
+    {
+        "name": "Ix Restaurant",
+        "address": "43 Lincoln Rd, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJJbl25BJbwokRTVCq-iTcnp8",
+        "rating": 4.7,
+        "user_ratings_total": 983,
+        "phone_number": "(347) 533-6920"
+    },
+    {
+        "name": "Bomberino",
+        "address": "392 Rogers Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJyWQjCABbwokR3qRlSePT5MQ",
+        "rating": 4.8,
+        "user_ratings_total": 145,
+        "phone_number": "(347) 365-7380"
+    },
+    {
+        "name": "Red Chaconia Cafe",
+        "address": "616 Flatbush Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJGXDWOgBbwokR83vUFIvphjQ",
+        "rating": 5,
+        "user_ratings_total": 65,
+        "phone_number": null
+    },
+    {
+        "name": "DJONDJON",
+        "address": "1206 Nostrand Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJTX1IoC1bwokRPWu7-zOniw8",
+        "rating": 4.4,
+        "user_ratings_total": 1256,
+        "phone_number": "(718) 676-1047"
+    },
+    {
+        "name": "Honey Badger",
+        "address": "67 Fenimore St, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJPwg6URNbwokR_YxBHdIupJ8",
+        "rating": 4.5,
+        "user_ratings_total": 178,
+        "phone_number": "(646) 670-0601"
+    },
+    {
+        "name": "Novelli Cafe and Restaurant",
+        "address": "1034 Nostrand Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJhc85GWRbwokRWi5rtRJE_-c",
+        "rating": 4.3,
+        "user_ratings_total": 92,
+        "phone_number": "(718) 986-5892"
+    },
+    {
+        "name": "The Bobbed Bandit",
+        "address": "429 Rogers Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJbcngekZbwokRB8M2r3woRcs",
+        "rating": 4.7,
+        "user_ratings_total": 140,
+        "phone_number": "(347) 240-0774"
+    },
+    {
+        "name": "Pacha Cafe",
+        "address": "594 Rogers Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJ88eqLABbwokR95WKNo1Rn3U",
+        "rating": 5,
+        "user_ratings_total": 69,
+        "phone_number": null
+    },
+    {
+        "name": "Bleu Nuk Bk",
+        "address": "1150 Nostrand Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJdbnwmV1bwokRJof6WvOFs6A",
+        "rating": 4.7,
+        "user_ratings_total": 121,
+        "phone_number": "(718) 210-2529"
+    },
+    {
+        "name": "Kulushkat",
+        "address": "1137 Washington Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJtUFC2xJbwokRLmKg_Ztjjm8",
+        "rating": 4.1,
+        "user_ratings_total": 496,
+        "phone_number": "(347) 378-2514"
+    },
+    {
+        "name": "Amy Thai Bistro",
+        "address": "545 Flatbush Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJ0R65YtBbwokRbjTEDiJQZ4g",
+        "rating": 4.6,
+        "user_ratings_total": 825,
+        "phone_number": "(718) 462-1555"
+    },
+    {
+        "name": "Moe's Pastrami & Burger",
+        "address": "569 Flatbush Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJNaGSvfhbwokRlhDVEgmjprY",
+        "rating": 4.8,
+        "user_ratings_total": 796,
+        "phone_number": "(646) 949-1717"
+    },
+    {
+        "name": "Antilles Cafe",
+        "address": "1170 Nostrand Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJGZDLBgBbwokRtJfvgxADnnY",
+        "rating": 5,
+        "user_ratings_total": 192,
+        "phone_number": "(786) 250-7065"
+    },
+    {
+        "name": "Taco azul... note: when it rains sometimes i dont open",
+        "address": "191 Parkside Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJeRtDemdbwokRUac-ZWyDJNM",
+        "rating": 5,
+        "user_ratings_total": 38,
+        "phone_number": "(347) 634-5477"
+    },
+    {
+        "name": "The Swiss Slice",
+        "address": "1290 Nostrand Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJRTBHxoBbwokRNkHm6yKU1KU",
+        "rating": 4.4,
+        "user_ratings_total": 302,
+        "phone_number": "(347) 240-3603"
+    },
+    {
+        "name": "Jerusalem Falafel House",
+        "address": "1026 Nostrand Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJv-lmYmJbwokRE8QU-HUI0QA",
+        "rating": 4.7,
+        "user_ratings_total": 196,
+        "phone_number": "(718) 484-0317"
+    },
+    {
+        "name": "gertrude’s",
+        "address": "605 Carlton Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJnRyRtUBbwokR4veV9Er_PAU",
+        "rating": 4.5,
+        "user_ratings_total": 410,
+        "phone_number": "(718) 269-0043"
+    },
+    {
+        "name": "MangoSeed Restaurant",
+        "address": "755 Flatbush Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJ0ZK6zGpbwokRuqUhA8Yxw7Q",
+        "rating": 4.4,
+        "user_ratings_total": 1126,
+        "phone_number": "(718) 513-6084"
+    },
+    {
+        "name": "Edie Jo’s",
+        "address": "630 Flatbush Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJPbxaKMtbwokR6MhWzaWGpfc",
+        "rating": 4.2,
+        "user_ratings_total": 418,
+        "phone_number": "(914) 229-3300"
+    },
+    {
+        "name": "Cheryl's Global Soul",
+        "address": "236 Underhill Ave, Prospect Heights, NY 11238, USA",
+        "place_id": "ChIJn3Sg2QlbwokR7c0TqJW-qRE",
+        "rating": 4.4,
+        "user_ratings_total": 1545,
+        "phone_number": "(347) 529-2855"
+    },
+    {
+        "name": "Hello Bar Bk",
+        "address": "1110 Nostrand Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJNYMOd9NbwokRdmYSw0t_RiU",
+        "rating": 4.6,
+        "user_ratings_total": 58,
+        "phone_number": "(347) 365-3587"
+    },
+    {
+        "name": "Pomo BK",
+        "address": "2122 Beekman Pl, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJv8oanR9bwokRJ9ngZL91RJg",
+        "rating": 4.5,
+        "user_ratings_total": 75,
+        "phone_number": "(347) 384-1944"
+    },
+    {
+        "name": "Gino's",
+        "address": "548 Flatbush Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJu2urCEBbwokR_zGo-7WvJ3k",
+        "rating": 4,
+        "user_ratings_total": 275,
+        "phone_number": "(718) 287-1277"
+    },
+    {
+        "name": "Cafe Mado",
+        "address": "791 Washington Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJrwTqaQBbwokRaK-iQfAWdG4",
+        "rating": 4.7,
+        "user_ratings_total": 190,
+        "phone_number": "(347) 627-8298"
+    },
+    {
+        "name": "Midwood Flats",
+        "address": "577 Flatbush Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJDeoRAUBbwokRRJWSct7E3Lc",
+        "rating": 4.3,
+        "user_ratings_total": 630,
+        "phone_number": "(718) 484-4466"
+    },
+    {
+        "name": "Good Hope original restaurant and bakery",
+        "address": "711 Flatbush Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJQY0toTdbwokRdKdCc5vM6XU",
+        "rating": 3.5,
+        "user_ratings_total": 48,
+        "phone_number": "(347) 240-6221"
+    },
+    {
+        "name": "Island Krave Cuisine",
+        "address": "1137 Nostrand Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJ8cWjATRbwokREF5U6lS6MCg",
+        "rating": 4,
+        "user_ratings_total": 33,
+        "phone_number": "(347) 627-2278"
+    },
+    {
+        "name": "El Castillo de Jagua",
+        "address": "679 Flatbush Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJrxwTthRbwokRxV6WN2FllFE",
+        "rating": 4.3,
+        "user_ratings_total": 750,
+        "phone_number": "(718) 684-5188"
+    },
+    {
+        "name": "Krupa Grocery",
+        "address": "231 Prospect Park W, Brooklyn, NY 11215, USA",
+        "place_id": "ChIJDXCWZh5bwokROj_-7EfM3NI",
+        "rating": 4.6,
+        "user_ratings_total": 876,
+        "phone_number": "(718) 709-7098"
+    },
+    {
+        "name": "Akwaaba Restaurant",
+        "address": "604 Parkside Ave, Brooklyn, NY 11226, USA",
+        "place_id": "ChIJw1u8XmlbwokRq8_uoYyOEsQ",
+        "rating": 4.4,
+        "user_ratings_total": 196,
+        "phone_number": "(347) 985-2588"
+    },
+    {
+        "name": "De Hot Pot",
+        "address": "1127 Washington Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJP8OZxhJbwokR7KIGqK8m3Tk",
+        "rating": 4.5,
+        "user_ratings_total": 902,
+        "phone_number": "(347) 240-1180"
+    },
+    {
+        "name": "Allan's Bakery",
+        "address": "1109 Nostrand Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJv8lwzG9bwokRuOS0aoXcSZQ",
+        "rating": 4.3,
+        "user_ratings_total": 2084,
+        "phone_number": "(718) 774-7892"
+    },
+    {
+        "name": "Prospect Pizza Brooklyn",
+        "address": "599 Flatbush Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJJ_INRRNbwokRcOEGP3HS4gU",
+        "rating": 4,
+        "user_ratings_total": 379,
+        "phone_number": "(347) 663-4410"
+    },
+    {
+        "name": "Market Bar",
+        "address": "1207 Nostrand Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJC9lnWEJbwokRFhZpsYWE6vY",
+        "rating": 4.2,
+        "user_ratings_total": 136,
+        "phone_number": "(347) 221-1772"
+    },
+    {
+        "name": "Empanada City",
+        "address": "363 Lincoln Rd, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJNRvEK3BbwokR_y7hGNgFr9A",
+        "rating": 4.5,
+        "user_ratings_total": 1075,
+        "phone_number": "(718) 363-5252"
+    },
+    {
+        "name": "Jauja Mexican Kitchen",
+        "address": "695 Flatbush Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJry4T9ipbwokRuu2fNpIxvCk",
+        "rating": 4.5,
+        "user_ratings_total": 213,
+        "phone_number": "(347) 365-9522"
+    },
+    {
+        "name": "Katie O Soul Food",
+        "address": "452 E New York Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJi_PHqXpbwokRIASY03NGLA4",
+        "rating": 4.2,
+        "user_ratings_total": 414,
+        "phone_number": "(516) 669-9941"
+    },
+    {
+        "name": "Flatbush Thai Corp",
+        "address": "561 Flatbush Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJ01oue9JbwokRl_M5L9hBzB8",
+        "rating": 4.5,
+        "user_ratings_total": 151,
+        "phone_number": "(347) 240-7462"
+    },
+    {
+        "name": "Pasa Pasa juice bar and food",
+        "address": "404 Rogers Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJZyR2_oRbwokRvVlSyP2KpRk",
+        "rating": 4.9,
+        "user_ratings_total": 138,
+        "phone_number": "(917) 697-6948"
+    },
+    {
+        "name": "Chavela's",
+        "address": "736 Franklin Ave, Brooklyn, NY 11238, USA",
+        "place_id": "ChIJJ5J8yJ9bwokRjpOkpYgii5k",
+        "rating": 4.5,
+        "user_ratings_total": 3023,
+        "phone_number": "(718) 622-3100"
+    },
+    {
+        "name": "Culpeppers",
+        "address": "1082 Nostrand Ave, Brooklyn, NY 11225, USA",
+        "place_id": "ChIJG9-BKW5bwokR_KjbhhaMqvs",
+        "rating": 4.2,
+        "user_ratings_total": 515,
+        "phone_number": "(718) 940-4122"
+    }
+]

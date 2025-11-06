@@ -1,0 +1,54 @@
+{
+    "name": "CK GYRO & GRILL",
+    "place_id": "ChIJCTAtwgRdwokRjwWyejo_i2Q",
+    "grid": "BK5",
+    "address": "1846 E New York Ave, Brooklyn, NY 11207, USA",
+    "rating": 3,
+    "user_ratings_total": 7,
+    "phone_number": "(718) 684-5032",
+    "reviews": [
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2OEtYTmN3EAE",
+            "text": "Good was not good, it was definitely from yesterday and it didn’t taste good"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXNXBYcnl3RRAB",
+            "text": "Not open till 3am. It was already closed at 1050pm"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHMHFiMFpREAE",
+            "text": "Plz make sure next time Cook chicken Proper thanks"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2aWJhdTZBRRAB",
+            "text": "Walked in, waited on line  placed my order, waited 25 minutes only for them to tell me I never placed an order. Complete waste of time!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxNGYzaFZBEAE",
+            "text": "Nice and clean place.\nDelicious food.\nExcellent service."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLM0xpaGV3EAE",
+            "text": "Good food good quality..staff so nice...inside so clean"
+        }
+    ],
+    "reviews_count": 6
+}

@@ -1,0 +1,516 @@
+{
+    "name": "Joe's Pizzeria",
+    "place_id": "ChIJmdJnm79dwokRYd2K5lt_qDY",
+    "grid": "BK5",
+    "address": "1121 Liberty Ave, Brooklyn, NY 11208, USA",
+    "rating": 4.6,
+    "user_ratings_total": 589,
+    "phone_number": "(718) 235-7373",
+    "reviews": [
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJNGJQMm5RRRAB",
+            "text": "Love the pizza , fried oreos most of everything is good definitely recommend"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0M1JqY3RSSFJtVWxjMU1EbEdhbGhIZWpGNlVuYxAB",
+            "text": "Take out"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twaWVrRlhhVWR2VUZaQ1pWUmxNVFl3U2xoWWNsRRAB",
+            "text": "Bathroom is disgustingly dirty! No hand soap in the bathroom\nA towel dispenser with no towels.\nNothing to dry your hands with.\nToilet and sink are filthy!\nOnly 2  pizza choices, plain and pepperoni. The place could use a good cleaning.\nThat said, the owner is kind and courteous."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2aU5iWEt3EAE",
+            "text": "Childhood Pizzeria for almost 40 years. Same taste , same quality. Family always been great to ours , will continue to support 🙏"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkUU9YQmxRMWx0VkZSR2JWWTFWRTVqWm1WbVMzYxAB",
+            "text": "i have been proudly getting pizza from Joes for 20 years and i have NEVER EATEN A SALTY ASS, pizza 🍕 pie since going to Joes\ni am thinking 💭 that someone else made this pizza 🍕 and poured RIDICULOUS AMOUNTS OF SALT\ni love ❤️ Joes pizza 🍕 but uber eats got this customer twisted 💀💀💀\nhow disgusting\n\nthey never 👎 did that before\nand they should be ashamed for their actions and their behavior in the kitchen while preparing your pizza"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4NVlVNHhRa05IV1ZwUVJWTlZNMUphYm5RNVpGRRAB",
+            "text": "Love the pizza there .    Extra crispy .. Family atmosphere. Good vibes ✨️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKT1RYcGtNMjV3Y1Rsb1V6TkZOVEkyUkZKQldsRRAB",
+            "text": "Joe (Joe's son) gave us the best experience in a restaurant I've ever had.  Highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTVJGbHJURzlvTmpsbU0wdGpWbEJwVkRocVowRRAB",
+            "text": "First time in NY and Joe Jr. gave me an awesome NY welcome & experience. Pizza was crafted by the gods."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taUlJqUm1kbkJzYms1aWR5MUtURWR6TUdjM01FRRAB",
+            "text": "So glad to see Joe’s on Uber Eats this has been by go to for years! Not only is their pizza the best but the customer service is impeccable! Ordered through Uber Eats and the courier delivered the wrong order to my daughter’s school. Joe personally called me back and immediately rectified the situation. He sent a new order and called Uber eats to get my refund!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPaTBzcG1naHNMTmVnEAE",
+            "text": "This place was awesome. The guy Joe himself couldn't have been cooler. He made me a fantastic pizza that we created just by talking it out .. great dude, great place"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLel8yTHp5Z3NDNTZBRRAB",
+            "text": "Outstanding service with great tasting pizza. With much other foods as well."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdDlfYmN3EAE",
+            "text": "The pizza is delicious very good my family and i really enjoyed our pizza 🍕 thank you Joe's pizza 🍕 for good fast service"
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dEx6WmxnRRAB",
+            "text": "Soy demasiado escéptico cuando veo una cola y esta pizzería tiene siempre cola, decidí esperar (y eso que era sobre las 11 de la mañana) y me tomo unos 10 minutos de espera hasta ser atendido, he decir que mereció la pena la espera, muy sabrosa y fina, después de unos días en la ciudad esta pizza es mi preferida, la recomiendo"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3NExtT2JREAE",
+            "text": "I ordered pizza from here cuz it was good one time on a casual pass by.\n\nI wanted zeppolis and set that door dash out.\n\nDelivered, but Joes didn’t deliver on the Zeps.  Whole reason i ordered the shebang in the first place. They looked super decent.\n\nI mean the fam got the money back but I really wanted a home style treat!\n\nTwo times they either forgot or just didn’t have em.  Step it up.\n\nPizzas mad good tho. For sure.  AND the lasagna. Whole load of Italian bread came with it too, like wow!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRaElQUXh3RRAB",
+            "text": "Owner is a G, Pizza is 10/10"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnNjRIcW5nRRAB",
+            "text": "Joe's Pizzahas the best pizza ever 🤤🍕\nService: amazing people\nAtmosphere: is nice"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURncTZidnBRRRAB",
+            "text": "Great pizza shop highly recommend"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncU5XQXFRRRAB",
+            "text": "I love coming here my childhood pizza shop and they now have sweets like cake pops my daughter loves cookies are wonderful as well have to get a cup of the homemade juice see y’all soon 🍕"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfcGQtMHpRRRAB",
+            "text": "Pizza."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfdlAzZFZ3EAE",
+            "text": "My mom loves their pizza. Great prices. Sadly on cash. Very friendly. Next time I’ll send pictures. Was so hungry forgot to take."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2LUplbzZRRRAB",
+            "text": "Had the pleasure of meeting the man the myth the legend, Joe (jr) himself! Great guy, the kind that treats you like family from the moment you walk in. I was only visiting for the day and I’m so glad my first slice of NY pizza was from Joe’s, absolutely delicious and wonderful experience. (It is cash only, so make sure you bring cash so you don’t have to use the ATM!) I’ll definitely be back!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzNThmTWNBEAE",
+            "text": "Famous Garlic Knots, nuff said 😤…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYejdMZUZnEAE",
+            "text": "When you mention OGs and classic don’t leave out Joe’s pizzeria . It’s been in the neighborhood for yearsssss everytime I go it reminds me how much the community appreciates this spot. Friends and family definitely gather here to enjoy the food and great company . You can’t go wrong with a classic slice and they definitely give that NY taste if you know what I mean  ! It’s a hit lol  …beef Pattie with cheese and pepperoni a hit …garlic knots drenched 👌🏾and if you have a sweet tooth you have options I’ve had the fried Oreos, zeppole , chocolate chip cookies and cake pops . If your ever in the neighborhood definitely show them love ❤️ they are also on delivery sites as well which I’m grateful for 🙏🏾"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLdjlUR3l3RRAB",
+            "text": "Joe cool Gentlemen"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIb2REdmx3RRAB",
+            "text": "The vibe  is the classic nyc pizzeria I remember from the 90s growing up. Right when I walked in and smelled the pizza I knew it was gonna hit. We ordered a cheese pie and I recommend you sit there and enjoy the ambience and of course super delicious classic NYC slice!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqMjlXNG13RRAB",
+            "text": "Makes Excellent Pizza & other Food!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3aloyUE93EAE",
+            "text": "Nice place to go to buy pizza"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURicjV6OUN3EAE",
+            "text": "Revisited Joe’s after my first slice there in 1977.  Still great pizza and great value after all these years.  Friendly as always.  Thanks Joe!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNib2VxZmdBRRAB",
+            "text": "The taste of the pizza is awesome . I trusted my sis , and I love it ☮️💜"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZcGRLSEhREAE",
+            "text": "The best pizza in East NEW York"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyNnBqNGJ3EAE",
+            "text": "Love this place. Have been going there for about 44 years."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6cmZ5U3hRRRAB",
+            "text": "Taste good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6X3AzT2Z3EAE",
+            "text": "It's a cool spot to sit down and grab a quick bite to eat. My only thing I ask is please get your juice machine fixed. Thank you"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUd1BDWlhREAE",
+            "text": "Best pizza in EAST NEW YORK hands down"
+        },
+        {
+            "date": "1년 전",
+            "language": "pl",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUd3Z1c0xREAE",
+            "text": "Ziemniak godny jest Polaka, Polak godny jest ziemniaka Święto ziemniaka Święto ziemniaka"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqZ1lLSzV3RRAB",
+            "text": "Delicious food and excellent customer service"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEeFplZnZBRRAB",
+            "text": "Best pizza in town"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5cl9pbXdRRRAB",
+            "text": "Me encanta este restaurante esta a la altura de un buen ambiente y limpieza y lo mejor es la calidad de sus pizza 🍕"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURFdXJxaktnEAE",
+            "text": "I've been going to Joe's pizzeria since I was a diapers !!! Always have had great food and awesome service."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5ek1Ta0h3EAE",
+            "text": "Joey always greats you with a smile. Best pizza in the neighborhood! Please bring back the cauliflower pizza though lol"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5Nk8zbGVBEAE",
+            "text": "The Best PIZZA in NYC !!!!         /World\nI love there pizza I’ve been going here for years\nYou can’t go wrong with ordering everything or a regular slice\nI HIGHLY RECOMMEND THAT YOU GO GET SOME PIZZA HERE !!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5LVBmN0pnEAE",
+            "text": "Exelente"
+        },
+        {
+            "date": "1년 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkNlBEQ2F3EAE",
+            "text": "👌👌👌👌"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0c2ZUbzVnRRAB",
+            "text": "You will not find a better pizza anywhere so stop in a grab a slice. Need more than a slice ? No problem. Check out one of their numerous other options as they're all good. I know because I've had them all 😆"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOMmJhUnZRRRAB",
+            "text": "Classic NY pizza joint"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxelB5MTJRRRAB",
+            "text": "Muy delisiosa la pizza.."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWejhfb29nRRAB",
+            "text": "Been goin here my whole life, and it was never bad, the dudes working are like family now"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWNTViZ2VBEAE",
+            "text": "The cashier is the best"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpdTZTdEV3EAE",
+            "text": "Only cash! Very good pizza. The cheese pizza was 14$. They don't seem to hear you very well, so speak up. Also try to have almost the right amount of cash otherwise they don't accept it."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnelp2OW1BRRAB",
+            "text": "Grew up eating at this pizzeria. The recipe has remained the same. Everything is so good. The zeppoles are DELICIOUS!  Crispy on the outside  soft and fluffy on the inside."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGdjRYZzZBRRAB",
+            "text": "I have been going to Joe's pizzeria for now 26 years, and I will have to say that this is the absolute BEST PIZZERIA in the neighborhood! You will absolutely love the food served here, service is always great and respectful, and the guys here have always made sure your food is made fresh or heated to your desire. I HIGHLY RECOMMEND THIS ESTABLISHMENT! You will not be disappointed!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwdnZlN1BBEAE",
+            "text": "I've lived in this Neighborhood for 3 years. This is the first time that I've tried their pizza and I loved it. I had sausage and extra cheese. I went back two days later for a whole pie for $24. The owner gave me a free soda which was cool. I bought a kanish for a friend and he couldn't stop talking about how good it was for hrs."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHcXVPbm1BRRAB",
+            "text": "Childhood pizzeria (I believe they opened the year I was born 1973)... All the food served there is delicious and the service is always top notch. Whenever I am in the old neighborhood I try to stop and get a slice Owned and operated by the same family all this time. It's awesome any time of the day. Hope to see them there for more years to come."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4eHBtMkxREAE",
+            "text": "I've Visited Joe's pizza for over 30 years. I was served back when by the father & now I'm served by the sons. Great pizza. I live in Pennsylvania but I travel to my home town Brooklyn NY. When I go in town I always stop at Joe's. Yes their pizza & food is that good."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTdThfa1pnEAE",
+            "text": "I ordered a Large extra cheese pie for me and my family and on the menu the price said $13 but when my husband went to pick it up he was charged$17. When he came home with the pizza the extra cheese wasn’t applied and the cheese actually…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxM3NUS25RRRAB",
+            "text": "Always fresh and delicious can't go wrong with Joe's"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVbGJhNF9BRRAB",
+            "text": "It's a family owned pizzeria. I've seen the children grow with mine. Very respectful n friendly atmosphere. The Pizza is delicious, not doughy. Its the best. My family  n friends come into town that's the 1st place they want go...Joe's  Pizzeria. 👍…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCaks2bXlBRRAB",
+            "text": "The best pizza in Eny 40+ years"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURrN3Rqa0NREAE",
+            "text": "Best pizza in Brooklyn. Friendly staff\nClean environment  modest prices. No skimping on the cheese! Multilingual staff. Joe the owner attentive to your needs. Always with a smile!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCcHZTOHR3RRAB",
+            "text": "This place is the best, I’ve been coming here for YEARS. Joe always hooks it up, the pizza is great, smells great when you walk near the establishment, and I can’t tell you how many people I’ve recommended Joes too. I’ll forever come here!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRcmMtelFnEAE",
+            "text": "Excellent Pizza, excellent specials, still has that old school pizzeria look and feel when you step in the door! Joe is pleasant and makes the best chocolate chunk cookies. Highly recommend."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURweHZ1azVRRRAB",
+            "text": "The pizza was HORRIBLE, it was so dry too much bread barley sauce. I got a dry throat after every bite. Zepalis tasted gross."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNweDZ2WVVBEAE",
+            "text": "They have the best pizza in the neighborhood."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVa05IR0tBEAE",
+            "text": "Talk about great pizza! My goodness! The best pizza in Brooklyn!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRd1pudHBnRRAB",
+            "text": "This place is a jewel in the neighborhood, the place has an outdated feel but it's nothing short of great pizza and with a 2 for $20 special you can't go wrong. I was pleased with the quality of taste and freshness this place is delivering…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoOU8ybnRRRRAB",
+            "text": "This is my spot since I was a kid growing up around here. Now, every time I come to town... Joe's is my first stop to get some old fashioned NY style pizza 🍕 And beef patty with cheese and coco bread is EVERYTHING!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWcGVMR0p3EAE",
+            "text": "I've been a customer since a kid and they never disappoint best pizza in the East hands down"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRMDdHX2RBEAE",
+            "text": "Joe's pizza is the place to buy pizza it's really good it's a family run business it's been there over 20 years I been coming hear since I was a child this is one of the fewest business that have been around for over 4 decades I tell…"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBNHNMUDdnRRAB",
+            "text": "This hidden Little Gem is in the heart of City Line Brooklyn it is without a doubt the best round pie (Neapolitan) in the neighborhood and probably Beyond it's not that they do anything special to this pizza it's very simple and very plain…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhOG9PSVFnEAE",
+            "text": "Great slices... didn't like the customer service.  I was just asked if that's all boss.... yet every customer behind me was asked how the day, are you you ok etc... not any hard feelings. I tend to forget it exists.  But thats my review."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTdC03eVJREAE",
+            "text": "Pizza was fresh. Really cheesy and crispy. Garlic knots needed a little salt but were soft and had lots of fresh garlic. My favorite part about this place is the price!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURScGNfT1NREAE",
+            "text": "Joe the owner was super nice to us, we ordered for a birthday party. Food came with some extras and came fresh. Thanks Joe! Recommend for Sofive parties!"
+        }
+    ],
+    "reviews_count": 72
+}

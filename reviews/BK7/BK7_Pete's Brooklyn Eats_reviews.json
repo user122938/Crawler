@@ -1,0 +1,474 @@
+{
+    "name": "Pete's Brooklyn Eats",
+    "place_id": "ChIJd4fxZatawokR6sGd6OjMtlM",
+    "grid": "BK7",
+    "address": "5620 1st Ave, Brooklyn, NY 11220, USA",
+    "rating": 4.6,
+    "user_ratings_total": 199,
+    "phone_number": "(718) 680-5858",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaS1dIVlVja3BsTFdsNFJHZG5RV0pyUTFWNFZFRRAB",
+            "text": "Do you want more 5-star Google reviews? Best of all, they’re free! We can provide as many as you need to help your business reach the top of Google Maps. Contact us on Telegram: @gthisjpeg"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWeFp6aDZjR2hoVVVKeFZYVXpiVmRHYW1GMGVVRRAB",
+            "text": "Wow! Great group of guys and amazing food!"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NM1luWkRTbEJYWlUxb1RuSldlalZhZFdVMFJYYxAB",
+            "text": "Muy buena atención los muchachos son amigables y educados , la comida sabe muy bien y deliciosa"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wSU1GWmZNVTVJYUZkZlNqRTVkVFZ3ZEhvMmVYYxAB",
+            "text": "The guy is working here are extremely nice and the food is good"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214TVpuZzBSMloyTkY4d1FsZEJSazlCVTNOclNsRRAB",
+            "text": "One of those places that you know from the second you walk in whatever you order is probably gonna be good. The handwritten menu boards, the classic two top bistro tables, a linoleum counter almost completely worn through by the elbows of a few million customers. I stopped in last week and got a couple of very tasty slices, And found myself in the neighborhood again today, so I got their Diablo chicken from the steam tray. Absolutely delicious at an unbeatable price. They even included a single piece of bread for the scarpetta, couldn’t ask for more."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sbGRFTm5aRUpKTjJ4dGFscFVPR3hoY3poc04wRRAB",
+            "text": "Amazing prices. Incredible quality. Seed oil free! Should be a staple for every hospital and army terminal worker...and it is! Al and Joe are the best!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OVWJrNUVlSEZpVjNCNlNscEZlbVpmY1hCVFdVRRAB",
+            "text": "first burger i’ve had after coming back to NYC. it was beautiful."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SaGIwMWpVRTl4VVZsWE16SnlWRWhZZVRsV1RrRRAB",
+            "text": "Best kept secret of the Brooklyn army terminal"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3cDhYV3B3RRAB",
+            "text": "This place is the BESSTT!!!!!\n\nSo kind, so accommodating. It's literally my go to place when at work or for any special occasion.\n\nI would give them 10 stars if I could. The best food service business."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3ODZ1Q0xBEAE",
+            "text": "Joe and Al are killing it. Great subs. Great hot food. It’s all fresh and delicious."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBNzkzdzN3RRAB",
+            "text": "Oh I forgot to mention at fives towns IHOP have vanilla and hazelnut creamer as an option and hoy syrup is standard. Umm I ask for grill turkey at on Ralph's Ave. And it was denied.  This won't happen in five towns. I think I said enough…"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBbHNMM2J3EAE",
+            "text": "Great food and great people"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3djZDcW9nRRAB",
+            "text": "Al is very helpful in recommending food, workers are very professional and friendly, food are delicious"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqbF9tU2dBRRAB",
+            "text": "El entorno hace dudar de lo que uno pueda encontrar adentro pero es una tremenda sorpresa, muy amable el personal y la comida muy buena, a un precio aún razonable.\nMuy recomendado si te estas quedando en la zona y quieres comenzar el día con energía, nosotros aprovechamos y nos llevamos algo para luego almorzar en Central Park.\nPedimos un omelet y un sandwich, el carnívoro y estaban deliciosos."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5aWRmeWd3RRAB",
+            "text": "Good but busy at times."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkLV9feWZREAE",
+            "text": "The pizza was delicious and the service was phenomenal"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkM01qWWhRRRAB",
+            "text": "Over at the Military park for work today from Jersey. Stopped over at Pete's on the recommendation of coworkers and man oh man, this place is pretty cool. Staff is super attentive, food tastes fresh and there's a ton of options, and the location definitely adds a bit of cafe vibes. Maybe it's the open format or the building it's in but this place is super nice. If you're ever in the area stop in, grab some food and relax for a bit. You won't be disappointed."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkMzhMUTB3RRAB",
+            "text": "Great pizza, food! Best place to stop and eat all the time!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0X01uOXJBRRAB",
+            "text": "I had the chicken parm sandwich and lentil soup. Both were delicious. I would recommend this place."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0M01uQm1BRRAB",
+            "text": "Next time, I will double-check my pizza bread is cooked through. I will still give a 4star, considering this time it was happen by human error."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGbTg3dFhBEAE",
+            "text": "Food is awesome close to homemade 😋"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGbzVYTkhBEAE",
+            "text": "That main guy is totally unprofessional. BEWARE!!! When you pay by credit card, he can put any price he wants. Make sure to double check all the numbers. RIP OFF!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGbmZDY09REAE",
+            "text": "Their customer service is good over phone and in person. The food is great. I order from every chance I get."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGcUtEOVhBEAE",
+            "text": "Fresh food open early and good service. WHAT MORE CAN YOU ASK 4"
+        },
+        {
+            "date": "2년 전",
+            "language": "el",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNadFppd3VBRRAB",
+            "text": "A1a@"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwdnFEN1FBEAE",
+            "text": "Great lunch spot if working in the area!!! Order from their extensive menu and they are fast"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKM29tUDBBRRAB",
+            "text": "Petes Brooklyn eats is a great place to stop and get a bite to eat. AL is the best. Always has many options to choose from. Opens at 4am Monday to Friday"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4N3Q2UkJBEAE",
+            "text": "Food and service are outstanding here! Went here while on day one of a three day work trip, and it was so delicious that we came back the next two days as well. Some of the friendliest people that work here too, they recognized us and always gave us a warm welcome."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4N3M2THN3RRAB",
+            "text": "I was in town for work and was working down the street. My team and I came here every single day for lunch. The food was amazing, great variety, and the service was some of the best service I ever received!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSbTktRzNBRRAB",
+            "text": "There ain't a better lunch spot in the area I swear to God would kill for an Il Diablo"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSODVEYW93RRAB",
+            "text": "I get my breakfast and lunch several times a week and I couldn't be happier! So yummy, such a great value... and the nicest service in Brooklyn. I'm so glad I found Pete's on my morning commute!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtbmJLX0pnEAE",
+            "text": "Had their square pie and it was delicious."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoajhERWxnRRAB",
+            "text": "Excellent Food\nExcellent Service\nExcellent Prices\n⭐️⭐️⭐️⭐️⭐️"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLdHNqaHFRRRAB",
+            "text": "They open at around 3AM... they have delicious Bagels and breakfast.. Delicious Lunch too! Very Friendly Staff.. Highly Recommend.."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCbnVqRnF3RRAB",
+            "text": "Fantastic food, affordable prices, and a welcoming staff. has a large selection of vegetarian-friendly foods. become my new frequent location."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCcktHYzBBRRAB",
+            "text": "Wonderful food.  Very nice man . Made my day finding good food for breakfast.  I'm a longhaul truck driver."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtejdxb0tREAE",
+            "text": "The best breakfast in town"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtM1phVmdRRRAB",
+            "text": "Layout/atmosphere\n*Small luncheonette; few tables for dine in\n\nService\n*Good\n\nFood/drink\n*Roast Beef Classic (caramelized onions, gravy & mozzarella on club bread) - good; little messy"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtdWRXeUdBEAE",
+            "text": "Like a place that opens early and have great food thank you Pete"
+        },
+        {
+            "date": "3년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1d2FTZ1BnEAE",
+            "text": "Veloci e cortesi   Bravi!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1MHRMamlRRRAB",
+            "text": "This place is awesome!! Fantastic service, food, and PRICES!! So glad I found these guys, quickly becoming my go-to breakfast spot!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPd00tQXNRRRAB",
+            "text": "The Worst sandwich I ever bought in my life it was dry I ask Mayo two times to the young lady there and the sandwich had more Lettuce tomato onion then meet Barely any meat there at the top it off no mayo sandwich is super dry why because…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXcjU2RDF3RRAB",
+            "text": "Friendly establishment with great tasting food."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXb1pPQnVRRRAB",
+            "text": "Order lunch 5 days a week"
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXcHRDYmJREAE",
+            "text": "Muy buen servicio a los clientes"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXd3ZYU1hREAE",
+            "text": "My favorite guys EVER\nWe order almost everyday from Pete's\nBest thing is Friday general tso chicken....."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2OHFqbU9REAE",
+            "text": "This place opens up at 3AM and serves really good food. I work the overnight shift at a medical facility near by and love going to Pete's for a late night burger and friends or a breakfast sandwich. What I really appreciate about the place…"
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRdWFPNEV3EAE",
+            "text": "I've eaten here a few time and the food I have tried here are delicious. This business was small and cozy and the main customers are people who come in from the Hospital nearby. With that being said, there is always a seat. The staff is…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtM1lyRnNRRRAB",
+            "text": "Be careful delivering for this restaurant. They will call your employer lying like you didn't deliver the item just to get their money back. Thank God the building has security and security cameras and maintenance people that was my witness…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNdXF5RGFBEAE",
+            "text": "This is a great place to get deli food, lunch food and snacks. The food is always fresh and good, made daily. The establishment is very clean and well organized. The staff is very friendly and helpful. I recommend this place to everyone."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3NmJiSHRRRRAB",
+            "text": "I have ordered for years from them. Today I ordered from them and when my food arrived it was cold.... Coffee light and un sweet when I ordered coffee light and sweet. I called before they arrived with my food and asked for them to add toast to my order and to put butter and jelly on it. I also asked will I be charged for the toast they said no and would add it. I got the toast it was dry as ever. I called back to complain the lady that takes order's stated well we didn't charge you for the toast...... I was like okay I know but I asked for butter and jelly. She had them bring it to me.\nThe ending of this story is that I will not ever order from them again!!!!! The last time I complained I got in trouble but now I don't care they will definitely not get my hard earned $$$"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNncU9MRzFBRRAB",
+            "text": "Visit here regularly for lunch.  Its so good.  I love the variety in the daily hot plates they have available.  The staff are quick to fill your order.  Very nice people."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2am9yNUp3EAE",
+            "text": "Amazing food, well priced & great friendly staff. Has a lot of vegetarian friendly options. Will be my new regular place."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3eUpMMzh3RRAB",
+            "text": "Don't normally give 5 stars but for these guys I'm going to make an exception. Service great, staff friendlyness awesome, food very good and price super good. This place is a gem in such a desolate area. They knew what the area was missing and filled the gap. If you are in the area M-F 3am-4pm check them out."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJbGZQY0J3EAE",
+            "text": "The food is good. Healthy sized portion. Affordable. And you can get different options everyday you go. A nice lunch spot in an otherwise poor area for lunch spots."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNNmZlTkdREAE",
+            "text": "I paid $8.95 for a chicken cutlet parmesan panini and what I received was a chicken cutlet parmesan on a roll that was dry and not anywhere close to the almost $9 I paid. It wasn't even a panini. It came with a bag of Utz original potato chips, but that didn't make up for how bad this experience was. Never again."
+        },
+        {
+            "date": "6년 전",
+            "language": "cs",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwZ3Q3bXB3RRAB",
+            "text": "Meli jsme tu jen pizzu, ale byla dobra, takze za 3."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxaDdhZm5BRRAB",
+            "text": "These guys were great, impeccable service and great food for a good price! If you have a chance to check it out it’s absolutely worth a stop."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwMXRMdWZnEAE",
+            "text": "Every time I've gone to this place, service is great and the food as well as. Reasonable prices too!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5dU9uMldBEAE",
+            "text": "This place is great! I work upstairs and it convient to get food here is some quality portion sizes and friendly service"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5LU8zWkNREAE",
+            "text": "Great food and Hospitality service i go there daily for breakfast and lunch al and joe Won’t make you disappointed i dont eat pork so they make my food in the back grill. And alot of lunch options to pick from"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJdFpYVU9REAE",
+            "text": "Food is delicious! I wish I've known about the place earlier. Staff are friendly and service is good."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXeGNMdi1nRRAB",
+            "text": "I've eaten here  a few times and always enjoy the food. Staff are always pleasant as well"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRaDRDSUtREAE",
+            "text": "Great food decent price and friendly staff"
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBMllfMWt3RRAB",
+            "text": "I love the food here, and I keep coming back because  not just 1 but the entire staff  is so friendly, even when they get busy all the staff goes as fast as they  can."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpX0lXaTBRRRAB",
+            "text": "Great small business spot w/pizzas buffet and other choices open from 4am-3pm i go there all the time and my favorite day is Tuesday which is meatloaf day"
+        }
+    ],
+    "reviews_count": 66
+}

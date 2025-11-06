@@ -1,0 +1,677 @@
+{
+    "name": "Khaosan",
+    "place_id": "ChIJP0J9AE5bwokRwOAvtU84Xtk",
+    "grid": "BK2",
+    "address": "128 Montague St, Brooklyn, NY 11201, USA",
+    "rating": 4.8,
+    "user_ratings_total": 1001,
+    "phone_number": "(347) 294-0179",
+    "reviews": [
+        {
+            "date": "12시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWRVF6UTNWbkZQV0hGUU9IRXdjVEJUVUVvMFZtYxAB",
+            "text": "Pauline is the sweetest and the food is nice and spicy"
+        },
+        {
+            "date": "13시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sWWQxZHBjRU5sYjNGd2EzbFhNVlp0YURsVVRsRRAB",
+            "text": "Incredible food. One of NYC best Thai food places. Pauline service was amazing!"
+        },
+        {
+            "date": "13시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWemFrVTRRM3BDZVdGT2VHVk1iREpYWTAxVVFVRRAB",
+            "text": "Great food and service from Pauline!"
+        },
+        {
+            "date": "13시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WbVQxRlRYM0JvYkd4VU1FdEpWSEJmU2xneFFVRRAB",
+            "text": "Pauline was superb, very attentive and pleasant! All of the food was absolutely delicious! We had an amazing experience! Highly recommended!"
+        },
+        {
+            "date": "13시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOdFdGa3pTM1ZoY0VsQlVWbGtUMk5DTURSRU9GRRAB",
+            "text": "Had a flavorful dinner. Thank you to Pauline for a great service :)"
+        },
+        {
+            "date": "13시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNMWVHNXdlVWN5T1ROUE0xTlNkMUU1UW5nMmJFRRAB",
+            "text": "Pauline was amazing, she was our server and everything she recommended was fabulous! The tom yum hot pot was spicy and delicious, the udon beef was really flavorful and the noodles were chewy and perfect. The wings were 10/10! The ambiance is also great for a client dinner or a date!"
+        },
+        {
+            "date": "13시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWaVEwVjZhV2RtVmpOUFNtbERhakZEYUhrNVkxRRAB",
+            "text": "Everything was incredible! May favorite was the tom yum hotpot - I love spicy and got it that was and it was perfect. I’ll be back!"
+        },
+        {
+            "date": "16시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRd1FVRnZUMFZKTVdVM2RGWnllamhITlY4MU1XYxAB",
+            "text": "I love Khaosan! Pauline was an absolute pleasure to have. She was kind and quickly got me everything I needed. I will definitely be back for more!!"
+        },
+        {
+            "date": "16시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201eVpXZFJXRFp4U3pGb01XYzJlVXRLUlVvdFZFRRAB",
+            "text": "Pauline was great and so was the food :)"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxUllrRTNNRXB1U1V0T2RVVmZVRkJDV2s1R0xXYxAB",
+            "text": "such delicious food! everyone was so sweet!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCdVVsRXpWbEZTYnpNdGFGbEtSR0p5Wm1ST1kyYxAB",
+            "text": "Everything is amazing! I’m loving this place"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KdllucFJNelYxVURoRGRXMHpSa1ZKVW5CVWJrRRAB",
+            "text": "This place is really really good, everyone is so nice and the quality of the food is great!!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnd1pFTlhlV05MTFVOeGIwMTFZMkZPTm10RmVtYxAB",
+            "text": "Great food for great prices and amazing and friendly staff and service"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wcGVVVktkbm94U2tob2NGRkxjMVpuUlZGYVFXYxAB",
+            "text": "Every was amazing, the food the company the vibes! Immaculate"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poTE0zQkZUR3h1Y1RsR2QzUm9iRlJoY0V0RWVrRRAB",
+            "text": "Amazing food for great prices and amazing staff."
+        },
+        {
+            "date": "2일 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214eVlXNHRTVEozVWpGbmExbGhOVFUzWDFKaVMwRRAB",
+            "text": "泰奶激爽😍\n為何美國的泰式都如此美味（還是只是因為我很好養，隨便都好吃）"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21adlQyZGlSSGhtTldKTlJIbFpRbEkyYVhsNk1HYxAB",
+            "text": "Pauline was so kind! the interior was really cute and the food was fantastic."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paamQwWm1Sak5pV1VaT05FVlhSMFZNTTA1UFMyYxAB",
+            "text": "I like the music!!! And the food selection is great :) Pauline was also our waiter so sweeet"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twemVuUnFaQzFFY1d3eFpqRXdVMjh5ZWpaSVpYYxAB",
+            "text": "I liked the atmosphere to be honest, I went there with my bf. The Pautres waiter was so polite"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GWFdqbHNTak5UTUU1bVVHUnRVMkpFWjJoUmNWRRAB",
+            "text": "That was the first time in this place and I would give it 5 start because the food was good and the service, and the last part is the atmosphere with ambient lighting, I would definitely come again"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsaGFVMDBka3hZTlY5Q1dUUkphRTVhVFZrellXYxAB",
+            "text": "Pauline was amazing. The food has so much flavor and there’s plenty of options for my girlfriend who was gluten free. Nice ambience for chill dinner. Good date spot."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214aFlYZGxiekE1TTBwRGFHNXdXbW94ZVRFeFZGRRAB",
+            "text": "Pauline was amazing and I really enjoyed the Seafood Hot Pot 🌶️ the curry dumplings 🥟 were a nice size for the price and the Thai Iced Tea was perfect balance of sweet and creamy!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWT01GbGhXVlI2VW5OU1JYZDNVMkpIWVdaNU1VRRAB",
+            "text": "We loved our meals. Pauline was perfectly pleasant and helpful. We recommend the seafood hot pot. Also it’s very beautiful inside, great for photos."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sS01GTjFkV2xEVm5GVlprRlFNV2RUZUZKeFdtYxAB",
+            "text": "If you leave a review you get a free ice cream ;)"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WcFltaGhjRGR0TjA1SGJXeFJkM0ZTU210SmNWRRAB",
+            "text": "Best thai place in brooklyn. Brought all my friends here all the time. Thank you to paulene"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nemRFazVWRGhWWldORFpYVjFSMUpHYUVvelVYYxAB",
+            "text": "If you know me, know I'm a foodie and good food made great is an A+ for me. Khaosan is such a place! A former Chinese food staple on the corner of Montague & Hicks St, now with a facelift and cuisine change. Chaos and is a contemporary organic Thai spot with a 7-pg menu!! A 7pg menu! Don't walk in there hangry, 😆 you'll order way too much good food, like we did. Great atmosphere, decor, service, drinks and the food was delectable at every single bite!!\n\nMake sure you stop by!!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210ZmFtOU1VamR6WHpNd09WQjNjMDEzY0VsVWIxRRAB",
+            "text": "So good :)"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxelUwdG9VakpNYWxKeFl6ZzRaM2QyYkVoWFpYYxAB",
+            "text": "Really like the duck!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OaU1GWlFNMFF3U0ZwQlFsWkxZMDR4TTBKNVZuYxAB",
+            "text": "Amazing food and very nice staff, the roast duck is a must have!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KTmVGVTRXVkF5TFRoUE16WmlRMFowYzJKR2RuYxAB",
+            "text": "Service and food are exceptional! Beautiful atmosphere as well! Our server, Fah (Sky) was very kind! We got the curry dumplings, shrimp donuts, pork skewers, and beef noodles, all a 10 out of 10!! Make sure to stop by!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsUE5GazJWMDE2TUZJMVpUbGFiamgxTm5GbGRsRRAB",
+            "text": "Khaosan was incredible and Pauline was amazing! We got the green curry roti and short rib curry and it tasted great. Would come here again."
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kT2VtOXRUbUpEUVU5S2RuTk9aVWxHVkRjMFdVRRAB",
+            "text": "Délicieux dîner avec pad see ew aux crevettes , chive pancakes en entrée .\nNous étions déjà venus il y a 2 ans et c’est tjrs aussi bon .\nNous reviendrons c’est sûr !"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wdGJXeHlMWEU0VVRoVWNsZzRWMlpIYUZoRlUzYxAB",
+            "text": "Lovely spot tucked in a corner on Montague. Super attentive service and tasty food. I really love their tom yum pho! Solid serving size and a unique dish I wasn’t able to find anywhere else."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kZldtSTVZVXBFVWxCRFZXdGthME0wVlcwdGNVRRAB",
+            "text": "Always delicious! Love their drunken noodles and pho!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jNGIyTk1SRUl6Ym1WbVFtc3lSbFJJVW1kUlMzYxAB",
+            "text": "Great food and great atmosphere"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WU2IweEtlV0ZoZGxCVWNYcEtTVlF5UW01T01WRRAB",
+            "text": "Love this place so much! Order from home all the time and come in person when I can, this is the best place ever."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkcFRVRTVibkJWYUdOUGRHWmtiMnd6U214Q1dYYxAB",
+            "text": "Everything is so beautiful and yummy. The workers are so nice 🤍"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poeVZVNUtYeTFtVVdseU9WcFdhRFUwTVhkSlFYYxAB",
+            "text": "This thai food place looks amazing."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201Q1ExcFVVVmhGZG14SldTMWFTa05JTmpCU1RtYxAB",
+            "text": "Great food, great vibe! Such a cozy spot"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKc2MwMWpaVXRpZWxoaVdWRnhTR2RMYUU1SFZIYxAB",
+            "text": "YUM"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTVJuQlVhVkYxWDFWaWNscFlhMnhhT1ZWVE5tYxAB",
+            "text": "The staff is super friendly, especially our server Pauline! Drinks are good"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxcGQweERVbDlyU1ROV1MxQnVNMlozZERCWmQyYxAB",
+            "text": "The location is super nice and cozy! The food is amazing fresh, flavorful, and served quickly. The staff are very friendly, especially Pauline, who made the experience even better. This is truly the best Thai food I’ve had! Highly recommended!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSQmFtTlVUVWhyU21Gc1FUWjRMVTlqTUVoclkwRRAB",
+            "text": "The restaurant is really nice, and the food is super delicious! Paulina, the girl who served us, was so sweet and friendly. She made our experience even better. Definitely recommend! 🌟"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCcFlubFlOa056Y25OcVIwUkZXVnBGWm5wWmRGRRAB",
+            "text": "Had an amazing experience here! The atmosphere was great, and Pauline was incredibly friendly and helped us pick the perfect dishes. Highly recommend!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GcFVYVlpOSEZDT0hRMFJsUmtiRXRPYlZnM1luYxAB",
+            "text": "This is the best thai food I’ve had and loved the service by Pauline 😊"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkNFpsSmpXRUZ1U0hWdlpIWlBSbWRyVFV4b1FWRRAB",
+            "text": "Pauline is so sweet. We loved fried rice with shrimp.\nAmazing ambience."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOb1pWOTBPWE5yZVZSUlIySmpVVkJRWTJsS09FRRAB",
+            "text": "Great food. Great service by Pauline"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkdlozVnNkRkZ2VGtZMk16WmxVRXBPWTI5TE0yYxAB",
+            "text": "Lost in Thai Garden 🪴 the moment you walk-in, indoor decor is STUNNING 🌼 absolute is a hidden gem in Brooklyn.\nLet’s talk about the food. Every dishes at the table was FANTASTIC‼️ brings the most AUTHENTIC Thai Food to the city, wowwww\n\nStart with Shrimp Donuts & Sriracha Wings.\nSeafood lovers plus donuts lovers ✋ this is your place - you need to try it today. Deep-fried chicken wings marinated in a spicy southern Thai Sriracha sauce, perfectly balance with sweet & spicy. Brings authentic Thai Street food to NYC ❤️\n\nOcean’s Harvest Pad Thai, absolutely delicious, is the best Pad Thai in Brooklyn Heights, was to die for. I’m so OBSESSED with the seafood (jumbo shrimp, crab claw, mussels, squid) This is a luxurious journey you need to experience.\n\nCurry selection ❓ Coconut Curry With Beef Short Ribs, wowwww, the slow-cooked short ribs dipped in curry & coconut milk = Comfort Thai Food, OUTSTANDING‼️\n\nFinish with Mango Sticky Rice & Mango Ice Cream 🍨 Wait, don’t sleep on their Mango mocktails 🍸 Seems like walking on the beach 🏖️ Honestly, if you’re craving a authentic Thai Food in NYC, this is your choice."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wdlEwbzFWSEZuY0hnemRHVlZTemRvUTNwbkxWRRAB",
+            "text": "I get takeout here a lot and always liked it, but eating at the restaurant was definitely better. The chicken wing is really crispy and the duck is tender. Pauline, our server, was such a sweetheart and made sure my partner’s sangria wasn’t too sweet. Definitely recommend as a go-to Thai spot in the area!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CdlVIcHZVMk5aWldFNVdrTjRURlZNUkdOVWQzYxAB",
+            "text": "The food was really good. I got the drunken noodles with shrimp, thai iced tea and mango ice cream. Definitely coming back for more :)"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jNGREZDNaMUZaWlZsa1JUUXpWRnBFVUZoUFdFRRAB",
+            "text": "A Hidden Gem in Brooklyn!\nSuch a cute neighborhood Thai spot. The portion sizes are perfect, and the creative drink menu is a standout. Definitely try the Lychee Fizz! The Drunken Noodles with hanger steak is my go-to. Cozy vibe, great service, and a place I’ll keep coming back to. Highly recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xWVQyZHFaa0UyVjNkVFZIbG5WRGxTVnpGQmNGRRAB",
+            "text": "Visited Khaosan yesterday for a gathering. Went for dinner. One of BEST thai restaurants I've been to. From the moment you walk in your welcomed in with such kindness, a plus in my book. Great place. Staff is very sweet. The decor is amazing and makes you feel you aren't even in NYC. Everything has such great detail down to the food. Food presentation a 10 out of 10 as well as the drinks. We had a combo of mocktail and cocktail. Place is very very clean!! The foods was so flavorful and tasted GREAT! Definitely a gem in this crazy city of ours. Will surely visit again very soon."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvNE5tbHRMVWxETUhGT1NHVkpjMWhSTUZCbVpFRRAB",
+            "text": "Food is delicious and tasty. They offer a good lunch menu which includes an appetizer and an entree for 15.95. Their drinks are also really good. Would definitely go back here again for lunch."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTlNGZEhkMFZQUkdOc1dWWndNVU10Y2xGdFFXYxAB",
+            "text": "This is literally one of my favorite hidden gym Thai food spots in the borough of Brooklyn not only do they have a vast menu of nonalcoholic mocktail’s but the food is always impeccable. I’ve never had anything from this restaurant that I would not eat five times a week. It’s fresh it’s healthy and it’s authentic. I do wish that everybody knew about them, but I would also be very sad because then I may never be able to get a reservation again."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sU2JFMXJkMDV5YVdsWlExOVlTVmxGWDIxbFVsRRAB",
+            "text": "Got chicken wings for appetizers, rice and the seared sea bass for main. Everything was delicious! Got a honey lemon yuzu which is on the sweeter side.\n\nTheir menu comes with pictures so it’s very easy to choose from. Also a very long list of drinks for the summer.\n\nWe like the vibe of the restaurant and the water bottle. Service is also great! Happy to be back again soon!"
+        },
+        {
+            "date": "1달 전",
+            "language": "th",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWUVZVbHZkV1J1TlUxSWFIWmtaekpETmxwS2JtYxAB",
+            "text": "I had such a great experience at Khaosan in Brooklyn. The service was excellent – the staff were very friendly, attentive, and welcoming. The food was absolutely delicious, full of authentic flavors, and what I loved the most was the wide variety of dishes on the menu. There’s something for everyone, whether you want something classic or a little adventurous. The atmosphere was cozy yet lively, making it a perfect spot to enjoy a meal with friends or family. I’ll definitely be coming back again and highly recommend this place to anyone who loves tasty Thai food with great service.\n\nฉันมีประสบการณ์ที่ยอดเยี่ยมมากที่ ร้าน Khaosan สาขาบรู๊คลิน การบริการดีเยี่ยม พนักงานเป็นมิตร เอาใจใส่ และต้อนรับอย่างอบอุ่น อาหารอร่อยมาก เต็มไปด้วยรสชาติแบบต้นตำรับ และสิ่งที่ชอบที่สุดคือมีเมนูให้เลือกหลากหลาย เหมาะกับทุกคน ไม่ว่าคุณจะชอบเมนูคลาสสิกหรืออยากลองอะไรใหม่ๆ บรรยากาศก็ดีมาก ทั้งอบอุ่นและมีชีวิตชีวา เหมาะสำหรับมาทานกับเพื่อนหรือครอบครัว แน่นอนว่าจะกลับมาอีก และอยากแนะนำร้านนี้สำหรับใครที่ชื่นชอบอาหารไทยรสอร่อยพร้อมการบริการที่ยอดเยี่ยม"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gck5pMTNjemRPVlZKWmNXaE5jamhqYzFwdU9YYxAB",
+            "text": "🏆 10/10 experience. The food is amazing!!! It is rare to come across a spot where the entire menu is amazing. Every dishes we ordered at the table was fantastic. The service was great. Food arrived in a timely manner. Ambiance was pretty. Will definitely go back!\n\nThe Crispy Spicy Chicken Zabb was 🙌🏽🙌🏽🙌🏽"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RlpFOVVTMGhrZVMxWVp6WlhNUzB6VFRKMmIwRRAB",
+            "text": "Came here for a team lunch and the staff was very accommodating in seating our large party of 8. The atmosphere is lovely, and the food was amazing! Highly recommend the Drunken Noodles with a side of Jasmin rice and fried egg rolls as a starter."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKbE16ZDJielZNVlRWeVpYQnZiMlp0UTBaNU1GRRAB",
+            "text": "Food and service was amazing here, lots of options making it hard to choose what to eat. My only minor peeve was the table is small, felt very crammed if you get appetizers and drinks and a meal, not much space. Otherwise one of the best Thai spots in Brooklyn, I recommend the duck curry!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nd0xXdDZlakp1YzBOWFdYWjFYMmhRVkZkbWVsRRAB",
+            "text": "For starters, this place is gorgeous!! Such a beautiful place for photos! The service here is amazing! Our waiter was so nice & knowledgeable on the menu since it’s my first time. I love that the menu has visuals on the food, so I can have an idea of presentation (gorgeous btw) & the ingredients as well. Will definitely be coming back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "th",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxcmRVTnBRalo2WVVSbU0wUTRSMUp4YWt4TFdsRRAB",
+            "text": "บรรยากาศในร้านสะอาด ตกแต่งสวยงาม ราคาเหมาะสม อาหารอร่อยมากๆ พนักงานบริการเป็นกันเอง น่ารักมากๆ และ หายคิดถึงบ้านเลยค่ะ\nThe restaurant is clean and the prices are usually reasonable. The food is very delicious. The staff are very friendly and I feel no longer homesick."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rMGRIQTNNMmx0V1U1QlYzWkhYekZpVTE4dFVtYxAB",
+            "text": "Great atmosphere and friendly service. The food was flavorful, and well-presented. Crazy Tom Yam hot pot and nice drinks. Definitely a spot worth coming back to!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMFNFWklVMU4xWTA5M1REZFFXbGMyTURWTFMwRRAB",
+            "text": "First time coming to this restaurant and it was a nice surprise. We got the curry dumplings, as an appetizer, it was delicious. For the main course, I got the grilled Pork chop with Truffle oil and jasmine rice.  I enjoyed every bite. The lychee lemonade was very refreshing and not too sweet. It’s a must have if you come here. You can’t go wrong ordering the mango sticky rice ice cream. Everything was a hit!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5cmNrUmtVMUprVDJSSE1HMWtVelZXUTJSbU5IYxAB",
+            "text": "Amazing Thai food! Every dish was flavorful and fresh. Friendly staff, cozy atmosphere, and quick service. Perfect spot for a casual meal or date night. Will definitely return!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSYVpuTlBjeTE2ZHpjNE1EaGhUSE5tYVc5dlptYxAB",
+            "text": "Randomly found this place for lunch  and the food and ambience were amazing. Chris was our server and he was friendly and attentive. It’s definitely a cute place to come back for date night. Will be back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wQk1HNU9hMEZRTUVWa1dtcFZRVGMxUkRsbmRGRRAB",
+            "text": "The food was absolutely delicious! The Thai iced tea tasted authentic and so good. The staff were very friendly and attentive, and the atmosphere inside the restaurant was beautiful. Highly recommend!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNU3JuTVR4b3M2SmZnEAE",
+            "text": "Great restaurant! By far some of the best Thai food I’ve had in the city. Plenty of vegetarian options and highly recommend the spicy fried rice with tofu - best thing we got! Drinks were also great and loved they had beers from Thailand!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paUldEaENjRFYzY2xaWVlqTkhiekJ4WjJVdFYxRRAB",
+            "text": "I love Thai food, so when a friend recommended this place, I had to give it a try — and I’m so glad I did! I was truly overwhelmed by how delicious everything was. This is honestly some of the best Thai food I’ve ever had. The staff are warm and welcoming, and the restaurant has a great vibe. I’m already looking forward to my next meal here!\nHighly recommend."
+        },
+        {
+            "date": "1달 전",
+            "language": "th",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WUFp6Wk9ZMlpOZFZsc1VtdFpTbG90UjI5aWRVRRAB",
+            "text": "ร้านอาหารไทยอร่อยมากเลยค่ะ บริการดีมากๆ ทานแล้วนึกถึงประเทศไทยเลยค่ะ พนักงานน่ารักใจดีเป็นกันเองสุดๆ ครบรส เป้ะค่ะ\nSo for the food really good and delicious it was reminded me to my hometown (Thailand) for the employees they’re really nice and kind to me and my friends"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205UmRIQjBVVzQ0TlhWbVpFWnRMUzE2ZUZKS2NGRRAB",
+            "text": "Took me awhile to actually go here. I don't know what I was waiting for. The food was so good.  The staff were amazing and very accommodating. It's clean. The drinks were good. What a pleasant experience.  The roti, omgosh!  Chive pancakes delish. Vegetable pho head on.  They have a really good lunch special."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKWGFXNVBjM3BhTFc1ZmEyMTRjRGRzVUZab1EwRRAB",
+            "text": "The atmosphere is nice, cozy and very clean. Our server Chris was very patient, kind and courteous. The food was fresh and tasty. Would definitely return!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WM2VtOTJjbkYzVjNOMk5ubHdZM3BQZVdvd1EwRRAB",
+            "text": "Khaosan NYC in Brooklyn is an absolute gem! 🌸✨ The dreamy flower garden ambiance sets the mood for perfect summer vibes, and their “Under the Sea” 🌊 special menu is bursting with flavor. We loved the 🔹Crispy Spicy Chicken Zabb from their summer special. They also had 🦀Spaghetti Soft Shell Crab, 🐷Grilled Black Pepper Pork with Truffle Oil, and 🥓Crispy Pork Belly — each dish was beautifully presented. The 🔹Shrimp Basil Fried Rice, 🔹Chicken Satay, and 🔹Shrimp Donuts were fun and tasty additions. 🍹Mocktails like the Little Mermaid and Shark Attack were refreshing, and the 🍦Thai Tea Ice Cream was the perfect creamy finish. Highly recommend for a flavorful, fun, and Instagram-worthy dining experience! 💕📸"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kNlgySlBTVEpOTkVkSmJEaDFlbWQ2TlZoNFRHYxAB",
+            "text": "I had a great experience at Khaosan! The food was absolutely delicious and packed with authentic Thai flavors. Everything was served promptly and fresh. The staff was kind and attentive, making the meal even more enjoyable. Definitely a recommended spot—I’ll be coming back for sure!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WWFZHWlhRVGhwVm1sSmRHUlJTV1I2Um1FdFEwRRAB",
+            "text": "I personally love thai food so its not hard to disappointed me when it comes to that. But the food was great our server was very helpful."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUVIweEJlRXh2TFVkWFMxRktWRmN6TUVaaE5FRRAB",
+            "text": "Khaosan is one of the best Thai spots in Brooklyn! The food is authentic, flavorful, and beautifully prepared — I loved the satays, crab fried rice, and seafood Tom Yum hotpot. The atmosphere is warm, the staff is friendly, and every dish feels made with care. Always leave happy and can’t wait to come back. 💛"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twSmMwOXZVVTFGYzNac2NHOUdWRjlGVmxWUU4zYxAB",
+            "text": "Visiting from Seattle. I picked this restaurant as it was close to the Brooklyn Bridge Park and we wanted to have some good Thai food.\n\nWalking in we loved how cozy and lovely the place was. The people were very friendly. The food was actually very good.\n\nWe have a 13 year old and a 10 year old and they loved the food. Great place."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VOR01nYWJFb291N1ZBEAE",
+            "text": "Pretty good! I came in for lunch and they had a very reasonable special (entree with an appetizer for under $16). Everything was good, although the pad see ew wasn’t my favorite (noodles seemed a little undercooked and I’ve had better sauce). Good chicken dumplings, chive pancakes, and thai iced tea. Generous portions. Good service and pretty ambiance."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOWGVYZDZRVjlaVkU1SVkwMU1RbDl4VTB0NU5XYxAB",
+            "text": "Wanted some Thai food so I came here for dinner. Ordered crispy pork belly and crab fried rice. Both dishes were really good! Service was good too. This is a cute place. Would definitely visit again & recommend this place to others."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSVVgyTlZPSEEwTTJaVk4wZzVVSFpTVEZOMk9VRRAB",
+            "text": "Ocean harvest pad thai was the best dish!! Pauline gave us the best service, thank you!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQYjFyTDdlbHUzeHVRRRAB",
+            "text": "Very pretty restaurant with flowers everywhere. The seafood pad Thai was to die for. Same with the mango sticky rice. It was a wonderful experience having lunch here."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJM1RyYUxqajZHbzlRRRAB",
+            "text": "I was able to enjoy a tasting menu at Khaosan, and had such a lovely experience!\n\nThe decor and even the exterior of the restaurant is covered in florals and hunter green - super welcoming and aesthetic at the same time.\n\nThe drink menu is extensive, and includes soft drinks, specialty drinks as well as cocktails and mock tails ranging from $10-18. I got the classic Thai iced tea - very tea forward and still quite sweet despite requesting less sweet FYI! My friend enjoyed the honey yuzu lemonade a lot.\n\nMy favorites were the spaghetti soft shell crab. The pasta was al dente and well spiced. I’d definitely get this again and beware of the pepper pieces within the pasta! They can be quite spicy. The soft shell crab was crispy and I really enjoyed this!\n\nThe grilled black pepper pork with truffle oil was so good - the pork was super tender and having the rice with the sauce was super yummmy. The sauce is very coconut forward.\n\nThe staff is amazing here and very attentive. I’ll definitely be back to try the lunch special that they have!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTVVtUkhTRmxmWDFFM1FWbG1YM2hQVFUxaVdGRRAB",
+            "text": "Last year, while browsing food photos online, I was instantly captivated by a Thai restaurant framed in a bloom of flowers – that was Khaosan Thai. 🌸 I finally had the chance to visit, and I must say: it exceeded all expectations. From the ambience to the artistry of the dishes and, most importantly, the flavors, everything was executed to perfection. Few restaurants manage to score high in every detail – this one absolutely does.\n\n🍸 Cocktails First\n\n⭐Pear No.1 – refreshing, fruit-forward, and layered with subtle flavors.\n\n⭐White Lychee Sangria – among all the lychee cocktails I’ve tried, this one truly stands out with its complex, balanced notes.\n\n🦀 A Crab Feast\nI went all in on crab dishes – three different styles, each impressive in its own way:\n\n⭐Crab Cakes – deceptively modest in appearance, but generously packed with delicate shreds of crab meat.\n\n⭐Crab Meat Fried Rice – a Thai staple, but here the eggs are extraordinary: silky like a custard yet fragrant like a perfect stir-fry.\n\n⭐Spaghetti Soft Shell Crab – my absolute favorite of the night. Arriving with an irresistible aroma, it was bold, flavorful, and kissed with true wok hei.\n\n🍛 More Highlights\n\n⭐Thai Green Curry Roti (N) – rich, aromatic curry paired beautifully with warm, flaky roti.\n\n⭐Seared Sea Bass in Sweet & Sour Sauce – theatrically flambéed at the table, tender fish complemented by a vibrant fruit-and-vegetable sauce.\n\n⭐Mango Ice Cream with Sticky Rice – a playful hot-and-cold experience: the cool creaminess of ice cream against the comforting warmth of sticky rice.\n\n✨ By the time we left, the restaurant was buzzing, even on a weekday evening – a true sign of its popularity. If you’re looking for a spot that is consistently impressive and never misses the mark, Khaosan Thai should be at the top of your list."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNReVp6QXdBRRAB",
+            "text": "SO good!!! Showed up last minute on a Thursday night and they seemed packed, but we were still seated and served right away. The food came out quick and freshly hot and it was SOO good! I feel like Thai food is easy to over eat but they give you the perfect portion sizes. The ice cream over sticky mango rice was a great desert"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfejgySDBBRRAB",
+            "text": "Khao soy was extremely good - the curry was very flavorful, noodles were perfect texture-wise, and the chicken was cooked very well.\n\nGreen curry was very good too, although a bit spicy. Thai iced tea was a bit creamier than I’m used to, but still very good.\n\nOverall very solid all around - our waiter Kevin was also very courteous and did a great job!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWbGJWSXdTR1J3ZWxWMVRrZHVSMlpJUldJMmFYYxAB",
+            "text": "Got the lunch special for the second time. I ordered takeout but when I got home the clear plastic container with the dumpling appetizer was missing. The entrée was great though. They package it well, wrapping up the curry so it doesn't spill and staple the paper bag. The latter is why I didn't check for the appetizer. Sucks that I am 1/2 of getting an appetizer, first time I got it but this time I didn't."
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfMUktV0h3EAE",
+            "text": "Super cute establishment! The food & service was excellent! Lee and Matt are so pleasant and attentive. Not to mention that they have a great lunch special! So excited to have found this Gem in my new Neighborhood"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kcmVWcGFaVVJoWVc1NWQwZEZiMWgyYVhKSlMwRRAB",
+            "text": "Such a great spot in a nice area! The ambiance is beautiful, the food was excellent, and the drinks were on point. Staff was super friendly and attentive. Highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSSFRFaFpZbFUyV21WVkxVVkZiMmRVUTFSb2JtYxAB",
+            "text": "Un restaurant au top vraiment bonne ambiance service de qualité et nourriture délicieuse rien a dire! Pas cher un bonne restaurant dans Brooklyn"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2ODdIVWt3RRAB",
+            "text": "Last night, my husband and I decided to try Khaosan, stepping away from our usual Thai spot a couple of blocks away—and we’re glad we did!\n\nWe started with the red sangria and the lychee purple lemonade—both were delicious and refreshing. For appetizers, we ordered the crab cakes and calamari. While the calamari was perfectly crispy and flavorful, the crab cakes were just okay—not quite what we expected.\n\nFor our mains, we had the salmon and shrimp panang curry, shrimp pineapple fried rice, and sticky rice. Everything was beautifully presented, well-seasoned, and cooked to perfection. We’d gladly reorder it all next time!\n\nThe atmosphere was inviting, the food presentation was thoughtful, and the service was attentive and friendly. Khaosan has definitely earned a spot on our list of favorites, and we look forward to coming back soon!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvcjlUT25RRRAB",
+            "text": "Sunny is the best!! We had such a lovely dinner. The food is delicious and the service is spectacular. What a great way to spend a Sunday evening."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSNVpYZERRak5OZG1wUVJEbExSRkJCVFZoc1UxRRAB",
+            "text": "Khaosan is such a great Thai spot! The food is super flavorful and fresh — the pad thai, green curry, and crispy basil chicken are all amazing. Everything tastes authentic and perfectly seasoned, with just the right amount of spice. The staff are really kind and the vibe is cozy and welcoming. Definitely one of my go-to spots for Thai comfort food! 🥢🇹🇭🔥"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnXzdyc053EAE",
+            "text": "This restaurant is absolutely amazing and a new favorite of mine. From the service, to the decor, ambiance and food, everything is impeccable. You can tell they put so much effort into the menu, design and presentation. It’s unique, creative, authentic and delicious. I can’t wait to return. I loved the shrimp donuts, whole fried branzino and the garlic udon with hanger beef. I look forward to trying more things on the menu."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNbTktb2pEcF9hS0VnEAE",
+            "text": "A nice Thai restaurant on Montague Street. Pretty decor and good food. The massaman curry with duck was absolutely delicious."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOb1NWSlJjbkpSUmxObU1HVTJUV1p1WkMxaGNtYxAB",
+            "text": "One of my all-time favorite Thai food spots! Drunken noodles are amazing. Service was very attentive."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfdk5DUF9nRRAB",
+            "text": "Will be going back soon to try more foods. Beautiful interrior with beautiful plants. Loved their presentation of food. And the taste of the food is what I look for in my food which is well spiced, well cooked and good looking food. Overall great experience."
+        }
+    ],
+    "reviews_count": 95
+}

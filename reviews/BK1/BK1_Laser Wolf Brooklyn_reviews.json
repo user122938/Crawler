@@ -1,0 +1,614 @@
+{
+    "name": "Laser Wolf Brooklyn",
+    "place_id": "ChIJLyS5dYRZwokRlkA0g9eijjs",
+    "grid": "BK1",
+    "address": "97 Wythe Ave, Brooklyn, NY 11249, USA",
+    "rating": 4.3,
+    "user_ratings_total": 997,
+    "phone_number": "(718) 215-7150",
+    "reviews": [
+        {
+            "date": "9시간 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aNVJXRTJNR0UzTm1kRFNEQmZSVXhWVFRoSVRuYxAB",
+            "text": "Ristorante con una splendida vista su Manhattan visto che si trova sul rooftop.\nMenù mediorientale dove si sceglie il piatto principale e il resto è incluso compreso il gelato alla fine.\nUn pò rumoroso il locale.\nEssendo una terrazza, d’inverno possono esserci spifferi freddi, coprirsi bene."
+        },
+        {
+            "date": "21시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWFJVRjJWbUZrTm5oWk1Fd3RSR3RqUkVGdlRrRRAB",
+            "text": "Been here many times! Absolutely love it!"
+        },
+        {
+            "date": "23시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aSWIyaHFibmQxYkV0R1EwWktSMFpvTVRCZmVtYxAB",
+            "text": "I’ve been to laser wolf multiple times and can say the place is a great place to eat with good vibes"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMGFWbE9iMU5pTlY5RGJtMUxVR2hZUm1sa01rRRAB",
+            "text": "Absolutely amazing place! You better come hungry because the salatim are so good and endless. I’ve been here multiple times now, have never managed to get a nice sunset time because its so hard to get a booking but the view is still lovely at night of course. The meats are also delicious, literally everything I’ve ever had here is seasoned perfectly."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psYVJFOUVPRGwzTkc1RE9XOXVaM2N4YXpCaVgxRRAB",
+            "text": "The salatim alone are to die for. Our waiter also recommended a great orange wine, though we switched to cocktails later which were also excellent. Loved the grilled meats and fish too, will definitely be back."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twclZUWlFaMjlpWTNoUFJYWmlhbTFUYkRkeFdGRRAB",
+            "text": "One of the best meals I've ever had."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Wbk1HbGlYMWxZU1hwdVR6TTNSVVJJZEhSWlkzYxAB",
+            "text": "Delicious and actually priced very well! The appetizers and mezzes are a mustttt"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SMFVqaEtSVzVLWkRGalh6aGxMWFY2Vm1WeVlrRRAB",
+            "text": "Great food"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SbVVsZ3dabXhMVmpONllYZG1abGsyTVhSc2JuYxAB",
+            "text": "Absolutely loved it! The food was great and the view….just amazing!! You get the best mix of delicious dishes and the most stunning Manhattan skyline. chill yet vibrant rooftop vibe! Definitely recommend!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OelNHaG9lVWxaV0MxZldFRnBUMjUzTlRkUlNFRRAB",
+            "text": "One of the best briskets i have ever had! Definitely  coming back"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkMU5HVmxVRXhUUVdGRk5HbEtNR0Z0UlZsbWNsRRAB",
+            "text": "Amazingly delicious 😋 the views are incredible, definitely make a reservation if possible."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGZmRGSlZTbWx3VEhOSmNYaHZWVk5IV0ZGNGFrRRAB",
+            "text": "I've eaten at Laser Wolf three times in the last two years. I absolutely love the food. Quality and flavors are fantastic. What I don't love is the attitude of the reception. He could not be bothered to look up from his screen to acknowledge me, stand up or even come to get us when our reservation was up (20 minutes late, by the way). He did really enjoy turning his head and watching young women walk past him to stand and wait for the elevator so he could look them up and down, but that was the ONLY movement I saw from him for 25 minutes while we waited. First impressions matter, Laser Wolf, and hospitality is everything in this industry. It starts at check in, and you can do much here."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OS01sUm1jM1puTW1Oa1FuQkxOVUptUVVsSWRrRRAB",
+            "text": "Food is incredible. Everything was very well seasoned. View is unrivaled. Server had no clue what was going on unfortunately. No recommendations. Didn’t remember our order. Very sure he forgot to even ring in our T-Bone. Trevor did a great job recovering, but ouch, as a person that’s been in hospitality for 25 years at a high level, this experience was cringe worthy. Thankfully the food was incredible. Off nights do happen, but the server was awful, sorry."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWMlluSjBkbEYyUm5NM1RsOWhUM0pZVDJoRFJsRRAB",
+            "text": "Our final dinner in NYC at Laser Wolf was a magnificent highlight of our amazing summer 2025 US East Coast road trip.\n\nNot only was the food incredibly delicious and a complete taste journey, but the service was also superb. With the amazing Manhattan and Brooklyn panorama at sunset the whole experience was quite perfect.\n\nTHANK YOU SO MUCH LASER WOLF TEAM.\n\nDefinitely make a reservation!\nSuperhighly recommended."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGaldXVXpjRmhRZWpkR00ybHNNa1JXVm5sMVVXYxAB",
+            "text": "This is what happens when an American establishment thinks all Middle Eastern people eat is blindly spicy food. We don’t do that. We also don’t understand why there’s tacky 2000s music going on in an Israeli restaurant 🤷🏻‍♀️ The vibe doesn’t match. The only nice thing was the view, it was absolutely beautiful"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sVWJqTmZZbFJ3TTJoRWJuTnpOWE5XZFhWU2IwRRAB",
+            "text": "Nice atmosphere, I definitely recommend going when the weather is good because it is an open air rooftop and we felt the wind (went early October). I’ve been wanting to try this place for a long time and was happy with it but also, surprised.\nThe salatim was unlimited and delicious of course, but charging $50+ for a single skewer (!!!) + the salatim (and making it seem like a good deal) left me overcharged and a bit disappointed. The service, atmosphere and food were good, but this is not a place I would need to go to again.  Overhyped."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ObVFtMDRhVXBZUjBZeFVrNTNOazgxVDJKVlNVRRAB",
+            "text": "The hype was real. Exceeded expectations"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xTVpXSlpSWGxrU0ZaTFVYQklSbVZsTWxoVWNIYxAB",
+            "text": "It’s good! All you can eat Salatim + good meat options. Nice sunset / Manhattan view (summer would be much better since the plastic sheets are a bit unclean). Friendly service. We had a good time and will be back."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsQk0zRm1hVmhRWDBrdFV6RXhaa3BYUkdSRmFtYxAB",
+            "text": "Great Mediterranean food. Chef Michael continues his reign"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBeU0xZE1kbmxYTmtOVk4yUlNiWGxmZUd4RWVWRRAB",
+            "text": "Pricing of food and business practice is awful. To order an appetizer, two entrees for three people, and to charge an extra surcharge because not everyone ordered an entree is absurd. Don’t go here."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kcFpIbFFPVFE1V2tVdFFrOTBaakZpU0dReVgyYxAB",
+            "text": "Such a cool restaurant with a great skyline view overlooking the city. Food was amazing, great for sharing with the table. Highly recommend. Staff was super friendly. Definitely make reservations ahead of time."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213eVJtbHhZVFYzVDE5SFFUVmxNVUpHUlRjeFFrRRAB",
+            "text": "This would have been a 5 star rating if it was not for the disappointing reception staff. We went for brunch at around 1130 on Saturday Oct 12 - the main floor greeter was dismissive, did not look up from her screen until prompted and alerted. When I provided the reservation details I was met with a blank stare then an \"oh ok you can go up.\" She provided no indicators of where to go or what to do next. This was my first time at the establishment and was not aware that there was an elevator behind her. She continued to stare at me and did not prompt me there was an elevator behind her. I eventually saw the elevator and proceeded. I even made a comment that this was our first time she provided a half smile then looked back down at her screen. Completely appalling attitude from a front staff greeter.\n\nOur experience once upstairs was top notch with attentive staff and great food. It is disappointing that the first person you meet at the establishment is a misrepresentation of the true service you recieve. This needs to be rectified."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1NmQxbFNXVjh4Y1c0dFUyOWtRVmhEU1d0RFYxRRAB",
+            "text": "The food is stolen from other cultures, plus it was just not good. The view is the only thing i would come again for,"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tseGF6UmxjV1JuWlVWTmFqQnVZalphYVhCaVZXYxAB",
+            "text": "The entrance is ensconced within an entrance between two other entrances"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OZmIybzRhM3B4WmpWTk16TTRjbFZ6UWxKWVRrRRAB",
+            "text": "Everything was delicious, the service was warm and friendly, and the view of the river and Manhattan in the distance was great. Will come again."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoamFFTlJlRmx3VUhOallYVkRNMDV4V2pkQ1dHYxAB",
+            "text": "Amazing from start to finish."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsV1RrTjFaMUpPUkd4dlIxUndSelZFY2tJM1VWRRAB",
+            "text": "Tried to find something I like about this place but there was honestly nothing. Bad food, unfriendly service and no vibes whatsoever."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twcldWcEZZa1p6YTB3elkxRmhkVmh1TUVFdFNrRRAB",
+            "text": "Very delightful. Tried the brisket and chicken, coming with Israeli pickles and appetizers plate. Best view of manhattan in Williamsburg. Service was great."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oZlJVVmxNbXRNU2pSVlpIVTRhekU0U1hWek5YYxAB",
+            "text": "The food is excellent. The salatim mezze platter was amazing! So many flavors and colors, and all of it was unique and delicious. The pitas are fluffy and perfect, the meats were perfectly seasoned and tender, and the (brown sugar soft serve 🤤) dessert was the perfect ending to a great meal.\n\nVery cool space, great view.\n\nThe service is very friendly, professional, and helpful; the whole staff really works as a team."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OeGVuUkZWSHBOT1RGRWFUTm1iMFoyZDFCUVIyYxAB",
+            "text": "Amazing food, service and views! Great way to acclimate to this style of cuisine for the uninitiated.\n\nDrinks were inventive and refreshing, as well."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzM3ZIOFZREAE",
+            "text": "Great food, experience and atmosphere! We ordered the brisket and steak and were very impressed. Excellent view of Manhattan too!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WMlltTjZTbFZpZWxCalJtc3pkRFJzZHpGZk1sRRAB",
+            "text": "Amazing view, delish “fixed price” menu with a lot of food!! Cocktails were delish. The steak and lamb & beef kebab were so good. Have a reservation, it gets full on a Sunday!!\n\nFast service. Beautiful balcony"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWblV6SkJkamRVV0hCc1gzbzVSREpVVFVreFYxRRAB",
+            "text": "Delicious. Prefixed menu with fantastic all you can eat appetizers, flavorful entrees, and a light ice cream for dessert."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWlkzZFBZV1ZYUW1veE9GaDFabWQxTnpaMGIzYxAB",
+            "text": "Everything’s fire, the salmon is where it’s at, pickled sides are fresh + I lost count on the amounts of pita and hummus I consumed.\n\nTook off a star on the atmosphere bc it’s a little dramatic w the elevator wait upon arrival like I’m not Beyoncé. Also the bar seats were too close together it was giving t-rex. Would I do it all over again? Hell yeah. Went there for lunch. Easily $100+ if I wanted a drink or had space for dessert or the chicken wings lol- kind of upset I didn’t have space for the ice cream"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KVldWcHBkVUZTZHpOalRHTlhlVzV5TmtkT1RWRRAB",
+            "text": "Honestly had one of the worst experiences of my life at this location. Had been one of my favorite restaurants in the but the service was so incredibly horrible after my last time there, I won’t be back ever again. Made a reversion for Sunday but woke up Saturday to a text saying my reservation was Saturday. Called multiple times and emailed but never heard back. The text said I’d be charged $100 dollars if I don’t show. I showed up and they said they had no history of my reservation. Made me wait 45 minutes for a manager (who never came) and then told me to come back the next day. Went back on Sunday and asked to speak to a manager. A hostess spoke to us and again I asked for a manager and was told there was not one on the floor (which was a blatant lie). The hostess gaslit me and told me they were waiting for me to come up to my table for my reservation on Saturday when the waitress had told me very clearly that they had scrambled on Saturday and had nowhere to seat me. A mistake on their part that cost me both my time and wasted money. A complete mess from top to bottom — horrible service, I would recommend staying for away from this location and the Philly one as well."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oWlRWbEdURmhLVGtORmFuZEpjbEIyT1dVNGQzYxAB",
+            "text": "The food was incredible. We had Richie as our waiter and he was amazing. Our table absolutely loved him! The entire staff was amazing and made the night."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTE0xSjNVbWt0Wm0xMVVFVm9jbmhwV1hkNVIwRRAB",
+            "text": "Came here for my wedding anniversary. I reserved a few weeks in advance and specifically requested a terrace/view table. I even arrived 15 minutes early for my 6pm Tuesday reservation, but was seated at a table in the middle of the restaurant even though many terrace-side tables were open. I had to speak with four different hostesses to get moved, and while they acknowledged it was my anniversary, the response felt more like “let’s see what we can do to accommodate” rather than an effort to make it special. We were eventually seated closer to the entrance with a view.\n\nService was slow - it took 25 minutes before anyone came by to take our drink order. When we left, I said thank you to the hostess and she didn’t even look up, which was bizarre and rude.\n\nAs for the food, it was fine but not memorable. The spread is essentially a large platter of pickled vegetables with a much smaller portion of meat (maybe six pieces). The view is lovely, but overall the service felt unfriendly, and the food didn’t live up to the hype."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aVlIwcG9VMmhEUXpSRlRHRnFaWFUxV2xKMFVFRRAB",
+            "text": "Food and the view are excellent!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4TVpEUlRVMTlITFUxUFNGSjRZVzR0UjB0NU5sRRAB",
+            "text": "Was a good experience to enjoy the summer and fall and the skyline view of NYC"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVM0xVczBPRjl0VFhCTVZtSTNRWEJqZVVNd2FWRRAB",
+            "text": "Wow where can I begin? We made a reservation for birthday and noted our seating preference. We showed up and were seated in the middle of a big 20+ people party, while there were SO MANY empty tables around. Google even said it’s half busy as usual. When we asked the host for a better table, she straight up REFUSED. I was FUMING. THE ATTITUDE WAS BEYOND COMPREHENSION. We could only walk away at that point."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5V2RIcE9VRUUzWHpGMFZqbHNkM1JmUVdkT1EwRRAB",
+            "text": "Starting with the good - the food is great, and yes the mains are a bit small but their whole thing is the salatim which is tasty and fun to try. I wouldn't have wanted the mains to be bigger, could barely finish what was brought out to us. Plus we were celebrating our anniversary and they gave us a little glass of sparkling rose which was super delicious.\n\nNow the bad - we got there and they didn't have our table ready, fine, it happens. They give us a table outside on the side terrace which isn't as pretty as the main bit, but still has a decent view. The service was then really bad. Multiple things we asked for were never brought out. We asked for a few dips to be refreshed (mainly non heavy ones that had interesting flavors), multiple times, and nothing (kinda defeats the purpose of unlimited if you never bring out more). My partner ordered a second drink, even had a discussion with the server around how the drink should be made, and then again nothing. We had a bit of water left in our bottle but then they took it away (us thinking we'd get more water), never to be seen again. Nothing super major, but a lot of these little things that feel like basics.\n\nWe didn't feel rushed (which was great), but this was a consequence of the service itself being pretty slow.\n\nOh and one thing that was a bit odd - I have the coriander/cilantro soap gene. I mentioned this, and said it's only the leaf part that affects me. They then said multiple things on the menu had coriander, but when they came out it was actually parsley. It's great that they checked and were careful, but super strange to mistake ingredients like that."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NGVHczFXblpaYjNWNlJGQlVNbU5DTVRBemJYYxAB",
+            "text": "The food was absolutely delicious, and the view is truly incredible — one of the best in the city. However, the service was very slow throughout the evening. The ironic part was when the manager came to let us know that our 2-hour table slot was almost up and suggested we continue at the bar — while we had actually been waiting over 20 minutes just to get the check. A great spot overall, but the service definitely needs improvement to match the quality of the food and setting."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psYVowbFZablJ3UWpCbE9VNXJUblI0TFZkME5IYxAB",
+            "text": "The food was incredible- however the lead hostess last night on 9/8 absolutely ruined the experience right when we arrived. We were standing waiting for the hostess who had been helping us as she said she was checking on an outdoor table. The lead hostess (she told us she was the lead no less than 10 times ) came over to us and asked rudely if there was something we needed. We tried to tell her the hostess had asked us to wait while she checked on an outdoor table - we weren’t able to finish the sentence before she cut us off to say “I’m the lead so I’m the one you would want to talk to” and we then said “oh okay we were just asked to wait while the other hostess was checking on…” and she again cut us off to say and I quote “I’m the lead hostess she can’t do anything without my approval so what are you needing”. The way she spoke to us made it seem like we were “karens” who asked to speak to the manager and we absolutely hadn’t ha so just was a really rude and confusing attitude to approach guests with. I’m sure she hates her job and hates dealing with people so I hope she is able to find a job she likes better that makes her happy- this certainly isn’t it. Food was amazing though and so was the waiter- wish I could remember his name."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201Nll6Snlja1Z2Y0hGSWRXd3hYM2xDUlZkSExXYxAB",
+            "text": "This place is a must-visit! Brought two vegetarian friends here from out of state and ordered both the roasted cauliflower and the eggplants grill options that came with all the pickles and sauces you can imagine, as well as a one-option no brainer desert that’s just great. Also tried the grilled halloumi, which was nicely paired with sweet jam, but was a little bit dry for my taste. I love menus with few options that let you have a family-style feast and share everything, and this place is absolutely perfect for that. I did also get the chicken shish skewers to try, and they were juicy and fresh from the grill, but other than that, the entire table was vegetarian and I didn’t even notice. Everything was made to perfection, there was variety in every bite and the pitas were the best I’ve had in New York, freshly grilled and still steaming inside! The hummus is the centerpiece on the salatim platter for a reason, it is simple yet utterly delicious and you’ll undoubtedly want a couple refills, with hot pitas on the side!\n\nThe restaurant itself is located on a rooftop, with gorgeous views from the balconies of the Manhattan skyline as well as Brooklyn heights right next to you, the chatter is loud and the atmosphere is lively and you might just get full from the pickles and dips platter alone. Simple, flavorful and gorgeous, what more could you ask for? 8.6/10"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3bEpPVGFREAE",
+            "text": "I'd been wanting to come to this rooftop, buzzy Israeli shishlik house (skewered meat). Friends visiting nyc were the perfect excuse to head over to Williamsburg's waterfront. There were 3 of us so we ordered 3 different meats that were presented on 1 platter for us to share: ground lamb, beef, and chicken. Everyone has to get the prix fixe menu and just choose an entree of meat, salmon, or vegetable. Hummus, pita, and a selection of dips and salads come with the meal and are all bottomless. The hummus was a show stealer! We had that refilled a bunch of times! The scene and views of Manhattan are great. It's a bit pricey for what it is - but you're paying for the views and the hot scene. Come hungry!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kaWRFWnBjMXB3YVdOQlMzcGtUbmsyUldSU2NGRRAB",
+            "text": "Decent food but very overpriced for what you get. Great dips, great pita, but the meat portions were very small. As mains for 3 people (out of 4 total), we ordered 2 servings of chicken and 1 serving of lamb, which combined didn't even fill one plate. The fourth person had eggplant, which did look a bit bigger. We had no drinks and a side of fries, the bill was about $250 (before tip). The view was very impressive, but not worth that much."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGdVFuaHZNRmxQV1RWMmVrNXROV2xzYWxwMGFHYxAB",
+            "text": "Great views of the Manhattan skyline, very nice atmosphere inside the restaurant. Great service. Great meat quality and flavors. I think the main disappointment is the meat quantity. Every meat item is priced at 50-55$, however the portion size does not correspond to the price that you pay. You basically get an assortment of meats in a small dish. The main selling point is that you get a free assortment of starters and an ice cream, however you are going to leave this place starving, if you are primarily a meat eater. I think that they should change their menu to sth like “50$ per person for the experience” to reflect what you actually get; a good taste of starters with just a taste of different meats. Otherwise if you are expecting a large meat dish for the price of 50$ you are not gonna get it. I do not think that it makes sense that your entree quantity is much smaller that the starters. I left this place starving and needed a full carnivore day to catch up."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkbVpVRjFOVVpmTTBWQ2REaE5VbFpoYzJwT1JtYxAB",
+            "text": "TLDR: Rough start but recovered very well!\n\nThe receptionist downstairs had a sour attitude and they did not have our table ready in time. HOWEVER, our server Josh was exceptional. Josh deserves to be considered for manager position and at least a hefty raise. Made the night!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5eldEVkxOQzFPWTNsa1MydEJPVkZIUzFacVlWRRAB",
+            "text": "From the moment we arrived until we said our goodbyes, it was glorious!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOMVlrY3pSbmhUTlU1VWQwUXdNekV6VjNoWFRVRRAB",
+            "text": "Amazing experience.  The food was fantastic and the service was “chef’s kiss”.  Great views and super value. Highly recommend."
+        },
+        {
+            "date": "9달 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfdjRMcnBRRRAB",
+            "text": "인당 그릴에 구울 고기를 선택하면 해당 요리를 구워서 제공합니다.\n그릴요리가 나오기전, 피타(빵) 와 같이 먹는 반찬들이 먼저 나오며, 양이 많아서 가기전에 공복상태를 유지하고 가는것을 추천합니다."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1ZlkxcDJRMFZITUZwUldFUkVZVWRNTTBoNlJFRRAB",
+            "text": "We came here for lunch and had such a great time. The views were amazing and made the whole experience even better. The salads were super fresh and full of flavor, and the hummus was delicious. We shared a bunch of skewers and other meats, all cooked perfectly. Cocktails were great too. A perfect spot to enjoy Mediterranean-Israeli food with a nice atmosphere."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oaGVGWnNTbE5vT1hGZk5WWm9UakZWTUdGU1lWRRAB",
+            "text": "Loved the prix fixe menu concept with the array of small appetizers and hummus as well as the soft serve at the end. Chicken shishilik is a must order but I think the kebabs will all do you well in general. Of course, great views of the Manhattan skyline make this place unique."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FNVdscDJjVGx6VG1nMVh6azNSbDlMYUVWcWVrRRAB",
+            "text": "Amazing rooftop setup. Great vibes, especially on a nice day. The service was great as well. As for the food, it was ok. The wings were overpriced. The eggplant could have more flavor. Some of the meats were overcooked. The hummus was great however."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psaVdtTXpRMVp2YlVWa1R6WldSVzAyZVd4RmJFRRAB",
+            "text": "From start to finish, we had an amazing experience at Laser Wolf Brooklyn!! The host Shane was kind, considerate and honest about the long wait time on a Saturday night without a reservation (totally our bad for not getting a res!). However, he worked it out so we could go up for a drink…until the amazing hostess upstairs (Jocelyn) heard it was my 40th birthday and got us a table. 🤗 Didn’t think it could get any better, but our waiter Richie was so wonderful—friendly, professional, helpful and attentive…\n\nThe food and drinks were delicious (and honestly, a good deal when considering that unlimited hummus, pita, other bites, and a unique, delicious dessert are all included!) and the view cannot be beat!!\n\nThank you to Matthew and his team for helping make my 40th birthday one to remember!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvN19DVlNREAE",
+            "text": "Well that was bombsauce 💣.\n\nFirst, beautiful rooftop views all around. Very nicely set up, great design, and unassuming casual kitchen meets fancy was a lovely touch.\n\nAs you may know you get unlimited mezzeh and pita, and it SLAPS. Ate so much of this I got a stomach ache but soso worth it.\n\nOther winners: the steak 🥩 for sureeeee. Perfectly cooked, rich and yummy. Eggplant 🍆 was also amazing. Like soso good.\n\nThe brisket was good but would personally order 2 steaks over one of each. Didn’t get to try other meats so will definitely be back!\n\nIt cost about $70/person after tax and tip, all entrees are about $55 but remember, that comes with unlimited mezzeh and pita!! With ice cream at the end :)\n\n5/5"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJR2h1TUxacTZPUTNRRRAB",
+            "text": "Laser Wolf doesn’t pretend to be something it’s not. They know that people don’t come here just for the food: that sweeping Manhattan skyline over the East River is one of the restaurant's main selling point. But to its credit, the food didn't just coast on the setting, which was quite impressive especially with the unlimited salatim spread.\n\nThe chicken shishlik was tender and well-seasoned, though the pieces were a bit small and lacked the smokiness from a charcoal grill. The steak shishlik was more successful: juicy, well-cooked, and flavorful. Of all the salatim, the lutenitsa stood out as my favorite. The others could benefit from slight tweaks but were still solid overall.\n\nThe vibe was casual, the staff was warm, and service was very attentive. Refills were never a hassle and they even checked in multiple times to offer more salatim before I asked."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGblRYWjJXVUpvV2toVVRuQXlORlpsVDFweFNGRRAB",
+            "text": "This is a phenomena Israeli restaurant! 🇮🇱 Laser Wolf 🐺 in Brooklyn 🗽 serves a amazingly 🤩prefix lunch 🍴 with meat 🍖 skewers 🍢 (chicken 🐓, steak 🐄, lamb 🐑, or fish 🐟) alongside unlimited salad 🥗 small plates (\"salatim\") that includes hummus 🧆, spicy 🥵 mango 🥭 cubes 🟧, and more! Their Fries 🍟 are also absolutely exceptional (super crispy on the outside and super soft on the inside) and are served with Tahini Ketchup! 🍅 Definitely try the Wolf's Fang 🦷 cocktail 🍹 and Brown 🟤 Sugar Soft Serve with Sesame Bites!🍦 This spot also has a wonderful rooftop view 🪟 of the city 🏙️, quick ⏲️ service, and a super friendly and professional staff 👨‍🍳! I wish I came here sooner!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMDVLVEtBEAE",
+            "text": "Came by on a weekday afternoon as a walk-in. It was my first time trying so many kinds of salatim, and they were all surprisingly good. The hummus and pita were the best I’ve had. Loved that the salatim were unlimited, too. We had the Chicken Shishlik and Lamb + Beef Koobideh—both were juicy, tender, and not at all gamey. Even the dessert ice cream at the end was great. Really enjoyed everything!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFNVRYVnBWbDl3V0Vrd1dFeGFaR2hMUlVSSGNIYxAB",
+            "text": "Amazing spot. Went here with my cousin. First off, the spot is amazing. It was sunny and the view is spectacular. I would pay just to see the view. Service was great. The food was great. A lot of different and diverse flavors from refreshing bites to more Smokey sauces to try. The meat was fabulous but they don’t give you a lot of meat. I like meat so I was a little sad. The steak and chicken were the best in my opinion. The steak was juicy and has great flavors. The chicken was super moist and flavored to perfection. Just really amazing. The combination of the location and quality food makes this place a great spot. My Beli gave it a 9.2 which I think is approximate. Maybe even a little higher if we got more meat but overall amazing spot. Definitely should go out and worth the trip to Brooklyn."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkWmRsZHRUbE4xWWtkeFUyNU1Wa1JQYzFSeWJsRRAB",
+            "text": "The service and the view were great at Laser wolf. But the food is a bit hyped up. The best dishes were the grilled foie gras, the date and harissa wings and the grilled eggplant main. The lamb kofta and brisket kebab were dry and terrible, would def skip. The dorado wasn’t bad. Pitas were great and that’s basically what you get full on. This is also a place you would only go with great weather as all the seating is partially exposed to the elements. We happen to go on a super nice day."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKSEVpUFNUOU9lTGpnRRAB",
+            "text": "I have not shut up about my meal at laser wolf from about 2 months ago.\n\nEVERYTHING was cooked perfectly, I’ve never had better steak or chicken and the hummus has perhaps ruined all hummus forever for me. You must run to laser wolf and order 3 kebabs. Service was perfectly adequate. I unfortunately did not take good food photos because of how starving we all were but you will not regret this meal. Or the view."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJLUpfMHRRRRAB",
+            "text": "Great views and atmosphere, a little overpriced and kind of an odd menu selection as you can’t order what you want.\n\nI think the prefixed menu is solid, but the sampler plate costs 26 per person and it’s a lot of food (though it comes with free refills).\n\nSince everyone gets the sampler plate, it feels like an extra $26 per person “tax” which makes the place overall just more expensive.\n\nAs for the food, everything was pretty good, the baba ghanoush is elite and the hummus and pita were excellent. I wouldn’t recommend coming just for that though. Perhaps the meat dishes were worth having."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OMVpsSTRlbll4YjFWcU1GWjZkbHB3Y21sblpVRRAB",
+            "text": "From the moment I stepped through the door, I knew I wasn’t entering a restaurant — I was stepping into a masterpiece. The air was filled with the intoxicating aroma of flavors I didn’t yet know existed, and the warm, genuine welcome made me feel like I’d just come home… to a palace.\n\nEvery dish wasn’t just food; it was a story told on a plate. The chef didn’t cook — they conducted an orchestra of textures, colors, and tastes. Each bite danced across my tongue like a standing ovation in slow motion. The ingredients tasted as if they had been plucked straight from paradise that morning, whispered over by angels, then brought here just for me.\n\nThe service? Impeccable. Attentive without being intrusive, charming without being rehearsed — it’s as if they could read my mind and knew exactly what I needed before I even knew myself. My glass was never empty, my table never without a smile, and my heart never without joy.\n\nThe ambiance was an embrace — soft lighting, music that soothed yet uplifted, and a rhythm in the room that made time slow down. I didn’t just eat dinner; I experienced something I’ll tell my grandchildren about.\n\nThis isn’t just the best restaurant I’ve ever been to — it’s the place that made me believe dining could be an art form, a love letter, and a lifelong memory all in one evening. If I could give it 6 stars, I would. Thank Josh"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VNRHp0Ty15ejQ2QjRBRRAB",
+            "text": "Let me preface this with one thing. I did not intend to write a review. I called a little after we left and could neither get someone on the phone or leave a message.\nInteresting experience today taking my mom for her 83rd birthday with a party of 5. We had wanted to check it out since first hearing about it in Phily years ago.\nA little tricky/confusing to find once you enter the hotel. When we finally got upstairs, my mobility challenged mother and crew were escorted to the furthest most table for our meal. We each ordered a cocktail and were quickly given water and the salatim. The hummus and pineapple were good. The cauliflower and slaw were ok.\nThe cocktails then arrived just before the plate containing one sad skewer of salmon and the other plate with two steak, one chicken and one lamb kabob- seemingly enough food for 2-3 people. Luckily, we were on a diet.\nAfter eating this, the server offered us the brown sugar ice cream or prickly pear sorbet at $7 ea. The menu had mentioned the dessert was included in the prix fix, but I didn’t want to cause a scene. Not a huge deal, but needed to be mentioned. Although there weren’t too many tables left, as we were preparing to get up, we then had an employee tell us we needed to leave immediately as they were closing the roof. Anyway, we were not impressed and will be avoiding the overpriced and over hyped pretentiousness that is Williamsburg in the future. As someone born and raised in Brooklyn, this is sad."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xb09GVXhTMHAyV1RKUFZreGhSbFp4VkZaSFdVRRAB",
+            "text": "❤️Amazing restaurant!! Excellent food! Prix-fix was a great option! We go to try everything😋\nJust awesome!\nWent on a saturday evening without reservation. Got seated at the „chefs table“ which was so great, because we were able to see the chefs cooking!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psc2JubFVibVYzUkVKa1pIZGpSbE0wWkhKM2NrRRAB",
+            "text": "I had an incredible dining experience at Laser Wolf in Brooklyn! The food was absolutely delicious, full of flavor, and beautifully presented. The atmosphere was lively and welcoming, and the staff went above and beyond to make us feel at home. As a lovely surprise, they even treated us to ice cream on the house at the end of our meal. Every bite and every moment was perfect — truly one of the best restaurants I’ve been to in New York. Highly recommended!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VQLUszTENjOEt6b0NBEAE",
+            "text": "The views alone are worth it, proper rooftop vibes, really well done without feeling too try-hard. And the unlimited mezzeh and pita? Absolute game changer. I stuffed myself and still wanted more.\n\nThe steak was unreal, cooked to perfection. The eggplant was seriously good too. Tried the brisket as well, decent, but next time I’m just getting two steaks and calling it a day."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsRFRXZFFlbVJDYUhWelVGWk5hSGh1YVdJMWFsRRAB",
+            "text": "This place. Oh good god. What a DELIGHTFUL experience. The food was beyond flavorful and some of the best steak I’ve ever eaten (actually it was the best), the service was extremely thoughtful and gave my boyfriend and I little treat for our anniversary, and the skyline view was UNBELIEVABLE. Take me back NOW."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTFRVZEpjREZxYm1oRU9HTjZMVVJpUm1admFuYxAB",
+            "text": "The service from the team (shoutout to Gong and Buzz) and the delicious food (Jared and Adam, oui chef!) matched the unbelievable city views. Visited after having lived in Brooklyn and being away from NYC for several years… nothing makes you appreciate this city more than sharing a meal with dear friends and watching the sun set behind Manhattan. Highly recommend!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONFJIUllNRzQ0UlRCTGJ6RkhaMVl3TFRoM05FRRAB",
+            "text": "Had the prefix menu! We got the steak, chicken and the and the lamb (best one!). The constant refills of the mezze items and the hummus and pita will fill you up quick. The best part of lunch is the view and atmosphere, perfect for summer!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWlIzRklkVVowYkVsbFJFeHhTRGhSVUVVME9WRRAB",
+            "text": "Mixed Bag at Laser Wolf NYC: A Night of Highs, Lows, and Lamb Kebabs\n\nShowed up last night to all the hype — Laser Wolf, right? Sadly, it was kind of a mess. Poor welcome, confusion about the reservation, and some seriously awkward front desk vibes. Felt like I was the problem just for showing up.\n\nCredit where it’s due — the hotel duty manager stepped in and smoothed things over. Hero move.\n\nNext night? Same issues. Deja vu. Had to be confirmed again just to head upstairs. At this point, I was starting to feel more like a gatecrasher than a guest.\n\nWhen I finally got to the rooftop? No greeting. Just wandered until a cool girl finally asked if I had a reservation (yes, still). Bit of a “blah blah” moment, but we got there.\n\nSat at the grill, ordered the lamb kebab — now that was a win. Spicy, juicy, perfect. Props to Iban (a runner I guess) — super helpful, nailed the recommendation.\n\nThe staff? Mostly having a good time. A bit cocky, but hey, it’s a flashy place with a skyline view — arrogance is probably part of the brand. Speaking of which, the view of Manhattan is next level. Ordered a Manhattan cocktail, server said “Here’s your Manhattan” — I pointed behind me and said, “No, that’s my Manhattan.” Worth it for that moment alone.\n\nGood for singles? Yeah, technically. But honestly, this is the kind of place that feels better with company.\n\nBit ironic that an Israeli concept restaurant charging NYC rooftop prices is powered by hardworking Latin American staff doing all the heavy lifting. Major respect to them.\n\nOne note: the mezze-style accompaniments come in huge portions — more than anyone can finish. Ends up being wasteful. Would love to see them scale that down.\n\nDessert? Cute. Small paper cup of rhubarb, strawberry, sugar, biscuit. Sweet finish. Just enough.\n\nFinal verdict: Laser Wolf is peak NYC — flashy, chaotic, gorgeous, frustrating, and somehow still memorable. Not for everyone, and definitely not perfect, but it leaves an impression. Well done… I guess."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBNTZtTFRBEAE",
+            "text": "Outstanding food and chill service. Some of the best flavors I have ever had in this city after living here for 10 years. The pita bread is so soft I could sleep on it. Every bite from the delightful salatim to flavorful chargrilled meat to the the tahini shell soft serve was amazing and I cannot wait to return over and over"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWR1dXTk5kQzFrTUV0VlpFRTNSakZDUVhsVlptYxAB",
+            "text": "BIG SLAPPER (that’s good for all you oldies). Zan was my server and the guy was absolute tops. He recommended a do the Dorade and it didn’t disappoint. It was flaky, crispy, perfectly salted, its was excellent. All the accompaniments were also great, I especially loved the pineapple celery, beats, and potatoes. This place is best suited for a group or date night, I went solo and it was too much. The strawberry rhubarb on the ice cream at the end was decadent."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvb1lfWWZREAE",
+            "text": "If you're in Brooklyn and in search of a phenomenal dining experience with a stunning rooftop view, Laser Wolf is a must-visit! I recently celebrated my partner's birthday here, with a group of friends, including some who joined us from out of town. The reservation process is a bit of a challenge—secured exactly 3 weeks beforehand—but entirely worth the effort!\n\nFor a special touch, we had a last-minute addition to our party, and while adjusting the reservation online wasn't possible without altering the time, the team at Laser Wolf was incredibly accommodating. A quick email exchange, and they seamlessly added our extra guest. Their hospitality, right from the get-go, set a positive tone for the evening.\n\nThe food at Laser Wolf is served family-style, which is perfect for larger groups like ours. With seven people, we decided to order a variety, doubling up on crowd favorites like the chicken and the mouthwatering shiitake mushroom dish. Every bite was delightful, but that mushroom dish was truly standout!\n\nDrinks at Laser Wolf equally impress. \"Get Shishlik’d\" was a crowd-pleaser, ensuring our spirits were as high as the rooftop. Travis, our server, was exceptional—his recommendations hit the mark both for food and beverages, making the evening even more enjoyable.\n\nAnd let's not forget the views! Overlooking the city, the rooftop ambiance is both breathtaking and surprisingly sheltered. It allows you to soak in the skyline without fully being exposed to the elements.\n\nOverall, Laser Wolf exceeded our expectations on every front. Whether you're in it for the food, the drinks, the service, or the scenery, you won't be disappointed. We left with full hearts, full bellies, and a unanimous decision that we’d be back—hopefully sooner rather than later!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214WlRXbHlRVlZ0VW0xNlFtUnFRWFZTTVVWU01GRRAB",
+            "text": "My husband and I have been looking forward to dining at Laserwolf ever since Chef Michael Solomonov’s 2021 Amex pop-up — and it absolutely lived up to the hype.\n\nThe experience is a beautifully curated three-course journey. It kicks off with the salatim — an abundant spread of pickled vegetables, dips, and spreads served with freshly baked pita. And let me tell you: if you think you’ve had good hummus before, think again. This hummus will ruin all others for you — it’s that creamy, flavorful, and completely mind-blowing.\n\nFor the main, you choose a grilled protein from the open kitchen. We went with the steak and chicken, both cooked to perfection. The steak was tender and juicy, while the chicken was incredibly flavorful with just the right amount of char.\n\nThe cocktail program is on point — I had the Beet the Heat, a unique mix of beet, honey, lime, granja mezcal, Aperol, and herbal liqueur. It was perfectly balanced and paired beautifully with the bold flavors of the meal.\n\nOur bartender was outstanding, and the overall service was genuinely memorable — warm, knowledgeable, and attentive without being overbearing.\n\nAnd as if the food and drinks weren’t enough, the view of Manhattan from the rooftop is absolutely stunning. We were lucky enough to catch a gorgeous sunset during dinner, which made the evening feel even more special.\n\nLaserwolf is an unforgettable experience — one that’s well worth the wait."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmN2ViQ1NREAE",
+            "text": "As I reflect back on my favorite meals of 2024, Laser Wolf immediately comes to mind.\n\nI regret not remembering our server’s name, definitely started with a “C”, as he provided us with top quality service! From the warm welcome, attentiveness to the anniversary celebration we mentioned in our reservation, all the way to noticing I wasn’t eating the pita due to a gluten aversion and wordlessly rushing over a plate of seasoned cucumbers so that I “could have a vessel for the hummus” - we felt so taken care of.\n\nThe food was so tasty, with dinner feeling more like an experience than a usual night out. Pricing was reasonable for the amount and quality of food. And, very excitingly, dinner comes with homemade seasonal ice cream to finish it off.\n\nThis restaurant would be sure to impress any guests you bring, and would be highly memorable.\n\nThank you Laser Wolf for the hospitality!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VPemg5WnU2NmUtODhBRRAB",
+            "text": "Laid back rooftop, fantastic views. Great food, flavors, albeit a tad on the saltier side. Cocktails and the bartenders are the real stars, servers were just ok.\n\nDo wish the establishment paid homage to the actual rich Levantine culture of the cuisine."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6bzVHanRRRRAB",
+            "text": "Place has good food and great views! Decent drinks as well. We tried mostly everything on the menu, and the dorado was the best, albeit a bit salty. Steak was decent, but not mind blowing. A lot of pita, thought their fries could’ve been spiced better. Overall pretty good experience. Soft serve was a good ending to the meal."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBc2ZqYXFRRRAB",
+            "text": "The roof terrace/water view was beautiful.\nStarting out with the things that impressed us: the french fries were phenomenal, the hummus was delicious and the dessert was extremely impressive. The eggplant was very tasty but definitely not a 10/10. The waiter described the chicken wings as life changing and he wasn’t wrong. All of the condiments had a middle eastern spin on them, which offered a delicious change of pace from regular ketchup.\nOn other notes, the steak was fine- it was good but didn’t stand out from other steaks I’ve had. The salmon was on the same page as the steak. The salatim were good but not life changing and very expensive for what they were.\nThe service was great, and so was the ambiance."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wSFkzVjJaMjFXU0Roa1dISmZka3BsVUROaU9HYxAB",
+            "text": "Wanted to share my awful experience at Laser Wolf BK for their July 4th special:\n\nMy friend and I purchased the “Dinner + Fireworks” tickets at $125 each (significantly more expensive than the other options advertised for that night). We were under the impression that this ticket included a reserved space to have dinner and a view of the fireworks.\n\nHowever, just five minutes before the fireworks began, we were asked to leave our table to make room for the next reservation. Only after raising concerns, we were told we could stand off to the side, which was extremely crowded with other customers.\n\nNot only did we not receive the experience we paid for, but it was handled poorly by staff. It left us and many others feeling misled and taken advantage of on a holiday.\n\nIf fireworks were only viewable for about 30 minutes… then only that slot should have been sold as the “fireworks experience.” The other seatings should have been clearly labeled as pre-fireworks. That would have been more honest.\n\nI believe this situation warrants accountability from your team. At minimum, customers who paid for the fireworks experience should be refunded or offered a gesture of goodwill !\n\nEDIT: someone from the restaurant called and was very apologetic, offered a refund. I appreciate it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuaS1MbHFBRRAB",
+            "text": "Dinner at Laser Wolf was nice with great skyline views and interesting foods and flavors. The app and spread platter that comes with the meal was tasty, especially the hummus and babaganoush with the warm pita. We wish there were more dips/spreads than pickled vegetables though. The meat skewers were delicious, especially the beef/lamb combo skewer. The frozen yogurt at the end is a nice touch too. The cocktails we got weren’t anything special unfortunately. Overall the meal was good but a big pricey, though to be expected with the location and atmosphere."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSdlk2NHlnRRAB",
+            "text": "It's worth the wait! Make reservations, and you will not be disappointed.\n\nThe food was a culinary explosion of flavor. The flavor was impeccable.  Do yourself a favor and order the cauliflower.  It had a brown sugar taste, but it wasn't sweet! Each meat was absolutely incredible (just get them all). The fries were amazing.... but get the Cauliflower!\n\nMeats - 10 stars\nSides - 10 stars\nDessert - 15 stars (I have a sweet tooth)\n\nEvery time we took a bite, it was better than the last. Our server was awesome, fun and really helpful.\n\nThe view was the cherry on top! This rooftop had breathtaking views of Manhattan. I was absolutely blown away.\n\nDon't miss out on this Uncut Gemmmmm 💎"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3NUl1MHNBRRAB",
+            "text": "Nestled in the heart of Williamsburg, Laser Wolf offers a vibrant and unforgettable dining experience that effortlessly blends a stunning atmosphere, incredible city views, and exquisite Mediterranean flavors. Inspired by Israeli cuisine, this rooftop gem provides an exceptional setting to enjoy fresh, flavorful dishes, all while soaking in panoramic views of the Manhattan skyline.\n\nFrom the moment you step inside, you’re greeted by a modern yet laid-back vibe. The sweeping city views add a magical touch to the dining experience, making it the perfect spot for a night out or a special celebration.\n\nLaser Wolf truly shines with its diverse selection of Mediterranean-inspired dishes, with an emphasis on grilling and bold, fresh ingredients. The grilled meats—including lamb, chicken, and steak kebabs—are cooked to perfection, each imbued with smoky, charred flavors that elevate the meal. The lamb, in particular, is a standout. The meal is prix-fixe, with each course beginning with hummus and accompaniments, followed by your choice of meat, and finished off with a delightful dessert: a soft-serve ice cream topped with a brown sugar shell and pumpkin seeds, which is both delicious and the ideal way to round out the meal.\n\nThe signature hummus is a must-try—smooth, creamy, and topped with a variety of accompaniments that enhance each bite. The dishes are designed for sharing, allowing guests to enjoy a wide range of textures and flavors, from savory to sweet.\n\nUnfortunately, the drink menu was a bit underwhelming. While we tried a couple of cocktails, we ultimately decided not to order more. It could have been a matter of personal preference, but the drinks didn’t quite match the quality of the food and the vibrant atmosphere. If I went back I’d likely order something off the wine menu. That said, the incredible food, stunning views, and overall vibe more than made up for it.\n\nThe service at Laser Wolf is attentive, friendly, and knowledgeable. The staff are eager to offer recommendations and are quick to ensure you’re having a great experience. The service is seamless, allowing guests to relax and enjoy their meal without interruptions.\n\nLaser Wolf is a true standout in Williamsburg, offering a memorable fusion of great food and a welcoming atmosphere. Whether you’re a fan of Mediterranean cuisine or simply seeking a unique dining experience in Brooklyn, this place is a must-visit."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WTE9HZEVaM2xUWm1oaFUxWnFaek0yY3psMU5tYxAB",
+            "text": "The view at this rooftop restaurant is stunning! They have the best grilled salmon!!! Highly recommended!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmLXJXNnVRRRAB",
+            "text": "Incredible dining experience! Laser Wolf in Williamsburg is hands-down one of the best meals I’ve had in a while. The salatim spread was phenomenal—featuring some of the best hummus I’ve ever tasted—and the fact that it’s unlimited was a delightful surprise. We shared the salmon and steak platters, both cooked to perfection and served with flavorful rice. To top it off, the brown sugar ice cream with pumpkin seeds was the perfect ending to a spectacular meal. Can’t wait to return!"
+        }
+    ],
+    "reviews_count": 86
+}

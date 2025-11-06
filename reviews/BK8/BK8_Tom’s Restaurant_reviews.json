@@ -1,0 +1,579 @@
+{
+    "name": "Tom’s Restaurant",
+    "place_id": "ChIJkQjM7KBbwokRwC8M-XGNpsk",
+    "grid": "BK8",
+    "address": "782 Washington Ave, Brooklyn, NY 11238, USA",
+    "rating": 4.4,
+    "user_ratings_total": 2652,
+    "phone_number": "(718) 636-9738",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nelZteHhabWRVY0ZaMVlVcGZTbWRDWVhkdE4yYxAB",
+            "text": "Old but good with super friendly service from Carlos! Casual eatery and highly recommended."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1eWVsZHlOMkpqTVUxUWMzTkRTMmgxY0hFd04xRRAB",
+            "text": "I love every time I eat at Tom’s. The staff is incredibly efficient and the food exactly satisfies the “classic diner” craving. We arrived around 2:30 on the Sunday, were sat at a table in 15 minutes, and our food came our way a little more than 7 minutes after we ordered !!! My favorite place to meet old friends for a substantial meal 🤌🏼"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CeWJsaE5UbmRYY2xWVFZIVlZWVFJxVTBnMVdHYxAB",
+            "text": "i have never had a worse hamburger.  The place is old, crowded and has zero charm.  People one table over said it was the worst grilled cheese sandwich.  How do you ruin grilled cheese?  Not a problem at Toms.  Must be the low price and quantity of food, because it sure isn't the quality."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFdFdEQllRa2swV2t0Q2NGWlJaRVIwYjAxdVpFRRAB",
+            "text": "The atmosphere here pleases the eye. The setting offers relaxation, cleanliness, and exceptionally friendly attention. The workers served speedily, were competent, and made no errors! The cooking is skillful and the staff is consistently professional. The team at this place knows their craft."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jelNXUlNYMk5mUldoRmNXWTFaV1IzVkV0emRuYxAB",
+            "text": "Had such a good time here. Came with a friend for Brunch. Got the cinnamon roll Pancakes with scrambled eggs and turkey bacon. So worth it! All got the cherry lime Ricky...always my favorite.  Staff was so funny and welcoming."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CT2IwSTVSbXhQYlhvNGVrVkpkamw0ZDJVMFVtYxAB",
+            "text": "Worst corned beef hash I've had - 0 sear and soggy."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVmMzTk1WbmhETUdKNFJVOUJTRTB4TFVsaVJXYxAB",
+            "text": "Awesome breakfast spot"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOd01qTm1WRXRwUnpRNWFtSjBPVFpvV1hkc09HYxAB",
+            "text": "Don’t be intimidated if there’s a line, there is a lot more seating than there appears to be. You should be in after 10-15 minutes tops.\n\nThat being said, I ended up getting the Danish pancakes, I was expecting it to be a little cheesier, but I would liken it to a blueberry tart in pancake form. It was really good, I also got a strawberry milkshake which was good too. I would recommend splitting with someone if possible as they give a lot more food than you think you will get. I saw most people around me leave food on the plate, I know that is a good problem to have."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTk1HVmpiRWx3YWxSeVl6VjBhMEUyYjNOT2RtYxAB",
+            "text": "Possibly the best customer service I’ve ever had. They really take care of you."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SNlpXaEpTVlpmZUdWUWRDMURTMDVSTkdOcWJXYxAB",
+            "text": "Cash only, affordable\nIconic\nWaited abt 30 min to get seated\n\nHighly recommend any pancakes and the fries\nLove their spicy mayo sauce\n\nThe omelette are just ok"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMlJHTkxaVEIxVkc1NU5YTjBlRGhQZW1KTWFVRRAB",
+            "text": "Atmosphere is a bit outdated. It can use some polishing up."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVVRrVlVOR2R4VWtWdFFWZ3lPVFZqUVVKNmIxRRAB",
+            "text": "Pretty standard diner food. Took a gamble on the meatloaf and was pretty disappointed. It was almost watery? Pancakes are good. Cash only"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJeVVUYzVOSGxXVlZOSGNtdG5Za1YxWDJaeFlXYxAB",
+            "text": "GREAT SPOT!!! Great service, great food, and GREAT PRICES!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWRGMzZzFTM2RFVmpWb1ltNHRWRzFFWnkxeFZWRRAB",
+            "text": "Disclaimer: This is my personal experience. If something doesn’t go as expected, I always believe in giving the restaurant a chance to make it right. Most places will, and Tom’s definitely did.\n\nI stopped in craving something specific — an open-faced beef sandwich — even though it wasn’t on the menu. I asked, and they made it happen without hesitation.\n\nThe beef was tender, layered over toast, and smothered in rich brown gravy. Total comfort food. Nothing fancy, just honest flavor that hit the spot. It’s the kind of old-school hospitality that makes you feel like more than just another customer.\n\nMajor appreciation to the team for saying yes when they didn’t have to. Sometimes the best dishes are the ones made off-menu with a little heart."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1eFQyUkZNM0poYmtabmNsZHVXa1JEVWpjd1MxRRAB",
+            "text": "The best cinnamon roll pancakes I’ve ever had .\nDecided to visit here instead of IHOP super last minute and was such a wonderful choice . I dined in with my best friend and we had an amazing time. We didn’t spend much and the vibes were immaculate. The food was served fast hot and ready.  10/10"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sV2JXWm1ja3hmTVZGd1RtVjNXSGxCYTBOdE5XYxAB",
+            "text": "It's exactly a diner atmosphere. I was very happy with my pancakes amd especially the quick service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVMlVtNTRZbUV0VlRSaVJXWlRhRzlzVVc1UmJFRRAB",
+            "text": "Amazing diner with very reasonable prices. The pancakes were delicious, my coffee was strong and regularly refilled, and there was a fantastic atmosphere. Feels like a neighborhood staple. Be prepared with cash, as they don’t take cards"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jNWQyOUdjVTFZTm0xakxXSkhkR0ZPUkdkMFJXYxAB",
+            "text": "Lemon ricotta Pancakes and cinnamon roll pancakes, with different flavor butters."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCMFNXSkZVbTFSWms5RmVEQldUemszZG05blRtYxAB",
+            "text": "We ordered the Crab Cake Florentine Benedict because it sounded delicious.\nIt came to the table with an orange color holindaiase sauce, weird. The crab cake tasted like a fried potato pancake, no crab. The spinach was salty canned stuff that tasted old and awful.\nThe corned beef hash and eggs were fine but not special.\nI remember them being better then this. I don't think we will go back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xocmJIbHNRbkpHVGtkUkxXRk9XRzB5UTBOUVJXYxAB",
+            "text": "DO NOT HAVE THIS FOOD EVER DELIVERED not only was the breakfast ice cold it was not even the same quality of food that is served in the diner, the whole meal especially the bacon looked as if it was service rendered from the local corner store! $50 for a $5 meal so so disappointing"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sVWMwcG9SMk5VVmpodFpqZ3pkMHBOYVhaSFpVRRAB",
+            "text": "The breakfast is standard good and comes out fast, just seems a little overpriced."
+        },
+        {
+            "date": "3달 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKaU15MUlaM1JIUlhweFJYcGxaV3BzWWxveFZHYxAB",
+            "text": "Gegeten met 3 tieners. Bediening heel vriendelijk en snel. Eventjes moeten wachten in de rij, maar al snel een tafeltje.\nUitgereide kaart met vooral euergerechten en pancakes.\nZelfs meer als genoeg voor hongerige tieners.\nEr hangt een gezellig sfeertje en er is genoeg te zien.\nEen aanrader."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sc2F6bGFkbXhWWW5WQlZYZDVXR1ZzZW5kQk5uYxAB",
+            "text": "For decades Tom's was once a local favorite Mom and Pop Restaurant.\nResidents, politicians, tourists, children grown up to adulthood, teachers, a favorite in the movie and entertainment world and news reporters and featured segments alike would make their way to dine at Tom's.\n\nThe old-fashioned and delicious real soda fountains, Lime Rickey's, Egg Creams and more were just some.of the specialty delights that one could expect to enjoy at Tom's.\n\nNot too mention the warm greetings from Tom and the staff and new and old diners were remembered by name\n\nPhotographs were taken, news of births, desths ,happenings were lovingly shared and pictures and newspaper articles were also proudly posted throughout the restaurant, and every guest was treated like family!\n\nIt was nothing unusual to stamd in a long line for a table at Tom's.\nGuests were patient and as an added treat, the staff would serve cookies, freshly slice fruit, or on the bitterly cold, wintry days, hot cups of cocoa were served to those brave souls that waited on line ♥️\n\nWell, thw years have passed. And Gis, Tom, his lovely wife and mother and other beloved family members have passed and things such as what I have described are regrettably an endering memory of a bygone memory.\n\nIt has been a few years since I laat dine at Tom's.  The service is nothing like it use to be.\nThere was once a time that one could set their wat h by Tom's because he was open for business prompty at 7:00 am.  He was closed on Sunday's for religious observerance and a day of rest for the entire staff.\nNow it is difficult to get a percise beat on the store hours and sometimes the store is opened 7 days a week, but the traffic is not the same.\nPatrons are no longer waiting to get in and the staff seems.rather nonchalant about the history of what many view Tom's as a landmarked restaurant that has withstood the test of time since 1936.\nNow the store does not open promptly, the staff are not as engaging, and the restaurant seems to have lost it's luster?\n\nMy brother was in town for a long overdue visit. He bought along his daughter to join him for breakfast.\nOur bill was $75.00 for 3 standard selections of eggs(1 standard egg order and 2 omelets), toast, protien, 1 cup of coffee and 3 OJ's.\nLike I said it has been quiet some time (5 years] since I last dined at Tom's.\nWe found the bill to be beyond expensive, but certainly not a reason to ring the alarm.\n\nWhen it was time satisfy, we were informed that it is cash only.  We were unaware and the notice was not marked in such a way that was an announcement to garner our attention.\nMy brother was directed to use the ATM machine, which he did, but after 3 attempts I advised him not to try again.\nHowever, a wait person said that this happens often and when it does the staff direct their customers to try the ATM at the newspaper store.\nBy now, I grew concerned that my brothers financial institution may flag his card given the 3 unsuccessful attempts to access cash, but I was overruled.\nFinally, the ATM machine did not work at the newspaper stand and we were then directed to try the cash machine across the street at the pharmacy.\nNeedless to say all attempts were of no use.\nWe left en route home for cash and returned to pay the bill.\nMy brother shared with an employee his experience, including his having to call the bank because fraud was suspected, his card was closed, and the response made was how happy they were that my brother returned.\nNo mention to make amends for his inconvenience and overall disappointment.\n\nSuch a shame on every level and poor attention given to a long time loyal and supporting customer.\nAnd for the unpleasant experience and\n\nimagination."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kWWQybDZPVWhPTmxCMmJ6QllOekZpTFV0NmExRRAB",
+            "text": "Toms Restaurant have been going for years. Food and service is always great."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFelRVRjVPRkZFYjA1U1FWaG1hVFZsYkhKSE1IYxAB",
+            "text": "The best lemonade in Brooklyn !"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CUFExZGFObWxuYUU5bVQwSkRPV0Z4V0RGYWRrRRAB",
+            "text": "the platonic ideal of a diner. don’t miss their amazing pork sausage."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GR1ZIUnVURk5UVFd0U1dsODVNak5qTVdwS1YyYxAB",
+            "text": "When I lived in Brooklyn 25 years ago, just around the corner at Lincoln Place I came here every weekend for breakfast. Now, after 25 years I finally come back with my wife and daughters in August! I look forward to visit the place again."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trelRVbFNNMHBpTVVjMFlsazBVM1JmTm1KVldtYxAB",
+            "text": "I went in simply for plain pancakes and they were terrible."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wZmFrZDRYMnRaYUdSelVrcE5jbWR5VWtWMk1GRRAB",
+            "text": "Server was very attentive, and you can tell the Peoole that work there care about their costumers and community. Great pancakes and breakfast. A true diner experience in the city of Brooklyn. Forever a staple that I will be going too from now on. Great prices too!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NdExWWk1ZbXQzTnkweFJreDFhR0Z1WVMxcGFGRRAB",
+            "text": "Always delivers exactly what I need."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNMU1tWllkRTFJU0VOTFprbDZPRXg2Wlc1WVZVRRAB",
+            "text": "The people are nice and the place is cute. I really want to like it. But probably the worst breakfast I’ve ever had. And it’s hard to mess up diner breakfast. Greasy without being good - eggs were way overcooked (I think they mixed powdered…"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNODZ1elV3EAE",
+            "text": "Solid pancake spot. Gets pretty crowded on the weekend, but the line moves quickly. I like the ricotta pancakes and the vintage diner decor. Cash only and lots of kids"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGWFR5MUJjVzFVUTB4ME5YTkZRbkJCTkhBNGMyYxAB",
+            "text": "Not enough good things to say about this place!! Not many like it in the city but it is so so good"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsbk0zUXhRMGx3TmxsNFV6WkZUbEV6UjJKeGFHYxAB",
+            "text": "Standard diner food. NYC staple"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKbVI5YnFvZ2RxcGdRRRAB",
+            "text": "Classic diner vibes - if you want a diner in the neighborhood this is by far your best option"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQT3J2Tzd1cHBtR2h3RRAB",
+            "text": "Old world"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sTk5XaExlWFpIZVc1Sll6bERTRlZQZWxONWFGRRAB",
+            "text": "I asked for a turkey melt thought it would be honey turkey and yummy with cheese on a roll and regular lil salt and black pepper etc. Instead it was thick turkey and some puree with raisins in it...the only nice thing was the staff their great especially the waitress. M"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJcXo4OGVrN1BuRHlBRRAB",
+            "text": "I get the feeling people come here more for the nostalgia than the food, which is, honestly, pretty underwhelming. The service is warm and attentive, and the coffee is solid (they keep your cup full, which is always a win). But the food? A different story. I made the mistake of ordering the eggs Benedict, and I regret it. What I got was two sad boiled eggs plopped on top of a dry, stale English muffin. Do yourself a favor and skip that dish entirely."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkTE9WTkJTbUZUYjNGZlZHMWhWeTA1WTJ0ak1uYxAB",
+            "text": "Tom’s Restaurant has the look of a place frozen in time, with décor that appears unchanged since its opening —but not in a way that feels nostalgic or intentional. Unfortunately, the food failed to offer any redeeming qualities. The home fries were soggy and lacked seasoning, the scrambled eggs arrived undercooked and visibly wet, and the bacon was limp and overly dark, resembling something cooked in old engine oil. Nothing on the plate encouraged a second bite. While the establishment may hold historical appeal for some, the overall dining experience leaves much to be desired"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOaXNsYzI4X3ZpM1pREAE",
+            "text": "some of the best pancakes i have ever had in my entire life… i’m not exaggerating. we also got the reuben which was to die for. they bring special sides of butter (including strawberry butter) and the ambiance inside is that of the perfect, classic, breakfast diner (the way it should be). This is a great place to stop before going to BBG (that’s what we did)"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLSzBwZUNRcG9hdUt3EAE",
+            "text": "It is a very cozy small restaurant. Food here is delicious and the service was really nice."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOMld4Nno4aF9iTElBEAE",
+            "text": "Love the ambiance of an old school diner that’s been around for awhile. Great service and big portions. Come hungry!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQcks3YURPdjRTOVZ3EAE",
+            "text": "The food was out of this world. Get the cinnamon pancakes."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VKMm1wcXFheS1pTFVREAE",
+            "text": "It wasn’t bad but some staff guys were a bit rude. They don’t accept cards, only cash"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKYjd4N3p1bHJHeGp3RRAB",
+            "text": "Cheap quick meal with friendly service"
+        },
+        {
+            "date": "5달 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VOZjkzTVRxa2ZUcnBnRRAB",
+            "text": "Petit déjeuner copieux dans Brooklynn. Les prix sont tout de même un peu élevés et dommage que le service ne soit pas plus aimable."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQcWN1dHZtMFA2LWNBEAE",
+            "text": "Cozy—just the place I wanted to end up during my late morning quest for pancakes. The staff is friendly, and the kitchen is really quick. Cash only, but they have an ATM!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZbnBuQkh3EAE",
+            "text": "My favorite diner in Brooklyn."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZanVHQlVBEAE",
+            "text": "The best experience i ever had in my life"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZeHFiaDVBRRAB",
+            "text": "the cream for my iced coffee was curdled and it looked like there was also a bunch of coffee grounds in it but they replaced it. we did find a piece of a plastic glove in my friend's potatoes and i found a hair in mine. they didn't charge us, but yeah that sucked. also the eggs were super hard in my benedict, not actually poached. feels like they may microwave pre-made dishes?my friend asked for no rice in the huevos rancheros and our server said that wasn't possible? but it was just there scooped on the plate. idfk. weird and bad experience all around. unclear why there are so many excellent reviews."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxbk9DQmxRRRAB",
+            "text": "제일 기대했던 곳인데, 맛은 의외로 쏘쏘였어요. 분위기는 완전 미국 전형적인 오래된 다이너 느낌. 한번 정도는 들릴만 하지만, 굳이 찾아갈 정도는 아닌 것 같아요!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIbHRxb0VnEAE",
+            "text": "전형적인 미국식당입니다. 우와~ 맛있다는 아니지만, 괜찮다 정도는 됩니다. 간단한 아침이나 아점으로는 괜찮아요."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGLTZic0FnEAE",
+            "text": "방송에 소개된 곳이라 기대했는데, 제 입에는 안맞았나봅니다."
+        },
+        {
+            "date": "6달 전",
+            "language": "it",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvdk5XaDJ3RRAB",
+            "text": "Diner storico, attivo dal 1939! Entrare è un salto indietro nel tempo. Ambiente accogliente, personale sorridente e socievole. Ho fatto una colazione salata: porzioni super abbondanti e le uova alla Benedict erano cotte al punto gusto, con il cuore morbido. Quello che non ho apprezzato molto è stato il bacon troppo cotto, quasi bruciato e le patate lesse che fanno da contorno al piatto erano un vero ammasso… una via di mezzo tra purea e tocchetti.. insomma, si poteva fare di meglio."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnTURvaGZFeRAB",
+            "text": "Old school diner with great selection of pancakes, 11 different ones, and sandwiches.  Great service in a no frills place is always a treat.  Bring cash or hit the ATM inside as no credit cards, which good for them, keep the money in the restaurant!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYaXJfTzZnRRAB",
+            "text": "My second time in, after a disappointing first time I figured I'd give it another try. No wait this time, despite the holiday.\n\nLike last time, the staff were very friendly and the vibe was old school. Unfortunately, like last time, the food was inconsistent, with an eggs Benedict that somehow managed the double whammy of being both cold and overcooked solid. The cheesy grits were just bog standard grits with two slices of American cheese slapped on top.\n\nOn the plus side, the coffee was decent and filled again one during the meal, the bacon was crisp and plentiful, and the pancakes were fluffy and delicious. Stumped for the cinnamon roll on the recommendation of a friend, and it came with a couple of different compound butter which were good too."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWZ095aXdRRRAB",
+            "text": "Weird the line is not as long as it used to be. It was about Saturday around 11am and the wait is 20 minutes for a table of four.\n\nFood is delicious as usual. I had the Mexican omelette and definitely get the fries. They have the best fries in America to be honest. We got pancake, egg Benedict and something else. Coffee is like a good old diner coffee in the familiar cup.\n\nService can’t be better. The waiter is full of energy and love the smile. We got our order fast and correct. He gave us extra sauce and refill on coffee.\n\nIt’s very tight spot and I would just have one person wait inside until the table is ready."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROcy1hb0J3EAE",
+            "text": "What a fantastic experience!\nBreakfast at Tom's was so amazing that we couldn't resist going back the next morning. It's a classic diner, straight out of an '80s TV show. Walking in feels like a time warp. The food perfectly complements that retro vibe – simple yet top-notch. You'll feel like you're indulging in the same pancakes and eggs as those iconic actors did decades ago. It's a joy-filled meal that sets the tone for a happy day ahead.\nA true gem in Manhattan!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKLXRDczh3RRAB",
+            "text": "Run do not walk! This place is the absolute best breakfast spot in the neighborhood. The entire staff is so friendly and generous and we absolutely loved everything we ordered. Classic American fare but done to perfection. Only downside is CASH ONLY but they have an ATM and honestly any ATM fee is worth it for the food and service you’ll receive. I cannot wait to return again and again!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwLVpHTVF3EAE",
+            "text": "loved my visit to tom’s restaurant!!! service was great and quick and the food was delicious. the selection of pancakes is to die for, i got the cinnamon roll pancakes and they were delicious. they also give different types of butter. on the pricey side and cash only but worth the atmosphere, serving size and flavors. will be returning!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIMkpxUjVnRRAB",
+            "text": "First time visiting here. I'm from the bronx but came to Brooklyn to see family. So I stopped in here with my aunt for some breakfast. The service was good and we were greeted by everyone in the restaurant. The food came out pretty quick. The pancakes were the best I've had at an establishment in a very long time, they were soft and very flavorful. I ordered. Pancakes, eggs, bacon and Grits. When I got my grits as they came out last they had hair in it. That kind of messed up the whole meal. They took it off the bill but you have to pay attention when you are cooking and presenting food in a restaurant."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtb3NPREFnEAE",
+            "text": "I’ve been here a couple of times. Great little diner, super vintage looking, great speedy service and the food is great diner food.\n\nWe got lucky since we came in at 11 and there was no line. Usually there is one winding down the street.\n\nNote that this place is cash only and takes no reservations. We came in and we were seated in 10 mins as soon as our whole party showed up.\n\nThe restaurant is cute, has an old school diner vibe and I love the non matching plates and mugs we are given - feels like a home or a bnb. Some cool decor as well and they have a little covered outside space as well as the restaurant itself.\n\nThe food was good- very Midwestern feeling diner food. I loved the strudel pancake and the sweet potato waffle\n\nThey have lots of tables and seat you pretty quickly. Mostly the tables seat about 6 - slightly a tight squeeze\n\nI’ve tried the pancakes here and recommend the blueberry ricotta. I also liked how they do the pastrami and the crab cakes. I love how they do three little butters - strawberry, pumpkin and cinnamon.\n\nThe wait staff comes to you quickly and brings the food out Quickly as well. They did recommend to us that we were ordering too much food (and we were) so we appreciated that."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1OFB1SUhREAE",
+            "text": "Fuimos a comer antes de visitar Central Library. La carta ofrece platos variados y además sirven desayuno todo el día.\nNo tuvimos que esperar para sentarnos y el trato fue muy bueno. Nos hicieron recomendaciones e incluso sugirieron cambios para adaptarse a nuestros gustos.\nEl precio adecuado para la zona y las raciones inmensas. La cheese burguer venía con una verdadera montaña de fries.\nTip: mejor pedir la hamburguesa medio hecha (pedimos bien hecha y quedó un poco seca), preparan ellos mismos la carne y vale la pena no dejarla cocinar demasiado."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3eUtDQU5nEAE",
+            "text": "Tom’s Restaurant offers the classic diner experience that many of us look for: quick, flavorful meals served in a warm and welcoming environment. The food is consistently tasty, whether you're grabbing breakfast, lunch, or dinner. A couple of standout items include their French toast, which is absolutely amazing, especially with the strawberry and pumpkin butters—they add a delightful twist that you won't find at most diners. Another must-try is their sweet potato fries, which pair perfectly with the chipotle sauce for an irresistible combination of sweet and spicy.\n\nThe staff is friendly and attentive, making sure your coffee cup is always full and that your meal arrives promptly. The retro vibe adds a touch of nostalgia that makes each visit feel like a step back in time.\n\nHowever, one thing that prevents me from giving a higher rating is the fact that they only accept cash. In an era where card payments and digital wallets are the norm, it can be inconvenient to have to remember to carry cash specifically for this place. It would be great if they could adapt to more modern payment methods. Despite this, if you're prepared with cash, Tom’s Restaurant is a solid choice for a quick and satisfying meal."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxc0lpMFFREAE",
+            "text": "I mean.. if you’ve seen two episodes of Seinfeld you need to go here! It’s a bit from everything else while in the city but it’s definitely worth the time. It looks of course nothing alike in the series but the atmosphere is still there. There are some photos from the cast with adds to the feeling. The restaurant itself it very pleasant, we shared a tuna salad and a coffee and it was nice! The staff was very friendly."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCeUxQMEhREAE",
+            "text": "Very crowded on an early Saturday afternoon for breakfast/brunch; about a 20 minute wait but larger parties waited longer. Pretty standard diner food with large portions and fast service. The cinnamon roll pancakes were good and not too sweet. The crab cakes are imitation crab but I'd highly recommend. (Cash only establishment.)"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGMGVIbkxBEAE",
+            "text": "Wow. Just wow. No other words can describe the experience I just had at Tom’s. Like stepping into a time machine and being transported back to 1942. The pancakes are fluffed and my stomach is stuffed. What great food and atmosphere. Our gracious host even brought us a cream soda on the house!\n\nWill definitely be going back soon."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyOXV1LVpREAE",
+            "text": "The coffee is great. Strong and bold. Really enjoyed the portions of food. The potatoes did seem under cooked for my taste, but my Mexican Omlet was delicious. The flavors of butter choices for the silver dollar pancakes I had to try at…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGNWJXOGNBEAE",
+            "text": "Listen, I know I've only been in New York for a couple months now, but I seriously doubt I'm going to find a better breakfast/lunch spot in Brooklyn for the price you pay here. I strongly recommend the 2x2x2. And if you get something else, just make sure you try their bacon or their pork sausage. Quite possibly the best I've ever had at a restaurant. The atmosphere gets 3 stars because it is a very small restaurant, so it's kind of a tight fit no matter where you go. (They do have seating outside the restaurant as well that I have not tried just because of the weather so that could have a little more room to it than inside the restaurant.) Regardless though, the food and the staff are fantastic and I cannot stress how much I love this place. And if you bring kids with you, be sure to treat them to the hot chocolate."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1c1lIX0l3EAE",
+            "text": "Tom’s Restaurant is a traditional corner deli in Crown Heights. The main dining room is filled with little pieces of different decor, but the art noveau murals stand out. We sat on the external area, which is not as interesting, but still has a wall filled with different certifications and decorations.\n\nThe food is tasty, but Tom’s Famous Cherry Lime Rickey was the best thing. It’s cherry soda with a lime slice, and the natural lime flavor with the syrupy artificial soda packs a punch, especially during summer. The lemon ricotta pancakes were plenty and well made, with the sides also very good. A nice experience, overall."
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRNFlEcDBBRRAB",
+            "text": "It's easy to see why this place is so loved and packed with people. The service is genuine and served with a smile, and the food is absolutely tasty! The standout items are the egg cream (kind of looks like a milkshake) and fries (I think some of the best I've ever had)! I got the huevos rancheros for the entrée, and it was perfect."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqd0xyd3pBRRAB",
+            "text": "Tom’s Restaurant was EXACTLY what I was hoping it would be!\n\nA cozy old diner from 1936 still serving classic diner food that’s both delicious and totally reasonably priced. The burger and fries were absolutely classic and the fries held up over a long lunch without getting soggy"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRaVkzb2h3RRAB",
+            "text": "Went here for the first time today. The food is  not as great. The omelettes we ordered were only okay. Our server got the wrong order at first, but then corrected it without complaining. The toast was too dry, and did not seem too fresh,…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROdnRIQ3J3RRAB",
+            "text": "Best pancakes I’ve ever had, gone two days in a row as I only spent a few in NY and had to go again after the first brunch. Coffee and oj very good too."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwMnBycmV3EAE",
+            "text": "I think this place is ok. I came here twice. First time I tried the blueberry ricotta (danish) pancake. I must say that their famous pancakes weren’t over the top as I expected. Second time I decided to go with the Eggs Benedict and the…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtcC02VjdnRRAB",
+            "text": "Solid diner food and for the price, this is the best bang for the buck in the area. The star was the pack cakes which were phenomenal - they have so many flavors as well. The service is quick, the food is tasty, and everything is inexpensive. You can’t really ask for more. Looking forward to trying out more options."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURianJ5bWJREAE",
+            "text": "Overall was good food,only reason didn’t give it a 5 because they don’t make it look fancy for the price lol. We got the harvest pancakes and cinnamon roll pancakes  ,my gf loves the flavored butters you get cinnamon,strawberry and honey???"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCbWV1WkhREAE",
+            "text": "Great local place for comfort food. Pancakes are always great; big, fluffy, and great flavors. Love the Danish pancakes. Cash only but they have an atm. Very attentive service. And wasn't super busy when I arrived around 1ish on a weekday. For those who need to know, they do not have non dairy milks for coffee. Also for those who need it parking in this area is not great."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtMkxmeUhREAE",
+            "text": "It takes a lot for me to give a restaurant 4+ stars. But this place did it, the food was great (we had breakfast) they gave these little 3 spreads that makes you feel great inside and just want to know their recipe for it. The pancakes and waffles were extremely soft and fluffy, they had these unique taste that makes you feel the restaurant added a secret ingredient.\n\nThe only negative I can say about the food is they use deli yellow cheese for the eggs. The omelet was average nothing out of the ordinary. Other than that they give you a nice sized cup of coffee and orange juice, a big healthy portion of food with an amazing price. Definitely would like to come back and try their other items."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRN3ZiYVd3EAE",
+            "text": "We went to Tom’s for Saturday brunch. It gets packed after 9am. It’s a local joint and a lot of locals go here. I thought this place is overhyped. We got an omelette and crab cakes. The crab cakes were different and tasty but the omelette…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSOC1qbWRREAE",
+            "text": "Nice food, fantastic service and a really nice Diner place. Food is well cooked and got a lot of flavours. All this in a homelike atmosphere. Very cool beverages. Recommend this for sure."
+        }
+    ],
+    "reviews_count": 81
+}

@@ -1,0 +1,502 @@
+{
+    "name": "Big John's Coffee Shop & Grill",
+    "place_id": "ChIJSRnkncFawokRCuc27HPGcpc",
+    "grid": "BK7",
+    "address": "876 4th Ave, Brooklyn, NY 11232, USA",
+    "rating": 4.6,
+    "user_ratings_total": 283,
+    "phone_number": "(718) 965-1808",
+    "reviews": [
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KRGNUTkNNRFZhTlc4MWJtaHVNakF0ZFdaaFVtYxAB",
+            "text": "Terrible service, I bought a coffee and I will never return, the person who was serving me threw my change on the bar in a defiant manner."
+        },
+        {
+            "date": "2주 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWMU5UaHNPRzlvVGxoaE5GRnVUemc1WTNFMlVHYxAB",
+            "text": "Dobre śniadania w całkiem przystępnej cenie. Miła obsługa. Polecam"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214eVNVSTVUMlo2YVVaQ1VUVTVaazAxVm1KbWRrRRAB",
+            "text": "Warm, friendly atmosphere from John, Alex and co and a breakfast menu that surely has something for everyone."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NM1dHcDRWRVl0VGxkVFlUVnNaR3BYYzFacE4xRRAB",
+            "text": "Was visiting the area from Canada for work. Stopped in for breakfast with my colleague and was not disappointed. Quick service and great diner food and John is a hoot. No notes."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psQmNqSlZhUzF1VDJNMFEwVXpablJmZGtweVNGRRAB",
+            "text": "Amazing food, amazing service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWlVFUkNXVWhVTjBOb2JqUm5NM0U0UzI5S09WRRAB",
+            "text": "Lovely place with great food. I had the bacon cheeseburger and it was cooked perfectly.\n\nThe service was great too. They are very friendly and attentive to their customers. Food was gone before I realized I should take a picture"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkTVFXdDJYMEZmVDAxWk0wOUhSRmhPUW1oWmNFRRAB",
+            "text": "Stumbled upon this little hole in the wall by accident but I'm very happy I did because the food here is on point. I ordered breakfast and the food was delicious!\nWe had a great server and the customer service was A+. Definitely hit them up if you're in the area, you won't be disappointed."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kR1lUVmZlSGhDUkVaaU5sTmZja0ZRYjNsNVdGRRAB",
+            "text": "Get a good ribbing and stick to your ribs food! Owner is a good dude that will hassle you in a fun NY authentic way. Food was fast, good priced and cheap!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCM05IbFBNMWRPTWxKQ0xXNHhVeloxUnkwMlZtYxAB",
+            "text": "I never leave Google reviews, but I have never felt more betrayed in my life. I ordered a latte with two shots of espresso. He charged me nine dollars and it wasn’t even a latte. I know what a latte tastes like and it was absolutely just iced coffee with milk. And the coffee is bad. It was nine dollars by the way. Also, he was getting his dirty hands all over my cup, and where the straw is supposed to go. No gloves or nothing. Dirt under the fingernails."
+        },
+        {
+            "date": "5달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPdS1xNFhUdk9uMkZREAE",
+            "text": "Sehr leckere Burger. Freundlicher Besitzer (hat mir Fotos von seiner griechischer Heimat gezeigt). Preis total in Ordnung."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ2tuUHVTMzczTzZ3RRAB",
+            "text": "Very welcoming felt like home amazing service and great food, can’t wait to eat here again!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMNnRwZUd0X3NIZ2l3RRAB",
+            "text": "Walked in there and was treated very nicely!! Food was incredible! I can’t wait to go back"
+        },
+        {
+            "date": "6달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZbnJiMlR3EAE",
+            "text": "Il proprietario è super gentile e accogliente . Cibo di ottima qualità e abbondanti. Prezzi in linea con la media. Sicuramente un posto in cui tornare."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZbVBfdG5BRRAB",
+            "text": "Highly recommended! We ate here while visiting from Miami. The food was delicious and the environment was incredibly welcoming and friendly. Didn't get the pleasure of meeting Big John this time around but Alex is the man! Thanks Alex!\n\nDefinitely a spot we plan to return to any time we visit the city in the future."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZbUlfeUh3EAE",
+            "text": "This place was amazing! It was right around the corner from the hotel my husband and I stayed at - we were visiting from Miami -  so we popped in for a late breakfast. Alex was the man. He chatted us up, cracked jokes & gave great service. The food was incredible. We only had breakfast items but the menu was HUGE plus a whole Greek menu and you can mix/match between them. Anything you can think of eating, they have it. We had such a great time we had to stop by and say goodbye to Alex. We also recommended it to some guests at our hotel who were looking for good food close by. Highly highly recommend this spot. Massive variety of food made with love, service like you're being taken care of by an old friend & small enough to have a great experience with the staff."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3dDZUME5REAE",
+            "text": "The food is very good, especially the pancakes and burgers! Alex is a riot from the time you walk in until you leave. He makes the experience unforgettable, to be honest. My 16 year old (son who doesn’t like much of anything) asked “are we going back to Big John’s tomorrow?” 😂 This is a family feel type of business that you won’t mind visiting a few times a week (if you live in the neighborhood) or every time you visit Brooklyn. We live in Florida and will make it a point to visit Big John and Alex whenever we’re in town. Two thumbs way up!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3aE5TM1J3EAE",
+            "text": "Big John’s was a gem. Frank was the best..witty, kind, efficient and excellent at giving advice on local transportation and safety. . We went back next day. The food was delicious. I will go there when next I visit Brooklyn."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRcVAza3RBRRAB",
+            "text": "We love Big John’s! The food, owner and staff are outstanding!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnNXNlS1BnEAE",
+            "text": "Some of the best breakfast I’ve had in the city, plus getting to talk to big John himself is always a pleasure"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBaXBqM3ZBRRAB",
+            "text": "This place is a real hidden gem. In every aspect. The food hits every time"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBdk42SFF3EAE",
+            "text": "I had the Italian breakfast wrap with home fries, and it was so delicious. Really hit the spot after a workout. The space is very nice, comfortable and welcoming, and the people are friendly."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfZ0lTNFVnEAE",
+            "text": "I love this place. It has an old Brooklyn charm. People working there are very pleasant and welcoming. Not giving five stars because sometimes the food doesn’t taste the best. But also I order from there A LOT, so every now and then it’s expected to be not their best."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmeXRDRnJnRRAB",
+            "text": "AWESOME"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2aWQ2MURnEAE",
+            "text": "Great food, better than 95% of breakfasts you can get in the city. Vibes are great and mostly everything made from scratch."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2NnM3OUxREAE",
+            "text": "Food here is truly amazing!"
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzbDRPZXFBRRAB",
+            "text": "De los mejores sitios que he comido merece la pena venir aquí aunque no te pille cerca"
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzbDQzTXBBRRAB",
+            "text": "Abundante y roca comida, muy limpio y servicio muy amable"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzZ082dm5nRRAB",
+            "text": "Blown away by the combination of hospitality and incredible food! John is one of the nicest guys around and deserves our business - a local place in an area with chains increasingly creeping in."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYaVlxaER3EAE",
+            "text": "Fast service, great food, and really considerate staff. A medium sized, HUNGRY group and everyone left satisfied :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNYc2ZKMhAB",
+            "text": "Really good menu w/ lots of options; even for salads had an incredible one. Pleasant to dine inside or take to go either way is great"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURua2VubU9REAE",
+            "text": "Had breakfast here in September and it was so good that we went there three days in a row!\n\nWe had bacon and egg buns, plus treated to chocolate maple syrup pancakes on the last day. Also best earl grey I’ve had outside of England!\n\nThank you and greetings from London :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3M2NHUFNnEAE",
+            "text": "Big John's is a must-visit in Brooklyn. The menu is expansive and the customer service is fantastic. Big John and his staff created a Chipotle breakfast wrap custom for me in it was the best breakfast wrap  i've ever had. Also, they have \"A\" sanitary rating, which is obviously extremely important!\n\nI will definitely be back and spreading the word.\n\nThey also cater.\n\nBe safe out there."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3bkpuX2NnEAE",
+            "text": "Great breakfast, not too expensive . The greek guy is chill and the food is tasty"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3bE5lZ0VnEAE",
+            "text": "Fast, Cozy and Tasty. Great friendly atmosphere. Recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURidGMtWkxnEAE",
+            "text": "This place is as genuine as it gets.  When traveling for work, there are some days when you dread the table for one and give up and get take out.  This is not that place- you are made to feel welcome as soon as you enter.  Chatted with the owner John, and Alex's service and banter were both top notch.  Food is classic Greek diner food - good variety, made from scratch and very good."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiekl5WmtnRRAB",
+            "text": "Best place to have breakfast or lunch. Made my pastrami runny egg sandwich with swiss cheese and that hit the spot! I will definitely come back again and try their daily dishes!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyeC1tM1BBEAE",
+            "text": "Classic Brooklyn experience. Stopped in alone before Green Wood Cemetery tour. Staff unbelievably friendly and welcoming. Food was delicious and fast. Highly recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNycXVXcW53RRAB",
+            "text": "I love the silver dollar pancakes with chocolate chips and the bacon is perfect"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMcDdXa1lREAE",
+            "text": "Local unpretentious place for great breakfasts. Loved their bagel with tofu spread and their pancakes are pretty good too."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMcmZLald3EAE",
+            "text": "Food was great but Alex made it that much better!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMcmNMaDF3RRAB",
+            "text": "Alex makes you feel at home, great food!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMbE9PUFZnEAE",
+            "text": "Exceptional staff, tasty food. Good value for the portion size. We felt like at home ;)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6eTRHTUZnEAE",
+            "text": "Great food and reasonable prices. Coming here every morning"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUME9uTllBEAE",
+            "text": "Tasty food, cozy atmosphere and amazing service 😍\nHighly recommended"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUajUyVndRRRAB",
+            "text": "John is friendly and the coffee strong! Great place!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNULXJmM2t3RRAB",
+            "text": "I love this cozy diner! Staff is fun and full of personality, made us feel absolutely welcome and at home. Excellent food! Everything we had was terrific and perfectly cooked. Highly recommend and will be back many times!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURELUllejVnRRAB",
+            "text": "Excellent cafe. John makes you feel at home- he is so welcoming.  You feel that care in their food. We visited twice during our stay and had delicious breakfast and we were impressed by the number of homemade dishes. You will not be disappointed here. Thank you for making our NYC trip special."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEcG9YVGJREAE",
+            "text": "Excellent homemade chicken noodle soup!\nLooking forward to trying your other dishes all homemade. Great to have a good soup place nearby in Sunset Park Brooklyn.  They also deliver all the way to 77th St., and fourth Avenue!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5c2R6NzRnRRAB",
+            "text": "Great diner,I had an awesome omelet. I'll be back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkNzRUSWVREAE",
+            "text": "Great food, great people"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwd08yNGFnEAE",
+            "text": "DELICIOUS breakfast. Cooked perfectly! Very flavorful! More food than we could possibly eat, so awesome value for the money! Staff is incredibly friendly. Big John treats his staff and customers with respect and care. An awesome little gem in Brooklyn. Highly recommended!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlaEx6anN3RRAB",
+            "text": "A really nice neighborhood deli. Seems very popular for takeout too. Nothing fancy but just good honest tasty food.  The bagels and croissants were great.  Had eggs over hash brown, nicely done.  Plus friendly staff.   If you are in the area and need a quick meal on the go, this is it.\n\nDrop me a comment or a like if you found this helpful."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCd3FHUzZnRRAB",
+            "text": "We were treated like family from the moment we walked through the door. Very clean, cozy, and kid friendly. The chocolate chip pancakes were a hit. Nice and fluffy. The western wrap was delicious. Home fries just right(not too well done just how I like them). They also have turkey bacon and sausage which is always a great option. What a gem. Will definitely be back."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNadVlDVFVnEAE",
+            "text": "Very friendly and helpful staff.  Food also is freshly made in order.  Good and tasty. Portions are huge, so you need be hungry:) We recommend:)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsNlpuQWd3RRAB",
+            "text": "Amazing food, amazing service. The Wraps are perfection. I'll be definitely visiting again. Shout out to Al, he's a legend. YNWA my friend!"
+        },
+        {
+            "date": "3년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtdlp6UDZ3RRAB",
+            "text": "Un super dîner typique comme on aime.\nTout était excellent et le patron est super sympa !\nMerci pour ce brunch de gourmand.\nNous reviendrons ici bientôt.\n😋🥓🥞🍳🧈🧀☕️"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxa0xlWTBRRRAB",
+            "text": "My bacon cheeseburger deluxe was fantastic made exactly how I asked for it. Place is very clean very well organized. If you're in the mood for diner food either it's fine in or takeout. This is the place. I support this restaurant/diner and you should too."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnNllqOFlnEAE",
+            "text": "Simply amazing ! A tiny spot right on the corner with four tables. You order at the counter and the bring the food right out to you. I got chocolate chip pancakes and had to go back a few days later to get them again they were that good! Everything is great here!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3OThxXzdRRRAB",
+            "text": "The art of the burger is alive and well at Big John's\n\nI stopped in for a bagel on my way from Microcenter to the subway, and I got a bacon cheese burger delux instead. Humble charm and excellent customer service greeted me. The burger was done right with fresh delicious ingredients perfectly prepared all around. The charbroiled flavor was contrasted perfectly against the fresh crispy delicious bacon. The fries were perfectly cooked, hot and delicous, and the homemade coleslaw was crispy, fresh and flavorfull and the Mayo dressing was downright savory. Top it all off with a civilised price.\n\nCongratulations!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxbTlIak9nEAE",
+            "text": "God bless you, order a Mexican Chicken Supreme, the guy is very kind and generous, and also funny. He made fresh coffee for my friend and my little brother. And the food was very good and well crafted. Great hospitality, and generosity. God willing, me and my little brother and my friend may start coming here more. And the prices are reasonable and great too! 😃"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDdjluejdRRRAB",
+            "text": "Ordered the 4th Avenue Special Stuffed French Toast, and they were fluffy and sweet. ❤️ 10/10"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoM3V2OGlRRRAB",
+            "text": "A welcoming, locals spot with an excellent Greek menu along with an array of diner standards. Everything is good, but their salads are next level.\n\nAttentive, affable service. Stellar delivery. Outstanding catering. I'm being brief here so you'll just visit and get chatty there. Alex will talk your ear off, John will care that you like everything, kitchen will hold it down and delivery crew will continue to be warriors. I can't say enough good about this genuine neighborhood treasure."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1cUlmNm5BRRAB",
+            "text": "When you walk\nIn your immediately family! We will be back! Went here very morning we stayed in Brooklyn!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSb3ZMdXNRRRAB",
+            "text": "This is  the place you want in your neighborhood. I was visiting Airbnb down the street and I wish I had known about this place two days before our first visit! There is absolutely nothing wrong with this place. Food is fantastic and generous. Big John was so kind. It was Greek orthodox Easter, and I had the pleasure of meeting an employee and I am pretty sure a family member and he was as kind as anybody could be he was familiar with where I live in Belize Thank you. God bless you all.🌴"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsbU5xRmZREAE",
+            "text": "Great portion size, I had some for breakfast at 8am and the rest at noon. I had a simple sunny side, rye toast, and home fries, but it was perfect, some places have dry potatoes. Excellent place for a quick breakfast. I’ll certainly be back when I’m in the area again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsbWRtR19BRRAB",
+            "text": "We’re here from Michigan and had Breakfast at Big John. The food is delicious but the best part is John himself. He wanted to get to know us and we had a great conversation with him about the neighborhood and our lives. Great Brooklyn experience!"
+        },
+        {
+            "date": "수정일: 10년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBajlHUldBEAE",
+            "text": "Great People , Great Food!!!\n\nThis place is the best place that myself , my family and my co-workers have ordered from in a very long time. They are polite on the phone and the delivery guys are sweet hearts. They have quick delivery and the food is always hot/warm when it arrives, and best of all they always fill your order correctly, which means they listen and dont rush you off the phone or out of there location. The prices are reasonable and the selection is great. Keep up the great work guys!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKaE5xbVlnEAE",
+            "text": "My son and I wanted to have a Ruben Sandwich while visiting from the Western USA. This place was just around the corner from our hotel. The sandwich was delicious and was great to visit with our server as we ate. Very friendly place and great food!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvNmF1T0lREAE",
+            "text": "This place was smaller than expected.....but the portions are not.  The two guys running the place we're super friendly and made you feel like you have been a customer there for years. The prices were very reasonable and the menu has a lot of verity. Service was pretty quick also.  I highly recommend this place."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxbV82NUhREAE",
+            "text": "Amazing!\n\nThe staff was amazing, very kind and very friendly. Speaking to him was awesome.\n\nHe was incredibly kind- offering coffee on him (a very nice thing of his).\n\nWould RECOMMEND 100%!"
+        }
+    ],
+    "reviews_count": 70
+}

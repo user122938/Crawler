@@ -1,0 +1,579 @@
+{
+    "name": "Otis",
+    "place_id": "ChIJncjrqQFcwokRZZzyxeY-tlQ",
+    "grid": "BK4",
+    "address": "18 Harrison Pl, Brooklyn, NY 11206, USA",
+    "rating": 4.8,
+    "user_ratings_total": 1015,
+    "phone_number": "(646) 886-0601",
+    "reviews": [
+        {
+            "date": "3시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWM1ZWRklZa3RvVG1wZlEwZElPRzR5U0ZSaGRIYxAB",
+            "text": "Otis is an exceptional New American restaurant offering refined dishes crafted with creativity and care. The menu features fresh, seasonal ingredients, and each plate is beautifully presented."
+        },
+        {
+            "date": "14시간 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aS01XUlJkV0ZXUlhwbE1ITlZaMWt0WVY5bFVtYxAB",
+            "text": "Demasiado delicioso! Las bebidas muy originales y ricas y la comida con un excelente sabor. El ambiente en general estuvo super bien. Mención especial (solo si te sientas en la cocina) a Daisy! Es un deleite verla trabajar y ver la pasión que le pone a cada platillo que prepara!\nLa única área de oportunidad serían los baños, no estaban muy limpios."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkZldUaHRhMjFrUzJwR2NrRXdZWGN6YWpZMk5sRRAB",
+            "text": "Everything is nice and warm. Welcome from the staffs."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxTlRIWktTbEJWYW5CdlpqaGlZalEwYm05eloxRRAB",
+            "text": "Everything was amazing! The food, the drinks and the atmosphere. I would highly recommend the carrots and the pasta!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KYU5EQjFTR00wZWpoZlQwazFVVmN4WmkwMGNYYxAB",
+            "text": "Really great spot - my cousin and I came here for dinner and had the best time. Food was fantastic - we had the Rainbow Carrots, P.E.I Mussels, and the Braised Pork Pasta. I also enjoyed the Comfortably Numb cocktail."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCVGRIaHRlbGhHYXpSR1gzSjJRaTExVFRWS1VHYxAB",
+            "text": "Dimly lit, cozy, and romantic atmosphere. I came here on a Wednesday night for some cocktails and split the burrata appetizer. Good selection of a variety of cocktails. The burrata was very delicious and savory and perfect for two people to split. We had excellent service and friendly/attentive waitstaff. Would eat here again."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZemJWbG5TVTlvU2pkMmJqTm1ObU00VVVkaWFYYxAB",
+            "text": "Middle Eastern influenced new American food that is so enjoyable. Price was reasonable given the large portion. Rustic chic vibe and good service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wd01VZElRalZDVjFGdlRUQjZhbTVDZUdsa1pFRRAB",
+            "text": "I stumbled upon this place while in a bind and looking for open Resy’s. Otis popped up as still available and man I was lucky it was. I had an amazing evening dining here, the bread and spreads are top notch and I especially loved the pasta dish that was so decadent and rich in flavor. I would go back in a heart beat!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tab01VWkxjbm81TW1JMmN6QnlUMHAwWDBOR2FVRRAB",
+            "text": "Everything was excellent AND huge portions.  I had the Mussels which were the best I’ve ever had.  Broth had great spices and very thick.  And had great service by all incl our server Christian.  Absolutely going back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSNVZDMVViRE5oYVVrMlpFVnpRWFZCTTBGalJuYxAB",
+            "text": "Good serving, quality ingredients- love the ambiance"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oWWEzaDBaWE5FVW01ZlptNUpWRXRpYmpsR1MwRRAB",
+            "text": "The moment we sat at the bar, right in front of the open kitchen, I knew this place was special. Two chefs moved in perfect harmony, effortlessly orchestrating every dish that passed before us it was like watching a culinary ballet.\n\nWe started with a burrata and sweet potato starter that was as beautiful as it was delicious. The burrata was creamy and luscious, but what truly stole the show was the bread so outrageously good I shamelessly ordered more.\n\nThen came the mussels with chorizo: a rich, saucy masterpiece with just enough heat to make each bite exciting. Dunking that incredible bread into the spicy, flavorful broth was pure joy.\n\nNext up, the seared scallops with uni risotto arrived, and they were perfect crispy edges, tender centers, and a risotto so creamy and balanced it felt like comfort and luxury in one bite.\n\nFinally, we finished with the gigli pasta with braised pork shoulder, and it was nothing short of spectacular. The flavors were deep, bold, and completely unforgettable a finale worthy of the whole evening.\n\nThe service matched the food: warm, genuine, and attentive without ever feeling overbearing. The atmosphere struck that rare balance between vibrant and intimate, making every moment feel special.\n\nFew restaurants have ever thrilled me like this one. If you’re searching for a meal that will leave you grinning long after the last bite, this is the place."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GQmMyUlNaWEZPZEhwbk1UTlhZa04wTlRKZk4wRRAB",
+            "text": "THE BEST RESTAURANT IN BROOKLYN.\n\nI have been going for years and will keep going."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFd2RqQklkMGRsZGpKRVoyWlhjRm81VHpBNE1YYxAB",
+            "text": "Sir! This is a canellini bean paté! It is most aromatic and flavorful but I challenge the concept that it is a chickpea!\n\nExcellent food, service and atmosphere - the aforementioned carrot dish is remarkable - but I will not concede a bean regarding the nature of hummus."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KMVRtTkZOalJuTVZCd2VYQktSVTVJY0V4cGNuYxAB",
+            "text": "one of the more amazing meals I've had recently. Unique and bold flavors. Great ambience. Simple, but excellent execution and really good portions and value."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25scU5IWkpTa2xOZVRGSVVXbE1iMWRDU1dkTWFWRRAB",
+            "text": "Amazing food and large portions. The babaghanoush was legendary. Wait staff were friendly and obliging all night, can’t wait to go back again the next time I’m back in NYC."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWVRVdGFiMDg0WTNsRVFYVklSRm8zWlhCc2RXYxAB",
+            "text": "Best food and drinks!\nStaff 10/10"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wUVowbDVhVWRZV1c1aFVXOXhNblZCUkhwU09XYxAB",
+            "text": "Amazing chef, super creative, spice genius. A great experience that was shared by all our party. Waiters on top as well."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOeldHNXFUSGxUY0hSM09GSkxSMFJNTlZOU2QzYxAB",
+            "text": "Absolutely delish, great portions, also great sauce portions! The ragu was amazing as was the branzino and dark chocolate brownie. We will definitely be back"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKUE9Ea3hVRWhJY0ZwTlpVRlpZbFZoYnpGMmVsRRAB",
+            "text": "Was very excited to try this place, but unfortunately, I won't be back. My friend and I were seated around 8:05pm, but it took 10-15 minutes to get someone to give us water and take our order. The waiter kept running past us as we were trying to flag him down. The only reason we received any service is because my friend got up from the table to get our waiters attention. I really was trying to give this place some grace, but we were the only table of color and everyone else was getting taken care of. The table next to us was seated after us and received water and had their order taken before anyone came over to our table. The food and drinks were good, but based on the service, we will not be back. It left a bad taste in my mouth"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OclZtZHhVRjl6VVZSUFMycEZTMmhwYURKWmNVRRAB",
+            "text": "Food and atmosphere were amazing! Gem lettice salad and scallop risotto were my favorite."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rMGRVeHJiVVF5Y0d0eVVFMXZhblJGWnpKd2FXYxAB",
+            "text": "We had a great dinner. Everything was great.\n\nThe Carrots were my favorite. The Burratta was very good. We also had mussels, branzino, and the pork pasta.\n\nWe all loved it!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GcU16TjFkRnBDY0RWTlp6VXplRFZqYVRRd1dVRRAB",
+            "text": "I had one of the best meals of my life here. Mixture of incredible food + perfect atmosphere."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKd0tEbzNRRRAB",
+            "text": "It was my first time at Otis and the atmosphere was very \"chill\".\nIt's an open kitchen and we love open kitchen. Overall we like the drinks, appetizers & dessert. As for the entree we were disappointed since both of the entrée we ordered were extremely salty. We felt nauseas going to bed and even the next day.\nThe next day we woke up swollen  and had to drink A LOT of water.\n\nFor drinks we had\nPost Melon - was very refreshing\nSunset (I think that's what it was called) was extremely salty.\n\nFor appetizers we had\nBurrata - Amazing\nCorn soup - Tasty\n\nFor entrees we had\nChicken thighs and pan roasted ribeye.\nWe noticed thay they did not ask how we would like our steak to be cooked.\nOverall both dishes were EXTREMELY salty.\nWe could not finish it. It tasted like it was marinated in pure salt. The salt was over powering.\n\nFor dessert we had\nOlive oil cake - Absolutely delicious\nBrownie - my boyfriend enjoyed it.\n\nIf the food wasn't so heavy on the salt I'd say it would've been perfect."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aT1VuSmhjMVZDTjAwdFMwZHhaakJRY2toTVRVRRAB",
+            "text": "One of my favorite places to eat in New York. Sit at the chefs counter, order a lot, drink plenty. It’s great."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0bFJVNVNZbXhCZWs1R1J6QlJaazVhY0VkUllsRRAB",
+            "text": "We loved it! The atmosphere was great, and the burrata was an absolute showstopper — I’m still dreaming about it. Perfect spot to enjoy good food with a view ✨"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kM2JuQXdNMDFuWTFKVU1saFhhVVkzYjB4ek5uYxAB",
+            "text": "Everything here was perfect. We loved the atmosphere, food and service."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WR1lqbEhVV2xaZDJSc0xTMUNhbE5aVGxwaVdrRRAB",
+            "text": "Absolutely incredible. We booked for a large party for my bday and the vibe was impeccable, they put us in a corner where it almost felt private! The food was beyond expectations and the staff was on point. Will be visiting again and again and again. Mussels are a must try!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWaFMyeE1OVXg1VEZSd1l6ZzRaVzQxTlhKNlVXYxAB",
+            "text": "The next time someone asks me, \"What would your last meal be?\", my answer is now going to be Otis. We LOVED everything about this place. Everything, from the host greeting you at the front, to our server, Chris, the dynamic duo of two chefs creating magic in the kitchen, the bartenders whipping up the most flavorful drinks (Mellow Mallow, thank me later) and even the owner who came to our table... it was all perfection.\nIf you take one thing from this long review, it should be: GET THE BURRATA! I will never order this again at another restaurant because it won't even come close to this. The combination of the sweet potato and the tomato jam was out of this world. I'd fight anyone who disagrees.\nAnd to end our dinner, we ordered the carajillo. I have spent nearly a year in NYC looking for a carajillo that takes me back to CDMX. Otis delivered. It was delicious. I was levitating on my way out.\nThis place deserves its spotlight, recognition, and praise. It's already in the calendar for when we return. The menu will be cleared."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfbklyczBnRRAB",
+            "text": "THE absolute best. the end."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJYkJyb0NRbGN1WnFBRRAB",
+            "text": "Everything was delicious- try their bread with dips!! The entrées were like your mum’s food!!\nAnd the carrots dish… you will never forget that. The meatballs, too."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Fek9XeHpVRkJ1Um01ZlowNHRObk5rVjFWUWNsRRAB",
+            "text": "I really wanted to love this spot, and while a few things missed the mark for me, there were definitely some standout highlights. The Branzino was excellent—crispy skin with tender, perfectly cooked flesh. The pasta was clearly fresh and well-made, but I personally didn’t love the pairing with the pork shoulder. The flavor profile leaned a bit too citrusy and complex for my taste, with a lot going on at once. That said, the real star of the meal was the Burrata. Creamy, rich, and beautifully complemented by their house-made focaccia—it’s the one dish I’d absolutely return for.\n\nOverall, while some dishes felt a little overcomplicated, the quality of ingredients and technique in certain items really shined. I’d be open to trying more from the menu, especially if it’s anything like that Burrata."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSU5VRnNWVTVXZUdSMldXMXRTbmxKYWpsVGRYYxAB",
+            "text": "Loved the braised pork pasta and the carrots"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psclFqZDRaMFZyUWxrdGVYRTRaa1JsVTFGcU1WRRAB",
+            "text": "Very flavorful and balanced dishes! Try the carrots and pork shoulder pasta"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOU1VVNDBZWFpJYWxCaVFWaFZiVEZTYTBodFFrRRAB",
+            "text": "Fantastic food, great service, incredibly well executed dishes. One of my absolute favorites"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNX29tSzNJOHJ1TG5nRRAB",
+            "text": "Fabulous food . Fantastic service and excellent customer care"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUGJDMHpkbXQwV1RWc1ZrNUtNVzFsUlVRNGNuYxAB",
+            "text": "Superbly delicious, wow … the carrots, grilled baby gem, prime rib …will absolutely be returning, and walked in late to eat at bar without issue"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWTGFqUXhUSEJOVjJSYWNYZHlTVmx5UkdOb05sRRAB",
+            "text": "True 10/10 dinner. In our debrief afterwards we really struggled to determine what our favorite dish was. Spring salad AMAZING, house made bread and dips AMAZING, rainbow carrots Mind . BLOWN… pork shoulder pasta LIFE CHANGING… scallop risotto ? Of my dreams.AND OH MY GOD THE STICKY TOFFEE PUDDING? Temptation temptation… mouth watering just remembering … and to top it all off, our server chased us down a block away because my silly bf forgot his work bag at the restaurant. We were very touched by this gesture. What a lovely spot we WILL be returning 😤"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kR1owODBOVFpqUm10d2JUaEZkbmxvZUU5QlJVRRAB",
+            "text": "If you are looking for an awesome restaurant you need to dine here. The food and service is outstanding!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKZTNfZWpadTlUVkRREAE",
+            "text": "This is the best food I’ve had in Brooklyn easily … the burrata and braised pork pasta were to DIE FOR!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VMS0V3SW4zNUxtVG1BRRAB",
+            "text": "I would have given this restaurant four stars. The food is good, the waiter did an excellent job, and it's a nice space. However, I will never return, for the simple reason that my girlfriend and I were unceremoniously rushed out the door shortly after dessert came. We had drinks, appetizers, mains and dessert. Within just a few minutes of dessert arriving, the check arrived unprompted. While we were finishing our drinks and dessert, a second check arrived, unprompted while my card was already sitting on the first check. I was literally pen in hand, when only moments later the hostess came over and told us that there were people waiting for our seats, pressuring us to leave. We were there for 90 minutes. We spent 200 dollars. There are many restaurants in New York that do not make their guests feel as if they are infringing on their hospitality. I highly recommend you go to one of those instead."
+        },
+        {
+            "date": "5달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNYU4xNTJpMktqaERnEAE",
+            "text": "Kleines, gemütliches Restaurant mit wunderbarem Essen. Alle von uns verköstigten Speisen waren sehr gut. Der Loup de mer, Jakobsmuscheln, Schweineschulter-Pasta und das Ribeye waren unsere Favoriten. Der Service ist immer sehr freundlich und zuvorkommend."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZNXR2d1J3EAE",
+            "text": "Otis is a true neighborhood gem. The burrata and pork pasta were absolutely exceptional—bursting with flavor and perfectly executed. The cocktails were spot-on. Warm ambiance and great service make this spot a must-visit."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZalBhVWZnEAE",
+            "text": "We came in on a Sunday during my birthday weekend and I will 100% be back. I haven't stopped thinking about the Buratta and Pork Shoulder Pasta since I left.\n\nI also tried a few of my husband's Mussels – can't remember the last time I had mussels that good. The Mezcal cocktail was great too, and they brought me a little ice cream with a candle + a round of aperitifs for my birthday 🥹🫶🏽 Wish I could give 6 stars for the service! This is now in my top 3 fav Bushwick restaurants."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvNjV1cVBREAE",
+            "text": "I enjoyed Otis so much that I think I need to come back and try out a few more of their options. The food is simple and typical if you ask me but something stands out about it - the freshness and the quality. My favorite thing was the carrots because I never really had a dish like that before. The pasta was good but a bit too rich for my taste. Looking forward to coming back again in the near future!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvNDZLdjJnRRAB",
+            "text": "Honestly game changing starter - the carrots are insane. Like the best mix of sweet, roasted, spiced. Yummy! Unfortunately the mains were a bit meh for us - we had the risotto and the pork shoulder pasta. Neither lived up the high of the…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvLUt6bm5BRRAB",
+            "text": "Otis is a cozy spot with a great vibe—laid-back yet refined. The burrata and mussels were outstanding: fresh, flavorful, and perfectly prepared. I’d definitely suggest wrapping things up with a Cognac for dessert—it brings everything full circle."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvLU1tTWtnRRAB",
+            "text": "what folks say is true - the burrata, pork shoulder pasta, and even branzino (crispy skin!) are can’t miss. was only a little underwhelmed by the lamb meatball but great spot. highly recommend."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJbVBHdTdBRRAB",
+            "text": "One of my favorite places in NYC! Absolutely FANTASTIC burata and their special pasta with meat! I was there for 4 times just this year.. love this place! Everything is fantastic!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3ajViZjJRRRAB",
+            "text": "I would literally die without this place. They consistently serve the greatest food I’ve ever had in my life — and I’ve been 4 times now."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3ajR1TnF3RRAB",
+            "text": "I think this is one of my top five favorite restaurants in NYC.  A semi-hidden gem, because it doesn't get reviewed by the popular, big-name food publications.  It's lovely low-key neighborhood spot with really well-prepared, seasonal comfort foods, a great cocktail list, and friendly service. Sometimes the service can be on the slower side?  I think they only have 2 servers for the entire floor that take orders, bus, run, deliver checks, and run payment so I think getting in the weeds can happen pretty often. But honestly this is a place to go to enjoy not being rushed out the door.  Go there ready to know what to order.  My partner & I will go and share the burrata, a veggie appetizer, and we each order our own pork shoulder pasta. This pasta is massive; two normal people would easily be able to share it, but we don't want to share it.  It's the only way to keep us from dueling over the last bite and being grumpy that we didn't have leftovers haha.  It's a cute place for a cozy date night or to have a group of friends try a bunch of dishes together. I hope this place stays open forever."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXNTdUSUJBEAE",
+            "text": "Best restaurant ever in NY. We had a brunch there and everything was so good. If you go to brooklyn, you should try this.\n음식이 다 익숙하지만 새로운 조합이라 엄청 맛있습니다. 이런게 진정한 뉴욕 음식이 아닐까싶네요. 여러나라 식문화가 조화롭게 어우러져서 새로운 음식들이 나오네요..! 한국인 분들께도 추천드립니다 :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYMnVlbS1nRRAB",
+            "text": "We had a big group to try out all the dishes they have on the menu. Overall it was great! My favorite is their breads: so soft and fresh. The grilled shrimp dish is also amazing. My least favorite is mussels because I have had elsewhere better. Most of the dishes are on the salty side, with a lot of sauces (especially for the salad) and it’s not really exactly my preference.\nStaff is attentive. Drinks are bomb! Will try to come back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqdVBPSlN3EAE",
+            "text": "Pricey, but overall delicious meal! The braised pork shoulder ($24) is a must-try; the portion size was decent and made it worth the price. The lamb chops ($36) were also super flavorful. For drinks, we had the Flight Risk and Espresso Martini ($16 each), and they were tasty. We came at 5pm sharp and didn't have reservations. They said we could only sit at the bar even though almost every table was open both indoors and outdoors; we were happy to sit at the bar, but just a heads up for those who prefer tables (the tables must be reservation only)."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1aU5lMm53RRAB",
+            "text": "Absolutely incredible meal from start to finish. The service was excellent. we started with the burrata which was unreal, then they brought each main we ordered our one by one for us to share like it was different courses and I absolutely loved it. The Pork Pasta is a must try, the Trout and the Lamb Chops were delicious too. We got the mixed Berry Crumble and the Dark Chocolate Brownie for dessert and both were awesome but the brownie was truly insane.  They even brought out change to us because they heard my family singing happy birthday to me when the dessert came out even though we didn’t tell the restaurant or anything. Amazing service, amazing food, amazing atmosphere. Small menu but they do everything SO well. Can’t recommend this place enough!! I will definitely be back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5c0pMdWRBEAE",
+            "text": "Otis is a go-to staple in the neighborhood that I bring all of my guests to! I haven’t yet had a dish I didn’t love. Most recently, I visited with someone who wasn’t so sure about mussels. Otis has one of the best mussel dishes I’ve ever had; the mussel-questioner left with a new outlook on how good they can be. Burrata is also a go-to favorite. The bread is made in-house and so delicious…. And the cocktails are fabulous too! The staff and service is the cherry on top. Big love to Otis!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuM0xyVi13RRAB",
+            "text": "As a level 8 Google local guide, I haven't reviewed much lately, knowing how hard it is to reach Level 9. But after my first bite of the lettuce salad at Otis, I turned to my boyfriend and said, 'I have to review this.' It was literally an explosion of flavor. We ordered cocktails, lettuce salad, burrata, and pan roasted steak, and each dish was absolutely outstanding. In a city like NYC, with one of the most competitive culinary scenes in the US, Otis still manages to stand out. The drinks and those 3 dishes truly made our night memorable, and I highly recommend it!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmMGRydUJREAE",
+            "text": "Ok, the burrata is actually really amazing. So is the beet salad and the mussels. The service, open kitchen, brick walls, intimate  lighting, amazing but low volume playlist make up for the blackened bass and lamb shank being a little too salty and not as mind blowing as we imagined haha. But still, really amazing food."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3MDVEbTVBRRAB",
+            "text": "I had a fantastic experience at this restaurant! The food was absolutely delicious—the burrata and short ribs were a perfect 10/10. My server was incredibly knowledgeable and gave excellent recommendations, which made the meal even better. I’ll definitely be coming back!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyN3N2bU1nEAE",
+            "text": "Our server Brie was awesome! She was so sweet and attentive, and gave great recommendations based on our flavor preferences. I hope to see her when I come back.\n\nAnd then the food…omg 🤤 The burrata dish was so fresh and had so many complex flavors. The freshly baked grilled bread was perfect to sop everything up with, and they gave you a generous portion (I could’ve ordered more bread because it was that delicious but I had to pace myself). I had the pork shoulder pasta and my friend had the lamb shank, and they were both delicious and tender and cozy. Brie recommended the olive oil cake for dessert and it was phenomenal. The texture was light, the flavor was fresh, and all the extra little bits they added made every bite interesting (caramelized apples, pistachios, whipped cream, ice cream, and delicious crunchy bits of something I can’t remember).\n\nOverall this was an amazing dining experience and I can’t wait to return."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaNzlxWEp3EAE",
+            "text": "One of my all time favorite restaurants! The pork shoulder pasta is so yummy, its sweet and hardy but the flavor is complex. Its the ultimate comfort meal. Ive been several times and its always an amazing experience. The mussels are great and the bread is perfect."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfOFpTZDZ3RRAB",
+            "text": "Delicious food and great dining experience!\n\nSat at the chef counter and was lots of fun. Burrata was 10/10 followed by even better main dishes. Will 100% recommend to friends and family who visit NYC.\n\nCan’t wait to go back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1aXRmcEdREAE",
+            "text": "We actually came to NYC almost 2 years ago exactly and had the pleasure of eating here. My wife and i both have craved this place for those 2 years and was an absolute must visit this time. We invited a couple friends of ours who were equally impressed. Service was exactly what we expected, top notch. Drinks were strong and tasty. Food was delectable and extremely well priced. Strongly suggest getting a reservation in advance but they do have seating at the bar top on a first come first serve basis. I will never visit NYC and not come to Otis!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1ejhQUzlBRRAB",
+            "text": "Otis was a fantastic meal from start to finish. I came here for brunch with a large group, which allowed us to order almost everything on the menu, and not a single dish disappointed. I particularly enjoyed the Brunch Iceberg, which was a…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCLTVDSnFRRRAB",
+            "text": "I've had this place on my list for a while and my experience exceeded my expectations. We caught the tail end of brunch and sat at the counter.\n\nThe space itself is beautiful - the lighting, the open kitchen, the decor, all so well though out. The service was great too, but most importantly the food shined.\n\n- mushroom toast (4.5/5) this was delicious and very well balanced.\n- burrata (4/5) hard to go wrong here - the bread was so fresh. The tomatoes aren't my favorite base but it was nonetheless very tasty.\n- the Bloody Mary (3.5/5) - the drink itself was very good, but it was pricy for what you get and it didn't even come with a salt rim and had minimal garnishes.\n\nI'd love to come back for dinner - great for a date night or dinner with friends."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqdklLM3BnRRAB",
+            "text": "Been meaning to check this out for a while now and finally got to it, and now I’m kicking myself for not going earlier. Everyone’s right about the Mussels, they’re not to be missed. Burrata and Pork Shoulder Pasta were also a hit. Drinks are creative and tasty! This is definitely a restaurant where you’ll want to go back to try every item. Staff was very friendly, kitchen bar is a fun spot. Loved!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSdnRTdi1BRRAB",
+            "text": "Excellent food and restaurant. We had the burrata with pesto, sweet potato and tomato jam to start and both had the braised pork pasta as a main (and probably could’ve shared one pasta). Each dish was fantastic and had a great mix of flavors and were very generous in size. The restaurant has a great vibe and fun music and the service was fast. We had no reservation and were lucky to get seating at the bar on a Friday night. Will be back with friends and family!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPa3QyclBBEAE",
+            "text": "Everything we ordered to eat for brunch was amazing. The cinnamon bun was INSANE (fluffy, sweet and a little sea salt on top). My friend didn’t like her Bloody Mary but that was the only thing. Decor inside and out is a vibe. Can’t wait to try the dinner menu next."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxNk12aHFnRRAB",
+            "text": "Restaurant tasted amazing, and staff were very friendly. A great Italian influenced restaurant to go to with an eclectic profile. Braised pork pasta and the mussels are the best menu items we tried."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1MG8zZ1V3EAE",
+            "text": "Easily one my favorite restaurants in all of NYC. The food, drinks, vibes and open kitchen really set the stage for an incredible meal. If you can, either go with a group to try as much as you can off the menu or get a seat at the bar that overlooks the kitchen at work. It’s an incredible experience!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpMElfTGJnEAE",
+            "text": "What a scrumptious brunch in a lovely backyard on a crisp and sunny autumn day! Otis has been on my list for a year or so and I am extremely happy that I finally checked it out. Although I was more interested in the dishes on the dinner menu, I had to say all the brunch dishes exceeded my expectation! The burrata was such a pleasant and artistic dish, sweet, savory, tart, creamy and also starchy. The profile is so complex and sophisticated to make every single bite enjoyable. The beef hash presented lots of Asian flavors, from the ingredients to the spice. I like that the beef was cooked with kabocha squash. The potato pancake at the bottom was crispy outside and leveled up with the tomato sauce. You would think the mushroom was the spotlight of the wild mushroom toast, but it would not be that splendid without the smashed and flavored avocado in between and the grated grana panado on top. I wish the warm weather can last a bit longer or indoor dining opened up so I can go back to have dinner. I heard the dinner menu is calling me back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNadnM2VFVnEAE",
+            "text": "This was my 2nd time at Otis and it won't be my last.  The food was pretty good but heavily salted.  I'm a little sensitive to salt, but my entire party, 4 people, agreed that everything was too salty, particularly the steak. The next time I go, I'll be sure to let them know that we're on a low sodium diet! Otherwise it was a lovely experience."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCMWZ5T1p3EAE",
+            "text": "Ambiance is lovely. Service took a little while, but I didn't mind. The burrata here is among the best I've ever had. There was so many flavors that were spread perfectly. My entree was their Braised Pork Shoulder pasta and I loved it, the most unique pasta experience I've had. The olive oil cake was decent, not too sweet!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxME5YVTZBRRAB",
+            "text": "4 stars because the chairs outdoor is terrible. With price of the food at $30 in average it’s a shame to have the ikea wooden chairs in which you cannot sit for long. Shame shame shame\n\nGreat place with a very cool service! Cocktails are very interesting, the food is great and presentation is great not common for USA"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwenBPTjZBRRAB",
+            "text": "What a wonderful time here. Well our dinner is on a Tuesday night and most tables are pretty empty but the service is still 100%.\n\nLet's start with the ambiance. I love the decro with expose wall and just the right amount of lighting. We had a romantic dinner while our waiter only drop by a few time to make sure we have the water. Most people I saw are single diners at the bar and that is the best spot.\n\nThey have a happy hour bar only special. With a few dollar off, you can get mussel and a drink. Menu is pretty decent but ends around 7pm.\n\nOur food is amazing. We had the bread spread due to overwhelmed recommendation on other yelp reviews along with another dish. I went with the lamb for entree and it exploded in my mouth. I think it's probably better or comparable with all the high end spots. Well this place should be rated even higher if possible.\n\nThis is definitely a spot to impress."
+        },
+        {
+            "date": "3년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXNnZibnRBRRAB",
+            "text": "Situé dans le quartier de Bushwick cette belle adresse est surprenante. Le lieu est incroyable et l’accueil chaleureux. Les cocktails sont tous très bien travaillés et le personnel de bon conseil. Les plats ont énormément de goût et très originaux. Il y en a pour tous les goûts. C’est vraiment une adresse à tester."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXLTRUbUd3EAE",
+            "text": "Delicious food, short but good menu.  Super friendly staff.  We had a nice time at Otis.\n\nHighlight: Beautiful plating / amazing lemonade.\nCons: huge rat right outside the door that almost made me fall both on my way in, and out.  (I know it’s NYC)\n\nWill def visit again"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxeFl1dHR3RRAB",
+            "text": "Oh my god!! I love this place!! This is my favorite new american restaurant that I really wanna visit regularly basis.\n\nI have been here twice and I just loved everything. Food, drinks and desserts are delicious and, people working here are really friendly.\n\nThese are my favorite so far:\n\nVegetarian Spaetzle (with Oyster Mushrooms/ Spinach/ Crispy Shallots) - perfectly cooked spaetzle, flavorful sauce and I loved they added crispy shallots.\n\nGreen vegetable gazpacho - maybe some people think it is a bit intense, but I loved strong vegetable flavor.\n\nBraised Pork Shoulder - Solid! You will not get disappointed.\n\nS’more Brownie - I thought I was full, but my stomach definitely made some extra space once I smell the browny. It was not too sweet, and combination of whipped cream was perfect. (Quick update: If they have freshly made brownie, I highly recommend to get it!)"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLenBXZldREAE",
+            "text": "Make a reservation! They have outdoor and indoor dining and capped us to 90 minutes which was fair. The menu is limited but they have daily specials. Food and drinks were extremely prompt. Obviously try the burrata and the pork shoulder pasta. I loved the snap pea drink as well"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1OF9LTkJ3EAE",
+            "text": "one of the best meals I’ve had in a long time- my only regret is being too full to order dessert 😂 delicious, bright, beautiful looking, innovative food. sitting chefs table was v entertaining .\n\namazing cocktails, the grilled iceberg, sweet potato curry, piri piri chicken, and pork shoulder pasta are all musts."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoeHYyMGxRRRAB",
+            "text": "Bushwick bar and restaurant. This intimate restaurant has an open kitchen. Watch the chefs create photo worthy entrees and apps. You’ll be amazed at the ingredients they use to create flavorful food.  Don’t skip the olive oil cake."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBcTRHa1N3EAE",
+            "text": "My favorite restaurant, no questions asked. You have to come here to understand why this is a 4.9 restaurant. Each dish is a piece of art. Burrata simply melts in your mouth and the accompanying sauces add to the heaven. Cocktails have a…"
+        }
+    ],
+    "reviews_count": 81
+}

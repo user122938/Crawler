@@ -1,0 +1,481 @@
+{
+    "name": "Bomberino",
+    "place_id": "ChIJyWQjCABbwokR3qRlSePT5MQ",
+    "grid": "BK9",
+    "address": "392 Rogers Ave, Brooklyn, NY 11225, USA",
+    "rating": 4.8,
+    "user_ratings_total": 145,
+    "phone_number": "(347) 365-7380",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paUWVuSTFlVk5GYmtrMFpEUktkbXRIYkhoc2VGRRAB",
+            "text": "The Cortado with pistachio is so so good! The pastries were really good as well, especially the Cornetto with pistachio. I'll be coming back for sure. What a great spot to have in the neighborhood."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OWFgwMHlSR3hTVFZkSlZpMVdhWHBZY1RKeWNXYxAB",
+            "text": "Great sandwich , atmosphere and service is great !"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NNWMxcHhSR2RNVUY5c00yWlllbVpZTTFaS2VXYxAB",
+            "text": "Bomberino is one of my favorite cafes in Brooklyn to sit down and enjoy a cup of coffee with my work! The pastries are wonderful and every barista I have interacted with has been so kind and attentive. Highly recommend if you need a quick bite or need a spot to work for a few hours!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTlpuRk9VMmcxVkZWbVNGbFdUVWhYYkdWWlYxRRAB",
+            "text": "Discovered this place on Too Good To Go. Will absolutely be back. Super delicious pastries and very cute vibe. Staff was also friendly."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxMGNrdzBMV3hPY1RkSGFrODRWVXRNYlVVek9GRRAB",
+            "text": "Really excellent coffee and the staff is sooo friendly.  The cornetti is also fabulous, as is their focaccia.  All reasonably priced for the neighborhood.  The interior is also sooooo cute and cozy."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psUWRVcGxSbkJZVFdwUWFrRkxSM0ZuVm1adU9YYxAB",
+            "text": "A great addition to the neighborhood. It’s hard to find a good study spot that sells actual good coffee. Love it here"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trMWNreHhhMFZNVnpocU4zaHpRMnRNUVVkMlFVRRAB",
+            "text": "Bomberino has fantastic pastries, we tried the Sfogliatella filled with ricotta and a Cornetto, both items were amazing! They also have sandwiches and other pastries. Prices are very reasonable."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKbmNsUkhUM28yYkc5MVJ6SXROa2c0ZDNCV1ExRRAB",
+            "text": "Great coffee and pastries, super cute, and all the people who work there are so friendly and welcoming. I try to come back at least once a week."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBMmRETXlaamhLZEdselZsQXRYelk0V0hodVprRRAB",
+            "text": "The coffee and the avocado toast were very good. The prosciutto panini was not bad either."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxNlNUSnJOblJZUTBOblFuTjNOR3hCVkdSSGFuYxAB",
+            "text": "I only had wine here but the pastries looked excellent. I was looking for the perfect glass of wine (hence the food review) for my birthday and I found it. What a surprise -- exactly what I've been looking for in Prospect Lefferts. Also the staff was very friendly, not just to me but everyone who walked in. It's a really special place."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGVU1HTkpRMnh3Tlc0eGFsbHBWMWh5VEhkUUxYYxAB",
+            "text": "Uno dei miei nuovi posti preferiti nella zona!  Friendly staff, great coffee, authentic Italian vibes, realllly good wine and really good sfogliatella and focaccia"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WYVZFOURZM2RHYVhWTmFHSkVWMEU0YlRCbVlVRRAB",
+            "text": "Perfectly chilled wine and vibes. Uriel was so kind and attentive without being overbearing, he has a wonder warmth to him. We had the most delicious glass of wine and cooled off inside. Delish pastries, clean as can be."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJR3AtdS1qcWVDZkNBEAE",
+            "text": "Excelente lugar para tomar cócteles, hablar  y también comer mientras compartes con amigos"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMVGNzZGVFODYtblFREAE",
+            "text": "We celebrated my birthday at Bomberino and loved it so much that it kind of turned into a thing… we just had to celebrate my husband’s there too. 🥂✨\n\nThere’s just something about the space — the drinks, the aperitivo-style bites, the energy — that brings people together and makes any hangout feel a little extra special. With a huge plus of having such an amazing and welcoming staff. It gave us a tiny taste of Italy right here with our friends, and we couldn’t resist doing it all over again.\n\nNow it’s officially our go-to for a good time. 🍷💛"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNLVR5SlhpN2FMZDFRRRAB",
+            "text": "Loved my lunch here last week. Great spot for coffee, the pistachio cream added is wild! Get the prosciutto and mozzarella sandwich and you got A perfect lunch"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGUlFYSlNVRE5hV0cxUFNuVXhVWGRLYW1sWlpsRRAB",
+            "text": "I have been a patron of Bomberino since they opened, picking up a cornetti and carrot bar post pilates has become one of my favorite weekly rituals! Their staff is so kind, and is clear that there is thoughtfulness and care in everything they serve.\n\nI popped in for aperitivo for the first time today and it was so lovely. I ordered wine which was delicious and most importantly, COLD (no one wants room temp white wine!!) and also a three cheese plate - which came with bread and jam - very good!\n\nThe menu is filled with other bites and desserts. I am looking forward to returning to try more. Bomberino is great in the morning, but you must check them out in the evening as well!"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfa05qOFFBEAE",
+            "text": "Brooklyn is Brooklyn because of places like this. A chic fusion of a café and a bar serving unique items like the Pistachio Ciao bomber Cortado."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLdnNrNzZIaF8zVlZ3EAE",
+            "text": "Everything about this place is lovely. Lovely sandwiches, lovely cappuccino, lovely pastries, and lovely service. Just lovely."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMbWdwOHFjdHQyNVF3EAE",
+            "text": "The staff is so nice! So chill and beautiful place. 🙌🏻😁🥰…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQM3o3NzZ5bXJPcFZnEAE",
+            "text": "Nice vibe with modern design, great music, good drinks and friendly staff."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLRFpzYWV2bUx1MHdnRRAB",
+            "text": "Great lattes and incredible pastries, specifically the sfogliatine and the pistachio cornetti. The prosciutto sandwich is great too. Beautiful little space."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJNm93cXFhdDZpSE5BEAE",
+            "text": "The pistachio ciao bomber is so good, real taste of pistachio and they’re generous with the pistachio cream"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJR0EzNTNndWE2NE5nEAE",
+            "text": "i love u"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZdXBpeVh3EAE",
+            "text": "Unbelievable lattes and Italian pastries"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURveC16TjB3RRAB",
+            "text": "I Really want to like this place, but sandwich left me cold for 18 bucks. A lotta bread, not a lot of cheese. Not really melted"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvektublh3EAE",
+            "text": "i swear the best coffee in all of nyc. The technique of how they make the latte is an artform. There should be lines out the door. Get it before theres a 1 hr wait"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvNk5uMFVREAE",
+            "text": "Overall rating: 4.7\n\nI’ve driven by this place a few times while on the bus and have been wanting to try it for awhile. I knew it had very specific hours (aka it closed at 4pm), so I was kinda expecting it to have breakfast items when I arrived on a Sunday around 11am. It’s a full-on bar which I wasn’t expecting from the outside and the hours.\n\nI ended up only ordering the Caprese panini, total $17.50. Not, not surprised of the cost BUT it’s kinda really big. I was happily surprised. I want to come back and try again to see if it’s worth the visit. It’s about a bus stop away. But it’s super cute! And it has some really fun pastries.\n\n1. Caprese panini"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJMzZLcEpREAE",
+            "text": "Recommend spot to visit in Brooklyn. The coffee and the service is amazing 🤩"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJbE1mN2tRRRAB",
+            "text": "Beautiful space, loving staff, delicious coffee. Out door seating for spring and summer. Warm lighting for fall and winter. A sweet place to connect with yourself and others : )"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRcF8yd3l3RRAB",
+            "text": "What a neighborhood gem!!! The food quality is top tier and the staff is super friendly.\n\nThe desserts stole the show.\n\nPlease come here for good vibes and good vibes only."
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYaHNxYkJ3EAE",
+            "text": "Probably the best cannoli I’ve ever had in New York. All the espresso drinks are delicious and the staff is so warm and welcoming. Highly recommend this place ❤️"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnay1YUDl3RRAB",
+            "text": "What a beautiful cafe and such warm staff and vibes!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBcnUyckxBEAE",
+            "text": "Love this place. Some of the best wine in Brooklyn and the food is good too! Good for a date on the weekends or just afternoon coffee! Kind and lovely people work here!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBM08teDdnRRAB",
+            "text": "wow. coffee was great and so was my pastry. the barista/baker was kind and the space is beautiful. lobster tail pastry is excellent"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBMGZyWXVRRRAB",
+            "text": "Gloriously Chiquita <3"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYNGVULW5RRRAB",
+            "text": "Incredible coffee, great sandwiches, everyone is super lovely. So lucky to have this place in the neighborhood."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmX091c093EAE",
+            "text": "Excellent cold brew and pastries. Reasonably priced for the quality as well."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmejZyQ19RRRAB",
+            "text": "10/10"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmeXVqRU93EAE",
+            "text": "Stopped in yesterday to buy a latte and cannoli. Absolutely delicious and thoughtfully presented pastries! (Also I have had the berry cake, pistachio cake, and tiramisu) yum! I learned about this place initially through my friend showing me restaurants and coffee spots in PLG area and have returned a few times since. I was going to try their focaccia this time but they were sold out for the day, which is a good sign that they are in high demand. Very warm and friendly staff, Alex and Norby are great! The place spatially is a more intimate atmosphere so I could understand during peak hours it might get a bit packed. I have had a great customer experience every time I have visited. Looking forward to coming back more regularly and try that focaccia!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2eDVLS3lRRRAB",
+            "text": "Thoughtful cute little bar with amazing coffee. Sfogliatella was super fresh and legit. Come here come here! Cute bar seating available"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2aHVMVWhRRRAB",
+            "text": "Great iced oat latte and pumpkin bread! Super cool vibe and Alex was so nice and helpful. Definitely recommend!! My new favorite coffee shop."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2aUkyRTZnRRAB",
+            "text": "Coffee n pastries are rocking"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzbDhQdWNBEAE",
+            "text": "Super snug little place, but the staff is awesome and the treats are super tasty. Grabbed a cappuccino and a pastry and cookie while I was walking my dog and everything was excellent."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzbHFHY2lnRRAB",
+            "text": "Great spot. Tasteful atmosphere, good coffee, great tunes, and the staff are pros"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzaU1fMG9BRRAB",
+            "text": "Excellent food, wine, and coffee. It is a small space, but Bomberino does a lot with a little."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzM0p1VTlRRRAB",
+            "text": "OVERPRICED! I asked for the largest size available, no one showed me it would be a tiny cup for $7.89!!! STARBUCKS IS CHEAPER FOR A VENTI! I would love to support local and usually do. that’s why I came here- but they should be ashamed. A Brooklyn coffee shop $8 for coffee. And they ask for tips!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYOThUdWNnEAE",
+            "text": "The wine and cheese selection was spectacular. I loved the music, the vibe, and the service. I would definitely come back for a wine night with my friends!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYNDRLcFdREAE",
+            "text": "Love the chai latte here, and the cornetti. The servers are always nice, the music is good, and the interiors are A+. All around a nice spot to drop by when you need an energy boost"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYdU5PaFB3EAE",
+            "text": "Me ha parecido una joya escondida con muchísimo estilo, comida deliciosa y excelente servicio. Esta a 7 minutos de Prospect Park y me parece una parada necesaria por un buen moccachino y un sándwich o postre. Prueben el pastel de pistacho. Es un sueño.\n\nEs pequeño, así que recomiendo ir con la mente abierta a que tal vez no haya sitio para estar dentro pero igual vale la pena ir."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYbnUtWWFnEAE",
+            "text": "went this morning and waited 15 mins in line, only got 2 drip coffees because it took so long. Coffee was very bitter and tasted old/not fresh. I’ve come before and had great coffee but was disappointed by the drip taste and the wait."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMNlBxQml3RRAB",
+            "text": "I am very impressed! Hooray and Huzzah for Bomberino! They’ve managed the almost impossible , to have an old soul even on day one.  Tiny space forcing a familiarity and coziness. And Bomberino is absolutely dripping with the classiest, spot on, DIY, design and style…. Friendly, sunny and adorable, they’ve really captured some magic in a bottle here. This place has great vibes! I wish them all the best. Oh and I didn’t even get to the coffee and baked goods. Top tier, both! Really really impressive soft-open ! Congrats Bomberino! Thank You and welcome to the Neighborhood!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUbzVHN2pRRRAB",
+            "text": "Plain cornetto is so good. As well as focaccia.\nGreat vibes and very cute spot!\n\nWill be back as soon as they’ll start with their aperitivo italiano.\n\n(Updated review as of June 2024)\n\nBomberino is an Italian café, bar in the heart of Prospect Lefferts Garden that serves light breakfast in the morning with great coffee and aperitivo in the afternoon. Opened by the team behind Brooklyn DOP and Caffè De Martini and inspired by the term “bar” in Italy, Ci vediamo al bar!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuZ1lEZUZREAE",
+            "text": "Delicious dirty chai and their veggie focaccia is to die for!! Customer service is always great and the atmosphere is just perfect. Before heading out make sure to grab yourself something sweet from their pastry options it will definitely not disappoint!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3NUxlUl9BRRAB",
+            "text": "Vibbbbbeeeee. It's such a cute and quaint shop....cafe?? Anyway! I got tiramisu and Pistachio ricotta slice! Tew good. The Pistachio ricotta reminds me of Pistachio baklava but softer because it uses angel food cake( I think.\n\nTiramisu is a 10. I can't really compare it to others cause I haven't eaten it in a while. It seems that the ladyfingers are actually cake so taking a bite melts in your mouth. The masxarpone part is a bit mild in flavor so it's not overly sweet. Kind of like buttercream?? Or maybe homemade whipped cream??\n\nAll in all 10 out 10! No complaints."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMbFBXQTN3RRAB",
+            "text": "Best coffee ever ! Delicious fresh pastries 🥐\nService is kind and authentic ❤️🌈 this is an amazing place."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiNFp6cHdBRRAB",
+            "text": "What can I say, Italians know their coffee. Great service and incredible pastries. So happy about this addition to the neighborhood!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMM01MM2VnEAE",
+            "text": "Great atmosphere and great coffee\nThis is our new local. Thanks to Camila, Felipe, and all the amazing staff. Que Viva, Bomberino!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMNzYtYnRnRRAB",
+            "text": "Super cute small space, definitely feels cozy, the owners were there when we went for coffee and were very nice! Get their coffee straight from Italy. The baristas were also great, responsive and coffee/tea was on point (have to emphasize this because coffee spots always burn my tea!)\n\nWe got one of the pastries and a salmon avocado, super fresh and light. Definitely visit if you’re near!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3dklqQ25BRRAB",
+            "text": "Very nice ambience, Europe vibe in Brooklyn, beautiful Italian pastries, they also serve salads and sandwiches like I’m."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3OGZlOHVBRRAB",
+            "text": "I love this place, and I have high standards on pastries. They have a commitment to quality and lovely baristas :).…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyOHZEcGt3RRAB",
+            "text": "Super cute little Italian coffee shop. Smells great when you walk in."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURia19peXZBRRAB",
+            "text": "Fantastic little spot with excellent coffee and even better food. Felipe and the rest of the staff are super friendly and really careful about the little details that make you want to come back every day.\nThe plain cornetto is already fabulous, but highly recommend getting it filled with prosciutto & mozz."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIcHZUbW1RRRAB",
+            "text": "Wonderful staff and atmosphere. ~ so happy there is another cafe /place to work in the neighborhood. The pastries, focaccia, and sandwiches are fantastic 🤩"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMeWNmYmlRRRAB",
+            "text": "So happy this opened here! The coffee is excellent and the pastries are really good. Love the tiramisu and the ricotta pistachio, cant go wrong at all with any of the options. Everyone that works here are very nice and efficient."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMOC1iYUZ3EAE",
+            "text": "The Italian pastries are unique and delicious. The baristas make the espresso drinks using a premium Italian La Marzoco machine, so every drink will have the highest quality espresso. The team is passionate and warm, providing excellent service with a smile."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiaWN6NG9RRRAB",
+            "text": "Tiny spot. Very expensive. They display whole foccacia, but it's actually $5.50 for a slice, not the whole loaf. The coronetti are not filled, they toast it and add jam/nutella, which I didn't realize. I asked what kind they were, and the employee pointed to the wall behind him. He did not explain they're all plain, and here are the toppings we can add. Disappointing to end up with toasted, slightly burnt pastries when I wanted them to take to go for later. I wish they had asked if I wanted it toasted. On top of that the employee was touching the cash register, fist bumping customers, and then touching the food--definitely not proper food handling."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyX2QyM2dnRRAB",
+            "text": "Food/pastries 5 Stars. Coffee however leaves a lot to be improved... especially for an Italian-owned place this is surprising to me but everything is way, way too milky. No matter what I order, I end up with coffee-flavored milk. Cappuccino sizes (even to-stay) are entirely too large, so it's all milk. Iced latte is also too big, so it's all milk. Cold brew is kind of weak, and if you add milk, you guessed it. I hope they tweak this to fit the more true Euro style for espresso based beverages (though I realize this might be tough to do while also trying to charge $7 for a bev). Until then, will stick to Hamlet for my caffeine and Bomberino for the sfogliatelle and focaccia, because those truly are excellent."
+        }
+    ],
+    "reviews_count": 67
+}

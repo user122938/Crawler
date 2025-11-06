@@ -1,0 +1,600 @@
+{
+    "name": "Pasta Louise Restaurant",
+    "place_id": "ChIJL3A6GhNbwokRqLfp_VxiKUw",
+    "grid": "BK6",
+    "address": "1114 8th Ave, Brooklyn, NY 11215, USA",
+    "rating": 4.4,
+    "user_ratings_total": 709,
+    "phone_number": "(347) 725-3883",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsMlpEWlZiR2hHVmw5eVFUQTFRbnBzVWpWVlYzYxAB",
+            "text": "School"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RMVFYQkljVE0xVlZWWmNEVjBWbGRhTWtFd1lWRRAB",
+            "text": "Delicious and very reasonable"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210UWRXa3dXVVJEVEhOUVJFUXpVRzUzZURsTU9XYxAB",
+            "text": "Yummy! Cool concept with the pasta of the week!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCZmMwcEJZMDFSVEhsYVZEVjFVRFk1WWxOeVdHYxAB",
+            "text": "Excellent service and a great atmosphere. Their spicy panchetta was unbelievable and makes me deeply sad don't live closer to go back all the time."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfajhHaTBnRRAB",
+            "text": "Had a great experience here. Started with the whipped ricotta and brussel sprouts. They were fine but we were not particularly impressed with either. Didn't love the artichoke app. The cacio e pepe and wild mushroom pastas were great! For dessert we got the banana bread with caramel gelato was a nice combo but the highlight of dinner was the tiramisu which was top notch!! The servers were extremely nice and welcoming and very patient with our toddler."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JNGJtcFFjVlpRTkUxZmIwNVlXbUphTFcxTWFtYxAB",
+            "text": "I loved the vibe of the restaurant and the service was top notch. The focaccia was simply stellar; the first bite was incredibly memorable. Though my main pasta, with the Spicy Red Pesto sauce, left much to be desired. Perhaps it was too cheesy; leaving almost a nacho-cheese like aftertaste? I wasn't able to finish the Spicy Red Pesto pasta even though I was hungry enough."
+        },
+        {
+            "date": "4주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkUWEzVmZhRmd6VVhFMWJsODJjRE52VVRCaVdFRRAB",
+            "text": "Incredible whipped ricotta focaccia and Cacio e Pepe!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210RGNWRnRUbVJuT0V0aFFtTnFSbXhRYWxsMmNVRRAB",
+            "text": "Homemade delicious pasta. Portion are descent , service was amazing , we got there around 5PM the place was always empty in couple of minutes the restarting was full even a line outside waiting to be seated, will definitely come back"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3MlpEa3hWMlZpTUY5MU4xQTNNa3ByY3pGVVVrRRAB",
+            "text": "Awesome all around"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWdE1VRm5WRmMxUTFjNWJqVnZVbk5VUXkwMVpuYxAB",
+            "text": "An amazing place to eat and have a good time. So glad is in my neighborhood"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ScWIyZzVNVmhvVUZOQk1tbGxlSGhNTVhodlNtYxAB",
+            "text": "Best pasta I've had! Full of flavor and texture. Plan on going back and trying all the sauces.\nDrinks were also very well made!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OVk5sZG9iV0pDVlVwUFpqVlZUamRKZEVGaVdrRRAB",
+            "text": "Love pasta Louise! It’s a great family neighborhood spot but also good for date night. The staff is great and I love seeing all the families enjoying great food. This is the one restaurant my 3 year old knows by name"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkWVp6QnpjMUl0V0hBdFNrbE9aMDR6YTB0aWNFRRAB",
+            "text": "Ate here last night around 8 pm. The sun has not risen yet I am spending the morning in the bathroom. Had shrimp and after one bite thought... that was an odd texture. Upon reflection I should have just cooked pasta myself."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25abFRGaHRPRk5NUmpGaVpEazJUblpvZUVKd2VWRRAB",
+            "text": "A gem. Amazing pasta. I’m salivating just remembering it. Cap your meal off with a cup or cone full of their weekly soft serve flavor."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoWVNubDBZbE5tTkdsVGVVbzFNbEJFV0hwaldIYxAB",
+            "text": "Pasta Louise has the perfect atmosphere for gathering of friends and family, date ❤️ night and special celebratory dinners! The bar is spot on, the food warms the belly and the staff doesn't allow you to be a stranger. Worth a visit from those near and far. Wish I lived closed enough to be a regular!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pObU5FNUdiMWhzTTFGVllsaDFTR3BDVnpSaFJuYxAB",
+            "text": "I won’t be coming back. There are simply too many good Italian restaurants in Brooklyn to waste a night (and a check) on mediocrity or worse.\n\nLet me be fair where fairness is due: the shrimp scampi was better than average. Not just edible, not merely decent, actually better than most I’ve had. That was the high point. Unfortunately, from there, the meal took a devastating turn.\n\nThe sausage and peach Ragu was an outright failure. Sweetness and richness can dance if balanced well, but this dish? It crashed through the floor. The sweetness overwhelmed, the sausage underwhelmed, and the texture clashed. It was the culinary equivalent of a blind date who brings their ex along.\n\nTo top it off, I need to invoke what I call the Dog Protocol™: when leftovers don’t even tempt me for a second round, they go to my dogs. In this case, that Ragu skipped any consideration, it went straight from the plate to the pups. And let the record show: they didn’t hesitate. They devoured it. But that says more about their lack of discernment than the dish’s merit.\n\nThe space is charming. The staff is kind. But no amount of ambiance or goodwill can rescue a dish that shouldn’t have left the kitchen.\n\nBrooklyn has standards. So do I."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SaU0wNDRTbGxDVVRNMGJrSkpUWFJrWW1aMGMxRRAB",
+            "text": "If you’re a fan of pasta, this is one of the places you must try. FYI, Pasta will be served after 5pm. Worth to wait"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZeVdtMHRPRVV0WjNKUFJGcE1VbVpSYTA1dVJWRRAB",
+            "text": "Service is always a bit slow, so not rush and enjoy the conversation 😉\nVery kids friendly"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jMmFGZ3pRMFJCYmswM2VraGZZV2h5ZWkxQmVsRRAB",
+            "text": "Visiting Brooklyn the evening before my half marathon, we stopped by Pasta Louise for dinner.\n\nI had booked a reservation for Friday, but as luck would have it, the two of us were seated right away as walk-ins.\n\nQuick note on parking: there is free street parking. We managed to parallel park nearby, but others may have to circle around a bit.\n\nThe ambiance struck me immediately: warm, inviting, and cozy, with more seating than I expected thanks to a neat little outdoor patio.\n\nStarters:\nOur server pointed us to the specials, so we began with the Stracciatella focaccia (seasonal). The bread, layered with melted cheese and herbs, was excellent — quick to arrive, light but flavorful, and frankly a bit addictive. I held back after a couple of pieces, saving room for the real test: pasta.\n\nMains:\nMy dinner partner ordered the Spicy Red Pesto — sun-dried tomatoes, lemon zest, garlic, Calabrian chiles, sunflower seeds. No option to add shrimp, so they took it as-is.\n\nI went for the house favorite: Cacio e Pepe — cracked black pepper and salty pecorino — with burrata and arugula added on top.\n\nBoth dishes looked modest in portion at first, but appearances deceived; they were filling in just the right way. I tried both but, unsurprisingly, preferred my own. The pecorino on the Cacio e Pepe carried the dish: sharp, savory, and absolutely sublime. I couldn't pin down the pasta shape — penne, or something close — but it hardly mattered. Each bite was balanced, deeply flavorful, and worth savoring. For me, this easily places in the top three Italian restaurants I've experienced.\n\nI restrained myself a little — half the burrata, a careful share of bread — mindful of the half marathon ahead the next morning. That race went spectacularly; I placed in the top 10. Pasta Louise played no small role in fueling that performance.\n\nVerdict: Pasta Louise is a gem of Brooklyn dining. Cozy atmosphere, excellent service, and pasta that borders on transcendent. I'll absolutely return when I'm back in New York, and I recommend it without hesitation to anyone in search of genuinely excellent Italian fare.\n\nLast visited: August 22, 2025"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJLUpLcGlRRRAB",
+            "text": "Hands down, amazing! Wow. Everything we tried was so darn good! The salad, the focaccia bread, the pastas, drinks, and desert. So fresh and so flavorful. Say yes to anything whipped!! My goodness, they whip anything into the most delicate clouds. So light, so creamy and smooth. Definitely coming back to try more!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4NGJsRnhSRkZMY2tNME5XOXZXWFZ2ZGxaVlJXYxAB",
+            "text": "Food was grest! Service was just alright. Get the pesto pasta and tiramisus!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKeFZHbENUbWhoY1V0V05YRkpVWGQxY1hObloyYxAB",
+            "text": "THE BEST pasta, some great creative varieties in pasta to choose from. Thanks to Juan for helping us choose a delicious pasta and suggestions on cocktails. Dad’s red pepper sauce was a top one! Focaccia bread is a must try here. Some great gin based summer cocktails and a dog friendly outdoor seating. Love this spot!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oRVJUa3hRVWRsU213ME5VbDBaSEZXYjA1T1NXYxAB",
+            "text": "this place is NUT FREE AND I LOVE IT! if you have a nut allergy, COME HERE YOU WILL HAVE NO PROBLEM!\n\non a different note, the pasta is great, the vibe can be intimate or chill and the service was SUPREME. highly recommended."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214WldITk1WVzluT0hscllXYzRNRUp3Tkcxa1ltYxAB",
+            "text": "Awesome food and atmosphere."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOU09GSnRMVEV3UlhWNU5EUXhRMDV4YmtWdGRIYxAB",
+            "text": "Atmosphere is great. Service attentive. They make one pasta shape a day, which is fine. A specific feedback, I ordered the add-on of \"crispy prosciutto\" which came as dense smaller cuttings. I think some people seek out richer food, but it was rather heavy for me."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psNlVsYzJkakl0Y201RVJrOTNVRVJwYzNGcmMxRRAB",
+            "text": "They are treenut and peanut free, which is amazing!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMVFsZHNlV2x5ZDFOeVowYzFia2RKYmtod09HYxAB",
+            "text": "None of this food knows itself; same with the drinks. Surprisingly bland, sparse, and either flavorless or highly imbalanced across the board. Cocktail was illogically salty (no mention of salt in the description) and ricotta focaccia tasted like nothing. It was almost impressive how non-committal every dish was.\nService was excellent, and surroundings were cute, but this is clearly one of those spots that mistakes referencing a thing for the thing itself. (Italian food is not a brand; it's an understanding of generosity, abundance, and pleasure).\nFood and drink-wise it was expensive, insubstantial, and bafflingly flavorless. Thank you for the kind, attentive, and efficient service, though."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOR05WVTNaR3BrYlY5cGMwRmxjVXBPZEZoT1dHYxAB",
+            "text": "Delicious pasta, loved it"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SQmFGaFpVM0JHT0ZWQ1VWUlZXSEJ0UmpsSVprRRAB",
+            "text": "Service was attentive but the food was not good. Starters were ok but the mains were so so bad. Both of our pastas were really bland and the parmesan they used was like plastic. Maybe the good ratings are from parents because this place caters for kids but if you’re looking for good pasta, go elsewhere!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWYVptVjBNVWRpUlRaWWRWbFhVWGhEZHpWS09GRRAB",
+            "text": "Possibly worst pasta I’ve had in NYC. Overpriced. Service was mediocre."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5dFZtZHdZM0JMZERKMVEyWTRUSGRGV1dOTk4zYxAB",
+            "text": "We love this place. Great food, service, and vibes."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25STFRVVm1ObVJUTFU1dGR6aG1abTA0VWxwRFgyYxAB",
+            "text": "Hands down the best restaurant in Park slope!\nWent in with the family and had an insane meal. From the appetizers to the main dishes, the food was just incredible. The service was amazing from beginning to end. Highly recommend!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxcWRUbHhXWGRxV2pONGMyTm1TbTAyTTB0VmNIYxAB",
+            "text": "Another fantastic meal. so glad that the sausage peach ragu is back! Do you need to add the burrata? no. Should you? Absolutely. Appreciate that the service is as good as the food."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WR2VWbElNMjFUTFhKWmRsRkxja3hvT1dWUGVtYxAB",
+            "text": "As neighborhood residents we've enjoyed dining at Pasta Louise ever since they opened. I think we've tried almost every menu item and have been consistently pleased beyond measure. Their sauces are all homemade and based on recipes handed down in the family of owner Allison after whose mother the restaurant is named. This place is the real deal, offering time-tested great dishes, from small bites to full meals, along with a wide selection of beverages, wines and a full bar. The ambiance is relaxed and the service is friendly. You'll feel like part of the family.  Whether for brunch, lunch or dinner, Past aLouise is a sure-fire winner!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pScGFXOUNSWE4yTXpaWFVGbGxTbDl3VlRkVU5tYxAB",
+            "text": "Pasta Louise is my favorite! I ate there with my family and the food was delicious! I can’t wait to go back with my mom and sister! And Allison the owner is the best! So excited for our next visit <3"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OVFIwRmpUbXhPUlVSeWFFUlRSbUp2TmxsRlYwRRAB",
+            "text": "Everything about our experience here was perfect!!! The food, the staff, the atmosphere, the owner, Allison, even came over to our table and took the time to say hi and see how our meal was, she was delightful :) I am an annoying picky eater, and they didn’t even make me feel like I was an inconvenience for being annoying!!! They couldn’t possibly have been more accommodating or understanding. I wish we lived closer and could go more often. If this is a local spot for you and you haven’t been there yet, you are definitely missing out on great food and a great night out!!! Run, don’t walk…and enjoy :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRNVJrbFpPRnBITUZwdE1rVnljR3BaUWtSUWVFRRAB",
+            "text": "Pasta Louise is consistently delicious —in particular the house‑made cavatelli with sicilian pesto bursts with perfectly-cooked texture and flavor in every bite. And the salads are surprisingly next level for an Italian joint! The cozy and bustling atmosphere—with standouts like whipped ricotta on focaccia, and a vibrant bar—makes it the perfect spot for a comforting meal that feels familiar and fun."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wU1Iwd3RRVlZzVW5OdlozcFNlWEJGYW5kTlFuYxAB",
+            "text": "Reminds me of the pasta I had in Florence, Italy!    Amazing food, charming atmosphere and warm and friendly staff.   Highly recommend Pasta Louise!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aSFlsZFdWbFJGWDA5WFRHaE1aMVp1TUcxVVowRRAB",
+            "text": "The pasta is ridiculously bad. How do you even call this oily insult of Italian cousin pasta?! And way overpriced. Stay away."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOVldWVk9hblpGVTFWMlJrczVlRVpvZGxWVGJVRRAB",
+            "text": "Incredible food, drinks, and service!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaTWIwZ3lZVlZPYlhwNlFpMDBXbUppUVZseVdYYxAB",
+            "text": "Great addition to the neighborhood! Food is always top-notch and the service goes the extra mile. One of my favorite spots to eat."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kZlVFcExjREkxY0hSbE1raHNNbFp0UVdKb1QzYxAB",
+            "text": "Pasta Louise is a story of perseverance and community. The food, the attention to detail and their dedication to the park slope community is commendable. Alison and team continue to impress… and their GF pasta is soooooo goood!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SYVdWOUhiRTF4Wm1GTGJHVTBlRVpITkdwRlRrRRAB",
+            "text": "This is the only place where I come have a meal and I think about for like a week after the fact!!! I’m gluten intolerant and the only gluten free pasta that compares is what I’ve had in Italy. So delicious and the wine list is amazing!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xacmQyMDNkVWx1VVZCdmRuVTNiREJ3UmxGWlVWRRAB",
+            "text": "Pasta Louise is an absolute gem!! Thia fabulous spot brings authentic, delicious Italian food made with the best ingredients and even more importantly, made with love! I've known the owner Allison since our editing days in the early 2000s, and you couldn't ask for a better friend or biz owner. She takes community involvement to the next level, starting local scholarships like Pasta Rose for deserving locals who've lost a parent to cancer. That's just the beginning.  If you need any more evidence of the wonder of Pasta Louise, just step inside and prepare to be wowed.... by the food, by the service, and by the beautiful family that Allison and her team has created. Mangia!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOMVEwSldkWFZmYWt4WWJsUlhTbWRoVldOcFJtYxAB",
+            "text": "One of the best restaurants in Brooklyn! Their bolognese is incomparable, cocktails are amazing and the whipped ricotta is addicting. On top of the stellar food, the staff is always friendly and attentive. The owner is one of the kindest people I’ve ever met and raises funds every year for a scholarship she has started to assist kids who have lost a parent to cancer. Pasta Louise is a no brainer!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoc2RITlVUbmwxU1RKMVZWSXdjMHRQWkdadlRWRRAB",
+            "text": "A neighborhood gem!! Highly recommend!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzd1ltUXdTMWR0Y0ZkaFNtUjJVMU4yTURndFNXYxAB",
+            "text": "Great food great service"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5b2JIVmtXRzR5WWpSYVdYUlNUWGRWZWpOdlgzYxAB",
+            "text": "This spot has been on my list for a while, and wow—was it worth the wait! From the cozy, inviting atmosphere to the mouthwatering pasta and genuinely warm, friendly staff, everything exceeded my expectations. Every bite was delicious, and the service made the whole experience feel extra special. I’m already looking forward to going back and trying more of their amazing pasta dishes! 🍝"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201SGVERlZSMmswUlc1WGVtWkRXVFF5U2tJdE5YYxAB",
+            "text": "I am a huge fan of Pasta Louise and it’s my favorite restaurant in the neighborhood hands down. It’s such a fun, welcoming environment with delicious food that doesn’t break the bank — which is hard to find in NYC! Pasta Louise, you’ll always have my heart ❤️"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaUFRVWlhZWEpwYTBSd1gyRk5aVTFyVm5aWWRGRRAB",
+            "text": "Fresh pasta served happily with good ambiance, good service & hospitality, good drinks, good prices & good food!\n\nIf you’re in the area pay a visit, if you’re near the area but you got adulting to attend to, order from their take out storefront a few blocks over ahead of time so it’s ready for your delight."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLMjluT3JWcHVfWVBBEAE",
+            "text": "Absolutely wonderful experience! I went on a Wednesday afternoon during lunch. Was greeted by the owner and promptly seated at the bar. Nikki was the bartender and made the most perfect spritz and espresso martini I've ever had. I enjoy how they change their pasta shapes, which tells you its made fresh daily. Best pasta I've had in New York by far. I will be back, with friends!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VQS0F4Y3V1MUs2TE5BEAE",
+            "text": "Hi, cute little spot! Servers and host amazing!\nThe place was packed and everyone was having a good time.\nThe Louis’s shrimp scampi was amazing!! Got about 5 shrimps and the Sauce finger linking good.\nI got the peach ginger mocktail, I had 2 it was so refreshing.\nI didn’t like that we don’t get to choose our own pasta. Chef choses 1 pasta per day thus my kids didn’t get to choose spaghetti how they wanted it. They didn’t enjoy the food.\nI got Dad famous red pepper sauce with the prosciutto. I did not enjoy it. Overall okay , I would definitely return to try more food options."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VKaVJ1Y2JSNV95dzlBRRAB",
+            "text": "I got their ‘best seller’ Cacio e Pepe and added the crispy prosciutto. I found it way too salty and this is coming from someone who likes salt. The pasta with meatballs wasn’t as salty but lacked some flavor. The burrata we added was a small portion. The whipped ricotta was served on focaccia and was a good light starter to have.  During the summer months, I’d recommend having a reservation especially if you want to sit outdoors because we weren’t able to get a table outside or be placed on a waitlist. They have a couple high top tables just outside the entrance as a second option."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBaDVuakN3EAE",
+            "text": "Happened to be in park slope again and never forget to visit Pasta Louis. Was there for lunch\non a cold day, and it was the perfect cozy spot. It wasn’t too busy, so the food came out quickly, which was great.\n\nI had the Whipped Ricotta Toast and Dad’s Famous Red Pepper Sauce Pasta—my third time ordering them, and they were still just as amazing! The pasta is rich and flavorful, with the perfect balance of spice and creaminess.\n\nMy partner had the Carbonara along with an Old Fashioned cocktail, and he really enjoyed both. The pasta was creamy and well-balanced, and the cocktail was well-made.\n\nDefinitely a spot worth coming back to!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJOUwtZHBnRRAB",
+            "text": "A neighborhood staple - you can’t go wrong with the pasta here. For the price you pay (especially for the area), I was pleasantly surprised with the portions they gave. Everything was delicious and the ingredients were very fresh. I enjoyed my chicken parm pasta which came with a thin cutlet. Would definitely seeing myself coming back here. Simple yet fair in their price and quality!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKYjcxYXpjbHF1cmZREAE",
+            "text": "Very delicious and tasty. Good service! Caco o Pepe is amazing and so are the other meals. The salads are delicious too. Although they use plastic cups and rewash after people drink which is the not best part about it so you might wanna take your own water but that’s really it"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VNdmc0TkdtbHJxeUx3EAE",
+            "text": "I got strata that left mixed feelings : good crusty and tasty outside with a soggy and tasteless inside. Maybe try putting more sausage and veggies inside? My friend got a super small glass of aperol for good 16 bucks. Also I think the presentation is important and even if the dish is made in the oven it deserves to be wiped before being served. Instant turn off at least for me. The place is nice though. Tips minimum 20%"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKbkQ4SUwweTRPVnFBRRAB",
+            "text": "Went for an early dinner. Made a reservation but didn’t need one.\n\nHad the seasonal focaccia and the pasta special, a spring pesto. It was delicious. Fresh pasta, complex sauce.\n\nService was friendly and timely. I’d like visit again to get another dish and try out some of the house cocktails.\n\nIt was a pleasant experience and affordable for a filling Friday-afternoon-for-two meal."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLeVo4LURYbi1YWXVBRRAB",
+            "text": "Al fresco dining at its best. Service was great and the food was on point! You can never go wrong when choosing this place for pasta."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VLU0toZnk2OS12bzd3RRAB",
+            "text": "We used to enjoy Pasta Louise, mainly because it's a menu that's easy with kids (think a more pretentious Olive Garden). The handmade pasta is fresh, the sauces, especially the salad dressings, are tasty. But the pasta usually seems to be overcooked, and the portions are small. But I don't think we'll be going anymore because the service staff are unwelcoming. I made 6:30 reservations to go on a dinner date with my 6-year-old and was made to wait close to 20 minutes with no explanation. During this time, the hostess' attitude was very off-putting, almost like she's doing me a favor by trying to get my reserved table ready, which alone made me consider leaving but I stayed for my hungry kid's sake. Finally when they said our table was ready, we walk back to the second room and see that at least 6 tables were unoccupied, cleaned and ready. Waiting at the door for 20 minutes, we did not see 6 tables worth of people leave (see picture!). I wouldn't be surprised if this review attracts a snarky response from the restaurant because when I asked about it, the attitude was defensive. The manager was not at all apologetic but he did tell me he wouldn't make us leave when our reservation time was up, as if that was a special favor he was doing for us. We left without eating and went to the nearby Crosta instead where we were met with the usual service with a smile and delicious food."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvLXVqS0hREAE",
+            "text": "They make fresh pasta everyday. We ordered oil pasta and tomato pasta and they were both so fresh and yummy. The owner and server were very welcoming too. Loved the whole experience. I definately wanna visit again!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBNVkzYzl3RRAB",
+            "text": "a deal breaker for me when dining out is the customer service. it determines my return or vow to never return all while spreading the good/bad gospel to those who care to listen.\n\nthe level of customer service I received last night was 10/10. from the awareness of the waitress/staff to the initiative taken from whom I believed to be the manager (Ellie). my friends and I left feeling considered and cared for. will def be visiting again soon.\n\n(desserts were Phenom btw)"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZNklfREdBEAE",
+            "text": "I’ve been a return customer for a while and I’ve always been a loyal fan, but today the waitress was kind of off/rude. (Stout woman with short brown hair) Also, our food took a long time to come out and the cacio was kinda too salty for my taste."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNydHJxcS1RRRAB",
+            "text": "Came here for dinner a little bit ago and loved literally everything we tried. The menu is pretty expansive so I definitely wanna go back to try more! If it's your first time in, definitely go with the fresh pasta - loved the spicy sauce with crispy prosciutto but heard the red pepper pesto and cacio e pepe are also wonderful. Honestly, I'm not sure you could go wrong with this menu - and the portion sizes are great. We sat outside on a lovely night but would love to sit inside next time just to assess the ambience more. That being said, loved the vibe and loved the neighborhood! For dessert, had the chocolate cake which was light and delicate and the banana bread with salted caramel ice cream - a great combo!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKXzZEU2hRRRAB",
+            "text": "Food was excellent! You can definitely taste that the pasta was freshly made. Our table ordered different dishes and was able to share with everyone on the table (of four). Parking can be a hassle, but if you come on the right time (6-7pm), you should be able to find one right away. The place is beautiful, also!\n\nHighly recommended place! If you love pasta, this is a place to definitely hit up! 😋\n\nJust a tip: Tuesdays is long pasta day."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNubFBiOHJ3RRAB",
+            "text": "Pasta Louise is absolutely spectacular ! Some of the friendliest service you’ll find in Brooklyn. We started with the seasonal focaccia board and it was fresh & flavorful. The Cacio e Pepe was delicious, and the pasta with meatballs was delicious x2 ! If you’re looking for a nice Sunday pasta dish this is the place."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREdEtIaG5RRRAB",
+            "text": "3.5 ⭐️\nThe decor is cute/ charming and service was really good. Unfortunately the food fell a bit short for us.\nThe meatballs with ricotta and focaccia was probably the best thing we had. The pesto with braised short ribs came a bit too salty to be really enjoyed, dad’s famous red pepper sauce had a thick Mac and cheese like consistency and taste to it (we also had shrimp added, and it didn’t seem like there was enough). The Lamb Sugo and Spicy Red Pesto were the most liked out of the four we had."
+        },
+        {
+            "date": "11달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQeTl6ZTdRRRAB",
+            "text": "當天是週六晚間前往\n沒有訂位直接walk in\n稍待片刻後有吧台 我們就直接入座\n\n前菜點了whipped ricotta toast\n溫和又口感綿密的起司\n搭配酥脆的吐司十分好吃\n主餐點了Cacio E Pepe\n義大利麵口感很有層次與彈性且吸附濃郁醬汁\n醬汁稠度剛好 有羊乳酪的濃郁與胡椒的香\n另外加了 crispy prosciutto 在裡面\n帶出肉香與酥脆口感\n不過會讓醬汁略微油膩\n\n另一道主餐是Bolognese Lasagna\n千層麵體搭配肉醬與起司 層層交錯\n肉醬香濃 起司微牽絲 整體融合\n又可以吃到每個層次該有的味道\n非常好吃\n主餐附上現刨起司可以現加在義大利麵上\n更添增整體奶香風味\n\n最後一道甜點 選了經典的提拉米蘇\n咖啡酒與蛋糕體融在一起\n中間夾著馬茲卡彭加上上層的巧克力粉\n整體甜度適中\n同行另一半吃了表示\n是他在紐約最喜歡的提拉米蘇"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6aHRiR3dnRRAB",
+            "text": "We were able to snag a spot at the bar for 2 people on a busy Saturday afternoon. The atmosphere is so cute and I love that the dining room doors open to the outside.\n\nI got the pasta rose spritz to drink and it was lovely but I was expecting it to be a bit sweeter. We ordered a Caesar salad and ragu special to share. The pasta was amazing and both plates were enough food to split (if you are not starving).\n\nThe check was so reasonable considering the quality of the food and our server/bartender was so kind and attentive. We had a great experience!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNad1B1RlFBEAE",
+            "text": "This place has evolved over the years and the pasta and variety on the menu are simply delicious.\n\nPasta is made fresh along with traditional add on and local in house specialties. I forgot the name of what we ordered, but the food was just as delicious as the pictures.\n\nKid friendly, whelk chair accessible and a neighborhood gem."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoMk9heGlRRRAB",
+            "text": "Wow! What an incredible place.\nMy wife and I took my dad out and each of us were thrilled at the product.\nThe idea is simple, they have a pasta of the day and you select the sauce.\nThe one with the mushrooms was incredible. We were all jealous of my dad for ordering it. The faster with a vodka sauce was also perfect.\nEven the olives were really good. Worth the extra price.\nWe’ll be back again soon."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJdU1tSC1nRRAB",
+            "text": "Topped off the best day of my life with pasta Louise with my besties a couple years ago and have returned for every special occasion (when in town) since. Always a great time, great food, great vibes."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlMTZYRW5BRRAB",
+            "text": "So happy with this dinner! The vibes were cute, place was super clean and the staff was very attentive and helpful. They do one shape per day and you pick your sauce and additions. Genius. Recommend getting the whipped ricotta on your pasta. It’s so delicious."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3MmR1STFBRRAB",
+            "text": "Pasta Louise is packed on a Friday night and rightfully so.  The food is really good.  You cannot go wrong with the bread platter. Who doesn't love bread?! We both chose Dad's Famous Red Pepper Sauce.  I decided to add shrimp. Add parm. It was really good.  I tried not to eat the entire plate!!! Drank a glass of rose.  Just perfect!!! The waiter was knowledgeable and helpful! My wait was around 15 mins. Service was good."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VNUDE4N0hYMU12ZlVBEAE",
+            "text": "USED to be amazing. I’ve been coming here since 2020. My friends and I loved a Pasta Louise night, always leaving with a well satisfied feeling. But the last several times I’ve gone there’s been a distinct change. The servers have dropped in attentiveness, neglecting to share the pasta shape or specials unless prompted. We’re left alone for around 40 minutes to an hour after the main course, unable to get a refill or check unless we directly flag them down. And while the appetizers and cocktails remain top tier, the pasta dishes have become lackluster and…watery. And I used to drool with anticipation for the main course. My guess is they’ve stretched themselves too thin with the addition of Bar Louise.\n\nLastly- sound absorption. They need it. Every surface in there is hard, creating a din of noise that has you almost shouting to be heard across the table. I hope they can course correct, I’d hate to stop going to a place that has become such a staple for me."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2LW92Vm5BRRAB",
+            "text": "It was cozy and delightful! Great service and amazing food. We plan to come back! We had the pasta shape of the day (cresta de gallo) with meatballs and also short rib ragú. We also got the focaccia sampler and the seasonal french onion focaccia was AMAZING. We hope they make it permanent :) Overall a great cozy spot for a date or intimate dinner if you’re craving pasta and good Italian."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuc183S05BEAE",
+            "text": "Quick dinner after a movie on a weeknight. The place is lovely, great vibes and amazing service. Thanks for the hospitality! The seasonal focaccia was amazing, super light and fluffy! The burrata was also very good but maybe a bit overwhelmed with olive paste. We ordered some cacio e pepe with spicy prosciutto and the dish was very salty and flavours were very strong overall was it was a bit too much. The ceasar salad was good, nice dressing. Would love to come back to try their lasagna and other pasta sauces!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKOVB6b2FREAE",
+            "text": "The food was really good! Everybody was very happy with what they order. I had pasta limone, Mac and cheese and tiramisu (which it was super delicious the best one I had in a long time). I like the decor, the space is big and our waitress was super friendly! Can’t wait to come back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMc3EydXJnRRAB",
+            "text": "Delicious and fresh pasta! The brisket and caramelized onion pasta was so creamy and filling. I love that they make different types of hand rolled fresh pasta everyday, it adds to the excitement of visiting this restaurant!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYcTR2emtRRRAB",
+            "text": "Decent pasta, but only one shape per day and sometimes not the best shape for the sauce you want. The cacio pepe is the top seller and it's fine but not out of this world. The crispy spicy Prosciutto is  cubed too thick and very hard, and too spicy, there was so much red oil from it the pasta was impacted, recommend not adding the Prosciutto.\nRed pesto is decent. Plain red sauce with meatballs was sweet and the best of all I tried."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPNll1aEx3EAE",
+            "text": "“Mangia” means “eat” in Italian, and at Pasta Louise you do just that to your heart’s content. From the atmosphere, to our waitress, to the appetizers and main dishes; everything was a delight. Louise’s Charcuterie Plate had a good variety of cured meats, cheeses, and honey drizzled raisins. It was a tasty, traditional Italian starter. The Local Burrata with Summer Melon was refreshing in all aspects—from plating to taste, as was the Summer Tomato Salad. As far as pasta, I debated between the lasagna and the Wild Mushroom and Fresh Herb Sauce paired with the pasta of the day, “radiatori.” I opted for the latter and was not disappointed. The sauce was not too creamy, or overly heavy as cream sauce typically makes me feel. The pasta was also cooked to perfection. I added breadcrumbs, but honestly the dish could’ve done without it. Pasta with Roasted Tomato Sauce, and Cacio e Pepe were also ordered and good options but my favorite was the wild mushroom sauce.\n\nI’ve been to the original “cafe” location a few times, but this new location is so charming (especially with the floral decor) and much more spacious. Very family friendly and a wonderful go-to for Italian."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSOHIzcVpBEAE",
+            "text": "Run!! Run here now!!\nSeriously the pasta, vibes and staff are all so amazing here. Everything is so so fresh and flavorful. We got the special pesto short rib and it was one of the…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURodE83OHNnRRAB",
+            "text": "Perfect spot to refuel after ice skating in the park. The whipped ricotta toast was stellar (the drizzle of fennel oil really took this to the next level) and the fresh pasta hit the spot. The tomato sauce was definitely my favorite of the two, but I don't think you can go wrong with anything on the menu."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VOV0o5ZWZWanZyUnlBRRAB",
+            "text": "Pasta Louise is the quintessential neighborhood gem.   Delicious and eclectic food perfectly complimented by a generous selection of cocktails,  wine and impeccable service.  A perfect moment for brunch with friends, a date or a full on family get together.  The entire staff strives to make it a perfect experience and if you are lucky enough to be seated in Marcus' section you are in for a true treat!!"
+        }
+    ],
+    "reviews_count": 84
+}

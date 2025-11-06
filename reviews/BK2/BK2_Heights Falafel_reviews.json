@@ -1,0 +1,586 @@
+{
+    "name": "Heights Falafel",
+    "place_id": "ChIJxTLeuTdawokRtU1jFLvi9hg",
+    "grid": "BK2",
+    "address": "78 Henry St, Brooklyn, NY 11201, USA",
+    "rating": 4.7,
+    "user_ratings_total": 904,
+    "phone_number": "(718) 488-0808",
+    "reviews": [
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ob01sSjNZVWhwYjNkYWRqbGpNbmwxWmpGR2FuYxAB",
+            "text": "absolute gem of a spot. can’t believe i just discovered this place, u cant really find a good falafel sandwich for this price point anymore!! Will be a regular here and you can count on that!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wRU1tOXhORmhuZFdvelNHUllkMFJQV1dJek0xRRAB",
+            "text": "This restaurant deserves more praise than I can give. Their staff combined kindness with welcoming attitudes. This place uses visuals to create atmosphere. The dishes satisfied us yet weren't the finest we've encountered. Superior in all aspects."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25remEyc3hNVE5tVkV4Q2FVSXlTM1ZMVlRFM1RHYxAB",
+            "text": "I was allowed to mix chicken shawarma with a few pieces of falafel (2) as I wanted to try both. Both were alright, the rice has a citrus note to it and the white sauce and hot sauce helped with the chicken a little. The hummus has a pleasant nutty taste and I ended the meal with the baklava that was not too sweet. Paid around 15 including tax. Its different from the Halal carts I have eaten at (Mido's, Adel's Famous Halal Food, Habibi's Halal Food) and the kind man answered all the questions I had."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsaTlIbUp3EAE",
+            "text": "I always love this place! The owner is such a kind man. Falafel specials a must to try. Highly recommended!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paMllVUjFSRjltZEhJdGJreG5UakpqYkhKRVVsRRAB",
+            "text": "I saw a cockroach in my food🤢"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjMVRWOUZkR1pXVkVsbFkzaFpkMFUyT0VSWVNsRRAB",
+            "text": "My expectations were higher given the high ratings of the restaurant. We bought two platters, no sauce. Rice was tasteless. I wish they had regular white sauce, not tahini. Without sauce, the chicken was underwhelming. I was not impressed with humus either. We could not finds our platters. Overall, the food was disappointing. The person who made the food was friendly."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnd2FGSXRTamhLZWtwaloyYzBaMkp4Tm1sTVNWRRAB",
+            "text": "Very big, very good and very fun people."
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkV056SXdhbXROT1RoMlNHdEJjM3AzWDNSME1VRRAB",
+            "text": "Muy rico y buen precio. El mejor falafel que comí fuera de Israel. Recomendando 100%. Hay algunas mesas para sentarse a comer pero no es muy grande el lugar. La atención no fue mala pero tampoco fueron muy amables."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBNE5uQXdTa05mVkVsMVdrMXpjR2hETFRnd2FFRRAB",
+            "text": "I got the grape leaves, 6 for $3! So good and exactly how I wanted it."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paelRFdFpkbkV5WkRGUWR6RTJORU4wUmxaTlJrRRAB",
+            "text": "Very reasonably priced and tasty, superb value in New York.\nStaff were also very friendly, I left my bag behind and they kept it for me, didn’t touch a thing even though I’d accidentally left it open!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xseGExOVRkVEZDWldVeE4xTmxRVFZxWVVWNWFVRRAB",
+            "text": "Great local spot. Delicious food. Friendly staff."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOV2JVTjFTbEpIYUU5YVoxZ3dhbGR1VlRFd2RXYxAB",
+            "text": "Best Shawarma I’ve ever had!! Super recommend it! Staff super nice also! Will definitely be back soon!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wblJqaFhkVU5tWlhoaWRtWklhVXRZVUROU1ZIYxAB",
+            "text": "The best shawarma we’ve ever had! Amazing food, service and fair prices!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5dmVuVktTbWhrY25sUWNXUnJOWGRCV1VWM1VrRRAB",
+            "text": "Best Mediterranean food in the neighborhood. Higher quality than a cart, everything is made fresh, so flavorful and you truly can’t beat the price. Highly recommend this place!\n\nThe service is great too. Been here a few times and the staff is always friendly!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZelFVcHBNRmxqVG5WVFFWSnljRTFmU2twellVRRAB",
+            "text": "Great stop for falafel and the prices are really good."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psdmREYzRTMkZuZFhaR1VGVlhNVXhOZUZWTE1tYxAB",
+            "text": "Very tasty and price so low that I still can't believe it"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204d04xaHNUbEpyYjJ0UWJFczJlVEpOWkdOdVJtYxAB",
+            "text": "Just ate here for the first time and left earth\n\nAte the falafel sandwich and split a baklava.\nAwesome acidity in the tomatoes in the falafel sandwich, baklava delicious. What else is there to say?"
+        },
+        {
+            "date": "1달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwb1VucGlXRXhSU2xFNU5YZFNjalZKUXpWZlYzYxAB",
+            "text": "Serveurs agréable, prix très correct et le toit était très bon (falafel, hommous et \"backlawa\""
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jd1EyUjNPVlJQVHpNMVluZFBkM1owWWpKV1JrRRAB",
+            "text": "Great falafel!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZMGNEUnJPREpPVEdwNlExWkRjMlZ3UjAxYU5sRRAB",
+            "text": "Great $8 falafel sandwich! I’m pretty sure it’s cash only."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kb1FYaFNNVWsyT1RKMGFFTnRVa2MxTldwQmVYYxAB",
+            "text": "take out is what we did.  delicious falafel.   wonderful place to stop in and grab and go to the park."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWlV6Qk1kR2RTYzJGZldtOTRURTFaV1dVdFNuYxAB",
+            "text": "The best shawarma in the world ❤️❤️❤️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxTU9ERjFWVzVmVldWbWJuWllXa1pUTVZwUk9HYxAB",
+            "text": "Great falafel, unbeatable price"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCZlpHVk5TSFpEVjBvMGNtMUNka1JhVkVKMlRrRRAB",
+            "text": "Ordered the falafel special sandwich which had hummus, tabouli, lettuce, tomato and tahini and 3 large balls.  Also had a side of lentil soup.  Service was fast, food was super cheap and so delicious!  Also ordered a baklava to go which was also amazing!  Highly recommend!   Super friendly too!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWNFgwWjRTell3UjAxeVIzbGpjbGg2VEVneWFYYxAB",
+            "text": "Grabbed a huge, tasty falafel sandwich special with giant dollops of hummus, baba ganoush and tabouli to take down to the Brooklyn Heights Promenade. I've never been accused of being a lightweight eater, but man, that sandwich filled me up! At $7.50 it's a fantastic bargain."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oVlZHaHplWGd3VjFob2IwVkxaamd4YmpaMVRGRRAB",
+            "text": "Ive been coming here for 10 years and it has been consistently good. The price is amazing as well."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OeUxXY3dlRmhEZFU4NFFVVkpTRFJIYzFkRVgwRRAB",
+            "text": "We had the most amazing experience here. The staff were extremely warm and friendly and the food was incredible, especially the falafal. Would 100% recommend to anyone"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOSmNtZGFiMnBRU1ZkbWIwWnhTREozYms5bGFYYxAB",
+            "text": "‏Jamal and\nLotfi so nice, the falafel really good and they gave us extra, the vibe is warm and homey and the prices are great!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOMlgzaGZlV2xtVTI0MVIyZDFiVWw1WTJvemRGRRAB",
+            "text": "This place everything you would want in a local neighborhood joint: good prices, good food and a super friendly and personable owner. It’s small but full of hospitality. Protect this place at all costs!! It makes ny feel like ny"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25abGVsbzViWE5TVldNdGJ6WXlNa2xmTkdORFZGRRAB",
+            "text": "Riquísimo. Precioso muy accesible. Para comer todas las semanas. Es hermoso con este clima comer en la mesa de la vereda."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJM2MySkhTbVJKYjNWSWRGSjBOWGgyUlVOalNtYxAB",
+            "text": "I was craving for some good falafels for a while and when I came to Brooklyn I found this place that is famous for their falafels! I ordered the falafel combo plate,  babaghanouj and baklava to share with my sister, turns out all the food are really nice, and they indeed have the best falafels in Brooklyn. I highly recommend you guys come check this place out if you happen to visit the DUMBO area."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GU1RuTTVZbWcyTUZobFh6RlZjWGRqVmtGbU1HYxAB",
+            "text": "So cheap for best falafel I’ve ever had. Sweet service and nice tables outside. yummmmmm"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aVVZHeFphbmRGZFRNMmFuUnFZWE16UlhoVlVIYxAB",
+            "text": "walked past this place and saw people eating here, came back three hours later. jamal is the kindest most precious human, i’m going to miss him when he goes to tunisia in a few weeks. do not miss this spot."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21STlpHTk1ObXhtU1cwNVQxVlVRM1JJWkhocWFuYxAB",
+            "text": "Food is always Amazing!! Ingredients are fresh, and flavors are on point. I never get tired of their food."
+        },
+        {
+            "date": "3달 전",
+            "language": "ar",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMk9EUlNibWt0Um5kamFrWm9VMFp3WlVOMlZuYxAB",
+            "text": "مشاء الله عل الكاكاو"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sUWIzcHVUR1Z1ZVZJMFZXd3RPRWhrYUVSU2VIYxAB",
+            "text": "Incredible food at affordable prices!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWWF6aHJiVWt6WVdwNExXbFhaSEJwV0RrNWVtYxAB",
+            "text": "Food was amazing especially after our long day, staff was quick and helpful, and oh my god the falafel was to die for. Definitely stop by the next time you're in DUMBO!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKU2VIcEhXV1JJVTNaU1NHcE1TRkJMUW5Gck0yYxAB",
+            "text": "Just love it here"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210V1YzTk1WVFpFWlV0bmR6Qk9SV05pTTJoa1dFRRAB",
+            "text": "Great falafel and service 👏…"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSclpUWjRMVzV2UkMxbGJTMVRlRlpDY1ROU2VWRRAB",
+            "text": "Great spot in a crowded neighborhood filled with bougie restaurants. Got the chicken shawarma sandwich, which was easy to grab and take on a stroll to Brooklyn Bridge Park. I'm not crazy about Mediterranean food, but this was very enjoyable."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWk5FSlFVWGRTVkd4VlMxQjRVV2R1YkVneExVRRAB",
+            "text": "Really good food according to the price❤️"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21STU0wSkViVVZXUm1NMmMzbFdNR1JZUW1KM2FIYxAB",
+            "text": "One of the best Shawrmas in NYC. The falafel is also great. Loved the place and would always stop there for a bite"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzNDVmREZBEAE",
+            "text": "Wow very Tasty\nAbsolutely the best"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjek1qRjFhMlptZUZsRVZHeEVZVEJoVDFGeVRuYxAB",
+            "text": "Lucky me! Walked in on a whim and had the best falafel platter and a great conversation with the owner. It is as if the warmth of the owner directly translates into yummy falafels!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZM1kwMXdkak5IZWpOcU1GWXRRMFY0Y3kxeFVYYxAB",
+            "text": "One of the few places left in BK where you can get great food at an affordable price. A must for tourists and locals alike. I always have the falafel sandwich!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUGRXOTBMVlpIYVMwd05tbHdlRjg1YzJ0cFVYYxAB",
+            "text": "Phenomenal food. Absolutely recommend this spot. One plate is enough for two and for a very great price!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twak1WTlViUzA1U2tkUFVGTkVOVVZZUVhsbWRXYxAB",
+            "text": "Top top delicious and tasty"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVeVEzQjZNVEl4WVdOM2VYbFZjMjFDT0VRd1pXYxAB",
+            "text": "One of the best falafel I had in the city !"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTE1rdDJVVWhZVDFCTWFsSm9kM3BNTTJ0WVRYYxAB",
+            "text": "best falafel sandwich i’ve had in new york and it was SIX DOLLARS. moist and saucy, good pita. i’m more than impressed, im floored. had to try the baclava. juicy and so good. then the owner Jamal came over to talk to us for 5 minutes about his time running a restaurant in paris. he’s a hilarious guy. i have a new favorite place."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sa1lXMUVVVmx3UlZWNVdsQlZTak00ZW1oSlEwRRAB",
+            "text": "One of the best falafel sandwiches in Brooklyn. Pocket friendly and foods have homemade taste. Loved it :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWb19lOTN3RRAB",
+            "text": "여기 진짜 맛있어요. 화장실이 없는 게 좀 아쉬운 점."
+        },
+        {
+            "date": "4달 전",
+            "language": "uk",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsbFdHTnZUV2g0UnkxQmRFVmhSMHRDVms1UU5rRRAB",
+            "text": "I've been to this place more than once, the falafel is delicious and inexpensive.\nbut today I got some pebbles in my dish and almost broke my tooth :(\n\nБув в цьому закладі не один раз, фалафель смачний та недорогий.\nАле сьогодні мені в моїй страві попалися камінці та ледь не зламав собі зуба :("
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKalVtTFhfMjRTUXhRRRAB",
+            "text": "The food here is so good. Their prices are unbeatable these days. I got the chicken and my dad got the falafel. We added baba ganoush to both.\n\nThe food took a bit to finish but it's because they make it all to order. Seriously, come support this business. The food is unbeatable and the staff are always friendly and ready to serve."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzaC0zcHRnRRAB",
+            "text": "A hidden gem in Brooklyn heights. I was pleasantly surprised to find this small, mom and Pop restaurant, but was even more surprised with how delicious the food was. It was just one person behind the counter and the prices were very affordable.\n\nThe food was well seasoned, delicious, and had the home cooked feeling. The lentil soup was delicious as well as the hummus. But the falafel‘s were amazing. I’ve honestly never had such good falafel: moist, but crunchy and flakey. Perfectly salted. You didn’t need to eat it with anything. Well executed.\n\nI definitely recommend this place to all and will be back here soon."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GZmVISXRibUpSWkVseVFuZzVWbTFSVkU1NVpIYxAB",
+            "text": "MY DEAR GOD!!! I was walking by the neighborhood and I found this place because I want a quick snack and OMG DELICIOUS SPECTACULAR THE PRICE IS GREAT THE QUALITY. I CANNOT EXPLAIN HOW DELICIOUS THIS WAS FOR ME."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3OGZxS3JnRRAB",
+            "text": "A charming, family-owned spot with delicious food at great prices. The falafel is fresh and absolutely amazing—definitely a must-try!"
+        },
+        {
+            "date": "11달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQMmIzUzBBRRAB",
+            "text": "Incroyable ! Nourriture excellente, quantité généreuse, intérieure cosy. Les prix sont très raisonnables. Le gérant Jamel parle français et n’hésite pas à donner de bons conseils sur la ville.\nJe recommande ++"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3dFAyc0tBEAE",
+            "text": "Absolutely delicious, very friendly staff/owner(?) and very respectable price.\n\nLamb/beef kofta was the right kind of flavorful, side salad was fresh, rice was delightful and fluffy and the babaganoush was top tier. Lickable\n\nNew favorite spot near my pickleball hideaway 🙏🏾"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VOSy0wcjcxdXBpaW9BRRAB",
+            "text": "Charming place with friendly staff, decent food though lacking some taste in the lamb"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxN0k3TXFnRRAB",
+            "text": "Very good food with cozy environment. Halal delicious gyro with variety of food at very cheap price. Desserts are also really great and very much recommended! The owner is a very nice person with really humble attitude. The food was fresh and very flavorful. Had their chicken shwarama sandwich and baklava! Very tasteful."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRajliNVdBEAE",
+            "text": "If you are looking for a restaurant with three Michelin stars and upscale wine list and dining experience this is not your place. However, if you forego the pretense and unnecessary snooty ambiance found in high-end restaurants and are looking for authentic home cooked Mediterranean Kafta and Schwarma with simple yet delicious savory salads then come here!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5NTdLWGJBEAE",
+            "text": "The greatest of the great - for $5.05 and in 50 seconds flat, you can get the best falafel pita sandwich of your life, packed with incredible baba ganoush and hummus. This is what Brooklyn used to be and, thank goodness, this one spot hasn’t changed for decades. The baklava is also outstanding.\n\n5 stars!!!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3dUpIWmlBRRAB",
+            "text": "Très bon restaurant. Nous sommes venus ici par hasard en voulant manger quelque chose de sain et c'était délicieux ! Le personnel est très agréable en plus. Je recommande !"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQbm9xWTdHc29mX1ZREAE",
+            "text": "Best falafel EVER! I had the Falafel plate and it was incredible! Definitely recommend this restaurant! Nice atmosphere as well!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6XzQ3Q0ZBEAE",
+            "text": "First time coming here and I can tell you that the food is well seasoned. The rice is well cooked. The salad is fresh and the hummus flavorful. Definitely worth a trip for lunch."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREMjRPcXZ3RRAB",
+            "text": "The best falafel in town and you know the owner is proud of their food. I hope they lift the price a bit tho, just to earn the money they deserve for serving such amazing food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMeF9LLVJ3EAE",
+            "text": "Chicken shawarma plate was delicious! We asked for a side of pita bread. My friend and I came a little before closing and the owner was an absolute sweetheart making friendly conversation and joking around with us. He gave us a piece of the baklava and falafel to try - the baklava wasn’t too sweet which I liked and the falafel was also yummy and had a nice crunch on the outside and soft inside. Definitely want to try the falafel sandwich next time!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNYlQ2OU9KdEpmbEd3EAE",
+            "text": "I stumbled in here at 11pm one night and the man behind the counter said they were closed but if i wanted drunk eats he could whip something together for me and i wouldnt regret it. My friend and I had no idea how lucky we were because when we got home and started eating we were speechless. Best falafel I have ever had in my whole life and Jamel is the MAN! Great guy, great food, great value. 10/10!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnMmFxM2FBEAE",
+            "text": "It was amazing mixed sandwiches with falafel and beef! I’ll come back to try the whole menu. So delicious food, fresh vegetables and tasty sause 🤌🏻"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMRFp2SUxtMzZHVjNnRRAB",
+            "text": "The owner here is especially passionate and frankly proud of this restaurant. Good quality, high quantity, low prices. One of the best falafel restaurants in Brooklyn that has withstood the time since 1999s. He's not here to make money but to serve the community. God bless you."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUclpQYld3EAE",
+            "text": "I am not sure why 4.6 rating. It was just an average falafel place. Instead of Harrisa they added regular hot sauce. Salad was bland. Service was horrible. Skip it"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQQ0swZW5GOXU2b1lnEAE",
+            "text": "We are in NYC for the weekend and thought we would try this restaurant. We are very happy we did. Everything was excellent. All of the ingredients are fresh, healthy , and delicious. The restaurant employees are friendly and accommodating. Heights Falafel in Brooklyn, NY, is highly recommended!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1M3VIQWZ3EAE",
+            "text": "If you’re looking for a food spot after a walk on the Brooklyn Bridge this is your spot. It’s a hole in the wall restaurant and the food is delicious. The food has rich flavor and the food is made to order. I definitely recommend the hummus."
+        },
+        {
+            "date": "1년 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURsMzliY1VREAE",
+            "text": "Wir haben uns für einen Lunch im Heights Falafel entschieden aufgrund der guten Bewertungen und der Essenrichtung. Wir können nur empfehlen hier mal essen zu gehen. Wir hatten Chicken Shawarma Sandwiches und einen griechischen Salat. Beides war lecker, genug um satt zu werden und preislich absolut in Ordnung. Der Chef ist ein ganz netter und lustiger Kerl. Also absolute Empfehlung für ein frisches, sättigendes und leckeres Essen in Brooklyn\n👍🏼"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twaWFWZFpWR3hDV2t3ek5YTnFVVTlqZEZadVgxRRAB",
+            "text": "this place rocks! i had a chicken shawarma pita, a complementary bowl of rice pudding, and a DELIGHTFULLY candid conversation with the owner. he’s a hoot and makes some damn good food."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2ejhmMTNBRRAB",
+            "text": "Me and the wife came to visit nyc just sightseeing and the usual toursit activities but this food is 10x better than what they have in Manhattan and for half the price. The owner said he's been here 25 years, I hope he makes it another 25."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJejdqUkNnEAE",
+            "text": "My friends and I always come to enjoy the rice pudding it's light and refreshing for anytime of the year 👍👍👍\n\nJamel is also the sweetest guy ever, he always knows how to make your day brighter"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvbHZxOXZnRRAB",
+            "text": "This place is incredible!! The food is insanely good, and the portions are very large at low prices. Though it's a small space, it has a positive atmosphere because everyone is eating or about to eat good food. I wish I lived closer so I could go all the time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGdGQ3MFVBEAE",
+            "text": "Very affordable and delicious chicken shawarma plate. This unassuming place serves some of the tastiest shawarma in the city.\n\nPro tip: The plate, while delicious, was so much food! I couldn't finish the whole thing. Next time, I'll likely opt for the sandwich."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEcFlPQ0NBEAE",
+            "text": "I have eaten alot of falafel, shawarma, and other sorts of middle eastern cuisine. This is THE BEST falafel ive had in my life. Literally everything here was great. I had the baklava aswell, it was also the best I've ever had. This is a must visit for anyone in town"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2Mjg2Z0lBEAE",
+            "text": "A friend introduced me to these falafels & I couldn't get them out of my head, so I made my way over after work today. Walking in, the delicious smells of falafel immediately hit me. Jamel was friendly and helpful and even gave me a free slice of baklava! I will definitely be back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5ck1taVBBEAE",
+            "text": "Delicious and cheap Mediterranean food! Got a falafel sandwich for $5.55.  The falafel sandwich had lettuce and a tomato herb mixture plus sauces. The falafel was good.  I would definitely recommend grabbing a sandwich from here to enjoy, you won't regret it!"
+        }
+    ],
+    "reviews_count": 82
+}
